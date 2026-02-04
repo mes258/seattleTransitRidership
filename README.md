@@ -23,7 +23,9 @@ Internal TODOs:
 - Function to remove stored plots and route data when needed
 
 ## Running the project locally
-1. Install the packages listed in backend/requirements.txt. 
+1. Create a virtual environment: `pip3 install virtualenv` then `cd backend` then `virtualenv venv`
+2. Activate the virtual env: `source venv/bin/activate`
+3. Install the packages listed in backend/requirements.txt: `pip install -r requirements.txt`
 2. Navigate to the Backend folder and run: `uvicorn app.app:app --reload`
 3. Open your browser to: `http://127.0.0.1:8000/`
 
