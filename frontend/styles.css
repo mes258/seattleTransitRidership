@@ -1,0 +1,55 @@
+.topnav {
+  /* background-color: #1e55ac; */
+  background-color: #006600;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: #1e55ac;
+}
+
+.topnav a.active {
+  background-color: #0000FF;
+  color: white;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+.controls {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+select, button {
+  padding: 6px 10px;
+  font-size: 14px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.chart {
+  width: 100%;
+  height: 800px;
+}
+
+.about {
+  margin: auto;
+  width: 50%;
+}

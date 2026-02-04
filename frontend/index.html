@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Seattle Transit Ridership</title>
+  <script src="https://cdn.plot.ly/plotly-2.30.0.min.js"></script>
+  <link rel="stylesheet" href="/frontend/styles.css">
+</head>
+<body>
+
+  <div class="topnav">
+    <a class="active" href="/frontend/index.html">Seattle Transit Ridership</a>
+    <a href="/frontend/about.html">About</a>
+    <a href="https://seattletransitblog.com/2025/11/03/route-ridership-index/">Ridership Patterns Index</a>
+  </div> 
+
+  <h2>Use the dropdown menus to select a route.</h2>
+
+  <div class="controls">
+    <select id="agencySelect">
+      <option value="">Select agency…</option>
+    </select>
+
+    <select id="routeSelect" disabled>
+      <option value="">Select route…</option>
+    </select>
+
+    <select id="serviceChangeSelect" disabled>
+      <option value="">Select service change…</option>
+    </select>
+
+    <button id="submitBtn" disabled>
+      Load charts
+    </button>
+  </div>
+
+  <div id="routeData"></div>
+
+  <div id="tripChart" class="chart"></div>
+  <div id="dailyChart" class="chart"></div>
+
+  <script src="/frontend/app.js"></script>
+</body>
+</html>

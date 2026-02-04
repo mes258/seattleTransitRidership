@@ -1,0 +1,139 @@
+const agencyMapping = {
+  "kcm": 'King County Metro',
+  "st": 'Sound Transit',
+  "ct": 'Community Transit'
+}
+
+const routeMapping = {
+  "671": 'A Line',
+  "672": 'B Line',
+  "673": 'C Line',
+  "674": 'D Line',
+  "675": 'E Line',
+  "676": 'F Line',
+  "677": 'G Line',
+  "678": 'H Line'
+};
+
+const serviceChangeMapping = {
+  "241": "Spring 2024",
+  "243": 'Fall 2024'
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  var agencySelect = document.getElementById("agencySelect");
+  var routeSelect = document.getElementById("routeSelect");
+  var serviceChangeSelect = document.getElementById("serviceChangeSelect");
+  var submitBtn = document.getElementById("submitBtn");
+
+  var tripChartDiv = document.getElementById("tripChart");
+  var dailyChartDiv = document.getElementById("dailyChart");
+
+  var routeDataDiv = document.getElementById("routeData");
+
+  function clearSelect(select, placeholder) {
+    select.innerHTML = `<option value="">${placeholder}</option>`;
+    select.disabled = true;
+  }
+
+  function populateSelect(select, values, placeholder, mapping) {
+    clearSelect(select, placeholder);
+    values.forEach(v => {
+      console.log(typeof v)
+      textValue = v
+      if (mapping[v] != undefined){
+        textValue =  mapping[v]
+      }
+      console.log(textValue)
+
+      const opt = document.createElement("option");
+      opt.value = v;
+      opt.textContent = textValue;
+      select.appendChild(opt);
+    });
+    select.disabled = false;
+  }
+
+  fetch("/api/agencies")
+    .then(res => res.json())
+    .then(agencies => {
+      console.log(agencies)
+      populateSelect(agencySelect, agencies, "Select agency…", agencyMapping);
+    });
+
+  agencySelect.addEventListener("change", () => {
+    const agency = agencySelect.value;
+
+    clearSelect(routeSelect, "Select route…");
+    clearSelect(serviceChangeSelect, "Select service change…");
+    submitBtn.disabled = true;
+
+    if (!agency) return;
+
+    fetch(`/api/agencies/${agency}/routes`)
+      .then(res => res.json())
+      .then(routes => {
+        console.log(routes)
+        populateSelect(routeSelect, routes, "Select route…", routeMapping);
+      });
+  });
+
+  routeSelect.addEventListener("change", () => {
+    const agency = agencySelect.value;
+    const route = routeSelect.value;
+
+    clearSelect(serviceChangeSelect, "Select service change…",);
+    submitBtn.disabled = true;
+
+    if (!route) return;
+
+    fetch(`/api/agencies/${agency}/routes/${route}/serviceChanges`)
+      .then(res => res.json())
+      .then(serviceChanges => {
+        populateSelect(serviceChangeSelect, serviceChanges, "Select service change…", serviceChangeMapping);
+      });
+  });
+
+  serviceChangeSelect.addEventListener("change", () => {
+    submitBtn.disabled = !serviceChangeSelect.value;
+  });
+
+  submitBtn.addEventListener("click", () => {
+    const agency = agencySelect.value;
+    const route = routeSelect.value;
+    const serviceChange = serviceChangeSelect.value;
+
+    submitBtn.disabled = true;
+    // Fix the issues ehre. 
+    fetch(`/api/ridershipCharts?agency=${agency}&route=${route}&serviceChange=${serviceChange}`)
+      .then(res => res.json())
+      .then(data => {
+
+        Plotly.react(
+          tripChartDiv,
+          data.tripPlotJson.data,
+          data.tripPlotJson.layout
+        );
+
+        Plotly.react(
+          dailyChartDiv,
+          data.dailyPlotJson.data,
+          data.dailyPlotJson.layout
+        );
+
+        // Update route data
+        var routeData = data.routeDataJson
+        console.log(routeData)
+        routeDataDiv.innerHTML = `<p>In ${serviceChangeMapping[serviceChange]}, ${agencyMapping[agency]} ${routeData["routeName"]} had about ${routeData["avgWeekdayRidership"].toLocaleString("en-US")} average weekday passengers.</p>`
+        if(routeData["scheduleUrl"] != ""){
+          routeDataDiv.innerHTML += `<p><a href="${routeData["scheduleUrl"]}">${routeData["routeName"]} schedule and map, from Metro</a></p>`
+        }
+        if(routeData["stbUrl"] != ""){
+          routeDataDiv.innerHTML += `<p><a href="${routeData["stbUrl"]}">Seattle Transit Blog article on ${routeData["routeName"]} Ridership Patterns</a></p>`
+        }
+      })
+      .finally(() => {
+        submitBtn.disabled = false;
+      });
+  });
+});

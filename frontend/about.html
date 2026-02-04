@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About Seattle Transit Ridership</title>
+  <script src="https://cdn.plot.ly/plotly-2.30.0.min.js"></script>
+  <link rel="stylesheet" href="/frontend/styles.css">
+</head>
+<body>
+
+  <div class="topnav">
+    <a href="/frontend/index.html">Seattle Transit Ridership</a>
+    <a class="active" href="/frontend/about.html">About</a>
+    <a href="https://seattletransitblog.com/2025/11/03/route-ridership-index/">Ridership Patterns Index</a>
+  </div> 
+  <div class="about">
+  <h1> About Seattle Transit Ridership</h1>
+  <p>
+    Seattle Transit Ridership is a tool for learning how transit routes in Puget Sound are used. Since 2024, Seattle Transit Blog 
+    has shared a detailed look into the ridership patterns of various King County Metro, Sound Transit, and Community Transit 
+    routes. While the Blog will continue to publish these articles, we cannot cover every route. Seattle Transit
+    Ridership will share the detailed data for all routes available. 
+  </p>
+  <h2>
+    How to Read the Plots
+  </h2>
+  <p>
+    Stops are listed on the left axis; passenger counts along the bottom. For each color-coded time period, the bars represent how 
+    many people got on or off the bus at each stop. Centered on zero, the right-hand bar shows boardings as positive passenger count 
+    and the left-hand bar shows de-boardings as negative passenger count. The dots represent how people were on the bus when it 
+    departed the stop. From this data, we can see where along the route the bus is busiest, where riders are mostly getting on or off, 
+    and where most riders are simply passing through.
+  <br><br>
+    Each plot will have up to 5 values per stop, one per time of day: morning (“AM”; 5am to 9am), midday (“MID”; 9am to 3pm), 
+    evening (“PM”, 3pm to 7pm), late evening (“XEV”; 7pm to 10pm), and overnight (“XNT”; 10pm to 5am). Some stops will not have data 
+    for all time periods. This can occur when a route only runs during peak hours or if the route uses slightly modified paths based 
+    on time of day.
+  <br><br>
+    The data are split into “inbound” and “outbound” directions. This is a direction value determined by the agency. For most routes, inbound 
+    trips travel towards the primary destination (eg: downtown Seattle or UW). In the plots shared for each route, inbound trips travel 
+    from top to bottom, while outbound trips travel from bottom to top. 
+  <br><br>
+    The charts displayed for each route are interactive. Simply hover the cursor over a part of the graph to see the specific value. If the
+    lines are too small to read, click and drag over a second of the plot to zoom in. The graphing library, Plotly, offers additional tools
+    in the top right corner of each chart.
+  </p>
+  <h2>FAQ</h2>
+  <h3>
+    What agencies or routes are supported?
+  </h3>
+  <p>
+    Initially, most King County Metro and some Sound Transit routes will be supported. We are working to add support for other 
+    transit agencies in Puget Sound over the next few months. Detailed ridership data are not collected for some King County Metro so Seattle
+    Transit Ridership cannot share data for those routes. 
+  </p>
+  <h3>
+    What is a service change?
+  </h3>
+  <p>
+    A service change is the period of time between changes in a transit agency's network. King County Metro typically has three service
+    changes per year. Their Spring service change is between March and June, the Summer service change is between June and September,
+    and the Fall service change is between September and the following March. The agency may add, remove, or revise routes between
+    service changes. Information on Metro's current service change is available <a href="https://kingcounty.gov/en/dept/metro/routes-and-service/service-change">here.</a>
+  </p>
+  
+       
+  </div>
+</body>
+</html>
