@@ -21,6 +21,7 @@ There are a few items that we hope to add soon:
 Internal TODOs: 
 - Consolidate mapping dictionaries
 - Function to remove stored plots and route data when needed
+- Order the dropdown menu resuls
 
 ## Running the project locally
 1. Create a virtual environment: `pip3 install virtualenv` then `cd backend` then `virtualenv venv`

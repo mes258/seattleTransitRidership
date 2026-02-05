@@ -12,7 +12,7 @@ rawDataFilePath = "../../data/rawData/kcm/243_Fall_2024_Summarized_Stop_Data.csv
 # Set accordingly
 timePeriod = "243"
 # Set to None for all routes to be populated
-route = "550" 
+route = "9" 
 
 
 # Stop data

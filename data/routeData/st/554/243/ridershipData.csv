@@ -1,0 +1,165 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,554,O,1920,Lenora St & 4th Ave,1,AM,2.2,0,2.4,17.5,0
+243,554,O,280,2nd Ave & Stewart St,2,AM,2,0,4.4,16.3,0.3
+243,554,O,320,2nd Ave & Seneca St,3,AM,2.7,0.1,7,21.8,1
+243,554,I,81677,228th Ave NE & NE 8th St,3,AM,0.3,0,0.4,0.3,0
+243,554,O,360,2nd Ave & Cherry St,4,AM,2.7,0,9.7,21.7,0.3
+243,554,I,81685,228th Ave SE & SE 8th St,4,AM,0,0,0.4,0,0
+243,554,O,375,2nd Ave Ext S & Yesler Way,5,AM,0.3,0,10,2.7,0
+243,554,I,81684,South Sammamish P&R - Bay 1,5,AM,1.6,0.4,1.6,1.6,0.4
+243,554,O,1480,S Jackson St & Maynard Ave S,6,AM,5.2,0,15,36.2,0.3
+243,554,I,81847,Issaquah Pine Lake Rd SE & SE 37th Pl,6,AM,0.2,0,1.7,0.2,0
+243,554,O,8590,Rainier Ave S & S Charles St,7,AM,4.5,0.3,19.1,31.4,2.2
+243,554,I,64561,Issaquah Highlands Park & Ride - Bay 4,7,AM,3.8,0,4,53.2,0.2
+243,554,I,64549,9th Ave NE & NE Ellis Dr,8,AM,1.1,0,5.1,15.9,0.3
+243,554,O,64065,N Mercer Way & 80th Ave SE - Bay 2,8,AM,1.5,3.9,16.7,10.3,27.3
+243,554,O,67013,I-90 Expressway Ramp & 142nd Pl SE - Bay 4,9,AM,1.7,7.1,11.3,12.1,50
+243,554,I,64502,E Sunset Way & 1st Ave NE,9,AM,2.6,0.7,7,36,9.4
+243,554,O,64590,Issaquah Transit Center - Bay 6,10,AM,0.2,5.6,5.9,1.3,33.3
+243,554,I,64555,Issaquah Transit Center - Bay 2,10,AM,10.1,0.7,16,130.7,9.2
+243,554,I,67014,Eastgate Park & Ride - Bay 1,11,AM,10,1.2,23.9,129.7,15.7
+243,554,O,80485,E Sunset Way & Rainier Blvd S,11,AM,0.5,2.9,3.5,3,17.3
+243,554,I,64140,N Mercer Way & 80th Ave SE - Bay 1,12,AM,6,1,28.9,77.6,12.4
+243,554,O,65150,Highlands Dr NE & NE Ellis Dr,12,AM,0.1,1.9,1.7,0.3,11.3
+243,554,O,64566,Issaquah Highlands Park & Ride - Bay 3,13,AM,0.2,1.9,0,1.1,11.3
+243,554,I,8494,Rainier Ave S & S Charles St,13,AM,1.7,1,29,19.9,12.3
+243,554,I,620,4th Ave S & S Jackson St,14,AM,3.2,3.9,28.3,38.4,46.2
+243,554,I,628,4th Ave S & S Washington St,15,AM,0.1,0.8,27.7,1.7,9.5
+243,554,I,648,4th Ave & Cherry St,16,AM,0.2,7.8,20.1,1.9,93.5
+243,554,I,670,4th Ave & Seneca St,17,AM,0,7.8,11.8,0.5,85.5
+243,554,I,700,4th Ave & Pike St,18,AM,0,3.7,7.3,0.5,44.3
+243,554,I,720,4th Ave & Stewart St,19,AM,0,1.3,6,0,15.2
+243,554,I,730,4th Ave & Lenora St,20,AM,0,2,4,0,23.9
+243,554,I,18440,Blanchard St & 6th Ave,21,AM,0.1,4.1,0,1,49.6
+243,554,O,1920,Lenora St & 4th Ave,1,MID,3,0,3.4,54.5,0.1
+243,554,O,280,2nd Ave & Stewart St,2,MID,2.2,0,5.3,37.8,0.8
+243,554,O,320,2nd Ave & Seneca St,3,MID,4.1,0.1,9.3,70.2,2
+243,554,O,360,2nd Ave & Cherry St,4,MID,3.1,0.1,12.3,53.2,1.6
+243,554,O,375,2nd Ave Ext S & Yesler Way,5,MID,0.4,0,12.7,6.7,0.2
+243,554,O,1480,S Jackson St & Maynard Ave S,6,MID,4,0.4,16.2,71.7,6.5
+243,554,O,8590,Rainier Ave S & S Charles St,7,MID,3.2,0.4,19,57.4,7.2
+243,554,I,64561,Issaquah Highlands Park & Ride - Bay 4,7,MID,3.2,0,3.5,57.4,0
+243,554,I,64549,9th Ave NE & NE Ellis Dr,8,MID,1.8,0,5.2,32.5,0.5
+243,554,O,64065,N Mercer Way & 80th Ave SE - Bay 2,8,MID,1.8,4,16,30.9,67.6
+243,554,O,67013,I-90 Expressway Ramp & 142nd Pl SE - Bay 4,9,MID,3,8.9,10.2,50.8,150.6
+243,554,I,64502,E Sunset Way & 1st Ave NE,9,MID,2.4,0.9,6.6,42.3,16.3
+243,554,O,64590,Issaquah Transit Center - Bay 6,10,MID,0.7,4.4,6.5,12.7,79.7
+243,554,I,64555,Issaquah Transit Center - Bay 2,10,MID,4.3,0.7,10.4,77.5,13.3
+243,554,I,67014,Eastgate Park & Ride - Bay 1,11,MID,10,2.9,17.9,190,54.3
+243,554,O,80485,E Sunset Way & Rainier Blvd S,11,MID,1,2.8,4.5,17,47.3
+243,554,I,64140,N Mercer Way & 80th Ave SE - Bay 1,12,MID,3.4,1.1,20.2,61.9,20
+243,554,O,65150,Highlands Dr NE & NE Ellis Dr,12,MID,0,2.2,2.3,0.7,37.8
+243,554,O,64566,Issaquah Highlands Park & Ride - Bay 3,13,MID,0.3,2.6,0,4.3,44.6
+243,554,I,8494,Rainier Ave S & S Charles St,13,MID,0.9,2,20,17.8,37.6
+243,554,I,620,4th Ave S & S Jackson St,14,MID,0.5,4.8,15.7,9.6,91.5
+243,554,I,628,4th Ave S & S Washington St,15,MID,0,0.5,15.3,0.6,9.8
+243,554,I,648,4th Ave & Cherry St,16,MID,0.1,2.5,12.8,2.4,48.2
+243,554,I,670,4th Ave & Seneca St,17,MID,0.1,4.7,9.3,1.8,88.4
+243,554,I,700,4th Ave & Pike St,18,MID,0.1,3.5,5.8,1.4,66.1
+243,554,I,720,4th Ave & Stewart St,19,MID,0,1,4.9,0,18.6
+243,554,I,730,4th Ave & Lenora St,20,MID,0,1.1,3.8,0.2,20
+243,554,I,18440,Blanchard St & 6th Ave,21,MID,0.1,4,0,2.7,75.8
+243,554,O,1920,Lenora St & 4th Ave,1,PM,8.3,0,8.6,107.9,0
+243,554,O,280,2nd Ave & Stewart St,2,PM,4.8,0.1,13.2,67.6,1.1
+243,554,O,320,2nd Ave & Seneca St,3,PM,9.3,0.1,22.4,130.4,1.9
+243,554,O,360,2nd Ave & Cherry St,4,PM,6.1,0.1,28.3,84.7,1.8
+243,554,O,375,2nd Ave Ext S & Yesler Way,5,PM,0.6,0,28.8,7.9,0.6
+243,554,O,1480,S Jackson St & Maynard Ave S,6,PM,4.1,0.4,34.1,53.3,4.8
+243,554,O,8590,Rainier Ave S & S Charles St,7,PM,2.7,1.5,35.3,35.4,19.8
+243,554,I,64561,Issaquah Highlands Park & Ride - Bay 4,7,PM,3.2,0,3.5,25.5,0
+243,554,I,64549,9th Ave NE & NE Ellis Dr,8,PM,2.5,0,5.9,19.7,0.3
+243,554,O,64065,N Mercer Way & 80th Ave SE - Bay 2,8,PM,1.7,7.1,31.1,22,92.6
+243,554,O,67013,I-90 Expressway Ramp & 142nd Pl SE - Bay 4,9,PM,2.4,13.3,20.2,30.7,172.9
+243,554,I,64502,E Sunset Way & 1st Ave NE,9,PM,4.7,1.5,9.1,37.9,11.6
+243,554,O,64590,Issaquah Transit Center - Bay 6,10,PM,0.9,11.8,9.3,11.4,153.9
+243,554,I,64555,Issaquah Transit Center - Bay 2,10,PM,6.2,1.4,13.6,56,12.2
+243,554,I,67014,Eastgate Park & Ride - Bay 1,11,PM,9.8,2.9,20.6,88.4,26
+243,554,O,80485,E Sunset Way & Rainier Blvd S,11,PM,2.3,3.2,8.4,31.6,44.7
+243,554,I,64140,N Mercer Way & 80th Ave SE - Bay 1,12,PM,3.8,1.7,23,34,15.4
+243,554,O,65150,Highlands Dr NE & NE Ellis Dr,12,PM,0,3.5,5.4,0.4,45.4
+243,554,O,64566,Issaquah Highlands Park & Ride - Bay 3,13,PM,0.3,5.7,0,3.4,74
+243,554,I,8494,Rainier Ave S & S Charles St,13,PM,0.8,4.2,19.7,7.4,37.9
+243,554,I,620,4th Ave S & S Jackson St,14,PM,0.3,9.1,10.9,2.7,81.8
+243,554,I,628,4th Ave S & S Washington St,15,PM,0,0.5,10.4,0,4.9
+243,554,I,648,4th Ave & Cherry St,16,PM,0.1,1.6,8.8,1.1,14.5
+243,554,I,670,4th Ave & Seneca St,17,PM,0.1,2.6,6.2,0.6,25.9
+243,554,I,700,4th Ave & Pike St,18,PM,0.1,3.1,3.2,0.5,31
+243,554,I,720,4th Ave & Stewart St,19,PM,0,0.5,2.7,0,5.3
+243,554,I,730,4th Ave & Lenora St,20,PM,0,1.5,1.2,0,15
+243,554,I,18440,Blanchard St & 6th Ave,21,PM,0.1,1.4,0,1.2,13.5
+243,554,O,1920,Lenora St & 4th Ave,1,XEV,2.8,0,2.9,14.1,0
+243,554,O,280,2nd Ave & Stewart St,2,XEV,2.8,0,5.7,14,0.1
+243,554,O,320,2nd Ave & Seneca St,3,XEV,3.5,0.1,9.1,17.4,0.4
+243,554,O,360,2nd Ave & Cherry St,4,XEV,2.4,0.1,11.4,12,0.4
+243,554,O,375,2nd Ave Ext S & Yesler Way,5,XEV,0.4,0,11.7,1.8,0.2
+243,554,O,1480,S Jackson St & Maynard Ave S,6,XEV,2.3,0.2,13.2,13.6,1
+243,554,O,8590,Rainier Ave S & S Charles St,7,XEV,1.5,0.5,14.3,9.1,2.9
+243,554,I,64561,Issaquah Highlands Park & Ride - Bay 4,7,XEV,2,0,2.2,9.8,0
+243,554,I,64549,9th Ave NE & NE Ellis Dr,8,XEV,1.3,0,3.3,6.4,0.2
+243,554,O,64065,N Mercer Way & 80th Ave SE - Bay 2,8,XEV,0.6,2.8,11.9,3.8,16.5
+243,554,O,67013,I-90 Expressway Ramp & 142nd Pl SE - Bay 4,9,XEV,0.6,5.7,6.9,3.7,33.9
+243,554,I,64502,E Sunset Way & 1st Ave NE,9,XEV,1.9,0.6,4.5,9.4,3.2
+243,554,O,64590,Issaquah Transit Center - Bay 6,10,XEV,0.7,2.9,4.6,4,17.4
+243,554,I,64555,Issaquah Transit Center - Bay 2,10,XEV,3.2,0.4,7.4,16.1,2
+243,554,I,67014,Eastgate Park & Ride - Bay 1,11,XEV,5.7,1.5,11.3,22.6,5.8
+243,554,O,80485,E Sunset Way & Rainier Blvd S,11,XEV,0.4,1,4.1,2.6,6
+243,554,I,64140,N Mercer Way & 80th Ave SE - Bay 1,12,XEV,1.8,0.6,13.2,8.9,2.9
+243,554,O,65150,Highlands Dr NE & NE Ellis Dr,12,XEV,0,1.4,2.5,0.2,10.1
+243,554,O,64566,Issaquah Highlands Park & Ride - Bay 3,13,XEV,0.2,2,0.7,1.7,14.1
+243,554,I,8494,Rainier Ave S & S Charles St,13,XEV,0.7,3.5,10.3,3.3,17.4
+243,554,I,620,4th Ave S & S Jackson St,14,XEV,0.2,4.2,6.3,1,21.1
+243,554,O,81749,Issaquah Pine Lake Rd SE & SE Issaquah-Fall City Rd,14,XEV,0,0.2,1.5,0,0.7
+243,554,I,628,4th Ave S & S Washington St,15,XEV,0,0.4,6,0,1.8
+243,554,O,81737,Issaquah Pine Lake Rd SE & SE 40th Pl,15,XEV,0,0.1,1.3,0,0.3
+243,554,I,648,4th Ave & Cherry St,16,XEV,0,1,5,0.1,5
+243,554,O,81684,South Sammamish P&R - Bay 1,16,XEV,0,0.4,1,0.1,1.3
+243,554,O,81687,228th Ave SE & SE 8th St,17,XEV,0.1,0.2,0.8,0.3,0.7
+243,554,I,670,4th Ave & Seneca St,17,XEV,0,1.3,3.7,0,6.7
+243,554,O,81665,228th Ave NE & NE 8th St,18,XEV,0.2,0.4,0.6,0.7,1.3
+243,554,I,700,4th Ave & Pike St,18,XEV,0.1,1.7,2.1,0.4,8.5
+243,554,O,81775,228th Ave NE & NE 25th Way,19,XEV,0,0.1,0.5,0,0.3
+243,554,I,720,4th Ave & Stewart St,19,XEV,0,0.4,1.7,0,1.8
+243,554,O,72329,NE Redmond Way & 185th Ave NE,20,XEV,0,0.5,0,0.1,1.5
+243,554,I,730,4th Ave & Lenora St,20,XEV,0,1.1,0.7,0,5.6
+243,554,I,18440,Blanchard St & 6th Ave,21,XEV,0.1,0.8,0,0.3,3.9
+243,554,I,62329,NE Redmond Fall City Rd & 185th Ave NE,1,XNT,0,0,0,0,0
+243,554,O,1920,Lenora St & 4th Ave,1,XNT,0.9,0,1,1.8,0
+243,554,O,280,2nd Ave & Stewart St,2,XNT,2.2,0,3.2,4.4,0
+243,554,I,81820,228th Ave NE & NE 25th Way,2,XNT,0,0,0,0,0
+243,554,O,320,2nd Ave & Seneca St,3,XNT,1.8,0,4.9,3.5,0
+243,554,I,81677,228th Ave NE & NE 8th St,3,XNT,1.5,0,1.5,1.5,0
+243,554,O,360,2nd Ave & Cherry St,4,XNT,1.2,0.1,6,2.4,0.1
+243,554,I,81685,228th Ave SE & SE 8th St,4,XNT,0,0,1.5,0,0
+243,554,O,375,2nd Ave Ext S & Yesler Way,5,XNT,0.2,0,6.2,0.4,0
+243,554,I,81684,South Sammamish P&R - Bay 1,5,XNT,0,0,1.6,0,0
+243,554,O,1480,S Jackson St & Maynard Ave S,6,XNT,1.6,0.1,7.7,3.2,0.2
+243,554,I,81847,Issaquah Pine Lake Rd SE & SE 37th Pl,6,XNT,0,0,1.6,0,0
+243,554,O,8590,Rainier Ave S & S Charles St,7,XNT,1.4,0.2,8.9,2.8,0.4
+243,554,I,64561,Issaquah Highlands Park & Ride - Bay 4,7,XNT,1.3,0,1.8,4,0.1
+243,554,I,64549,9th Ave NE & NE Ellis Dr,8,XNT,0.3,0,2.1,0.9,0
+243,554,O,64065,N Mercer Way & 80th Ave SE - Bay 2,8,XNT,0.7,1.8,10.8,2,5.3
+243,554,O,67013,I-90 Expressway Ramp & 142nd Pl SE - Bay 4,9,XNT,0.8,5.6,6,2.3,16.7
+243,554,I,64502,E Sunset Way & 1st Ave NE,9,XNT,0.7,0,2.7,2,0
+243,554,O,64590,Issaquah Transit Center - Bay 6,10,XNT,0.3,2,4.3,0.9,5.9
+243,554,I,64555,Issaquah Transit Center - Bay 2,10,XNT,1.9,0.1,4.6,5.8,0.2
+243,554,I,67014,Eastgate Park & Ride - Bay 1,11,XNT,4.6,0.6,9.3,13.7,1.7
+243,554,O,80485,E Sunset Way & Rainier Blvd S,11,XNT,0.1,1,3.4,0.3,2.9
+243,554,I,64140,N Mercer Way & 80th Ave SE - Bay 1,12,XNT,1.6,0.2,10.8,4.9,0.5
+243,554,O,65150,Highlands Dr NE & NE Ellis Dr,12,XNT,0,1.4,2.1,0.1,4.1
+243,554,O,64566,Issaquah Highlands Park & Ride - Bay 3,13,XNT,0.4,1.9,0.6,1.2,5.8
+243,554,I,8494,Rainier Ave S & S Charles St,13,XNT,0.3,2,9.1,0.9,6
+243,554,I,620,4th Ave S & S Jackson St,14,XNT,0.1,3.3,6,0.4,9.9
+243,554,O,81749,Issaquah Pine Lake Rd SE & SE Issaquah-Fall City Rd,14,XNT,0,0.1,0.8,0,0.2
+243,554,I,628,4th Ave S & S Washington St,15,XNT,0,0.4,5.6,0,1.1
+243,554,O,81737,Issaquah Pine Lake Rd SE & SE 40th Pl,15,XNT,0,0.3,0.6,0,0.5
+243,554,I,648,4th Ave & Cherry St,16,XNT,0,1.5,4.2,0.1,4.4
+243,554,O,81684,South Sammamish P&R - Bay 1,16,XNT,0,0.1,0.5,0,0.2
+243,554,O,81687,228th Ave SE & SE 8th St,17,XNT,0,0.1,0.4,0,0.1
+243,554,I,670,4th Ave & Seneca St,17,XNT,0,1.2,3,0,3.7
+243,554,O,81665,228th Ave NE & NE 8th St,18,XNT,0.2,0.2,0.4,0.4,0.4
+243,554,I,700,4th Ave & Pike St,18,XNT,0.1,2,1.9,0.2,4
+243,554,O,81775,228th Ave NE & NE 25th Way,19,XNT,0,0.1,0.3,0,0.1
+243,554,I,720,4th Ave & Stewart St,19,XNT,0,0.3,1.6,0,0.6
+243,554,O,72329,NE Redmond Way & 185th Ave NE,20,XNT,0.1,0.4,0,0.1,0.7
+243,554,I,730,4th Ave & Lenora St,20,XNT,0,1.1,0.6,0,2.1
+243,554,I,18440,Blanchard St & 6th Ave,21,XNT,0.1,0.6,0,0.1,1.2

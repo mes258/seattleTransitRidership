@@ -1,0 +1,156 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,550,O,1215,Union St & 5th Ave,1,AM,3.4,0,3.6,58.6,0
+243,550,I,67636,110th Ave NE & NE 10th St,1,AM,3.1,0,3.1,45.9,0
+243,550,O,1230,Union St & 4th Ave,2,AM,3.9,0,7.4,66.1,0.2
+243,550,I,67652,Bellevue Transit Center - Bay 9,2,AM,5,0.1,7.5,90.7,2.3
+243,550,O,320,2nd Ave & Seneca St,3,AM,4.9,0.1,12.3,83.9,1
+243,550,I,85640,NE 4th St & 108th Ave NE,3,AM,0.5,0,8.1,7.9,0.3
+243,550,O,360,2nd Ave & Cherry St,4,AM,7.8,0.1,20,132.1,0.9
+243,550,I,67620,Bellevue Way NE & NE 4th St,4,AM,1.4,0.1,9.4,24.4,2.3
+243,550,O,375,2nd Ave Ext S & Yesler Way,5,AM,1,0,20.8,15.4,0
+243,550,I,67640,Bellevue Way SE & Main St,5,AM,2.3,0.2,11.2,40.9,3.9
+243,550,I,67650,Bellevue Way SE & SE 3rd St,6,AM,0.8,0.8,11.2,15.2,15
+243,550,O,64065,N Mercer Way & 80th Ave SE - Bay 2,6,AM,2.3,2,21.1,37.3,32
+243,550,I,67700,Bellevue Way SE & SE 11th St,7,AM,0.2,0.1,11.3,3.7,1.2
+243,550,O,84292,South Bellevue Station Bus Plaza - Bay 3,7,AM,0.5,1.6,19.6,7.7,24.7
+243,550,O,67960,Bellevue Way SE & SE 16th St,8,AM,0.1,0.2,19.6,2.1,3.2
+243,550,I,67720,Bellevue Way SE & SE 16th St,8,AM,0.4,0.1,11.7,7,1.1
+243,550,I,84263,South Bellevue Station Bus Plaza - Bay 1,9,AM,6.6,0.1,18.2,112.7,1.9
+243,550,O,67990,Bellevue Way SE & SE 10th St,9,AM,0.2,0.1,19.6,2.7,2
+243,550,I,64140,N Mercer Way & 80th Ave SE - Bay 1,10,AM,10.6,1.1,27.8,180.5,18.1
+243,550,O,68020,Bellevue Way SE & SE 3rd St,10,AM,0.3,0.3,19.6,4.9,4.7
+243,550,I,620,4th Ave S & S Jackson St,11,AM,4,4.9,27.3,63.8,77.9
+243,550,O,68035,Bellevue Way NE & Main St,11,AM,0.3,1.2,18.6,4.2,18.6
+243,550,O,68042,NE 4th St & 105th Ave NE,12,AM,0.1,5.3,13.9,2.1,80.2
+243,550,I,628,4th Ave S & S Washington St,12,AM,0.2,0.7,26.8,2.4,11.8
+243,550,I,648,4th Ave & Cherry St,13,AM,0.2,8.5,18.5,2.4,127.9
+243,550,O,68007,Bellevue Transit Center - Bay 12,13,AM,0.1,11.6,2.6,2,173.6
+243,550,I,670,4th Ave & Seneca St,14,AM,0,8,10.5,0.7,119.6
+243,550,O,67636,110th Ave NE & NE 10th St,14,AM,0,2.6,0,0,36.7
+243,550,I,691,4th Ave & Union St,15,AM,0,4.1,6.5,0.1,61.7
+243,550,I,1190,Pike St & 6th Ave,16,AM,0,4.5,1.9,0.1,67.9
+243,550,I,11130,Pike St & Convention Pl,17,AM,0.3,2.2,0,4,33.2
+243,550,O,1215,Union St & 5th Ave,1,MID,3.5,0,3.6,87,0
+243,550,I,67636,110th Ave NE & NE 10th St,1,MID,3.3,0,3.3,78.3,0
+243,550,O,1230,Union St & 4th Ave,2,MID,3.9,0,7.4,96.7,0.8
+243,550,I,67652,Bellevue Transit Center - Bay 9,2,MID,7.1,0.3,10,169.2,6.9
+243,550,O,320,2nd Ave & Seneca St,3,MID,5.1,0.1,12.4,123.1,2.2
+243,550,I,85640,NE 4th St & 108th Ave NE,3,MID,1.1,0.1,10.9,27.8,2.8
+243,550,O,360,2nd Ave & Cherry St,4,MID,6.3,0.2,18.5,150.5,4
+243,550,I,67620,Bellevue Way NE & NE 4th St,4,MID,3,0.4,13.6,75.8,9.6
+243,550,O,375,2nd Ave Ext S & Yesler Way,5,MID,1,0,19.5,23.8,1.1
+243,550,I,67640,Bellevue Way SE & Main St,5,MID,1.9,0.5,14.6,47.2,11.8
+243,550,I,67650,Bellevue Way SE & SE 3rd St,6,MID,0.5,0.2,14.8,11.5,5.5
+243,550,O,64065,N Mercer Way & 80th Ave SE - Bay 2,6,MID,1.9,3.1,18.3,45.3,75.5
+243,550,I,67700,Bellevue Way SE & SE 11th St,7,MID,0.1,0.2,14.3,2.8,4.7
+243,550,O,84292,South Bellevue Station Bus Plaza - Bay 3,7,MID,0.3,2,16.8,6,47
+243,550,O,67960,Bellevue Way SE & SE 16th St,8,MID,0.3,0.2,16.9,6.6,5.4
+243,550,I,67720,Bellevue Way SE & SE 16th St,8,MID,0.3,0.2,14.3,6.8,4.7
+243,550,I,84263,South Bellevue Station Bus Plaza - Bay 1,9,MID,3.1,0.3,17,77.5,7.8
+243,550,O,67990,Bellevue Way SE & SE 10th St,9,MID,0.3,0.2,17,7.1,3.9
+243,550,I,64140,N Mercer Way & 80th Ave SE - Bay 1,10,MID,4.3,1.1,20.2,107.3,26.5
+243,550,O,68020,Bellevue Way SE & SE 3rd St,10,MID,0.8,0.4,17.4,19.5,9.7
+243,550,I,620,4th Ave S & S Jackson St,11,MID,0.5,5.8,14.8,13.4,145
+243,550,O,68035,Bellevue Way NE & Main St,11,MID,0.5,1.8,16,10.9,43.8
+243,550,O,68042,NE 4th St & 105th Ave NE,12,MID,0.4,6.2,10.7,9.2,149.2
+243,550,I,628,4th Ave S & S Washington St,12,MID,0,0.7,14.2,1.2,16.8
+243,550,I,648,4th Ave & Cherry St,13,MID,0.1,3,11.7,2.5,77.6
+243,550,O,68007,Bellevue Transit Center - Bay 12,13,MID,0.3,7.6,3.6,6.1,182.7
+243,550,I,670,4th Ave & Seneca St,14,MID,0.1,4.5,7.3,1.5,116.3
+243,550,O,67636,110th Ave NE & NE 10th St,14,MID,0,3.6,0,0,86.8
+243,550,I,691,4th Ave & Union St,15,MID,0,3.2,4.1,1.1,83.8
+243,550,I,1190,Pike St & 6th Ave,16,MID,0,2.8,1.3,1.2,72.7
+243,550,I,11130,Pike St & Convention Pl,17,MID,0.2,1.6,0,5.5,40.8
+243,550,O,1215,Union St & 5th Ave,1,PM,8.3,0,8.4,183.5,0.8
+243,550,I,67636,110th Ave NE & NE 10th St,1,PM,4.3,0,4.3,89.7,0
+243,550,O,1230,Union St & 4th Ave,2,PM,4.2,0,12.5,93.1,1
+243,550,I,67652,Bellevue Transit Center - Bay 9,2,PM,11.3,0.4,15.3,226.8,8.5
+243,550,O,320,2nd Ave & Seneca St,3,PM,9.4,0.2,21.4,215.1,4.1
+243,550,I,85640,NE 4th St & 108th Ave NE,3,PM,3.2,0.1,18.5,64.9,1.8
+243,550,O,360,2nd Ave & Cherry St,4,PM,7.6,0.3,28.7,175.2,6.4
+243,550,I,67620,Bellevue Way NE & NE 4th St,4,PM,6.8,0.5,24.7,136.4,10.7
+243,550,O,375,2nd Ave Ext S & Yesler Way,5,PM,1,0.1,29.7,23.9,1.7
+243,550,I,67640,Bellevue Way SE & Main St,5,PM,2.2,0.5,25.6,44,10.6
+243,550,I,67650,Bellevue Way SE & SE 3rd St,6,PM,0.4,0.4,25.6,7.3,7.8
+243,550,O,64065,N Mercer Way & 80th Ave SE - Bay 2,6,PM,1.6,9.9,21.7,36.2,227.5
+243,550,I,67700,Bellevue Way SE & SE 11th St,7,PM,0.1,0.2,25.8,1,4.4
+243,550,O,84292,South Bellevue Station Bus Plaza - Bay 3,7,PM,0.1,5.9,16.2,3.4,136.3
+243,550,O,67960,Bellevue Way SE & SE 16th St,8,PM,0.1,0.4,15.9,2.7,9.5
+243,550,I,67720,Bellevue Way SE & SE 16th St,8,PM,0.3,0.3,25.8,5,5.4
+243,550,I,84263,South Bellevue Station Bus Plaza - Bay 1,9,PM,3.4,0.6,28.6,67.3,11.3
+243,550,O,67990,Bellevue Way SE & SE 10th St,9,PM,0.1,0.4,15.7,3.4,8.6
+243,550,I,64140,N Mercer Way & 80th Ave SE - Bay 1,10,PM,3.3,2.3,29.6,66.3,46.1
+243,550,O,68020,Bellevue Way SE & SE 3rd St,10,PM,1.2,0.8,16,26.8,17.6
+243,550,I,620,4th Ave S & S Jackson St,11,PM,0.4,14.1,16.2,8.2,281.6
+243,550,O,68035,Bellevue Way NE & Main St,11,PM,0.3,2.8,13.5,7.7,65.3
+243,550,O,68042,NE 4th St & 105th Ave NE,12,PM,0.5,4.8,9.6,12.4,109.5
+243,550,I,628,4th Ave S & S Washington St,12,PM,0.1,1.2,15.1,1.2,23.3
+243,550,I,648,4th Ave & Cherry St,13,PM,0.1,2.8,12.3,1.7,56.7
+243,550,O,68007,Bellevue Transit Center - Bay 12,13,PM,0.2,6,4,4.9,139.1
+243,550,I,670,4th Ave & Seneca St,14,PM,0.1,5.1,7.3,1.6,102.1
+243,550,O,67636,110th Ave NE & NE 10th St,14,PM,0,4,0,0.3,95.9
+243,550,I,691,4th Ave & Union St,15,PM,0.1,3.5,3.9,1.1,69.8
+243,550,I,1190,Pike St & 6th Ave,16,PM,0,2.2,1.7,0.8,44.6
+243,550,I,11130,Pike St & Convention Pl,17,PM,0.3,1.9,0,5,36.9
+243,550,O,1215,Union St & 5th Ave,1,XEV,3.2,0,3.4,25.5,0
+243,550,I,67636,110th Ave NE & NE 10th St,1,XEV,3.2,0,3.1,18.9,0
+243,550,O,1230,Union St & 4th Ave,2,XEV,2.9,0,6.2,23.3,0.2
+243,550,I,67652,Bellevue Transit Center - Bay 9,2,XEV,8.1,0.5,10.7,56.9,3.4
+243,550,O,320,2nd Ave & Seneca St,3,XEV,3.8,0.1,9.9,30.1,0.7
+243,550,I,85640,NE 4th St & 108th Ave NE,3,XEV,1,0,11.7,7.1,0.2
+243,550,O,360,2nd Ave & Cherry St,4,XEV,4.2,0.1,13.9,33.2,0.6
+243,550,I,67620,Bellevue Way NE & NE 4th St,4,XEV,8.8,0.3,19.9,61.8,2.2
+243,550,O,375,2nd Ave Ext S & Yesler Way,5,XEV,0.9,0,14.8,6.9,0.1
+243,550,I,67640,Bellevue Way SE & Main St,5,XEV,3.2,0.4,21.8,22.2,2.6
+243,550,I,67650,Bellevue Way SE & SE 3rd St,6,XEV,0.2,0.2,21.8,1.1,1.2
+243,550,O,64065,N Mercer Way & 80th Ave SE - Bay 2,6,XEV,0.7,3.1,12.1,5.7,25
+243,550,I,67700,Bellevue Way SE & SE 11th St,7,XEV,0,0.2,21.1,0,1.6
+243,550,O,84292,South Bellevue Station Bus Plaza - Bay 3,7,XEV,0.1,1.9,10.6,0.7,17.1
+243,550,O,67960,Bellevue Way SE & SE 16th St,8,XEV,0.1,0.4,10.3,0.6,3.4
+243,550,I,67720,Bellevue Way SE & SE 16th St,8,XEV,0.1,0.2,21,0.5,1.7
+243,550,I,84263,South Bellevue Station Bus Plaza - Bay 1,9,XEV,2.1,0.2,23,17.1,1.6
+243,550,O,67990,Bellevue Way SE & SE 10th St,9,XEV,0,0.2,10.1,0.2,2.2
+243,550,I,64140,N Mercer Way & 80th Ave SE - Bay 1,10,XEV,2.1,1.4,23.7,17,10.9
+243,550,O,68020,Bellevue Way SE & SE 3rd St,10,XEV,0.1,0.5,9.7,1.1,4.3
+243,550,I,620,4th Ave S & S Jackson St,11,XEV,0.3,9.8,13.3,2.1,78.2
+243,550,O,68035,Bellevue Way NE & Main St,11,XEV,0.2,1.6,8.3,1.6,14.5
+243,550,O,68042,NE 4th St & 105th Ave NE,12,XEV,0.4,2.7,6.3,3.4,24.4
+243,550,I,628,4th Ave S & S Washington St,12,XEV,0,1,12.4,0.3,8
+243,550,I,648,4th Ave & Cherry St,13,XEV,0,1.7,10.6,0.2,13.9
+243,550,O,68007,Bellevue Transit Center - Bay 12,13,XEV,0.2,4.3,2.1,1.6,39.1
+243,550,I,670,4th Ave & Seneca St,14,XEV,0.1,4.1,6.6,0.5,32.9
+243,550,O,67636,110th Ave NE & NE 10th St,14,XEV,0,2.2,0,0.4,19.7
+243,550,I,691,4th Ave & Union St,15,XEV,0,3,3.6,0.2,23.9
+243,550,I,1190,Pike St & 6th Ave,16,XEV,0,2,1.7,0.1,16.1
+243,550,I,11130,Pike St & Convention Pl,17,XEV,0.3,2,0,2.8,18.4
+243,550,O,1215,Union St & 5th Ave,1,XNT,2.2,0.1,2.3,10.9,0.3
+243,550,I,67636,110th Ave NE & NE 10th St,1,XNT,1.4,0,1.4,8.5,0
+243,550,O,1230,Union St & 4th Ave,2,XNT,1.8,0,4,9.1,0
+243,550,I,67652,Bellevue Transit Center - Bay 9,2,XNT,7.3,0.4,8.3,43.7,2.2
+243,550,O,320,2nd Ave & Seneca St,3,XNT,3.1,0,7,15.3,0.2
+243,550,I,85640,NE 4th St & 108th Ave NE,3,XNT,0.6,0,8.9,3.8,0.1
+243,550,O,360,2nd Ave & Cherry St,4,XNT,2.8,0,9.8,13.9,0.1
+243,550,I,67620,Bellevue Way NE & NE 4th St,4,XNT,6.8,0.1,15,40.8,0.6
+243,550,O,375,2nd Ave Ext S & Yesler Way,5,XNT,0.5,0,10.2,2.3,0.1
+243,550,I,67640,Bellevue Way SE & Main St,5,XNT,2.7,0.1,18.4,13.3,0.7
+243,550,I,67650,Bellevue Way SE & SE 3rd St,6,XNT,0.1,0.1,18.4,0.4,0.4
+243,550,O,64065,N Mercer Way & 80th Ave SE - Bay 2,6,XNT,0.2,2,9.1,1.4,12
+243,550,I,67700,Bellevue Way SE & SE 11th St,7,XNT,0.3,0.1,18.5,1.4,0.6
+243,550,O,84292,South Bellevue Station Bus Plaza - Bay 3,7,XNT,0.1,1.2,8,0.3,7
+243,550,O,67960,Bellevue Way SE & SE 16th St,8,XNT,0,0.2,7.8,0,1.2
+243,550,I,67720,Bellevue Way SE & SE 16th St,8,XNT,0,0.1,18.5,0.2,0.3
+243,550,I,84263,South Bellevue Station Bus Plaza - Bay 1,9,XNT,0.5,0.1,18.9,2.7,0.6
+243,550,O,67990,Bellevue Way SE & SE 10th St,9,XNT,0,0.1,7.7,0,0.6
+243,550,I,64140,N Mercer Way & 80th Ave SE - Bay 1,10,XNT,1.1,0.5,19.5,5.3,2.3
+243,550,O,68020,Bellevue Way SE & SE 3rd St,10,XNT,0.1,0.3,7.5,0.4,1.8
+243,550,I,620,4th Ave S & S Jackson St,11,XNT,0.2,10.4,11.1,1.4,62.6
+243,550,O,68035,Bellevue Way NE & Main St,11,XNT,0.1,0.9,6.6,0.4,5.4
+243,550,O,68042,NE 4th St & 105th Ave NE,12,XNT,0.1,1.9,5.2,0.7,11.2
+243,550,I,628,4th Ave S & S Washington St,12,XNT,0,1.1,10.2,0,6.4
+243,550,I,648,4th Ave & Cherry St,13,XNT,0,1.5,8.6,0.2,9.1
+243,550,O,68007,Bellevue Transit Center - Bay 12,13,XNT,0.2,3.9,1.5,0.9,23.1
+243,550,I,670,4th Ave & Seneca St,14,XNT,0,3.1,5.5,0,18.6
+243,550,O,67636,110th Ave NE & NE 10th St,14,XNT,0,1.5,0,0.1,9
+243,550,I,691,4th Ave & Union St,15,XNT,0,2.6,3,0.2,15.3
+243,550,I,1190,Pike St & 6th Ave,16,XNT,0,1.5,1.6,0.1,8.9
+243,550,I,11130,Pike St & Convention Pl,17,XNT,0.2,1.8,0,1.4,11

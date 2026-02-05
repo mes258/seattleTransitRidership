@@ -1,0 +1,88 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,9,I,55583,Martin L King Jr Way S & S Henderson St,1,AM,0.5,0,0.6,2.7,0
+243,9,I,31134,S Henderson St & 48th Ave S,2,AM,0.5,0.1,1,2.5,0.5
+243,9,I,8100,Rainier Ave S & Cloverdale Pl S,3,AM,0.5,0,1.5,2.6,0
+243,9,I,8110,Rainier Ave S & S Rose St,4,AM,1.5,0,3,7.4,0
+243,9,I,8140,Rainier Ave S & S Holden St,5,AM,1.2,0.1,4,5.8,0.6
+243,9,I,8160,Rainier Ave S & S Othello St,6,AM,0.9,0.1,4.8,4.4,0.5
+243,9,I,8175,Rainier Ave S & S Frontenac St,7,AM,0.5,0,5.3,2.3,0
+243,9,I,8190,Rainier Ave S & S Holly St,8,AM,1.5,0.1,6.7,7.3,0.3
+243,9,I,8210,Rainier Ave S & S Graham St,9,AM,1.6,0.8,7.5,8.2,4
+243,9,I,8250,Rainier Ave S & S Orcas St,10,AM,1.2,0.1,8.6,5.8,0.3
+243,9,I,8300,Rainier Ave S & S Edmunds St,11,AM,2.3,0.3,10.5,11.3,1.7
+243,9,I,8330,Rainier Ave S & S Genesee St,12,AM,1.1,0.2,11.4,5.3,1
+243,9,I,8350,Rainier Ave S & S Andover St,13,AM,1,0.2,12.2,5,0.9
+243,9,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,14,AM,0.9,3,10.2,4.6,14.9
+243,9,I,8440,Rainier Ave S & S Walker St,15,AM,0.4,0.4,11.2,1.6,1.5
+243,9,I,8485,Rainier Ave S & I-90,16,AM,0.8,0.2,11.8,3.3,0.8
+243,9,I,8494,Rainier Ave S & S Charles St,17,AM,0.7,0.4,12.2,2.9,1.4
+243,9,I,8510,Rainier Ave S & S Dearborn St,18,AM,1.1,0.7,12.6,4.3,2.6
+243,9,I,41900,12th Ave S & S Jackson St,19,AM,0.6,1,12.1,2.4,4.1
+243,9,I,41902,Boren Ave & E Yesler Way,20,AM,0.5,0.3,12.4,2.1,1.2
+243,9,I,41904,Broadway & Terrace St,21,AM,1.1,3.2,10.3,4.2,12.9
+243,9,I,41908,Broadway & Marion,22,AM,0.5,4.5,6.3,2,18
+243,9,I,41965,Broadway & E Union St,23,AM,0.3,1.3,5.3,1,5.1
+243,9,I,41970,Broadway & Pike-Pine,24,AM,0.1,2.4,3.1,0.5,9.4
+243,9,I,11180,Broadway  E & E John St - Bay 3,25,AM,0.2,1.9,1.3,0.7,7.6
+243,9,I,11190,Broadway  E & E Harrison St,26,AM,0,0.5,0.9,0,1.9
+243,9,I,11200,Broadway  E & E Mercer St,27,AM,0,0.6,0.3,0,2.3
+243,9,I,11011,Broadway  E & E Roy St,28,AM,0,0.2,0.1,0.1,0.8
+243,9,I,11012,E Aloha St & Broadway  E,29,AM,0,0.2,0,0,0.6
+243,9,I,55583,Martin L King Jr Way S & S Henderson St,1,MID,0.5,0,0.6,0.5,0
+243,9,I,31134,S Henderson St & 48th Ave S,2,MID,0.3,0,0.9,0.3,0
+243,9,I,8100,Rainier Ave S & Cloverdale Pl S,3,MID,0.2,0,1.1,0.2,0
+243,9,I,8110,Rainier Ave S & S Rose St,4,MID,2.1,0,3.1,2.1,0
+243,9,I,8140,Rainier Ave S & S Holden St,5,MID,0.8,0,3.8,0.8,0
+243,9,I,8160,Rainier Ave S & S Othello St,6,MID,0.4,0.1,4.1,0.4,0.1
+243,9,I,8175,Rainier Ave S & S Frontenac St,7,MID,0.2,0,4.3,0.2,0
+243,9,I,8190,Rainier Ave S & S Holly St,8,MID,1.6,0.2,5.7,1.6,0.2
+243,9,I,8210,Rainier Ave S & S Graham St,9,MID,1.1,0.1,6.7,1.1,0.1
+243,9,I,8250,Rainier Ave S & S Orcas St,10,MID,0.8,0.1,7.3,0.8,0.1
+243,9,I,8300,Rainier Ave S & S Edmunds St,11,MID,1.1,0.3,8.1,1.1,0.3
+243,9,I,8330,Rainier Ave S & S Genesee St,12,MID,0.8,0.2,8.6,0.8,0.2
+243,9,I,8350,Rainier Ave S & S Andover St,13,MID,0.8,0.4,9.1,0.8,0.4
+243,9,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,14,MID,1,1.6,8.4,1,1.6
+243,9,I,8440,Rainier Ave S & S Walker St,15,MID,0.7,0.3,7.8,1.4,0.5
+243,9,I,8485,Rainier Ave S & I-90,16,MID,0.3,0.1,8.1,0.5,0.2
+243,9,I,8494,Rainier Ave S & S Charles St,17,MID,0.4,0.4,8.1,0.8,0.7
+243,9,I,8510,Rainier Ave S & S Dearborn St,18,MID,0.8,0.5,8.4,1.6,1
+243,9,I,41900,12th Ave S & S Jackson St,19,MID,0.7,1,8.1,1.4,1.9
+243,9,I,41902,Boren Ave & E Yesler Way,20,MID,0.8,0.4,8.6,1.6,0.7
+243,9,I,41904,Broadway & Terrace St,21,MID,1.1,1.6,8,2.1,3.2
+243,9,I,41908,Broadway & Marion,22,MID,0.3,2.1,6.2,0.5,4.1
+243,9,I,41965,Broadway & E Union St,23,MID,0.2,1.1,5.4,0.4,2.1
+243,9,I,41970,Broadway & Pike-Pine,24,MID,0.2,2.9,2.7,0.4,5.7
+243,9,I,11180,Broadway  E & E John St - Bay 3,25,MID,0.3,1.7,1.3,0.6,3.3
+243,9,I,11190,Broadway  E & E Harrison St,26,MID,0,0.8,0.6,0,1.5
+243,9,I,11200,Broadway  E & E Mercer St,27,MID,0,0.3,0.3,0,0.5
+243,9,I,11011,Broadway  E & E Roy St,28,MID,0,0.1,0.3,0,0.2
+243,9,I,11012,E Aloha St & Broadway  E,29,MID,0.8,1,0,1.5,2
+243,9,O,11012,E Aloha St & Broadway  E,1,PM,0.3,0,0.5,1.7,0
+243,9,O,11030,E Roy St & Broadway  E,2,PM,0.3,0,0.7,1.5,0.1
+243,9,O,11040,Broadway  E & E Republican St,3,PM,1,0.1,1.7,5.1,0.3
+243,9,O,11050,Broadway  E & E Thomas St,4,PM,0.5,0.1,2.1,2.5,0.4
+243,9,O,11060,Broadway & E Denny Way - Bay 4,5,PM,1.6,0.3,3.5,8.2,1.3
+243,9,O,11070,Broadway & E Pine St,6,PM,0.4,0.1,3.8,2.1,0.7
+243,9,O,41980,Broadway & Pike-Pine,7,PM,1.5,0.3,4.9,7.7,1.6
+243,9,O,41982,Broadway & E Union St,8,PM,1,0.2,5.7,4.9,1.2
+243,9,O,41986,Broadway & Marion,9,PM,4,0.5,9.3,19.9,2.3
+243,9,O,41987,Broadway & Terrace St,10,PM,2.7,1.1,10.9,13.4,5.4
+243,9,O,41989,Boren Ave & E Yesler Way,11,PM,0.2,0.8,10.2,0.9,3.9
+243,9,O,8550,Rainier Ave S & S King St,12,PM,1.4,1,10.7,6.8,4.8
+243,9,O,8590,Rainier Ave S & S Charles St,13,PM,0.7,1.1,10.2,3.4,5.5
+243,9,O,8608,Rainier Ave S & I-90,14,PM,0.1,0.5,9.8,0.5,2.7
+243,9,O,8641,Rainier Ave S & S Walker St,15,PM,0.9,0.5,10.2,4.5,2.5
+243,9,O,8681,Rainier Ave S & S Forest St - Bay 4,16,PM,2.9,1.9,11.2,14.5,9.3
+243,9,O,8740,Rainier Ave S & S Andover St,17,PM,0.9,1.9,10.2,4.3,9.4
+243,9,O,8760,Rainier Ave S & S Genesee St,18,PM,0.4,1.2,9.4,2,5.9
+243,9,O,8790,Rainier Ave S & S Edmunds St,19,PM,0.7,2.1,7.9,3.3,10.7
+243,9,O,8840,Rainier Ave S & S Orcas St,20,PM,0.3,1.5,6.7,1.5,7.6
+243,9,O,8870,Rainier Ave S & S Graham St,21,PM,0.6,1.2,6.1,3.1,6.1
+243,9,O,8890,Rainier Ave S & S Holly St,22,PM,0.2,0.8,5.5,1.2,4.1
+243,9,O,8905,Rainier Ave S & S Frontenac St,23,PM,0.1,0.3,5.3,0.4,1.4
+243,9,O,8920,Rainier Ave S & S Othello St,24,PM,0.4,0.8,4.9,2,4.2
+243,9,O,8940,Rainier Ave S & S Holden St,25,PM,0.2,0.9,4.2,1,4.3
+243,9,O,8970,Rainier Ave S & S Rose St,26,PM,0.4,1.2,3.4,1.9,6.1
+243,9,O,8990,Rainier Ave S & S Cloverdale St,27,PM,0,0.5,3,0.2,2.3
+243,9,O,30140,S Henderson St & Rainier Ave S,28,PM,0.3,2.6,0.6,1.5,13.2
+243,9,O,30160,S Henderson St & Renton Ave S,29,PM,0.1,0.7,0,0.3,3.5
