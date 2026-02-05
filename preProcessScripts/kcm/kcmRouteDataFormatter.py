@@ -7,12 +7,12 @@ import csv
 # Write ouput to new data.csv in the data folder
 
 # Replace with the actual file path
-#rawDataFilePath = "../../data/rawData/kcm/243_Fall_2024_Summarized_Stop_Data.csv"
-rawDataFilePath = "../../data/rawData/kcm/241_Spring_2024_Stop_Summary_Data.csv"
+rawDataFilePath = "../../data/rawData/kcm/243_Fall_2024_Summarized_Stop_Data.csv"
+#rawDataFilePath = "../../data/rawData/kcm/241_Spring_2024_Stop_Summary_Data.csv"
 # Set accordingly
-timePeriod = "241"
+timePeriod = "243"
 # Set to None for all routes to be populated
-route = "7" 
+route = "550" 
 
 
 # Stop data
@@ -79,6 +79,10 @@ with open(rawDataFilePath, mode='r', newline='') as infile:
           # Create the directory path based on SERVICE_CHANGE_NUM and SERVICE_RTE_NUM
           # eg: data/routeData/kcm/7/243
           directory = f"../../data/routeData/kcm/{service_rte_num}/{service_change_num}"
+          if service_rte_num[0] == "5":
+            print("st route)")
+            directory = f"../../data/routeData/st/{service_rte_num}/{service_change_num}"
+          
           os.makedirs(directory, exist_ok=True)
           
           # Define the output file path
