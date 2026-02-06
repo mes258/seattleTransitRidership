@@ -42,14 +42,18 @@ def getAgencies():
 def getRoutes(agency: str):
     if agency not in dataIndex:
         raise HTTPException(404, "Agency not found")
-    routeList = list(dataIndex[agency].keys())
-    return routeList
+    routeList = sorted(dataIndex[agency].keys())
+    sortedRouteList = sorted(
+      routeList,
+      key=lambda x: (not (670 <= int(x) <= 699), int(x))
+    )
+    return sortedRouteList
 
 @app.get("/api/agencies/{agency}/routes/{route}/serviceChanges")
 def getServiceChanges(agency: str, route: str):
     if agency not in dataIndex or route not in dataIndex[agency]:
         raise HTTPException(404, "Route not found")
-    serviceChangeList = list(dataIndex[agency][route].keys())
+    serviceChangeList = list(reversed(sorted(dataIndex[agency][route].keys())))
     return serviceChangeList
 
 @app.get("/api/ridershipCharts")
