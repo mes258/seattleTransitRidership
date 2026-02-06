@@ -39,12 +39,11 @@ document.addEventListener("DOMContentLoaded", () => {
   function populateSelect(select, values, placeholder, mapping) {
     clearSelect(select, placeholder);
     values.forEach(v => {
-      console.log(typeof v)
       textValue = v
       if (mapping[v] != undefined){
         textValue =  mapping[v]
       }
-      console.log(textValue)
+      // console.log(textValue)
 
       const opt = document.createElement("option");
       opt.value = v;
@@ -57,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
   fetch("/api/agencies")
     .then(res => res.json())
     .then(agencies => {
-      console.log(agencies)
+      // console.log(agencies)
       populateSelect(agencySelect, agencies, "Select agency…", agencyMapping);
     });
 
@@ -73,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch(`/api/agencies/${agency}/routes`)
       .then(res => res.json())
       .then(routes => {
-        console.log(routes)
+        // console.log(routes)
         populateSelect(routeSelect, routes, "Select route…", routeMapping);
       });
   });
@@ -123,10 +122,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Update route data
         var routeData = data.routeDataJson
-        console.log(routeData)
+        // console.log(routeData)
         routeDataDiv.innerHTML = `<p>In ${serviceChangeMapping[serviceChange]}, ${agencyMapping[agency]} ${routeData["routeName"]} had about ${routeData["avgWeekdayRidership"].toLocaleString("en-US")} average weekday passengers.</p>`
         if(routeData["scheduleUrl"] != ""){
-          routeDataDiv.innerHTML += `<p><a href="${routeData["scheduleUrl"]}">${routeData["routeName"]} schedule and map, from Metro</a></p>`
+          routeDataDiv.innerHTML += `<p><a href="${routeData["scheduleUrl"]}">${routeData["routeName"]} schedule and map, from ${agencyMapping[agency]}</a></p>`
         }
         if(routeData["stbUrl"] != ""){
           routeDataDiv.innerHTML += `<p><a href="${routeData["stbUrl"]}">Seattle Transit Blog article on ${routeData["routeName"]} Ridership Patterns</a></p>`

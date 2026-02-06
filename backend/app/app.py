@@ -8,6 +8,12 @@ from .graphModule import plotTripRidership, plotDailyRidership
 from .routeDataModule import buildRouteData
 from .config import dataRoot
 import json
+import logging
+import datetime
+
+logger = logging.getLogger("seattleTransitRidership")
+#logger.setLevel(logging.INFO)
+logging.basicConfig(level=logging.INFO)
 
 dataIndex = buildIndex()
 baseDir = Path(__file__).resolve().parent
@@ -61,6 +67,7 @@ def getAllCharts(agency: str, route: str, serviceChange: str):
     if agency not in dataIndex or route not in dataIndex[agency] or serviceChange not in dataIndex[agency][route]:
       raise HTTPException(404, "Route or service period not found")
     
+    logger.info(f"Getting data at:{datetime.datetime.now()},agency,{agency},route,{route},serviceChange,{serviceChange}")
     serviceChangePath = dataRoot / "routeData" / agency / route / serviceChange
     
     rtnJson = {}
@@ -105,7 +112,7 @@ def getAllCharts(agency: str, route: str, serviceChange: str):
     # Route Metadata
     # Check if the route data json is already stored for these parameters
     routeDataJsonPath = serviceChangePath / "routeData.json"
-    overwriteRouteData = False
+    overwriteRouteData = True
     if routeDataJsonPath.exists() and not overwriteRouteData:
       # Use the existing json data
       f = open(routeDataJsonPath, "r")

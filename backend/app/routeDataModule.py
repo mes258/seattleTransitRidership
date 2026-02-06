@@ -10,13 +10,19 @@ def getMetroScheduleUrl(route):
   urlRoute = f"{int(route):03d}"
   if urlRoute in rapidRideRouteMapping:
     urlRoute = rapidRideRouteMapping[urlRoute]
-    print(f"url route: {urlRoute}")
   scheduleUrl = f"{baseUrl}/{urlRoute}"
+  return scheduleUrl
+
+def getStScheduleUrl(route):
+  baseUrl = "https://www.soundtransit.org/ride-with-us/routes-schedules"
+  scheduleUrl = f"{baseUrl}/{route}"
   return scheduleUrl
 
 def getScheduleUrl(agency, route):
   if agency == "kcm":
     return getMetroScheduleUrl(route)
+  if agency == "st":
+    return getStScheduleUrl(route)
   return ""
 
 def getStbUrl(agency, route):
