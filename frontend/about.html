@@ -11,7 +11,7 @@
   <div class="topnav">
     <a href="/frontend/index.html">Seattle Transit Ridership</a>
     <a class="active" href="/frontend/about.html">About</a>
-    <a href="https://seattletransitblog.com/2025/11/03/route-ridership-index/">Ridership Patterns Index</a>
+    <a href="https://seattletransitblog.com/2025/11/03/route-ridership-index/" target="_blank" rel="noopener noreferrer">Ridership Patterns Index</a>
   </div> 
   <div class="about">
   <h1> About Seattle Transit Ridership</h1>
@@ -22,7 +22,7 @@
     Ridership will share the detailed data for all routes available. This tool is not affiliated with the City of Seattle nor a transit agency. 
   </p>
   <h2>
-    How to Read the Plots
+    How to Read the Charts
   </h2>
   <p>
     Stops are listed on the left axis; passenger counts along the bottom. For each color-coded time period, the bars represent how 
@@ -60,13 +60,16 @@
     A service change is the period of time between changes in a transit agency's network. King County Metro typically has three service
     changes per year. Their Spring service change is between March and June, the Summer service change is between June and September,
     and the Fall service change is between September and the following March. The agency may add, remove, or revise routes between
-    service changes. Information on Metro's current service change is available <a href="https://kingcounty.gov/en/dept/metro/routes-and-service/service-change">here.</a>
+    service changes. Information on Metro's current service change is available <a href="https://kingcounty.gov/en/dept/metro/routes-and-service/service-change" target="_blank" rel="noopener noreferrer">here.</a>
   </p>
-  <h3>Why do some routes have passengers on board at the beginning or end of a trip?</h3>
+  <h3>Why are some plots misssing stops in one direction?</h3>
   <p>
-    Some routes are through-routed with others. This means the bus changes routes in the middle of its trip. As a result, passengers on the
-    bus are counted as passengers on the new route. Examples of this practice in King County Metro's network include routes 1/14, 2/13, 
-    5/21, 24+33/124, 28/131+132, 45/75, and 65/67.
+    Some routes are through-routed with others. This means the bus changes routes in the middle of its trip, usually before passing 
+    through the main destination. For example, northbound Route 14 trips switch to Route 1 at 12th Ave & Jackson St, meaning these 
+    trips run south through downtown as Route 1. In the reverse direction, southbound Route 1 trips switch to Route 14 at 3rd Ave & 
+    Cedar St and travel south through downtown as Route 14. As a result, passengers on the bus when the route switches are counted as 
+    passengers on the new route. Examples of this practice in King County Metro's network include routes 1/14, 2/13, 5/21, 24+33/124, 
+    28/131+132, 45/75, and 65/67.
   </p>
   <h3>How is this data collected?</h3>
   <p>
@@ -74,7 +77,25 @@
     error with APC data, the large number of trips over the duration of a service change absorbs the impact of one-off errors or missing 
     values.
   </p>
-
+  <h3>Can I use these charts elsewhere?</h3>
+  <p>
+    Yes. The charts can be downloaded as a .png image by clicking the camera icon on the top right of the graph. For commericial uses, please 
+    credit the plot to Seattle Transit Blog and make a generous donation to one (or more) of the incredible local media or advocacy organizations below.
+    <ul>
+      <li><a href="https://bikeworks.org/" target="_blank" rel="noopener noreferrer">Bike Works</a></li>
+      <li><a href="https://publicola.com/" target="_blank" rel="noopener noreferrer">PubliCola</a></li>
+      <li><a href="https://www.realchangenews.org/" target="_blank" rel="noopener noreferrer">Real Change</a></li>
+      <li><a href="https://www.seattlebikeblog.com/" target="_blank" rel="noopener noreferrer">Seattle Bike Blog</a></li>
+      <li><a href="https://www.seattlegreenways.org/" target="_blank" rel="noopener noreferrer">Seattle Neighborhood Greenways</a></li>
+      <li><a href="https://www.theurbanist.org/" target="_blank" rel="noopener noreferrer">The Urbanist</a></li>
+      <li><a href="https://transitriders.org/" target="_blank" rel="noopener noreferrer">Transit Riders Union</a></li>
+      <li><a href="https://transportationchoices.org/" target="_blank" rel="noopener noreferrer">Transportation Choices Coalition</a></li>
+    </ul>
+  </p>
+  <h3>How can I report a bug or request a feature?</h3>
+  <p>
+    Thank you for helping make Seattle Transit Ridership better. Please share issues and feature requests as a <a href="https://github.com/mes258/seattleTransitRidership/issues" target="_blank" rel="noopener noreferrer">Github Issue</a> or send me a message on <a href="https://bsky.app/profile/mesmith35673.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>.
+  </p>
   </div>
 </body>
 </html>
