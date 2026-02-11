@@ -29,7 +29,6 @@ def getStbUrl(agency, route):
   if agency == "kcm":
     if route in stbKcmUrl:
       return stbKcmUrl[route]
-  
   return ""
 
 def getRouteName(agency, route):
