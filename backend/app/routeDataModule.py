@@ -1,5 +1,5 @@
 
-from .config import rapidRideRouteMapping, stbKcmUrl
+from .config import rapidRideRouteMapping, stbKcmUrl, dataRoot
 import json 
 
 def getAvgWeekdayRidership(df):
@@ -40,17 +40,27 @@ def getRouteName(agency, route):
   
   return routeName
 
+def getRouteDestinations(agency, route, serviceChange):
+  destinationFilePath = f"{dataRoot}/destinationData/{agency}/{serviceChange}/destinations.json"
+  routeDestinations = {}
+  with open(destinationFilePath) as f:
+    routeDestinations = json.load(f)
+  f.close()
+
+  print(routeDestinations[route])
+  return routeDestinations[route]
 
 # The json object stored for each route that has:
 # Metro schedule URL, 
 # STB post URL (if possible)
 # Average weekday ridership (sum of dailyBoardings)
-# TODO: Add key route destinations
-def buildRouteData(df, agency, route):
+# Destination List
+def buildRouteData(df, agency, route, serviceChange):
   rtnJson = {}
   rtnJson["avgWeekdayRidership"] = getAvgWeekdayRidership(df)
   rtnJson["scheduleUrl"] = getScheduleUrl(agency, route)
   rtnJson["stbUrl"] = getStbUrl(agency, route)
   rtnJson["routeName"] = getRouteName(agency, route)
+  rtnJson["destinations"] = getRouteDestinations(agency, route, serviceChange)
 
   return json.dumps(rtnJson)
