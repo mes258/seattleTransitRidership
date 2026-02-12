@@ -1,0 +1,175 @@
+route,start,end,middle
+671,Tukwila International Boulevard Station,Federal Way Transit Center,State Route 99
+672,Bellevue Transit Center,Redmond Transit Center,"Overlake Transit Center and Crossroads"
+673,South Lake Union,Westwood Village,"downtown Seattle, Alaska Junction, and Fauntleroy Ferry Terminal"
+674,Downtown Seattle,Crown Hill,"Lower Queen Anne, Interbay, and Ballard"
+675,Downtown Seattle,Aurora Village Transit Center,Aurora Ave N
+676,Burien Transit Center,Renton Landing,"Tukwila International Boulevard Station, Tukwila Station (Sounder/Amtrak), and Renton TC"
+677,Downtown Seattle,Madison Valley,First Hill and Capitol Hill
+678,Downtown Seattle,Burien Transit Center,"White Center, Westwood Village, and Delridge"
+1,Downtown Seattle,Kinnear,Seattle Center
+2,West Queen Anne,Madrona Park,"Seattle Center, downtown Seattle, First Hill, Seattle University"
+3,Madrona,Summit,downtown Seattle and First Hill
+4,Judkins Park,Seattle Pacific University Downtown,"23rd Avenue, First Hill, Downtown"
+5,Downtown Seattle,Shoreline CC,"Fremont, Greenwood"
+7,Downtown Seattle,Rainier Beach Prentice St,Rainier Ave S
+8,Seattle Center,Mt. Baker Transit Center,"Denny Way, Capitol Hill, MLK Jr Way S"
+9,Broadway,Rainier Beach Station,"Columbia City, Rainier Ave S"
+10,Downtown Seattle,Capitol Hill,15th Ave E
+11,Downtown Seattle,Madison Park,East Madison St
+12,Downtown Seattle,Interlaken Park,"Capitol Hill, First Hill, Madison St, 19th Ave E"
+13,Downtown Seattle,Seattle Pacific University,"W Seattle Center, Queen Anne"
+14,Downtown Seattle,Mt. Baker,"Mt Baker TC, S Jackson St, 31st Ave S"
+15,Downtown Seattle,Blue Ridge,"Crown Hill, Ballard, 15th Ave NW"
+17,Downtown Seattle,Loyal Heights,"Ballard, Sunset Hill"
+18,Downtown Seattle,North Beach,"Ballard, 24th Ave NW"
+19,Downtown Seattle,West Magnolia,Seattle Center
+21,Downtown Seattle,Westwood Village,"35th Ave SW, 4th Ave S"
+21,Downtown Seattle,Arbor Heights,35th Ave SW
+22,Alaska Junction,Arbor Heights,Gatewood
+24,Downtown Seattle,Central Magnolia (Late Evening Trips) West Magnolia,"Seattle Center, 28th Ave W"
+27,Downtown Seattle,Colman Park,Yesler Way
+28,Downtown Seattle,Carkeek Park,"Fremont, 8th Ave NW"
+29,Downtown Seattle,Ballard,"Queen Anne, Seattle Pacific University"
+31,University District,Central Magnolia,"Fremont, Seattle Pacific Univ"
+32,University District,Seattle Center,Fremont
+33,Downtown Seattle,East Magnolia/Discovery Park,"Seattle Center, 22nd Ave W"
+36,Downtown Seattle,Othello Station,"North Beacon Hill, Columbia City"
+37,Downtown Seattle,Alaska Junction,Alki
+40,Downtown Seattle,Northgate Station,"Ballard, Fremont, Loyal Heights"
+43,Capitol Hill,University District Station,"Capitol Hill, Montlake"
+44,UW Station,Ballard,Wallingford
+45,Loyal Heights,University District,"Greenwood, N 85th St, Roosevelt Station, East Green Lake"
+48,Mt. Baker TC,University District,"Montlake, Central District"
+49,Downtown Seattle,University District,"Capitol Hill, Broadway, 10th Ave E"
+50,Alki,Othello Station,"Alaska Junction, SODO Station, VA Hospital, Columbia City, Seward Park"
+55,Downtown Seattle,Admiral District,Alaska Junction
+56,Downtown Seattle,Alki,"SR 99, Admiral District"
+57,Downtown Seattle,Alaska Junction,Admiral District
+60,Broadway,Westwood Village,"First Hill, Beacon Hill, Georgetown, Olson-Meyers P&R"
+61,Greenwood,Lake City,Northgate Station
+62,Downtown Seattle,Sand Point,"East Green Lake, Roosevelt Station, NE 65th St"
+65,University District,Shoreline South/148th Station,"Wedgwood, Lake City"
+67,University District Station,Northgate Station,"Roosevelt Way NE, Roosevelt Station"
+70,Downtown Seattle,University District Station,"Fairview Ave N, Eastlake Ave E"
+75,University District,Northgate Station,"Sand Point, Lake City"
+79,Green Lake P&R,University District,"Roosevelt Station, Ravenna, View Ridge"
+90,First Hill,Capitol Hill,Snow Route
+First Hill Streetcar (96),Occidental Square,Capitol Hill Station,"International District / Chinatown, Little Saigon, Central District, Yesler Terrace, First Hill"
+South Lake Union Streetcar (98),Westlake Station,South Lake Union,Westlake Avenue
+101,Downtown Seattle,South Renton P&R,"SODO Busway, I-5, Skyway, Renton TC"
+102,Downtown Seattle,Fairwood,"SODO Busway, I-5, Skyway, South Renton P&R"
+105,Renton TC,Renton Highlands,Renton Technical College
+106,Downtown Seattle,Renton TC,"Mt. Baker TC, Martin Luther King Jr. Way S, Columbia City Station, Rainier Beach Station, Skyway"
+107,Beacon Hill Station,Renton TC,"South Beacon Hill, Rainier Beach Station, Bryn Mawr"
+111,Downtown Seattle,Lake Kathleen,"I-90, I-405 Freeway Stations, Renton Highlands"
+113,Downtown Seattle,Shorewood,"Olson / Meyers P&R, White Center"
+116,Downtown Seattle,Fauntleroy Ferry Terminal,"1st Ave S, Fauntleroy Way SW"
+118,Vashon Island Ferry Terminal,Tahlequah Ferry Terminal,Vashon Island
+118,Downtown Seattle,Tahlequah Ferry Terminal,"Fauntleroy Ferry Terminal, Vashon Island Ferry Terminal"
+119,Fauntleroy Ferry Terminal,Dockton,Vashon Island
+119,Downtown Seattle,Dockton,"Fauntleroy Ferry Terminal, Vashon Island Ferry Terminal"
+121,Downtown Seattle,Highline College,"Burien TC, Des Moines"
+122,Downtown Seattle,Highline College,"Burien TC, Des Moines"
+123,Downtown Seattle,Gregory Heights,Burien TC
+124,Downtown Seattle,Tukwila Int'l Blvd Station Sea-Tac Airport Station (Owl Trips Only),"Airport Way S, Georgetown"
+125,Downtown Seattle,Westwood Village,"16th Ave SW, South Seattle College"
+128,Southcenter,Admiral District,"Tukwila Link Station, Alaska Junction"
+131,Downtown Seattle,Burien Transit Center,Highland Park
+132,Downtown Seattle,Burien Transit Center,South Park
+143,Downtown Seattle,Black Diamond,Renton Transit Center
+148,Renton Transit Center,Fairwood,South Renton P&R
+150,Downtown Seattle,Kent Sounder Station,"SODO, 52nd Ave S P&R, Southcenter"
+153,Renton Transit Center,Kent Sounder Station,South Renton P&R
+154,Federal Center South,Tuwkila Sounder Station,"Boeing Industrial, East Marginal Way South"
+156,Southcenter,Highline College,"SeaTac, Des Moines"
+157,Downtown Seattle,Lake Meridian P&R,East Hill
+160,Renton Transit Center,Auburn Station,"S Renton P&R, Kent Station"
+161,Burien Transit Center,Kent Station,Sea-Tac Airport Station
+162,Downtown Seattle,Lake Meridian P&R,"Kent Station, Kent-Des Moines P&R"
+165,Burien Transit Center,Green River College,"Highline College, Kent Station"
+168,Kent Station,Maple Valley,Lake Meridian P&R
+177,Downtown Seattle,Federal Way S 320th P&R,I-5
+178,Downtown Seattle,S Federal Way P&R,"I-5, S 320th P&R"
+179,Downtown Seattle,Twin Lakes P&R,Federal Way TC
+181,Green River College,Twin Lakes P&R,"Federal Way TC, Auburn Station"
+182,Federal Way TC,NE Tacoma,S Federal Way
+183,Federal Way TC,Kent Station,Star Lake
+184,Auburn Station,Southeast Auburn,
+187,Federal Way TC,Twin Lakes,
+190,Downtown Seattle,Redondo Heights P&R,Star Lake P&R
+193,First Hill,Federal Way P&R,"Federal Way TC, Star Lake FS, Tukwila FS, Kent-Des Moines FS"
+197,University District,Twin Lakes P&R,"Federal Way TC, Star Lake FS, Kent-Des Moines FS"
+203,South Bellevue Station,Issaquah Highlands P&R,"Factoria, Issaquah"
+204,North Mercer Island,South Mercer Island,Mercer Island P&R
+208,Issaquah Transit Center,North Bend,Snoqualmie Ridge
+212,Downtown Seattle,Eastgate P&R,"Factoria (westbound only), Eastgate Freeway Station"
+218,Downtown Seattle,Issaquah Highlands P&R,Eastgate Freeway Station
+222,Redmond Technology Station,Cottage Lake,Downtown Redmond Station
+223,Downtown Redmond Station,Eastgate P&R,"Overlake, Crossroads"
+224,Redmond Transit Center,Duvall,Redmond Ridge
+225,Kenmore Park & Ride,Redmond Technology Station,"Totem Lake TC, Kingsgate P&R"
+226,Bellevue Transit Center,South Bellevue Station,"Bellevue College, Crossroads, Eastgate P&R"
+230,Kirkland Transit Center,Bothell,"Juanita, UW Bothell"
+231,Kirkland Transit Center,Woodinville Park & Ride,"Juanita, Brickyard P&R"
+239,Kirkland Transit Center,UW Bothell,"Brickyard P&R, Totem Lake TC"
+240,Bellevue Transit Center,Renton Transit Center,"South Bellevue Station, Eastgate P&R, Factoria"
+245,Eastgate P&R,Kirkland Transit Center,"Overlake, Crossroads"
+249,South Bellevue Station,Spring District Station,"Bellevue TC, S. Kirkland P&R"
+250,Bellevue Transit Center,Avondale Bear Creek Park & Ride,"S. Kirkland P&R, Kirkland TC, Redmond TC, Bear Creek P&R"
+255,University District,Totem Lake Transit Center,"UW Station, SR-520, S Kirkland P&R, Kirkland TC"
+256,Woodinville P&R,Downtown Seattle,South Lake Union
+269,Marymoor Village Station,Issaquah Transit Center,"Bear Creek P&R, South Sammamish P&R, Issaquah Highlands P&R"
+271,University District,"Issaquah Eastgate P&R (Select Trips, Weekdays)","SR-520, Bellevue TC, Eastgate P&R, Bellevue College"
+303,First Hill,Aurora Village TC,Northgate Station
+322,SLU / Boren Ave / 12th & Alder,Kenmore P&R,"Lake City, Northgate Station"
+331,Kenmore P&R,Shoreline Community College,"Aurora Village TC, Mountlake Terrace Station"
+333,Mountlake Terrace,Shoreline South/148th Station,"North City, Richmond Highlands, Shoreline CC"
+345,Shoreline South/148th Station,Northgate Station,"Shoreline CC, NW Hospital, North Seattle College"
+346,Aurora Village TC,Shoreline South/148th Station,Richmond Highlands
+348,Richmond Beach Hillwood Park,Northgate Station,"Hillwood Park, Shoreline North/185th Station, North City"
+365,Shoreline South/185th Station,Northgate Station,"Shoreline South/148th Station, NW Hospital, North Seattle College"
+372,University District,UW Bothell / Cascadia College,"Lake City, Kenmore P&R, Bothell P&R"
+372X weekends,University District,Lake City,Ravenna
+522,Roosevelt Station,Woodinville P&R,"Lake City, UW Bothell, Kenmore P&R"
+541,U District Station,Overlake Park & Ride,"Overlake TC, Evergreen Point FS, Yarrow Point FS"
+542,U District Station,Redmond Transit Center,"Evergreen Point FS, Yarrow Point FS, Overlake TC"
+544,South Lake Union,Overlake Park & Ride,"S Kirkland P&R, Overlake TC, Evergreen Point FS, Yarrow Point FS, SR-520"
+545,Downtown Seattle,Bear Creek P&R,"Redmond TC, Overlake TC, Evergreen Point FS, Yarrow Point FS, SR-520"
+550,Downtown Seattle,Bellevue (110th Ave NE & NE 10th St),"Mercer Island P&R, South Bellevue P&R, Bellevue Way, Bellevue TC"
+554,Downtown Seattle,Issaquah Highlands P&R Sammamish (Select Trips),"Mercer Island P&R, Eastgate FS, Issaquah TC"
+555,U District Station,Bellevue TC,"SR-520, Evergreen Point FS, Yarrow Pt FS, Montlake FS"
+556,U District Station,Issaquah Highlands P&R,"Issaquah TC, Bellevue TC, Evergreen Point FS, Yarrow Pt FS, Montlake FS"
+566,Auburn Station,Redmond Technology Station,"Auburn P&R, Kent Station, Renton TC, Bellevue TC"
+629,Duvall,North Bend,"Fall City, Carnation"
+630,Downtown Seattle/First Hill,South Mercer Island,Mercer Island P&R
+631,Burien TC,Gregory Heights,St. Anne Hospital
+632,Redmond TC,Education Hill,
+633,Black Diamond,Enumclaw,SR 169
+634,Mt. Baker Station,Issaquah Alps,"Eastgate P&R, Poo Poo Point Trailhead, Margaret's Trailhead"
+635,Angle Lake Station,Des Moines Marina District,Wesley Homes
+636,Capitol Hil Station,Mt. Si,"Eastgate P&R, North Bend P&R"
+637,Issaquah TC,Mailbox Peak Trailhead,North Bend P&R
+638,Shoreline,Lake Forest Park,
+639,Normandy Park,,
+640,Tukwila International Blvd Station,Issaquah TC,"Renton TC, Renton Highlands, Sky Country Trailhead"
+661,Central Base,North Base,"NE 145th St FS, NE 45th St FS"
+773,Seacrest Park,Alaska Junction,
+775,Seacrest Park,Admiral District,Alki
+893,Totem Lake TC Lake Washington High School,Lake Washington High School Forbes Creek,Kirkland TC
+895,Lake Washington High School,Overlake P&R,
+901,Federal Way Transit Center,Mirror Lake,
+903,Federal Way Transit Center,Twin Lakes,
+906,Southcenter Tukwila Station (Peak Hours Only),Fairwood,
+907,Renton Transit Center,Black Diamond,Maple Valley
+914,Downtown Kent,Kent East Hill,Kent Station
+915,Auburn Station,Enumclaw,
+917,Auburn Station,Southeast Auburn,
+930,Redmond Town Center,Kingsgate Park & Ride,"Redmond TC, Totem Lake FS"
+931,UW Bothell / Cascadia College,Duvall,"Woodinville P&R, Cottage Lake"
+981,Lakeside HS,Mercer Island P&R,"Brickyard P&R, S Kirkland P&R, Bellevue TC,"
+982,Lakeside High School,Bear Creek P&R,"Overlake TC, SR-520"
+986,Lakeside High School,Houghton P&R,"S Kirkland P&R, SR-520"
+987,Lakeside HS,Rainier Beach,"Mt. Baker, Columbia City, Seward Park"
+988,Lakeside HS,Madrona,"Shoreline South/148th Station, Capitol Hill, Madison Valley"
+989,Evergreen School,Factoria,"Eastgate P&R, Mercer Island P&R"

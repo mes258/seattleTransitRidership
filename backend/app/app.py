@@ -120,7 +120,7 @@ def getAllCharts(agency: str, route: str, serviceChange: str):
       f.close()
     else:
       # Generate the plot json (and write to a file)
-      routeDataJson = buildRouteData(ridershipData, agency, route)
+      routeDataJson = buildRouteData(ridershipData, agency, route, serviceChange)
       with open(routeDataJsonPath, "w") as outfile:
         json.dump(routeDataJson, outfile)
 

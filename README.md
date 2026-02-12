@@ -13,7 +13,6 @@ Ridership will share the detailed data for every available route.
 ## Road Map
 There are a few items that we hope to add soon:
 - Route maps
-- Route destination list
 - Monthy ridership data from the agency (when available)
 - Support for more agencies (Community Transit, Pierce Transit, and more!)
 - Before/After plots to compare a route's ridership between two service changes
