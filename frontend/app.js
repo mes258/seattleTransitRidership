@@ -16,8 +16,8 @@ const routeMapping = {
 };
 
 const serviceChangeMapping = {
-  "241": "Spring 2024",
-  "243": 'Fall 2024'
+  "241": "Mar 30, 2024 - Sept 13, 2024",
+  "243": "Sept 14, 2024 - Mar 28, 2025"
 }
 
 document.addEventListener("DOMContentLoaded", () => {
