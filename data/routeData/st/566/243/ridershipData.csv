@@ -1,0 +1,59 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,566,I,57774,Auburn Transit Center - Bay 2,1,AM,3.3,0,3.3,29.5,0
+243,566,I,57892,Auburn Park And Ride - Bay 1,2,AM,1.3,0.4,4.2,11.7,3.5
+243,566,I,79247,W Smith St & 4th Ave N,3,AM,0.5,0.2,4.8,4.3,1.9
+243,566,I,57453,Kent Sounder Station - Bay 3,4,AM,12.5,0.3,16.4,112.3,3.1
+243,566,I,80640,Central Ave N & S 228th St,5,AM,1.2,0.1,17.5,10.4,0.5
+243,566,I,59860,Rainier Ave S & S 7th St,6,AM,2.1,0.5,19.1,19,4.4
+243,566,I,46476,Renton Transit Center - Bay 1,7,AM,6.4,1.8,24.7,51.1,14.4
+243,566,I,46520,Park Ave N & N 6th St,8,AM,0.4,0.2,23.8,3.6,1.4
+243,566,I,46530,Park Ave N & N 8th St,9,AM,0.4,0.5,23.7,3.9,4.9
+243,566,I,46541,Southport Dr N & Garden Ave N,10,AM,0.6,0.3,24,5.6,2.6
+243,566,I,68001,Bellevue Transit Center - Bay 11,11,AM,0.4,20.4,5,3.1,162.8
+243,566,I,71336,State Route 520 & NE 40th St,12,AM,0.2,5.2,0,1.7,41.9
+243,566,I,57774,Auburn Transit Center - Bay 2,1,MID,2.8,0,2.8,5.5,0
+243,566,O,71345,Redmond Technology Station Acs & 156th Ave NE - Bay 4,1,MID,1.7,0,1.8,6.9,0
+243,566,O,71335,Sr 520 & NE 40th St,2,MID,1.7,0.1,3.4,6.8,0.3
+243,566,I,57892,Auburn Park And Ride - Bay 1,2,MID,0.7,0.2,3.3,1.3,0.3
+243,566,I,79247,W Smith St & 4th Ave N,3,MID,0.1,0.2,2.9,0.4,0.6
+243,566,O,68006,Bellevue Transit Center - Bay 6,3,MID,10,0.8,11.7,30,2.4
+243,566,O,45191,Southport Dr N & Lake Washington Blvd N,4,MID,0.2,0.4,10.7,0.3,0.7
+243,566,I,57453,Kent Sounder Station - Bay 3,4,MID,3.5,0.5,5.8,10.5,1.6
+243,566,I,80640,Central Ave N & S 228th St,5,MID,1,0.1,6.8,3.1,0.2
+243,566,O,45219,Park Ave N & N 8th St,5,MID,0.3,0.7,10.3,0.6,1.4
+243,566,O,46479,Renton Transit Center - Bay 4,6,MID,1.5,4,7.8,3,7.9
+243,566,I,59860,Rainier Ave S & S 7th St,6,MID,1.1,0.3,7.6,3.2,0.9
+243,566,O,59911,Sr 167 & SW 7th St,7,MID,0.3,0.8,7.4,0.6,1.5
+243,566,I,46476,Renton Transit Center - Bay 1,7,MID,4.9,1.2,12.1,19.4,4.7
+243,566,O,80780,Central Ave N & S 228th St,8,MID,0.3,0.5,8.1,0.3,0.5
+243,566,I,46520,Park Ave N & N 6th St,8,MID,0.1,0.1,12.2,0.5,0.2
+243,566,I,46530,Park Ave N & N 8th St,9,MID,0.5,0.4,12.3,1.8,1.4
+243,566,O,57459,Kent Sounder Station - Bay 9,9,MID,0,8.1,0,0,8.1
+243,566,I,46541,Southport Dr N & Garden Ave N,10,MID,0.5,0.2,12.5,1.9,0.9
+243,566,I,68001,Bellevue Transit Center - Bay 11,11,MID,0.3,11.7,2,1.5,58.3
+243,566,I,71336,State Route 520 & NE 40th St,12,MID,0.8,2.8,0,3.8,14.2
+243,566,O,71345,Redmond Technology Station Acs & 156th Ave NE - Bay 4,1,PM,3,0,3.3,24,0
+243,566,O,71335,Sr 520 & NE 40th St,2,PM,1.7,0.1,4.9,13.9,0.6
+243,566,O,68006,Bellevue Transit Center - Bay 6,3,PM,13.9,0.8,18.2,125.3,6.9
+243,566,O,45191,Southport Dr N & Lake Washington Blvd N,4,PM,0.4,0.8,18.3,3.6,7.5
+243,566,O,45219,Park Ave N & N 8th St,5,PM,0.5,0.9,17.8,4.3,8
+243,566,O,46479,Renton Transit Center - Bay 4,6,PM,2.1,7.8,12.1,18.9,70.2
+243,566,O,59911,Sr 167 & SW 7th St,7,PM,0.4,0.8,11.7,3.3,7
+243,566,O,80780,Central Ave N & S 228th St,8,PM,0.2,0.8,11,1.6,6.9
+243,566,O,57459,Kent Sounder Station - Bay 9,9,PM,0.5,9.1,2.4,4.9,82.2
+243,566,O,57481,4th Ave N & W Smith St,10,PM,0,0.3,4.1,0.1,1.3
+243,566,O,57892,Auburn Park And Ride - Bay 1,11,PM,0.4,1.7,2.7,2.1,8.7
+243,566,O,57776,Auburn Transit Center - Bay 4,12,PM,0.1,3.2,0,0.5,12.7
+243,566,O,45191,Southport Dr N & Lake Washington Blvd N,4,XEV,0.1,0.4,8.6,0.1,0.4
+243,566,O,45219,Park Ave N & N 8th St,5,XEV,0.2,0.3,8.5,0.2,0.3
+243,566,O,46479,Renton Transit Center - Bay 4,6,XEV,1.3,2.8,6.9,1.3,2.8
+243,566,O,59911,Sr 167 & SW 7th St,7,XEV,0.7,0.5,7.1,0.7,0.5
+243,566,O,80780,Central Ave N & S 228th St,8,XEV,0.2,1.2,6.7,0.3,2.4
+243,566,O,57459,Kent Sounder Station - Bay 9,9,XEV,0.7,4.7,2.7,1.3,9.4
+243,566,O,57481,4th Ave N & W Smith St,10,XEV,0,0.2,2.5,0,0.4
+243,566,O,57892,Auburn Park And Ride - Bay 1,11,XEV,0.4,1.3,1.6,0.7,2.5
+243,566,O,57776,Auburn Transit Center - Bay 4,12,XEV,0.1,2,0,0.4,5.9
+243,566,I,57453,Kent Sounder Station - Bay 3,4,XNT,5.5,0,5.5,5.5,0
+243,566,I,80640,Central Ave N & S 228th St,5,XNT,0.1,0,5.7,0.1,0
+243,566,I,59860,Rainier Ave S & S 7th St,6,XNT,1.4,0.6,6.5,1.4,0.6
+243,566,I,46476,Renton Transit Center - Bay 1,7,XNT,7.9,0.1,14.4,7.9,0.1

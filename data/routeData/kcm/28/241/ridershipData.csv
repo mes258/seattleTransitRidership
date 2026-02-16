@@ -1,0 +1,320 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,28,I,27910,3rd Ave NW & NW 125th St,11,AM,0.8,0.1,3.8,3.1,0.4
+241,28,O,28700,3rd Ave NW & NW 105th St,31,PM,0,0.2,4.8,0,0.7
+241,28,I,27930,3rd Ave NW & NW 120th St,12,AM,0.1,0,3.9,0.2,0
+241,28,O,28470,8th Ave NW & NW Market St,19,AM,0.3,0.3,2.8,1.9,1.6
+241,28,O,28470,8th Ave NW & NW Market St,19,MID,0.5,0.7,4.5,6.1,7.9
+241,28,O,28470,8th Ave NW & NW Market St,19,PM,0.9,3,16.5,10.2,36
+241,28,O,28470,8th Ave NW & NW Market St,19,XEV,0.6,1.4,6.3,2.2,5.5
+241,28,O,28470,8th Ave NW & NW Market St,19,XNT,0.2,0.6,3.2,0.5,1.7
+241,28,O,6237,7th Ave N & Harrison St,10,AM,0.1,1.1,4.8,0.7,7.6
+241,28,O,28510,8th Ave NW & NW 65th St,21,AM,0.1,1,1.9,0.6,6.2
+241,28,O,5550,Greenwood Ave N & N 145th St,44,PM,0,0.2,2.3,0,0.7
+241,28,O,28510,8th Ave NW & NW 65th St,21,MID,0.5,1.5,3.3,5.8,18
+241,28,O,6237,7th Ave N & Harrison St,10,MID,0.9,0.5,7.4,10.2,6.5
+241,28,O,5550,Greenwood Ave N & N 145th St,44,XEV,0,0.2,1.4,0,0.2
+241,28,O,28510,8th Ave NW & NW 65th St,21,PM,0.6,2.4,12.9,6.9,28.4
+241,28,O,28510,8th Ave NW & NW 65th St,21,XEV,0.6,1.4,5,2.3,5.5
+241,28,O,6237,7th Ave N & Harrison St,10,PM,5,0.5,27.2,60.2,6.3
+241,28,O,28510,8th Ave NW & NW 65th St,21,XNT,0.1,0.4,2.6,0.2,1.1
+241,28,O,28600,8th Ave NW & NW 84th St,26,AM,0,0.6,1.1,0.1,3.7
+241,28,O,6237,7th Ave N & Harrison St,10,XEV,1.4,0.3,9.4,4.1,1
+241,28,O,28600,8th Ave NW & NW 84th St,26,MID,0,1.2,1.2,0.2,14.6
+241,28,O,28600,8th Ave NW & NW 84th St,26,PM,0.1,3.1,5.1,1.2,36.7
+241,28,O,6237,7th Ave N & Harrison St,10,XNT,0.6,0.2,5.4,1.8,0.5
+241,28,O,28600,8th Ave NW & NW 84th St,26,XEV,0,1.4,1.8,0.1,5.6
+241,28,O,28600,8th Ave NW & NW 84th St,26,XNT,0.1,0.9,1,0.2,2.7
+241,28,I,490,3rd Ave & Cherry St,45,AM,0,3.8,2.5,0,11.3
+241,28,I,490,3rd Ave & Cherry St,45,MID,0,1.4,1.4,0,1.4
+241,28,I,490,3rd Ave & Cherry St,45,XEV,0,0.1,1.7,0,0.1
+241,28,I,490,3rd Ave & Cherry St,45,XNT,0,0.2,0.9,0,0.2
+241,28,I,28260,Leary Way NW & NW 43rd St,33,AM,0.8,0.4,17.5,11.2,6
+241,28,I,28260,Leary Way NW & NW 43rd St,33,MID,1,0.2,10.2,12.9,2.7
+241,28,I,28260,Leary Way NW & NW 43rd St,33,PM,1.4,0.4,8.6,10.8,2.9
+241,28,I,28260,Leary Way NW & NW 43rd St,33,XEV,0.8,0.4,5.2,2.3,1.1
+241,28,I,28260,Leary Way NW & NW 43rd St,33,XNT,0.5,0.2,2.7,1.6,0.5
+241,28,O,531,3rd Ave & James St,3,AM,0.6,2.3,14.8,4.5,16
+241,28,O,531,3rd Ave & James St,3,MID,0.8,2.2,14,9.7,26.5
+241,28,I,420,3rd Ave & Virginia St,42,AM,0.2,4.4,17.2,0.5,13.1
+241,28,O,531,3rd Ave & James St,3,PM,1.7,1.9,15.3,20.7,22.9
+241,28,I,420,3rd Ave & Virginia St,42,MID,0.2,2.8,7.6,0.2,2.8
+241,28,I,420,3rd Ave & Virginia St,42,XEV,0.1,0.8,3.5,0.1,0.8
+241,28,O,28850,NW 132nd St & 3rd Ave NW,40,PM,0,0.2,2.8,0,0.7
+241,28,I,420,3rd Ave & Virginia St,42,XNT,0.1,0.5,1.6,0.1,0.5
+241,28,O,531,3rd Ave & James St,3,XEV,0.5,1,8.4,1.6,2.9
+241,28,O,531,3rd Ave & James St,3,XNT,0.3,0.3,3.8,0.9,0.9
+241,28,I,27970,3rd Ave NW & NW 110th St,15,AM,0.1,0,4.6,0.2,0
+241,28,O,28760,3rd Ave NW & NW 120th St,35,PM,0,0.1,4.2,0,0.3
+241,28,O,28880,3rd Ave NW & NW 140th St,42,PM,0,0.1,2.8,0,0.2
+241,28,O,28880,3rd Ave NW & NW 140th St,42,XEV,0,0,2.2,0,0
+241,28,O,30635,4th Ave S & S Royal Brougham Way,1,AM,0.2,0,16.5,1.6,0
+241,28,O,30635,4th Ave S & S Royal Brougham Way,1,MID,0.7,0,21.3,8.6,0
+241,28,I,28000,NW 103rd St & 3rd Ave NW,17,AM,0.3,0,5.3,1.3,0
+241,28,O,30635,4th Ave S & S Royal Brougham Way,1,PM,0.8,0,20,9.6,0
+241,28,O,30635,4th Ave S & S Royal Brougham Way,1,XEV,0.7,0,10.7,2,0
+241,28,I,27780,N 143rd St & Linden Ave N,1,AM,1.5,0,1.5,6.1,0.1
+241,28,O,27780,N 143rd St & Linden Ave N,46,PM,0,2.2,0,0.1,6.6
+241,28,O,27780,N 143rd St & Linden Ave N,46,XEV,0.1,1.3,0,0.1,1.3
+241,28,O,30635,4th Ave S & S Royal Brougham Way,1,XNT,1,0,3.6,3.1,0
+241,28,O,28630,8th Ave NW & NW 90th St,27,AM,0,0.1,1.1,0.1,0.4
+241,28,O,28630,8th Ave NW & NW 90th St,27,MID,0,0.3,0.9,0,3.1
+241,28,O,28630,8th Ave NW & NW 90th St,27,PM,0,0.9,4.2,0,11.3
+241,28,O,28630,8th Ave NW & NW 90th St,27,XEV,0,0.4,1.4,0,1.6
+241,28,O,28630,8th Ave NW & NW 90th St,27,XNT,0,0.2,0.8,0,0.5
+241,28,I,6176,7th Ave N & Thomas St,39,AM,0.3,3.5,18.3,4.4,45.8
+241,28,I,6176,7th Ave N & Thomas St,39,MID,0.5,3,12.1,7.1,38.5
+241,28,I,6176,7th Ave N & Thomas St,39,PM,1.4,1,11.4,11.2,8.1
+241,28,I,6176,7th Ave N & Thomas St,39,XEV,0.4,0.6,6.5,1.6,2.4
+241,28,I,6176,7th Ave N & Thomas St,39,XNT,0.8,0.2,3.7,2.5,0.7
+241,28,O,28425,8th Ave NW & NW 45th St,17,AM,0,0.2,2.9,0.3,1.7
+241,28,O,28425,8th Ave NW & NW 45th St,17,MID,0.1,0.3,5,1.5,3.8
+241,28,O,28425,8th Ave NW & NW 45th St,17,PM,0.3,0.7,19.7,4,7.8
+241,28,O,28425,8th Ave NW & NW 45th St,17,XEV,0.2,0.3,7.5,0.6,1.2
+241,28,O,28425,8th Ave NW & NW 45th St,17,XNT,0.2,0.1,3.9,0.7,0.3
+241,28,I,27810,3rd Ave NW & NW 140th St,5,AM,0,0,1.6,0,0
+241,28,I,28180,8th Ave NW & NW 61st St,29,AM,1.8,0,13.7,24.8,0.1
+241,28,I,28180,8th Ave NW & NW 61st St,29,MID,0.8,0,7.6,10.4,0.5
+241,28,I,28180,8th Ave NW & NW 61st St,29,PM,0.6,0,6.2,4.9,0.2
+241,28,I,28180,8th Ave NW & NW 61st St,29,XEV,0.3,0,4.4,0.9,0
+241,28,I,28180,8th Ave NW & NW 61st St,29,XNT,0,0,2.1,0.1,0
+241,28,I,6050,Aurora Ave N & N 38th St,36,AM,2.4,0.3,21.2,31.3,3.3
+241,28,O,28550,8th Ave NW & NW 75th St,24,AM,0,0,1.9,0,0.1
+241,28,I,6050,Aurora Ave N & N 38th St,36,MID,1.6,0.4,13.9,22.7,5.8
+241,28,O,28550,8th Ave NW & NW 75th St,24,MID,0,0.2,2.6,0,2.8
+241,28,I,6050,Aurora Ave N & N 38th St,36,PM,1.8,0.7,10.7,14.6,5.6
+241,28,I,27820,3rd Ave NW & NW 137th St,6,AM,0.1,0,1.6,0.3,0
+241,28,O,28550,8th Ave NW & NW 75th St,24,PM,0,1.1,9.4,0.2,13.6
+241,28,I,6050,Aurora Ave N & N 38th St,36,XEV,0.9,0.4,6,2.6,1.2
+241,28,O,28410,Leary Way NW & NW 43rd St,16,AM,0.2,1,3.1,1.1,7.3
+241,28,O,28550,8th Ave NW & NW 75th St,24,XEV,0,0.3,3.7,0,1.3
+241,28,I,6050,Aurora Ave N & N 38th St,36,XNT,0.3,0.2,3,0.9,0.5
+241,28,O,28410,Leary Way NW & NW 43rd St,16,MID,0.3,0.7,5.6,3.6,8
+241,28,O,28550,8th Ave NW & NW 75th St,24,XNT,0,0.2,2.1,0,0.5
+241,28,O,28410,Leary Way NW & NW 43rd St,16,PM,0.5,1.1,20.1,5.5,13.7
+241,28,O,28410,Leary Way NW & NW 43rd St,16,XEV,0.3,0.8,6.7,0.9,2.4
+241,28,O,28410,Leary Way NW & NW 43rd St,16,XNT,0.1,0.3,3.8,0.3,0.8
+241,28,I,28020,NW 100th Pl & NW 100th St,19,AM,0.3,0,5.6,1,0
+241,28,O,28670,8th Ave NW & NW 100th Pl,29,AM,0,0.3,0.5,0,1.6
+241,28,O,28670,8th Ave NW & NW 100th Pl,29,MID,0,0.3,0.5,0,3.5
+241,28,O,28670,8th Ave NW & NW 100th Pl,29,PM,0,1,2.7,0,11.6
+241,28,O,6340,Aurora Ave N & N 38th St,13,AM,0.3,0.6,4.3,2.1,4.4
+241,28,O,28670,8th Ave NW & NW 100th Pl,29,XEV,0,0.4,0.7,0,1.5
+241,28,O,6340,Aurora Ave N & N 38th St,13,MID,0.3,1.2,6.4,3.7,14.7
+241,28,O,28670,8th Ave NW & NW 100th Pl,29,XNT,0,0.2,0.6,0,0.5
+241,28,O,6340,Aurora Ave N & N 38th St,13,PM,0.6,4.1,23.2,6.7,49.3
+241,28,O,6340,Aurora Ave N & N 38th St,13,XEV,0.3,1.3,8.1,0.9,4
+241,28,O,6340,Aurora Ave N & N 38th St,13,XNT,0.1,0.7,4.4,0.2,2
+241,28,O,6320,Aurora Ave N & Lynn St,12,AM,0,0.1,4.6,0.1,0.9
+241,28,O,6320,Aurora Ave N & Lynn St,12,MID,0.1,0.1,7.3,0.6,1.6
+241,28,O,6320,Aurora Ave N & Lynn St,12,PM,0.1,0.3,26.7,1.1,4
+241,28,I,515,3rd Ave S & S Main St,46,AM,0.6,3.1,0,1.8,9.2
+241,28,O,6320,Aurora Ave N & Lynn St,12,XEV,0,0.1,9.1,0.1,0.3
+241,28,I,515,3rd Ave S & S Main St,46,MID,0,1.4,0,0,1.4
+241,28,O,6320,Aurora Ave N & Lynn St,12,XNT,0,0.1,5,0,0.4
+241,28,I,515,3rd Ave S & S Main St,46,XEV,0.7,2.4,0,0.7,2.4
+241,28,I,515,3rd Ave S & S Main St,46,XNT,0.5,1.3,0,0.5,1.3
+241,28,I,27880,8th Ave NW & NW 127th St,9,AM,0.7,0,2.8,2.6,0
+241,28,O,590,3rd Ave & Pine St,6,AM,1.2,1.7,9.8,8.6,11.6
+241,28,O,590,3rd Ave & Pine St,6,MID,1.6,2.9,9.3,19.4,34.7
+241,28,O,590,3rd Ave & Pine St,6,PM,3.6,1.9,20.2,43.7,22.5
+241,28,O,590,3rd Ave & Pine St,6,XEV,1.7,1,8.6,5.2,2.9
+241,28,O,6300,Aurora Ave N & Galer St,11,AM,0.1,0.2,4.7,0.4,1.4
+241,28,O,590,3rd Ave & Pine St,6,XNT,1.1,0.2,5,3.2,0.7
+241,28,O,6300,Aurora Ave N & Galer St,11,MID,0.1,0.2,7.3,1.7,2.7
+241,28,O,6300,Aurora Ave N & Galer St,11,PM,0.4,0.7,26.9,4.9,8.3
+241,28,O,6300,Aurora Ave N & Galer St,11,XEV,0.1,0.3,9.2,0.3,1
+241,28,O,6300,Aurora Ave N & Galer St,11,XNT,0,0.3,5.1,0.1,0.8
+241,28,I,27790,3rd Ave NW & NW 145th St,4,AM,0,0,1.6,0.1,0
+241,28,I,27890,NW 125th St & 8th Ave NW,10,AM,0.4,0,3.1,1.6,0
+241,28,I,28010,NW 100th Pl & 7th Ave NW,18,AM,0.1,0.1,5.4,0.4,0.3
+241,28,I,28080,8th Ave NW & NW 85th St,23,AM,1.7,0.1,6.1,26,0.9
+241,28,I,28080,8th Ave NW & NW 85th St,23,MID,1.3,0.1,3.6,15.6,0.6
+241,28,I,28080,8th Ave NW & NW 85th St,23,PM,1,0.1,2.6,7.8,0.5
+241,28,I,28080,8th Ave NW & NW 85th St,23,XEV,0.6,0,2,1.9,0.1
+241,28,I,28080,8th Ave NW & NW 85th St,23,XNT,0.3,0,1,0.8,0
+241,28,O,28650,8th Ave NW & NW 95th St,28,AM,0,0.3,0.8,0,1.7
+241,28,O,28650,8th Ave NW & NW 95th St,28,MID,0,0.2,0.7,0,2.1
+241,28,O,28650,8th Ave NW & NW 95th St,28,PM,0,0.5,3.6,0,6.5
+241,28,O,28650,8th Ave NW & NW 95th St,28,XEV,0,0.3,1.1,0,1
+241,28,O,28650,8th Ave NW & NW 95th St,28,XNT,0,0.1,0.7,0,0.4
+241,28,O,28890,3rd Ave NW & NW 143rd St,43,PM,0,0.2,2.5,0,0.7
+241,28,I,28140,8th Ave NW & NW 70th St,27,AM,1.5,0,10.2,21.9,0.5
+241,28,O,28890,3rd Ave NW & NW 143rd St,43,XEV,0,0.7,1.5,0,0.7
+241,28,I,28140,8th Ave NW & NW 70th St,27,MID,0.7,0,5.7,8.1,0.4
+241,28,I,28140,8th Ave NW & NW 70th St,27,PM,0.6,0.1,4,5,1
+241,28,I,28140,8th Ave NW & NW 70th St,27,XEV,0.2,0.1,2.5,0.5,0.4
+241,28,I,28140,8th Ave NW & NW 70th St,27,XNT,0,0,1.2,0.1,0
+241,28,O,27770,N 143rd St & Greenwood Ave N,45,PM,0,0.2,2.2,0,0.6
+241,28,O,27770,N 143rd St & Greenwood Ave N,45,XEV,0,0.2,1.2,0,0.2
+241,28,I,28130,8th Ave NW & NW 73rd St,26,AM,0.6,0,8.8,9.3,0.1
+241,28,I,28130,8th Ave NW & NW 73rd St,26,MID,0.4,0,5.1,4.2,0
+241,28,I,28130,8th Ave NW & NW 73rd St,26,PM,0.1,0,3.5,1.1,0.1
+241,28,I,28130,8th Ave NW & NW 73rd St,26,XEV,0,0,2.4,0.1,0
+241,28,I,28130,8th Ave NW & NW 73rd St,26,XNT,0,0,1.1,0.1,0
+241,28,I,6100,Aurora Ave N & Galer St,38,AM,0.5,0.3,21.5,6.7,4
+241,28,I,6100,Aurora Ave N & Galer St,38,MID,0.4,0.2,14.2,6.2,3.2
+241,28,I,6100,Aurora Ave N & Galer St,38,PM,0.3,0.2,10.9,2.5,1.9
+241,28,I,6100,Aurora Ave N & Galer St,38,XEV,0.2,0.2,6,0.6,0.6
+241,28,I,6100,Aurora Ave N & Galer St,38,XNT,0.1,0,3.1,0.3,0.1
+241,28,I,28120,8th Ave NW & NW 75th St,25,AM,0.8,0,8.1,11.7,0.1
+241,28,I,28120,8th Ave NW & NW 75th St,25,MID,0.6,0,4.7,6.6,0
+241,28,I,28120,8th Ave NW & NW 75th St,25,PM,0.3,0,3.4,2.5,0.1
+241,28,I,28120,8th Ave NW & NW 75th St,25,XEV,0.2,0,2.4,0.5,0
+241,28,I,28120,8th Ave NW & NW 75th St,25,XNT,0,0,1.1,0.1,0
+241,28,I,75380,N 145th St & Linden Ave N,2,AM,0.2,0,1.6,0.9,0
+241,28,O,28810,8th Ave NW & NW 127th St,38,PM,0,0.2,3,0,0.9
+241,28,I,400,3rd Ave & Bell St,41,AM,0.4,1.2,21.4,1.1,3.6
+241,28,I,400,3rd Ave & Bell St,41,MID,0.5,0.8,10.2,0.5,0.8
+241,28,I,400,3rd Ave & Bell St,41,XEV,0.4,0.6,4.2,0.4,0.6
+241,28,I,400,3rd Ave & Bell St,41,XNT,0.3,0.2,2,0.3,0.2
+241,28,I,28060,8th Ave NW & NW 90th St,22,AM,0.9,0,4.4,13.7,0.3
+241,28,O,570,3rd Ave & Union St,5,AM,0.9,3,10.2,6.4,20.7
+241,28,I,28060,8th Ave NW & NW 90th St,22,MID,0.4,0,2.3,5.1,0
+241,28,I,28060,8th Ave NW & NW 90th St,22,PM,0.3,0,1.7,2.3,0
+241,28,I,28060,8th Ave NW & NW 90th St,22,XEV,0.1,0,1.4,0.4,0
+241,28,O,570,3rd Ave & Union St,5,MID,1,3.6,10.6,12.1,43.2
+241,28,I,28060,8th Ave NW & NW 90th St,22,XNT,0.1,0,0.7,0.2,0
+241,28,O,28800,NW 125th St & 8th Ave NW,37,PM,0,0.5,3.2,0,1.8
+241,28,O,570,3rd Ave & Union St,5,PM,4,3.3,18.4,48.3,39.6
+241,28,O,570,3rd Ave & Union St,5,XEV,1,1.6,7.9,3,4.9
+241,28,O,570,3rd Ave & Union St,5,XNT,0.7,0.5,4.2,2.2,1.5
+241,28,O,600,3rd Ave & Virginia St,7,AM,0.5,2.3,8,3.5,16.1
+241,28,O,600,3rd Ave & Virginia St,7,MID,0.6,2,7.9,7.7,24.4
+241,28,O,600,3rd Ave & Virginia St,7,PM,1.9,1.8,20.3,22.5,21.7
+241,28,O,600,3rd Ave & Virginia St,7,XEV,0.7,1.2,8.1,2,3.6
+241,28,O,600,3rd Ave & Virginia St,7,XNT,0.5,0.6,5,1.6,1.8
+241,28,I,27990,3rd Ave NW & NW 105th St,16,AM,0.4,0,5,1.7,0
+241,28,O,548,3rd Ave & Madison St,4,AM,0.5,3.1,12.2,3.8,21.8
+241,28,O,548,3rd Ave & Madison St,4,MID,1.1,1.9,13.2,12.6,22.6
+241,28,I,433,3rd Ave & Pike St,43,AM,0.1,5,12.4,0.4,14.9
+241,28,I,433,3rd Ave & Pike St,43,MID,0.1,2.7,5,0.1,2.7
+241,28,I,433,3rd Ave & Pike St,43,XEV,0.1,1.2,2.4,0.1,1.2
+241,28,O,548,3rd Ave & Madison St,4,PM,3.9,1.5,17.7,46.3,17.5
+241,28,I,433,3rd Ave & Pike St,43,XNT,0.1,0.5,1.2,0.1,0.5
+241,28,O,548,3rd Ave & Madison St,4,XEV,0.8,0.7,8.5,2.5,2.2
+241,28,I,28230,8th Ave NW & NW 51st St,31,AM,0.9,0.1,16.8,12.2,0.7
+241,28,I,28230,8th Ave NW & NW 51st St,31,MID,0.6,0.1,9.3,8.1,0.9
+241,28,I,28230,8th Ave NW & NW 51st St,31,PM,0.7,0.2,7.5,5.3,1.2
+241,28,O,548,3rd Ave & Madison St,4,XNT,0.5,0.3,4,1.4,1
+241,28,I,28230,8th Ave NW & NW 51st St,31,XEV,0.4,0.1,4.8,1.1,0.2
+241,28,I,28230,8th Ave NW & NW 51st St,31,XNT,0.1,0,2.3,0.2,0
+241,28,I,28285,N 39th St & Greenwood Ave N,34,AM,1.6,0.2,19,22.9,3.4
+241,28,I,28285,N 39th St & Greenwood Ave N,34,MID,1,0.2,11,13.3,2.5
+241,28,I,28285,N 39th St & Greenwood Ave N,34,PM,1,0.3,9.3,7.8,2.1
+241,28,O,28490,8th Ave NW & NW 60th St,20,AM,0,0,2.8,0,0.2
+241,28,I,28285,N 39th St & Greenwood Ave N,34,XEV,0.5,0.3,5.5,1.5,0.8
+241,28,O,28490,8th Ave NW & NW 60th St,20,MID,0.1,0.3,4.4,1.3,3
+241,28,I,28285,N 39th St & Greenwood Ave N,34,XNT,0.2,0.1,2.8,0.7,0.2
+241,28,O,28490,8th Ave NW & NW 60th St,20,PM,0.1,1.8,14.7,0.7,22.1
+241,28,O,28490,8th Ave NW & NW 60th St,20,XEV,0,0.6,5.8,0,2.3
+241,28,O,28490,8th Ave NW & NW 60th St,20,XNT,0,0.4,2.9,0.1,1.1
+241,28,I,468,3rd Ave & Seneca St,44,AM,0.1,6.3,6.2,0.2,18.9
+241,28,I,468,3rd Ave & Seneca St,44,MID,0.1,2.3,2.8,0.1,2.3
+241,28,I,468,3rd Ave & Seneca St,44,XEV,0,0.6,1.8,0,0.6
+241,28,I,468,3rd Ave & Seneca St,44,XNT,0,0.1,1.1,0,0.1
+241,28,O,619,4th Ave S & S Jackson St,2,AM,3.2,3.2,16.4,22.3,22.4
+241,28,O,605,3rd Ave & Bell St,8,AM,0.3,1.4,6.9,2.3,9.7
+241,28,O,619,4th Ave S & S Jackson St,2,MID,1.7,7.5,15.4,20,90.3
+241,28,O,619,4th Ave S & S Jackson St,2,PM,2.4,6.9,15.5,29,82.4
+241,28,O,605,3rd Ave & Bell St,8,MID,0.6,1.5,7,6.7,18.1
+241,28,O,619,4th Ave S & S Jackson St,2,XEV,1.1,2.9,8.9,3.2,8.7
+241,28,O,605,3rd Ave & Bell St,8,PM,1.4,1.8,19.8,16.9,21.9
+241,28,O,619,4th Ave S & S Jackson St,2,XNT,1.2,0.9,3.8,3.6,2.8
+241,28,O,605,3rd Ave & Bell St,8,XEV,1,1.4,7.6,2.9,4.3
+241,28,O,605,3rd Ave & Bell St,8,XNT,0.8,0.9,4.9,2.4,2.8
+241,28,O,28376,N 39th St & Phinney Ave N,15,AM,0,0.2,4,0.1,1.4
+241,28,O,28376,N 39th St & Phinney Ave N,15,MID,0.2,0.4,6,2.1,4.5
+241,28,O,28376,N 39th St & Phinney Ave N,15,PM,0.4,1.8,20.7,4.7,21.2
+241,28,O,28376,N 39th St & Phinney Ave N,15,XEV,0.2,0.7,7.1,0.5,2.2
+241,28,O,28376,N 39th St & Phinney Ave N,15,XNT,0.2,0.3,3.9,0.5,1
+241,28,I,28040,8th Ave NW & NW 95th St,21,AM,0.7,0,3.5,10,0.1
+241,28,I,28040,8th Ave NW & NW 95th St,21,MID,0.4,0,1.9,4.8,0
+241,28,I,28040,8th Ave NW & NW 95th St,21,PM,0.4,0,1.4,2.8,0
+241,28,I,28040,8th Ave NW & NW 95th St,21,XEV,0.2,0,1.3,0.5,0
+241,28,I,7430,Wall St & 5th Ave,40,AM,0.1,2.3,16.1,1.8,29.9
+241,28,I,28040,8th Ave NW & NW 95th St,21,XNT,0.3,0,0.7,0.9,0
+241,28,I,7430,Wall St & 5th Ave,40,MID,0,2.3,9.8,0.5,30.4
+241,28,I,7430,Wall St & 5th Ave,40,PM,0,1.1,10.3,0,8.7
+241,28,I,7430,Wall St & 5th Ave,40,XEV,0.1,1.1,5.5,0.2,4.2
+241,28,I,7430,Wall St & 5th Ave,40,XNT,0,0.5,3.3,0.1,1.5
+241,28,O,6236,7th Ave N & Denny Way,9,AM,0.3,1.3,5.8,1.9,9.4
+241,28,O,6236,7th Ave N & Denny Way,9,MID,0.9,0.7,7.1,10.3,8.3
+241,28,O,6236,7th Ave N & Denny Way,9,PM,3.6,0.7,22.7,43.1,8.2
+241,28,O,6236,7th Ave N & Denny Way,9,XEV,1.2,0.5,8.3,3.6,1.4
+241,28,O,6236,7th Ave N & Denny Way,9,XNT,0.4,0.4,4.9,1.2,1.1
+241,28,O,28870,3rd Ave NW & NW 137th St,41,PM,0,0.1,2.7,0,0.4
+241,28,O,28720,3rd Ave NW & NW 110th St,32,PM,0,0.2,4.7,0,0.6
+241,28,I,75390,N 145th St & Dayton Ave N,3,AM,0.1,0.1,1.5,0.5,0.4
+241,28,O,28575,8th Ave NW & NW 80th St,25,AM,0,0.1,1.7,0,0.8
+241,28,O,28575,8th Ave NW & NW 80th St,25,MID,0,0.3,2.3,0.1,3.8
+241,28,O,28575,8th Ave NW & NW 80th St,25,PM,0,1.4,8,0,16.5
+241,28,O,28575,8th Ave NW & NW 80th St,25,XEV,0,0.6,3.1,0,2.4
+241,28,O,28575,8th Ave NW & NW 80th St,25,XNT,0,0.1,1.9,0,0.4
+241,28,O,28540,8th Ave NW & NW 73rd St,23,AM,0,0,1.9,0,0.1
+241,28,O,28540,8th Ave NW & NW 73rd St,23,MID,0,0.2,2.9,0,2.1
+241,28,O,28540,8th Ave NW & NW 73rd St,23,PM,0,0.9,10.5,0,10.2
+241,28,O,28540,8th Ave NW & NW 73rd St,23,XEV,0,0.3,4,0,1.3
+241,28,O,28540,8th Ave NW & NW 73rd St,23,XNT,0,0.1,2.2,0,0.4
+241,28,I,6070,Aurora Ave N & Lynn St,37,AM,0.1,0.1,21.3,1.3,0.8
+241,28,I,6070,Aurora Ave N & Lynn St,37,MID,0.1,0.1,14,2,0.8
+241,28,I,6070,Aurora Ave N & Lynn St,37,PM,0.1,0.1,10.8,1,0.8
+241,28,I,6070,Aurora Ave N & Lynn St,37,XEV,0.1,0.1,6,0.2,0.4
+241,28,I,6070,Aurora Ave N & Lynn St,37,XNT,0,0,3.1,0.1,0.1
+241,28,I,28100,8th Ave NW & NW 80th St,24,AM,1.3,0,7.4,19.7,0.1
+241,28,I,28100,8th Ave NW & NW 80th St,24,MID,0.7,0,4.2,7.8,0
+241,28,I,28100,8th Ave NW & NW 80th St,24,PM,0.5,0,3.1,4.1,0.2
+241,28,I,28100,8th Ave NW & NW 80th St,24,XEV,0.2,0,2.2,0.6,0
+241,28,I,28100,8th Ave NW & NW 80th St,24,XNT,0.1,0,1.1,0.3,0
+241,28,I,28160,8th Ave NW & NW 65th St,28,AM,1.6,0.1,11.9,22.1,1.1
+241,28,I,28160,8th Ave NW & NW 65th St,28,MID,1.4,0.4,6.8,18.1,4.7
+241,28,I,28160,8th Ave NW & NW 65th St,28,PM,2.1,0.4,5.7,16.9,3.2
+241,28,I,28160,8th Ave NW & NW 65th St,28,XEV,2.1,0.3,4.2,6.2,1
+241,28,I,28160,8th Ave NW & NW 65th St,28,XNT,0.9,0,2,2.7,0.1
+241,28,O,28530,8th Ave NW & NW 70th St,22,AM,0.1,0.1,1.9,0.8,0.4
+241,28,O,28530,8th Ave NW & NW 70th St,22,MID,0.1,0.4,3,0.9,4.9
+241,28,O,28530,8th Ave NW & NW 70th St,22,PM,0.1,1.7,11.3,0.7,20.1
+241,28,O,28374,N 39th St & Evanston Ave N,14,AM,0,0.1,4.2,0.1,0.8
+241,28,O,28530,8th Ave NW & NW 70th St,22,XEV,0.1,0.7,4.3,0.3,2.9
+241,28,O,28374,N 39th St & Evanston Ave N,14,MID,0,0.3,6.1,0.5,3.7
+241,28,O,28530,8th Ave NW & NW 70th St,22,XNT,0.1,0.3,2.3,0.2,0.9
+241,28,O,28374,N 39th St & Evanston Ave N,14,PM,0.2,1.2,22.1,1.9,14.6
+241,28,O,28750,3rd Ave NW & NW 117th St,34,PM,0,0.3,4.3,0,1
+241,28,O,28374,N 39th St & Evanston Ave N,14,XEV,0.1,0.5,7.7,0.4,1.5
+241,28,O,28374,N 39th St & Evanston Ave N,14,XNT,0.1,0.4,4.2,0.3,1.1
+241,28,I,28287,N 39th St & Dayton Ave N,35,AM,1.1,0.2,19.8,14.9,2.2
+241,28,I,28287,N 39th St & Dayton Ave N,35,MID,0.5,0.1,11.4,6.3,1.9
+241,28,I,28287,N 39th St & Dayton Ave N,35,PM,0.5,0.2,9.6,3.9,1.3
+241,28,I,28287,N 39th St & Dayton Ave N,35,XEV,0.2,0.1,5.6,0.7,0.4
+241,28,I,28287,N 39th St & Dayton Ave N,35,XNT,0.1,0.1,2.9,0.3,0.2
+241,28,O,28450,8th Ave NW & NW 50th St,18,AM,0.1,0.2,2.8,0.3,1.2
+241,28,O,28450,8th Ave NW & NW 50th St,18,MID,0.1,0.2,4.6,0.9,2.9
+241,28,O,28450,8th Ave NW & NW 50th St,18,PM,0.1,1.2,18.6,1.6,14.1
+241,28,O,28680,NW 100th Pl & 7th Ave NW,30,AM,0,0.5,0,0.2,3.2
+241,28,O,28450,8th Ave NW & NW 50th St,18,XEV,0.1,0.4,7.1,0.3,1.7
+241,28,O,28680,NW 100th Pl & 7th Ave NW,30,MID,0,0.5,0,0,5.6
+241,28,O,28450,8th Ave NW & NW 50th St,18,XNT,0,0.3,3.6,0,0.8
+241,28,O,28680,NW 100th Pl & 7th Ave NW,30,PM,0.2,1.2,1.7,2,14.2
+241,28,I,28030,8th Ave NW & NW 97th St,20,AM,1.1,0,2.9,16.5,0.5
+241,28,O,28680,NW 100th Pl & 7th Ave NW,30,XEV,0,0.8,0,0.1,3
+241,28,I,28030,8th Ave NW & NW 97th St,20,MID,0.8,0,1.6,9.6,0
+241,28,O,28680,NW 100th Pl & 7th Ave NW,30,XNT,0,0.6,0,0.1,1.8
+241,28,I,28030,8th Ave NW & NW 97th St,20,PM,0.5,0,1.1,4.2,0
+241,28,O,28830,8th Ave NW & NW 132nd St,39,PM,0,0.1,2.9,0,0.2
+241,28,I,28030,8th Ave NW & NW 97th St,20,XEV,0.5,0,1.1,1.4,0
+241,28,I,28030,8th Ave NW & NW 97th St,20,XNT,0.2,0,0.4,0.5,0
+241,28,I,28250,8th Ave NW & NW 46th St,32,AM,0.5,0.1,17.2,7.2,1.8
+241,28,I,28250,8th Ave NW & NW 46th St,32,MID,0.3,0.2,9.4,4.4,2.5
+241,28,I,28250,8th Ave NW & NW 46th St,32,PM,0.4,0.3,7.6,2.8,2
+241,28,I,28250,8th Ave NW & NW 46th St,32,XEV,0.3,0.3,4.8,1,0.9
+241,28,I,28250,8th Ave NW & NW 46th St,32,XNT,0.2,0.1,2.3,0.5,0.3
+241,28,I,27860,8th Ave NW & NW 132nd St,8,AM,0.3,0,2.1,1.3,0
+241,28,I,27940,3rd Ave NW & NW 117th St,13,AM,0.4,0,4.2,1.4,0
+241,28,I,27950,3rd Ave NW & NW 115th St,14,AM,0.3,0,4.5,1.3,0
+241,28,I,28210,8th Ave NW & NW Market St,30,AM,2.7,0.4,16,38,5.7
+241,28,I,28210,8th Ave NW & NW Market St,30,MID,1.6,0.4,8.7,20.8,5.8
+241,28,I,28210,8th Ave NW & NW Market St,30,PM,1.3,0.5,7,10.1,4.3
+241,28,I,28210,8th Ave NW & NW Market St,30,XEV,0.4,0.3,4.5,1.3,1
+241,28,I,28210,8th Ave NW & NW Market St,30,XNT,0.3,0.2,2.2,1,0.6
+241,28,O,28780,NW 125th St & 3rd Ave NW,36,PM,0,0.6,3.7,0,2.3
+241,28,I,27840,NW 132nd St & 3rd Ave NW,7,AM,0.2,0,1.8,0.6,0
+241,28,O,28740,3rd Ave NW & NW 115th St,33,PM,0,0.1,4.6,0,0.5

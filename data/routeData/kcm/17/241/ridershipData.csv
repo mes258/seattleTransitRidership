@@ -1,0 +1,66 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,17,I,18040,32nd Ave NW & NW 67th St,12,AM,1,0,6.4,4,0
+241,17,I,18050,32nd Ave NW & NW 61st St,14,AM,0.9,0,10,3.5,0
+241,17,O,18870,32nd Ave NW & NW 71st St,23,PM,0,0.3,4.6,0,1.3
+241,17,O,531,3rd Ave & James St,2,PM,2.1,0.1,6,8.4,0.3
+241,17,O,18910,32nd Ave NW & NW 80th St,27,PM,0,0.8,2.1,0,3.1
+241,17,I,420,3rd Ave & Virginia St,25,AM,0.2,3,20.3,0.7,12
+241,17,I,13890,Elliott Ave W & W Prospect St,21,AM,0.1,0.8,26.6,0.4,3.2
+241,17,I,500,3rd Ave & James St,29,AM,0,1.1,2.9,0,3.2
+241,17,I,500,3rd Ave & James St,29,MID,0,0.7,1.8,0,0.7
+241,17,I,17980,32nd Ave NW & NW 80th St,6,AM,0.9,0,2.9,3.6,0.1
+241,17,O,19470,Elliott Ave W & 4th Ave W,9,PM,0.5,0.5,26.2,1.9,1.9
+241,17,O,14200,15th Ave NW & NW Leary Way,11,PM,0.8,3.1,24.5,3,12.4
+241,17,I,17970,32nd Ave NW & NW 80th St,5,AM,0,0,2.1,0,0
+241,17,O,18820,32nd Ave NW & NW 60th St,18,PM,0,0.6,9,0,2.3
+241,17,I,2244,Denny Way & 2nd Ave N,23,AM,0.5,1.9,24.9,2,7.7
+241,17,I,18010,32nd Ave NW & NW 73rd St,9,AM,0.5,0,4.4,2,0
+241,17,O,18850,32nd Ave NW & NW 66th St,21,PM,0,0.7,5.6,0,2.6
+241,17,I,18030,32nd Ave NW & NW 70th St,11,AM,0.7,0,5.3,2.8,0
+241,17,O,14070,Elliott Ave W & W Prospect St,10,PM,0.8,0.2,26.9,3.3,0.8
+241,17,O,18770,NW 54th St & NW Market St,14,PM,0.1,1.2,11.4,0.2,4.9
+241,17,O,18800,32nd Ave NW & NW 56th St,16,PM,0.1,0.2,10.1,0.2,0.7
+241,17,O,18830,32nd Ave NW & NW 62nd St,19,PM,0,1.1,8,0.1,4.3
+241,17,I,19410,Elliott Ave W & W Harrison St,22,AM,0.2,0.5,26.3,0.6,1.8
+241,17,O,18840,32nd Ave NW & NW 64th St,20,PM,0.1,1.8,6.2,0.2,7
+241,17,I,515,3rd Ave S & S Main St,30,AM,1.9,4.8,0,5.7,14.5
+241,17,I,515,3rd Ave S & S Main St,30,MID,3.8,5.6,0,3.8,5.6
+241,17,O,590,3rd Ave & Pine St,5,PM,3.9,0.3,21.8,15.4,1.2
+241,17,I,18041,32nd Ave NW & NW 64th St,13,AM,2.8,0,9.1,11,0
+241,17,O,18920,32nd Ave NW & Loyal Way NW,28,PM,0,0.1,2,0,0.4
+241,17,I,18000,32nd Ave NW & NW 75th St,8,AM,0.3,0,3.9,1.3,0
+241,17,I,18060,32nd Ave NW & NW 59th St,15,AM,0.7,0,10.7,2.9,0
+241,17,I,17950,View Ave NW & Loyal Ave NW,1,AM,0.4,0,0.4,1.5,0
+241,17,O,17950,View Ave NW & Loyal Ave NW,33,PM,0.1,0.4,0,0.3,1.4
+241,17,O,19440,Denny Way & Queen Anne Ave N,8,PM,2.3,0.7,26.2,9.2,2.7
+241,17,I,18066,NW Market St & 32nd Ave NW,17,AM,2.2,0.1,13.9,8.9,0.2
+241,17,O,18760,NW Market St & 28th Ave NW,13,PM,0.2,2.3,12.5,0.6,9
+241,17,I,17960,32nd Ave NW & NW 85th St,4,AM,1.4,0,2,5.4,0
+241,17,I,400,3rd Ave & Bell St,24,AM,0.4,2.2,23,1.5,8.8
+241,17,I,13760,15th Ave NW & NW Leary Way,20,AM,1.7,0.5,27.3,6.6,1.8
+241,17,O,570,3rd Ave & Union St,4,PM,6.3,0.3,18.3,25,1.2
+241,17,O,600,3rd Ave & Virginia St,6,PM,2,0.4,23.4,8.1,1.7
+241,17,I,18120,NW Market St & Ballard Ave NW,19,AM,8.7,0.4,26.1,34.9,1.6
+241,17,O,18940,Golden Gardens Dr NW & NW 87th St,30,PM,0,0.3,0.3,0,1.2
+241,17,O,548,3rd Ave & Madison St,3,PM,6.5,0.2,12.4,25.9,0.6
+241,17,O,18930,32nd Ave NW & NW 85th St,29,PM,0,1.4,0.6,0.1,5.6
+241,17,O,18942,View Ave NW & Golden Gardens Dr NW,32,PM,0,0,0.3,0,0.1
+241,17,O,18740,NW Market St & Ballard Ave NW,12,PM,1,11,14.5,3.9,44.1
+241,17,O,619,4th Ave S & S Jackson St,1,PM,3.7,0,3.9,14.6,0
+241,17,O,605,3rd Ave & Bell St,7,PM,1.8,0.6,24.7,7.2,2.2
+241,17,I,450,3rd Ave & Union St,27,AM,0.2,7.3,10.5,0.7,29.3
+241,17,O,18900,32nd Ave NW & NW 77th St,26,PM,0,0.8,2.8,0,3
+241,17,I,480,3rd Ave & Marion St,28,AM,0,6.9,3.6,0,27.6
+241,17,I,18070,32nd Ave NW & NW 56th St,16,AM,1,0,11.7,4.1,0
+241,17,O,18810,32nd Ave NW & NW 58th St,17,PM,0,0.6,9.6,0,2.2
+241,17,O,18880,32nd Ave NW & NW 73rd St,24,PM,0,0.6,4,0,2.2
+241,17,I,17990,32nd Ave NW & NW 77th St,7,AM,0.7,0,3.6,2.7,0
+241,17,O,18860,32nd Ave NW & NW 69th St,22,PM,0,0.8,4.9,0,3.1
+241,17,I,18020,32nd Ave NW & NW 72nd St,10,AM,0.3,0,4.7,1.2,0
+241,17,O,18790,32nd Ave NW & NW Market St,15,PM,0.1,1.1,10.3,0.3,4.5
+241,17,O,18890,32nd Ave NW & NW 75th St,25,PM,0,0.5,3.6,0,1.8
+241,17,O,18941,Golden Gardens Dr NW & Loyal Ave NW,31,PM,0,0,0.3,0,0
+241,17,I,17951,Loyal Ave NW & Golden Gardens Dr NW,2,AM,0.2,0,0.4,0.8,0
+241,17,I,18100,NW Market St & 28th Ave NW,18,AM,4,0.1,17.8,16,0.3
+241,17,I,430,3rd Ave & Pine St,26,AM,0.1,2.8,17.6,0.3,11
+241,17,I,17952,Golden Gardens Dr NW & NW 87th St,3,AM,0.3,0,0.7,1,0

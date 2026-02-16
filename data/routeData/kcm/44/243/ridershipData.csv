@@ -1,0 +1,271 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,44,I,18085,32nd Ave NW & NW Market St,1,AM,2,0,2,39.2,0.1
+243,44,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,1,AM,0.3,0,0.3,3.3,0
+243,44,I,18090,NW 54th St & 30th Ave NW,2,AM,0.5,0,2.5,10.9,0
+243,44,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,2,AM,1.2,0,2.3,28,0.3
+243,44,O,29420,NE Pacific St & 15th Ave NE,3,AM,0.2,0.5,2,4.3,10.5
+243,44,I,18100,NW Market St & 28th Ave NW,3,AM,1,0,3.5,19.7,0
+243,44,O,29440,15th Ave NE & NE Campus Pkwy,4,AM,0.7,0.4,2.3,16.3,8.1
+243,44,I,18120,NW Market St & Ballard Ave NW,4,AM,2.1,0.3,5.2,41.6,6.7
+243,44,I,29213,NW Market St & 20th Ave NW,5,AM,2.8,0.1,7.9,56.4,2.4
+243,44,O,11352,15th Ave NE & NE 42nd St,5,AM,0.9,0.2,3,19.8,4.7
+243,44,I,29215,NW Market St & 15th Ave NW,6,AM,3.9,0.8,11,77.8,15.2
+243,44,O,9587,U District Station - Bay 1,6,AM,4.4,0.3,7,105.3,7.3
+243,44,O,29455,NE 45th St & 9th Ave NE,7,AM,2.7,0.2,9.4,62.2,5.7
+243,44,I,29217,NW Market St & 11th Ave NW,7,AM,1.5,0.1,12.4,28.5,1.2
+243,44,I,29219,NW Market St & 8th Ave NW,8,AM,1.8,0.1,14.2,34.9,1.9
+243,44,O,29480,NE 45th St & Latona Ave NE,8,AM,0.9,0.5,9.9,20.2,11
+243,44,I,29220,NW Market St & 6th Ave NW,9,AM,2,0.1,16.1,38,1.1
+243,44,O,29500,N 45th St & Sunnyside Ave N,9,AM,0.1,0.3,9.7,3.4,7.7
+243,44,I,75407,NW Market St & 3rd Ave NW,10,AM,1,0,17.1,18.7,0.2
+243,44,O,17310,N 45th St & Wallingford Ave N,10,AM,0.6,1.4,8.9,14.7,32.9
+243,44,I,29222,NW Market St & NW 50th St,11,AM,0.4,0,17.5,8.1,0.1
+243,44,O,29530,N 45th St & Woodlawn Ave N,11,AM,0.1,2,6.8,2.8,44.9
+243,44,I,29223,NW Market St & NW 48th St,12,AM,0.8,0,18.3,15.6,0.1
+243,44,O,29540,N 45th St & Stone Way N,12,AM,0.5,0.3,7,9.9,5.8
+243,44,O,29557,N 46th St & Green Lake Way N,13,AM,0.2,0.3,6.9,3.7,6.2
+243,44,I,29225,N 46th St & Phinney Ave N,13,AM,3.9,0.7,21.4,73.3,13.2
+243,44,O,29581,N 46th St & Linden Ave N,14,AM,0.6,0.3,7.2,13.1,7.4
+243,44,I,29582,N 46th St & Aurora Ave N,14,AM,3.8,0.8,24.5,72.3,15.2
+243,44,I,29231,N 45th St & Stone Way N,15,AM,2.9,3.5,23.9,52.8,63.5
+243,44,O,29600,N 46th St & Phinney Ave N,15,AM,0.6,0.5,7.3,12.4,11.1
+243,44,O,29620,NW Market St & NW 48th St,16,AM,0.1,0,7.3,1.1,0.5
+243,44,I,29232,N 45th St & Woodlawn Ave N,16,AM,0.7,3,21.6,12.9,53.4
+243,44,I,17410,N 45th St & Wallingford Ave N,17,AM,2.3,2.4,21.4,40.7,43.6
+243,44,O,29630,NW Market St & NW 50th St,17,AM,0,0,7.3,0.7,0.3
+243,44,O,29640,NW Market St & 3rd Ave NW,18,AM,0.1,0,7.3,1.5,0.3
+243,44,I,29234,N 45th St & Corliss Ave N,18,AM,0.8,0.2,22,14.9,3.6
+243,44,O,29650,NW Market St & 5th Ave NW,19,AM,0.1,0.1,7.3,2.6,3
+243,44,I,29236,NE 45th St & Thackeray Pl NE,19,AM,2,0.5,23.5,35.8,9
+243,44,I,29865,NE 45th St & Roosevelt Way NE,20,AM,1,2,22.5,17.3,35.6
+243,44,O,29660,NW Market St & 8th Ave NW,20,AM,0.1,0.5,7,2.1,9.9
+243,44,O,29680,NW Market St & 11th Ave NW,21,AM,0.1,0.9,6.1,2.2,20.6
+243,44,I,10911,U District Station - Bay 3,21,AM,0.6,6,16.7,9.4,101.2
+243,44,O,29700,NW Market St & 15th Ave NW,22,AM,0.2,2.3,4.1,4.8,50.9
+243,44,I,10912,15th Ave NE & NE 43rd St,22,AM,0.3,3.9,12,4.3,55.1
+243,44,I,10914,15th Ave NE & NE Campus Pkwy,23,AM,0.1,2.2,10,1.8,30.3
+243,44,O,29720,NW Market St & 20th Ave NW,23,AM,0,1.5,2.6,0.2,32.5
+243,44,O,18740,NW Market St & Ballard Ave NW,24,AM,0.1,0.8,1.9,2,15.8
+243,44,I,10917,15th Ave NE & NE 40th St,24,AM,0.1,2,8.1,1.4,28.5
+243,44,O,18760,NW Market St & 28th Ave NW,25,AM,0,0.4,1.5,0.3,9.5
+243,44,I,29240,NE Pacific St & 15th Ave NE,25,AM,0,3.2,4.9,0,44.2
+243,44,I,29242,NE Pacific Pl & NE Pacific St,26,AM,0,4.9,0.2,0.1,64
+243,44,O,18785,NW Market St & 30th Ave NW,26,AM,0,0.2,1.3,0,3.4
+243,44,O,18085,32nd Ave NW & NW Market St,27,AM,0,1.3,0,0.3,28.9
+243,44,I,29243,NE Pacific Pl & NE Pacific St,27,AM,0.5,0.8,0,7.1,9.9
+243,44,I,18085,32nd Ave NW & NW Market St,1,MID,2.8,0,2.8,90.9,0
+243,44,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,1,MID,0.7,0,0.7,21.5,0
+243,44,I,18090,NW 54th St & 30th Ave NW,2,MID,0.8,0,3.6,24.3,1
+243,44,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,2,MID,1.9,0,2.9,62.2,0.8
+243,44,O,29420,NE Pacific St & 15th Ave NE,3,MID,3.5,0.3,6.1,111.4,9.6
+243,44,I,18100,NW Market St & 28th Ave NW,3,MID,0.9,0,4.4,28.6,0.1
+243,44,O,29440,15th Ave NE & NE Campus Pkwy,4,MID,3.3,0.5,8.9,103.6,15.4
+243,44,I,18120,NW Market St & Ballard Ave NW,4,MID,2.3,0.6,6.1,72.1,20.5
+243,44,I,29213,NW Market St & 20th Ave NW,5,MID,2.5,0.3,8.2,76.5,8.3
+243,44,O,11352,15th Ave NE & NE 42nd St,5,MID,2.7,0.8,10.8,82.3,24.4
+243,44,I,29215,NW Market St & 15th Ave NW,6,MID,4.1,1.2,11.2,127.6,36.1
+243,44,O,9587,U District Station - Bay 1,6,MID,6.4,1.5,15.7,199.6,47
+243,44,O,29455,NE 45th St & 9th Ave NE,7,MID,4.5,2.1,17.5,140.9,64.9
+243,44,I,29217,NW Market St & 11th Ave NW,7,MID,1.5,0.1,12.6,48.6,3.4
+243,44,I,29219,NW Market St & 8th Ave NW,8,MID,1,0.3,13.3,32.5,11.1
+243,44,O,29480,NE 45th St & Latona Ave NE,8,MID,0.8,1.3,17,24,40.1
+243,44,I,29220,NW Market St & 6th Ave NW,9,MID,0.6,0.2,13.7,17.7,4.9
+243,44,O,29500,N 45th St & Sunnyside Ave N,9,MID,0.5,1.3,16.2,16.2,39.6
+243,44,I,75407,NW Market St & 3rd Ave NW,10,MID,0.3,0.1,13.9,9.4,2.9
+243,44,O,17310,N 45th St & Wallingford Ave N,10,MID,1.4,2.3,15.3,43.9,71.8
+243,44,I,29222,NW Market St & NW 50th St,11,MID,0.2,0,14,5,1.5
+243,44,O,29530,N 45th St & Woodlawn Ave N,11,MID,1.3,1.8,14.8,42.5,56.1
+243,44,I,29223,NW Market St & NW 48th St,12,MID,0.2,0.1,14.1,5.9,1.6
+243,44,O,29540,N 45th St & Stone Way N,12,MID,1,1.2,14.5,30.7,38.9
+243,44,O,29557,N 46th St & Green Lake Way N,13,MID,0.2,1,13.8,7,32.2
+243,44,I,29225,N 46th St & Phinney Ave N,13,MID,2,1.3,14.8,62.6,41.1
+243,44,O,29581,N 46th St & Linden Ave N,14,MID,1,1.6,13.2,32.9,50
+243,44,I,29582,N 46th St & Aurora Ave N,14,MID,3.2,1.1,16.9,99.2,34.8
+243,44,I,29231,N 45th St & Stone Way N,15,MID,2.7,1.5,18.3,85.3,46.5
+243,44,O,29600,N 46th St & Phinney Ave N,15,MID,1.2,1.8,12.6,37.2,58.1
+243,44,O,29620,NW Market St & NW 48th St,16,MID,0,0.1,12.5,1.1,4.1
+243,44,I,29232,N 45th St & Woodlawn Ave N,16,MID,1.4,0.8,18.9,44.9,27
+243,44,I,17410,N 45th St & Wallingford Ave N,17,MID,2.6,1.2,20.3,83.8,39.1
+243,44,O,29630,NW Market St & NW 50th St,17,MID,0.1,0.1,12.2,1.8,2.4
+243,44,O,29640,NW Market St & 3rd Ave NW,18,MID,0.1,0.2,12.1,2.5,4.9
+243,44,I,29234,N 45th St & Corliss Ave N,18,MID,1.1,0.4,20.9,35.6,14.2
+243,44,O,29650,NW Market St & 5th Ave NW,19,MID,0.2,0.5,11.8,5.1,14.7
+243,44,I,29236,NE 45th St & Thackeray Pl NE,19,MID,1.5,0.7,21.6,46.7,23.9
+243,44,I,29865,NE 45th St & Roosevelt Way NE,20,MID,1.5,3.5,19.7,49.1,111.1
+243,44,O,29660,NW Market St & 8th Ave NW,20,MID,0.4,0.7,11.5,11.4,23.1
+243,44,O,29680,NW Market St & 11th Ave NW,21,MID,0.1,1.5,10.1,4.1,45.7
+243,44,I,10911,U District Station - Bay 3,21,MID,1.1,6.5,14.8,36.7,206.8
+243,44,O,29700,NW Market St & 15th Ave NW,22,MID,1,3.4,7.7,29.9,104.1
+243,44,I,10912,15th Ave NE & NE 43rd St,22,MID,0.5,4,11,15,120.6
+243,44,I,10914,15th Ave NE & NE Campus Pkwy,23,MID,0.3,3.3,8,8.7,97.9
+243,44,O,29720,NW Market St & 20th Ave NW,23,MID,0.1,2.5,5.3,4.6,78.4
+243,44,O,18740,NW Market St & Ballard Ave NW,24,MID,0.4,2,3.7,13.9,62.7
+243,44,I,10917,15th Ave NE & NE 40th St,24,MID,0.1,2.5,5.6,3.5,73.7
+243,44,O,18760,NW Market St & 28th Ave NW,25,MID,0,0.5,3.2,0.2,16.7
+243,44,I,29240,NE Pacific St & 15th Ave NE,25,MID,0,3.7,2,1.3,110
+243,44,I,29242,NE Pacific Pl & NE Pacific St,26,MID,0,1.7,0.4,0.3,53.4
+243,44,O,18785,NW Market St & 30th Ave NW,26,MID,0,0.5,2.7,0,16.4
+243,44,O,18085,32nd Ave NW & NW Market St,27,MID,0,2.7,0,0.3,83.4
+243,44,I,29243,NE Pacific Pl & NE Pacific St,27,MID,1.1,1.4,0,34.2,44.8
+243,44,I,18085,32nd Ave NW & NW Market St,1,PM,2.2,0,2.2,52.9,0
+243,44,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,1,PM,1.8,0,1.8,39.4,0
+243,44,I,18090,NW 54th St & 30th Ave NW,2,PM,0.8,0,3,19.7,0.1
+243,44,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,2,PM,5.3,0.1,7,126.8,1.2
+243,44,O,29420,NE Pacific St & 15th Ave NE,3,PM,8.2,0.1,15.1,197.2,2.9
+243,44,I,18100,NW Market St & 28th Ave NW,3,PM,0.9,0,3.9,21,0.1
+243,44,O,29440,15th Ave NE & NE Campus Pkwy,4,PM,7.8,0.7,22,195.2,16.4
+243,44,I,18120,NW Market St & Ballard Ave NW,4,PM,2.9,0.5,6.3,70.4,12.2
+243,44,I,29213,NW Market St & 20th Ave NW,5,PM,2.8,0.2,9,68.1,5.1
+243,44,O,11352,15th Ave NE & NE 42nd St,5,PM,4.7,1,25.6,116.6,25.7
+243,44,I,29215,NW Market St & 15th Ave NW,6,PM,4.5,1,12.4,107.9,24.9
+243,44,O,9587,U District Station - Bay 1,6,PM,9.5,2.6,32.6,237,64
+243,44,O,29455,NE 45th St & 9th Ave NE,7,PM,5.6,4.2,34.1,139.4,104.9
+243,44,I,29217,NW Market St & 11th Ave NW,7,PM,1.5,0.2,13.7,35.9,4.8
+243,44,I,29219,NW Market St & 8th Ave NW,8,PM,1,0.4,14.3,23.6,10.7
+243,44,O,29480,NE 45th St & Latona Ave NE,8,PM,1.2,3,32.3,29.2,74.1
+243,44,I,29220,NW Market St & 6th Ave NW,9,PM,0.4,0.2,14.4,9.3,5.5
+243,44,O,29500,N 45th St & Sunnyside Ave N,9,PM,0.7,2.8,30.2,18.1,69.5
+243,44,I,75407,NW Market St & 3rd Ave NW,10,PM,0.2,0.2,14.4,3.6,3.6
+243,44,O,17310,N 45th St & Wallingford Ave N,10,PM,3,4.4,28.8,74.3,109.5
+243,44,I,29222,NW Market St & NW 50th St,11,PM,0.1,0,14.4,1.6,1.1
+243,44,O,29530,N 45th St & Woodlawn Ave N,11,PM,3.7,1.9,30.6,93,47.8
+243,44,I,29223,NW Market St & NW 48th St,12,PM,0.1,0.1,14.4,1.5,2.8
+243,44,O,29540,N 45th St & Stone Way N,12,PM,1.8,2.7,29.7,45,67.8
+243,44,O,29557,N 46th St & Green Lake Way N,13,PM,0.4,2.2,27.9,9.6,55.9
+243,44,I,29225,N 46th St & Phinney Ave N,13,PM,1.4,1.9,13.9,35.9,48.2
+243,44,O,29581,N 46th St & Linden Ave N,14,PM,0.9,3.3,25.5,23.4,82.7
+243,44,I,29582,N 46th St & Aurora Ave N,14,PM,2.1,1.4,14.6,52.3,36
+243,44,I,29231,N 45th St & Stone Way N,15,PM,3,1.4,16.3,71.6,34.4
+243,44,O,29600,N 46th St & Phinney Ave N,15,PM,1.1,5.2,21.9,27.5,124.8
+243,44,O,29620,NW Market St & NW 48th St,16,PM,0,0.4,21.5,0.7,9.9
+243,44,I,29232,N 45th St & Woodlawn Ave N,16,PM,1.8,0.6,17.6,44.3,14.2
+243,44,I,17410,N 45th St & Wallingford Ave N,17,PM,3,1.6,19,71.8,39.1
+243,44,O,29630,NW Market St & NW 50th St,17,PM,0,0.4,21.1,0.9,10.1
+243,44,O,29640,NW Market St & 3rd Ave NW,18,PM,0.1,0.7,20.4,1.7,18.1
+243,44,I,29234,N 45th St & Corliss Ave N,18,PM,1.2,0.7,19.4,27.6,16.2
+243,44,O,29650,NW Market St & 5th Ave NW,19,PM,0.2,1.6,19,4.7,39.9
+243,44,I,29236,NE 45th St & Thackeray Pl NE,19,PM,1.3,1.4,19.3,31.2,33.7
+243,44,I,29865,NE 45th St & Roosevelt Way NE,20,PM,1,4.6,15.8,22.2,106.8
+243,44,O,29660,NW Market St & 8th Ave NW,20,PM,0.4,1.6,17.8,10.5,40.8
+243,44,O,29680,NW Market St & 11th Ave NW,21,PM,0.1,2.5,15.4,3.5,63.5
+243,44,I,10911,U District Station - Bay 3,21,PM,0.5,10.1,6.2,10.8,242.7
+243,44,O,29700,NW Market St & 15th Ave NW,22,PM,1.2,5.6,11,31.2,141.2
+243,44,I,10912,15th Ave NE & NE 43rd St,22,PM,0.2,2.6,3.8,4.5,59.6
+243,44,I,10914,15th Ave NE & NE Campus Pkwy,23,PM,0.1,1.5,2.5,2.7,34
+243,44,O,29720,NW Market St & 20th Ave NW,23,PM,0.2,3.8,7.4,4.6,91.2
+243,44,O,18740,NW Market St & Ballard Ave NW,24,PM,0.5,3.1,4.8,11.1,74
+243,44,I,10917,15th Ave NE & NE 40th St,24,PM,0.1,0.6,1.9,1.9,14
+243,44,O,18760,NW Market St & 28th Ave NW,25,PM,0,1,3.8,0,25.8
+243,44,I,29240,NE Pacific St & 15th Ave NE,25,PM,0,0.7,1.3,1.1,15.8
+243,44,I,29242,NE Pacific Pl & NE Pacific St,26,PM,0,0.8,0.5,0.3,19.3
+243,44,O,18785,NW Market St & 30th Ave NW,26,PM,0,1.1,2.7,0.1,27.5
+243,44,O,18085,32nd Ave NW & NW Market St,27,PM,0,2.7,0,0.2,67.7
+243,44,I,29243,NE Pacific Pl & NE Pacific St,27,PM,1.3,1.8,0,28,38.9
+243,44,I,18085,32nd Ave NW & NW Market St,1,XEV,1.4,0,1.4,21,0
+243,44,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,1,XEV,1.9,0,1.9,20.8,0
+243,44,I,18090,NW 54th St & 30th Ave NW,2,XEV,0.4,0,1.8,5.9,0
+243,44,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,2,XEV,2.2,0,3.9,28.5,0.1
+243,44,O,29420,NE Pacific St & 15th Ave NE,3,XEV,2,0.1,5.9,26.1,0.8
+243,44,I,18100,NW Market St & 28th Ave NW,3,XEV,0.4,0,2.2,6.7,0
+243,44,O,29440,15th Ave NE & NE Campus Pkwy,4,XEV,3.3,0.6,8.5,42.8,7.3
+243,44,I,18120,NW Market St & Ballard Ave NW,4,XEV,2.2,0.2,4.2,32.4,2.8
+243,44,I,29213,NW Market St & 20th Ave NW,5,XEV,2,0.1,6.2,31.7,1.6
+243,44,O,11352,15th Ave NE & NE 42nd St,5,XEV,2.4,0.4,10.5,31,4.9
+243,44,I,29215,NW Market St & 15th Ave NW,6,XEV,2.5,0.5,8.2,40,8.1
+243,44,O,9587,U District Station - Bay 1,6,XEV,6.9,1,16.5,89.8,12.7
+243,44,O,29455,NE 45th St & 9th Ave NE,7,XEV,3.2,2,18.1,44.9,28.5
+243,44,I,29217,NW Market St & 11th Ave NW,7,XEV,0.8,0.2,8.8,12.2,2.5
+243,44,I,29219,NW Market St & 8th Ave NW,8,XEV,0.7,0.3,9.1,10.6,5.3
+243,44,O,29480,NE 45th St & Latona Ave NE,8,XEV,0.6,2,17.1,7.9,25.9
+243,44,I,29220,NW Market St & 6th Ave NW,9,XEV,0.2,0.2,9.3,2.6,2.5
+243,44,O,29500,N 45th St & Sunnyside Ave N,9,XEV,0.4,1.5,16,5.5,19.4
+243,44,I,75407,NW Market St & 3rd Ave NW,10,XEV,0.1,0.1,9.2,1,2.2
+243,44,O,17310,N 45th St & Wallingford Ave N,10,XEV,1.3,2.5,14.9,17,32.3
+243,44,I,29222,NW Market St & NW 50th St,11,XEV,0,0,9.2,0.6,0.7
+243,44,O,29530,N 45th St & Woodlawn Ave N,11,XEV,0.6,0.8,14.6,7.5,10.7
+243,44,I,29223,NW Market St & NW 48th St,12,XEV,0,0,9.2,0.6,0.1
+243,44,O,29540,N 45th St & Stone Way N,12,XEV,0.8,1.4,14,10.1,18.5
+243,44,O,29557,N 46th St & Green Lake Way N,13,XEV,0.2,1.1,13,2.1,14.9
+243,44,I,29225,N 46th St & Phinney Ave N,13,XEV,0.8,0.9,9.1,12,13.6
+243,44,O,29581,N 46th St & Linden Ave N,14,XEV,0.5,1.8,11.7,6.9,23.7
+243,44,I,29582,N 46th St & Aurora Ave N,14,XEV,1.2,0.9,9.4,17.8,14
+243,44,I,29231,N 45th St & Stone Way N,15,XEV,1.2,0.7,9.8,19.6,11.6
+243,44,O,29600,N 46th St & Phinney Ave N,15,XEV,0.5,1.8,10.7,6.8,25.8
+243,44,O,29620,NW Market St & NW 48th St,16,XEV,0,0.1,10.6,0.1,1.6
+243,44,I,29232,N 45th St & Woodlawn Ave N,16,XEV,0.4,0.2,10,6.4,3.7
+243,44,I,17410,N 45th St & Wallingford Ave N,17,XEV,1.7,1,10.7,26.7,16.1
+243,44,O,29630,NW Market St & NW 50th St,17,XEV,0,0.1,10.4,0.1,1.8
+243,44,I,29234,N 45th St & Corliss Ave N,18,XEV,0.6,0.3,11,9.1,4.8
+243,44,O,29640,NW Market St & 3rd Ave NW,18,XEV,0,0.3,10.2,0.1,3.6
+243,44,O,29650,NW Market St & 5th Ave NW,19,XEV,0.1,0.5,9.8,1.5,6.6
+243,44,I,29236,NE 45th St & Thackeray Pl NE,19,XEV,0.6,0.6,10.9,8.8,9.7
+243,44,I,29865,NE 45th St & Roosevelt Way NE,20,XEV,0.4,2.6,8.9,5.8,41.8
+243,44,O,29660,NW Market St & 8th Ave NW,20,XEV,0.2,0.7,9.3,3,9.8
+243,44,O,29680,NW Market St & 11th Ave NW,21,XEV,0.1,1.4,8.1,1.3,18.9
+243,44,I,10911,U District Station - Bay 3,21,XEV,0.1,5.8,3.2,2,92.6
+243,44,O,29700,NW Market St & 15th Ave NW,22,XEV,0.5,3,5.6,6.4,41.5
+243,44,I,10912,15th Ave NE & NE 43rd St,22,XEV,0.1,1.2,2,1,10.4
+243,44,I,10914,15th Ave NE & NE Campus Pkwy,23,XEV,0.1,0.9,1.2,0.9,7.7
+243,44,O,29720,NW Market St & 20th Ave NW,23,XEV,0.1,2,3.9,1.2,29.9
+243,44,O,18740,NW Market St & Ballard Ave NW,24,XEV,0.2,1.5,2.7,3.6,22.7
+243,44,I,10917,15th Ave NE & NE 40th St,24,XEV,0,0.3,1,0.3,2.6
+243,44,O,18760,NW Market St & 28th Ave NW,25,XEV,0,0.4,2.3,0,6.1
+243,44,I,29240,NE Pacific St & 15th Ave NE,25,XEV,0,0.2,0.8,0,1.8
+243,44,I,29242,NE Pacific Pl & NE Pacific St,26,XEV,0,0.6,0.2,0.2,5
+243,44,O,18785,NW Market St & 30th Ave NW,26,XEV,0,0.6,1.7,0,7.7
+243,44,O,18085,32nd Ave NW & NW Market St,27,XEV,0,1.7,0,0.1,24.4
+243,44,I,29243,NE Pacific Pl & NE Pacific St,27,XEV,0.7,1,0,7.3,9.9
+243,44,I,18085,32nd Ave NW & NW Market St,1,XNT,1.2,0,1.2,19.9,0
+243,44,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,1,XNT,0.5,0,0.5,6.3,0
+243,44,I,18090,NW 54th St & 30th Ave NW,2,XNT,0.2,0,1.4,3.3,0
+243,44,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,2,XNT,0.8,0,1.2,12.3,0.5
+243,44,O,29420,NE Pacific St & 15th Ave NE,3,XNT,0.4,0,1.6,5.9,0.6
+243,44,I,18100,NW Market St & 28th Ave NW,3,XNT,0.1,0,1.5,1.3,0
+243,44,O,29440,15th Ave NE & NE Campus Pkwy,4,XNT,0.7,0.2,2,10.3,3.4
+243,44,I,18120,NW Market St & Ballard Ave NW,4,XNT,1,0.1,2.5,16.2,0.8
+243,44,I,29213,NW Market St & 20th Ave NW,5,XNT,0.9,0.1,3.4,14.8,0.9
+243,44,O,11352,15th Ave NE & NE 42nd St,5,XNT,0.5,0.1,2.4,8.2,1.9
+243,44,I,29215,NW Market St & 15th Ave NW,6,XNT,1.2,0.2,4.3,18.8,3.4
+243,44,O,9587,U District Station - Bay 1,6,XNT,3.2,0.3,5.4,44.4,4.5
+243,44,O,29455,NE 45th St & 9th Ave NE,7,XNT,1.7,0.5,6.6,23.6,7.6
+243,44,I,29217,NW Market St & 11th Ave NW,7,XNT,0.3,0,4.5,4.4,0.4
+243,44,I,29219,NW Market St & 8th Ave NW,8,XNT,0.3,0.1,4.7,4.7,1.4
+243,44,O,29480,NE 45th St & Latona Ave NE,8,XNT,0.3,0.6,6.7,4,8.3
+243,44,I,29220,NW Market St & 6th Ave NW,9,XNT,0.1,0,4.9,1.6,0.4
+243,44,O,29500,N 45th St & Sunnyside Ave N,9,XNT,0.2,0.4,6.6,3.2,5.3
+243,44,I,75407,NW Market St & 3rd Ave NW,10,XNT,0,0.1,4.9,0.2,1
+243,44,O,17310,N 45th St & Wallingford Ave N,10,XNT,0.6,0.8,6.4,8.7,11.8
+243,44,I,29222,NW Market St & NW 50th St,11,XNT,0,0,4.9,0,0
+243,44,O,29530,N 45th St & Woodlawn Ave N,11,XNT,0.2,0.3,6.3,2.7,4.1
+243,44,I,29223,NW Market St & NW 48th St,12,XNT,0,0,4.8,0,0.2
+243,44,O,29540,N 45th St & Stone Way N,12,XNT,0.2,0.4,6,2.4,6.2
+243,44,O,29557,N 46th St & Green Lake Way N,13,XNT,0.1,0.7,5.4,1.5,10.6
+243,44,I,29225,N 46th St & Phinney Ave N,13,XNT,0.2,0.4,4.7,3.9,6.6
+243,44,O,29581,N 46th St & Linden Ave N,14,XNT,0.3,0.6,5.1,4.6,8.6
+243,44,I,29582,N 46th St & Aurora Ave N,14,XNT,0.5,0.6,4.6,8.6,9.7
+243,44,I,29231,N 45th St & Stone Way N,15,XNT,0.2,0.2,4.7,3.9,3.3
+243,44,O,29600,N 46th St & Phinney Ave N,15,XNT,0.2,0.6,4.7,2.7,9.2
+243,44,O,29620,NW Market St & NW 48th St,16,XNT,0,0,4.7,0,0.5
+243,44,I,29232,N 45th St & Woodlawn Ave N,16,XNT,0.2,0.1,4.7,2.8,1.6
+243,44,I,17410,N 45th St & Wallingford Ave N,17,XNT,0.5,0.5,4.8,9.3,8
+243,44,O,29630,NW Market St & NW 50th St,17,XNT,0,0,4.6,0,0.1
+243,44,I,29234,N 45th St & Corliss Ave N,18,XNT,0.3,0.2,5.2,4.9,3.2
+243,44,O,29640,NW Market St & 3rd Ave NW,18,XNT,0,0.1,4.6,0,0.9
+243,44,O,29650,NW Market St & 5th Ave NW,19,XNT,0,0.1,4.5,0.3,2
+243,44,I,29236,NE 45th St & Thackeray Pl NE,19,XNT,0.4,0.3,5.2,6.3,5.7
+243,44,I,29865,NE 45th St & Roosevelt Way NE,20,XNT,0.2,1.3,4.1,2.8,23.4
+243,44,O,29660,NW Market St & 8th Ave NW,20,XNT,0,0.2,4.3,0.6,3.4
+243,44,O,29680,NW Market St & 11th Ave NW,21,XNT,0,0.5,3.8,0.3,6.9
+243,44,I,10911,U District Station - Bay 3,21,XNT,0.1,2.5,1.8,2.2,44.2
+243,44,O,29700,NW Market St & 15th Ave NW,22,XNT,0.2,1.4,2.7,2.8,20.3
+243,44,I,10912,15th Ave NE & NE 43rd St,22,XNT,0.1,0.6,1.2,0.8,6.6
+243,44,I,10914,15th Ave NE & NE Campus Pkwy,23,XNT,0,0.4,0.9,0.5,4.8
+243,44,O,29720,NW Market St & 20th Ave NW,23,XNT,0,0.6,2.2,0.5,9
+243,44,O,18740,NW Market St & Ballard Ave NW,24,XNT,0.1,0.5,1.7,1.7,7.9
+243,44,I,10917,15th Ave NE & NE 40th St,24,XNT,0,0.2,0.7,0.1,1.9
+243,44,O,18760,NW Market St & 28th Ave NW,25,XNT,0,0.2,1.6,0,2.7
+243,44,I,29240,NE Pacific St & 15th Ave NE,25,XNT,0,0.1,0.7,0,0.9
+243,44,I,29242,NE Pacific Pl & NE Pacific St,26,XNT,0,0.5,0.2,0.1,5.4
+243,44,O,18785,NW Market St & 30th Ave NW,26,XNT,0,0.3,1.4,0.1,3.9
+243,44,O,18085,32nd Ave NW & NW Market St,27,XNT,0,1.4,0,0.2,20.4
+243,44,I,29243,NE Pacific Pl & NE Pacific St,27,XNT,0.6,0.8,0,7.1,9.8

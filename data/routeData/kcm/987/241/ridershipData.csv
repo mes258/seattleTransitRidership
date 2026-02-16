@@ -1,0 +1,19 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,987,O,55940,S Dearborn St & Corwin Pl S,3,PM,0.1,2.9,10.5,0.1,2.9
+241,987,I,16430,Roosevelt Station - Bay 1,7,AM,1.8,0.1,27.2,1.8,0.1
+241,987,O,81294,1st Ave NE & NE 140th St,2,PM,8.7,0.4,13.3,8.7,0.4
+241,987,I,81294,1st Ave NE & NE 140th St,10,AM,0.7,13.7,0,0.7,13.7
+241,987,I,25798,25th Ave NE & NE 80th St,8,AM,1.1,10.4,17.9,1.1,10.4
+241,987,I,32120,S Cloverdale St & 8th Ave S,1,AM,4.3,0,4.3,4.3,0
+241,987,O,34544,S Henderson St & Rainier Ave S,7,PM,0.3,4.5,2.4,0.3,4.5
+241,987,I,31135,S Henderson St & Rainier Ave S,2,AM,8.6,0.3,12.6,8.6,0.3
+241,987,O,34930,S Genesee St & Cascadia Ave S,5,PM,0,0.7,7.3,0,0.7
+241,987,I,55875,S Dearborn St & Corwin Pl S,6,AM,3.6,0.2,25.5,3.6,0.2
+241,987,O,31680,S Cloverdale St & 12th Ave S,8,PM,0.1,2.5,0,0.1,2.5
+241,987,O,75304,NE 135th St & 1st Ave NE,1,PM,5.1,0,5.1,5.1,0
+241,987,I,75304,NE 135th St & 1st Ave NE,9,AM,0.3,5.5,13.6,0.3,5.5
+241,987,I,34640,Seward Park Ave S & S Othello St,3,AM,2,0,14.5,2,0
+241,987,O,35149,Seward Park Ave S & S Othello St,6,PM,0,0.7,6.7,0,0.7
+241,987,I,34880,S Genesee St & 39th Ave S,4,AM,3.3,0.2,17.7,3.3,0.2
+241,987,O,8402,Mount Baker Transit Center - Bay 2,4,PM,0.1,2.7,8,0.1,2.7
+241,987,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,5,AM,4.4,0,22,4.4,0

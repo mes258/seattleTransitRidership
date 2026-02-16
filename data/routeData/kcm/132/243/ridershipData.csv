@@ -1,0 +1,631 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,132,I,52304,Burien Transit Center - Bay 4,1,AM,4.5,0,4.8,35.8,0
+243,132,O,7430,Wall St & 5th Ave,1,AM,1.1,0,13.4,8,0
+243,132,I,47740,1st Ave S & S 146th St,2,AM,0.4,0.1,5.1,3.2,0.8
+243,132,O,400,3rd Ave & Bell St,2,AM,1.9,0.8,14.6,13.2,5.3
+243,132,I,49356,S 146th St & 4th Ave S,3,AM,0.1,0.1,5.1,1.1,0.6
+243,132,O,420,3rd Ave & Virginia St,3,AM,2.6,2.4,14.7,17.9,16.8
+243,132,O,433,3rd Ave & Pike St,4,AM,2.1,2.5,12.7,16.4,20
+243,132,I,49358,S 146th St & 5th Pl S,4,AM,0.1,0,5.2,0.7,0.1
+243,132,I,49362,S 146th St & 8th Ave S,5,AM,0.2,0,5.4,1.4,0.1
+243,132,O,468,3rd Ave & Seneca St,5,AM,3.1,3.5,12.4,24.9,27.6
+243,132,I,49367,S 146th St & 11th Ave S,6,AM,0,0.1,4.8,0.1,0.6
+243,132,O,490,3rd Ave & Cherry St,6,AM,2.2,2.4,12.2,17.9,19.3
+243,132,O,515,3rd Ave S & S Main St,7,AM,6.8,1.8,17.3,54.7,14.3
+243,132,I,49370,Des Moines Memorial Dr S & S 144th St,7,AM,0,0.4,4.4,0.2,3.9
+243,132,O,30670,4th Ave S & Edgar Martinez Dr S,8,AM,0.1,0.3,17.1,1,2.6
+243,132,I,49380,Des Moines Memorial Dr S & S 140th St,8,AM,0,0,4.4,0,0.2
+243,132,O,30690,4th Ave S & S Holgate St,9,AM,0.6,2.2,15.5,4.8,17.5
+243,132,I,49390,Des Moines Memorial Dr S & S 138th St,9,AM,0,0.1,4.3,0,0.5
+243,132,I,49400,Des Moines Memorial Dr S & S 136th St,10,AM,0.4,0.1,4.7,3.8,0.6
+243,132,O,30700,4th Ave S & S Walker St,10,AM,0.1,0.4,15.2,0.6,3.2
+243,132,I,49410,Des Moines Memorial Dr S & S 134th St,11,AM,0.1,0,4.8,1,0
+243,132,O,30720,4th Ave S & S Lander St,11,AM,4.3,1,18.4,34.2,8
+243,132,O,30748,4th Ave S & S Horton St,12,AM,0.1,0.5,18,0.8,4.1
+243,132,I,49420,Des Moines Memorial Dr S & S 132nd St,12,AM,0.4,0,5.1,3.3,0.4
+243,132,I,49430,Des Moines Memorial Dr S & S 128th St,13,AM,0.2,0,5.3,1.9,0.4
+243,132,O,45870,4th Ave S & S Spokane St,13,AM,1.6,1.3,18.3,12.4,10.5
+243,132,I,49440,S 128th St & Roseberg Ave S,14,AM,0.5,0,5.7,4.2,0.2
+243,132,O,45880,4th Ave S & S Industrial Way,14,AM,0.1,0.8,17.6,0.9,6.1
+243,132,O,45900,4th Ave S & Diagonal Ave S,15,AM,0.1,0.3,17.4,0.5,2.6
+243,132,I,49450,S 128th St & 20th Ave S,15,AM,0.1,0,5.8,1.1,0.2
+243,132,I,49460,S 128th St & 22nd Ave S,16,AM,0.3,0,6.1,2.9,0.1
+243,132,O,45910,4th Ave S & S Dawson St,16,AM,0.2,3.8,13.7,1.5,30.7
+243,132,I,49470,S 128th St & 24th Ave S,17,AM,0.1,0.1,6.1,0.6,0.7
+243,132,O,45920,4th Ave S & S Brandon St,17,AM,0.1,2.3,11.5,0.7,18.4
+243,132,O,45940,4th Ave S & S Mead St,18,AM,0,1.7,9.9,0.2,13.2
+243,132,I,49480,S 128th St & 26th Ave S,18,AM,0.1,0,6.2,1.1,0.1
+243,132,I,49490,Military Rd S & S 128th St,19,AM,0.5,0.1,6.6,3.6,0.7
+243,132,O,45960,4th Ave S & S Front St,19,AM,0,1.3,8.7,0.2,10.1
+243,132,I,49500,Military Rd S & S 125th Pl,20,AM,0.5,0,7,3.9,0.1
+243,132,O,51870,S Michigan St & East Marginal Way S,20,AM,0.1,1.4,7.4,0.7,11.2
+243,132,I,49510,Military Rd S & S 123rd St,21,AM,0,0,7,0.1,0
+243,132,O,49757,S Holden St & 2nd Ave S,21,AM,0,0.3,7.5,0.3,1.8
+243,132,O,49755,S Holden St & 5th Ave S,22,AM,0,0.3,7.1,0,2.3
+243,132,I,49520,Military Rd S & S 121st Pl,22,AM,0.3,0,7.3,2.1,0
+243,132,O,49753,5th Ave S & S Kenyon St,23,AM,0,0.1,7,0,0.8
+243,132,I,49530,S 120th St & 23rd Ave S,23,AM,0.9,0,8.2,7.5,0.1
+243,132,O,49724,8th Ave S & S Monroe St,24,AM,0,0.5,6.5,0,3.6
+243,132,I,49540,S 120th St & 22nd Ave S,24,AM,0.1,0,8.3,0.5,0.2
+243,132,O,49725,8th Ave S & S Southern St,25,AM,0.2,0.2,6.6,1.4,1.1
+243,132,I,49550,S 120th St & Roseberg Ave S,25,AM,0.9,0,9.2,7.5,0.3
+243,132,O,49726,8th Ave S & S Thistle St,26,AM,0,0.1,6.5,0,0.9
+243,132,I,49580,Des Moines Memorial Dr S & S 120th St,26,AM,1.6,0.3,10.5,13.1,2.1
+243,132,I,49599,Des Moines Memorial Dr S & S 116th St,27,AM,1.1,0.1,11.5,8.8,0.6
+243,132,O,32120,S Cloverdale St & 8th Ave S,27,AM,0.1,0.8,5.8,0.9,5.6
+243,132,O,32140,S Cloverdale St & 12th Ave S,28,AM,0.3,0.4,5.6,2.4,2.8
+243,132,I,49610,Des Moines Memorial Dr S & S 113th St,28,AM,0.7,0.1,12.2,5.7,0.4
+243,132,I,49630,Des Moines Memorial Dr S & S 108th St,29,AM,0.5,0,12.7,4.3,0.3
+243,132,O,49739,14th Ave S & S Trenton St,29,AM,0.2,0.5,5.2,1.3,4.2
+243,132,O,49740,14th Ave S & S Henderson St,30,AM,0.4,0.7,4.9,3.1,5.7
+243,132,I,49660,Des Moines Memorial Dr S & S 103rd St,30,AM,2,0.2,14.6,16.1,1.2
+243,132,O,49750,Des Moines Memorial Dr S & S 96th St,31,AM,0.2,1.1,4,1.7,8.5
+243,132,I,49670,Des Moines Memorial Dr S & 17th Pl S,31,AM,0.3,0,14.8,2.6,0.1
+243,132,O,49760,Des Moines Memorial Dr S & S 99th St,32,AM,0.4,0.1,4.3,2.8,0.7
+243,132,I,49690,Des Moines Memorial Dr S & S 99th St,32,AM,2.5,0.1,17.3,20.2,0.8
+243,132,O,49770,Des Moines Memorial Dr S & 17th Pl S,33,AM,0.2,0,4.4,1.4,0.3
+243,132,I,49700,Des Moines Memorial Dr S & S 96th St,33,AM,0.6,0.5,17.4,4.6,3.8
+243,132,O,49780,Des Moines Memorial Dr S & S 103rd St,34,AM,0.7,0.1,5.1,5.7,0.5
+243,132,I,49710,14th Ave S & S Director St,34,AM,0.4,0.5,17.3,3.5,4
+243,132,O,49810,Des Moines Memorial Dr S & S 108th St,35,AM,0.2,0,5.3,1.2,0.1
+243,132,I,49720,14th Ave S & S Trenton St,35,AM,0.4,0.3,17.4,2.8,2.2
+243,132,O,49820,Des Moines Memorial Dr S & S 112th St,36,AM,0.5,0.1,5.7,4.3,0.6
+243,132,I,31680,S Cloverdale St & 12th Ave S,36,AM,0.9,1,17.3,7.5,8.1
+243,132,I,49730,8th Ave S & S Cloverdale St,37,AM,2.4,0.2,19.5,18.9,1.7
+243,132,O,49840,Des Moines Memorial Dr S & S 116th St,37,AM,0.2,0.3,5.7,1.6,2.1
+243,132,I,49731,8th Ave S & S Thistle St,38,AM,0.3,0,19.7,2,0
+243,132,O,49860,S 120th St & Des Moines Memorial Dr S,38,AM,0.2,0.8,5.1,1.9,6.3
+243,132,O,49870,S 120th St & 20th Ave S,39,AM,0.2,0.1,5.3,1.9,0.6
+243,132,I,49732,8th Ave S & S Southern St,39,AM,0.5,0,20.2,4.2,0.3
+243,132,I,49733,8th Ave S & S Kenyon St,40,AM,0.1,0.1,20.1,0.6,1.1
+243,132,O,49880,S 120th St & 22nd Ave S,40,AM,0.1,0.1,5.3,0.6,0.9
+243,132,O,49900,Military Rd S & S 121st Pl,41,AM,0.1,0.1,5.3,1.1,0.5
+243,132,I,49754,S Kenyon St & 5th Ave S,41,AM,0,0,20.1,0,0.3
+243,132,O,49910,Military Rd S & S 123rd St,42,AM,0.2,0,5.5,1.3,0
+243,132,I,49775,5th Ave S & S Holden St,42,AM,0,0.1,20,0,0.5
+243,132,I,49758,S Holden St & 2nd Ave S,43,AM,0.1,0.1,20,0.4,0.7
+243,132,O,49920,Military Rd S & S 125th St,43,AM,0.3,0,5.7,2,0.3
+243,132,O,49930,S 128th St & Military Rd S,44,AM,0.2,0.1,5.7,1.2,0.9
+243,132,I,45770,4th Ave S & S Michigan St,44,AM,0.5,0.5,20,4,4.1
+243,132,O,49940,S 128th St & 26th Ave S,45,AM,0,0,5.7,0.1,0.1
+243,132,I,45780,4th Ave S & S Front St,45,AM,0.1,0,20.1,1,0.1
+243,132,O,49950,S 128th St & 24th Ave S,46,AM,0.1,0,5.8,1,0.2
+243,132,I,45790,4th Ave S & S Fidalgo St,46,AM,0.1,0.2,20,1.1,1.7
+243,132,I,45800,4th Ave S & S Orcas St,47,AM,0.3,0.2,20.1,2,1.4
+243,132,O,49960,S 128th St & 22nd Ave S,47,AM,0.3,0,6.1,2.2,0
+243,132,I,45810,4th Ave S & S Lucile St,48,AM,0.2,0.2,20.1,1.9,1.8
+243,132,O,49970,S 128th St & 20th Ave S,48,AM,0,0,6,0,0.2
+243,132,I,45820,4th Ave S & S Bennett St,49,AM,0.3,0.4,20,2.3,3.1
+243,132,O,49980,S 128th St & Roseberg Ave S,49,AM,0,0,6,0.2,0.2
+243,132,O,50010,Des Moines Memorial Dr S & S 128th St,50,AM,0.5,0.1,6.4,4,1.1
+243,132,I,45840,4th Ave S & S Industrial Way,50,AM,0.1,0.3,19.8,0.7,2.1
+243,132,O,50020,Des Moines Memorial Dr S & S 132nd St,51,AM,0.3,0.1,6.7,2.3,0.4
+243,132,I,45850,4th Ave S & S Industrial Way,51,AM,0.2,0.5,19.5,1.9,4.1
+243,132,I,30538,4th Ave S & S Spokane St,52,AM,0.1,0.6,18.8,0.9,4.8
+243,132,O,50030,Des Moines Memorial Dr S & S 134th St,52,AM,0.1,0,6.7,0.4,0.3
+243,132,O,50050,Des Moines Memorial Dr S & S 138th St,53,AM,0.1,0,6.7,0.4,0.3
+243,132,I,30550,4th Ave S & S Hanford St,53,AM,0.1,0.2,18.7,0.4,1.5
+243,132,I,30560,4th Ave S & S Forest St,54,AM,0,0.2,18.5,0.1,1.5
+243,132,O,50060,Des Moines Memorial Dr S & S 140th St,54,AM,0.1,0.1,6.6,0.7,0.9
+243,132,O,50061,S 144th St & Des Moines Memorial Dr S,55,AM,0,0.1,6.6,0.2,0.7
+243,132,I,30570,4th Ave S & S Lander St,55,AM,0.4,1.5,17.4,2.8,12.1
+243,132,O,50062,S 146th St & 11th Ave S,56,AM,0,0,6.5,0,0.2
+243,132,I,30590,4th Ave S & S Walker St,56,AM,0.2,0.2,17.4,1.5,1.5
+243,132,O,50063,S 146th St & 8th Ave S,57,AM,0.1,0,6.6,0.8,0.1
+243,132,I,30600,4th Ave S & S Holgate St,57,AM,0.6,0.5,17.4,4.4,4.3
+243,132,O,50064,S 146th St & 5th Ave S,58,AM,0.1,0,6.7,0.5,0.1
+243,132,I,30635,4th Ave S & S Royal Brougham Way,58,AM,0.1,0.2,17.3,1.1,1.7
+243,132,I,619,4th Ave S & S Jackson St,59,AM,1.3,2.3,16.3,10.5,18.5
+243,132,O,50065,S 146th St & 4th Ave S,59,AM,0,0,6.7,0,0.2
+243,132,O,48470,1st Ave S & SW 146th St,60,AM,0,0.6,6.1,0,4.7
+243,132,I,531,3rd Ave & James St,60,AM,0.2,2.4,14,1.8,19.3
+243,132,O,52305,Burien Transit Center - Bay 5,61,AM,0,6.3,0,0.3,44.1
+243,132,I,548,3rd Ave & Madison St,61,AM,0.2,3.2,11.1,1.7,25.5
+243,132,I,570,3rd Ave & Union St,62,AM,0.1,3.1,8.1,0.6,24.8
+243,132,I,590,3rd Ave & Pine St,63,AM,0.4,2.5,5.9,2.8,20.3
+243,132,I,600,3rd Ave & Virginia St,64,AM,0.1,4,2,0.9,32.1
+243,132,I,605,3rd Ave & Bell St,65,AM,0,2,0,0.1,16.3
+243,132,I,52304,Burien Transit Center - Bay 4,1,MID,5.8,0,6.1,70,0.2
+243,132,O,7430,Wall St & 5th Ave,1,MID,0.7,0,8,9.4,0
+243,132,I,47740,1st Ave S & S 146th St,2,MID,1.1,0.2,7,13.7,2.8
+243,132,O,400,3rd Ave & Bell St,2,MID,2.2,0.7,9.6,28.9,8.5
+243,132,I,49356,S 146th St & 4th Ave S,3,MID,0.1,0,7,1,0.2
+243,132,O,420,3rd Ave & Virginia St,3,MID,2.5,1.9,10.2,32.4,25.1
+243,132,O,433,3rd Ave & Pike St,4,MID,4.1,2.9,11.3,48.6,34.9
+243,132,I,49358,S 146th St & 5th Pl S,4,MID,0,0.1,7,0.1,1
+243,132,I,49362,S 146th St & 8th Ave S,5,MID,0.1,0.1,7,1.2,0.9
+243,132,O,468,3rd Ave & Seneca St,5,MID,2.7,2,12,32.9,23.6
+243,132,I,49367,S 146th St & 11th Ave S,6,MID,0,0,7,0.1,0.4
+243,132,O,490,3rd Ave & Cherry St,6,MID,2.1,1.3,12.9,25.3,15
+243,132,I,49370,Des Moines Memorial Dr S & S 144th St,7,MID,0,0.1,6.9,0.5,1.5
+243,132,O,515,3rd Ave S & S Main St,7,MID,7.2,1.8,18.3,86.7,21
+243,132,O,30670,4th Ave S & Edgar Martinez Dr S,8,MID,0.6,0.9,18,7.1,10.9
+243,132,I,49380,Des Moines Memorial Dr S & S 140th St,8,MID,0,0.1,6.9,0.2,0.8
+243,132,O,30690,4th Ave S & S Holgate St,9,MID,1.8,3.4,16.5,22,41.3
+243,132,I,49390,Des Moines Memorial Dr S & S 138th St,9,MID,0,0,6.8,0.4,0.5
+243,132,I,49400,Des Moines Memorial Dr S & S 136th St,10,MID,0.2,0.2,6.9,2.3,1.9
+243,132,O,30700,4th Ave S & S Walker St,10,MID,0.4,1.3,15.6,5.3,15.1
+243,132,I,49410,Des Moines Memorial Dr S & S 134th St,11,MID,0.1,0,6.9,1,0.5
+243,132,O,30720,4th Ave S & S Lander St,11,MID,2.4,1.2,16.9,29.2,14.2
+243,132,O,30748,4th Ave S & S Horton St,12,MID,0.2,0.4,16.6,2.3,4.9
+243,132,I,49420,Des Moines Memorial Dr S & S 132nd St,12,MID,0.1,0.2,6.8,1.1,2.2
+243,132,I,49430,Des Moines Memorial Dr S & S 128th St,13,MID,0.1,0.3,6.7,1.2,3.3
+243,132,O,45870,4th Ave S & S Spokane St,13,MID,1,0.5,17.1,12.3,6.1
+243,132,I,49440,S 128th St & Roseberg Ave S,14,MID,0.3,0.2,6.8,3.5,2.2
+243,132,O,45880,4th Ave S & S Industrial Way,14,MID,0.2,0.8,16.6,2.7,9.7
+243,132,O,45900,4th Ave S & Diagonal Ave S,15,MID,0.3,2.5,14.4,3.2,29.9
+243,132,I,49450,S 128th St & 20th Ave S,15,MID,0.1,0.1,6.8,1.1,1
+243,132,I,49460,S 128th St & 22nd Ave S,16,MID,0.1,0.1,6.9,1.5,1.1
+243,132,O,45910,4th Ave S & S Dawson St,16,MID,0.2,2.3,12.3,2.1,27.5
+243,132,I,49470,S 128th St & 24th Ave S,17,MID,0.1,0.1,6.9,1.2,1.2
+243,132,O,45920,4th Ave S & S Brandon St,17,MID,0.3,0.9,11.6,3.8,11.2
+243,132,O,45940,4th Ave S & S Mead St,18,MID,0.1,0.7,11.1,1.3,8
+243,132,I,49480,S 128th St & 26th Ave S,18,MID,0,0,6.9,0.5,0.2
+243,132,I,49490,Military Rd S & S 128th St,19,MID,0.3,0.2,6.9,3.7,2.9
+243,132,O,45960,4th Ave S & S Front St,19,MID,0.5,2.2,9.4,6.1,25.8
+243,132,I,49500,Military Rd S & S 125th Pl,20,MID,0.2,0.2,6.8,2.4,2.9
+243,132,O,51870,S Michigan St & East Marginal Way S,20,MID,0.3,0.9,8.8,3.1,11.1
+243,132,I,49510,Military Rd S & S 123rd St,21,MID,0,0,6.9,0.1,0
+243,132,O,49757,S Holden St & 2nd Ave S,21,MID,0,0.2,7.9,0.3,2.1
+243,132,O,49755,S Holden St & 5th Ave S,22,MID,0,0,7.9,0.1,0.1
+243,132,I,49520,Military Rd S & S 121st Pl,22,MID,0.1,0.1,6.9,1.5,1
+243,132,O,49753,5th Ave S & S Kenyon St,23,MID,0,0,7.8,0.1,0.3
+243,132,I,49530,S 120th St & 23rd Ave S,23,MID,0.6,0.1,7.3,6.9,1
+243,132,O,49724,8th Ave S & S Monroe St,24,MID,0,0.1,7.8,0.2,0.9
+243,132,I,49540,S 120th St & 22nd Ave S,24,MID,0.1,0,7.4,0.9,0.3
+243,132,O,49725,8th Ave S & S Southern St,25,MID,0.2,0.5,7.6,2.7,5.7
+243,132,I,49550,S 120th St & Roseberg Ave S,25,MID,0.8,0.5,7.7,9.7,6.1
+243,132,O,49726,8th Ave S & S Thistle St,26,MID,0,0.3,7.4,0.5,3
+243,132,I,49580,Des Moines Memorial Dr S & S 120th St,26,MID,1.2,0.3,8.5,14,3.8
+243,132,I,49599,Des Moines Memorial Dr S & S 116th St,27,MID,0.9,0.3,9.2,10.7,3
+243,132,O,32120,S Cloverdale St & 8th Ave S,27,MID,0.5,0.6,7.3,6.3,7
+243,132,O,32140,S Cloverdale St & 12th Ave S,28,MID,0.5,0.2,7.6,5.6,2.8
+243,132,I,49610,Des Moines Memorial Dr S & S 113th St,28,MID,0.4,0.4,9.1,4.6,4.9
+243,132,I,49630,Des Moines Memorial Dr S & S 108th St,29,MID,0.3,0.2,9.2,3.1,2
+243,132,O,49739,14th Ave S & S Trenton St,29,MID,0.7,0.5,7.8,8,6
+243,132,O,49740,14th Ave S & S Henderson St,30,MID,0.6,0.3,8,6.8,3.7
+243,132,I,49660,Des Moines Memorial Dr S & S 103rd St,30,MID,0.9,0.6,9.5,11.1,7.2
+243,132,O,49750,Des Moines Memorial Dr S & S 96th St,31,MID,0.8,0.6,8.1,9.1,7.6
+243,132,I,49670,Des Moines Memorial Dr S & 17th Pl S,31,MID,0.2,0.2,9.6,2.6,2.5
+243,132,O,49760,Des Moines Memorial Dr S & S 99th St,32,MID,0.4,0.5,8,4.3,5.5
+243,132,I,49690,Des Moines Memorial Dr S & S 99th St,32,MID,0.9,0.3,10.2,10.5,3
+243,132,O,49770,Des Moines Memorial Dr S & 17th Pl S,33,MID,0.3,0.1,8.1,3.3,1.5
+243,132,I,49700,Des Moines Memorial Dr S & S 96th St,33,MID,0.6,0.3,10.5,6.8,3.5
+243,132,O,49780,Des Moines Memorial Dr S & S 103rd St,34,MID,0.8,0.4,8.6,9.2,4.2
+243,132,I,49710,14th Ave S & S Director St,34,MID,0.5,0.6,10.4,5.9,6.6
+243,132,O,49810,Des Moines Memorial Dr S & S 108th St,35,MID,0.2,0.1,8.6,2,1.2
+243,132,I,49720,14th Ave S & S Trenton St,35,MID,0.5,0.5,10.3,5.6,6.4
+243,132,O,49820,Des Moines Memorial Dr S & S 112th St,36,MID,0.5,0.3,8.8,5.5,3.2
+243,132,I,31680,S Cloverdale St & 12th Ave S,36,MID,0.5,0.6,10.3,6.5,7
+243,132,I,49730,8th Ave S & S Cloverdale St,37,MID,0.9,0.3,10.9,10.6,3.8
+243,132,O,49840,Des Moines Memorial Dr S & S 116th St,37,MID,0.6,0.6,8.8,7.2,7.2
+243,132,I,49731,8th Ave S & S Thistle St,38,MID,0.2,0.1,11,1.9,0.9
+243,132,O,49860,S 120th St & Des Moines Memorial Dr S,38,MID,0.7,1.7,7.7,8,20.5
+243,132,O,49870,S 120th St & 20th Ave S,39,MID,0.3,0.2,7.9,3.7,2.5
+243,132,I,49732,8th Ave S & S Southern St,39,MID,0.8,0.2,11.5,9.1,2.6
+243,132,I,49733,8th Ave S & S Kenyon St,40,MID,0.1,0,11.6,0.8,0.2
+243,132,O,49880,S 120th St & 22nd Ave S,40,MID,0.1,0.2,7.8,0.9,2.5
+243,132,O,49900,Military Rd S & S 121st Pl,41,MID,0.2,0.1,7.8,2.1,1.2
+243,132,I,49754,S Kenyon St & 5th Ave S,41,MID,0,0,11.6,0.3,0.2
+243,132,O,49910,Military Rd S & S 123rd St,42,MID,0.1,0,7.9,1.1,0.4
+243,132,I,49775,5th Ave S & S Holden St,42,MID,0,0,11.6,0.4,0
+243,132,I,49758,S Holden St & 2nd Ave S,43,MID,0.2,0,11.8,2.8,0.5
+243,132,O,49920,Military Rd S & S 125th St,43,MID,0.3,0.2,8,3.1,2.2
+243,132,O,49930,S 128th St & Military Rd S,44,MID,0.2,0.4,7.8,2.7,4.7
+243,132,I,45770,4th Ave S & S Michigan St,44,MID,1.1,0.3,12.6,13.6,3.6
+243,132,O,49940,S 128th St & 26th Ave S,45,MID,0,0,7.8,0,0.1
+243,132,I,45780,4th Ave S & S Front St,45,MID,2,0.4,14.2,23.6,4.4
+243,132,O,49950,S 128th St & 24th Ave S,46,MID,0.1,0.1,7.8,1.4,1.4
+243,132,I,45790,4th Ave S & S Fidalgo St,46,MID,0.3,0.1,14.5,3.8,0.6
+243,132,I,45800,4th Ave S & S Orcas St,47,MID,0.8,0.1,15.1,9.2,1.1
+243,132,O,49960,S 128th St & 22nd Ave S,47,MID,0.1,0.1,7.8,1,1.3
+243,132,I,45810,4th Ave S & S Lucile St,48,MID,1.4,0.2,16.3,16.8,2.6
+243,132,O,49970,S 128th St & 20th Ave S,48,MID,0,0.1,7.8,0.4,0.7
+243,132,I,45820,4th Ave S & S Bennett St,49,MID,1.6,0.2,17.7,18.7,1.8
+243,132,O,49980,S 128th St & Roseberg Ave S,49,MID,0.1,0.1,7.7,0.9,1.5
+243,132,O,50010,Des Moines Memorial Dr S & S 128th St,50,MID,0.4,0.3,7.8,4.6,3.8
+243,132,I,45840,4th Ave S & S Industrial Way,50,MID,1.6,0.3,19,18.9,4
+243,132,O,50020,Des Moines Memorial Dr S & S 132nd St,51,MID,0.2,0.1,7.9,2.1,0.6
+243,132,I,45850,4th Ave S & S Industrial Way,51,MID,0.8,0.2,19.6,8.8,2.1
+243,132,I,30538,4th Ave S & S Spokane St,52,MID,0.2,1,18.4,2.8,12.2
+243,132,O,50030,Des Moines Memorial Dr S & S 134th St,52,MID,0.2,0.1,8,2.4,0.8
+243,132,O,50050,Des Moines Memorial Dr S & S 138th St,53,MID,0.1,0,8,0.6,0.5
+243,132,I,30550,4th Ave S & S Hanford St,53,MID,0.2,0.1,18.5,2.5,1.6
+243,132,I,30560,4th Ave S & S Forest St,54,MID,0.1,0,18.5,0.9,0.3
+243,132,O,50060,Des Moines Memorial Dr S & S 140th St,54,MID,0,0,8.1,0.3,0
+243,132,O,50061,S 144th St & Des Moines Memorial Dr S,55,MID,0.1,0.1,8.1,1.3,0.7
+243,132,I,30570,4th Ave S & S Lander St,55,MID,0.7,2.2,17,8.9,26.4
+243,132,O,50062,S 146th St & 11th Ave S,56,MID,0,0,8.1,0.1,0.5
+243,132,I,30590,4th Ave S & S Walker St,56,MID,1.4,0.5,17.9,16.2,6.2
+243,132,O,50063,S 146th St & 8th Ave S,57,MID,0.1,0.1,8.1,0.9,0.6
+243,132,I,30600,4th Ave S & S Holgate St,57,MID,2.6,1.2,19.2,31.2,14.7
+243,132,O,50064,S 146th St & 5th Ave S,58,MID,0,0,7.9,0,0.3
+243,132,I,30635,4th Ave S & S Royal Brougham Way,58,MID,1,1.2,19.1,12,13.8
+243,132,I,619,4th Ave S & S Jackson St,59,MID,0.7,7.4,12.4,8.6,88.8
+243,132,O,50065,S 146th St & 4th Ave S,59,MID,0,0,7.9,0,0.1
+243,132,O,48470,1st Ave S & SW 146th St,60,MID,0.1,1.8,6.1,0.8,20.2
+243,132,I,531,3rd Ave & James St,60,MID,0.5,2.1,10.8,5.4,25.4
+243,132,O,52305,Burien Transit Center - Bay 5,61,MID,0,6.1,0,0.5,73.2
+243,132,I,548,3rd Ave & Madison St,61,MID,0.4,2.3,8.9,4.6,27.4
+243,132,I,570,3rd Ave & Union St,62,MID,0.2,3.2,5.8,1.9,38.7
+243,132,I,590,3rd Ave & Pine St,63,MID,0.5,2.6,3.7,6.5,31.1
+243,132,I,600,3rd Ave & Virginia St,64,MID,0.1,2.2,1.7,1.3,25.8
+243,132,I,605,3rd Ave & Bell St,65,MID,0.1,1.8,0,0.6,21.3
+243,132,I,52304,Burien Transit Center - Bay 4,1,PM,9.3,0,9.6,74.1,0
+243,132,O,7430,Wall St & 5th Ave,1,PM,1.1,0,8.3,8.9,0
+243,132,I,47740,1st Ave S & S 146th St,2,PM,1.8,0.3,11.3,12.3,2.2
+243,132,O,400,3rd Ave & Bell St,2,PM,2.6,0.8,10.5,18.5,5.5
+243,132,I,49356,S 146th St & 4th Ave S,3,PM,0,0.1,11.2,0,0.8
+243,132,O,420,3rd Ave & Virginia St,3,PM,4.3,1.9,13,30.3,13
+243,132,O,433,3rd Ave & Pike St,4,PM,5.7,2.6,15.8,45.6,21.1
+243,132,I,49358,S 146th St & 5th Pl S,4,PM,0.1,0.3,11,0.6,2.1
+243,132,I,49362,S 146th St & 8th Ave S,5,PM,0.1,0.1,10.9,0.5,0.9
+243,132,O,468,3rd Ave & Seneca St,5,PM,4.2,1.3,18.7,33.2,10.1
+243,132,I,49367,S 146th St & 11th Ave S,6,PM,0,0,10.9,0.1,0.3
+243,132,O,490,3rd Ave & Cherry St,6,PM,2.5,0.9,20.3,19.7,6.9
+243,132,I,49370,Des Moines Memorial Dr S & S 144th St,7,PM,0.2,0.1,11,1.3,0.4
+243,132,O,515,3rd Ave S & S Main St,7,PM,4.8,2.8,22.3,38.4,22.4
+243,132,O,30670,4th Ave S & Edgar Martinez Dr S,8,PM,0.7,1.1,21.8,5.2,9.1
+243,132,I,49380,Des Moines Memorial Dr S & S 140th St,8,PM,0.1,0.1,11,0.8,0.9
+243,132,O,30690,4th Ave S & S Holgate St,9,PM,1,1.5,21.4,8.1,11.7
+243,132,I,49390,Des Moines Memorial Dr S & S 138th St,9,PM,0,0.1,11,0,0.7
+243,132,I,49400,Des Moines Memorial Dr S & S 136th St,10,PM,0.1,0.3,10.7,0.6,2
+243,132,O,30700,4th Ave S & S Walker St,10,PM,0.5,1.6,20.2,3.9,13
+243,132,I,49410,Des Moines Memorial Dr S & S 134th St,11,PM,0,0.1,10.7,0.1,0.4
+243,132,O,30720,4th Ave S & S Lander St,11,PM,2.2,0.9,21.5,17.6,7.2
+243,132,O,30748,4th Ave S & S Horton St,12,PM,0.3,0.4,21.4,2.2,2.9
+243,132,I,49420,Des Moines Memorial Dr S & S 132nd St,12,PM,0.1,0.4,10.4,0.5,2.9
+243,132,I,49430,Des Moines Memorial Dr S & S 128th St,13,PM,0.1,0.7,9.8,1,5.1
+243,132,O,45870,4th Ave S & S Spokane St,13,PM,0.9,0.4,21.9,7.1,3
+243,132,I,49440,S 128th St & Roseberg Ave S,14,PM,0.3,0.4,9.6,1.9,3
+243,132,O,45880,4th Ave S & S Industrial Way,14,PM,0.4,0.4,22,3.5,3.2
+243,132,O,45900,4th Ave S & Diagonal Ave S,15,PM,0.6,2.3,20.3,4.9,18.3
+243,132,I,49450,S 128th St & 20th Ave S,15,PM,0,0.1,9.5,0.2,0.7
+243,132,I,49460,S 128th St & 22nd Ave S,16,PM,0.1,0.4,9.2,0.6,3.1
+243,132,O,45910,4th Ave S & S Dawson St,16,PM,0.5,0.7,20.1,4.2,5.9
+243,132,I,49470,S 128th St & 24th Ave S,17,PM,0.1,0.3,8.9,0.5,2.4
+243,132,O,45920,4th Ave S & S Brandon St,17,PM,0.4,0.7,19.7,3,5.8
+243,132,O,45940,4th Ave S & S Mead St,18,PM,0.4,0.6,19.6,3.2,4.4
+243,132,I,49480,S 128th St & 26th Ave S,18,PM,0,0.1,8.9,0,0.9
+243,132,I,49490,Military Rd S & S 128th St,19,PM,0.2,0.5,8.5,1.5,3.6
+243,132,O,45960,4th Ave S & S Front St,19,PM,0.1,0.3,19.4,1,2.1
+243,132,I,49500,Military Rd S & S 125th Pl,20,PM,0.1,0.4,8.3,0.7,2.5
+243,132,O,51870,S Michigan St & East Marginal Way S,20,PM,0.5,0.9,19,3.6,6.8
+243,132,I,49510,Military Rd S & S 123rd St,21,PM,0,0.1,8.1,0.1,0.4
+243,132,O,49757,S Holden St & 2nd Ave S,21,PM,0.1,0.1,19.6,0.7,0.5
+243,132,O,49755,S Holden St & 5th Ave S,22,PM,0.1,0,19.6,0.4,0
+243,132,I,49520,Military Rd S & S 121st Pl,22,PM,0.1,0.3,7.9,0.7,2.2
+243,132,O,49753,5th Ave S & S Kenyon St,23,PM,0,0,19.6,0.2,0
+243,132,I,49530,S 120th St & 23rd Ave S,23,PM,0.4,0.3,8.1,3.2,2
+243,132,O,49724,8th Ave S & S Monroe St,24,PM,0,0.1,19.5,0.3,0.9
+243,132,I,49540,S 120th St & 22nd Ave S,24,PM,0.1,0.1,8.1,0.6,0.7
+243,132,O,49725,8th Ave S & S Southern St,25,PM,0.1,0.6,19.1,1,4.8
+243,132,I,49550,S 120th St & Roseberg Ave S,25,PM,0.7,1.1,7.7,5.4,8.5
+243,132,O,49726,8th Ave S & S Thistle St,26,PM,0.1,0.7,18.5,0.5,5.3
+243,132,I,49580,Des Moines Memorial Dr S & S 120th St,26,PM,1.3,0.7,8.3,10.4,5.9
+243,132,I,49599,Des Moines Memorial Dr S & S 116th St,27,PM,0.7,0.4,8.6,5.8,3.2
+243,132,O,32120,S Cloverdale St & 8th Ave S,27,PM,1.1,1.4,18.1,8.8,11.1
+243,132,O,32140,S Cloverdale St & 12th Ave S,28,PM,0.5,0.6,18,3.9,4.6
+243,132,I,49610,Des Moines Memorial Dr S & S 113th St,28,PM,0.3,0.7,8.2,2.2,5.9
+243,132,I,49630,Des Moines Memorial Dr S & S 108th St,29,PM,0.1,0.3,8,1,2.6
+243,132,O,49739,14th Ave S & S Trenton St,29,PM,1,0.8,18.3,7.8,6
+243,132,O,49740,14th Ave S & S Henderson St,30,PM,1,0.4,18.9,7.6,3.5
+243,132,I,49660,Des Moines Memorial Dr S & S 103rd St,30,PM,0.5,1.2,7.2,4.1,9.7
+243,132,O,49750,Des Moines Memorial Dr S & S 96th St,31,PM,0.8,1,18.6,6,7.8
+243,132,I,49670,Des Moines Memorial Dr S & 17th Pl S,31,PM,0.2,0.4,7,1.2,2.9
+243,132,O,49760,Des Moines Memorial Dr S & S 99th St,32,PM,0.3,2,16.9,2.3,15.7
+243,132,I,49690,Des Moines Memorial Dr S & S 99th St,32,PM,0.4,0.6,6.8,3.3,5.1
+243,132,O,49770,Des Moines Memorial Dr S & 17th Pl S,33,PM,0.4,0.5,16.8,2.9,4.3
+243,132,I,49700,Des Moines Memorial Dr S & S 96th St,33,PM,1.1,0.2,7.7,8.8,1.7
+243,132,O,49780,Des Moines Memorial Dr S & S 103rd St,34,PM,0.5,1.5,15.8,4.3,12
+243,132,I,49710,14th Ave S & S Director St,34,PM,0.8,0.7,7.8,6.7,5.8
+243,132,O,49810,Des Moines Memorial Dr S & S 108th St,35,PM,0.2,0.5,15.5,1.4,4.2
+243,132,I,49720,14th Ave S & S Trenton St,35,PM,0.8,0.3,8.2,6.1,2.6
+243,132,O,49820,Des Moines Memorial Dr S & S 112th St,36,PM,0.5,1,15,3.6,7.6
+243,132,I,31680,S Cloverdale St & 12th Ave S,36,PM,0.6,0.8,8.1,4.6,6.1
+243,132,I,49730,8th Ave S & S Cloverdale St,37,PM,0.7,0.5,8.2,5.8,4.2
+243,132,O,49840,Des Moines Memorial Dr S & S 116th St,37,PM,0.5,1.1,14.3,3.7,9
+243,132,I,49731,8th Ave S & S Thistle St,38,PM,0.2,0.1,8.3,1.3,0.9
+243,132,O,49860,S 120th St & Des Moines Memorial Dr S,38,PM,0.8,3.4,11.6,6,27.4
+243,132,O,49870,S 120th St & 20th Ave S,39,PM,0.3,0.5,11.5,2.7,3.6
+243,132,I,49732,8th Ave S & S Southern St,39,PM,0.5,0.3,8.5,4.1,2.4
+243,132,I,49733,8th Ave S & S Kenyon St,40,PM,0.1,0.1,8.6,0.8,0.6
+243,132,O,49880,S 120th St & 22nd Ave S,40,PM,0.1,0.5,11.1,0.8,4
+243,132,O,49900,Military Rd S & S 121st Pl,41,PM,0.1,0.6,10.7,1,4.5
+243,132,I,49754,S Kenyon St & 5th Ave S,41,PM,0.1,0,8.7,0.4,0.1
+243,132,O,49910,Military Rd S & S 123rd St,42,PM,0.1,0.1,10.7,0.4,0.7
+243,132,I,49775,5th Ave S & S Holden St,42,PM,0.6,0,9.2,4.5,0
+243,132,I,49758,S Holden St & 2nd Ave S,43,PM,0.3,0,9.4,2.2,0
+243,132,O,49920,Military Rd S & S 125th St,43,PM,0.2,0.5,10.3,1.4,4.2
+243,132,O,49930,S 128th St & Military Rd S,44,PM,0.6,0.4,10.5,4.6,3.5
+243,132,I,45770,4th Ave S & S Michigan St,44,PM,1.6,0.3,10.8,13,2
+243,132,O,49940,S 128th St & 26th Ave S,45,PM,0,0.1,10.4,0.3,0.9
+243,132,I,45780,4th Ave S & S Front St,45,PM,1.1,0,11.8,8.4,0.2
+243,132,O,49950,S 128th St & 24th Ave S,46,PM,0.1,0.4,10.1,1.1,3.1
+243,132,I,45790,4th Ave S & S Fidalgo St,46,PM,0.9,0,12.7,7.3,0
+243,132,I,45800,4th Ave S & S Orcas St,47,PM,1.2,0.1,13.8,9.2,0.6
+243,132,O,49960,S 128th St & 22nd Ave S,47,PM,0.1,0.2,10,0.6,1.8
+243,132,I,45810,4th Ave S & S Lucile St,48,PM,1.4,0.1,15.1,11.1,0.8
+243,132,O,49970,S 128th St & 20th Ave S,48,PM,0,0.1,9.9,0.1,0.8
+243,132,I,45820,4th Ave S & S Bennett St,49,PM,2.5,0.1,17.5,19.9,0.8
+243,132,O,49980,S 128th St & Roseberg Ave S,49,PM,0.1,0.4,9.6,0.5,2.9
+243,132,O,50010,Des Moines Memorial Dr S & S 128th St,50,PM,0.4,0.6,9.4,3.3,5.1
+243,132,I,45840,4th Ave S & S Industrial Way,50,PM,2.2,0.3,20.8,15.6,2.2
+243,132,O,50020,Des Moines Memorial Dr S & S 132nd St,51,PM,0.2,0.4,9.1,1.3,3.4
+243,132,I,45850,4th Ave S & S Industrial Way,51,PM,0.6,0.2,21,4.7,1.5
+243,132,I,30538,4th Ave S & S Spokane St,52,PM,0.6,1.7,19.9,4.9,13.2
+243,132,O,50030,Des Moines Memorial Dr S & S 134th St,52,PM,0.1,0.3,9,1.1,2.3
+243,132,O,50050,Des Moines Memorial Dr S & S 138th St,53,PM,0,0,9,0.3,0.3
+243,132,I,30550,4th Ave S & S Hanford St,53,PM,0.3,0.2,20,2.6,1.4
+243,132,I,30560,4th Ave S & S Forest St,54,PM,0,0.1,20.1,0.2,0.6
+243,132,O,50060,Des Moines Memorial Dr S & S 140th St,54,PM,0.1,0.1,9,0.9,0.7
+243,132,O,50061,S 144th St & Des Moines Memorial Dr S,55,PM,0.4,0.1,9.3,3.1,0.8
+243,132,I,30570,4th Ave S & S Lander St,55,PM,1,5.1,15.9,7.6,40.9
+243,132,O,50062,S 146th St & 11th Ave S,56,PM,0.1,0,9.3,0.7,0.1
+243,132,I,30590,4th Ave S & S Walker St,56,PM,1.5,0.5,16.9,12,4
+243,132,O,50063,S 146th St & 8th Ave S,57,PM,0,0.2,9.2,0.3,1.2
+243,132,I,30600,4th Ave S & S Holgate St,57,PM,1.6,0.6,18,13.1,4.4
+243,132,O,50064,S 146th St & 5th Ave S,58,PM,0,0.2,9.1,0,1.8
+243,132,I,30635,4th Ave S & S Royal Brougham Way,58,PM,0,1.1,17.1,0.3,8.5
+243,132,I,619,4th Ave S & S Jackson St,59,PM,0.5,4.7,10.1,0.9,9.4
+243,132,O,50065,S 146th St & 4th Ave S,59,PM,0,0,9.1,0,0
+243,132,O,48470,1st Ave S & SW 146th St,60,PM,0.1,2.4,7.3,0.6,19
+243,132,I,531,3rd Ave & James St,60,PM,0.2,1.7,8.6,0.4,3.4
+243,132,O,52305,Burien Transit Center - Bay 5,61,PM,0.1,7.4,0,0.6,58.8
+243,132,I,548,3rd Ave & Madison St,61,PM,0.3,1.6,7.3,0.5,3.1
+243,132,I,570,3rd Ave & Union St,62,PM,0.1,2.6,4.9,0.2,5.1
+243,132,I,590,3rd Ave & Pine St,63,PM,0.4,1.6,3.8,0.8,3.1
+243,132,I,600,3rd Ave & Virginia St,64,PM,0.1,1.5,2.4,0.2,3
+243,132,I,605,3rd Ave & Bell St,65,PM,0.2,2.6,0,0.4,5.1
+243,132,I,52304,Burien Transit Center - Bay 4,1,XEV,5,0,5.3,25,0.2
+243,132,O,7430,Wall St & 5th Ave,1,XEV,0.4,0,3.6,2.1,0
+243,132,I,47740,1st Ave S & S 146th St,2,XEV,1.1,0.2,6.6,6.7,1.3
+243,132,O,400,3rd Ave & Bell St,2,XEV,1.2,0.5,4.6,8.6,3.4
+243,132,I,49356,S 146th St & 4th Ave S,3,XEV,0,0.1,6.5,0,0.4
+243,132,O,420,3rd Ave & Virginia St,3,XEV,1.5,0.8,5.2,10.3,5.9
+243,132,O,433,3rd Ave & Pike St,4,XEV,2.5,1.4,6.5,15.1,8.2
+243,132,I,49358,S 146th St & 5th Pl S,4,XEV,0,0.1,6.4,0,0.6
+243,132,I,49362,S 146th St & 8th Ave S,5,XEV,0,0.1,6.4,0.1,0.4
+243,132,O,468,3rd Ave & Seneca St,5,XEV,1.6,0.7,7.3,9.4,4.3
+243,132,I,49367,S 146th St & 11th Ave S,6,XEV,0,0,6.4,0,0.2
+243,132,O,490,3rd Ave & Cherry St,6,XEV,0.9,0.5,7.8,5.6,3
+243,132,I,49370,Des Moines Memorial Dr S & S 144th St,7,XEV,0.1,0,6.4,0.3,0
+243,132,O,515,3rd Ave S & S Main St,7,XEV,2.3,0.8,9.3,13.7,4.8
+243,132,O,30670,4th Ave S & Edgar Martinez Dr S,8,XEV,0.2,0.4,9.1,1.2,2.3
+243,132,I,49380,Des Moines Memorial Dr S & S 140th St,8,XEV,0,0.1,6.3,0.2,0.3
+243,132,O,30690,4th Ave S & S Holgate St,9,XEV,0.3,0.4,9,1.8,2.5
+243,132,I,49390,Des Moines Memorial Dr S & S 138th St,9,XEV,0,0,6.3,0,0.1
+243,132,I,49400,Des Moines Memorial Dr S & S 136th St,10,XEV,0.1,0.1,6.3,0.5,0.8
+243,132,O,30700,4th Ave S & S Walker St,10,XEV,0.3,0.9,8.4,1.6,5.1
+243,132,I,49410,Des Moines Memorial Dr S & S 134th St,11,XEV,0,0,6.3,0.1,0
+243,132,O,30720,4th Ave S & S Lander St,11,XEV,0.8,0.5,8.7,4.6,3
+243,132,O,30748,4th Ave S & S Horton St,12,XEV,0.1,0.2,8.6,0.7,1.3
+243,132,I,49420,Des Moines Memorial Dr S & S 132nd St,12,XEV,0,0.1,6.2,0.1,0.8
+243,132,I,49430,Des Moines Memorial Dr S & S 128th St,13,XEV,0.1,0.2,6.1,0.8,1.4
+243,132,O,45870,4th Ave S & S Spokane St,13,XEV,0.5,0.3,8.8,2.9,1.6
+243,132,I,49440,S 128th St & Roseberg Ave S,14,XEV,0.1,0.2,6,0.7,1
+243,132,O,45880,4th Ave S & S Industrial Way,14,XEV,0.2,0.2,8.8,1,1
+243,132,O,45900,4th Ave S & Diagonal Ave S,15,XEV,0.1,0.2,8.7,0.8,1.1
+243,132,I,49450,S 128th St & 20th Ave S,15,XEV,0,0,6,0,0.1
+243,132,I,49460,S 128th St & 22nd Ave S,16,XEV,0,0.1,6,0.2,0.5
+243,132,O,45910,4th Ave S & S Dawson St,16,XEV,0,0.4,8.4,0.1,2.2
+243,132,I,49470,S 128th St & 24th Ave S,17,XEV,0.1,0.1,5.9,0.4,0.6
+243,132,O,45920,4th Ave S & S Brandon St,17,XEV,0.1,0.3,8.2,0.4,2
+243,132,O,45940,4th Ave S & S Mead St,18,XEV,0.1,0.2,8,0.3,1.3
+243,132,I,49480,S 128th St & 26th Ave S,18,XEV,0,0.1,5.9,0,0.3
+243,132,I,49490,Military Rd S & S 128th St,19,XEV,0.1,0.2,5.7,0.4,1.4
+243,132,O,45960,4th Ave S & S Front St,19,XEV,0,0.2,7.8,0.1,1.2
+243,132,I,49500,Military Rd S & S 125th Pl,20,XEV,0.1,0.2,5.6,0.4,0.9
+243,132,O,51870,S Michigan St & East Marginal Way S,20,XEV,0.2,0.6,7.4,1.4,3.8
+243,132,I,49510,Military Rd S & S 123rd St,21,XEV,0,0,5.6,0,0.1
+243,132,O,49757,S Holden St & 2nd Ave S,21,XEV,0,0.1,7.8,0,0.4
+243,132,O,49755,S Holden St & 5th Ave S,22,XEV,0,0,7.8,0,0
+243,132,I,49520,Military Rd S & S 121st Pl,22,XEV,0,0.1,5.5,0.1,0.8
+243,132,O,49753,5th Ave S & S Kenyon St,23,XEV,0,0,7.8,0,0
+243,132,I,49530,S 120th St & 23rd Ave S,23,XEV,0.2,0.2,5.5,1.4,1.2
+243,132,O,49724,8th Ave S & S Monroe St,24,XEV,0,0,7.8,0,0.1
+243,132,I,49540,S 120th St & 22nd Ave S,24,XEV,0,0,5.5,0,0
+243,132,O,49725,8th Ave S & S Southern St,25,XEV,0.1,0.2,7.7,0.5,1.2
+243,132,I,49550,S 120th St & Roseberg Ave S,25,XEV,0.3,0.5,5.4,1.9,2.8
+243,132,O,49726,8th Ave S & S Thistle St,26,XEV,0,0.2,7.5,0,1.5
+243,132,I,49580,Des Moines Memorial Dr S & S 120th St,26,XEV,0.7,0.4,5.7,4.4,2.1
+243,132,I,49599,Des Moines Memorial Dr S & S 116th St,27,XEV,0.5,0.4,5.8,2.7,2.3
+243,132,O,32120,S Cloverdale St & 8th Ave S,27,XEV,0.2,0.4,7.3,1.1,2.9
+243,132,O,32140,S Cloverdale St & 12th Ave S,28,XEV,0.3,0.2,7.4,1.5,1.3
+243,132,I,49610,Des Moines Memorial Dr S & S 113th St,28,XEV,0.2,0.5,5.6,1.3,2.7
+243,132,I,49630,Des Moines Memorial Dr S & S 108th St,29,XEV,0,0.2,5.4,0.2,1.1
+243,132,O,49739,14th Ave S & S Trenton St,29,XEV,0.4,0.3,7.5,2.2,1.6
+243,132,O,49740,14th Ave S & S Henderson St,30,XEV,0.2,0.2,7.6,1.2,1.1
+243,132,I,49660,Des Moines Memorial Dr S & S 103rd St,30,XEV,0.2,0.5,5,0.9,3.2
+243,132,O,49750,Des Moines Memorial Dr S & S 96th St,31,XEV,0.3,0.2,7.6,1.7,1.2
+243,132,I,49670,Des Moines Memorial Dr S & 17th Pl S,31,XEV,0.1,0.2,4.9,0.4,1.1
+243,132,O,49760,Des Moines Memorial Dr S & S 99th St,32,XEV,0.1,0.3,7.4,0.4,1.9
+243,132,I,49690,Des Moines Memorial Dr S & S 99th St,32,XEV,0.2,0.3,4.9,1.3,1.7
+243,132,O,49770,Des Moines Memorial Dr S & 17th Pl S,33,XEV,0.2,0.2,7.3,0.9,1.4
+243,132,I,49700,Des Moines Memorial Dr S & S 96th St,33,XEV,0.2,0.1,5,1.4,0.4
+243,132,O,49780,Des Moines Memorial Dr S & S 103rd St,34,XEV,0.3,0.5,7.1,1.8,3.2
+243,132,I,49710,14th Ave S & S Director St,34,XEV,0.3,0.3,5,1.5,1.6
+243,132,O,49810,Des Moines Memorial Dr S & S 108th St,35,XEV,0,0.3,6.9,0.2,1.5
+243,132,I,49720,14th Ave S & S Trenton St,35,XEV,0.2,0.2,5,1.2,1.3
+243,132,O,49820,Des Moines Memorial Dr S & S 112th St,36,XEV,0.3,0.4,6.8,1.5,2.2
+243,132,I,31680,S Cloverdale St & 12th Ave S,36,XEV,0.2,0.4,4.8,1.3,2.6
+243,132,I,49730,8th Ave S & S Cloverdale St,37,XEV,0.4,0.2,4.9,2.1,1
+243,132,O,49840,Des Moines Memorial Dr S & S 116th St,37,XEV,0.3,0.6,6.4,1.6,3.8
+243,132,I,49731,8th Ave S & S Thistle St,38,XEV,0,0,5,0.2,0.1
+243,132,O,49860,S 120th St & Des Moines Memorial Dr S,38,XEV,0.5,1.3,5.6,2.7,7.6
+243,132,O,49870,S 120th St & 20th Ave S,39,XEV,0.2,0.3,5.5,1.1,1.7
+243,132,I,49732,8th Ave S & S Southern St,39,XEV,0.1,0.1,5,0.7,0.7
+243,132,I,49733,8th Ave S & S Kenyon St,40,XEV,0,0,5,0.2,0.1
+243,132,O,49880,S 120th St & 22nd Ave S,40,XEV,0,0.2,5.3,0,1.3
+243,132,O,49900,Military Rd S & S 121st Pl,41,XEV,0,0.2,5.1,0.1,1.4
+243,132,I,49754,S Kenyon St & 5th Ave S,41,XEV,0,0,5,0,0
+243,132,O,49910,Military Rd S & S 123rd St,42,XEV,0,0.1,5,0,0.3
+243,132,I,49775,5th Ave S & S Holden St,42,XEV,0,0,5,0,0
+243,132,I,49758,S Holden St & 2nd Ave S,43,XEV,0,0.1,5,0.1,0.3
+243,132,O,49920,Military Rd S & S 125th St,43,XEV,0.1,0.1,4.9,0.3,0.8
+243,132,O,49930,S 128th St & Military Rd S,44,XEV,0,0.3,4.7,0.2,1.5
+243,132,I,45770,4th Ave S & S Michigan St,44,XEV,0.7,0.2,5.5,4,1.3
+243,132,O,49940,S 128th St & 26th Ave S,45,XEV,0,0.1,4.7,0,0.3
+243,132,I,45780,4th Ave S & S Front St,45,XEV,0.1,0,5.6,0.4,0.1
+243,132,O,49950,S 128th St & 24th Ave S,46,XEV,0,0.2,4.6,0.1,1
+243,132,I,45790,4th Ave S & S Fidalgo St,46,XEV,0.1,0,5.7,0.8,0
+243,132,I,45800,4th Ave S & S Orcas St,47,XEV,0.3,0,5.9,1.7,0.2
+243,132,O,49960,S 128th St & 22nd Ave S,47,XEV,0,0,4.6,0,0.2
+243,132,I,45810,4th Ave S & S Lucile St,48,XEV,0.1,0.1,6,0.7,0.3
+243,132,O,49970,S 128th St & 20th Ave S,48,XEV,0,0,4.5,0,0
+243,132,I,45820,4th Ave S & S Bennett St,49,XEV,0.3,0.1,6.3,1.9,0.3
+243,132,O,49980,S 128th St & Roseberg Ave S,49,XEV,0,0.1,4.6,0.2,0.3
+243,132,O,50010,Des Moines Memorial Dr S & S 128th St,50,XEV,0.2,0.3,4.4,1.2,2
+243,132,I,45840,4th Ave S & S Industrial Way,50,XEV,1.1,0.1,7.6,6.7,0.6
+243,132,O,50020,Des Moines Memorial Dr S & S 132nd St,51,XEV,0,0.2,4.2,0.1,1.1
+243,132,I,45850,4th Ave S & S Industrial Way,51,XEV,0.2,0.2,7.7,1.3,1.1
+243,132,I,30538,4th Ave S & S Spokane St,52,XEV,0.2,0.3,7.6,1.3,1.6
+243,132,O,50030,Des Moines Memorial Dr S & S 134th St,52,XEV,0,0.1,4.2,0.2,0.7
+243,132,O,50050,Des Moines Memorial Dr S & S 138th St,53,XEV,0,0,4.2,0,0.2
+243,132,I,30550,4th Ave S & S Hanford St,53,XEV,0.1,0.1,7.6,0.8,0.7
+243,132,I,30560,4th Ave S & S Forest St,54,XEV,0,0,7.6,0,0
+243,132,O,50060,Des Moines Memorial Dr S & S 140th St,54,XEV,0.1,0,4.2,0.3,0.2
+243,132,O,50061,S 144th St & Des Moines Memorial Dr S,55,XEV,0.2,0.1,4.3,1.2,0.3
+243,132,I,30570,4th Ave S & S Lander St,55,XEV,0.5,1.1,6.9,3,6.8
+243,132,O,50062,S 146th St & 11th Ave S,56,XEV,0,0,4.3,0,0
+243,132,I,30590,4th Ave S & S Walker St,56,XEV,0.9,0.3,7.6,5.5,1.8
+243,132,O,50063,S 146th St & 8th Ave S,57,XEV,0,0.1,4.2,0.2,0.6
+243,132,I,30600,4th Ave S & S Holgate St,57,XEV,0.5,0.2,7.9,3.1,1.2
+243,132,O,50064,S 146th St & 5th Ave S,58,XEV,0,0,4.2,0,0.1
+243,132,I,30635,4th Ave S & S Royal Brougham Way,58,XEV,0.2,0.2,7.9,1.1,1.2
+243,132,I,619,4th Ave S & S Jackson St,59,XEV,0.4,2.5,5.8,2.5,14.7
+243,132,O,50065,S 146th St & 4th Ave S,59,XEV,0,0,4.1,0,0
+243,132,O,48470,1st Ave S & SW 146th St,60,XEV,0,1,3.4,0.3,6.7
+243,132,I,531,3rd Ave & James St,60,XEV,0.2,0.9,5.2,1.1,5.2
+243,132,O,52305,Burien Transit Center - Bay 5,61,XEV,0.2,3.6,0,1.1,25.3
+243,132,I,548,3rd Ave & Madison St,61,XEV,0.2,0.7,4.7,1,4
+243,132,I,570,3rd Ave & Union St,62,XEV,0.1,1.6,3.3,0.7,9.3
+243,132,I,590,3rd Ave & Pine St,63,XEV,0.3,1,2.6,2,5.9
+243,132,I,600,3rd Ave & Virginia St,64,XEV,0.1,1.2,1.5,0.7,7.3
+243,132,I,605,3rd Ave & Bell St,65,XEV,0.2,1.7,0,1.2,10.2
+243,132,I,52304,Burien Transit Center - Bay 4,1,XNT,2.4,0,2.7,21.7,0.2
+243,132,O,7430,Wall St & 5th Ave,1,XNT,0.3,0,2.3,0.8,0
+243,132,I,47740,1st Ave S & S 146th St,2,XNT,0.4,0.1,3.1,4,0.8
+243,132,O,400,3rd Ave & Bell St,2,XNT,1,0.1,1.9,8.3,1.1
+243,132,I,49356,S 146th St & 4th Ave S,3,XNT,0,0,3.1,0,0
+243,132,O,420,3rd Ave & Virginia St,3,XNT,1.6,0.3,3.2,12.9,2
+243,132,O,433,3rd Ave & Pike St,4,XNT,1.7,0.6,4.6,13.4,4.8
+243,132,I,49358,S 146th St & 5th Pl S,4,XNT,0,0,3.1,0,0
+243,132,I,49362,S 146th St & 8th Ave S,5,XNT,0.1,0,3.2,0.9,0
+243,132,O,468,3rd Ave & Seneca St,5,XNT,1.4,0.4,5.6,11.1,3.1
+243,132,I,49367,S 146th St & 11th Ave S,6,XNT,0.1,0,3.5,0.5,0
+243,132,O,490,3rd Ave & Cherry St,6,XNT,0.6,0.4,5.9,5,2.8
+243,132,I,49370,Des Moines Memorial Dr S & S 144th St,7,XNT,0,0,3.5,0.1,0
+243,132,O,515,3rd Ave S & S Main St,7,XNT,1.9,0.5,7.3,15.1,4
+243,132,O,30670,4th Ave S & Edgar Martinez Dr S,8,XNT,0.2,0.1,7.3,1.4,0.7
+243,132,I,49380,Des Moines Memorial Dr S & S 140th St,8,XNT,0,0,3.5,0.1,0
+243,132,O,30690,4th Ave S & S Holgate St,9,XNT,0.2,0.2,7.4,1.4,1.2
+243,132,I,49390,Des Moines Memorial Dr S & S 138th St,9,XNT,0,0,3.5,0,0
+243,132,I,49400,Des Moines Memorial Dr S & S 136th St,10,XNT,0,0,3.5,0.1,0.3
+243,132,O,30700,4th Ave S & S Walker St,10,XNT,0.1,0.2,7.3,1,1.8
+243,132,I,49410,Des Moines Memorial Dr S & S 134th St,11,XNT,0.2,0,3.6,1.4,0
+243,132,O,30720,4th Ave S & S Lander St,11,XNT,0.6,0.3,7.6,4.5,2.2
+243,132,O,30748,4th Ave S & S Horton St,12,XNT,0.1,0.1,7.6,0.9,0.7
+243,132,I,49420,Des Moines Memorial Dr S & S 132nd St,12,XNT,0,0,3.6,0,0.1
+243,132,I,49430,Des Moines Memorial Dr S & S 128th St,13,XNT,0.1,0.1,3.6,0.5,1
+243,132,O,45870,4th Ave S & S Spokane St,13,XNT,0.2,0.2,7.6,1.6,1.3
+243,132,I,49440,S 128th St & Roseberg Ave S,14,XNT,0.2,0,3.7,1.4,0.3
+243,132,O,45880,4th Ave S & S Industrial Way,14,XNT,0.1,0.2,7.6,1,1.2
+243,132,O,45900,4th Ave S & Diagonal Ave S,15,XNT,0,0.1,7.5,0.1,0.9
+243,132,I,49450,S 128th St & 20th Ave S,15,XNT,0,0,3.7,0,0
+243,132,I,49460,S 128th St & 22nd Ave S,16,XNT,0,0,3.7,0,0.1
+243,132,O,45910,4th Ave S & S Dawson St,16,XNT,0,0.1,7.4,0,1
+243,132,I,49470,S 128th St & 24th Ave S,17,XNT,0.1,0,3.7,0.4,0.1
+243,132,O,45920,4th Ave S & S Brandon St,17,XNT,0.1,0.1,7.3,0.5,0.7
+243,132,O,45940,4th Ave S & S Mead St,18,XNT,0,0.2,7.2,0.1,1.3
+243,132,I,49480,S 128th St & 26th Ave S,18,XNT,0,0,3.7,0,0
+243,132,I,49490,Military Rd S & S 128th St,19,XNT,0.1,0,3.8,0.8,0.1
+243,132,O,45960,4th Ave S & S Front St,19,XNT,0,0.1,7.1,0,0.9
+243,132,I,49500,Military Rd S & S 125th Pl,20,XNT,0.1,0.1,3.8,0.4,0.4
+243,132,O,51870,S Michigan St & East Marginal Way S,20,XNT,0.2,0.4,6.8,1.4,3.3
+243,132,I,49510,Military Rd S & S 123rd St,21,XNT,0,0,3.8,0,0
+243,132,O,49757,S Holden St & 2nd Ave S,21,XNT,0,0.2,6.7,0.1,1.5
+243,132,O,49755,S Holden St & 5th Ave S,22,XNT,0,0,6.7,0,0
+243,132,I,49520,Military Rd S & S 121st Pl,22,XNT,0,0,3.7,0,0.3
+243,132,O,49753,5th Ave S & S Kenyon St,23,XNT,0,0,6.7,0,0
+243,132,I,49530,S 120th St & 23rd Ave S,23,XNT,0.2,0.1,3.8,1.6,0.8
+243,132,O,49724,8th Ave S & S Monroe St,24,XNT,0,0,6.6,0,0
+243,132,I,49540,S 120th St & 22nd Ave S,24,XNT,0,0,3.8,0,0
+243,132,O,49725,8th Ave S & S Southern St,25,XNT,0,0.4,6.3,0.1,3.1
+243,132,I,49550,S 120th St & Roseberg Ave S,25,XNT,0.3,0.2,4,2.1,1.2
+243,132,O,49726,8th Ave S & S Thistle St,26,XNT,0,0.1,6.2,0,0.8
+243,132,I,49580,Des Moines Memorial Dr S & S 120th St,26,XNT,0.3,0.1,4.1,2.5,1.1
+243,132,I,49599,Des Moines Memorial Dr S & S 116th St,27,XNT,0.2,0.1,4.3,1.8,1.1
+243,132,O,32120,S Cloverdale St & 8th Ave S,27,XNT,0.1,0.5,5.8,0.8,3.8
+243,132,O,32140,S Cloverdale St & 12th Ave S,28,XNT,0.1,0.1,6.1,0.5,1
+243,132,I,49610,Des Moines Memorial Dr S & S 113th St,28,XNT,0.1,0.3,4,0.4,2.2
+243,132,I,49630,Des Moines Memorial Dr S & S 108th St,29,XNT,0,0.1,4,0.3,0.5
+243,132,O,49739,14th Ave S & S Trenton St,29,XNT,0.2,0.2,6.1,1.3,1.2
+243,132,O,49740,14th Ave S & S Henderson St,30,XNT,0,0.1,6,0.3,0.6
+243,132,I,49660,Des Moines Memorial Dr S & S 103rd St,30,XNT,0.1,0.2,4,1.1,1.6
+243,132,O,49750,Des Moines Memorial Dr S & S 96th St,31,XNT,0.1,0.1,6,0.4,0.7
+243,132,I,49670,Des Moines Memorial Dr S & 17th Pl S,31,XNT,0.1,0.1,3.9,0.5,1
+243,132,O,49760,Des Moines Memorial Dr S & S 99th St,32,XNT,0,0.3,5.8,0,2.2
+243,132,I,49690,Des Moines Memorial Dr S & S 99th St,32,XNT,0.2,0.1,4,1.6,0.8
+243,132,O,49770,Des Moines Memorial Dr S & 17th Pl S,33,XNT,0.1,0.2,5.7,0.5,1.2
+243,132,I,49700,Des Moines Memorial Dr S & S 96th St,33,XNT,0.1,0.1,4,0.8,0.4
+243,132,O,49780,Des Moines Memorial Dr S & S 103rd St,34,XNT,0.1,0.6,5.2,0.8,4.5
+243,132,I,49710,14th Ave S & S Director St,34,XNT,0,0,4,0.1,0.2
+243,132,O,49810,Des Moines Memorial Dr S & S 108th St,35,XNT,0,0.1,5.1,0.1,0.9
+243,132,I,49720,14th Ave S & S Trenton St,35,XNT,0.1,0.1,4,1,0.6
+243,132,O,49820,Des Moines Memorial Dr S & S 112th St,36,XNT,0.1,0.3,5,0.8,2
+243,132,I,31680,S Cloverdale St & 12th Ave S,36,XNT,0.2,0.2,4,1.4,1.8
+243,132,I,49730,8th Ave S & S Cloverdale St,37,XNT,0.3,0.1,4.1,2.6,1.1
+243,132,O,49840,Des Moines Memorial Dr S & S 116th St,37,XNT,0.1,0.4,4.7,1,3.2
+243,132,I,49731,8th Ave S & S Thistle St,38,XNT,0,0,4.1,0,0
+243,132,O,49860,S 120th St & Des Moines Memorial Dr S,38,XNT,0.2,0.5,4.4,1.9,4
+243,132,O,49870,S 120th St & 20th Ave S,39,XNT,0.1,0.1,4.4,0.7,0.5
+243,132,I,49732,8th Ave S & S Southern St,39,XNT,0,0,4.1,0.2,0.3
+243,132,I,49733,8th Ave S & S Kenyon St,40,XNT,0,0,4.1,0,0
+243,132,O,49880,S 120th St & 22nd Ave S,40,XNT,0,0.3,4.2,0.1,2
+243,132,O,49900,Military Rd S & S 121st Pl,41,XNT,0,0.1,4.1,0,0.6
+243,132,I,49754,S Kenyon St & 5th Ave S,41,XNT,0,0,4.1,0,0
+243,132,O,49910,Military Rd S & S 123rd St,42,XNT,0,0,4.1,0,0.3
+243,132,I,49775,5th Ave S & S Holden St,42,XNT,0,0,4.1,0,0
+243,132,I,49758,S Holden St & 2nd Ave S,43,XNT,0.1,0,4.2,0.4,0.1
+243,132,O,49920,Military Rd S & S 125th St,43,XNT,0,0.2,4,0,1.5
+243,132,O,49930,S 128th St & Military Rd S,44,XNT,0,0.2,3.8,0.1,1.2
+243,132,I,45770,4th Ave S & S Michigan St,44,XNT,0.3,0.1,4.3,2,0.7
+243,132,O,49940,S 128th St & 26th Ave S,45,XNT,0,0,3.8,0,0
+243,132,I,45780,4th Ave S & S Front St,45,XNT,0,0,4.4,0.3,0
+243,132,O,49950,S 128th St & 24th Ave S,46,XNT,0,0.1,3.7,0.1,0.7
+243,132,I,45790,4th Ave S & S Fidalgo St,46,XNT,0.1,0.1,4.3,0.5,1
+243,132,I,45800,4th Ave S & S Orcas St,47,XNT,0.1,0,4.4,0.8,0
+243,132,O,49960,S 128th St & 22nd Ave S,47,XNT,0,0,3.7,0,0
+243,132,I,45810,4th Ave S & S Lucile St,48,XNT,0.1,0,4.5,0.9,0.2
+243,132,O,49970,S 128th St & 20th Ave S,48,XNT,0,0,3.7,0,0
+243,132,I,45820,4th Ave S & S Bennett St,49,XNT,0.1,0,4.6,0.8,0.1
+243,132,O,49980,S 128th St & Roseberg Ave S,49,XNT,0,0,3.7,0,0
+243,132,O,50010,Des Moines Memorial Dr S & S 128th St,50,XNT,0.1,0.3,3.6,0.6,2
+243,132,I,45840,4th Ave S & S Industrial Way,50,XNT,0.1,0.1,4.6,1.3,1.2
+243,132,O,50020,Des Moines Memorial Dr S & S 132nd St,51,XNT,0,0,3.5,0,0
+243,132,I,45850,4th Ave S & S Industrial Way,51,XNT,0.3,0.1,4.8,2.5,0.8
+243,132,I,30538,4th Ave S & S Spokane St,52,XNT,0.1,0.1,3.8,0.7,0.9
+243,132,O,50030,Des Moines Memorial Dr S & S 134th St,52,XNT,0,0.1,3.5,0,0.5
+243,132,O,50050,Des Moines Memorial Dr S & S 138th St,53,XNT,0,0,3.4,0,0
+243,132,I,30550,4th Ave S & S Hanford St,53,XNT,0,0.1,3.8,0.3,0.5
+243,132,I,30560,4th Ave S & S Forest St,54,XNT,0,0,3.7,0.1,0
+243,132,O,50060,Des Moines Memorial Dr S & S 140th St,54,XNT,0,0,3.5,0,0
+243,132,O,50061,S 144th St & Des Moines Memorial Dr S,55,XNT,0,0,3.4,0,0
+243,132,I,30570,4th Ave S & S Lander St,55,XNT,0.3,0.3,3.7,2.4,2.3
+243,132,O,50062,S 146th St & 11th Ave S,56,XNT,0,0,3.4,0,0
+243,132,I,30590,4th Ave S & S Walker St,56,XNT,0.4,0.1,4,2.9,1
+243,132,O,50063,S 146th St & 8th Ave S,57,XNT,0,0.1,3.4,0,0.4
+243,132,I,30600,4th Ave S & S Holgate St,57,XNT,0.2,0.1,4.1,1.7,0.7
+243,132,O,50064,S 146th St & 5th Ave S,58,XNT,0,0,3.4,0,0
+243,132,I,30635,4th Ave S & S Royal Brougham Way,58,XNT,0.1,0.1,4.1,1,1
+243,132,I,619,4th Ave S & S Jackson St,59,XNT,0.2,1,3.3,1.9,8
+243,132,O,50065,S 146th St & 4th Ave S,59,XNT,0,0,3.4,0,0
+243,132,O,48470,1st Ave S & SW 146th St,60,XNT,0,0.3,3.1,0,2.5
+243,132,I,531,3rd Ave & James St,60,XNT,0.1,0.5,3,1.1,4
+243,132,O,52305,Burien Transit Center - Bay 5,61,XNT,0.3,3.4,0,2.7,27.3
+243,132,I,548,3rd Ave & Madison St,61,XNT,0.2,0.6,2.6,1.4,4.6
+243,132,I,570,3rd Ave & Union St,62,XNT,0.1,0.7,2,0.6,5.7
+243,132,I,590,3rd Ave & Pine St,63,XNT,0.2,0.4,1.8,1.4,3.3
+243,132,I,600,3rd Ave & Virginia St,64,XNT,0.2,0.9,1.2,1.6,7.2
+243,132,I,605,3rd Ave & Bell St,65,XNT,0.2,1.4,0,1.3,10.9

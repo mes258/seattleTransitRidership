@@ -12,7 +12,7 @@ rawDataFilePath = "../../data/rawData/kcm/243_Fall_2024_Summarized_Stop_Data.csv
 # Set accordingly
 timePeriod = "243"
 # Set to None for all routes to be populated
-route = "9" 
+route = None
 
 
 # Stop data
@@ -59,7 +59,7 @@ with open(rawDataFilePath, mode='r', newline='') as infile:
             stopName = f"{row['HOST_STREET_NM']} & {row['CROSS_STREET_NM']}"
 
           if row['STOP_SEQUENCE_NUM'] == "NULL":
-            print(f"stop {row['STOP_ID']} has no stop sequence, will skip it")
+            print(f"stop {row['STOP_ID']}, route {service_rte_num} has no stop sequence, will skip it")
             continue
 
           outputRow = {"serviceChangeNum": row['SERVICE_CHANGE_NUM'],
@@ -73,14 +73,14 @@ with open(rawDataFilePath, mode='r', newline='') as infile:
                        "tripAlightings": row['AVG_TRIP_ALIGHTINGS'],
                        "departingLoad": row['AVG_TRIP_DEPARTING_LOAD'],
                        "dailyBoardings": row['AVG_TOTAL_BOARDINGS'],
-                       "dailyAlightings": row['AVG_TOTAL_ALIGHTINGS']
+                      "dailyAlightings": row['AVG_TOTAL_ALIGHTINGS']
                        }
 
           # Create the directory path based on SERVICE_CHANGE_NUM and SERVICE_RTE_NUM
           # eg: data/routeData/kcm/7/243
           directory = f"../../data/routeData/kcm/{service_rte_num}/{service_change_num}"
-          if service_rte_num[0] == "5":
-            print("st route)")
+          if service_rte_num[0] == "5" and len(service_rte_num) == 3:
+            #print(f"st route: {service_rte_num}")
             directory = f"../../data/routeData/st/{service_rte_num}/{service_change_num}"
           
           os.makedirs(directory, exist_ok=True)

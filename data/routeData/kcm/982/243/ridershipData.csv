@@ -1,0 +1,17 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,982,I,81755,Bear Creek Park And Ride,1,AM,17.2,0,17.7,17.2,0
+243,982,I,71347,Redmond Technology Station Acs & 156th Ave NE - Bay 6,2,AM,18.6,0,36.3,18.6,0
+243,982,I,71356,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,3,AM,23.5,0.3,59.5,23.5,0.3
+243,982,I,71355,Sr 520 & Evergreen Point Rd,4,AM,4,0.1,63.4,4,0.1
+243,982,I,25755,Montlake Blvd NE & NE Pacific Pl - Bay 4,5,AM,0,0.2,63.2,0,0.2
+243,982,I,25798,25th Ave NE & NE 80th St,6,AM,0.6,4.9,58.9,0.6,4.9
+243,982,I,75304,NE 135th St & 1st Ave NE,7,AM,0.4,38.9,20.4,0.4,38.9
+243,982,I,81294,1st Ave NE & NE 140th St,8,AM,0.1,20.4,0,0.1,20.4
+243,982,O,25798,25th Ave NE & NE 80th St,1,PM,17.6,0,17.6,17.6,0
+243,982,O,35270,NE 125th St & 15th Ave NE,2,PM,0,0.2,17.4,0,0.2
+243,982,O,75304,NE 135th St & 1st Ave NE,3,PM,28.5,18.9,27,28.5,18.9
+243,982,O,81294,1st Ave NE & NE 140th St,4,PM,21.7,0.6,48.1,21.7,0.6
+243,982,O,71348,Sr 520 & Evergreen Point Rd,5,PM,1.4,4.2,45.3,1.4,4.2
+243,982,O,71359,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,6,PM,0.4,19.2,26.4,0.4,19.2
+243,982,O,71336,State Route 520 & NE 40th St,7,PM,0.1,10.4,16.1,0.1,10.4
+243,982,O,81755,Bear Creek Park And Ride,8,PM,0.4,16.5,0,0.4,16.5

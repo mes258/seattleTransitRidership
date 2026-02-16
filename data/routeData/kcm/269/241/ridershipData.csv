@@ -1,0 +1,407 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,269,O,71328,Overlake Park & Ride,56,AM,0,1.4,0,0,4.3
+241,269,O,71328,Overlake Park & Ride,56,MID,0,2.7,0,0,31.8
+241,269,O,71328,Overlake Park & Ride,56,PM,0,2.6,0,0,21
+241,269,O,71328,Overlake Park & Ride,56,XEV,0,0.9,0,0,0.9
+241,269,O,81837,SE Black Nugget Rd & East Lake Sammamish Pkwy SE,5,AM,0.4,0.3,2.2,1.8,1.7
+241,269,O,81837,SE Black Nugget Rd & East Lake Sammamish Pkwy SE,5,MID,0.5,0.3,2.3,6,3
+241,269,O,81837,SE Black Nugget Rd & East Lake Sammamish Pkwy SE,5,PM,0.9,0.2,5.5,6,1.7
+241,269,O,81687,228th Ave SE & SE 8th St,22,AM,0.5,0,5.7,2.5,0.1
+241,269,O,81687,228th Ave SE & SE 8th St,22,MID,0.6,0.1,4.2,7.2,1
+241,269,O,81687,228th Ave SE & SE 8th St,22,PM,1,0.2,6.4,6.8,1.3
+241,269,I,62338,NE Redmond Fall City Rd & 188th Ave NE,22,AM,0.8,0.1,7.6,4.2,0.3
+241,269,I,62338,NE Redmond Fall City Rd & 188th Ave NE,22,MID,0.2,0.3,6,2.3,3.6
+241,269,I,62338,NE Redmond Fall City Rd & 188th Ave NE,22,PM,0.2,1.2,8.7,1.7,9.4
+241,269,I,62338,NE Redmond Fall City Rd & 188th Ave NE,22,XEV,0.1,0.8,5.6,0.1,0.8
+241,269,O,81665,228th Ave NE & NE 8th St,26,AM,1.5,0.3,6.8,7.3,1.6
+241,269,O,81665,228th Ave NE & NE 8th St,26,MID,1.2,0.4,6.2,13.7,4.6
+241,269,O,81665,228th Ave NE & NE 8th St,26,PM,1.3,0.7,10.1,10.7,5.5
+241,269,O,81728,228th Ave NE & NE 4th St,25,AM,0.3,0.1,5.6,1.6,0.5
+241,269,O,81728,228th Ave NE & NE 4th St,25,MID,1.5,0.4,5.4,16.3,4
+241,269,O,81728,228th Ave NE & NE 4th St,25,PM,3.2,0.8,9.4,25.2,6
+241,269,I,81870,228th Ave NE & 18th Pl NE,30,AM,0,0,8.2,0,0
+241,269,I,81870,228th Ave NE & 18th Pl NE,30,MID,0,0.1,5.9,0.3,1.5
+241,269,I,81870,228th Ave NE & 18th Pl NE,30,PM,0,0.2,7.6,0.1,1.9
+241,269,I,81870,228th Ave NE & 18th Pl NE,30,XEV,0,0.1,5.2,0,0.2
+241,269,O,81718,228th Ave SE & SE 20th St,19,AM,0.2,0,6.3,1.1,0
+241,269,O,81718,228th Ave SE & SE 20th St,19,MID,0.1,0.1,3.9,1.3,0.6
+241,269,O,81718,228th Ave SE & SE 20th St,19,PM,0.1,0.2,5.8,0.7,1.4
+241,269,O,81884,Sahalee Way NE & Redmond Fall City Rd,35,AM,0,0,8.6,0,0
+241,269,O,81884,Sahalee Way NE & Redmond Fall City Rd,35,MID,0,0,6.4,0.2,0.2
+241,269,O,81884,Sahalee Way NE & Redmond Fall City Rd,35,PM,0.1,0,8.7,0.8,0.1
+241,269,O,68401,159th Ave NE & NE 39th St,51,AM,0,0.8,3.5,0,3.1
+241,269,O,68401,159th Ave NE & NE 39th St,51,MID,0,0.4,3.3,0.1,4.1
+241,269,O,68401,159th Ave NE & NE 39th St,51,PM,0,0.1,3,0.3,0.7
+241,269,O,68401,159th Ave NE & NE 39th St,51,XEV,0,0.1,1.2,0,0.1
+241,269,O,73240,148th Ave NE & NE 51st St,45,AM,0,0.7,6,0.1,2.9
+241,269,O,68402,156th Ave NE & NE 36th St,53,AM,0,0.4,2.4,0,1.7
+241,269,O,73240,148th Ave NE & NE 51st St,45,MID,0.1,0.5,4.9,1,6.3
+241,269,O,68402,156th Ave NE & NE 36th St,53,MID,0,0.2,3,0,2
+241,269,O,73240,148th Ave NE & NE 51st St,45,PM,0.1,1.3,4.6,0.5,8.9
+241,269,O,68402,156th Ave NE & NE 36th St,53,PM,0,0.2,2.9,0.3,1.5
+241,269,O,73240,148th Ave NE & NE 51st St,45,XEV,0.1,0.7,2.1,0.1,0.7
+241,269,O,68402,156th Ave NE & NE 36th St,53,XEV,0,0.2,1.1,0,0.2
+241,269,I,81755,Bear Creek Park And Ride,16,AM,2.4,0.1,7.8,12,0.5
+241,269,I,81755,Bear Creek Park And Ride,16,MID,1.2,0.3,6.8,14.3,3.4
+241,269,O,66871,NE 31st St & 156th Ave NE,54,AM,0,0.6,1.7,0,2.5
+241,269,I,71323,152nd Ave NE & NE Shen St,3,AM,0.1,0,1.4,0.6,0
+241,269,I,81755,Bear Creek Park And Ride,16,PM,1.9,0.9,11.6,15.1,7.2
+241,269,O,66871,NE 31st St & 156th Ave NE,54,MID,0,0.2,2.8,0,2
+241,269,I,71323,152nd Ave NE & NE Shen St,3,MID,0.2,0,2.9,2,0
+241,269,I,81755,Bear Creek Park And Ride,16,XEV,1.8,0.3,8.6,1.8,0.3
+241,269,O,66871,NE 31st St & 156th Ave NE,54,PM,0,0.2,2.7,0,1.3
+241,269,I,71323,152nd Ave NE & NE Shen St,3,PM,0.2,0,3.1,1.9,0
+241,269,O,66871,NE 31st St & 156th Ave NE,54,XEV,0,0.1,1,0,0.1
+241,269,I,71323,152nd Ave NE & NE Shen St,3,XEV,0.2,0,1.7,0.2,0
+241,269,O,73246,148th Ave NE & NE 43rd Pl,47,AM,0.1,0.1,5.9,0.4,0.4
+241,269,O,73246,148th Ave NE & NE 43rd Pl,47,MID,0.1,0.4,4.3,1.2,5.2
+241,269,O,73246,148th Ave NE & NE 43rd Pl,47,PM,0,0.1,4.2,0.3,1
+241,269,O,73246,148th Ave NE & NE 43rd Pl,47,XEV,0,0.3,1.7,0,0.3
+241,269,O,81755,Bear Creek Park And Ride,42,AM,1.1,1.9,10.4,4.3,7.7
+241,269,O,81755,Bear Creek Park And Ride,42,MID,0.4,1.4,6.6,4.9,16.2
+241,269,O,81722,228th Ave SE & SE 16th St,20,AM,0.1,0.1,6.3,0.7,0.5
+241,269,O,81755,Bear Creek Park And Ride,42,PM,0.9,2.3,7.4,7,18.5
+241,269,O,81722,228th Ave SE & SE 16th St,20,MID,0.2,0.1,4,1.9,0.8
+241,269,O,81722,228th Ave SE & SE 16th St,20,PM,0.2,0.2,5.8,1.7,1.6
+241,269,O,81745,Issaquah Pine Lake Rd SE & SE 47th Way,11,AM,0.1,0.2,3.6,0.5,0.9
+241,269,O,81745,Issaquah Pine Lake Rd SE & SE 47th Way,11,MID,0.1,0.1,3.1,0.8,1.5
+241,269,O,81775,228th Ave NE & NE 25th Way,30,AM,0.3,0,7.8,1.7,0.1
+241,269,O,81745,Issaquah Pine Lake Rd SE & SE 47th Way,11,PM,0,0.2,6.2,0.1,1.7
+241,269,O,81775,228th Ave NE & NE 25th Way,30,MID,0.2,0.2,6.4,2.5,2.4
+241,269,O,81775,228th Ave NE & NE 25th Way,30,PM,0.1,0.4,9.3,1.1,3.2
+241,269,O,66874,152nd Ave NE & NE 36th St,55,AM,0,0.2,1.6,0,0.7
+241,269,O,66874,152nd Ave NE & NE 36th St,55,MID,0,0.1,2.7,0,0.7
+241,269,O,66874,152nd Ave NE & NE 36th St,55,PM,0,0.2,2.6,0,1.2
+241,269,O,66874,152nd Ave NE & NE 36th St,55,XEV,0,0.1,0.9,0,0.1
+241,269,I,71328,Overlake Park & Ride,1,AM,1,0,1,4.8,0
+241,269,I,71328,Overlake Park & Ride,1,MID,2.4,0,2.4,28.3,0
+241,269,I,71328,Overlake Park & Ride,1,PM,2.3,0,2.3,18.2,0
+241,269,I,71328,Overlake Park & Ride,1,XEV,1.1,0,1.1,1.1,0
+241,269,O,64464,SE 56th St & 221st Pl SE,3,AM,0,0.3,2.3,0,1.3
+241,269,O,64464,SE 56th St & 221st Pl SE,3,MID,0.1,0,1.9,0.9,0.2
+241,269,O,64464,SE 56th St & 221st Pl SE,3,PM,0.6,0,4.2,4.3,0.1
+241,269,I,64466,SE 56th St & East Lake Sammamish Pkwy SE,54,AM,0,0.8,2.9,0,3.2
+241,269,O,81790,Sahalee Way NE & NE 36th St,33,PM,0.1,0.2,8.9,0.8,1.6
+241,269,I,66875,152nd Ave NE & NE 31st St,4,AM,0,0,1.4,0,0
+241,269,I,64466,SE 56th St & East Lake Sammamish Pkwy SE,54,MID,0.1,0.3,2.1,1,3.8
+241,269,I,66875,152nd Ave NE & NE 31st St,4,MID,0.1,0,2.9,0.8,0
+241,269,I,64466,SE 56th St & East Lake Sammamish Pkwy SE,54,PM,0.2,0.2,2.1,1.6,1.7
+241,269,O,72291,185th Ave NE & NE 68th St,39,AM,0,0.2,11.7,0,0.9
+241,269,I,66875,152nd Ave NE & NE 31st St,4,PM,0.4,0,3.4,3.1,0
+241,269,I,64466,SE 56th St & East Lake Sammamish Pkwy SE,54,XEV,0.2,0,1,0.6,0.1
+241,269,O,72291,185th Ave NE & NE 68th St,39,MID,0.1,0,7.6,1.6,0.3
+241,269,I,66875,152nd Ave NE & NE 31st St,4,XEV,1.1,0,2.8,1.1,0
+241,269,O,72291,185th Ave NE & NE 68th St,39,PM,0.8,0,8.4,6.6,0.2
+241,269,I,73059,NE 40th St & 156th Ave NE,8,AM,0.2,0,1.7,0.9,0
+241,269,I,73059,NE 40th St & 156th Ave NE,8,MID,0.2,0,3.7,2.3,0.1
+241,269,I,73059,NE 40th St & 156th Ave NE,8,PM,0.4,0,5.7,2.8,0.3
+241,269,I,81751,Issaquah Pine Lake Rd SE & SE Issaquah Fall City Rd,48,AM,0.4,0.1,7.6,1.5,0.2
+241,269,I,73059,NE 40th St & 156th Ave NE,8,XEV,0.7,0,4.4,0.7,0
+241,269,I,81751,Issaquah Pine Lake Rd SE & SE Issaquah Fall City Rd,48,MID,0.1,0.1,3.8,1.5,1.3
+241,269,I,81751,Issaquah Pine Lake Rd SE & SE Issaquah Fall City Rd,48,PM,0.1,0.1,3.7,0.7,1.1
+241,269,I,81751,Issaquah Pine Lake Rd SE & SE Issaquah Fall City Rd,48,XEV,0.1,0.1,1.9,0.2,0.2
+241,269,I,81680,228th Ave SE & SE 24th St,40,AM,0,0.1,5.9,0.1,0.3
+241,269,I,81680,228th Ave SE & SE 24th St,40,MID,0.1,0.3,3.9,0.7,3.5
+241,269,I,81680,228th Ave SE & SE 24th St,40,PM,0.1,0.4,5.9,0.7,2.9
+241,269,I,81680,228th Ave SE & SE 24th St,40,XEV,0.1,0.1,2.9,0.2,0.2
+241,269,O,81733,Issaquah Pine Lake Rd SE & 231st Ln SE,15,AM,0.7,0.2,5.1,3.6,0.8
+241,269,O,81733,Issaquah Pine Lake Rd SE & 231st Ln SE,15,MID,0.5,0.3,3.3,5.5,3.6
+241,269,O,81733,Issaquah Pine Lake Rd SE & 231st Ln SE,15,PM,0.3,0.5,5.5,2.1,3.6
+241,269,O,73243,148th Ave NE & NE 46th St,46,AM,0.1,0.2,5.9,0.2,0.7
+241,269,O,73243,148th Ave NE & NE 46th St,46,MID,0.1,0.3,4.7,1,3.4
+241,269,O,73243,148th Ave NE & NE 46th St,46,PM,0.1,0.4,4.3,0.7,2.6
+241,269,O,73243,148th Ave NE & NE 46th St,46,XEV,0.1,0.2,2,0.1,0.2
+241,269,I,68397,159th Ave NE & NE 39th St,6,AM,0,0,1.4,0,0.2
+241,269,O,81802,180th Ave NE & NE 76th St,41,AM,0,0.5,11.2,0.1,2.1
+241,269,I,68397,159th Ave NE & NE 39th St,6,MID,0.3,0.1,3.3,3.5,1.2
+241,269,O,81802,180th Ave NE & NE 76th St,41,MID,0.1,0.3,7.6,1.1,3.5
+241,269,I,68397,159th Ave NE & NE 39th St,6,PM,1.4,0.1,5.4,11,0.5
+241,269,O,81802,180th Ave NE & NE 76th St,41,PM,0.2,0.3,8.9,1.6,2
+241,269,I,68397,159th Ave NE & NE 39th St,6,XEV,0.7,0,3.7,0.7,0
+241,269,I,81841,SE Black Nugget Rd & SE Issaquah Fall City Rd,51,AM,0.1,0,5,0.4,0
+241,269,I,81841,SE Black Nugget Rd & SE Issaquah Fall City Rd,51,MID,0.1,0,2.8,0.8,0
+241,269,O,81842,Sahalee Way NE & 223rd Ave NE,31,AM,0.1,0,7.8,0.4,0
+241,269,I,81841,SE Black Nugget Rd & SE Issaquah Fall City Rd,51,PM,0,0.2,2.4,0,1.2
+241,269,O,81726,228th Ave SE & E Main St,24,AM,0.1,0.1,5.5,0.7,0.5
+241,269,O,81842,Sahalee Way NE & 223rd Ave NE,31,MID,0.1,0.1,6.4,0.7,1.1
+241,269,I,81841,SE Black Nugget Rd & SE Issaquah Fall City Rd,51,XEV,0,0,1.1,0,0.1
+241,269,O,81726,228th Ave SE & E Main St,24,MID,0.1,0,4.3,0.9,0.1
+241,269,O,81842,Sahalee Way NE & 223rd Ave NE,31,PM,0,0.2,9.2,0,1.2
+241,269,O,81726,228th Ave SE & E Main St,24,PM,0.2,0.1,7,1.8,0.5
+241,269,I,81847,Issaquah Pine Lake Rd SE & SE 37th Pl,44,AM,0.4,0,6.3,1.5,0
+241,269,I,81847,Issaquah Pine Lake Rd SE & SE 37th Pl,44,MID,0.1,0.1,3.7,0.8,0.7
+241,269,I,81847,Issaquah Pine Lake Rd SE & SE 37th Pl,44,PM,0.2,0.3,4.5,1.3,2.7
+241,269,I,81847,Issaquah Pine Lake Rd SE & SE 37th Pl,44,XEV,0.1,0.2,2.3,0.1,0.4
+241,269,I,72307,NE Union Hill Rd & 178th Pl NE,15,AM,0.1,0.3,5.5,0.7,1.4
+241,269,I,72307,NE Union Hill Rd & 178th Pl NE,15,MID,0.2,0.5,5.8,1.9,6.3
+241,269,I,72307,NE Union Hill Rd & 178th Pl NE,15,PM,0.5,0.7,10.6,4,5.6
+241,269,I,72307,NE Union Hill Rd & 178th Pl NE,15,XEV,0.4,0.4,7.1,0.4,0.4
+241,269,O,81861,228th Ave NE & NE 22nd St,29,AM,0.2,0,7.4,0.8,0
+241,269,O,81861,228th Ave NE & NE 22nd St,29,MID,0.1,0.1,6.4,1.3,0.9
+241,269,O,81861,228th Ave NE & NE 22nd St,29,PM,0.1,0.2,9.5,0.7,1.4
+241,269,O,81871,228th Ave NE & 18th Pl NE,28,AM,0.1,0,7.2,0.7,0.1
+241,269,O,81871,228th Ave NE & 18th Pl NE,28,MID,0.1,0.1,6.4,1.6,0.7
+241,269,O,81871,228th Ave NE & 18th Pl NE,28,PM,0.1,0.2,9.6,0.4,1.8
+241,269,I,81672,228th Ave SE & SE 4th St,35,AM,0.1,0.4,5.5,0.4,1.5
+241,269,I,81672,228th Ave SE & SE 4th St,35,MID,0.3,0.7,5.3,3.3,7.8
+241,269,I,81672,228th Ave SE & SE 4th St,35,PM,0.7,0.6,7.4,5.2,4.8
+241,269,I,81672,228th Ave SE & SE 4th St,35,XEV,0.3,0.3,3.9,0.5,0.6
+241,269,I,71353,Sr 520 & NE 51st St,14,AM,2.1,0,5.7,10.4,0
+241,269,I,71353,Sr 520 & NE 51st St,14,MID,1.1,0,6.2,12.7,0.4
+241,269,I,71353,Sr 520 & NE 51st St,14,PM,3.1,0,10.8,25,0.1
+241,269,I,71353,Sr 520 & NE 51st St,14,XEV,1.9,0,7.1,1.9,0
+241,269,I,81791,180th Ave NE & NE 76th St,17,AM,0.2,0.1,7.9,0.9,0.6
+241,269,I,81791,180th Ave NE & NE 76th St,17,MID,0.4,0.2,7,5,2.7
+241,269,I,81791,180th Ave NE & NE 76th St,17,PM,0.9,0.5,12,6.9,4
+241,269,I,81791,180th Ave NE & NE 76th St,17,XEV,0.7,0.3,9,0.7,0.3
+241,269,I,81838,SE Black Nugget Rd & East Lake Sammamish Pkwy SE,53,AM,0.1,1.1,3.7,0.5,4.4
+241,269,I,81838,SE Black Nugget Rd & East Lake Sammamish Pkwy SE,53,MID,0.2,0.5,2.4,1.9,5.7
+241,269,I,81838,SE Black Nugget Rd & East Lake Sammamish Pkwy SE,53,PM,0.2,0.5,2.1,1.3,3.4
+241,269,I,81838,SE Black Nugget Rd & East Lake Sammamish Pkwy SE,53,XEV,0.1,0.2,0.9,0.2,0.7
+241,269,O,81749,Issaquah Pine Lake Rd SE & SE Issaquah-Fall City Rd,10,AM,0.1,0.1,3.7,0.6,0.4
+241,269,O,81749,Issaquah Pine Lake Rd SE & SE Issaquah-Fall City Rd,10,MID,0.1,0.1,3.2,1.1,0.8
+241,269,O,81749,Issaquah Pine Lake Rd SE & SE Issaquah-Fall City Rd,10,PM,0.1,0.4,6.4,0.7,3
+241,269,I,71329,NE 40th St & 152nd Ave NE,9,AM,0.2,0.4,1.5,1.1,1.8
+241,269,I,71329,NE 40th St & 152nd Ave NE,9,MID,0.2,0.2,3.6,1.9,2.1
+241,269,I,71329,NE 40th St & 152nd Ave NE,9,PM,0.6,0.2,6.1,5,1.3
+241,269,I,81800,Sahalee Way NE & NE 36th St,25,AM,0.1,0.2,7.5,0.7,0.8
+241,269,I,71329,NE 40th St & 152nd Ave NE,9,XEV,0.1,0.2,4.3,0.1,0.2
+241,269,I,81800,Sahalee Way NE & NE 36th St,25,MID,0.1,0.1,6,1.3,0.6
+241,269,I,81800,Sahalee Way NE & NE 36th St,25,PM,0.1,0.1,8.3,0.5,1
+241,269,I,81800,Sahalee Way NE & NE 36th St,25,XEV,0,0.2,6.1,0,0.3
+241,269,I,72324,NE 65th St & 185th Ave NE,20,AM,0.4,0.8,5.7,2,3.9
+241,269,I,72324,NE 65th St & 185th Ave NE,20,MID,0.1,0.3,6.3,1.7,4
+241,269,I,72324,NE 65th St & 185th Ave NE,20,PM,0.2,0.8,11.4,1.3,6.1
+241,269,I,72324,NE 65th St & 185th Ave NE,20,XEV,0.1,1,7.9,0.1,1
+241,269,O,71325,NE 40th St & 152nd Ave NE,49,AM,0,0.8,4.8,0,3
+241,269,O,71325,NE 40th St & 152nd Ave NE,49,MID,0,0.4,3.9,0.3,4.5
+241,269,I,81739,Issaquah Pine Lake Rd SE & SE Klahanie Blvd,46,AM,0.4,0,6.9,1.6,0
+241,269,O,71325,NE 40th St & 152nd Ave NE,49,PM,0.1,0.3,3.5,0.8,2.4
+241,269,I,81739,Issaquah Pine Lake Rd SE & SE Klahanie Blvd,46,MID,0.1,0.1,3.6,1.4,1.1
+241,269,O,71325,NE 40th St & 152nd Ave NE,49,XEV,0,0.1,1.4,0,0.1
+241,269,I,81739,Issaquah Pine Lake Rd SE & SE Klahanie Blvd,46,PM,0.1,0.5,3.8,0.6,3.7
+241,269,I,81739,Issaquah Pine Lake Rd SE & SE Klahanie Blvd,46,XEV,0.1,0.1,2.1,0.1,0.1
+241,269,I,81820,228th Ave NE & NE 25th Way,28,AM,0.1,0,8.1,0.5,0.1
+241,269,I,81820,228th Ave NE & NE 25th Way,28,MID,0.2,0.1,6,1.8,1.1
+241,269,I,81820,228th Ave NE & NE 25th Way,28,PM,0.1,0.3,7.9,0.7,2.7
+241,269,I,81820,228th Ave NE & NE 25th Way,28,XEV,0,0.5,5.6,0,0.9
+241,269,O,72305,NE 76th St & 177th Pl NE,43,AM,0.1,0.2,10.2,0.5,0.9
+241,269,I,81735,Issaquah Pine Lake Rd SE & SE 40th Pl,45,AM,0.3,0,6.5,1,0
+241,269,O,72305,NE 76th St & 177th Pl NE,43,MID,0.2,0.5,6.4,2.9,5.5
+241,269,I,81735,Issaquah Pine Lake Rd SE & SE 40th Pl,45,MID,0.1,0.1,3.6,0.6,1.2
+241,269,O,72305,NE 76th St & 177th Pl NE,43,PM,0.5,0.8,7.7,3.8,5.6
+241,269,I,81735,Issaquah Pine Lake Rd SE & SE 40th Pl,45,PM,0,0.4,4.2,0.1,2.8
+241,269,O,72305,NE 76th St & 177th Pl NE,43,XEV,0.6,0.3,3.4,0.6,0.3
+241,269,I,81735,Issaquah Pine Lake Rd SE & SE 40th Pl,45,XEV,0,0.1,2.2,0,0.2
+241,269,I,81849,SE Black Nugget Rd & SE Issaquah-Fall City Rd,50,AM,0.1,0.1,4.9,0.3,0.2
+241,269,I,81849,SE Black Nugget Rd & SE Issaquah-Fall City Rd,50,MID,0.1,0.1,2.7,0.6,1.3
+241,269,I,73366,148th Ave NE & NE 46th St,12,AM,0.5,0,2.6,2.5,0.1
+241,269,I,81849,SE Black Nugget Rd & SE Issaquah-Fall City Rd,50,PM,0,0.2,2.6,0.1,1.2
+241,269,I,64468,NW Sammamish Rd & 11th Ave NW,55,AM,0,0.9,2.1,0,3.4
+241,269,I,73366,148th Ave NE & NE 46th St,12,MID,0.5,0.1,4.6,5.4,1
+241,269,I,81849,SE Black Nugget Rd & SE Issaquah-Fall City Rd,50,XEV,0,0.1,1.1,0,0.3
+241,269,I,64468,NW Sammamish Rd & 11th Ave NW,55,MID,0.1,0.5,1.8,1.6,5.4
+241,269,I,73366,148th Ave NE & NE 46th St,12,PM,0.6,0.3,7.1,4.7,2.3
+241,269,I,64468,NW Sammamish Rd & 11th Ave NW,55,PM,0.5,0.2,2.3,3.6,1.5
+241,269,I,73366,148th Ave NE & NE 46th St,12,XEV,0.5,0.1,4.9,0.5,0.1
+241,269,I,64468,NW Sammamish Rd & 11th Ave NW,55,XEV,0.1,0.1,1,0.2,0.2
+241,269,I,81743,Issaquah Pine Lake Rd SE & SE 47th Way,47,AM,0.3,0,7.2,1.3,0
+241,269,I,81743,Issaquah Pine Lake Rd SE & SE 47th Way,47,MID,0.1,0,3.7,1.7,0.2
+241,269,I,81743,Issaquah Pine Lake Rd SE & SE 47th Way,47,PM,0.1,0.1,3.8,0.5,0.5
+241,269,I,81743,Issaquah Pine Lake Rd SE & SE 47th Way,47,XEV,0,0.2,2,0,0.4
+241,269,O,81760,228th Ave NE & NE 14th St,27,AM,0.4,0,7.1,1.8,0.1
+241,269,O,81760,228th Ave NE & NE 14th St,27,MID,0.2,0.1,6.3,2.3,1.5
+241,269,O,81760,228th Ave NE & NE 14th St,27,PM,0.1,0.4,9.8,0.6,3
+241,269,I,81810,Sahalee Way NE & Sahalee Dr E,26,AM,0.3,0,7.8,1.5,0.2
+241,269,I,81810,Sahalee Way NE & Sahalee Dr E,26,MID,0,0,6,0.4,0.3
+241,269,I,81810,Sahalee Way NE & Sahalee Dr E,26,PM,0,0,8.3,0,0.2
+241,269,I,81810,Sahalee Way NE & Sahalee Dr E,26,XEV,0.1,0.2,6,0.1,0.3
+241,269,I,81678,228th Ave SE & SE 20th St,39,AM,0.2,0,6,0.8,0
+241,269,I,81678,228th Ave SE & SE 20th St,39,MID,0.1,0.1,4.2,0.9,0.6
+241,269,I,81678,228th Ave SE & SE 20th St,39,PM,0.1,0.2,6.2,0.6,1.3
+241,269,I,81678,228th Ave SE & SE 20th St,39,XEV,0,0.3,2.9,0,0.5
+241,269,O,81737,Issaquah Pine Lake Rd SE & SE 40th Pl,13,AM,0.2,0,4.4,1.2,0
+241,269,O,81737,Issaquah Pine Lake Rd SE & SE 40th Pl,13,MID,0.1,0,3.2,0.9,0.1
+241,269,O,81737,Issaquah Pine Lake Rd SE & SE 40th Pl,13,PM,0,0.1,5.8,0.1,0.5
+241,269,I,63811,NE 68th St & 180th Ave NE,18,AM,0.2,0.7,7.3,0.9,3.7
+241,269,I,81685,228th Ave SE & SE 8th St,36,AM,0.2,0.1,5.6,0.9,0.5
+241,269,O,62337,188th Ave NE & Redmond Fall City Rd,36,AM,1.4,0,10,5.7,0
+241,269,I,72304,185th Ave NE & NE 68th St,19,AM,0,1.3,6.1,0,6.3
+241,269,I,63811,NE 68th St & 180th Ave NE,18,MID,0.2,0.4,6.7,2,5
+241,269,I,81685,228th Ave SE & SE 8th St,36,MID,0.1,1.2,4.3,1.7,13.9
+241,269,O,62337,188th Ave NE & Redmond Fall City Rd,36,MID,0.8,0.4,6.7,9.3,5.3
+241,269,I,72304,185th Ave NE & NE 68th St,19,MID,0,0.2,6.5,0,2.8
+241,269,I,63811,NE 68th St & 180th Ave NE,18,PM,0.2,0.3,11.9,1.5,2
+241,269,I,81685,228th Ave SE & SE 8th St,36,PM,0.4,1.9,5.9,3,14.9
+241,269,O,62337,188th Ave NE & Redmond Fall City Rd,36,PM,0.4,1.2,7.9,3.1,9.8
+241,269,I,72304,185th Ave NE & NE 68th St,19,PM,0.1,0.1,11.9,0.8,0.4
+241,269,I,63811,NE 68th St & 180th Ave NE,18,XEV,0.1,0.2,8.8,0.1,0.2
+241,269,I,81685,228th Ave SE & SE 8th St,36,XEV,0.2,0.8,3.3,0.3,1.5
+241,269,I,72304,185th Ave NE & NE 68th St,19,XEV,0,0.1,8.8,0,0.1
+241,269,O,64545,Issaquah Highlands Park & Ride - Bay 1,9,AM,1.5,0.2,3.6,7.6,1.1
+241,269,O,64545,Issaquah Highlands Park & Ride - Bay 1,9,MID,1.2,0.5,3.1,14.1,5.5
+241,269,O,64545,Issaquah Highlands Park & Ride - Bay 1,9,PM,2.5,1.3,6.7,17.8,9.1
+241,269,I,73079,NE 40th St & 159th Ave NE,7,AM,0,0,1.5,0,0
+241,269,I,64545,Issaquah Highlands Park & Ride - Bay 1,49,AM,1.1,3.7,4.9,4.4,14.9
+241,269,I,73079,NE 40th St & 159th Ave NE,7,MID,0.1,0,3.5,1.6,0.1
+241,269,I,64545,Issaquah Highlands Park & Ride - Bay 1,49,MID,0.5,1.5,2.8,5.5,17.5
+241,269,I,73079,NE 40th St & 159th Ave NE,7,PM,0.1,0,5.4,0.7,0.2
+241,269,I,64545,Issaquah Highlands Park & Ride - Bay 1,49,PM,0.5,1.7,2.6,3.9,13.6
+241,269,I,73079,NE 40th St & 159th Ave NE,7,XEV,0,0,3.8,0,0
+241,269,I,64545,Issaquah Highlands Park & Ride - Bay 1,49,XEV,0.2,1.1,1.1,0.4,2.1
+241,269,O,64465,SE 56th St & East Lake Sammamish Pkwy SE,4,AM,0.1,0.2,2.2,0.5,0.8
+241,269,O,64465,SE 56th St & East Lake Sammamish Pkwy SE,4,MID,0.3,0.2,2,3.1,1.8
+241,269,O,64465,SE 56th St & East Lake Sammamish Pkwy SE,4,PM,0.8,0.1,4.8,5.5,0.6
+241,269,I,81713,Issaquah Pine Lake Rd SE & 228th Ave SE,42,AM,0,0.2,5.7,0,0.7
+241,269,I,81713,Issaquah Pine Lake Rd SE & 228th Ave SE,42,MID,0,0.2,3.7,0.5,2
+241,269,I,81713,Issaquah Pine Lake Rd SE & 228th Ave SE,42,PM,0.1,0.2,5.3,0.5,1.7
+241,269,I,81713,Issaquah Pine Lake Rd SE & 228th Ave SE,42,XEV,0,0.1,2.4,0,0.2
+241,269,I,81703,228th Ave SE & SE 10th St,37,AM,0.1,0,5.6,0.3,0.1
+241,269,I,81703,228th Ave SE & SE 10th St,37,MID,0.1,0.2,4.2,1.7,2.2
+241,269,I,81703,228th Ave SE & SE 10th St,37,PM,0.9,0.4,6.4,7.1,2.9
+241,269,I,81703,228th Ave SE & SE 10th St,37,XEV,0.1,0.2,3.3,0.2,0.4
+241,269,I,81731,Issaquah Pine Lake Rd SE & 231st Ln SE,43,AM,0.4,0.1,6,1.5,0.3
+241,269,I,81731,Issaquah Pine Lake Rd SE & 231st Ln SE,43,MID,0.3,0.3,3.7,3,3.3
+241,269,I,81731,Issaquah Pine Lake Rd SE & 231st Ln SE,43,PM,0.2,0.8,4.7,1.7,6.4
+241,269,I,81731,Issaquah Pine Lake Rd SE & 231st Ln SE,43,XEV,0.2,0.1,2.4,0.3,0.2
+241,269,O,81853,SE Black Nugget Rd & SE 62nd St,7,AM,0.1,0,2.2,0.3,0
+241,269,O,81853,SE Black Nugget Rd & SE 62nd St,7,MID,0.1,0.1,2.4,1.4,0.6
+241,269,O,81853,SE Black Nugget Rd & SE 62nd St,7,PM,0,0.2,5.5,0.1,1.7
+241,269,I,81677,228th Ave NE & NE 8th St,32,AM,0.8,0.6,8.7,3.2,2.4
+241,269,I,81677,228th Ave NE & NE 8th St,32,MID,0.8,0.9,5.7,9.5,11
+241,269,I,81677,228th Ave NE & NE 8th St,32,PM,1.1,1.7,6.8,8.9,13.2
+241,269,I,81677,228th Ave NE & NE 8th St,32,XEV,0.3,0.9,4.1,0.5,1.7
+241,269,O,62339,NE 65th St & 188th Ave NE,37,AM,1.7,0,11.7,6.7,0
+241,269,O,64592,Issaquah Transit Center - Bay 5,1,AM,2.9,0,3,17.3,0
+241,269,O,62339,NE 65th St & 188th Ave NE,37,MID,0.9,0.5,7.1,10.5,5.8
+241,269,O,64592,Issaquah Transit Center - Bay 5,1,MID,1.8,0,1.9,19.4,0
+241,269,O,62339,NE 65th St & 188th Ave NE,37,PM,0.7,1.4,7.2,5.8,10.9
+241,269,O,64592,Issaquah Transit Center - Bay 5,1,PM,2.5,0,2.7,17.6,0
+241,269,I,64592,Issaquah Transit Center - Bay 5,56,AM,0.4,2.6,0,1.1,7.7
+241,269,I,64592,Issaquah Transit Center - Bay 5,56,MID,0.4,2.2,0,4.7,26.6
+241,269,I,64592,Issaquah Transit Center - Bay 5,56,PM,0.4,2.7,0,2.9,21.9
+241,269,I,64592,Issaquah Transit Center - Bay 5,56,XEV,0.2,1.3,0,0.6,3.9
+241,269,O,81852,Sahalee Way NE & Sahalee Dr E,32,AM,0,0,7.9,0.2,0
+241,269,O,81852,Sahalee Way NE & Sahalee Dr E,32,MID,0,0.1,6.3,0.2,0.6
+241,269,O,81852,Sahalee Way NE & Sahalee Dr E,32,PM,0,0.2,9,0.3,1.5
+241,269,O,81790,Sahalee Way NE & NE 36th St,33,AM,0,0,7.9,0.1,0
+241,269,O,81790,Sahalee Way NE & NE 36th St,33,MID,0.1,0.1,6.3,0.7,1.4
+241,269,O,81738,Issaquah Pine Lake Rd SE & SE 37th Pl,14,AM,0.3,0.1,4.6,1.4,0.7
+241,269,I,81670,228th Ave SE & E Main St,34,AM,0.1,0.2,5.8,0.4,0.6
+241,269,O,81738,Issaquah Pine Lake Rd SE & SE 37th Pl,14,MID,0.1,0.2,3.1,1.6,1.8
+241,269,I,81670,228th Ave SE & E Main St,34,MID,0.1,0.1,5.6,0.7,0.6
+241,269,O,81738,Issaquah Pine Lake Rd SE & SE 37th Pl,14,PM,0.1,0.2,5.7,0.9,1.7
+241,269,I,81670,228th Ave SE & E Main St,34,PM,0.1,0.1,7.3,0.7,0.6
+241,269,I,81670,228th Ave SE & E Main St,34,XEV,0,0.1,4,0,0.2
+241,269,I,81825,228th Ave NE & NE 22nd St,29,AM,0.1,0,8.2,0.5,0
+241,269,I,81825,228th Ave NE & NE 22nd St,29,MID,0,0.1,6,0.4,0.9
+241,269,I,81825,228th Ave NE & NE 22nd St,29,PM,0.1,0.1,7.8,0.6,0.7
+241,269,I,81825,228th Ave NE & NE 22nd St,29,XEV,0,0.3,5.3,0,0.6
+241,269,O,68404,NE 40th St & 156th Ave NE,50,AM,0,0.6,4.2,0.1,2.3
+241,269,O,68404,NE 40th St & 156th Ave NE,50,MID,0,0.3,3.6,0.4,4
+241,269,O,68404,NE 40th St & 156th Ave NE,50,PM,0,0.4,3.1,0.2,2.8
+241,269,O,68404,NE 40th St & 156th Ave NE,50,XEV,0,0.2,1.2,0,0.2
+241,269,O,81724,228th Ave SE & SE 4th St,23,AM,0.2,0.5,5.4,0.9,2.3
+241,269,O,81724,228th Ave SE & SE 4th St,23,MID,0.3,0.2,4.2,3.1,1.7
+241,269,O,81724,228th Ave SE & SE 4th St,23,PM,0.8,0.3,6.8,6.1,2.4
+241,269,I,72326,NE 65th St & 188th Ave NE,21,AM,1.6,0.4,6.9,8,2
+241,269,I,72326,NE 65th St & 188th Ave NE,21,MID,0.2,0.5,6.1,2.9,6
+241,269,I,72326,NE 65th St & 188th Ave NE,21,PM,0.2,1.9,9.7,1.9,14.9
+241,269,I,72326,NE 65th St & 188th Ave NE,21,XEV,0.2,1.7,6.3,0.2,1.7
+241,269,I,81674,228th Ave SE & SE 16th St,38,AM,0.2,0,5.8,0.7,0
+241,269,I,81674,228th Ave SE & SE 16th St,38,MID,0.1,0.2,4.1,0.6,2
+241,269,I,81674,228th Ave SE & SE 16th St,38,PM,0.1,0.3,6.3,1,2.5
+241,269,I,81674,228th Ave SE & SE 16th St,38,XEV,0.1,0.3,3.2,0.2,0.5
+241,269,O,81741,Issaquah Pine Lake Rd SE & SE Klahanie Blvd,12,AM,0.6,0,4.2,3.2,0.1
+241,269,O,81741,Issaquah Pine Lake Rd SE & SE Klahanie Blvd,12,MID,0.2,0.2,3.1,2.3,1.9
+241,269,O,81741,Issaquah Pine Lake Rd SE & SE Klahanie Blvd,12,PM,0.1,0.4,5.9,0.6,2.9
+241,269,I,73342,148th Ave NE & NE 40th St,11,AM,0.5,0,2.1,2.5,0
+241,269,O,64467,NW Sammamish Rd & 11th Ave NW,2,AM,0,0.8,2.5,0.1,3.8
+241,269,I,73342,148th Ave NE & NE 40th St,11,MID,0.6,0.1,4.3,7.6,1.2
+241,269,O,64467,NW Sammamish Rd & 11th Ave NW,2,MID,0.2,0.2,1.9,2.3,2
+241,269,I,73342,148th Ave NE & NE 40th St,11,PM,0.5,0.1,6.8,3.7,0.9
+241,269,O,64467,NW Sammamish Rd & 11th Ave NW,2,PM,0.9,0.1,3.6,6.5,0.5
+241,269,I,71327,NE 40th St & 150th Ave NE,10,AM,0.1,0,1.6,0.7,0
+241,269,I,73342,148th Ave NE & NE 40th St,11,XEV,0.2,0.1,4.5,0.2,0.1
+241,269,I,71327,NE 40th St & 150th Ave NE,10,MID,0.1,0,3.8,1.6,0
+241,269,I,71327,NE 40th St & 150th Ave NE,10,PM,0.4,0.1,6.4,3,0.5
+241,269,O,81681,228th Ave SE & SE 10th St,21,AM,0.1,1.1,5.2,0.7,5.7
+241,269,I,71327,NE 40th St & 150th Ave NE,10,XEV,0.1,0,4.4,0.1,0
+241,269,O,81681,228th Ave SE & SE 10th St,21,MID,0.1,0.4,3.7,1.7,4.7
+241,269,O,81681,228th Ave SE & SE 10th St,21,PM,0.1,0.3,5.6,0.9,2.2
+241,269,I,81840,Sahalee Way NE & NE 28th Pl,27,AM,0,0,8,0,0
+241,269,I,81840,Sahalee Way NE & NE 28th Pl,27,MID,0.1,0.2,6,0.9,2.2
+241,269,I,81840,Sahalee Way NE & NE 28th Pl,27,PM,0,0.2,8.1,0.1,1.7
+241,269,I,81840,Sahalee Way NE & NE 28th Pl,27,XEV,0,0.1,6,0,0.1
+241,269,I,68411,156th Ave NE & NE 33rd St,5,AM,0.1,0,1.5,0.5,0.1
+241,269,I,68411,156th Ave NE & NE 33rd St,5,MID,0.3,0,3.2,4,0.1
+241,269,I,68411,156th Ave NE & NE 33rd St,5,PM,0.8,0,4.2,6.2,0
+241,269,I,68411,156th Ave NE & NE 33rd St,5,XEV,0.4,0,3.2,0.4,0
+241,269,O,73419,NE 51st St & Sr 520,44,AM,0,3.6,6.7,0.1,14.5
+241,269,O,73419,NE 51st St & Sr 520,44,MID,0,1.1,5.3,0.1,13.6
+241,269,O,73419,NE 51st St & Sr 520,44,PM,0,2,5.8,0.2,13.8
+241,269,O,73419,NE 51st St & Sr 520,44,XEV,0,0.6,2.7,0,0.6
+241,269,I,81668,228th Ave NE & NE 4th St,33,AM,0.1,2.9,5.8,0.2,11.6
+241,269,I,81668,228th Ave NE & NE 4th St,33,MID,0.6,0.7,5.6,7.2,8.2
+241,269,I,81668,228th Ave NE & NE 4th St,33,PM,1.1,0.6,7.3,9.1,4.7
+241,269,I,81668,228th Ave NE & NE 4th St,33,XEV,0.1,0.2,4.1,0.2,0.3
+241,269,O,81851,SE Black Nugget Rd & SE 62nd St,6,AM,0.1,0.3,2.1,0.7,1.5
+241,269,O,81851,SE Black Nugget Rd & SE 62nd St,6,MID,0.1,0,2.4,1.3,0.3
+241,269,O,81851,SE Black Nugget Rd & SE 62nd St,6,PM,0.4,0,5.8,2.6,0.3
+241,269,O,81714,228th Ave SE & Issaquah Pine Lake Rd SE,17,AM,0.2,0,5.8,1.2,0
+241,269,O,81714,228th Ave SE & Issaquah Pine Lake Rd SE,17,MID,0.2,0,3.6,2.4,0.5
+241,269,O,81714,228th Ave SE & Issaquah Pine Lake Rd SE,17,PM,0.3,0.1,5.7,1.8,0.4
+241,269,O,81716,228th Ave SE & SE 24th St,18,AM,0.3,0,6,1.5,0
+241,269,O,81716,228th Ave SE & SE 24th St,18,MID,0.2,0,3.8,2.8,0.3
+241,269,O,81716,228th Ave SE & SE 24th St,18,PM,0.3,0.1,5.9,1.8,0.4
+241,269,I,81850,SE Black Nugget Rd & SE 62nd St,52,AM,0,0.4,4.6,0.1,1.6
+241,269,I,81850,SE Black Nugget Rd & SE 62nd St,52,MID,0.1,0.1,2.7,0.6,1.5
+241,269,I,81850,SE Black Nugget Rd & SE 62nd St,52,PM,0.1,0.1,2.4,0.4,0.8
+241,269,I,81850,SE Black Nugget Rd & SE 62nd St,52,XEV,0.1,0.2,1,0.3,0.6
+241,269,I,81854,Sahalee Way NE & Redmond Fall City Rd,23,AM,0,0.2,7.5,0,1
+241,269,I,81854,Sahalee Way NE & Redmond Fall City Rd,23,MID,0,0,5.9,0,0.2
+241,269,I,81854,Sahalee Way NE & Redmond Fall City Rd,23,PM,0,0,8.4,0,0.1
+241,269,I,81854,Sahalee Way NE & Redmond Fall City Rd,23,XEV,0,0,5.6,0,0
+241,269,O,81684,South Sammamish P&R - Bay 1,16,AM,0.7,0.2,5.6,3.5,1.2
+241,269,O,81684,South Sammamish P&R - Bay 1,16,MID,0.4,0.2,3.5,4.5,2.6
+241,269,O,81684,South Sammamish P&R - Bay 1,16,PM,0.3,0.3,5.5,2.1,1.9
+241,269,I,81684,South Sammamish P&R - Bay 1,41,AM,0.3,0.5,5.8,1.3,1.8
+241,269,I,81684,South Sammamish P&R - Bay 1,41,MID,0.3,0.3,3.9,3.2,4.1
+241,269,I,81684,South Sammamish P&R - Bay 1,41,PM,0.2,0.7,5.4,1.6,5.9
+241,269,I,81684,South Sammamish P&R - Bay 1,41,XEV,0.2,0.6,2.5,0.4,1.2
+241,269,O,81794,Sahalee Way NE & NE 37th Way,34,AM,0.2,0,8.6,0.6,0
+241,269,O,81794,Sahalee Way NE & NE 37th Way,34,MID,0.3,0.1,6.4,3.1,1.5
+241,269,O,81794,Sahalee Way NE & NE 37th Way,34,PM,0.1,0.4,8.6,0.5,3.1
+241,269,O,81762,180th Ave NE & NE 68th St,40,AM,0.2,0.2,11.7,0.6,0.6
+241,269,O,81762,180th Ave NE & NE 68th St,40,MID,0.4,0.2,7.8,4.9,2.9
+241,269,O,81762,180th Ave NE & NE 68th St,40,PM,0.7,0.2,8.9,5.8,1.6
+241,269,O,73407,NE 40th St & 148th Ave NE,48,AM,0,0.4,5.5,0.1,1.4
+241,269,O,73407,NE 40th St & 148th Ave NE,48,MID,0.1,0.2,4.2,0.7,2.2
+241,269,O,73407,NE 40th St & 148th Ave NE,48,PM,0.1,0.6,3.7,0.6,4.3
+241,269,O,73407,NE 40th St & 148th Ave NE,48,XEV,0,0.2,1.5,0,0.2
+241,269,I,71326,152nd Ave NE & Overlake Park&Ride,2,AM,0.4,0,1.2,2,0
+241,269,I,71326,152nd Ave NE & Overlake Park&Ride,2,MID,0.4,0,2.7,4.7,0.1
+241,269,I,71326,152nd Ave NE & Overlake Park&Ride,2,PM,0.6,0,2.8,4.6,0.1
+241,269,I,71326,152nd Ave NE & Overlake Park&Ride,2,XEV,0.4,0,1.5,0.4,0
+241,269,O,68414,NE 36th St & 157th Ave NE,52,AM,0,0.7,2.7,0,2.8
+241,269,O,68414,NE 36th St & 157th Ave NE,52,MID,0,0.2,3.1,0.1,2
+241,269,O,68414,NE 36th St & 157th Ave NE,52,PM,0.1,0.1,3.1,0.6,0.4
+241,269,O,68414,NE 36th St & 157th Ave NE,52,XEV,0,0,1.2,0,0
+241,269,O,62341,NE 65th St & 185th Ave NE,38,AM,0.6,0.3,12,2.2,1
+241,269,O,62341,NE 65th St & 185th Ave NE,38,MID,0.4,0.1,7.5,5,1
+241,269,O,62341,NE 65th St & 185th Ave NE,38,PM,0.7,0.4,7.6,5.4,2.8
+241,269,I,73167,NE 51st St & 148th Ave NE,13,AM,1,0,3.6,5.1,0
+241,269,I,73167,NE 51st St & 148th Ave NE,13,MID,0.6,0.1,5.2,7.6,0.8
+241,269,I,73167,NE 51st St & 148th Ave NE,13,PM,0.7,0.1,7.7,5.8,0.6
+241,269,I,73167,NE 51st St & 148th Ave NE,13,XEV,0.4,0.1,5.2,0.4,0.1
+241,269,I,81845,Sahalee Way NE & NE 37th Way,24,AM,0.1,0,7.5,0.6,0
+241,269,I,81845,Sahalee Way NE & NE 37th Way,24,MID,0.2,0.2,5.9,1.8,2.1
+241,269,I,81845,Sahalee Way NE & NE 37th Way,24,PM,0.1,0.3,8.4,0.8,2.6
+241,269,I,81845,Sahalee Way NE & NE 37th Way,24,XEV,0,0.2,6.3,0,0.4
+241,269,O,81846,SE Black Nugget Rd & SE Issaquah-Fall City Rd,8,AM,0.2,0,2.3,0.8,0
+241,269,O,81846,SE Black Nugget Rd & SE Issaquah-Fall City Rd,8,MID,0.1,0.1,2.4,0.8,0.8
+241,269,O,81846,SE Black Nugget Rd & SE Issaquah-Fall City Rd,8,PM,0,0.1,5.5,0.3,0.7
+241,269,I,81880,228th Ave NE & NE 14th St,31,AM,0.3,0,8.5,1.2,0
+241,269,I,81880,228th Ave NE & NE 14th St,31,MID,0.1,0.1,5.8,1.1,1.5
+241,269,I,81880,228th Ave NE & NE 14th St,31,PM,0.1,0.4,7.3,0.6,3
+241,269,I,81880,228th Ave NE & NE 14th St,31,XEV,0,0.5,4.7,0,0.9

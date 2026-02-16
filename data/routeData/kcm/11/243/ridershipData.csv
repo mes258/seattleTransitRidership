@@ -1,0 +1,251 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,11,O,1085,Pine St & 9th Ave,1,AM,0.1,0,4.6,1,0
+243,11,I,12210,E Mcgilvra St & 42nd Ave E,1,AM,2.3,0,2.3,27.3,0.1
+243,11,O,1110,Pine St & 5th Ave,2,AM,0.3,1.5,3.4,3.5,16.7
+243,11,I,12220,42nd Ave E & E Lynn St,2,AM,0.2,0,2.5,2.8,0
+243,11,I,12230,42nd Ave E & E Newton St,3,AM,0.3,0,2.8,3.7,0
+243,11,O,1120,Pine St & 4th Ave,3,AM,0.9,2.9,1.4,9.4,28.7
+243,11,O,1180,Pike St & 4th Ave,4,AM,2.7,0.2,3.8,26.5,2.1
+243,11,I,12240,42nd Ave E & E Madison St,4,AM,0.3,0,3.1,3.8,0.4
+243,11,I,12250,E Madison St & 41st Ave E,5,AM,0.8,0,3.9,9,0
+243,11,O,1190,Pike St & 6th Ave,5,AM,0.4,0.1,4.1,3.5,0.6
+243,11,I,12260,E Madison St & E Garfield St,6,AM,0.4,0,4.3,4.9,0
+243,11,O,1195,Pike St & 7th Ave,6,AM,0.4,0.2,4.3,3.7,1.8
+243,11,I,12270,E Madison St & 38th Ave E,7,AM,0.3,0.1,4.5,3.7,0.8
+243,11,O,11133,Pike St & Minor Ave,7,AM,0.4,0.5,4,3.7,5.4
+243,11,O,13460,Bellevue Ave & E Olive St,8,AM,0.4,0.3,4.2,4.4,3.3
+243,11,I,12280,E Madison St & 36th Ave E,8,AM,0.1,0,4.6,1.2,0
+243,11,I,12290,E Madison St & 34th Ave E,9,AM,0.2,0,4.8,1.8,0
+243,11,O,29268,E Olive Way & Summit Ave E,9,AM,1.1,0.2,5.1,10.9,2.1
+243,11,I,12310,E Madison St & Lake Washington Blvd,10,AM,0.7,0.1,5.3,7.4,0.8
+243,11,O,29270,E John St & Broadway  E - Bay 1,10,AM,3.8,1,7.7,41.5,10.7
+243,11,I,120,E Madison St & Martin L King Jr Way E,11,AM,0.6,1.1,4.9,7.1,12
+243,11,O,29277,E John St & 12th Ave E,11,AM,0.1,0,7.7,1.3,0.3
+243,11,O,29273,E John St & 15th Ave E,12,AM,0.2,3,4.9,1.9,32.9
+243,11,I,12340,E Madison St & 25th Ave E,12,AM,0.5,0.2,5.1,5.5,2.4
+243,11,O,29274,E Thomas St & 16th Ave E,13,AM,0.1,0.1,4.9,1.2,1.4
+243,11,I,29258,E John St & 22nd Ave E,13,AM,1.1,1.1,5.1,12.1,12.1
+243,11,O,29275,E Thomas St & 19th Ave E,14,AM,0.1,0.6,4.1,0.6,6.2
+243,11,I,29259,E Thomas St & 19th Ave E,14,AM,0.6,0.1,5.6,6.3,1.5
+243,11,I,29260,E Thomas St & 16th Ave E,15,AM,0.3,0.2,5.6,3,2.1
+243,11,O,29276,E John St & 22nd Ave E,15,AM,0.2,0.5,3.8,2.2,5.4
+243,11,I,29261,E John St & 15th Ave E,16,AM,0.8,0.2,6.2,8.8,2.3
+243,11,O,109,E Madison St & 24th Ave E,16,AM,0.4,0,4.1,3.7,0.3
+243,11,O,111,E Madison St & Martin L King Jr Way E,17,AM,0.5,0.5,4.2,5.2,4.6
+243,11,I,29301,E John St & 12th Ave E,17,AM,0.7,0.1,6.7,7.4,1.4
+243,11,I,29262,E John St & Broadway  E - Bay 2,18,AM,0.6,1.9,5.4,6.3,20.7
+243,11,O,12390,E Madison St & 29th Ave E,18,AM,0,0.2,4,0.3,1.9
+243,11,I,29266,E Olive Way & Summit Ave E,19,AM,0.9,0.5,5.9,10.3,5.2
+243,11,O,12400,E Madison St & Lake Washington Blvd,19,AM,0,0.6,3.5,0.4,6.1
+243,11,I,13441,Bellevue Ave & E Olive Way,20,AM,0.5,0.3,6.1,5.7,3.1
+243,11,O,12410,E Madison St & 33rd Ave E,20,AM,0,0,3.4,0.1,0.4
+243,11,O,12420,E Madison St & 36th Ave E,21,AM,0,0.3,3.2,0,2.6
+243,11,I,11100,E Pine St & Bellevue Ave,21,AM,0.7,0.3,6.5,8.2,3.8
+243,11,I,1085,Pine St & 9th Ave,22,AM,0,2,4.5,0,21.9
+243,11,O,12430,E Madison St & 38th Ave E,22,AM,0,0.2,3,0,1.9
+243,11,O,12440,E Madison St & 39th Ave E,23,AM,0,0.1,2.8,0,1.4
+243,11,O,12450,E Madison St & 41st Ave E,24,AM,0.1,1.5,1.4,1.2,15.2
+243,11,O,12460,43rd Ave E & E Blaine St,25,AM,0.2,0.7,0.9,1.5,7.1
+243,11,O,12470,43rd Ave E & E Madison St,26,AM,0.4,0.5,0.7,3.5,5.4
+243,11,O,12480,43rd Ave E & E Lynn St,27,AM,0.1,0.1,0.6,0.6,0.9
+243,11,O,12210,E Mcgilvra St & 42nd Ave E,28,AM,0,0.6,0,0,6.3
+243,11,O,1085,Pine St & 9th Ave,1,MID,0.3,0,6.2,4.5,0
+243,11,I,12210,E Mcgilvra St & 42nd Ave E,1,MID,1.8,0,1.9,33.2,0
+243,11,O,1110,Pine St & 5th Ave,2,MID,0.5,1.7,5,7.8,28.3
+243,11,I,12220,42nd Ave E & E Lynn St,2,MID,0.1,0,1.9,1.9,0
+243,11,I,12230,42nd Ave E & E Newton St,3,MID,0.2,0,2.1,3.4,0
+243,11,O,1120,Pine St & 4th Ave,3,MID,1.4,3.8,2.5,25.2,67.6
+243,11,O,1180,Pike St & 4th Ave,4,MID,5.5,0.7,7.4,99.7,12.3
+243,11,I,12240,42nd Ave E & E Madison St,4,MID,0.6,0,2.7,10.3,0.2
+243,11,I,12250,E Madison St & 41st Ave E,5,MID,1.1,0.1,3.7,19.3,2
+243,11,O,1190,Pike St & 6th Ave,5,MID,0.9,0.1,8.2,16.5,1.5
+243,11,I,12260,E Madison St & E Garfield St,6,MID,0.4,0,4.1,8,0
+243,11,O,1195,Pike St & 7th Ave,6,MID,0.7,0.2,8.7,12.9,3.8
+243,11,I,12270,E Madison St & 38th Ave E,7,MID,0.3,0,4.3,4.6,0.3
+243,11,O,11133,Pike St & Minor Ave,7,MID,0.8,1,8.4,14.1,18.6
+243,11,O,13460,Bellevue Ave & E Olive St,8,MID,0.8,0.9,8.4,14.3,16
+243,11,I,12280,E Madison St & 36th Ave E,8,MID,0.2,0,4.5,3.5,0.2
+243,11,I,12290,E Madison St & 34th Ave E,9,MID,0,0,4.5,0.8,0.2
+243,11,O,29268,E Olive Way & Summit Ave E,9,MID,1.4,0.8,9,25.7,14.6
+243,11,I,12310,E Madison St & Lake Washington Blvd,10,MID,0.9,0.2,5.3,17,3
+243,11,O,29270,E John St & Broadway  E - Bay 1,10,MID,5.2,2.5,11.6,92.7,45.6
+243,11,I,120,E Madison St & Martin L King Jr Way E,11,MID,1.3,0.9,5.7,23.9,17.1
+243,11,O,29277,E John St & 12th Ave E,11,MID,0.2,0.3,11.6,3.6,5
+243,11,O,29273,E John St & 15th Ave E,12,MID,0.5,4.2,7.8,8.4,71.5
+243,11,I,12340,E Madison St & 25th Ave E,12,MID,0.4,0.1,5.9,7.9,2.6
+243,11,O,29274,E Thomas St & 16th Ave E,13,MID,0.2,0.4,7.6,3.8,6.6
+243,11,I,29258,E John St & 22nd Ave E,13,MID,1.3,0.5,6.7,23.4,9.2
+243,11,O,29275,E Thomas St & 19th Ave E,14,MID,0.2,0.8,7,3.2,14.4
+243,11,I,29259,E Thomas St & 19th Ave E,14,MID,0.9,0.2,7.4,16.2,3.1
+243,11,I,29260,E Thomas St & 16th Ave E,15,MID,0.3,0.5,7.2,4.6,8.2
+243,11,O,29276,E John St & 22nd Ave E,15,MID,0.4,1.1,6.3,7.2,19.8
+243,11,I,29261,E John St & 15th Ave E,16,MID,3.3,0.5,10,59.1,9.1
+243,11,O,109,E Madison St & 24th Ave E,16,MID,0.3,0.3,6.3,5.6,4.7
+243,11,O,111,E Madison St & Martin L King Jr Way E,17,MID,0.5,1.1,5.7,8.9,20.4
+243,11,I,29301,E John St & 12th Ave E,17,MID,0.3,0.2,10.1,5.5,4.2
+243,11,I,29262,E John St & Broadway  E - Bay 2,18,MID,1.2,3.9,7.4,21.7,69.6
+243,11,O,12390,E Madison St & 29th Ave E,18,MID,0.2,0.3,5.6,2.7,5.4
+243,11,I,29266,E Olive Way & Summit Ave E,19,MID,1.1,1,7.5,19,17.8
+243,11,O,12400,E Madison St & Lake Washington Blvd,19,MID,0.2,0.9,4.8,3.3,15.8
+243,11,I,13441,Bellevue Ave & E Olive Way,20,MID,0.5,0.5,7.5,8.5,8.7
+243,11,O,12410,E Madison St & 33rd Ave E,20,MID,0,0.1,4.8,0,1.7
+243,11,O,12420,E Madison St & 36th Ave E,21,MID,0,0.2,4.6,0,3
+243,11,I,11100,E Pine St & Bellevue Ave,21,MID,0.7,0.7,7.5,12,11.7
+243,11,I,1085,Pine St & 9th Ave,22,MID,0,1.6,5.9,0,27.9
+243,11,O,12430,E Madison St & 38th Ave E,22,MID,0,0.3,4.4,0,4.5
+243,11,O,12440,E Madison St & 39th Ave E,23,MID,0,0.2,4.2,0,3
+243,11,O,12450,E Madison St & 41st Ave E,24,MID,0.1,1.7,2.6,1.8,30
+243,11,O,12460,43rd Ave E & E Blaine St,25,MID,0,0.4,2.2,0.1,8
+243,11,O,12470,43rd Ave E & E Madison St,26,MID,0,0.5,1.7,0.5,8.7
+243,11,O,12480,43rd Ave E & E Lynn St,27,MID,0,0.1,1.7,0.7,2.6
+243,11,O,12210,E Mcgilvra St & 42nd Ave E,28,MID,0,1.7,0,0.1,29.8
+243,11,O,1085,Pine St & 9th Ave,1,PM,0.4,0,6.2,4.3,0
+243,11,I,12210,E Mcgilvra St & 42nd Ave E,1,PM,1.4,0,1.5,17,0
+243,11,O,1110,Pine St & 5th Ave,2,PM,0.8,1.5,5.6,9.9,17.6
+243,11,I,12220,42nd Ave E & E Lynn St,2,PM,0.1,0,1.5,0.6,0
+243,11,I,12230,42nd Ave E & E Newton St,3,PM,0.2,0,1.7,2.6,0
+243,11,O,1120,Pine St & 4th Ave,3,PM,2.3,4.5,3.3,27.1,54.2
+243,11,O,1180,Pike St & 4th Ave,4,PM,7.8,0.8,10.3,93.2,9.7
+243,11,I,12240,42nd Ave E & E Madison St,4,PM,1,0,2.7,11.8,0.4
+243,11,I,12250,E Madison St & 41st Ave E,5,PM,1.6,0,4.2,19.2,0.4
+243,11,O,1190,Pike St & 6th Ave,5,PM,2.8,0.1,12.9,33.6,1.4
+243,11,I,12260,E Madison St & E Garfield St,6,PM,1,0,5.2,11.4,0
+243,11,O,1195,Pike St & 7th Ave,6,PM,2,0.3,14.7,24.1,3.2
+243,11,I,12270,E Madison St & 38th Ave E,7,PM,0.3,0,5.4,3.2,0.4
+243,11,O,11133,Pike St & Minor Ave,7,PM,1,1.8,13.6,11.8,21.7
+243,11,O,13460,Bellevue Ave & E Olive St,8,PM,1,1.9,13,12.4,23.2
+243,11,I,12280,E Madison St & 36th Ave E,8,PM,0.2,0,5.6,2.7,0.4
+243,11,I,12290,E Madison St & 34th Ave E,9,PM,0.1,0,5.6,0.8,0.3
+243,11,O,29268,E Olive Way & Summit Ave E,9,PM,1.5,1.9,12.6,17.5,22.2
+243,11,I,12310,E Madison St & Lake Washington Blvd,10,PM,1.8,0.3,7.4,19.3,2.8
+243,11,O,29270,E John St & Broadway  E - Bay 1,10,PM,7.3,3.3,17,80.2,36.6
+243,11,I,120,E Madison St & Martin L King Jr Way E,11,PM,1.4,1.1,7.6,14.9,11.7
+243,11,O,29277,E John St & 12th Ave E,11,PM,0.3,0.7,16.6,3.4,8.1
+243,11,O,29273,E John St & 15th Ave E,12,PM,0.5,5.5,11.3,6.5,65.4
+243,11,I,12340,E Madison St & 25th Ave E,12,PM,0.4,0.2,7.8,4.7,2.5
+243,11,O,29274,E Thomas St & 16th Ave E,13,PM,0.3,0.8,10.9,3.8,9.4
+243,11,I,29258,E John St & 22nd Ave E,13,PM,1.5,0.8,8.4,17.4,9.8
+243,11,O,29275,E Thomas St & 19th Ave E,14,PM,0.2,1.6,9.5,2.3,19
+243,11,I,29259,E Thomas St & 19th Ave E,14,PM,1,0.2,9.1,11.7,2.6
+243,11,I,29260,E Thomas St & 16th Ave E,15,PM,0.4,0.5,9,4.2,6
+243,11,O,29276,E John St & 22nd Ave E,15,PM,0.8,2.4,7.9,9.6,29.2
+243,11,I,29261,E John St & 15th Ave E,16,PM,3.9,0.7,12.2,47.1,8.4
+243,11,O,109,E Madison St & 24th Ave E,16,PM,0.6,0.7,7.9,7.4,7.8
+243,11,O,111,E Madison St & Martin L King Jr Way E,17,PM,0.9,1.2,7.6,11.3,14.7
+243,11,I,29301,E John St & 12th Ave E,17,PM,0.3,0.4,12,3,5.1
+243,11,I,29262,E John St & Broadway  E - Bay 2,18,PM,1.2,5.5,7.8,14.9,65.6
+243,11,O,12390,E Madison St & 29th Ave E,18,PM,0.3,0.5,7.3,3,5.9
+243,11,I,29266,E Olive Way & Summit Ave E,19,PM,0.9,1.2,7.5,10.7,14.1
+243,11,O,12400,E Madison St & Lake Washington Blvd,19,PM,0.3,0.9,6.7,3.8,10.9
+243,11,I,13441,Bellevue Ave & E Olive Way,20,PM,0.4,0.7,7.2,5,8.8
+243,11,O,12410,E Madison St & 33rd Ave E,20,PM,0,0.3,6.5,0.4,3.6
+243,11,O,12420,E Madison St & 36th Ave E,21,PM,0,0.3,6.2,0.1,3.3
+243,11,I,11100,E Pine St & Bellevue Ave,21,PM,0.7,0.8,7.1,8.4,9
+243,11,I,1085,Pine St & 9th Ave,22,PM,0,1.5,5.7,0,17.4
+243,11,O,12430,E Madison St & 38th Ave E,22,PM,0,0.4,5.8,0,5.3
+243,11,O,12440,E Madison St & 39th Ave E,23,PM,0,0.2,5.6,0,2.4
+243,11,O,12450,E Madison St & 41st Ave E,24,PM,0,1.7,3.9,0.2,20.4
+243,11,O,12460,43rd Ave E & E Blaine St,25,PM,0,0.4,3.6,0,4.7
+243,11,O,12470,43rd Ave E & E Madison St,26,PM,0.1,0.7,2.9,0.7,8.8
+243,11,O,12480,43rd Ave E & E Lynn St,27,PM,0,0.2,2.7,0,2.6
+243,11,O,12210,E Mcgilvra St & 42nd Ave E,28,PM,0.1,2.7,0,0.8,32.9
+243,11,O,1085,Pine St & 9th Ave,1,XEV,0.2,0,3.3,2.2,0
+243,11,I,12210,E Mcgilvra St & 42nd Ave E,1,XEV,1.3,0,1.3,11.5,0
+243,11,O,1110,Pine St & 5th Ave,2,XEV,0.5,0.5,3.3,5.1,5.4
+243,11,I,12220,42nd Ave E & E Lynn St,2,XEV,0,0,1.3,0.1,0
+243,11,I,12230,42nd Ave E & E Newton St,3,XEV,0,0,1.3,0.2,0
+243,11,O,1120,Pine St & 4th Ave,3,XEV,0.9,2,2.3,8.4,18.3
+243,11,O,1180,Pike St & 4th Ave,4,XEV,4,0.4,5.8,35.6,3.8
+243,11,I,12240,42nd Ave E & E Madison St,4,XEV,0.5,0,1.8,3.6,0.1
+243,11,I,12250,E Madison St & 41st Ave E,5,XEV,0.9,0.1,2.5,7.1,0.5
+243,11,O,1190,Pike St & 6th Ave,5,XEV,1.1,0,6.8,9.9,0.4
+243,11,I,12260,E Madison St & E Garfield St,6,XEV,0.2,0,2.8,1.8,0
+243,11,O,1195,Pike St & 7th Ave,6,XEV,1.1,0.1,7.8,9.7,1.2
+243,11,I,12270,E Madison St & 38th Ave E,7,XEV,0.1,0,2.8,0.6,0
+243,11,O,11133,Pike St & Minor Ave,7,XEV,0.7,1.1,7.3,5.9,10.3
+243,11,O,13460,Bellevue Ave & E Olive St,8,XEV,0.4,1.1,6.6,3.7,9.8
+243,11,I,12280,E Madison St & 36th Ave E,8,XEV,0.1,0,2.9,0.4,0
+243,11,I,12290,E Madison St & 34th Ave E,9,XEV,0,0,2.9,0.1,0.3
+243,11,O,29268,E Olive Way & Summit Ave E,9,XEV,0.8,1,6.4,7.2,9.3
+243,11,I,12310,E Madison St & Lake Washington Blvd,10,XEV,0.5,0.1,3.3,4.7,0.8
+243,11,O,29270,E John St & Broadway  E - Bay 1,10,XEV,3.8,1.6,8.6,37.9,16.4
+243,11,I,120,E Madison St & Martin L King Jr Way E,11,XEV,1,0.3,3.9,8.8,3
+243,11,O,29277,E John St & 12th Ave E,11,XEV,0.2,0.4,8.4,2.4,4
+243,11,O,29273,E John St & 15th Ave E,12,XEV,0.3,2.9,5.8,3,29.1
+243,11,I,12340,E Madison St & 25th Ave E,12,XEV,0.3,0.1,4.1,2.4,1.3
+243,11,O,29274,E Thomas St & 16th Ave E,13,XEV,0.2,0.5,5.6,1.8,4.3
+243,11,I,29258,E John St & 22nd Ave E,13,XEV,0.7,0.5,4.3,6.3,4.3
+243,11,O,29275,E Thomas St & 19th Ave E,14,XEV,0.1,0.7,5,0.5,6
+243,11,I,29259,E Thomas St & 19th Ave E,14,XEV,0.3,0.2,4.5,3,1.5
+243,11,I,29260,E Thomas St & 16th Ave E,15,XEV,0.2,0.3,4.4,1.7,2.8
+243,11,O,29276,E John St & 22nd Ave E,15,XEV,0.1,1.4,3.7,1.2,12.4
+243,11,I,29261,E John St & 15th Ave E,16,XEV,1.8,0.4,5.8,16.4,3.3
+243,11,O,109,E Madison St & 24th Ave E,16,XEV,0.1,0.5,3.4,1.3,4.4
+243,11,O,111,E Madison St & Martin L King Jr Way E,17,XEV,0.2,0.5,3.1,1.7,4.7
+243,11,I,29301,E John St & 12th Ave E,17,XEV,0.1,0.2,5.8,1.2,1.8
+243,11,I,29262,E John St & Broadway  E - Bay 2,18,XEV,0.6,2.3,4.1,5.6,20.3
+243,11,O,12390,E Madison St & 29th Ave E,18,XEV,0.1,0.2,3,0.8,1.4
+243,11,I,29266,E Olive Way & Summit Ave E,19,XEV,0.4,0.8,3.8,3.8,7
+243,11,O,12400,E Madison St & Lake Washington Blvd,19,XEV,0.1,0.4,2.8,1.2,3.3
+243,11,I,13441,Bellevue Ave & E Olive Way,20,XEV,0.2,0.5,3.5,2.1,4.8
+243,11,O,12410,E Madison St & 33rd Ave E,20,XEV,0,0.1,2.7,0,0.5
+243,11,O,12420,E Madison St & 36th Ave E,21,XEV,0,0.1,2.7,0.1,0.5
+243,11,I,11100,E Pine St & Bellevue Ave,21,XEV,0.5,0.4,3.6,4.1,3.7
+243,11,I,1085,Pine St & 9th Ave,22,XEV,0,0.6,3,0,5.4
+243,11,O,12430,E Madison St & 38th Ave E,22,XEV,0,0,2.6,0,0.4
+243,11,O,12440,E Madison St & 39th Ave E,23,XEV,0,0,2.6,0,0.2
+243,11,O,12450,E Madison St & 41st Ave E,24,XEV,0,0.4,2.2,0.1,3.7
+243,11,O,12460,43rd Ave E & E Blaine St,25,XEV,0,0.2,2,0,1.6
+243,11,O,12470,43rd Ave E & E Madison St,26,XEV,0.1,0.4,1.7,0.5,3.6
+243,11,O,12480,43rd Ave E & E Lynn St,27,XEV,0,0.1,1.6,0,0.7
+243,11,O,12210,E Mcgilvra St & 42nd Ave E,28,XEV,0,1.6,0,0.1,14.4
+243,11,O,1085,Pine St & 9th Ave,1,XNT,0.1,0,2,1.3,0
+243,11,I,12210,E Mcgilvra St & 42nd Ave E,1,XNT,0.7,0,0.7,5.4,0
+243,11,O,1110,Pine St & 5th Ave,2,XNT,0.1,0.3,1.9,1,2.7
+243,11,I,12220,42nd Ave E & E Lynn St,2,XNT,0,0,0.7,0,0
+243,11,I,12230,42nd Ave E & E Newton St,3,XNT,0,0,0.8,0,0
+243,11,O,1120,Pine St & 4th Ave,3,XNT,0.7,1.1,1.5,6.9,11
+243,11,O,1180,Pike St & 4th Ave,4,XNT,2.3,0.3,3.5,22.8,2.7
+243,11,I,12240,42nd Ave E & E Madison St,4,XNT,0.3,0,1.1,2.7,0
+243,11,I,12250,E Madison St & 41st Ave E,5,XNT,0.1,0,1.2,1.1,0.1
+243,11,O,1190,Pike St & 6th Ave,5,XNT,0.5,0,3.9,4.8,0.3
+243,11,I,12260,E Madison St & E Garfield St,6,XNT,0.1,0,1.3,0.7,0
+243,11,O,1195,Pike St & 7th Ave,6,XNT,0.7,0.1,4.5,6.7,0.6
+243,11,I,12270,E Madison St & 38th Ave E,7,XNT,0,0,1.3,0.2,0
+243,11,O,11133,Pike St & Minor Ave,7,XNT,0.4,0.5,4.4,3.5,5
+243,11,O,13460,Bellevue Ave & E Olive St,8,XNT,0.3,0.6,4.1,3.3,5.8
+243,11,I,12280,E Madison St & 36th Ave E,8,XNT,0,0,1.3,0.1,0
+243,11,I,12290,E Madison St & 34th Ave E,9,XNT,0,0,1.3,0,0
+243,11,O,29268,E Olive Way & Summit Ave E,9,XNT,0.6,0.6,4.1,6.1,5.6
+243,11,I,12310,E Madison St & Lake Washington Blvd,10,XNT,0.1,0,1.4,0.9,0.3
+243,11,O,29270,E John St & Broadway  E - Bay 1,10,XNT,2.5,1.5,5.4,22.9,13.5
+243,11,I,120,E Madison St & Martin L King Jr Way E,11,XNT,0.5,0.1,1.9,4.9,0.6
+243,11,O,29277,E John St & 12th Ave E,11,XNT,0.1,0.3,5.2,0.7,2.5
+243,11,O,29273,E John St & 15th Ave E,12,XNT,0.2,1.9,3.5,1.4,17
+243,11,I,12340,E Madison St & 25th Ave E,12,XNT,0.1,0,1.9,0.6,0.1
+243,11,O,29274,E Thomas St & 16th Ave E,13,XNT,0.1,0.3,3.5,0.8,3.2
+243,11,I,29258,E John St & 22nd Ave E,13,XNT,0.3,0.2,2,2.8,1.7
+243,11,O,29275,E Thomas St & 19th Ave E,14,XNT,0,0.5,3.1,0.2,4.5
+243,11,I,29259,E Thomas St & 19th Ave E,14,XNT,0.1,0,2.1,1.3,0.1
+243,11,I,29260,E Thomas St & 16th Ave E,15,XNT,0.1,0.1,2.1,0.5,0.8
+243,11,O,29276,E John St & 22nd Ave E,15,XNT,0,1,2.1,0.4,9.8
+243,11,I,29261,E John St & 15th Ave E,16,XNT,1.4,0.2,3.4,12.8,1.7
+243,11,O,109,E Madison St & 24th Ave E,16,XNT,0,0.4,1.8,0.4,3.6
+243,11,O,111,E Madison St & Martin L King Jr Way E,17,XNT,0.1,0.4,1.5,0.6,4
+243,11,I,29301,E John St & 12th Ave E,17,XNT,0.1,0.1,3.4,0.7,0.8
+243,11,I,29262,E John St & Broadway  E - Bay 2,18,XNT,0.4,1.4,2.3,3.2,13
+243,11,O,12390,E Madison St & 29th Ave E,18,XNT,0,0.1,1.4,0,0.7
+243,11,I,29266,E Olive Way & Summit Ave E,19,XNT,0.2,0.4,2,2.1,3.7
+243,11,O,12400,E Madison St & Lake Washington Blvd,19,XNT,0,0.2,1.3,0.4,1.8
+243,11,I,13441,Bellevue Ave & E Olive Way,20,XNT,0.2,0.2,2,1.5,2
+243,11,O,12410,E Madison St & 33rd Ave E,20,XNT,0,0,1.3,0,0.3
+243,11,O,12420,E Madison St & 36th Ave E,21,XNT,0,0,1.2,0,0.2
+243,11,I,11100,E Pine St & Bellevue Ave,21,XNT,0.3,0.2,2.1,2.7,1.5
+243,11,I,1085,Pine St & 9th Ave,22,XNT,0,0.2,1.9,0,2.2
+243,11,O,12430,E Madison St & 38th Ave E,22,XNT,0,0,1.2,0,0.1
+243,11,O,12440,E Madison St & 39th Ave E,23,XNT,0,0,1.2,0,0.1
+243,11,O,12450,E Madison St & 41st Ave E,24,XNT,0,0.2,1,0,2.1
+243,11,O,12460,43rd Ave E & E Blaine St,25,XNT,0,0.1,0.9,0,0.7
+243,11,O,12470,43rd Ave E & E Madison St,26,XNT,0,0.1,0.8,0.3,1.2
+243,11,O,12480,43rd Ave E & E Lynn St,27,XNT,0,0.1,0.8,0,0.8
+243,11,O,12210,E Mcgilvra St & 42nd Ave E,28,XNT,0.1,0.9,0,1,8.8

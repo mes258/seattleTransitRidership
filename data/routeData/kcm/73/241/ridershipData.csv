@@ -1,0 +1,311 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,73,I,38920,15th Ave NE & NE 123rd St,8,AM,1.1,0,6.6,7.5,0.3
+241,73,I,38920,15th Ave NE & NE 123rd St,8,MID,0.5,0,4.6,3.9,0.2
+241,73,I,38920,15th Ave NE & NE 123rd St,8,PM,0.3,0,4.2,1.7,0.2
+241,73,I,38920,15th Ave NE & NE 123rd St,8,XEV,0.2,0,1.7,0.7,0.1
+241,73,I,38920,15th Ave NE & NE 123rd St,8,XNT,0.1,0,0.8,0.1,0
+241,73,O,39250,15th Ave NE & NE 125th St,27,AM,0.1,0.1,1.2,0.4,0.8
+241,73,O,39250,15th Ave NE & NE 125th St,27,MID,0.1,0.2,3,0.8,1.5
+241,73,O,39250,15th Ave NE & NE 125th St,27,PM,0.2,0.6,5.7,1.3,3.9
+241,73,O,39250,15th Ave NE & NE 125th St,27,XEV,0.1,0.2,2.5,0.3,0.6
+241,73,O,39250,15th Ave NE & NE 125th St,27,XNT,0.1,0.1,1.1,0.2,0.1
+241,73,O,9582,U District Station - Bay 5,6,AM,0.3,0.1,1.5,1.6,0.3
+241,73,O,9582,U District Station - Bay 5,6,MID,1.4,0.2,4.5,10,1.6
+241,73,O,9582,U District Station - Bay 5,6,PM,4.4,0.8,17.4,30.8,5.4
+241,73,O,9582,U District Station - Bay 5,6,XEV,2.7,0.2,7.1,8.1,0.7
+241,73,O,9582,U District Station - Bay 5,6,XNT,1.2,0.1,2.8,2.3,0.2
+241,73,I,38840,15th Ave NE & NE 143rd St,2,AM,2.5,0,3.3,17.2,0.1
+241,73,I,38840,15th Ave NE & NE 143rd St,2,MID,1.1,0,2.5,9.1,0.1
+241,73,I,38840,15th Ave NE & NE 143rd St,2,PM,1,0,3.2,6,0
+241,73,I,38840,15th Ave NE & NE 143rd St,2,XEV,0.6,0,1.1,1.7,0
+241,73,I,38840,15th Ave NE & NE 143rd St,2,XNT,0.3,0,0.6,0.5,0
+241,73,O,23561,Roosevelt Station - Bay 3,14,AM,0.7,1.1,2.5,4.4,6.4
+241,73,O,23561,Roosevelt Station - Bay 3,14,MID,1.4,0.7,5.2,9.6,4.7
+241,73,O,23561,Roosevelt Station - Bay 3,14,PM,3.9,1.9,16.5,27.3,13.3
+241,73,O,23561,Roosevelt Station - Bay 3,14,XEV,2.2,0.8,6.5,6.6,2.5
+241,73,O,23561,Roosevelt Station - Bay 3,14,XNT,1.2,0.3,2.5,2.3,0.6
+241,73,O,37353,University Way NE & NE Ravenna Blvd,10,AM,0.4,0.1,2.8,2.4,0.4
+241,73,O,37353,University Way NE & NE Ravenna Blvd,10,MID,0.2,0.2,4.5,1.3,1.7
+241,73,O,37353,University Way NE & NE Ravenna Blvd,10,PM,0.2,0.9,14.9,1.6,6.5
+241,73,O,37353,University Way NE & NE Ravenna Blvd,10,XEV,0.2,0.5,5.1,0.5,1.5
+241,73,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,1,AM,0.2,0,0.3,1.3,0
+241,73,O,39240,15th Ave NE & NE 123rd St,26,AM,0,0.1,1.2,0.2,0.6
+241,73,O,37353,University Way NE & NE Ravenna Blvd,10,XNT,0.1,0.3,1.8,0.2,0.6
+241,73,O,39240,15th Ave NE & NE 123rd St,26,MID,0.1,0.4,3,0.8,2.5
+241,73,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,1,MID,0.3,0,0.5,2.4,0
+241,73,O,39240,15th Ave NE & NE 123rd St,26,PM,0.1,1.3,6,0.8,9
+241,73,O,39240,15th Ave NE & NE 123rd St,26,XEV,0.1,0.4,2.6,0.4,1.1
+241,73,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,1,PM,1,0,1.1,7.2,0
+241,73,O,39240,15th Ave NE & NE 123rd St,26,XNT,0.1,0.2,1.2,0.1,0.3
+241,73,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,1,XEV,0.9,0,0.9,2.7,0
+241,73,I,38236,Lake City Way NE & 14th Ave NE,17,AM,0.6,0,11.5,3.9,0.2
+241,73,I,38236,Lake City Way NE & 14th Ave NE,17,MID,0.5,0,8.2,4.1,0.2
+241,73,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,1,XNT,0.2,0,0.2,0.4,0
+241,73,I,38236,Lake City Way NE & 14th Ave NE,17,PM,0.3,0.1,4.9,1.8,0.7
+241,73,I,38236,Lake City Way NE & 14th Ave NE,17,XEV,0.2,0,2.3,0.7,0
+241,73,I,38236,Lake City Way NE & 14th Ave NE,17,XNT,0.1,0,0.9,0.1,0
+241,73,O,39170,15th Ave NE & NE 103rd St,22,AM,0,0,1.7,0.1,0.1
+241,73,O,39170,15th Ave NE & NE 103rd St,22,MID,0,0.1,4.2,0.1,0.4
+241,73,O,39170,15th Ave NE & NE 103rd St,22,PM,0.1,0.3,10.6,0.4,1.8
+241,73,O,39170,15th Ave NE & NE 103rd St,22,XEV,0,0.1,4.4,0,0.3
+241,73,O,39170,15th Ave NE & NE 103rd St,22,XNT,0,0,1.9,0,0
+241,73,O,39160,15th Ave NE & NE 100th St,21,AM,0,0.1,1.7,0,0.3
+241,73,O,39160,15th Ave NE & NE 100th St,21,MID,0.1,0.1,4.3,0.5,0.6
+241,73,O,39160,15th Ave NE & NE 100th St,21,PM,0.1,0.6,10.8,0.5,4.2
+241,73,O,39160,15th Ave NE & NE 100th St,21,XEV,0,0.1,4.4,0,0.3
+241,73,O,39160,15th Ave NE & NE 100th St,21,XNT,0,0,1.9,0,0
+241,73,O,39190,15th Ave NE & NE Northgate Way,23,AM,0,0.1,1.7,0,0.3
+241,73,O,39190,15th Ave NE & NE Northgate Way,23,MID,0,0.4,3.9,0.2,2.5
+241,73,O,39190,15th Ave NE & NE Northgate Way,23,PM,0,0.9,9.7,0.3,6.4
+241,73,O,39190,15th Ave NE & NE Northgate Way,23,XEV,0,0.3,4,0,0.9
+241,73,O,39190,15th Ave NE & NE Northgate Way,23,XNT,0,0.2,1.7,0,0.3
+241,73,O,82230,NE 145th St & 15th Ave NE,33,AM,0,0.4,0.6,0.2,2.3
+241,73,O,82230,NE 145th St & 15th Ave NE,33,MID,0,0.7,1.6,0.2,4.6
+241,73,O,82230,NE 145th St & 15th Ave NE,33,PM,0.4,1.4,1.4,2.9,10.1
+241,73,O,82230,NE 145th St & 15th Ave NE,33,XEV,0,0.5,0.6,0,1.5
+241,73,O,82230,NE 145th St & 15th Ave NE,33,XNT,0.2,0.5,0.2,0.4,0.9
+241,73,O,39320,15th Ave NE & NE 143rd St,32,AM,0,0.1,1,0,0.8
+241,73,I,23421,Roosevelt Station - Bay 4,20,AM,0.7,1.6,10.7,4.9,11.4
+241,73,O,39320,15th Ave NE & NE 143rd St,32,MID,0,0.4,2.2,0,2.9
+241,73,I,23421,Roosevelt Station - Bay 4,20,MID,0.8,1.2,8.1,5.6,8.4
+241,73,O,39320,15th Ave NE & NE 143rd St,32,PM,0,1.6,2.4,0,11.1
+241,73,I,23421,Roosevelt Station - Bay 4,20,PM,0.4,0.8,4.5,2.7,5.6
+241,73,O,39320,15th Ave NE & NE 143rd St,32,XEV,0,0.8,1,0,2.4
+241,73,I,23421,Roosevelt Station - Bay 4,20,XEV,0.2,0.4,2.2,0.7,1.2
+241,73,O,39320,15th Ave NE & NE 143rd St,32,XNT,0,0.3,0.4,0,0.5
+241,73,I,23421,Roosevelt Station - Bay 4,20,XNT,0.3,0.2,1.1,0.5,0.3
+241,73,O,39270,15th Ave NE & NE 130th St,29,AM,0,0,1.1,0,0
+241,73,O,39270,15th Ave NE & NE 130th St,29,MID,0,0.1,2.9,0,0.4
+241,73,O,39270,15th Ave NE & NE 130th St,29,PM,0,0.1,5.4,0,0.8
+241,73,O,37352,University Way NE & NE 55th St,9,AM,0.5,0.1,2.5,3.2,0.7
+241,73,O,39270,15th Ave NE & NE 130th St,29,XEV,0,0.1,2.4,0,0.4
+241,73,O,37352,University Way NE & NE 55th St,9,MID,0.3,0.5,4.6,2.3,3.6
+241,73,O,39270,15th Ave NE & NE 130th St,29,XNT,0,0.1,1.1,0,0.1
+241,73,O,37352,University Way NE & NE 55th St,9,PM,0.3,2.1,15.6,2.1,14.6
+241,73,O,37352,University Way NE & NE 55th St,9,XEV,0.2,1.5,5.4,0.7,4.4
+241,73,O,37352,University Way NE & NE 55th St,9,XNT,0.1,0.9,2,0.2,1.8
+241,73,O,39100,15th Ave NE & NE 85th St,18,AM,0.1,0.1,2,0.3,0.4
+241,73,O,39100,15th Ave NE & NE 85th St,18,MID,0.2,0.3,4.6,1.3,2
+241,73,O,39100,15th Ave NE & NE 85th St,18,PM,0.2,0.8,13.1,1.5,5.9
+241,73,I,38237,Lake City Way NE & NE 75th St,18,AM,0.1,0,11.6,1,0.1
+241,73,O,39100,15th Ave NE & NE 85th St,18,XEV,0.1,0.3,5.3,0.2,0.9
+241,73,I,38237,Lake City Way NE & NE 75th St,18,MID,0.1,0.2,8.5,0.8,1.1
+241,73,O,39100,15th Ave NE & NE 85th St,18,XNT,0,0.2,2.3,0,0.3
+241,73,I,38237,Lake City Way NE & NE 75th St,18,PM,0.1,0.2,5,0.9,1.4
+241,73,I,38237,Lake City Way NE & NE 75th St,18,XEV,0.1,0,2.3,0.2,0.1
+241,73,I,38237,Lake City Way NE & NE 75th St,18,XNT,0,0,0.9,0,0
+241,73,I,38850,15th Ave NE & NE 140th St,3,AM,0.2,0,3.5,1.7,0
+241,73,I,38850,15th Ave NE & NE 140th St,3,MID,0.2,0,2.7,1.6,0.2
+241,73,I,38850,15th Ave NE & NE 140th St,3,PM,0.2,0.1,3.3,1,0.3
+241,73,I,38850,15th Ave NE & NE 140th St,3,XEV,0,0,1.2,0.1,0
+241,73,I,38850,15th Ave NE & NE 140th St,3,XNT,0,0,0.6,0,0
+241,73,O,39310,15th Ave NE & NE 140th St,31,AM,0,0,1.1,0,0.2
+241,73,O,39310,15th Ave NE & NE 140th St,31,MID,0,0,2.6,0,0.3
+241,73,O,39310,15th Ave NE & NE 140th St,31,PM,0,0.2,4,0.1,1.7
+241,73,O,39310,15th Ave NE & NE 140th St,31,XEV,0,0.2,1.8,0,0.5
+241,73,O,39310,15th Ave NE & NE 140th St,31,XNT,0,0.4,0.6,0,0.8
+241,73,I,38910,15th Ave NE & NE 125th St,7,AM,0.6,0.3,5.5,4.3,2
+241,73,I,38910,15th Ave NE & NE 125th St,7,MID,0.6,0.2,4.2,4.6,1.6
+241,73,I,38910,15th Ave NE & NE 125th St,7,PM,0.6,0.2,4,3.3,1.2
+241,73,I,38910,15th Ave NE & NE 125th St,7,XEV,0.2,0.1,1.5,0.7,0.2
+241,73,I,38910,15th Ave NE & NE 125th St,7,XNT,0.1,0.1,0.7,0.2,0.1
+241,73,I,38950,15th Ave NE & NE 115th St,10,AM,1.2,0.1,8.3,8.2,0.7
+241,73,I,38950,15th Ave NE & NE 115th St,10,MID,1,0.1,6,8.3,0.5
+241,73,I,38950,15th Ave NE & NE 115th St,10,PM,0.5,0.1,4.7,2.9,0.5
+241,73,I,38950,15th Ave NE & NE 115th St,10,XEV,0.2,0,2,0.6,0.1
+241,73,I,38950,15th Ave NE & NE 115th St,10,XNT,0.1,0.1,0.8,0.2,0.1
+241,73,I,9133,University Way NE & NE 45th St,28,AM,0.1,1.4,11.3,1,9.6
+241,73,I,9133,University Way NE & NE 45th St,28,MID,0.6,1.3,9.4,3.9,9
+241,73,I,9133,University Way NE & NE 45th St,28,PM,0.2,0.8,3.6,1.4,5.9
+241,73,I,9133,University Way NE & NE 45th St,28,XEV,0.1,0.5,1.7,0.3,1.4
+241,73,I,9133,University Way NE & NE 45th St,28,XNT,0.1,0.2,0.9,0.1,0.3
+241,73,O,9584,University Way NE & NE 45th St,7,AM,0.3,0,1.7,1.7,0.1
+241,73,O,9584,University Way NE & NE 45th St,7,MID,0.7,0.3,4.9,5.2,2.3
+241,73,O,9584,University Way NE & NE 45th St,7,PM,2.2,1.1,18.4,15.2,7.6
+241,73,O,9584,University Way NE & NE 45th St,7,XEV,1.2,0.7,7.7,3.7,2
+241,73,O,9584,University Way NE & NE 45th St,7,XNT,0.6,0.2,3.2,1.2,0.4
+241,73,I,9132,University Way NE & NE 50th St,27,AM,0.4,0.4,12.5,2.8,2.7
+241,73,I,9132,University Way NE & NE 50th St,27,MID,0.9,1,10.1,6.3,6.9
+241,73,I,9132,University Way NE & NE 50th St,27,PM,0.5,1.1,4.2,3.4,8
+241,73,I,38890,15th Ave NE & NE 130th St,5,AM,0.2,0,4.9,1.7,0
+241,73,I,9132,University Way NE & NE 50th St,27,XEV,0.3,0.6,2.1,1,1.9
+241,73,I,38890,15th Ave NE & NE 130th St,5,MID,0.1,0,3.6,1,0
+241,73,I,9132,University Way NE & NE 50th St,27,XNT,0.2,0.4,1,0.3,0.7
+241,73,I,38890,15th Ave NE & NE 130th St,5,PM,0.1,0,3.6,0.3,0
+241,73,I,38890,15th Ave NE & NE 130th St,5,XEV,0,0,1.3,0.1,0
+241,73,I,38890,15th Ave NE & NE 130th St,5,XNT,0,0,0.7,0,0
+241,73,O,37350,University Way NE & NE 50th St,8,AM,0.6,0.2,2.1,3.7,1.1
+241,73,O,37350,University Way NE & NE 50th St,8,MID,0.8,0.9,4.8,5.3,6.3
+241,73,O,37350,University Way NE & NE 50th St,8,PM,1.2,2.4,17.3,8.6,16.5
+241,73,O,37350,University Way NE & NE 50th St,8,XEV,0.8,1.8,6.7,2.3,5.5
+241,73,O,37350,University Way NE & NE 50th St,8,XNT,0.5,0.8,2.9,0.9,1.5
+241,73,I,39070,15th Ave NE & NE 82nd St,16,AM,0.5,0,10.9,3.6,0.3
+241,73,I,39070,15th Ave NE & NE 82nd St,16,MID,0.3,0.2,7.8,2.7,1.8
+241,73,I,39070,15th Ave NE & NE 82nd St,16,PM,0.2,0.3,4.7,1.2,1.9
+241,73,I,23420,Roosevelt Way NE & NE 69th St,19,AM,0.2,0.2,11.6,1.4,1.6
+241,73,O,39230,15th Ave NE & NE 120th St,25,AM,0,0.2,1.3,0.1,1.1
+241,73,I,39070,15th Ave NE & NE 82nd St,16,XEV,0.1,0.1,2.1,0.3,0.2
+241,73,I,23420,Roosevelt Way NE & NE 69th St,19,MID,0.4,0.3,8.5,2.6,2.1
+241,73,O,39230,15th Ave NE & NE 120th St,25,MID,0,0.3,3.3,0.3,1.8
+241,73,I,39070,15th Ave NE & NE 82nd St,16,XNT,0,0,0.8,0,0
+241,73,I,23420,Roosevelt Way NE & NE 69th St,19,PM,0.2,0.3,4.9,1.2,2
+241,73,O,39230,15th Ave NE & NE 120th St,25,PM,0.1,1.3,7.2,0.4,9.2
+241,73,I,23420,Roosevelt Way NE & NE 69th St,19,XEV,0.1,0.1,2.3,0.3,0.3
+241,73,O,39230,15th Ave NE & NE 120th St,25,XEV,0,0.8,2.9,0.1,2.3
+241,73,I,23420,Roosevelt Way NE & NE 69th St,19,XNT,0.1,0,1,0.2,0
+241,73,O,39230,15th Ave NE & NE 120th St,25,XNT,0,0.2,1.2,0,0.4
+241,73,I,39050,15th Ave NE & NE 89th St,15,AM,0.8,0.3,10.5,5.3,1.8
+241,73,I,39050,15th Ave NE & NE 89th St,15,MID,0.7,0.1,7.7,5.7,0.6
+241,73,O,39290,15th Ave NE & NE 135th St,30,AM,0,0,1.1,0,0.2
+241,73,I,39050,15th Ave NE & NE 89th St,15,PM,0.1,0.3,4.8,0.8,1.8
+241,73,O,39290,15th Ave NE & NE 135th St,30,MID,0,0.2,2.7,0.1,1.6
+241,73,I,39050,15th Ave NE & NE 89th St,15,XEV,0.1,0.1,2.1,0.2,0.3
+241,73,O,39290,15th Ave NE & NE 135th St,30,PM,0,1.2,4.2,0,8.2
+241,73,I,39050,15th Ave NE & NE 89th St,15,XNT,0.1,0.1,0.9,0.1,0.1
+241,73,O,39290,15th Ave NE & NE 135th St,30,XEV,0,0.4,2,0,1.2
+241,73,O,39290,15th Ave NE & NE 135th St,30,XNT,0,0.2,0.9,0,0.3
+241,73,I,29240,NE Pacific St & 15th Ave NE,31,AM,0.1,3.2,2.6,0.3,18.9
+241,73,I,29240,NE Pacific St & 15th Ave NE,31,MID,0,3.8,1,0.3,30.3
+241,73,I,29240,NE Pacific St & 15th Ave NE,31,PM,0,0.8,0.5,0.1,5.7
+241,73,I,29240,NE Pacific St & 15th Ave NE,31,XEV,0,0.3,0.3,0,0.8
+241,73,I,29240,NE Pacific St & 15th Ave NE,31,XNT,0,0,0.3,0,0
+241,73,I,38900,15th Ave NE & NE 127th St,6,AM,0.4,0,5.2,2.6,0.1
+241,73,I,38900,15th Ave NE & NE 127th St,6,MID,0.3,0,3.8,2.1,0.3
+241,73,I,38900,15th Ave NE & NE 127th St,6,PM,0.1,0.1,3.6,0.7,0.3
+241,73,I,38900,15th Ave NE & NE 127th St,6,XEV,0,0,1.3,0.1,0
+241,73,O,23593,12th Ave NE & NE 75th St,16,AM,0,0.1,2.4,0.1,0.4
+241,73,I,38900,15th Ave NE & NE 127th St,6,XNT,0,0,0.7,0,0
+241,73,O,23593,12th Ave NE & NE 75th St,16,MID,0.1,0.2,5.1,0.5,1.7
+241,73,O,23593,12th Ave NE & NE 75th St,16,PM,0.2,1.1,15.3,1.1,7.7
+241,73,O,23593,12th Ave NE & NE 75th St,16,XEV,0.1,0.4,6.1,0.2,1.1
+241,73,O,23593,12th Ave NE & NE 75th St,16,XNT,0.2,0.3,2.5,0.3,0.5
+241,73,I,39030,15th Ave NE & NE 94th St,14,AM,0.6,0,10,3.9,0
+241,73,I,39030,15th Ave NE & NE 94th St,14,MID,0.4,0,7,3,0.3
+241,73,O,23580,12th Ave NE & NE 70th St,15,AM,0,0,2.5,0.1,0.2
+241,73,I,39030,15th Ave NE & NE 94th St,14,PM,0.1,0.1,4.9,0.8,0.6
+241,73,O,23580,12th Ave NE & NE 70th St,15,MID,0.1,0.1,5.2,0.6,0.6
+241,73,I,39030,15th Ave NE & NE 94th St,14,XEV,0.1,0,2.1,0.2,0
+241,73,O,23580,12th Ave NE & NE 70th St,15,PM,0.1,0.3,16.3,0.8,2.3
+241,73,I,39030,15th Ave NE & NE 94th St,14,XNT,0,0,0.8,0,0
+241,73,O,23580,12th Ave NE & NE 70th St,15,XEV,0.1,0.2,6.4,0.3,0.6
+241,73,O,23580,12th Ave NE & NE 70th St,15,XNT,0.2,0.1,2.7,0.4,0.2
+241,73,I,9142,University Way NE & NE 41st St,30,AM,0.1,2.3,6.1,0.5,16.1
+241,73,I,9142,University Way NE & NE 41st St,30,MID,0.2,2.9,4.2,1.2,20
+241,73,I,9142,University Way NE & NE 41st St,30,PM,0.1,1,1.3,0.7,7.1
+241,73,I,9142,University Way NE & NE 41st St,30,XEV,0,0.5,0.6,0.1,1.5
+241,73,I,9142,University Way NE & NE 41st St,30,XNT,0,0.2,0.3,0,0.4
+241,73,O,23540,12th Ave NE & NE 61st St,13,AM,0,0,2.8,0.1,0
+241,73,O,23540,12th Ave NE & NE 61st St,13,MID,0,0.1,4.5,0.3,0.4
+241,73,O,23540,12th Ave NE & NE 61st St,13,PM,0.1,0.5,14.5,0.7,3.5
+241,73,O,23540,12th Ave NE & NE 61st St,13,XEV,0.1,0.1,5.2,0.3,0.3
+241,73,O,23540,12th Ave NE & NE 61st St,13,XNT,0.1,0.2,1.7,0.1,0.3
+241,73,I,39010,15th Ave NE & NE 98th St,13,AM,0.4,0,9.4,2.9,0.1
+241,73,I,39010,15th Ave NE & NE 98th St,13,MID,0.2,0.1,6.7,1.9,0.8
+241,73,I,39010,15th Ave NE & NE 98th St,13,PM,0.1,0.2,4.9,0.8,1.4
+241,73,I,39010,15th Ave NE & NE 98th St,13,XEV,0,0,2.1,0.1,0
+241,73,I,39010,15th Ave NE & NE 98th St,13,XNT,0,0,0.9,0,0
+241,73,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,2,AM,0.8,0.1,1,4.6,0.6
+241,73,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,2,MID,0.6,0,1.1,4.4,0
+241,73,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,2,PM,3.6,0,4.7,25.3,0.3
+241,73,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,2,XEV,0.7,0,1.6,2.2,0
+241,73,I,38930,15th Ave NE & NE 120th St,9,AM,0.7,0.1,7.3,5.2,0.5
+241,73,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,2,XNT,0.3,0,0.5,0.5,0
+241,73,I,38930,15th Ave NE & NE 120th St,9,MID,0.4,0.1,5,3,0.6
+241,73,I,38990,15th Ave NE & NE 104th St,12,AM,0.2,0,9,1.4,0
+241,73,I,38930,15th Ave NE & NE 120th St,9,PM,0.2,0.1,4.3,1.2,0.3
+241,73,I,38990,15th Ave NE & NE 104th St,12,MID,0.2,0,6.6,1.5,0
+241,73,I,38930,15th Ave NE & NE 120th St,9,XEV,0.1,0,1.8,0.3,0.1
+241,73,I,38990,15th Ave NE & NE 104th St,12,PM,0.1,0,5,0.6,0.1
+241,73,I,38930,15th Ave NE & NE 120th St,9,XNT,0,0,0.8,0,0
+241,73,I,38990,15th Ave NE & NE 104th St,12,XEV,0,0,2,0.1,0
+241,73,I,38990,15th Ave NE & NE 104th St,12,XNT,0,0,0.8,0,0
+241,73,I,9134,U District Station - Bay 4,29,AM,0.1,3.1,8.3,0.7,21.5
+241,73,O,39080,15th Ave NE & NE 80th St,17,AM,0.1,0.5,2,0.7,3.2
+241,73,I,9134,U District Station - Bay 4,29,MID,0.2,2.7,6.9,1.7,18.9
+241,73,O,39080,15th Ave NE & NE 80th St,17,MID,0.1,0.5,4.7,1,3.8
+241,73,I,9134,U District Station - Bay 4,29,PM,0.1,1.5,2.2,0.7,10.5
+241,73,O,39080,15th Ave NE & NE 80th St,17,PM,0.3,1.9,13.7,1.9,13.2
+241,73,I,9134,U District Station - Bay 4,29,XEV,0,0.8,1,0.1,2.5
+241,73,O,39080,15th Ave NE & NE 80th St,17,XEV,0.3,0.8,5.5,0.8,2.5
+241,73,I,9134,U District Station - Bay 4,29,XNT,0,0.4,0.5,0,0.8
+241,73,O,39140,15th Ave NE & NE 95th St,20,AM,0,0.1,1.8,0,0.5
+241,73,O,39080,15th Ave NE & NE 80th St,17,XNT,0.2,0.4,2.4,0.3,0.7
+241,73,O,39140,15th Ave NE & NE 95th St,20,MID,0.1,0.2,4.3,0.4,1.3
+241,73,O,39140,15th Ave NE & NE 95th St,20,PM,0,0.8,11.3,0.2,5.9
+241,73,O,39140,15th Ave NE & NE 95th St,20,XEV,0,0.2,4.6,0,0.6
+241,73,O,39140,15th Ave NE & NE 95th St,20,XNT,0,0.1,1.9,0,0.2
+241,73,O,9561,NE Pacific St & University Way NE,4,AM,0,0,1,0,0
+241,73,O,9561,NE Pacific St & University Way NE,4,MID,0.3,0,2.4,2.1,0
+241,73,O,9561,NE Pacific St & University Way NE,4,PM,1.5,0,11.1,10.8,0
+241,73,O,9561,NE Pacific St & University Way NE,4,XEV,0.6,0,3.1,1.8,0.1
+241,73,I,16440,Roosevelt Station - Bay 5,21,AM,0.4,0.5,10.5,2.9,3.4
+241,73,O,9561,NE Pacific St & University Way NE,4,XNT,0.1,0,1,0.2,0
+241,73,I,16440,Roosevelt Station - Bay 5,21,MID,0.7,0.8,8,4.6,5.6
+241,73,I,16440,Roosevelt Station - Bay 5,21,PM,0.5,0.5,4.4,3.6,3.7
+241,73,I,16440,Roosevelt Station - Bay 5,21,XEV,0.5,0.3,2.3,1.4,0.8
+241,73,I,16440,Roosevelt Station - Bay 5,21,XNT,0.3,0.1,1.2,0.5,0.1
+241,73,O,39260,15th Ave NE & NE 127th St,28,AM,0,0,1.1,0,0.2
+241,73,O,39260,15th Ave NE & NE 127th St,28,MID,0,0.1,2.9,0.2,0.8
+241,73,O,39260,15th Ave NE & NE 127th St,28,PM,0,0.2,5.5,0.1,1.4
+241,73,O,39260,15th Ave NE & NE 127th St,28,XEV,0,0.1,2.5,0,0.2
+241,73,O,39260,15th Ave NE & NE 127th St,28,XNT,0,0.1,1.1,0,0.1
+241,73,O,39120,15th Ave NE & NE 90th St,19,AM,0,0.2,1.8,0,0.9
+241,73,O,39120,15th Ave NE & NE 90th St,19,MID,0.1,0.2,4.4,0.7,1.5
+241,73,O,39120,15th Ave NE & NE 90th St,19,PM,0.1,1.2,12.1,0.7,8.1
+241,73,O,39120,15th Ave NE & NE 90th St,19,XEV,0.1,0.6,4.7,0.2,1.9
+241,73,O,39120,15th Ave NE & NE 90th St,19,XNT,0,0.3,1.9,0,0.6
+241,73,O,39210,15th Ave NE & NE 115th St,24,AM,0,0.2,1.4,0.1,1.3
+241,73,O,39210,15th Ave NE & NE 115th St,24,MID,0,0.5,3.5,0.1,3.7
+241,73,O,39210,15th Ave NE & NE 115th St,24,PM,0.1,1.3,8.5,0.6,9.2
+241,73,O,39210,15th Ave NE & NE 115th St,24,XEV,0,0.5,3.6,0,1.5
+241,73,O,39210,15th Ave NE & NE 115th St,24,XNT,0,0.3,1.4,0,0.6
+241,73,O,9581,University Way NE & NE 41st St,5,AM,0.3,0,1.3,1.6,0
+241,73,O,9581,University Way NE & NE 41st St,5,MID,1,0.1,3.3,7.3,1
+241,73,O,9581,University Way NE & NE 41st St,5,PM,2.9,0.4,13.7,20.6,2.6
+241,73,O,9581,University Way NE & NE 41st St,5,XEV,1.8,0.2,4.7,5.4,0.6
+241,73,O,9581,University Way NE & NE 41st St,5,XNT,0.9,0.2,1.7,1.8,0.3
+241,73,I,38970,15th Ave NE & NE Northgate Way,11,AM,0.6,0.1,8.8,4,0.4
+241,73,I,38970,15th Ave NE & NE Northgate Way,11,MID,0.6,0.1,6.4,4.7,1
+241,73,I,38970,15th Ave NE & NE Northgate Way,11,PM,0.3,0.1,4.9,2,0.6
+241,73,I,38970,15th Ave NE & NE Northgate Way,11,XEV,0.1,0,2,0.4,0.1
+241,73,I,38970,15th Ave NE & NE Northgate Way,11,XNT,0.1,0.1,0.9,0.2,0.1
+241,73,I,38870,15th Ave NE & NE 135th St,4,AM,1.1,0,4.6,8,0
+241,73,I,38870,15th Ave NE & NE 135th St,4,MID,0.8,0,3.4,6.2,0.3
+241,73,I,38870,15th Ave NE & NE 135th St,4,PM,0.2,0.1,3.5,1.1,0.3
+241,73,I,38870,15th Ave NE & NE 135th St,4,XEV,0.1,0,1.2,0.3,0.1
+241,73,I,38870,15th Ave NE & NE 135th St,4,XNT,0.1,0.1,0.7,0.1,0.1
+241,73,I,98780,NE 143rd St & 17th Ave NE,1,AM,0.5,0,0.9,3.8,0.1
+241,73,I,98780,NE 143rd St & 17th Ave NE,1,MID,1.1,0,1.4,8.4,0
+241,73,I,98780,NE 143rd St & 17th Ave NE,1,PM,2.3,0,2.3,13.5,0
+241,73,I,98780,NE 143rd St & 17th Ave NE,1,XEV,0.7,0,0.7,2,0
+241,73,I,98780,NE 143rd St & 17th Ave NE,1,XNT,0.4,0,0.4,0.8,0
+241,73,O,98780,NE 143rd St & 17th Ave NE,34,AM,0,0,0.5,0,0.2
+241,73,O,98780,NE 143rd St & 17th Ave NE,34,MID,0,1.1,0.4,0,9.1
+241,73,O,98780,NE 143rd St & 17th Ave NE,34,PM,0,1.4,0,0,9.9
+241,73,O,98780,NE 143rd St & 17th Ave NE,34,XEV,0,0.6,0,0,1.7
+241,73,O,98780,NE 143rd St & 17th Ave NE,34,XNT,0,0.2,0,0,0.3
+241,73,I,29242,NE Pacific Pl & NE Pacific St,32,AM,0.3,3,0,1.9,17.8
+241,73,I,29242,NE Pacific Pl & NE Pacific St,32,MID,0.4,1.5,0,3.5,11.6
+241,73,I,29242,NE Pacific Pl & NE Pacific St,32,PM,0.2,0.6,0,1.2,4.5
+241,73,I,29242,NE Pacific Pl & NE Pacific St,32,XEV,0.2,0.5,0,0.6,1.5
+241,73,I,29242,NE Pacific Pl & NE Pacific St,32,XNT,0.2,0.4,0,0.3,0.8
+241,73,I,16465,NE Ravenna Blvd & Roosevelt Way NE,22,AM,0.2,0,10.7,1.5,0.2
+241,73,I,16465,NE Ravenna Blvd & Roosevelt Way NE,22,MID,0.3,0.2,8.1,2.1,1.3
+241,73,I,16465,NE Ravenna Blvd & Roosevelt Way NE,22,PM,0.2,0.2,4.4,1.2,1.2
+241,73,I,16465,NE Ravenna Blvd & Roosevelt Way NE,22,XEV,0,0.2,2.3,0.1,0.5
+241,73,I,16465,NE Ravenna Blvd & Roosevelt Way NE,22,XNT,0.1,0.1,1.2,0.1,0.1
+241,73,I,38024,University Way NE & NE 55th St,24,AM,1.5,0.2,12.5,10.4,1.7
+241,73,I,38024,University Way NE & NE 55th St,24,MID,1.6,0.3,10.2,11.1,1.9
+241,73,I,38024,University Way NE & NE 55th St,24,PM,0.7,0.4,4.9,5.1,3.1
+241,73,I,38024,University Way NE & NE 55th St,24,XEV,0.4,0.3,2.4,1.1,0.9
+241,73,I,38024,University Way NE & NE 55th St,24,XNT,0.1,0.2,1.2,0.2,0.4
+241,73,I,38022,University Way NE & NE Ravenna Blvd,23,AM,0.7,0.2,11.2,4.7,1.2
+241,73,I,38022,University Way NE & NE Ravenna Blvd,23,MID,0.9,0.1,8.8,6.1,1
+241,73,I,38022,University Way NE & NE Ravenna Blvd,23,PM,0.4,0.2,4.6,2.6,1.2
+241,73,I,38022,University Way NE & NE Ravenna Blvd,23,XEV,0.2,0.1,2.4,0.6,0.2
+241,73,I,38022,University Way NE & NE Ravenna Blvd,23,XNT,0.2,0.1,1.2,0.3,0.2
+241,73,O,29420,NE Pacific St & 15th Ave NE,3,AM,0.1,0.1,1,0.5,0.5
+241,73,O,29420,NE Pacific St & 15th Ave NE,3,MID,1,0,2.1,7.1,0
+241,73,O,29420,NE Pacific St & 15th Ave NE,3,PM,5,0.1,9.6,35,0.5
+241,73,O,29420,NE Pacific St & 15th Ave NE,3,XEV,1,0,2.6,3.1,0
+241,73,O,29420,NE Pacific St & 15th Ave NE,3,XNT,0.5,0,0.9,1,0

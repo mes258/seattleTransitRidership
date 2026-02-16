@@ -1,0 +1,54 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,303,I,16103,Aurora Village Transit Center - Bay 3,1,AM,4.8,0,4.8,29,0
+243,303,I,16160,Meridian Ave N & N 198th St,2,AM,0.3,0,5.2,1.9,0
+243,303,I,16170,Meridian Ave N & N 194th St,3,AM,0.4,0,5.5,2.2,0.1
+243,303,I,16180,Meridian Ave N & N 190th St,4,AM,0.3,0,5.8,1.5,0
+243,303,I,16200,Meridian Ave N & N 185th St,5,AM,0.5,0,6.3,2.9,0
+243,303,I,16220,Meridian Ave N & N 180th St,6,AM,1.3,0,7.6,7.7,0
+243,303,I,75756,N 175th St & Meridian Ave N,7,AM,2,0,9.5,12.1,0
+243,303,I,35319,Northgate Station - Bay 3,8,AM,9.5,0.9,18.1,56.7,5.1
+243,303,I,10210,Fairview Ave N & Mercer St,9,AM,0.3,1.9,16.7,1.7,11.4
+243,303,I,10225,Fairview Ave N & Thomas St,10,AM,0.2,1,15.8,1.3,6.2
+243,303,I,10240,Boren Ave & Virginia St,11,AM,0.4,0.7,15.5,2.1,4.1
+243,303,I,11075,Boren Ave & Seneca St,12,AM,0.1,5.3,10.3,0.4,31.8
+243,303,I,11085,Boren Ave & Madison St,13,AM,0,2.4,8,0.2,14.1
+243,303,I,11087,Boren Ave & Columbia St,14,AM,0,4.3,3.7,0.1,25.8
+243,303,I,12930,E Jefferson St & Broadway,15,AM,0.2,1.5,2.4,1.3,9.1
+243,303,I,12950,E Jefferson St & 12th Ave,16,AM,0.1,0.5,2,0.5,2.9
+243,303,I,12980,E Jefferson St & 17th Ave,17,AM,0.2,2.2,0,0.9,13
+243,303,O,12805,E Jefferson St & 18th Ave,1,PM,2,0.1,2.5,8,0.5
+243,303,O,12840,E Jefferson St & 12th Ave,2,PM,1.3,0.2,3.6,5.2,0.6
+243,303,O,12860,Jefferson St & Broadway,3,PM,1.6,0.2,5.1,6.5,0.8
+243,303,O,12880,Jefferson St & 9th Ave,4,PM,3.8,0.2,8.7,15.3,0.9
+243,303,O,41940,9th Ave & James St,5,PM,0.6,0.1,9.2,2.5,0.2
+243,303,O,41950,9th Ave & Columbia St,6,PM,0.8,0,10,3.1,0
+243,303,O,41955,9th Ave & Spring St,7,PM,4.5,0.2,14.3,17.9,0.6
+243,303,O,900,Virginia St & 9th Ave,8,PM,1.5,0.5,15.3,6,2
+243,303,O,10280,Fairview Ave & Denny Way,9,PM,0.8,0.3,15.8,3.1,1
+243,303,O,10305,Fairview Ave N & Harrison St,10,PM,5.7,0.7,20.8,22.7,2.6
+243,303,O,35319,Northgate Station - Bay 3,11,PM,0.8,11.5,10.1,3.1,45.8
+243,303,O,16680,Meridian Ave N & N 175th St,12,PM,0.1,2.6,10.4,0.2,7.8
+243,303,O,16700,Meridian Ave N & N 180th St,13,PM,0,1,9.3,0,3.1
+243,303,O,16720,Meridian Ave N & N 185th St,14,PM,0.1,0.7,8.7,0.3,2.1
+243,303,O,16740,Meridian Ave N & N 190th St,15,PM,0,0.4,8.3,0,1.3
+243,303,O,16750,Meridian Ave N & N 193rd St,16,PM,0,0.7,7.7,0.1,2
+243,303,O,16760,Meridian Ave N & N 198th St,17,PM,0,0.7,7,0,2.1
+243,303,O,16100,Aurora Village Transit Center - Bay 10,18,PM,0.3,7.3,0,0.8,21.8
+243,303,O,12805,E Jefferson St & 18th Ave,1,XEV,1,0,1.3,2,0
+243,303,O,12840,E Jefferson St & 12th Ave,2,XEV,0.5,0,1.8,0.9,0
+243,303,O,12860,Jefferson St & Broadway,3,XEV,0.4,0.2,2,0.8,0.3
+243,303,O,12880,Jefferson St & 9th Ave,4,XEV,4.2,0.1,6.2,8.4,0.2
+243,303,O,41940,9th Ave & James St,5,XEV,0.1,0,6.2,0.1,0
+243,303,O,41950,9th Ave & Columbia St,6,XEV,0.1,0,6.3,0.2,0
+243,303,O,41955,9th Ave & Spring St,7,XEV,1.6,0.1,7.8,3.2,0.2
+243,303,O,900,Virginia St & 9th Ave,8,XEV,0.4,0.3,7.8,0.7,0.6
+243,303,O,10280,Fairview Ave & Denny Way,9,XEV,0.3,0.2,7.9,0.5,0.3
+243,303,O,10305,Fairview Ave N & Harrison St,10,XEV,0.9,0.3,8.5,1.7,0.6
+243,303,O,35319,Northgate Station - Bay 3,11,XEV,0.3,5.7,3.1,0.6,11.4
+243,303,O,16680,Meridian Ave N & N 175th St,12,XEV,0,1.1,1.7,0,3.2
+243,303,O,16700,Meridian Ave N & N 180th St,13,XEV,0,0.1,1.5,0,0.4
+243,303,O,16720,Meridian Ave N & N 185th St,14,XEV,0,0.2,1.4,0,0.5
+243,303,O,16740,Meridian Ave N & N 190th St,15,XEV,0,0.1,1.3,0,0.3
+243,303,O,16750,Meridian Ave N & N 193rd St,16,XEV,0,0,1.3,0,0
+243,303,O,16760,Meridian Ave N & N 198th St,17,XEV,0,0,1.3,0,0
+243,303,O,16100,Aurora Village Transit Center - Bay 10,18,XEV,0.2,1.5,0,0.5,4.4

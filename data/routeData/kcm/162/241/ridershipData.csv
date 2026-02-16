@@ -1,0 +1,83 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,162,I,50712,W James St & Washington Ave N,20,AM,0.3,0.6,9.6,2.1,4.9
+241,162,O,361,2nd Ave & James St,5,PM,0.9,0.1,10.1,6.4,0.5
+241,162,O,58779,Kent Des Moines Rd & I-5 Ramp,8,PM,0.2,2.1,8.3,1.7,14.8
+241,162,I,361,2nd Ave & James St,32,AM,0,0.8,0.8,0.3,6.2
+241,162,I,62204,Canyon Dr SE & 94th Ave S,12,AM,0.3,0,8.2,2,0
+241,162,I,79248,4th Ave N & W Smith St,17,AM,0.1,0.1,9.1,0.4,0.9
+241,162,O,80580,W James St & Lincoln Ave N,16,PM,0.1,0.9,5.6,0.4,6
+241,162,I,57201,Kent Kangley Rd & 114th Ave SE,6,AM,0,0,4,0,0
+241,162,I,57201,Kent Kangley Rd & 114th Ave SE,6,XNT,0,0,3,0,0
+241,162,O,62228,Canyon Dr SE & 94th Ave S,22,PM,0.1,0.4,5.9,0.4,2.7
+241,162,I,60463,Kent Kangley Rd & 124th Ave SE,4,AM,0.6,0,2.4,4.1,0
+241,162,I,60463,Kent Kangley Rd & 124th Ave SE,4,XNT,0,0,2.5,0,0
+241,162,O,58785,W Meeker St & Frager Rd,9,PM,0,0.6,7.7,0,4.5
+241,162,I,62202,Canyon Dr SE & S 252nd St,11,AM,0.3,0,8,2.7,0
+241,162,I,997,6th Ave & Union St,28,AM,0,5.4,9.9,0.1,43.1
+241,162,I,50758,64th Ave S & W Meeker St,22,AM,1.5,0.2,12,11.7,1.6
+241,162,I,58781,W Meeker St & Frager Rd,26,AM,0.6,0,13.2,4.5,0.1
+241,162,I,1120,Pine St & 4th Ave,29,AM,0,6.2,3.7,0.3,49.8
+241,162,I,60469,Kent Kangley Rd & 108th Ave SE,9,AM,0.8,0.1,8.3,5.4,0.7
+241,162,I,60469,Kent Kangley Rd & 108th Ave SE,9,XNT,0.1,0,8.2,0.1,0
+241,162,I,59773,W James St & Lincoln Ave N,19,AM,0.7,0,10,5.4,0.3
+241,162,I,62198,SE 256th St & 101st Ave SE,10,AM,1.2,2.2,7.3,8.5,15.4
+241,162,I,62198,SE 256th St & 101st Ave SE,10,XNT,2.4,0.1,10.5,2.4,0.1
+241,162,I,50761,W Meeker St & 64th Ave S,23,AM,0.2,0,12.1,1.4,0.1
+241,162,I,60467,Kent Kangley Rd & 111th Ave SE,8,AM,3.7,0.1,7.6,25.6,0.6
+241,162,I,60467,Kent Kangley Rd & 111th Ave SE,8,XNT,5.1,0,8.1,5.1,0
+241,162,O,50772,64th Ave S & W Meeker St,13,PM,0.5,1.1,6.5,3.2,7.8
+241,162,I,62212,E Smith St & Jason Ave N,14,AM,0,0.2,8.2,0.3,1.2
+241,162,O,50720,W Meeker St & Russell Rd,10,PM,0,0,7.6,0,0.2
+241,162,I,62208,Canyon Dr SE & Alvord Ave,13,AM,0.1,0,8.4,0.9,0
+241,162,I,57455,Kent Sounder Station - Bay 5,15,AM,0,0,8.2,0.1,0.2
+241,162,O,57455,Kent Sounder Station - Bay 5,19,PM,2.6,1.9,5.7,18.4,13.6
+241,162,I,58782,I-5 Ramp & Kent Des Moines Rd,27,AM,2.5,0.4,15.3,20.1,3.5
+241,162,O,60473,Kent Kangley Rd & 111th Ave SE,26,PM,0.2,1.2,4.1,1.1,7.4
+241,162,O,60473,Kent Kangley Rd & 111th Ave SE,26,XEV,0.2,2.1,4.7,0.2,2.1
+241,162,O,62216,State Ave N & E Smith St,20,PM,0.6,0.1,6.2,4.1,0.8
+241,162,O,62230,Canyon Dr SE & S 252nd St,23,PM,0,0.1,5.9,0.2,0.8
+241,162,I,60461,Kent Kangley Rd & 127th Ave SE,3,AM,0,0,1.8,0.2,0
+241,162,O,62234,SE 256th St & 101st Ave SE,24,PM,1.1,1.2,5.6,6.4,7.4
+241,162,I,60461,Kent Kangley Rd & 127th Ave SE,3,XNT,0,0,2.5,0,0
+241,162,O,62234,SE 256th St & 101st Ave SE,24,XEV,1.5,2,6.3,1.5,2
+241,162,O,80600,W James St & 1st Ave N,18,PM,0,0.5,5,0.2,3.4
+241,162,I,60459,Kent Kangley Rd & 132nd Ave SE,2,AM,0.9,0,1.7,6.5,0.3
+241,162,I,60459,Kent Kangley Rd & 132nd Ave SE,2,XNT,1.1,0,2.5,1.1,0
+241,162,O,60479,Kent Kangley Rd & 116th Ave SE,27,PM,0.2,1,3.2,0.9,5.7
+241,162,O,60479,Kent Kangley Rd & 116th Ave SE,27,XEV,0.1,1,3.8,0.1,1
+241,162,O,390,2nd Ave Ext S & S Jackson St,6,PM,1.7,1.4,10.4,12.1,10
+241,162,I,390,2nd Ave Ext S & S Jackson St,33,AM,0.5,1.3,0,4.2,10.2
+241,162,I,60453,Lake Meridian Park And Ride,1,AM,0.9,0,0.9,6.1,0
+241,162,I,60453,Lake Meridian Park And Ride,1,XNT,1.4,0,1.4,1.4,0
+241,162,O,60453,Lake Meridian Park And Ride,31,PM,0.3,1.4,0,1.6,8.1
+241,162,O,60453,Lake Meridian Park And Ride,31,XEV,0.4,1,0,0.4,1
+241,162,O,60475,Kent Kangley Rd & 127th Ave SE,29,PM,0,0.3,2.6,0,1.7
+241,162,O,60475,Kent Kangley Rd & 127th Ave SE,29,XEV,0.1,0.2,3.1,0.1,0.2
+241,162,O,50779,W James St & 64th Ave S,14,PM,0.5,0.9,6.2,3.6,6
+241,162,I,50770,W Meeker St & Russell Rd,25,AM,0,0,12.6,0,0
+241,162,O,250,2nd Ave & Bell St,1,PM,1.1,0,1.2,7.6,0
+241,162,I,57458,Kent Sounder Station - Bay 8,16,AM,4.4,3.5,9.1,35.5,28.3
+241,162,I,57202,Kent Kangley Rd & 114th Ave SE,7,AM,0,0,4,0,0
+241,162,I,57202,Kent Kangley Rd & 114th Ave SE,7,XNT,0,0,3,0,0
+241,162,O,62220,Canyon Dr SE & E Titus St,21,PM,0.1,0,6.3,0.6,0.1
+241,162,I,80820,W James St & 4th Ave N,18,AM,0.3,0,9.4,2.1,0
+241,162,O,50730,W Meeker St & Russell Rd,11,PM,0.2,0.8,7.1,1.6,5.5
+241,162,O,60477,Kent Kangley Rd & 124th Ave SE,28,PM,0,0.4,2.9,0,2.1
+241,162,O,60477,Kent Kangley Rd & 124th Ave SE,28,XEV,0.1,0.5,3.3,0.1,0.5
+241,162,O,300,2nd Ave & Pike St,3,PM,3.9,0.1,6,27.2,0.5
+241,162,I,300,2nd Ave & Pike St,30,AM,0,1.2,2.6,0.2,9.2
+241,162,O,60482,132nd Ave SE & SE Kent-Kangley Rd,30,PM,0.1,1.6,1.1,0.4,9.6
+241,162,O,60482,132nd Ave SE & SE Kent-Kangley Rd,30,XEV,0,2.5,0.7,0,2.5
+241,162,I,50717,64th Ave S & W James St,21,AM,1.1,0,10.7,9.1,0.2
+241,162,O,80590,W James St & 4th Ave N,17,PM,0,0.1,5.5,0,0.8
+241,162,O,79243,W James St & Washington Ave N,15,PM,0.4,0.2,6.4,2.5,1.1
+241,162,O,53508,Kent Des Moines Rd & I-5 Ramp,7,PM,0.2,0.9,9.9,1.7,6
+241,162,I,60465,Kent Kangley Rd & 116th Ave SE,5,AM,1.7,0,4,11.7,0
+241,162,I,60465,Kent Kangley Rd & 116th Ave SE,5,XNT,0.5,0,3,0.5,0
+241,162,I,50760,W Meeker St & Russell Rd,24,AM,0.6,0.1,12.7,4.8,0.7
+241,162,O,60471,Kent Kangley Rd & 108th Ave SE,25,PM,0.4,0.9,5.1,2.4,5.1
+241,162,O,60471,Kent Kangley Rd & 108th Ave SE,25,XEV,1,0.7,6.5,1,0.7
+241,162,O,50735,W Meeker St & 64th Ave S,12,PM,0,0,7.1,0,0
+241,162,O,340,2nd Ave & Marion St,4,PM,3.5,0.1,9.3,24.6,0.9
+241,162,I,340,2nd Ave & Marion St,31,AM,0,1.2,1.5,0.2,9.4
+241,162,O,260,2nd Ave & Lenora St,2,PM,1.4,0.3,2.2,9.8,2

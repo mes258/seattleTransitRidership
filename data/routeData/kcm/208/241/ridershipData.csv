@@ -1,0 +1,289 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,208,O,65130,E Sunset Way & 5th Ave NE,14,PM,0.1,0,6.2,0.3,0
+241,208,O,65130,E Sunset Way & 5th Ave NE,14,XEV,0,0,3.3,0,0
+241,208,I,81704,Front St N & NE Crescent Dr,30,AM,0,0,4.1,0,0
+241,208,I,81704,Front St N & NE Crescent Dr,30,MID,0,0.1,3.5,0,0.1
+241,208,I,81704,Front St N & NE Crescent Dr,30,PM,0,0,5.2,0,0
+241,208,I,81704,Front St N & NE Crescent Dr,30,XEV,0,0,2.2,0,0
+241,208,O,81692,Front St N & NE Dogwood St,9,AM,0,0,1.7,0,0
+241,208,O,81692,Front St N & NE Dogwood St,9,MID,0.1,0,5.1,0.3,0
+241,208,O,81692,Front St N & NE Dogwood St,9,PM,0,0,5.6,0.1,0
+241,208,O,81692,Front St N & NE Dogwood St,9,XEV,0.1,0,3,0.1,0
+241,208,O,64329,Bendigo Blvd N & W 2nd St,33,AM,0,0.1,0.6,0,0.2
+241,208,O,64329,Bendigo Blvd N & W 2nd St,33,MID,0,1,2.2,0,2.9
+241,208,O,64329,Bendigo Blvd N & W 2nd St,33,PM,0,0.5,1.8,0,1
+241,208,O,64329,Bendigo Blvd N & W 2nd St,33,XEV,0,0.7,1,0,1.4
+241,208,I,64414,SE Ridge St & Douglas Ave SE,18,AM,0,0,3.2,0.1,0.1
+241,208,I,64414,SE Ridge St & Douglas Ave SE,18,MID,0.1,0,4,0.1,0
+241,208,I,64414,SE Ridge St & Douglas Ave SE,18,PM,0.1,0.1,5.8,0.2,0.1
+241,208,I,64414,SE Ridge St & Douglas Ave SE,18,XEV,0,0.1,2.9,0,0.1
+241,208,O,64414,SE Ridge St & Douglas Ave SE,22,AM,0,0.1,1.1,0,0.1
+241,208,O,64414,SE Ridge St & Douglas Ave SE,22,MID,0.1,0.1,5.4,0.2,0.2
+241,208,O,64414,SE Ridge St & Douglas Ave SE,22,PM,0,0.2,4.4,0,0.5
+241,208,O,64414,SE Ridge St & Douglas Ave SE,22,XEV,0,0.1,2.1,0,0.1
+241,208,O,64398,Railroad Ave SE & Snoqualmie Pkwy,27,AM,0,0,0.9,0,0
+241,208,O,64398,Railroad Ave SE & Snoqualmie Pkwy,27,MID,0.1,0.9,4.5,0.2,2.6
+241,208,O,64398,Railroad Ave SE & Snoqualmie Pkwy,27,PM,0,0.3,4,0,0.6
+241,208,O,64398,Railroad Ave SE & Snoqualmie Pkwy,27,XEV,0,0.1,2.6,0,0.1
+241,208,O,64417,Snoqualmie Pkwy & Swenson Dr SE,18,AM,0.1,0,2.1,0.1,0
+241,208,O,64417,Snoqualmie Pkwy & Swenson Dr SE,18,MID,0,0.1,5.7,0,0.3
+241,208,O,64417,Snoqualmie Pkwy & Swenson Dr SE,18,PM,0,0.2,5,0,0.6
+241,208,O,64417,Snoqualmie Pkwy & Swenson Dr SE,18,XEV,0,0.1,2.5,0,0.1
+241,208,O,65140,E Sunset Way Trailhead,15,AM,0.1,0,2.1,0.1,0
+241,208,O,65140,E Sunset Way Trailhead,15,MID,0.1,0,5.8,0.2,0
+241,208,O,65140,E Sunset Way Trailhead,15,PM,0.1,0,6.3,0.2,0
+241,208,O,65140,E Sunset Way Trailhead,15,XEV,0,0,3.3,0,0
+241,208,I,64557,NW Gilman Blvd & 4th Ave NW,32,AM,0,0,3.8,0,0.1
+241,208,I,64557,NW Gilman Blvd & 4th Ave NW,32,MID,0,0.1,3.4,0,0.1
+241,208,I,64557,NW Gilman Blvd & 4th Ave NW,32,PM,0.1,0.1,5,0.1,0.2
+241,208,I,64557,NW Gilman Blvd & 4th Ave NW,32,XEV,0,0.1,2.1,0,0.1
+241,208,O,64399,Railroad Ave SE & SE River St,29,AM,0,0.1,0.9,0,0.1
+241,208,O,64399,Railroad Ave SE & SE River St,29,MID,0.1,1.1,3.2,0.2,3.4
+241,208,O,64399,Railroad Ave SE & SE River St,29,PM,0.1,1.1,2.7,0.2,2.1
+241,208,O,64399,Railroad Ave SE & SE River St,29,XEV,0.1,0.5,1.9,0.1,0.9
+241,208,O,65090,Front St N & NE Alder St,10,AM,0.1,0,1.7,0.1,0
+241,208,O,65090,Front St N & NE Alder St,10,MID,0.1,0.1,5.1,0.2,0.3
+241,208,O,65090,Front St N & NE Alder St,10,PM,0.2,0.2,5.7,0.5,0.5
+241,208,O,65090,Front St N & NE Alder St,10,XEV,0.1,0,3.1,0.1,0
+241,208,O,64569,NW Maple St & 12th Ave NW,2,AM,0.1,0,1.9,0.1,0
+241,208,O,64569,NW Maple St & 12th Ave NW,2,MID,0.2,0,4.3,0.6,0.1
+241,208,O,64569,NW Maple St & 12th Ave NW,2,PM,0,0,4.2,0.1,0.1
+241,208,O,64569,NW Maple St & 12th Ave NW,2,XEV,0,0,2.1,0,0
+241,208,O,64593,Issaquah Transit Center - Bay 4,1,AM,1.7,0,1.8,3.4,0
+241,208,O,64593,Issaquah Transit Center - Bay 4,1,MID,3.7,0,4.3,11.1,0
+241,208,O,64593,Issaquah Transit Center - Bay 4,1,PM,3.9,0,4.2,11.6,0
+241,208,O,64593,Issaquah Transit Center - Bay 4,1,XEV,1.6,0,2.1,1.6,0
+241,208,I,82425,Railroad Ave S & SE King St,9,AM,0.8,0.1,2.3,3.1,0.5
+241,208,I,82425,Railroad Ave S & SE King St,9,MID,0.9,0.1,3.5,2.7,0.4
+241,208,I,82425,Railroad Ave S & SE King St,9,PM,0.6,0.1,3.3,0.6,0.1
+241,208,I,82425,Railroad Ave S & SE King St,9,XEV,0.6,0,2.4,0.6,0
+241,208,I,64341,Bendigo Blvd N & W 2nd St,4,AM,0.4,0,1.5,1.7,0
+241,208,I,64341,Bendigo Blvd N & W 2nd St,4,MID,0.9,0,2,2.6,0
+241,208,I,64341,Bendigo Blvd N & W 2nd St,4,PM,0.6,0,2.5,0.6,0
+241,208,I,64341,Bendigo Blvd N & W 2nd St,4,XEV,0.5,0,1.8,0.5,0
+241,208,O,64451,Maple St NW & NW Gilman Blvd,3,AM,0,0.3,1.6,0,0.5
+241,208,I,64330,Bendigo Blvd N & Sidney Ave N,5,AM,0,0,1.5,0,0
+241,208,O,64451,Maple St NW & NW Gilman Blvd,3,MID,0.6,0.1,4.9,1.9,0.2
+241,208,I,64330,Bendigo Blvd N & Sidney Ave N,5,MID,0,0,2,0.1,0
+241,208,O,64451,Maple St NW & NW Gilman Blvd,3,PM,1.1,0.1,5.2,3.3,0.4
+241,208,I,64330,Bendigo Blvd N & Sidney Ave N,5,PM,0.1,0,2.5,0.1,0
+241,208,O,64451,Maple St NW & NW Gilman Blvd,3,XEV,0.6,0,2.7,0.6,0
+241,208,I,64333,Railroad Ave SE & SE Northern St,10,AM,0,0,2.3,0.1,0
+241,208,I,64330,Bendigo Blvd N & Sidney Ave N,5,XEV,0,0,1.8,0,0
+241,208,I,64333,Railroad Ave SE & SE Northern St,10,MID,0.1,0,3.6,0.4,0.1
+241,208,I,64333,Railroad Ave SE & SE Northern St,10,PM,0.1,0,3.3,0.1,0
+241,208,I,64333,Railroad Ave SE & SE Northern St,10,XEV,0,0,2.5,0,0
+241,208,I,64480,E Sunset Way & 6th Ave NE,23,AM,0,0.1,4.1,0,0.2
+241,208,I,64480,E Sunset Way & 6th Ave NE,23,MID,0,0.1,4.8,0,0.2
+241,208,O,80486,Front St S & E Sunset Way,11,AM,0.2,0,1.9,0.3,0
+241,208,I,64480,E Sunset Way & 6th Ave NE,23,PM,0,0.1,5.9,0,0.2
+241,208,O,80486,Front St S & E Sunset Way,11,MID,0.6,0.2,5.5,1.7,0.6
+241,208,I,64480,E Sunset Way & 6th Ave NE,23,XEV,0,0,2.7,0,0
+241,208,O,80486,Front St S & E Sunset Way,11,PM,0.4,0.2,5.8,1.2,0.5
+241,208,O,65130,E Sunset Way & 5th Ave NE,14,AM,0,0,2,0,0
+241,208,O,65130,E Sunset Way & 5th Ave NE,14,MID,0.1,0,5.7,0.3,0
+241,208,O,64419,Snoqualmie Pkwy & Fisher Ave SE,24,AM,0,0.1,0.9,0,0.1
+241,208,O,64419,Snoqualmie Pkwy & Fisher Ave SE,24,MID,0,0,5.3,0,0
+241,208,O,64419,Snoqualmie Pkwy & Fisher Ave SE,24,PM,0,0.1,4.3,0,0.2
+241,208,O,64419,Snoqualmie Pkwy & Fisher Ave SE,24,XEV,0,0.1,1.9,0,0.1
+241,208,I,64421,Snoqualmie Pkwy & SE Jacobia St,21,AM,1,0,4.1,3.9,0.1
+241,208,I,64421,Snoqualmie Pkwy & SE Jacobia St,21,MID,0.8,0.1,4.7,1.6,0.2
+241,208,I,64421,Snoqualmie Pkwy & SE Jacobia St,21,PM,0.5,0.4,6.1,0.9,0.8
+241,208,I,64421,Snoqualmie Pkwy & SE Jacobia St,21,XEV,0.1,0.5,2.7,0.1,0.5
+241,208,O,64425,Snoqualmie Pkwy & SE Jacobia St,17,AM,0,0.1,2,0,0.1
+241,208,O,64425,Snoqualmie Pkwy & SE Jacobia St,17,MID,0.4,0.3,5.8,1.2,1
+241,208,O,64425,Snoqualmie Pkwy & SE Jacobia St,17,PM,0.2,0.9,5.1,0.6,2.8
+241,208,O,64425,Snoqualmie Pkwy & SE Jacobia St,17,XEV,0.1,0.9,2.5,0.1,0.9
+241,208,O,85792,Bendigo Blvd S & W Mccellan St,34,AM,0,0,0.5,0,0
+241,208,O,85792,Bendigo Blvd S & W Mccellan St,34,MID,0,0.1,2.1,0,0.4
+241,208,O,85792,Bendigo Blvd S & W Mccellan St,34,PM,0,0.1,1.7,0,0.2
+241,208,O,64340,Bendigo Blvd N & Sydney Ave,32,AM,0,0.1,0.8,0,0.1
+241,208,O,85792,Bendigo Blvd S & W Mccellan St,34,XEV,0,0.1,0.9,0,0.2
+241,208,O,64340,Bendigo Blvd N & Sydney Ave,32,MID,0,0.2,3.3,0,0.6
+241,208,O,64340,Bendigo Blvd N & Sydney Ave,32,PM,0,0.3,2.4,0,0.6
+241,208,O,64340,Bendigo Blvd N & Sydney Ave,32,XEV,0,0.2,1.6,0,0.3
+241,208,I,64401,Snoqualmie Pkwy & Better Way Loop SE,12,AM,0.1,0,2.4,0.2,0
+241,208,I,64401,Snoqualmie Pkwy & Better Way Loop SE,12,MID,0,0,3.5,0,0
+241,208,I,64401,Snoqualmie Pkwy & Better Way Loop SE,12,PM,0.1,0,4.7,0.2,0
+241,208,I,64401,Snoqualmie Pkwy & Better Way Loop SE,12,XEV,0,0,2.9,0,0
+241,208,I,64413,SE Ridge St & Center Blvd SE,17,AM,0.2,0.1,3.1,0.9,0.5
+241,208,I,64413,SE Ridge St & Center Blvd SE,17,MID,0.5,0.2,3.9,1,0.4
+241,208,I,64413,SE Ridge St & Center Blvd SE,17,PM,1.6,0.3,5.8,3.1,0.5
+241,208,I,64413,SE Ridge St & Center Blvd SE,17,XEV,0.1,0.1,3,0.1,0.1
+241,208,O,64413,SE Ridge St & Center Blvd SE,21,AM,0,0.8,1.2,0,1.6
+241,208,O,64413,SE Ridge St & Center Blvd SE,21,MID,0.2,0.4,5.4,0.6,1.2
+241,208,O,64413,SE Ridge St & Center Blvd SE,21,PM,0.2,0.2,4.6,0.7,0.6
+241,208,I,64415,Snoqualmie Pkwy & Swenson Dr SE,20,AM,0.2,0,3.2,0.6,0
+241,208,O,64413,SE Ridge St & Center Blvd SE,21,XEV,0,0.1,2.2,0,0.1
+241,208,I,64415,Snoqualmie Pkwy & Swenson Dr SE,20,MID,0.2,0.2,4.1,0.3,0.3
+241,208,I,64415,Snoqualmie Pkwy & Swenson Dr SE,20,PM,0.1,0.1,6,0.2,0.1
+241,208,I,64415,Snoqualmie Pkwy & Swenson Dr SE,20,XEV,0,0,3,0,0
+241,208,I,64448,SE Bush St & Rainier Blvd S,26,AM,0,0,3.7,0,0.1
+241,208,I,64448,SE Bush St & Rainier Blvd S,26,MID,0.1,0.2,4.1,0.2,0.4
+241,208,I,64448,SE Bush St & Rainier Blvd S,26,PM,0.3,0.3,5.6,0.5,0.6
+241,208,I,64448,SE Bush St & Rainier Blvd S,26,XEV,0,0.1,2.5,0,0.1
+241,208,I,64490,E Sunset Way & 5th Ave NE,24,AM,0,0,4,0,0.1
+241,208,I,64490,E Sunset Way & 5th Ave NE,24,MID,0,0.1,4.7,0,0.2
+241,208,I,64490,E Sunset Way & 5th Ave NE,24,PM,0,0.1,6,0,0.1
+241,208,I,64490,E Sunset Way & 5th Ave NE,24,XEV,0,0,2.7,0,0
+241,208,O,80488,2nd Ave SE & SE Andrews St,13,AM,0.2,0,2,0.3,0
+241,208,O,80488,2nd Ave SE & SE Andrews St,13,MID,0.1,0.1,5.7,0.3,0.3
+241,208,O,80488,2nd Ave SE & SE Andrews St,13,PM,0.1,0,6.1,0.4,0
+241,208,O,80488,2nd Ave SE & SE Andrews St,13,XEV,0,0,3.2,0,0
+241,208,I,64450,Maple St NW & NW Gilman Blvd,34,AM,0.1,0.8,3,0.2,3.1
+241,208,I,64450,Maple St NW & NW Gilman Blvd,34,MID,0.3,0.8,2.5,0.6,1.6
+241,208,I,64450,Maple St NW & NW Gilman Blvd,34,PM,0.3,1,4.1,0.5,2
+241,208,I,64450,Maple St NW & NW Gilman Blvd,34,XEV,0.2,0.1,2.3,0.2,0.1
+241,208,O,80486,Front St S & E Sunset Way,11,XEV,0.2,0.1,3.2,0.2,0.1
+241,208,O,64512,SE Bush St & Rainier Blvd S,12,AM,0.1,0,1.9,0.1,0
+241,208,O,64512,SE Bush St & Rainier Blvd S,12,MID,0.2,0.1,5.6,0.6,0.2
+241,208,O,64512,SE Bush St & Rainier Blvd S,12,PM,0.3,0.1,6.1,0.9,0.2
+241,208,O,64512,SE Bush St & Rainier Blvd S,12,XEV,0.1,0.1,3.2,0.1,0.1
+241,208,O,64402,Snoqualmie Pkwy & Better Way Loop SE,26,AM,0,0.1,0.9,0,0.1
+241,208,O,64402,Snoqualmie Pkwy & Better Way Loop SE,26,MID,0,0,5.4,0,0
+241,208,O,64402,Snoqualmie Pkwy & Better Way Loop SE,26,PM,0,0.1,4.3,0,0.2
+241,208,O,64402,Snoqualmie Pkwy & Better Way Loop SE,26,XEV,0,0,2.6,0,0
+241,208,I,64408,Snoqualmie Pkwy & Fisher Ave SE,14,AM,0.1,0,2.9,0.2,0
+241,208,I,64408,Snoqualmie Pkwy & Fisher Ave SE,14,MID,0.1,0.1,3.5,0.1,0.1
+241,208,I,64408,Snoqualmie Pkwy & Fisher Ave SE,14,PM,0.1,0.1,4.4,0.1,0.1
+241,208,I,64408,Snoqualmie Pkwy & Fisher Ave SE,14,XEV,0,0,2.9,0,0
+241,208,I,64540,Front St N & NE Alder St,28,AM,0.3,0,4,1.2,0
+241,208,I,64540,Front St N & NE Alder St,28,MID,0.1,0.3,3.5,0.1,0.6
+241,208,I,64540,Front St N & NE Alder St,28,PM,0.1,0.2,5.1,0.2,0.4
+241,208,I,64540,Front St N & NE Alder St,28,XEV,0.1,0,2.3,0.1,0
+241,208,I,64405,Snoqualmie Pkwy & Orchard Ave SE,13,AM,0.5,0,2.8,1.9,0
+241,208,I,64405,Snoqualmie Pkwy & Orchard Ave SE,13,MID,0.2,0.1,3.5,0.3,0.2
+241,208,I,64405,Snoqualmie Pkwy & Orchard Ave SE,13,PM,0.1,0.4,4.3,0.2,0.7
+241,208,I,64405,Snoqualmie Pkwy & Orchard Ave SE,13,XEV,0,0,2.9,0,0
+241,208,I,80480,2nd Ave SE & SE Andrews St,25,AM,0,0.3,3.8,0,1.2
+241,208,O,64582,NW Gilman Blvd & 7th Ave NW,4,AM,0.1,0,1.7,0.1,0
+241,208,I,80480,2nd Ave SE & SE Andrews St,25,MID,0,0.5,4.2,0,1
+241,208,O,64582,NW Gilman Blvd & 7th Ave NW,4,MID,0.3,0.1,5,0.8,0.4
+241,208,I,80480,2nd Ave SE & SE Andrews St,25,PM,0,0.4,5.6,0,0.7
+241,208,O,64582,NW Gilman Blvd & 7th Ave NW,4,PM,0.4,0.1,5.5,1.2,0.4
+241,208,I,80480,2nd Ave SE & SE Andrews St,25,XEV,0,0.2,2.5,0,0.2
+241,208,O,64582,NW Gilman Blvd & 7th Ave NW,4,XEV,0.1,0,2.8,0.1,0
+241,208,I,64585,Issaquah Transit Center - Bay 3,35,AM,0.3,3.3,0,1.1,13.3
+241,208,I,64585,Issaquah Transit Center - Bay 3,35,MID,1.1,3.6,0,2.2,7.2
+241,208,I,64585,Issaquah Transit Center - Bay 3,35,PM,0.4,4.7,0,0.8,9.3
+241,208,I,64585,Issaquah Transit Center - Bay 3,35,XEV,0.5,2.7,0,0.5,2.7
+241,208,O,64397,Railroad Avenue Southeast Ave SE & SE Northern St,28,AM,0,0,0.9,0,0
+241,208,O,64397,Railroad Avenue Southeast Ave SE & SE Northern St,28,MID,0,0.3,4.3,0,0.9
+241,208,O,64397,Railroad Avenue Southeast Ave SE & SE Northern St,28,PM,0,0.4,3.6,0,0.7
+241,208,O,64397,Railroad Avenue Southeast Ave SE & SE Northern St,28,XEV,0,0.2,2.4,0,0.4
+241,208,I,64403,Snoqualmie Pkwy & Railroad Ave SE,11,MID,0.2,0,3.5,0.3,0
+241,208,I,64403,Snoqualmie Pkwy & Railroad Ave SE,11,PM,0.8,0,4.6,1.6,0
+241,208,I,64403,Snoqualmie Pkwy & Railroad Ave SE,11,XEV,0.4,0,2.8,0.4,0
+241,208,I,64470,I-90 & 270th Ave SE,22,AM,0.1,0.1,4.1,0.2,0.3
+241,208,I,64470,I-90 & 270th Ave SE,22,MID,0.2,0.1,4.8,0.3,0.1
+241,208,I,64470,I-90 & 270th Ave SE,22,PM,0.1,0.1,6.1,0.2,0.2
+241,208,I,64470,I-90 & 270th Ave SE,22,XEV,0,0,2.7,0,0
+241,208,O,85388,Railroad Ave SE & Meadowbrook Way SE,30,AM,0,0.1,0.8,0,0.1
+241,208,O,85388,Railroad Ave SE & Meadowbrook Way SE,30,MID,0.3,0.2,3.3,0.8,0.5
+241,208,O,85388,Railroad Ave SE & Meadowbrook Way SE,30,PM,0.1,0.2,2.5,0.1,0.4
+241,208,O,85388,Railroad Ave SE & Meadowbrook Way SE,30,XEV,0,0.2,1.8,0,0.3
+241,208,I,85796,Main Ave S & W Park St,2,AM,0.5,0,1.1,1.9,0
+241,208,I,85796,Main Ave S & W Park St,2,MID,0.5,0,1.4,1.5,0
+241,208,I,85796,Main Ave S & W Park St,2,PM,0.5,0,1.9,0.5,0
+241,208,I,85796,Main Ave S & W Park St,2,XEV,0.2,0,1.3,0.2,0
+241,208,O,85796,Main Ave S & W Park St,35,AM,0,0.2,0.4,0,0.4
+241,208,O,85796,Main Ave S & W Park St,35,MID,0.1,0.9,1.3,0.3,2.8
+241,208,O,85796,Main Ave S & W Park St,35,PM,0.1,0.7,1.2,0.2,1.3
+241,208,O,85796,Main Ave S & W Park St,35,XEV,0,0.2,0.9,0,0.4
+241,208,I,64586,NW Gilman Blvd & 7th Ave NW,33,AM,0.2,0.2,3.8,0.7,0.9
+241,208,I,64586,NW Gilman Blvd & 7th Ave NW,33,MID,0.1,0.4,3.1,0.1,0.7
+241,208,I,64586,NW Gilman Blvd & 7th Ave NW,33,PM,0.1,0.3,4.8,0.1,0.5
+241,208,I,64586,NW Gilman Blvd & 7th Ave NW,33,XEV,0,0,2.2,0,0
+241,208,I,85386,Railroad Ave SE & Meadowbrook Way SE,7,AM,0,0,1.5,0,0
+241,208,I,85386,Railroad Ave SE & Meadowbrook Way SE,7,MID,0.5,0,2.6,1.5,0
+241,208,I,85386,Railroad Ave SE & Meadowbrook Way SE,7,PM,0,0.1,2.5,0,0.1
+241,208,I,85386,Railroad Ave SE & Meadowbrook Way SE,7,XEV,0,0,1.9,0,0
+241,208,O,85781,NW 14th St & Boalch Ave NW,31,AM,0,0.2,0.7,0,0.3
+241,208,O,85781,NW 14th St & Boalch Ave NW,31,MID,0,0,3.3,0,0.1
+241,208,O,85781,NW 14th St & Boalch Ave NW,31,PM,0,0.1,2.4,0,0.1
+241,208,O,85781,NW 14th St & Boalch Ave NW,31,XEV,0,0.1,1.8,0,0.1
+241,208,I,64332,Railroad Ave SE & SE Newton St,8,AM,0.1,0,1.6,0.5,0
+241,208,I,64332,Railroad Ave SE & SE Newton St,8,MID,0.3,0.1,2.7,0.8,0.4
+241,208,I,64332,Railroad Ave SE & SE Newton St,8,PM,0.2,0.1,2.7,0.2,0.1
+241,208,I,64332,Railroad Ave SE & SE Newton St,8,XEV,0.1,0,1.9,0.1,0
+241,208,I,64411,Fairway Ave SE & SE Ridge St,16,AM,0.1,0,3,0.5,0
+241,208,I,64411,Fairway Ave SE & SE Ridge St,16,MID,0.1,0,3.6,0.2,0
+241,208,I,64411,Fairway Ave SE & SE Ridge St,16,PM,0.1,0,4.5,0.1,0
+241,208,I,64411,Fairway Ave SE & SE Ridge St,16,XEV,0,0,2.9,0,0
+241,208,O,64411,Fairway Ave SE & SE Ridge St,20,AM,0,0,2,0,0
+241,208,O,64411,Fairway Ave SE & SE Ridge St,20,MID,0,0,5.6,0,0.1
+241,208,O,64411,Fairway Ave SE & SE Ridge St,20,PM,0,0.3,4.6,0,0.8
+241,208,O,64411,Fairway Ave SE & SE Ridge St,20,XEV,0,0,2.3,0,0
+241,208,I,64403,Snoqualmie Pkwy & Railroad Ave SE,11,AM,0,0,2.3,0,0
+241,208,O,64416,I-90 & 270th Ave SE,16,AM,0,0.1,2.1,0,0.1
+241,208,O,64416,I-90 & 270th Ave SE,16,MID,0.1,0.1,5.7,0.2,0.3
+241,208,O,64416,I-90 & 270th Ave SE,16,PM,0,0.4,5.9,0.1,1.2
+241,208,O,64416,I-90 & 270th Ave SE,16,XEV,0.2,0.1,3.3,0.2,0.1
+241,208,O,64554,Front St N & NW Holly St,7,AM,0,0,1.7,0,0
+241,208,O,64554,Front St N & NW Holly St,7,MID,0,0,5.1,0.1,0
+241,208,O,64554,Front St N & NW Holly St,7,PM,0,0,5.6,0.1,0.1
+241,208,O,64554,Front St N & NW Holly St,7,XEV,0.1,0,3,0.1,0
+241,208,O,64568,NW Gilman Blvd & Rainier Blvd N,6,AM,0,0,1.7,0,0
+241,208,O,64568,NW Gilman Blvd & Rainier Blvd N,6,MID,0.2,0,5.1,0.5,0.1
+241,208,O,64568,NW Gilman Blvd & Rainier Blvd N,6,PM,0.1,0,5.6,0.3,0.1
+241,208,O,64568,NW Gilman Blvd & Rainier Blvd N,6,XEV,0,0,2.9,0,0
+241,208,I,85791,Stow Ave S & Healy Ave S,3,AM,0.2,0,1,0.6,0
+241,208,I,85791,Stow Ave S & Healy Ave S,3,MID,0.2,0,1.2,0.6,0
+241,208,I,85791,Stow Ave S & Healy Ave S,3,PM,0.2,0,1.9,0.2,0
+241,208,I,85791,Stow Ave S & Healy Ave S,3,XEV,0.1,0,1.3,0.1,0
+241,208,O,85791,Stow Ave S & Healy Ave S,36,AM,0.1,0.1,0.4,0.1,0.1
+241,208,O,85791,Stow Ave S & Healy Ave S,36,MID,0.1,0.2,1.3,0.2,0.7
+241,208,O,85791,Stow Ave S & Healy Ave S,36,PM,0,0.4,1,0,0.7
+241,208,O,85791,Stow Ave S & Healy Ave S,36,XEV,0,0.5,0.7,0,0.9
+241,208,O,64406,Snoqualmie Pkwy & Orchard Ave SE,25,AM,0.1,0,1,0.1,0
+241,208,O,64406,Snoqualmie Pkwy & Orchard Ave SE,25,MID,0.2,0.1,5.4,0.6,0.4
+241,208,O,64406,Snoqualmie Pkwy & Orchard Ave SE,25,PM,0,0.4,4.1,0.1,1.1
+241,208,O,64406,Snoqualmie Pkwy & Orchard Ave SE,25,XEV,0,0.1,1.8,0,0.1
+241,208,I,64548,Front St N & NE Dogwood St,29,AM,0,0,4.1,0,0
+241,208,I,64548,Front St N & NE Dogwood St,29,MID,0,0,3.5,0,0
+241,208,I,64548,Front St N & NE Dogwood St,29,PM,0.1,0.1,5.2,0.1,0.1
+241,208,I,64548,Front St N & NE Dogwood St,29,XEV,0,0,2.3,0,0
+241,208,I,64572,NW Gilman Blvd & NW Juniper St,31,AM,0,0.2,3.8,0,0.8
+241,208,I,64572,NW Gilman Blvd & NW Juniper St,31,MID,0.1,0.2,3.4,0.1,0.3
+241,208,I,64572,NW Gilman Blvd & NW Juniper St,31,PM,0.1,0.2,5.1,0.2,0.3
+241,208,I,64572,NW Gilman Blvd & NW Juniper St,31,XEV,0,0.1,2.2,0,0.1
+241,208,I,80484,Front St S & SE Andrews St,27,AM,0.2,0.2,3.7,0.8,0.6
+241,208,I,80484,Front St S & SE Andrews St,27,MID,0.2,0.5,3.8,0.4,1
+241,208,I,80484,Front St S & SE Andrews St,27,PM,0.3,0.7,5.2,0.5,1.3
+241,208,I,80484,Front St S & SE Andrews St,27,XEV,0,0.3,2.2,0,0.3
+241,208,O,64559,NW Gilman Blvd & 4th Ave NW,5,AM,0,0,1.7,0,0
+241,208,O,64559,NW Gilman Blvd & 4th Ave NW,5,MID,0,0.1,4.9,0.1,0.4
+241,208,O,64559,NW Gilman Blvd & 4th Ave NW,5,PM,0,0,5.6,0.1,0
+241,208,O,64559,NW Gilman Blvd & 4th Ave NW,5,XEV,0.1,0,2.9,0.1,0
+241,208,O,64456,Front St N & NE Crescent Dr,8,AM,0,0,1.7,0,0
+241,208,O,64456,Front St N & NE Crescent Dr,8,MID,0,0,5.1,0,0
+241,208,O,64456,Front St N & NE Crescent Dr,8,PM,0,0,5.6,0,0
+241,208,O,64456,Front St N & NE Crescent Dr,8,XEV,0,0,3,0,0
+241,208,I,64358,Douglas Ave SE & Baker Ave SE,19,AM,0.1,0.2,3.1,0.3,0.8
+241,208,I,64358,Douglas Ave SE & Baker Ave SE,19,MID,0.2,0.1,4.1,0.4,0.1
+241,208,I,64358,Douglas Ave SE & Baker Ave SE,19,PM,0.2,0.1,5.9,0.3,0.1
+241,208,I,64358,Douglas Ave SE & Baker Ave SE,19,XEV,0.1,0,3,0.1,0
+241,208,O,64358,Douglas Ave SE & Baker Ave SE,23,AM,0,0.2,0.9,0,0.4
+241,208,O,64358,Douglas Ave SE & Baker Ave SE,23,MID,0.1,0.2,5.3,0.4,0.6
+241,208,O,64358,Douglas Ave SE & Baker Ave SE,23,PM,0.1,0.1,4.5,0.3,0.3
+241,208,O,64358,Douglas Ave SE & Baker Ave SE,23,XEV,0,0.1,2,0,0.1
+241,208,I,85782,NW 14th St & Boalch Ave NW,6,AM,0,0,1.5,0.1,0
+241,208,I,85782,NW 14th St & Boalch Ave NW,6,MID,0.1,0,2.2,0.3,0
+241,208,I,85782,NW 14th St & Boalch Ave NW,6,PM,0.1,0,2.6,0.1,0
+241,208,I,85782,NW 14th St & Boalch Ave NW,6,XEV,0,0,1.9,0,0
+241,208,I,64308,Factory Outlet Mall Acs & Mount Si Blvd,1,AM,0.5,0,0.6,1.9,0
+241,208,I,64308,Factory Outlet Mall Acs & Mount Si Blvd,1,MID,0.8,0,0.9,2.3,0
+241,208,I,64308,Factory Outlet Mall Acs & Mount Si Blvd,1,PM,1.3,0,1.4,1.3,0
+241,208,I,64308,Factory Outlet Mall Acs & Mount Si Blvd,1,XEV,1,0,1.3,1,0
+241,208,O,64308,Factory Outlet Mall Acs & Mount Si Blvd,37,AM,0.3,0.6,0,0.5,1.1
+241,208,O,64308,Factory Outlet Mall Acs & Mount Si Blvd,37,MID,0.5,1.7,0,1.5,5
+241,208,O,64308,Factory Outlet Mall Acs & Mount Si Blvd,37,PM,0.4,1.3,0,0.7,2.5
+241,208,O,64308,Factory Outlet Mall Acs & Mount Si Blvd,37,XEV,0.2,0.8,0,0.4,1.5
+241,208,I,64409,Fairway Ave SE & Aspen Ln,15,AM,0.1,0,2.9,0.2,0
+241,208,I,64409,Fairway Ave SE & Aspen Ln,15,MID,0,0,3.5,0,0
+241,208,I,64409,Fairway Ave SE & Aspen Ln,15,PM,0.1,0,4.5,0.2,0
+241,208,I,64409,Fairway Ave SE & Aspen Ln,15,XEV,0,0,2.8,0,0
+241,208,O,64409,Fairway Ave SE & Aspen Ln,19,AM,0,0.1,2,0,0.2
+241,208,O,64409,Fairway Ave SE & Aspen Ln,19,MID,0,0.1,5.6,0.1,0.4
+241,208,O,64409,Fairway Ave SE & Aspen Ln,19,PM,0,0.1,4.9,0,0.4
+241,208,O,64409,Fairway Ave SE & Aspen Ln,19,XEV,0,0.1,2.3,0,0.1

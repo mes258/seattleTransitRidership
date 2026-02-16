@@ -1,0 +1,55 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,113,I,40801,East Marginal Way S & S Lucile St,17,AM,0,0.6,7.2,0,2.2
+241,113,O,85067,East Marginal Way S & S Lucile St,11,PM,0.2,0.2,6.1,0.8,0.6
+241,113,I,40802,East Marginal Way S & S Hudson St,18,AM,0,0.3,7,0,1
+241,113,O,31560,SW Roxbury St & 8th Ave SW,15,PM,0.1,0.7,4.2,0.3,2.7
+241,113,O,21170,SW Roxbury St & 5th Pl SW,14,PM,0.1,0.5,4.8,0.2,2.1
+241,113,I,21290,SW Roxbury St & 17th Ave SW,10,AM,0.2,0.1,3.8,0.7,0.2
+241,113,O,85120,26th Ave SW & SW 110th St,24,PM,0,0.4,1.3,0.1,1.5
+241,113,O,85150,SW 114th St & 28th Ave SW,27,PM,0,0,0.5,0,0
+241,113,O,85059,East Marginal Way S & S Idaho St,7,PM,0.4,0.3,6.1,1.4,1.2
+241,113,O,85064,East Marginal Way S & S Alaska St,9,PM,0.2,0.1,6,0.6,0.5
+241,113,I,85190,26th Ave SW & SW 112th St,3,AM,0.4,0,1.9,1.5,0
+241,113,O,85110,26th Ave SW & SW 106th St,23,PM,0,0.6,1.6,0,2.4
+241,113,O,85160,28th Ave SW & SW 116th St,28,PM,0,0.2,0.3,0,0.7
+241,113,O,1558,Columbia St & Alaskan Way,5,PM,0.6,0.1,5.7,2.5,0.5
+241,113,O,1562,Alaskan Way S & S Jackson St,6,PM,0.5,0.2,6,2,0.7
+241,113,I,1559,Alaskan Way & Columbia St,23,AM,0.5,0.7,6.1,2.1,2.8
+241,113,O,85140,26th Ave SW & SW 114th St,26,PM,0,0.4,0.5,0,1.7
+241,113,I,40806,East Marginal Way S & Diagonal Ave S,20,AM,0,0,6.8,0,0
+241,113,O,85090,26th Ave SW & SW 100th St,21,PM,0,0,2.9,0.1,0.1
+241,113,I,85180,26th Ave SW & SW 114th St,2,AM,0.2,0,1.5,0.9,0.1
+241,113,I,21090,SW Roxbury St & 12th Ave SW,12,AM,0.1,0,5,0.4,0
+241,113,O,31580,SW Roxbury St & 12th Ave SW,16,PM,0,0.1,4.1,0,0.4
+241,113,I,40807,East Marginal Way S & S Idaho St,21,AM,0,0.2,6.7,0.1,0.7
+241,113,I,40804,East Marginal Way S & S Alaska St,19,AM,0.1,0.2,6.9,0.4,0.9
+241,113,O,21150,Olson Pl SW & 3rd Ave SW,13,PM,0,0,5.3,0.1,0.1
+241,113,I,570,3rd Ave & Union St,25,AM,0.7,3.2,0,2.9,12.7
+241,113,O,21141,Olson-Myers Way Park And Ride,12,PM,0.2,1,5.3,0.7,4
+241,113,I,21141,Olson-Myers Way Park And Ride,16,AM,1.4,0.1,7.8,5.4,0.2
+241,113,I,548,3rd Ave & Madison St,24,AM,0.1,3.8,2.4,0.2,15
+241,113,O,250,2nd Ave & Bell St,1,PM,0.7,0,0.8,2.7,0
+241,113,O,85066,East Marginal Way S & S Hudson St,10,PM,0.1,0.1,6.1,0.5,0.5
+241,113,I,85200,26th Ave SW & SW 110th St,4,AM,0.2,0,2.1,0.9,0
+241,113,O,85070,26th Ave SW & SW Roxbury St,20,PM,0.1,0.4,2.9,0.3,1.5
+241,113,I,21280,SW Roxbury St & 20th Ave SW,9,AM,0.3,0,3.6,1.2,0
+241,113,I,21120,SW Roxbury St & 5th Ave SW,14,AM,0.9,0,6.6,3.7,0
+241,113,O,22256,SW Roxbury St & 20th Ave SW,19,PM,0.1,0.3,3.2,0.4,1.3
+241,113,O,300,2nd Ave & Pike St,3,PM,1.4,0.2,2.7,5.4,0.6
+241,113,O,85100,26th Ave SW & SW 104th St,22,PM,0,0.7,2.2,0,2.9
+241,113,O,85062,East Marginal Way S & Diagonal Ave S,8,PM,0.1,0.2,6,0.2,0.6
+241,113,I,1561,Alaskan Way S & S Jackson St,22,AM,0.1,0.6,6.2,0.4,2.2
+241,113,I,21140,Olson Pl SW & 3rd Ave SW,15,AM,0,0.1,6.5,0,0.4
+241,113,O,85130,26th Ave SW & SW 112th St,25,PM,0,0.4,0.9,0,1.4
+241,113,I,85220,26th Ave SW & SW 104th St,6,AM,0.4,0,3.2,1.7,0
+241,113,I,85170,26th Ave SW & SW 116th St,1,AM,1.4,0,1.4,5.7,0
+241,113,O,85170,26th Ave SW & SW 116th St,29,PM,0.1,0.3,0,0.2,1.3
+241,113,I,21110,SW Roxbury St & 8th Ave SW,13,AM,0.8,0.1,5.7,3,0.3
+241,113,I,21250,SW Roxbury St & 26th Ave SW,8,AM,0.2,0,3.3,0.6,0.1
+241,113,I,21080,SW Roxbury St & 15th Ave SW - Bay 3,11,AM,1.2,0.1,4.9,4.9,0.3
+241,113,I,85210,26th Ave SW & SW 106th St,5,AM,0.7,0,2.7,2.6,0
+241,113,O,22255,SW Roxbury St & 16th Ave SW - Bay 6,18,PM,0.1,0.2,3.4,0.2,0.9
+241,113,O,340,2nd Ave & Marion St,4,PM,2.7,0.2,5.2,10.9,0.9
+241,113,O,260,2nd Ave & Lenora St,2,PM,0.8,0,1.6,3.1,0
+241,113,I,85230,26th Ave SW & SW 100th St,7,AM,0,0,3.2,0.1,0
+241,113,O,31590,SW Roxbury St & 15th Ave SW - Bay 4,17,PM,0.2,0.7,3.6,0.9,2.8

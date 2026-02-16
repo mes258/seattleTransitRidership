@@ -1,0 +1,51 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,893,I,74232,Totem Lake Transit Center - Bay 2,1,AM,0,0,1.1,0,0
+243,893,I,74731,NE 128th St & 120th Ave NE,2,AM,0,0,1.1,0,0
+243,893,I,74734,NE 128th St & I-405,3,AM,0,0,1.1,0,0
+243,893,I,85450,116th Ave NE & NE 124th St,4,AM,0,0,1.1,0,0
+243,893,I,70516,120th Ave NE & NE 112th St,5,AM,0.9,0,1.9,0.9,0
+243,893,I,70537,116th Ave NE & NE 112th St,6,AM,0.1,0,2,0.1,0
+243,893,I,70533,Forbes Creek Dr & 115th Ct NE,7,AM,0.1,0,2.1,0.1,0
+243,893,I,70528,Forbes Creek Dr & 111th Ct NE,8,AM,0,0,2.1,0,0
+243,893,I,70529,Forbes Creek Dr & 108th Ave NE,9,AM,0.9,0,3.1,0.9,0
+243,893,I,70330,Market St & 20th Ave W,10,AM,0.3,0.3,3.1,0.3,0.3
+243,893,I,74318,18th Ave & Market St,11,AM,3.5,0.1,6.5,3.5,0.1
+243,893,I,74320,18th Ave & 3rd St,12,AM,4.3,0.1,10.7,4.3,0.1
+243,893,I,74332,3rd St & 15th Ave,13,AM,1.5,0.1,12.2,1.5,0.1
+243,893,I,74340,3rd St & 13th Ave,14,AM,1.6,0.1,13.7,1.6,0.1
+243,893,I,74370,3rd St & 9th Ave,15,AM,0,0,13.7,0,0
+243,893,I,74380,3rd St & 7th Ave,16,AM,1.1,0.1,14.7,1.1,0.1
+243,893,I,74390,3rd St & 5th Ave,17,AM,0.3,0,15,0.3,0
+243,893,I,70672,Central Way & 5th St,18,AM,2.7,0,17.7,2.7,0
+243,893,I,70588,7th Ave & 6th St,19,AM,4.1,0.1,21.8,4.1,0.1
+243,893,I,70589,7th Ave & 8th St,20,AM,0.1,0,21.9,0.1,0
+243,893,I,80414,112th Ave NE & NE 91st St,21,AM,0.4,0.1,22.2,0.4,0.1
+243,893,I,79933,112th Ave NE & NE 95th St,22,AM,1.1,0.1,23.2,1.1,0.1
+243,893,I,70597,NE 100th St & 116th Ave NE,23,AM,6.5,0.1,29.7,6.5,0.1
+243,893,I,70578,116th Ave NE & NE 94th St,24,AM,4,0.1,33.6,4,0.1
+243,893,I,80505,120th Ave NE & NE 85th St,25,AM,0,0,33.6,0,0
+243,893,I,70694,NE 80th St & 120th Ave NE,26,AM,0,33.6,0,0,33.6
+243,893,O,70538,NE 80th St & 122nd Ave NE,1,PM,34.1,0,36.6,34.1,0
+243,893,O,70691,120th Ave NE & NE 80th St,2,PM,2.7,0.1,39.2,2.7,0.1
+243,893,O,80414,112th Ave NE & NE 91st St,4,PM,0,0.8,38.4,0,0.8
+243,893,O,79933,112th Ave NE & NE 95th St,5,PM,0,2.7,34,0,2.7
+243,893,O,70597,NE 100th St & 116th Ave NE,6,PM,0.1,12.2,21.9,0.1,12.2
+243,893,O,70578,116th Ave NE & NE 94th St,7,PM,0,1.7,20.2,0,1.7
+243,893,O,70595,NE 87th St & 114th Ave NE,8,PM,0.5,1.4,28.8,0.5,1.4
+243,893,O,70591,7th Ave & 8th St,9,PM,0,0.2,20,0,0.2
+243,893,O,70587,7th Ave & 6th St,10,PM,0,2.7,17.3,0,2.7
+243,893,O,70665,Central Way & 5th St,11,PM,0.1,2.6,14.8,0.1,2.6
+243,893,O,74580,3rd St & 5th Ave,12,PM,0,1.3,13.5,0,1.3
+243,893,O,74590,3rd St & 7th Ave,13,PM,0,0.3,13.2,0,0.3
+243,893,O,74600,3rd St & 9th Ave,14,PM,0,0.9,12.3,0,0.9
+243,893,O,74610,3rd St & 10th Ave,15,PM,0,0.4,12,0,0.4
+243,893,O,74630,3rd St & 13th Ave,16,PM,0,1,11,0,1
+243,893,O,74640,3rd St & 15th Ave,17,PM,0,0.8,10.3,0,0.8
+243,893,O,74650,18th Ave & 3rd St,18,PM,0,4.7,5.6,0,4.7
+243,893,O,70490,Market St & 18th Ave,19,PM,0.1,4.3,1.5,0.1,4.3
+243,893,O,70500,Market St & 20th Ave,20,PM,0.1,0.5,1,0.1,0.5
+243,893,O,70521,Forbes Creek Dr & 108th Ave NE,21,PM,0,0.3,0.8,0,0.3
+243,893,O,70522,Forbes Creek Dr & 111th Ct NE,22,PM,0,0,0.8,0,0
+243,893,O,70534,Forbes Creek Dr & 115th Ct NE,23,PM,0,0.1,0.7,0,0.1
+243,893,O,70536,116th Ave NE & NE 111th St,24,PM,0.1,0.1,0.7,0.1,0.1
+243,893,O,70515,NE 112th St & 120th Ave NE,25,PM,0,0.7,0,0,0.7

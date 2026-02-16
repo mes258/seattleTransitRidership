@@ -1,0 +1,61 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,212,O,280,2nd Ave & Stewart St,2,PM,3.6,0.1,4.8,36.2,1.1
+241,212,O,360,2nd Ave & Cherry St,4,AM,3.9,0,10.6,11.6,0.1
+241,212,O,79862,SE 36th St & 131st Ave SE,8,AM,0.1,7.8,5.5,0.2,23.5
+241,212,O,360,2nd Ave & Cherry St,4,PM,4.8,0.2,16.1,43.4,1.8
+241,212,I,648,4th Ave & Cherry St,12,AM,0.1,5.3,12.4,0.4,37.3
+241,212,I,648,4th Ave & Cherry St,12,MID,0.1,3.7,16,0.4,14.9
+241,212,I,648,4th Ave & Cherry St,12,PM,0,2.6,5.6,0.1,7.8
+241,212,O,360,2nd Ave & Cherry St,4,XEV,1,0.1,4.2,1,0.1
+241,212,O,79872,SE 36th St & 132nd Ave SE,10,AM,0,0.7,4.5,0,2
+241,212,O,375,2nd Ave Ext S & Yesler Way,5,AM,0,0,10.6,0.1,0.1
+241,212,O,375,2nd Ave Ext S & Yesler Way,5,PM,0,0,16.1,0,0.2
+241,212,O,375,2nd Ave Ext S & Yesler Way,5,XEV,0,0,4.2,0,0
+241,212,I,620,4th Ave S & S Jackson St,10,AM,1.7,3,19.2,13.8,23.7
+241,212,I,620,4th Ave S & S Jackson St,10,MID,0.2,2.9,18.6,0.5,8.6
+241,212,I,620,4th Ave S & S Jackson St,10,PM,0.4,5,8.5,1.1,15.1
+241,212,O,67023,142nd Pl SE & SE 36th St,12,AM,0,0.7,3.9,0,2.1
+241,212,O,280,2nd Ave & Stewart St,2,AM,2,0,4.5,6,0.1
+241,212,I,700,4th Ave & Pike St,14,AM,0,2.4,3.6,0.3,16.9
+241,212,I,700,4th Ave & Pike St,14,MID,0,3,6.2,0,11.9
+241,212,I,700,4th Ave & Pike St,14,PM,0,1.7,1.6,0.1,5.2
+241,212,O,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,14,AM,0,2.2,0,0.1,6.6
+241,212,I,1040,Olive Way & 6th Ave,15,AM,0,1.5,2.2,0,10.3
+241,212,I,1040,Olive Way & 6th Ave,15,MID,0,3.1,3.1,0,12.2
+241,212,O,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,14,PM,0.1,8.4,0,0.5,67.1
+241,212,I,67034,SE 36th St & Factoria Blvd SE,6,PM,4.2,0.4,14.5,12.6,1.1
+241,212,O,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,14,XEV,0,1.7,0,0,3.4
+241,212,I,1050,Olive Way & 8th Ave,16,AM,0,2.2,0,0.2,15.4
+241,212,I,1050,Olive Way & 8th Ave,16,MID,0,3.1,0,0,12.4
+241,212,I,628,4th Ave S & S Washington St,11,AM,0.1,0.9,18.3,0.5,7.5
+241,212,I,628,4th Ave S & S Washington St,11,MID,0.1,0.2,18.6,0.4,0.5
+241,212,I,628,4th Ave S & S Washington St,11,PM,0,0.3,8.2,0.1,1
+241,212,O,79864,SE 36th St & 132nd Ave SE,9,AM,0,0.4,5.2,0.1,1.1
+241,212,I,67022,142nd Pl SE & SE 32nd St,1,PM,1.7,0,7.7,5.2,0.1
+241,212,O,67013,I-90 Expressway Ramp & 142nd Pl SE - Bay 4,6,PM,0.2,8.3,8,1.4,74.4
+241,212,O,67013,I-90 Expressway Ramp & 142nd Pl SE - Bay 4,6,XEV,0,2.1,2.1,0,2.1
+241,212,I,67028,SE 36th St & 132nd Ave SE,4,PM,0.3,0,9.2,1,0.1
+241,212,I,67021,142nd Pl SE & SE 36th St,2,PM,1.1,0.1,8.7,3.2,0.2
+241,212,O,79878,142nd Pl SE & SE 32nd St,13,AM,0,1.7,2.2,0,5
+241,212,O,79878,142nd Pl SE & SE 32nd St,13,PM,0,0.4,7.6,0,3.8
+241,212,O,79878,142nd Pl SE & SE 32nd St,13,XEV,0,0.4,1.7,0,0.4
+241,212,I,720,4th Ave & Stewart St,17,PM,0,1.7,0,0,5.1
+241,212,I,67014,Eastgate Park & Ride - Bay 1,7,AM,19.3,0,19.4,154.2,0
+241,212,I,67014,Eastgate Park & Ride - Bay 1,7,MID,20.1,0,20.2,60.4,0
+241,212,I,67014,Eastgate Park & Ride - Bay 1,7,PM,5.2,0,6,15.5,0
+241,212,I,85410,I-90 & Richards Rd,8,AM,1,0,20.4,7.8,0.2
+241,212,I,85410,I-90 & Richards Rd,8,MID,1.2,0,21.4,3.6,0.1
+241,212,I,85410,I-90 & Richards Rd,8,PM,1.1,0.2,15.5,3.4,0.5
+241,212,O,320,2nd Ave & Seneca St,3,AM,2.3,0.1,6.8,6.9,0.2
+241,212,O,320,2nd Ave & Seneca St,3,PM,6.5,0.1,11.5,58.8,1.2
+241,212,O,320,2nd Ave & Seneca St,3,XEV,1.2,0.1,3.3,1.2,0.1
+241,212,O,250,2nd Ave & Bell St,1,AM,2.1,0,2.6,6.2,0
+241,212,O,250,2nd Ave & Bell St,1,PM,1.1,0,1.3,10.6,0.4
+241,212,I,8494,Rainier Ave S & S Charles St,9,PM,0.6,2.9,13.1,1.7,8.7
+241,212,I,67032,SE 36th St & 132nd Ave SE,5,PM,1.6,0.2,10.7,4.8,0.5
+241,212,O,8590,Rainier Ave S & S Charles St,7,AM,2.9,0.1,13.3,8.6,0.4
+241,212,I,670,4th Ave & Seneca St,13,AM,0,6.4,6,0.2,45
+241,212,I,670,4th Ave & Seneca St,13,MID,0,7,9.1,0.1,27.8
+241,212,I,670,4th Ave & Seneca St,13,PM,0,2.3,3.3,0.1,6.9
+241,212,I,67026,SE 36th St & 136th Pl SE,3,PM,0.2,0,8.9,0.6,0.1
+241,212,O,79874,SE 36th St & 136th Pl SE,11,AM,0.2,0.1,4.6,0.6,0.4

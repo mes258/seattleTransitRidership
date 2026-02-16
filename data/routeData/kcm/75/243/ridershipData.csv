@@ -1,0 +1,456 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,75,O,9132,University Way NE & NE 50th St,1,AM,2.4,0,16.8,40.5,0
+243,75,I,35317,Northgate Station - Bay 1,1,AM,2.7,0,3,42.9,0
+243,75,I,23750,5th Ave NE & NE 103rd St,2,AM,0.4,0.1,3.1,6.1,1
+243,75,O,9133,University Way NE & NE 45th St,2,AM,1,0.9,16.9,17.1,15.7
+243,75,O,9134,U District Station - Bay 4,3,AM,1.6,3,15.5,27.6,51
+243,75,I,23770,5th Ave NE & NE 106th St,3,AM,0.3,0.1,3.2,4.7,1.1
+243,75,O,9142,University Way NE & NE 41st St,4,AM,1.2,2.4,14.2,19.7,40.4
+243,75,I,23785,5th Ave NE & NE 112th St,4,AM,0.6,0.3,3.5,9.6,4.8
+243,75,O,75418,Stevens Way & Asotin Pl,5,AM,0.4,3.7,10.5,6.2,59.5
+243,75,I,23800,5th Ave NE & NE 115th St,5,AM,0.3,0.1,3.7,4.7,1.7
+243,75,I,23820,5th Ave NE & NE 120th St,6,AM,0.2,0,3.8,2.8,0.4
+243,75,O,75417,Stevens Way & Okanogan Ln,6,AM,0.3,3,7.7,4.4,48.6
+243,75,I,23831,5th Ave NE & NE 123rd St,7,AM,0.1,0.2,3.7,0.8,3
+243,75,O,75415,Stevens Way & Rainier Vista NE,7,AM,0.8,0.7,7.8,13,11.9
+243,75,I,35350,NE 125th St & Roosevelt Way NE,8,AM,0.5,0.1,4.1,8.6,1.7
+243,75,O,75414,Stevens Way & Benton Ln,8,AM,0.1,2.1,5.8,1.8,34.1
+243,75,O,75410,Stevens Way & Pend Oreille Rd,9,AM,0.3,1.5,4.5,4,23.8
+243,75,I,35380,NE 125th St & 15th Ave NE,9,AM,2.1,0.3,5.9,33.3,5.2
+243,75,I,35400,NE 125th St & 20th Ave NE,10,AM,0.1,0,5.9,2.2,0.7
+243,75,O,25790,Montlake Blvd NE & NE 45th St,10,AM,0.1,0.4,4.2,1.3,6.6
+243,75,I,35420,NE 125th St & 25th Ave NE,11,AM,0.5,0.1,6.3,7.2,2
+243,75,O,25201,NE 45th St & University Village,11,AM,0.2,0.3,4.1,3,5.4
+243,75,I,35440,NE 125th St & 30th Ave NE,12,AM,0.4,0.6,6.1,6.2,9.8
+243,75,O,29920,NE 45th St & Mary Gates Memorial Dr NE,12,AM,0.2,0.2,4.1,2.4,2.6
+243,75,O,29930,NE 45th St & 36th Ave NE,13,AM,0.1,0,4.1,1.3,0.7
+243,75,I,9670,NE 125th St & Lake City Way NE,13,AM,0.9,2,5,14.6,31.4
+243,75,I,9680,NE 125th St & 33rd Ave NE,14,AM,0.5,0.2,5.3,7.2,3
+243,75,O,10561,Sand Point Way NE & 38th Ave NE,14,AM,0,0.2,4,0,2.3
+243,75,I,9690,NE 125th St & 35th Ave NE,15,AM,0.5,0.2,5.5,7.2,3
+243,75,O,10562,Sand Point Way NE & 40th Ave NE,15,AM,0.3,1.1,3.1,4.1,16.8
+243,75,O,10564,Sand Point Way NE & NE 50th St,16,AM,0.2,0.4,3,3.7,6.3
+243,75,I,9710,NE 125th St & 39th Ave NE,16,AM,0.3,0,5.8,5.4,0.4
+243,75,I,9720,Sand Point Way NE & Bartlett Ave NE,17,AM,0.5,0,6.3,8,0.5
+243,75,O,10566,Sand Point Way NE & NE 52nd St,17,AM,0.2,0,3.1,2.3,0.4
+243,75,I,9730,Sand Point Way NE & NE 120th St,18,AM,0.2,0,6.5,3.1,0.1
+243,75,O,10568,Sand Point Way NE & Princeton Ave NE,18,AM,0.1,0.1,3.1,2.2,1.4
+243,75,O,10580,Sand Point Way NE & NE Windermere Rd,19,AM,0,0.1,3.1,0.1,1.4
+243,75,I,9750,Sand Point Way NE & NE 115th St,19,AM,0.3,0.1,6.7,4.5,1.5
+243,75,I,9770,Sand Point Way NE & NE 110th St,20,AM,0.3,0.1,6.9,4.7,1.2
+243,75,O,10600,Sand Point Way NE & NE 61st St,20,AM,0.1,0.1,3,0.8,2.2
+243,75,I,9790,Sand Point Way NE & NE 106th St,21,AM,0.3,0,7.2,4.4,0.3
+243,75,O,10620,Sand Point Way NE & NE 65th St,21,AM,0.3,0.3,2.9,4.1,5.2
+243,75,O,10630,Sand Point Way NE & NE 70th St,22,AM,0.6,0.4,3.1,8.4,6
+243,75,I,9800,Sand Point Way NE & NE 103rd St,22,AM,0.1,0,7.3,1.6,0.2
+243,75,O,10641,Sand Point Way NE & NE 74th St,23,AM,0.4,0.7,2.7,5.5,11
+243,75,I,9820,Sand Point Way NE & NE 97th St,23,AM,0.7,0.1,7.9,10.2,0.9
+243,75,I,9830,Sand Point Way NE & NE 95th St,24,AM,0.2,0,8.1,2.5,0.2
+243,75,O,10650,Sand Point Way NE & NE 77th St,24,AM,0,0.6,2.2,0.5,8.5
+243,75,O,10680,Sand Point Way NE & Inverness Dr NE,25,AM,0,0,2.1,0,0.2
+243,75,I,9840,Sand Point Way NE & NE 93rd St,25,AM,0,0,8.1,0.7,0
+243,75,I,9850,Sand Point Way NE & Mathews Ave NE,26,AM,0,0,8.2,0.6,0
+243,75,O,10700,Sand Point Way NE & Matthews Pl NE,26,AM,0,0,2.2,0.1,0
+243,75,I,9860,Sand Point Way NE & Inverness Dr NE,27,AM,0.1,0,8.3,1.9,0
+243,75,O,10710,Sand Point Way NE & NE 93rd St,27,AM,0,0,2.2,0,0.1
+243,75,I,9895,Sand Point Way NE & NE 77th St,28,AM,0.4,0.5,8.3,6.6,7.1
+243,75,O,10720,Sand Point Way NE & NE 95th St,28,AM,0,0,2.1,0.1,0
+243,75,I,9900,Sand Point Way NE & NE 74th St,29,AM,1.3,0.6,9,19.7,8.9
+243,75,O,10730,Sand Point Way NE & NE 97th St,29,AM,0.2,0,2.3,2.4,0.5
+243,75,I,9912,Sand Point Way NE & NE 70th St,30,AM,1,0.5,9.4,14.5,7.8
+243,75,O,10750,Sand Point Way NE & NE 103rd St,30,AM,0.1,0,2.3,0.7,0.5
+243,75,O,10760,Sand Point Way NE & NE 106th St,31,AM,0.2,0,2.5,2.5,0.4
+243,75,I,9921,Sand Point Way NE & NE 65th St,31,AM,2.6,0.2,11.8,39.5,3.2
+243,75,I,9930,Sand Point Way NE & NE 62nd St,32,AM,0.7,0.1,12.4,10.4,1.4
+243,75,O,10780,Sand Point Way NE & NE 110th St,32,AM,0.2,0.1,2.6,3.2,0.8
+243,75,I,9950,Sand Point Way NE & NE 58th St,33,AM,0.4,0.1,12.8,6.7,0.8
+243,75,O,10800,Sand Point Way NE & NE 115th St,33,AM,0.2,0,2.8,3.1,0.1
+243,75,I,9970,Sand Point Way NE & Ivanhoe Pl NE,34,AM,0.3,0.1,13,4.7,2.2
+243,75,O,10820,Sand Point Way NE & NE 120th St,34,AM,0.2,0.1,2.9,2.7,0.8
+243,75,I,9972,Sand Point Way NE & Princeton Ave NE,35,AM,0.6,0.1,13.5,9.2,1.7
+243,75,O,10830,Sand Point Way NE & NE 123rd St,35,AM,0.3,0,3.2,4.6,0.5
+243,75,I,9974,Sand Point Way NE & NE 52nd St,36,AM,0.7,0.4,13.8,10.9,6.5
+243,75,O,10840,NE 125th St & 39th Ave NE,36,AM,0.2,0.1,3.3,2.9,1.2
+243,75,O,10860,NE 125th St & 35th Ave NE,37,AM,0.7,0.2,3.8,9.1,2.6
+243,75,I,9976,Sand Point Way NE & NE 50th St,37,AM,0.6,3,11.3,8.5,45
+243,75,O,10870,NE 125th St & 33rd Ave NE,38,AM,1.1,0.2,4.6,14.7,3
+243,75,I,9978,Sand Point Way NE & 40th Ave NE,38,AM,0,0.4,10.9,0,6.4
+243,75,O,35230,NE 125th St & Lake City Way NE,39,AM,1.7,0.3,5.9,23.4,4.5
+243,75,O,35231,NE 125th St & 28th Ave NE,40,AM,1.1,0.1,6.9,14.8,1.5
+243,75,O,35233,NE 125th St & 25th Ave NE,41,AM,0.5,0,7.4,7,0
+243,75,O,35250,NE 125th St & 20th Ave NE,42,AM,0.4,0.1,7.6,4.9,0.8
+243,75,O,35270,NE 125th St & 15th Ave NE,43,AM,0.8,1,7.5,10.8,13.7
+243,75,O,23872,NE 125th St & Roosevelt Way NE,44,AM,1.7,0.4,8.8,24.3,4.9
+243,75,O,23170,5th Ave NE & NE 123rd St,45,AM,0.4,0.1,9.1,5.3,1
+243,75,O,23180,5th Ave NE & NE 120th St,46,AM,0.2,0,9.4,3.3,0
+243,75,O,23200,5th Ave NE & NE 115th St,47,AM,0.5,0.3,9.7,6.8,4.4
+243,75,O,23220,5th Ave NE & NE 112th St,48,AM,0.3,0.5,9.6,3.9,5.9
+243,75,O,23230,5th Ave NE & NE Northgate Way,49,AM,0.8,0.5,9.9,10.9,7
+243,75,O,23250,5th Ave NE & NE 106th St,50,AM,0.2,0.1,9.9,2,1.3
+243,75,O,23260,5th Ave NE & NE 103rd St,51,AM,0,0.1,9.8,0,1.6
+243,75,O,23273,NE 100th St & 4th Ave NE,52,AM,0,0.3,9.6,0.2,4
+243,75,O,35317,Northgate Station - Bay 1,53,AM,0.6,10.2,0,7.8,132.1
+243,75,O,9132,University Way NE & NE 50th St,1,MID,5.8,0,23,145.5,0
+243,75,I,35317,Northgate Station - Bay 1,1,MID,5.5,0,6,126.1,0
+243,75,I,23750,5th Ave NE & NE 103rd St,2,MID,0.4,0,6.3,9.1,0.8
+243,75,O,9133,University Way NE & NE 45th St,2,MID,2.3,1.4,23.9,57.8,35.7
+243,75,O,9134,U District Station - Bay 4,3,MID,2.3,3.4,22.7,57.8,86
+243,75,I,23770,5th Ave NE & NE 106th St,3,MID,0.4,0.3,6.4,8.9,6.3
+243,75,O,9142,University Way NE & NE 41st St,4,MID,3,3.1,22.6,75.7,78.7
+243,75,I,23785,5th Ave NE & NE 112th St,4,MID,1.5,0.9,6.9,34.8,21
+243,75,O,75418,Stevens Way & Asotin Pl,5,MID,1.9,7.6,16.8,49,197.9
+243,75,I,23800,5th Ave NE & NE 115th St,5,MID,0.3,0.2,7,7.6,5.8
+243,75,I,23820,5th Ave NE & NE 120th St,6,MID,0.1,0.2,6.9,1.5,5
+243,75,O,75417,Stevens Way & Okanogan Ln,6,MID,2,2.3,16.5,49,58.4
+243,75,I,23831,5th Ave NE & NE 123rd St,7,MID,0,0.1,6.8,0.8,3.2
+243,75,O,75415,Stevens Way & Rainier Vista NE,7,MID,1,1.9,15.6,25.4,46.6
+243,75,I,35350,NE 125th St & Roosevelt Way NE,8,MID,0.6,0.5,6.8,13.3,11.1
+243,75,O,75414,Stevens Way & Benton Ln,8,MID,1.8,6.3,11,44.5,158.7
+243,75,O,75410,Stevens Way & Pend Oreille Rd,9,MID,2.4,3.5,10,60,86.6
+243,75,I,35380,NE 125th St & 15th Ave NE,9,MID,1.9,0.9,7.8,45.8,22.6
+243,75,I,35400,NE 125th St & 20th Ave NE,10,MID,0.2,0.1,7.9,4,1.6
+243,75,O,25790,Montlake Blvd NE & NE 45th St,10,MID,0.3,1.2,9,6.3,31
+243,75,I,35420,NE 125th St & 25th Ave NE,11,MID,0.1,0.3,7.7,3.1,7.3
+243,75,O,25201,NE 45th St & University Village,11,MID,0.9,2.2,7.6,21.9,56.1
+243,75,I,35440,NE 125th St & 30th Ave NE,12,MID,0.2,1.5,6.5,5.5,34.9
+243,75,O,29920,NE 45th St & Mary Gates Memorial Dr NE,12,MID,0.3,0.7,7,6.8,19.4
+243,75,O,29930,NE 45th St & 36th Ave NE,13,MID,0.1,0.4,6.7,2.5,9.9
+243,75,I,9670,NE 125th St & Lake City Way NE,13,MID,1,2.1,5.3,21.9,49.4
+243,75,I,9680,NE 125th St & 33rd Ave NE,14,MID,0.4,0.6,5,9.3,14.8
+243,75,O,10561,Sand Point Way NE & 38th Ave NE,14,MID,0,0.2,6.6,0.2,3.9
+243,75,I,9690,NE 125th St & 35th Ave NE,15,MID,0.4,0.5,5,9.5,11.3
+243,75,O,10562,Sand Point Way NE & 40th Ave NE,15,MID,0.2,0.4,6.4,6.4,10.5
+243,75,O,10564,Sand Point Way NE & NE 50th St,16,MID,0.3,0.4,6.4,8.9,10.3
+243,75,I,9710,NE 125th St & 39th Ave NE,16,MID,0.1,0.2,4.9,2.1,4.1
+243,75,I,9720,Sand Point Way NE & Bartlett Ave NE,17,MID,0.3,0.2,5,7.5,4.6
+243,75,O,10566,Sand Point Way NE & NE 52nd St,17,MID,0.1,0.2,6.3,3.6,6.2
+243,75,I,9730,Sand Point Way NE & NE 120th St,18,MID,0.1,0,5,1.7,0.8
+243,75,O,10568,Sand Point Way NE & Princeton Ave NE,18,MID,0.2,0.5,6,6.1,13
+243,75,O,10580,Sand Point Way NE & NE Windermere Rd,19,MID,0,0.2,5.8,0.9,5
+243,75,I,9750,Sand Point Way NE & NE 115th St,19,MID,0.1,0.1,5.1,3.3,2.3
+243,75,I,9770,Sand Point Way NE & NE 110th St,20,MID,0.1,0.1,5.1,2.8,2.4
+243,75,O,10600,Sand Point Way NE & NE 61st St,20,MID,0.1,0.3,5.6,1.9,8.8
+243,75,I,9790,Sand Point Way NE & NE 106th St,21,MID,0.2,0,5.3,4.6,1
+243,75,O,10620,Sand Point Way NE & NE 65th St,21,MID,0.2,1.1,4.7,6.2,28.4
+243,75,O,10630,Sand Point Way NE & NE 70th St,22,MID,0.7,0.8,4.6,19.1,21
+243,75,I,9800,Sand Point Way NE & NE 103rd St,22,MID,0,0,5.3,0.6,0.5
+243,75,O,10641,Sand Point Way NE & NE 74th St,23,MID,0.5,0.7,4.3,11.5,17.5
+243,75,I,9820,Sand Point Way NE & NE 97th St,23,MID,0.3,0.1,5.5,7.5,2.3
+243,75,I,9830,Sand Point Way NE & NE 95th St,24,MID,0.1,0,5.6,3,1.1
+243,75,O,10650,Sand Point Way NE & NE 77th St,24,MID,0.1,0.2,4.1,2.2,5.2
+243,75,O,10680,Sand Point Way NE & Inverness Dr NE,25,MID,0,0.1,4.1,0.9,1.8
+243,75,I,9840,Sand Point Way NE & NE 93rd St,25,MID,0.1,0,5.7,2.4,0.2
+243,75,I,9850,Sand Point Way NE & Mathews Ave NE,26,MID,0,0,5.7,1,0.1
+243,75,O,10700,Sand Point Way NE & Matthews Pl NE,26,MID,0,0,4.1,0.1,0.4
+243,75,I,9860,Sand Point Way NE & Inverness Dr NE,27,MID,0.1,0,5.8,2.4,0.3
+243,75,O,10710,Sand Point Way NE & NE 93rd St,27,MID,0,0.1,4.1,0.1,1.3
+243,75,I,9895,Sand Point Way NE & NE 77th St,28,MID,0.4,0.2,6,10.2,5
+243,75,O,10720,Sand Point Way NE & NE 95th St,28,MID,0.1,0,4,1.4,0.8
+243,75,I,9900,Sand Point Way NE & NE 74th St,29,MID,0.9,0.5,6.4,22.3,12.9
+243,75,O,10730,Sand Point Way NE & NE 97th St,29,MID,0.1,0.1,4,2.6,3.1
+243,75,I,9912,Sand Point Way NE & NE 70th St,30,MID,1.2,0.8,6.9,29.2,18.6
+243,75,O,10750,Sand Point Way NE & NE 103rd St,30,MID,0,0,4,0.1,0.1
+243,75,O,10760,Sand Point Way NE & NE 106th St,31,MID,0.1,0.1,3.9,1.3,2.3
+243,75,I,9921,Sand Point Way NE & NE 65th St,31,MID,2.6,0.3,9.1,62.9,7.9
+243,75,I,9930,Sand Point Way NE & NE 62nd St,32,MID,0.5,0,9.5,11.1,1
+243,75,O,10780,Sand Point Way NE & NE 110th St,32,MID,0.1,0.1,4,2.5,2.1
+243,75,I,9950,Sand Point Way NE & NE 58th St,33,MID,0.2,0.1,9.7,5.7,1.5
+243,75,O,10800,Sand Point Way NE & NE 115th St,33,MID,0.1,0.1,4,2.8,1.4
+243,75,I,9970,Sand Point Way NE & Ivanhoe Pl NE,34,MID,0.2,0.1,9.8,3.7,2.1
+243,75,O,10820,Sand Point Way NE & NE 120th St,34,MID,0.1,0.1,4.1,3.6,1.5
+243,75,I,9972,Sand Point Way NE & Princeton Ave NE,35,MID,0.4,0.1,10,8.4,3.5
+243,75,O,10830,Sand Point Way NE & NE 123rd St,35,MID,0.2,0.1,4.2,3.9,2.4
+243,75,I,9974,Sand Point Way NE & NE 52nd St,36,MID,0.4,0.2,10.2,9.4,5.5
+243,75,O,10840,NE 125th St & 39th Ave NE,36,MID,0.1,0.1,4.1,2.1,2.3
+243,75,O,10860,NE 125th St & 35th Ave NE,37,MID,0.7,0.3,4.6,18.2,7.6
+243,75,I,9976,Sand Point Way NE & NE 50th St,37,MID,0.6,0.7,10.1,14.3,16.2
+243,75,O,10870,NE 125th St & 33rd Ave NE,38,MID,1,0.5,5.1,25.7,11.8
+243,75,I,9978,Sand Point Way NE & 40th Ave NE,38,MID,0,0.5,9.8,0,10.5
+243,75,O,35230,NE 125th St & Lake City Way NE,39,MID,2.4,0.7,6.8,63.4,18.3
+243,75,O,35231,NE 125th St & 28th Ave NE,40,MID,1,0.3,7.3,23.9,6.3
+243,75,O,35233,NE 125th St & 25th Ave NE,41,MID,0.3,0.1,7.5,7.2,1.4
+243,75,O,35250,NE 125th St & 20th Ave NE,42,MID,0.2,0.1,7.6,4.1,2.1
+243,75,O,35270,NE 125th St & 15th Ave NE,43,MID,0.6,1.5,6.7,14.3,36.5
+243,75,O,23872,NE 125th St & Roosevelt Way NE,44,MID,1,0.3,7.5,25.1,6.8
+243,75,O,23170,5th Ave NE & NE 123rd St,45,MID,0.2,0.1,7.6,4.1,1.4
+243,75,O,23180,5th Ave NE & NE 120th St,46,MID,0.1,0,7.7,3.5,0.7
+243,75,O,23200,5th Ave NE & NE 115th St,47,MID,0.2,0.2,7.6,4.4,5.4
+243,75,O,23220,5th Ave NE & NE 112th St,48,MID,0.3,0.9,7.1,8.9,22.3
+243,75,O,23230,5th Ave NE & NE Northgate Way,49,MID,0.8,0.9,7,19.7,22.5
+243,75,O,23250,5th Ave NE & NE 106th St,50,MID,0.1,0.2,6.9,3.1,6
+243,75,O,23260,5th Ave NE & NE 103rd St,51,MID,0,0.2,6.7,0,4.3
+243,75,O,23273,NE 100th St & 4th Ave NE,52,MID,0,0.5,6.3,0.2,11.9
+243,75,O,35317,Northgate Station - Bay 1,53,MID,1.2,7.6,0,32.2,196.7
+243,75,O,9132,University Way NE & NE 50th St,1,PM,2.9,0,11.3,54.4,0
+243,75,I,35317,Northgate Station - Bay 1,1,PM,10.9,0,11.4,239.7,0.2
+243,75,I,23750,5th Ave NE & NE 103rd St,2,PM,0.5,0.1,11.9,11.6,1.3
+243,75,O,9133,University Way NE & NE 45th St,2,PM,1.3,1.3,11.3,25,24.9
+243,75,O,9134,U District Station - Bay 4,3,PM,2.1,2.4,11.1,40.8,44.7
+243,75,I,23770,5th Ave NE & NE 106th St,3,PM,0.4,0.6,11.7,9.3,12.5
+243,75,I,23785,5th Ave NE & NE 112th St,4,PM,1.8,1.6,11.9,39.1,34.9
+243,75,O,9142,University Way NE & NE 41st St,4,PM,2.6,1.8,11.8,49.5,34.7
+243,75,O,75418,Stevens Way & Asotin Pl,5,PM,3,1.6,13.3,57.9,29.5
+243,75,I,23800,5th Ave NE & NE 115th St,5,PM,0.4,0.5,11.8,7.9,10.8
+243,75,I,23820,5th Ave NE & NE 120th St,6,PM,0,0.4,11.4,0.5,8.5
+243,75,O,75417,Stevens Way & Okanogan Ln,6,PM,4.3,0.4,17.5,81.4,7.8
+243,75,I,23831,5th Ave NE & NE 123rd St,7,PM,0.1,0.4,11.1,1.2,8.3
+243,75,O,75415,Stevens Way & Rainier Vista NE,7,PM,2.5,0.7,19.3,47.5,14
+243,75,I,35350,NE 125th St & Roosevelt Way NE,8,PM,0.5,1.4,10.2,10,30.3
+243,75,O,75414,Stevens Way & Benton Ln,8,PM,3.4,2.8,19.9,65.5,53.4
+243,75,O,75410,Stevens Way & Pend Oreille Rd,9,PM,3.8,2.3,21.4,72.6,44.1
+243,75,I,35380,NE 125th St & 15th Ave NE,9,PM,1.6,1.8,10,36,40.1
+243,75,I,35400,NE 125th St & 20th Ave NE,10,PM,0.1,0.3,9.8,1.3,5.5
+243,75,O,25790,Montlake Blvd NE & NE 45th St,10,PM,0.4,1.5,20.4,8.3,28.2
+243,75,I,35420,NE 125th St & 25th Ave NE,11,PM,0.1,0.5,9.4,2.3,10.9
+243,75,O,25201,NE 45th St & University Village,11,PM,1.8,3.7,18.5,35,70.8
+243,75,I,35440,NE 125th St & 30th Ave NE,12,PM,0.2,1.8,7.8,4.7,40
+243,75,O,29920,NE 45th St & Mary Gates Memorial Dr NE,12,PM,0.5,1.2,17.8,9.1,23.3
+243,75,O,29930,NE 45th St & 36th Ave NE,13,PM,0.3,1,17,4.8,19.8
+243,75,I,9670,NE 125th St & Lake City Way NE,13,PM,1,2.6,6.1,20.9,57
+243,75,I,9680,NE 125th St & 33rd Ave NE,14,PM,0.3,0.8,5.6,6.2,18.4
+243,75,O,10561,Sand Point Way NE & 38th Ave NE,14,PM,0.1,0.2,16.8,1.6,4.5
+243,75,I,9690,NE 125th St & 35th Ave NE,15,PM,0.4,0.7,5.2,8,15.2
+243,75,O,10562,Sand Point Way NE & 40th Ave NE,15,PM,0.9,0.4,17.4,17.9,6.9
+243,75,O,10564,Sand Point Way NE & NE 50th St,16,PM,1.2,0.8,18.1,20.7,13.7
+243,75,I,9710,NE 125th St & 39th Ave NE,16,PM,0,0.3,5,0.2,6
+243,75,I,9720,Sand Point Way NE & Bartlett Ave NE,17,PM,0.1,0.5,4.6,2.9,11.6
+243,75,O,10566,Sand Point Way NE & NE 52nd St,17,PM,0.2,0.8,17.6,4.4,14.4
+243,75,I,9730,Sand Point Way NE & NE 120th St,18,PM,0,0,4.6,0.6,1
+243,75,O,10568,Sand Point Way NE & Princeton Ave NE,18,PM,0.3,1.4,16.4,5.2,26
+243,75,O,10580,Sand Point Way NE & NE Windermere Rd,19,PM,0.1,0.5,16,1.3,9.1
+243,75,I,9750,Sand Point Way NE & NE 115th St,19,PM,0.1,0.3,4.4,1.5,6
+243,75,I,9770,Sand Point Way NE & NE 110th St,20,PM,0.1,0.3,4.2,2.2,6.8
+243,75,O,10600,Sand Point Way NE & NE 61st St,20,PM,0.1,1.2,14.9,1.4,22.1
+243,75,I,9790,Sand Point Way NE & NE 106th St,21,PM,0.1,0.2,4.1,2.1,3.8
+243,75,O,10620,Sand Point Way NE & NE 65th St,21,PM,0.4,3.9,11.4,7,69.8
+243,75,O,10630,Sand Point Way NE & NE 70th St,22,PM,1,1.5,10.9,18,26.9
+243,75,I,9800,Sand Point Way NE & NE 103rd St,22,PM,0,0,4.1,0.1,0.6
+243,75,O,10641,Sand Point Way NE & NE 74th St,23,PM,0.6,1.7,9.7,11.6,31.7
+243,75,I,9820,Sand Point Way NE & NE 97th St,23,PM,0.1,0.2,4,2.3,3.6
+243,75,I,9830,Sand Point Way NE & NE 95th St,24,PM,0,0.1,4,0.7,1.5
+243,75,O,10650,Sand Point Way NE & NE 77th St,24,PM,0.4,0.4,9.6,6.7,7.5
+243,75,O,10680,Sand Point Way NE & Inverness Dr NE,25,PM,0,0.2,9.5,0.1,3.9
+243,75,I,9840,Sand Point Way NE & NE 93rd St,25,PM,0,0,4,0.6,0.3
+243,75,I,9850,Sand Point Way NE & Mathews Ave NE,26,PM,0,0,4,0.1,0.1
+243,75,O,10700,Sand Point Way NE & Matthews Pl NE,26,PM,0,0.1,9.4,0,1.7
+243,75,I,9860,Sand Point Way NE & Inverness Dr NE,27,PM,0,0,4,0.9,0.1
+243,75,O,10710,Sand Point Way NE & NE 93rd St,27,PM,0,0.2,9.2,0.2,3.4
+243,75,I,9895,Sand Point Way NE & NE 77th St,28,PM,0.4,0.2,4.3,9.3,4
+243,75,O,10720,Sand Point Way NE & NE 95th St,28,PM,0,0.1,9.1,0.9,2.7
+243,75,I,9900,Sand Point Way NE & NE 74th St,29,PM,0.8,0.6,4.4,17,14.2
+243,75,O,10730,Sand Point Way NE & NE 97th St,29,PM,0.1,0.6,8.7,1.5,10.7
+243,75,I,9912,Sand Point Way NE & NE 70th St,30,PM,0.8,0.6,4.6,17.7,13.3
+243,75,O,10750,Sand Point Way NE & NE 103rd St,30,PM,0,0.2,8.5,0.3,3.4
+243,75,O,10760,Sand Point Way NE & NE 106th St,31,PM,0.1,0.3,8.2,1,6.2
+243,75,I,9921,Sand Point Way NE & NE 65th St,31,PM,0.7,0.3,5,16.3,7.5
+243,75,I,9930,Sand Point Way NE & NE 62nd St,32,PM,0.1,0,5.1,3,0.9
+243,75,O,10780,Sand Point Way NE & NE 110th St,32,PM,0.1,0.5,7.9,2.1,8.6
+243,75,I,9950,Sand Point Way NE & NE 58th St,33,PM,0.2,0,5.2,3.5,0.4
+243,75,O,10800,Sand Point Way NE & NE 115th St,33,PM,0.1,0.3,8,2,5.1
+243,75,I,9970,Sand Point Way NE & Ivanhoe Pl NE,34,PM,0.1,0.1,5.2,1.6,2.1
+243,75,O,10820,Sand Point Way NE & NE 120th St,34,PM,0.1,0.3,7.7,1.6,6.2
+243,75,I,9972,Sand Point Way NE & Princeton Ave NE,35,PM,0.3,0.1,5.4,5.7,2.3
+243,75,O,10830,Sand Point Way NE & NE 123rd St,35,PM,0.1,0.4,7.5,2.2,6.6
+243,75,I,9974,Sand Point Way NE & NE 52nd St,36,PM,0.2,0.2,5.4,5,4.7
+243,75,O,10840,NE 125th St & 39th Ave NE,36,PM,0.1,0.3,7.3,1.3,5.7
+243,75,O,10860,NE 125th St & 35th Ave NE,37,PM,0.8,0.7,7.4,13.9,11.9
+243,75,I,9976,Sand Point Way NE & NE 50th St,37,PM,0.6,0.3,5.7,11.8,7
+243,75,O,10870,NE 125th St & 33rd Ave NE,38,PM,0.7,1,7.1,12.3,17.1
+243,75,I,9978,Sand Point Way NE & 40th Ave NE,38,PM,0,0.2,5.5,0,3.6
+243,75,O,35230,NE 125th St & Lake City Way NE,39,PM,3,1,9,53.1,18.8
+243,75,O,35231,NE 125th St & 28th Ave NE,40,PM,1,0.4,9.8,19.9,8.4
+243,75,O,35233,NE 125th St & 25th Ave NE,41,PM,0.3,0.4,9.7,5.6,7.7
+243,75,O,35250,NE 125th St & 20th Ave NE,42,PM,0.1,0.3,9.5,1.6,5.1
+243,75,O,35270,NE 125th St & 15th Ave NE,43,PM,0.6,2.8,7.3,12.1,53
+243,75,O,23872,NE 125th St & Roosevelt Way NE,44,PM,0.7,0.6,7.6,12.7,11.3
+243,75,O,23170,5th Ave NE & NE 123rd St,45,PM,0.2,0.1,7.7,3.8,2.5
+243,75,O,23180,5th Ave NE & NE 120th St,46,PM,0.1,0.1,7.7,1.2,2.3
+243,75,O,23200,5th Ave NE & NE 115th St,47,PM,0.2,0.5,7.3,3.8,9.6
+243,75,O,23220,5th Ave NE & NE 112th St,48,PM,0.4,1.2,6.5,6.7,21.6
+243,75,O,23230,5th Ave NE & NE Northgate Way,49,PM,1,1.1,6.4,18.3,19.5
+243,75,O,23250,5th Ave NE & NE 106th St,50,PM,0.1,0.2,6.3,1.7,3.9
+243,75,O,23260,5th Ave NE & NE 103rd St,51,PM,0,0.2,6.1,0,4.2
+243,75,O,23273,NE 100th St & 4th Ave NE,52,PM,0,0.4,5.7,0.1,6.8
+243,75,O,35317,Northgate Station - Bay 1,53,PM,1.1,7,0,19.5,119.8
+243,75,O,9132,University Way NE & NE 50th St,1,XEV,1.4,0,5.8,15,0
+243,75,I,35317,Northgate Station - Bay 1,1,XEV,6.2,0,6.5,61.8,0
+243,75,I,23750,5th Ave NE & NE 103rd St,2,XEV,0.3,0,6.7,2.6,0.3
+243,75,O,9133,University Way NE & NE 45th St,2,XEV,0.8,0.9,5.7,9,10.3
+243,75,O,9134,U District Station - Bay 4,3,XEV,1.2,1.2,5.6,12.8,13
+243,75,I,23770,5th Ave NE & NE 106th St,3,XEV,0.2,0.2,6.7,1.7,2
+243,75,I,23785,5th Ave NE & NE 112th St,4,XEV,1.4,0.6,7.5,14,6.2
+243,75,O,9142,University Way NE & NE 41st St,4,XEV,1.5,1.3,5.9,16.9,14.1
+243,75,O,75418,Stevens Way & Asotin Pl,5,XEV,1.2,0.4,6.7,13.2,4.4
+243,75,I,23800,5th Ave NE & NE 115th St,5,XEV,0.1,0.3,7.3,1.1,2.9
+243,75,I,23820,5th Ave NE & NE 120th St,6,XEV,0,0.2,7.1,0,2.1
+243,75,O,75417,Stevens Way & Okanogan Ln,6,XEV,1.1,0.1,7.9,13.1,1.1
+243,75,I,23831,5th Ave NE & NE 123rd St,7,XEV,0,0.1,7,0.1,1.3
+243,75,O,75415,Stevens Way & Rainier Vista NE,7,XEV,0.9,0.1,8.7,11.3,1.3
+243,75,I,35350,NE 125th St & Roosevelt Way NE,8,XEV,0.2,1.1,6.1,1.9,11.3
+243,75,O,75414,Stevens Way & Benton Ln,8,XEV,1.6,1.1,9.1,18.6,12.8
+243,75,O,75410,Stevens Way & Pend Oreille Rd,9,XEV,1.8,1.4,9.6,21.9,16.8
+243,75,I,35380,NE 125th St & 15th Ave NE,9,XEV,1,1.3,5.8,10.2,12.6
+243,75,I,35400,NE 125th St & 20th Ave NE,10,XEV,0,0.1,5.8,0.3,1.2
+243,75,O,25790,Montlake Blvd NE & NE 45th St,10,XEV,0.2,0.8,9,2.7,9.3
+243,75,I,35420,NE 125th St & 25th Ave NE,11,XEV,0,0.3,5.5,0.3,2.5
+243,75,O,25201,NE 45th St & University Village,11,XEV,1.4,1.8,8.6,16.8,21.6
+243,75,I,35440,NE 125th St & 30th Ave NE,12,XEV,0.2,0.9,4.8,1.7,9.3
+243,75,O,29920,NE 45th St & Mary Gates Memorial Dr NE,12,XEV,0.2,0.5,8.3,2.4,6.3
+243,75,O,29930,NE 45th St & 36th Ave NE,13,XEV,0.2,0.3,8.2,2.1,3.4
+243,75,I,9670,NE 125th St & Lake City Way NE,13,XEV,0.8,1.6,4.2,9.2,17.8
+243,75,I,9680,NE 125th St & 33rd Ave NE,14,XEV,0.2,0.5,3.9,2.3,5.9
+243,75,O,10561,Sand Point Way NE & 38th Ave NE,14,XEV,0,0.1,8.1,0.3,1.3
+243,75,I,9690,NE 125th St & 35th Ave NE,15,XEV,0.2,0.4,3.6,1.9,4.4
+243,75,O,10562,Sand Point Way NE & 40th Ave NE,15,XEV,0.5,0.2,8.4,6,2.7
+243,75,O,10564,Sand Point Way NE & NE 50th St,16,XEV,0.3,0.4,8.6,4.2,4.9
+243,75,I,9710,NE 125th St & 39th Ave NE,16,XEV,0,0.1,3.5,0.4,1.6
+243,75,I,9720,Sand Point Way NE & Bartlett Ave NE,17,XEV,0,0.2,3.4,0,2.1
+243,75,O,10566,Sand Point Way NE & NE 52nd St,17,XEV,0,0.4,8.2,0.5,5.2
+243,75,I,9730,Sand Point Way NE & NE 120th St,18,XEV,0,0,3.4,0,0.3
+243,75,O,10568,Sand Point Way NE & Princeton Ave NE,18,XEV,0.1,0.4,7.9,1.5,5.1
+243,75,O,10580,Sand Point Way NE & NE Windermere Rd,19,XEV,0,0.1,7.8,0,1.8
+243,75,I,9750,Sand Point Way NE & NE 115th St,19,XEV,0,0.2,3.2,0.1,2.1
+243,75,I,9770,Sand Point Way NE & NE 110th St,20,XEV,0,0.1,3.1,0,1.1
+243,75,O,10600,Sand Point Way NE & NE 61st St,20,XEV,0,0.6,7.2,0.1,7.7
+243,75,I,9790,Sand Point Way NE & NE 106th St,21,XEV,0,0.1,3,0.1,1
+243,75,O,10620,Sand Point Way NE & NE 65th St,21,XEV,0.1,1.6,5.8,1.9,20.6
+243,75,O,10630,Sand Point Way NE & NE 70th St,22,XEV,0.6,1,5.5,8.1,12.6
+243,75,I,9800,Sand Point Way NE & NE 103rd St,22,XEV,0,0,3,0,0
+243,75,O,10641,Sand Point Way NE & NE 74th St,23,XEV,0.2,0.8,4.8,2.6,10.7
+243,75,I,9820,Sand Point Way NE & NE 97th St,23,XEV,0,0.1,3,0.4,0.7
+243,75,I,9830,Sand Point Way NE & NE 95th St,24,XEV,0,0.1,3,0,0.9
+243,75,O,10650,Sand Point Way NE & NE 77th St,24,XEV,0.1,0.2,4.7,1.1,2.9
+243,75,O,10680,Sand Point Way NE & Inverness Dr NE,25,XEV,0,0.1,4.6,0,1.1
+243,75,I,9840,Sand Point Way NE & NE 93rd St,25,XEV,0,0,2.9,0,0.1
+243,75,I,9850,Sand Point Way NE & Mathews Ave NE,26,XEV,0,0,3,0.1,0
+243,75,O,10700,Sand Point Way NE & Matthews Pl NE,26,XEV,0,0,4.6,0,0.6
+243,75,O,10710,Sand Point Way NE & NE 93rd St,27,XEV,0,0,4.6,0,0.3
+243,75,I,9860,Sand Point Way NE & Inverness Dr NE,27,XEV,0.1,0,3,0.7,0.1
+243,75,I,9895,Sand Point Way NE & NE 77th St,28,XEV,0.2,0,3.1,2,0.5
+243,75,O,10720,Sand Point Way NE & NE 95th St,28,XEV,0,0,4.5,0.4,0.3
+243,75,I,9900,Sand Point Way NE & NE 74th St,29,XEV,0.4,0.5,3.1,4.2,5.3
+243,75,O,10730,Sand Point Way NE & NE 97th St,29,XEV,0,0.3,4.2,0.2,4.4
+243,75,I,9912,Sand Point Way NE & NE 70th St,30,XEV,0.5,0.7,2.9,5.4,7.5
+243,75,O,10750,Sand Point Way NE & NE 103rd St,30,XEV,0,0,4.2,0,0.3
+243,75,O,10760,Sand Point Way NE & NE 106th St,31,XEV,0,0.1,4.1,0.5,1.7
+243,75,I,9921,Sand Point Way NE & NE 65th St,31,XEV,0.2,0.2,2.9,2.5,2
+243,75,I,9930,Sand Point Way NE & NE 62nd St,32,XEV,0.1,0,2.9,0.7,0.3
+243,75,O,10780,Sand Point Way NE & NE 110th St,32,XEV,0,0.1,4,0,1.8
+243,75,I,9950,Sand Point Way NE & NE 58th St,33,XEV,0,0,2.9,0.1,0.4
+243,75,O,10800,Sand Point Way NE & NE 115th St,33,XEV,0,0.2,3.8,0.4,2.5
+243,75,I,9970,Sand Point Way NE & Ivanhoe Pl NE,34,XEV,0,0.1,2.9,0.3,0.7
+243,75,O,10820,Sand Point Way NE & NE 120th St,34,XEV,0,0.2,3.7,0.4,2.9
+243,75,I,9972,Sand Point Way NE & Princeton Ave NE,35,XEV,0.2,0,3,2.1,0.3
+243,75,O,10830,Sand Point Way NE & NE 123rd St,35,XEV,0,0.1,3.6,0.1,1.4
+243,75,I,9974,Sand Point Way NE & NE 52nd St,36,XEV,0.1,0.2,3,1.4,2.2
+243,75,O,10840,NE 125th St & 39th Ave NE,36,XEV,0,0.2,3.4,0.1,2.8
+243,75,O,10860,NE 125th St & 35th Ave NE,37,XEV,0.2,0.3,3.4,2.7,3.8
+243,75,I,9976,Sand Point Way NE & NE 50th St,37,XEV,0.2,0.2,3.1,2.4,1.9
+243,75,O,10870,NE 125th St & 33rd Ave NE,38,XEV,0.2,0.4,3.1,2.5,5.5
+243,75,I,9978,Sand Point Way NE & 40th Ave NE,38,XEV,0,0.1,3,0,0.8
+243,75,O,35230,NE 125th St & Lake City Way NE,39,XEV,1.4,0.5,4.1,18.8,6.3
+243,75,O,35231,NE 125th St & 28th Ave NE,40,XEV,0.4,0.1,4.4,4.6,1.3
+243,75,O,35233,NE 125th St & 25th Ave NE,41,XEV,0.1,0.2,4.3,1.6,2
+243,75,O,35250,NE 125th St & 20th Ave NE,42,XEV,0,0.1,4.3,0.2,1.3
+243,75,O,35270,NE 125th St & 15th Ave NE,43,XEV,0.4,1.3,3.4,5,16.3
+243,75,O,23872,NE 125th St & Roosevelt Way NE,44,XEV,0.1,0.4,3.2,2,5.1
+243,75,O,23170,5th Ave NE & NE 123rd St,45,XEV,0,0.1,3.1,0.1,1
+243,75,O,23180,5th Ave NE & NE 120th St,46,XEV,0,0,3.1,0.4,0.4
+243,75,O,23200,5th Ave NE & NE 115th St,47,XEV,0.1,0.3,3,0.8,3.8
+243,75,O,23220,5th Ave NE & NE 112th St,48,XEV,0.1,0.4,2.7,2,5.6
+243,75,O,23230,5th Ave NE & NE Northgate Way,49,XEV,0.4,0.4,2.7,6.2,6.2
+243,75,O,23250,5th Ave NE & NE 106th St,50,XEV,0,0,2.7,0.3,0.4
+243,75,O,23260,5th Ave NE & NE 103rd St,51,XEV,0,0.1,2.6,0,1.3
+243,75,O,23273,NE 100th St & 4th Ave NE,52,XEV,0,0.1,2.6,0.1,1.2
+243,75,O,35317,Northgate Station - Bay 1,53,XEV,0.5,3.1,0,7.8,46.4
+243,75,O,9132,University Way NE & NE 50th St,1,XNT,0.7,0,2.7,5.3,0
+243,75,I,35317,Northgate Station - Bay 1,1,XNT,4.7,0,5.1,33.1,0
+243,75,O,9133,University Way NE & NE 45th St,2,XNT,0.4,0.4,2.7,2.9,3.3
+243,75,I,23750,5th Ave NE & NE 103rd St,2,XNT,0.2,0,5.3,1.5,0
+243,75,O,9134,U District Station - Bay 4,3,XNT,0.8,0.5,3,6.2,3.9
+243,75,I,23770,5th Ave NE & NE 106th St,3,XNT,0.2,0.1,6,1.1,0.7
+243,75,I,23785,5th Ave NE & NE 112th St,4,XNT,1.1,0.3,6.8,6.4,1.9
+243,75,O,9142,University Way NE & NE 41st St,4,XNT,0.8,0.6,3.2,6.3,4.7
+243,75,O,75418,Stevens Way & Asotin Pl,5,XNT,0.7,0.1,3.8,5.6,1
+243,75,I,23800,5th Ave NE & NE 115th St,5,XNT,0.1,0.3,6.6,0.6,1.5
+243,75,I,23820,5th Ave NE & NE 120th St,6,XNT,0,0.1,6.5,0.1,0.6
+243,75,O,75417,Stevens Way & Okanogan Ln,6,XNT,0.2,0,3.9,1.2,0.1
+243,75,I,23831,5th Ave NE & NE 123rd St,7,XNT,0,0.1,6.5,0,0.5
+243,75,O,75415,Stevens Way & Rainier Vista NE,7,XNT,0.5,0,4.3,3.6,0
+243,75,I,35350,NE 125th St & Roosevelt Way NE,8,XNT,0.1,1.2,5.4,0.7,7.3
+243,75,O,75414,Stevens Way & Benton Ln,8,XNT,0.4,0,4.6,2.9,0.2
+243,75,O,75410,Stevens Way & Pend Oreille Rd,9,XNT,0.5,0.5,4.7,4.1,3.6
+243,75,I,35380,NE 125th St & 15th Ave NE,9,XNT,0.9,0.6,5.7,5.4,3.3
+243,75,I,35400,NE 125th St & 20th Ave NE,10,XNT,0,0,5.7,0.1,0.2
+243,75,O,25790,Montlake Blvd NE & NE 45th St,10,XNT,0.2,0.4,4.5,1.3,2.8
+243,75,I,35420,NE 125th St & 25th Ave NE,11,XNT,0,0.1,5.6,0,0.7
+243,75,O,25201,NE 45th St & University Village,11,XNT,0.6,0.5,4.6,4.6,4.2
+243,75,I,35440,NE 125th St & 30th Ave NE,12,XNT,0,1.1,4.6,0.2,6.5
+243,75,O,29920,NE 45th St & Mary Gates Memorial Dr NE,12,XNT,0.1,0.2,4.4,0.8,1.9
+243,75,O,29930,NE 45th St & 36th Ave NE,13,XNT,0,0.1,4.4,0.3,0.9
+243,75,I,9670,NE 125th St & Lake City Way NE,13,XNT,0.4,1.6,3.4,2.2,9.5
+243,75,I,9680,NE 125th St & 33rd Ave NE,14,XNT,0.3,0.5,3.1,1.5,2.9
+243,75,O,10561,Sand Point Way NE & 38th Ave NE,14,XNT,0,0,4.4,0,0.2
+243,75,I,9690,NE 125th St & 35th Ave NE,15,XNT,0.2,0.3,3.1,1.3,1.6
+243,75,O,10562,Sand Point Way NE & 40th Ave NE,15,XNT,0.5,0.1,4.7,3.9,0.8
+243,75,O,10564,Sand Point Way NE & NE 50th St,16,XNT,0.2,0.1,4.8,1.6,1
+243,75,I,9710,NE 125th St & 39th Ave NE,16,XNT,0,0.1,3,0,0.8
+243,75,I,9720,Sand Point Way NE & Bartlett Ave NE,17,XNT,0,0.1,2.9,0,0.7
+243,75,O,10566,Sand Point Way NE & NE 52nd St,17,XNT,0,0.1,4.8,0.2,0.6
+243,75,I,9730,Sand Point Way NE & NE 120th St,18,XNT,0,0.1,2.8,0,0.3
+243,75,O,10568,Sand Point Way NE & Princeton Ave NE,18,XNT,0,0.1,4.7,0.2,1
+243,75,O,10580,Sand Point Way NE & NE Windermere Rd,19,XNT,0,0.1,4.6,0,0.7
+243,75,I,9750,Sand Point Way NE & NE 115th St,19,XNT,0,0,2.7,0,0.2
+243,75,I,9770,Sand Point Way NE & NE 110th St,20,XNT,0,0.1,2.6,0,0.6
+243,75,O,10600,Sand Point Way NE & NE 61st St,20,XNT,0,0.1,4.5,0.1,1.1
+243,75,I,9790,Sand Point Way NE & NE 106th St,21,XNT,0,0,2.6,0.1,0.2
+243,75,O,10620,Sand Point Way NE & NE 65th St,21,XNT,0,0.6,3.9,0.3,4.9
+243,75,O,10630,Sand Point Way NE & NE 70th St,22,XNT,0.2,1,3.1,1.7,7.8
+243,75,I,9800,Sand Point Way NE & NE 103rd St,22,XNT,0,0,2.6,0,0
+243,75,O,10641,Sand Point Way NE & NE 74th St,23,XNT,0.1,0.4,2.8,1,3.4
+243,75,I,9820,Sand Point Way NE & NE 97th St,23,XNT,0,0,2.6,0,0.2
+243,75,I,9830,Sand Point Way NE & NE 95th St,24,XNT,0,0,2.6,0,0.2
+243,75,O,10650,Sand Point Way NE & NE 77th St,24,XNT,0,0.1,2.8,0.3,0.5
+243,75,O,10680,Sand Point Way NE & Inverness Dr NE,25,XNT,0,0,2.8,0,0.1
+243,75,I,9840,Sand Point Way NE & NE 93rd St,25,XNT,0,0,2.6,0,0
+243,75,I,9850,Sand Point Way NE & Mathews Ave NE,26,XNT,0,0,2.6,0,0
+243,75,O,10700,Sand Point Way NE & Matthews Pl NE,26,XNT,0,0,2.8,0,0.1
+243,75,O,10710,Sand Point Way NE & NE 93rd St,27,XNT,0,0,2.8,0.1,0.1
+243,75,I,9860,Sand Point Way NE & Inverness Dr NE,27,XNT,0,0,2.6,0.1,0
+243,75,I,9895,Sand Point Way NE & NE 77th St,28,XNT,0.1,0,2.6,0.3,0.1
+243,75,O,10720,Sand Point Way NE & NE 95th St,28,XNT,0,0.1,2.7,0,0.5
+243,75,I,9900,Sand Point Way NE & NE 74th St,29,XNT,0.3,0.4,2.6,1.8,2.1
+243,75,O,10730,Sand Point Way NE & NE 97th St,29,XNT,0,0.1,2.6,0,0.7
+243,75,I,9912,Sand Point Way NE & NE 70th St,30,XNT,0.5,0.5,2.6,2.8,3
+243,75,O,10750,Sand Point Way NE & NE 103rd St,30,XNT,0,0,2.6,0,0
+243,75,O,10760,Sand Point Way NE & NE 106th St,31,XNT,0,0,2.6,0,0.3
+243,75,I,9921,Sand Point Way NE & NE 65th St,31,XNT,0.2,0.1,2.6,1.2,0.7
+243,75,I,9930,Sand Point Way NE & NE 62nd St,32,XNT,0.1,0,2.7,0.3,0
+243,75,O,10780,Sand Point Way NE & NE 110th St,32,XNT,0,0.1,2.6,0,0.5
+243,75,I,9950,Sand Point Way NE & NE 58th St,33,XNT,0,0,2.7,0.1,0
+243,75,O,10800,Sand Point Way NE & NE 115th St,33,XNT,0,0,2.5,0,0.2
+243,75,I,9970,Sand Point Way NE & Ivanhoe Pl NE,34,XNT,0,0,2.7,0,0
+243,75,O,10820,Sand Point Way NE & NE 120th St,34,XNT,0,0.1,2.4,0,0.8
+243,75,I,9972,Sand Point Way NE & Princeton Ave NE,35,XNT,0,0.2,2.6,0.1,1
+243,75,O,10830,Sand Point Way NE & NE 123rd St,35,XNT,0,0.1,2.4,0,0.7
+243,75,I,9974,Sand Point Way NE & NE 52nd St,36,XNT,0,0.1,2.5,0.2,0.5
+243,75,O,10840,NE 125th St & 39th Ave NE,36,XNT,0,0.1,2.3,0,0.4
+243,75,O,10860,NE 125th St & 35th Ave NE,37,XNT,0.1,0.2,2.3,0.9,1.8
+243,75,I,9976,Sand Point Way NE & NE 50th St,37,XNT,0.1,0.2,2.5,0.8,0.9
+243,75,O,10870,NE 125th St & 33rd Ave NE,38,XNT,0.1,0.2,2.2,1.2,1.8
+243,75,I,9978,Sand Point Way NE & 40th Ave NE,38,XNT,0,0,2.5,0,0
+243,75,O,35230,NE 125th St & Lake City Way NE,39,XNT,0.9,0.4,2.7,7.9,3.5
+243,75,O,35231,NE 125th St & 28th Ave NE,40,XNT,0.3,0.1,2.9,2.5,1.1
+243,75,O,35233,NE 125th St & 25th Ave NE,41,XNT,0,0.2,2.8,0.4,1.5
+243,75,O,35250,NE 125th St & 20th Ave NE,42,XNT,0,0.1,2.8,0.2,0.7
+243,75,O,35270,NE 125th St & 15th Ave NE,43,XNT,0.2,1,2,1.9,8.9
+243,75,O,23872,NE 125th St & Roosevelt Way NE,44,XNT,0.1,0.3,1.8,0.8,2.7
+243,75,O,23170,5th Ave NE & NE 123rd St,45,XNT,0,0,1.8,0,0
+243,75,O,23180,5th Ave NE & NE 120th St,46,XNT,0,0,1.8,0,0
+243,75,O,23200,5th Ave NE & NE 115th St,47,XNT,0,0.1,1.6,0.2,1.3
+243,75,O,23220,5th Ave NE & NE 112th St,48,XNT,0.1,0.1,1.6,0.5,0.9
+243,75,O,23230,5th Ave NE & NE Northgate Way,49,XNT,0.2,0.2,1.6,1.6,1.8
+243,75,O,23250,5th Ave NE & NE 106th St,50,XNT,0,0,1.6,0,0.4
+243,75,O,23260,5th Ave NE & NE 103rd St,51,XNT,0,0,1.6,0,0.1
+243,75,O,23273,NE 100th St & 4th Ave NE,52,XNT,0,0,1.6,0,0.1
+243,75,O,35317,Northgate Station - Bay 1,53,XNT,0.2,1.8,0,1.8,15.9

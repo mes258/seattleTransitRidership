@@ -1,0 +1,27 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,988,I,29320,24th Ave E & E Galer St,6,AM,0.8,0,23.4,0.8,0
+241,988,O,16430,Roosevelt Station - Bay 1,3,PM,0.3,3,14.8,0.3,3
+241,988,O,81294,1st Ave NE & NE 140th St,2,PM,5.2,0.2,17.5,5.2,0.2
+241,988,I,81294,1st Ave NE & NE 140th St,13,AM,0.4,8.2,0,0.4,8.2
+241,988,O,29254,23rd Ave E & E Aloha St,9,PM,0.1,3.2,5.3,0.1,3.2
+241,988,O,12380,E Madison St & 27th Ave E,11,PM,0.1,0.4,2.8,0.1,0.4
+241,988,I,25798,25th Ave NE & NE 80th St,11,AM,1.1,12.7,19,1.1,12.7
+241,988,O,25240,Montlake Blvd NE & NE Pacific Pl - Bay 3,6,PM,0.1,0.5,11.8,0.1,0.5
+241,988,O,23920,25th Ave NE & NE Blakeley St,5,PM,0.3,1.1,12.2,0.3,1.1
+241,988,I,2940,E Union St & 33rd Ave,1,AM,10.1,0,10.1,10.1,0
+241,988,O,37400,NE 65th St & 23rd Ave NE,4,PM,0,1.8,13,0,1.8
+241,988,I,25795,25th Ave NE & NE 65th St,10,AM,1.8,0.2,30.6,1.8,0.2
+241,988,O,29256,23rd Ave E & E Republican St,10,PM,0,2.2,3.1,0,2.2
+241,988,O,43710,Martin L King Jr Way & E Olive St,12,PM,0,0.1,2.7,0,0.1
+241,988,I,25755,Montlake Blvd NE & NE Pacific Pl - Bay 4,8,AM,0.2,0.3,28.7,0.2,0.3
+241,988,I,29278,23rd Ave E & E Republican St,4,AM,3.1,0.1,16.7,3.1,0.1
+241,988,O,75304,NE 135th St & 1st Ave NE,1,PM,12.5,0,12.5,12.5,0
+241,988,I,75304,NE 135th St & 1st Ave NE,12,AM,0.1,11.4,7.7,0.1,11.4
+241,988,O,29244,24th Ave E & E Mcgraw St,7,PM,0.2,3,9,0.2,3
+241,988,I,29280,23rd Ave E & E Aloha St,5,AM,6,0.1,22.7,6,0.1
+241,988,I,29361,24th Ave E & E Mcgraw St,7,AM,5.6,0.2,28.8,5.6,0.2
+241,988,O,3250,E Union St & 32nd Ave,13,PM,0.2,3,0,0.2,3
+241,988,I,12322,E Madison St & 28th Ave E,3,AM,3.7,0.1,13.7,3.7,0.1
+241,988,O,29251,24th Ave E & E Galer St,8,PM,0,0.6,8.5,0,0.6
+241,988,I,43788,Martin L King Jr Way & E Olive St,2,AM,0,0,10.1,0,0
+241,988,I,25791,25th Ave NE & NE 47th St,9,AM,0.5,0.2,29,0.5,0.2

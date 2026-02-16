@@ -1,0 +1,38 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,895,I,71410,NE 24th St & 173rd Ave NE,2,AM,0,0,1,0,0
+241,895,I,71430,NE 24th St & 180th Pl NE,4,AM,1,0,7,1,0
+241,895,I,71450,NE 24th St & 184th Ave NE,6,AM,0,0,7,0,0
+241,895,O,71220,NE 24th St & 185th Pl NE,13,PM,0,0,6,0,0
+241,895,I,71460,NE 24th St & 186th Ave NE,7,AM,3,0,10,3,0
+241,895,O,71140,West Lake Sammamish Pkwy NE & NE 40th St,6,PM,0,6.3,19.3,0,6.3
+241,895,I,71420,NE 24th St & 175th Ave NE,3,AM,5,0,6,5,0
+241,895,I,71480,West Lake Sammamish Pkwy NE & NE 27th St,9,AM,2,0,12,2,0
+241,895,O,73092,NE 40th St & NE Bel-Red Rd,5,PM,0,5.3,25.7,0,5.3
+241,895,I,71328,Overlake Park & Ride,1,AM,0,0,1,0,0
+241,895,O,71210,NE 24th St & 186th Ave NE,12,PM,0,1,6,0,1
+241,895,I,72060,NE 70th Pl & 132nd Ave NE,19,AM,0,0,44,0,0
+241,895,O,71170,West Lake Sammamish Pkwy NE & 180th Ave NE,9,PM,0,1.7,9.3,0,1.7
+241,895,O,71180,West Lake Sammamish Pkwy NE & NE 27th St,10,PM,0,0,9.3,0,0
+241,895,I,73059,NE 40th St & 156th Ave NE,18,AM,3,0,44,3,0
+241,895,O,71260,NE 24th St & 173rd Ave NE,17,PM,0,1.7,0,0,1.7
+241,895,I,68403,NE 40th St & West Lake Sammamish Pkwy SE,14,AM,12,0,37,12,0
+241,895,O,71190,West Lake Sammamish Pkwy NE & NE 27th St,11,PM,0,2.3,7,0,2.3
+241,895,I,71470,West Lake Sammamish Pkwy NE & NE 24th St,8,AM,0,0,10,0,0
+241,895,O,70694,NE 80th St & 120th Ave NE,1,PM,34,0,35.7,34,0
+241,895,I,70694,NE 80th St & 120th Ave NE,20,AM,0,44,0,0,44
+241,895,I,71500,West Lake Sammamish Pkwy NE & 180th Ave NE,11,AM,0,0,12,0,0
+241,895,I,71520,West Lake Sammamish Pkwy NE & 177th Ave NE,13,AM,7,0,25,7,0
+241,895,I,73077,NE 40th St & NE Bel-Red Rd,15,AM,4,0,41,4,0
+241,895,O,73922,132nd Ave NE & NE 80th St,2,PM,0,4.3,31.3,0,4.3
+241,895,O,71230,NE 24th St & 182nd Ave NE,14,PM,0,0,6,0,0
+241,895,I,71440,NE 24th St & 182nd Ave NE,5,AM,0,0,7,0,0
+241,895,O,71160,West Lake Sammamish Pkwy NE & 180th Ave NE,8,PM,0,4.7,11,0,4.7
+241,895,I,71510,West Lake Sammamish Pkwy NE & 180th Ave NE,12,AM,6,0,18,6,0
+241,895,I,73079,NE 40th St & 159th Ave NE,17,AM,0,0,41,0,0
+241,895,I,71490,West Lake Sammamish Pkwy NE & NE 27th St,10,AM,0,0,12,0,0
+241,895,O,68404,NE 40th St & 156th Ave NE,3,PM,0,0.3,31,0,0.3
+241,895,O,73089,NE 40th St & 163rd Ave NE,4,PM,0,0,31,0,0
+241,895,O,71150,West Lake Sammamish Pkwy NE & 177th Ave NE,7,PM,0,3.7,15.7,0,3.7
+241,895,O,71240,NE 24th St & 180th Ave NE,15,PM,0,1,5,0,1
+241,895,I,68407,NE 40th St & 163rd Ave NE,16,AM,0,0,41,0,0
+241,895,O,71250,NE 24th St & 175th Ave NE,16,PM,0,3.3,1.7,0,3.3

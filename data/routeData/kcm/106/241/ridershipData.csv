@@ -1,0 +1,602 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,106,I,30140,S Henderson St & Rainier Ave S,30,MID,3.1,0.8,12.7,74.1,19.3
+241,106,I,30140,S Henderson St & Rainier Ave S,30,PM,3.7,1,13.3,59.9,15.4
+241,106,I,55583,Martin L King Jr Way S & S Henderson St,32,AM,0.5,3.3,8.7,7.9,52.5
+241,106,I,30140,S Henderson St & Rainier Ave S,30,XEV,2.3,0.7,11.7,13.7,4.3
+241,106,I,55583,Martin L King Jr Way S & S Henderson St,32,MID,0.6,1.8,10.9,12.7,42
+241,106,I,30140,S Henderson St & Rainier Ave S,30,XNT,0.8,0.4,7.8,3,1.4
+241,106,I,55583,Martin L King Jr Way S & S Henderson St,32,PM,0.7,2,11.5,12.5,33.5
+241,106,I,55583,Martin L King Jr Way S & S Henderson St,32,XEV,0.5,1.2,10.6,2.9,7.3
+241,106,I,55583,Martin L King Jr Way S & S Henderson St,32,XNT,0.3,0.6,7.3,1,2.2
+241,106,O,56290,Renton Ave S & 54th Ave S,36,AM,0,0,9.9,0,0.1
+241,106,O,56290,Renton Ave S & 54th Ave S,36,MID,0,0.1,11.2,0.5,1.7
+241,106,O,56290,Renton Ave S & 54th Ave S,36,PM,0.1,0.1,15.1,0.9,2.3
+241,106,O,56376,Renton Ave S & 74th Ave S,48,AM,0.2,0.1,10,2.3,1.3
+241,106,O,56290,Renton Ave S & 54th Ave S,36,XEV,0,0.1,10.8,0,0.7
+241,106,O,56376,Renton Ave S & 74th Ave S,48,MID,0.1,0.2,9.4,2.7,4.7
+241,106,O,56290,Renton Ave S & 54th Ave S,36,XNT,0,0.1,6.1,0,0.6
+241,106,O,56376,Renton Ave S & 74th Ave S,48,PM,0.1,0.2,10,1.2,3.5
+241,106,O,56376,Renton Ave S & 74th Ave S,48,XEV,0.1,0.3,7.6,0.6,2
+241,106,O,56376,Renton Ave S & 74th Ave S,48,XNT,0,0.1,4.3,0,0.4
+241,106,I,30160,S Henderson St & Renton Ave S,31,AM,0.3,0.7,11.5,4.3,11.3
+241,106,I,30160,S Henderson St & Renton Ave S,31,MID,0.6,1.1,12.2,14.1,27.1
+241,106,O,55226,51st Ave S & S Fletcher St,33,AM,0,0.1,9.7,0.2,0.6
+241,106,I,30160,S Henderson St & Renton Ave S,31,PM,0.5,1,12.8,7.3,16
+241,106,I,30160,S Henderson St & Renton Ave S,31,XEV,0.4,0.7,11.3,2.3,4.3
+241,106,I,55590,Martin L King Jr Way S & S Kenyon St,34,AM,1.2,0.1,10.5,17.9,1.2
+241,106,O,55226,51st Ave S & S Fletcher St,33,MID,0,0.1,11.4,0.7,2.3
+241,106,I,30160,S Henderson St & Renton Ave S,31,XNT,0.2,0.4,7.6,0.7,1.4
+241,106,I,55590,Martin L King Jr Way S & S Kenyon St,34,MID,0.9,0.4,11.8,22.6,10.7
+241,106,I,55590,Martin L King Jr Way S & S Kenyon St,34,PM,0.6,0.7,11.6,9.6,11
+241,106,O,55226,51st Ave S & S Fletcher St,33,PM,0,0.2,15.5,0.6,3.2
+241,106,O,56000,Martin L King Jr Way S & S Dakota St,15,AM,0.3,0.1,6.4,3.8,1
+241,106,I,55590,Martin L King Jr Way S & S Kenyon St,34,XEV,0.4,0.5,10.4,2.9,3.8
+241,106,O,56000,Martin L King Jr Way S & S Dakota St,15,MID,0.2,0.3,11.9,4.4,7.3
+241,106,I,55590,Martin L King Jr Way S & S Kenyon St,34,XNT,0.2,0.3,7.3,0.9,1.2
+241,106,O,55226,51st Ave S & S Fletcher St,33,XEV,0.1,0.1,11.3,0.4,0.9
+241,106,O,56000,Martin L King Jr Way S & S Dakota St,15,PM,0.2,0.8,14.4,2.9,13.2
+241,106,O,56370,Renton Ave S & S Fountain St,44,AM,0.1,0.1,9.7,1.3,1.2
+241,106,I,55661,Martin L King Jr Way S & S Myrtle St,37,AM,1,0.2,9.9,15.4,3
+241,106,O,56000,Martin L King Jr Way S & S Dakota St,15,XEV,0.2,0.6,11.4,0.9,3.4
+241,106,O,56370,Renton Ave S & S Fountain St,44,MID,0.1,0.1,10.2,2,2.5
+241,106,I,55661,Martin L King Jr Way S & S Myrtle St,37,MID,1.8,0.8,11.2,42.3,19.9
+241,106,O,55226,51st Ave S & S Fletcher St,33,XNT,0,0.1,6.5,0,0.5
+241,106,O,56000,Martin L King Jr Way S & S Dakota St,15,XNT,0,0.2,7,0.3,1.2
+241,106,O,56370,Renton Ave S & S Fountain St,44,PM,0.1,0.5,11.7,1.3,8.1
+241,106,I,55661,Martin L King Jr Way S & S Myrtle St,37,PM,2,0.8,10.7,31.6,13.5
+241,106,O,56370,Renton Ave S & S Fountain St,44,XEV,0,0.2,8.9,0.2,1.5
+241,106,I,55661,Martin L King Jr Way S & S Myrtle St,37,XEV,1.1,0.6,9.8,6.5,3.3
+241,106,O,56370,Renton Ave S & S Fountain St,44,XNT,0,0.2,5.3,0,1.2
+241,106,I,55661,Martin L King Jr Way S & S Myrtle St,37,XNT,0.6,0.3,6.6,2.9,1.3
+241,106,O,56111,Martin L King Jr Way S & S Graham St,22,AM,0.6,0.8,7.5,8.1,10.2
+241,106,O,56111,Martin L King Jr Way S & S Graham St,22,MID,1.9,1.4,12.7,44.2,31.9
+241,106,O,56111,Martin L King Jr Way S & S Graham St,22,PM,2.1,1.1,14,38.2,20.4
+241,106,O,56111,Martin L King Jr Way S & S Graham St,22,XEV,1,0.8,10.4,5.9,5
+241,106,O,56111,Martin L King Jr Way S & S Graham St,22,XNT,0.2,0.3,6.3,1.5,2.2
+241,106,I,55200,Renton Ave S & S Norfolk St,23,AM,0.4,0,11.5,6.4,0.2
+241,106,I,55200,Renton Ave S & S Norfolk St,23,MID,0.2,0,10.1,5.6,1.1
+241,106,I,55200,Renton Ave S & S Norfolk St,23,PM,0.2,0,11.4,2.6,0.4
+241,106,I,55200,Renton Ave S & S Norfolk St,23,XEV,0.1,0,10.7,0.6,0.2
+241,106,I,55200,Renton Ave S & S Norfolk St,23,XNT,0,0,7.9,0.1,0.1
+241,106,O,8608,Rainier Ave S & I-90,7,AM,0.2,0.1,5.5,2.3,1.3
+241,106,O,8608,Rainier Ave S & I-90,7,MID,0.4,0.3,9.1,9.6,7.6
+241,106,O,8608,Rainier Ave S & I-90,7,PM,0.2,0.4,10.7,3.2,6
+241,106,O,8608,Rainier Ave S & I-90,7,XEV,0.1,0.2,9,0.9,1.7
+241,106,O,8608,Rainier Ave S & I-90,7,XNT,0.1,0.1,6.4,0.5,0.9
+241,106,I,8429,Rainier Ave S & S Bayview St,51,AM,0.4,0.4,9.5,5.5,4.9
+241,106,I,8429,Rainier Ave S & S Bayview St,51,MID,1.1,1,9.8,25.8,23.4
+241,106,I,8429,Rainier Ave S & S Bayview St,51,PM,1.1,0.6,7.3,18.3,10.1
+241,106,I,8429,Rainier Ave S & S Bayview St,51,XEV,0.9,0.5,5.6,6.1,3.4
+241,106,I,8429,Rainier Ave S & S Bayview St,51,XNT,0.8,0.4,4.3,4.1,1.8
+241,106,O,1471,S Jackson St & 5th Ave S,1,AM,4.7,0.1,4.6,60.6,1.1
+241,106,O,56374,Renton Ave S & 72nd Ave S,47,AM,0.5,0.3,9.9,6,3.3
+241,106,O,1471,S Jackson St & 5th Ave S,1,MID,4.6,0,4.6,109.8,0.3
+241,106,O,56374,Renton Ave S & 72nd Ave S,47,MID,0.4,0.6,9.5,10,15
+241,106,O,1471,S Jackson St & 5th Ave S,1,PM,5.8,0,5.8,98.8,0
+241,106,O,56374,Renton Ave S & 72nd Ave S,47,PM,0.3,0.8,10.1,5.5,13.3
+241,106,O,1471,S Jackson St & 5th Ave S,1,XEV,5.7,0,5.8,34.4,0
+241,106,O,56374,Renton Ave S & 72nd Ave S,47,XEV,0.2,0.7,7.8,1.7,4.6
+241,106,O,1471,S Jackson St & 5th Ave S,1,XNT,4.6,0,4.6,32,0
+241,106,O,56374,Renton Ave S & 72nd Ave S,47,XNT,0.1,0.5,4.3,0.8,3.8
+241,106,I,55851,Martin L King Jr Way S & S Hanford St,49,AM,0.1,1.4,11.1,1.7,20.2
+241,106,I,55851,Martin L King Jr Way S & S Hanford St,49,MID,0.2,1,11.4,4.7,24.6
+241,106,O,56041,Martin L King Jr Way S & S Edmunds St,18,AM,0.3,0.1,6.9,4.4,1.2
+241,106,I,55851,Martin L King Jr Way S & S Hanford St,49,PM,0.1,1,8.3,2.3,16.4
+241,106,O,56041,Martin L King Jr Way S & S Edmunds St,18,MID,0.5,0.1,12.6,12.7,2.9
+241,106,I,55851,Martin L King Jr Way S & S Hanford St,49,XEV,0.1,0.6,6,0.5,4.2
+241,106,O,56041,Martin L King Jr Way S & S Edmunds St,18,PM,1.1,0.2,15.1,18.9,2.9
+241,106,I,55851,Martin L King Jr Way S & S Hanford St,49,XNT,0,0.4,3.8,0.2,2
+241,106,O,56041,Martin L King Jr Way S & S Edmunds St,18,XEV,1.1,0.2,12.2,6.6,0.9
+241,106,O,56300,Renton Ave S & 55th Ave S,37,AM,0.1,0.1,9.9,0.6,1.2
+241,106,I,55771,Martin L King Jr Way S & S Edmunds St,43,AM,0.3,1.9,10.9,4.4,29.1
+241,106,O,56041,Martin L King Jr Way S & S Edmunds St,18,XNT,0.4,0.1,7.7,2.5,0.9
+241,106,O,56300,Renton Ave S & 55th Ave S,37,MID,0,0.3,11,0.7,6.3
+241,106,I,55771,Martin L King Jr Way S & S Edmunds St,43,MID,0.3,1.4,11.4,7,33.5
+241,106,O,56300,Renton Ave S & 55th Ave S,37,PM,0.1,0.4,14.8,2.2,7.5
+241,106,I,55771,Martin L King Jr Way S & S Edmunds St,43,PM,0.3,1.2,9.9,4.3,18.7
+241,106,O,56300,Renton Ave S & 55th Ave S,37,XEV,0.1,0.3,10.5,0.4,2.6
+241,106,I,55771,Martin L King Jr Way S & S Edmunds St,43,XEV,0.3,0.6,8,1.5,3.3
+241,106,O,56300,Renton Ave S & 55th Ave S,37,XNT,0,0.1,6.1,0.3,0.8
+241,106,I,55771,Martin L King Jr Way S & S Edmunds St,43,XNT,0.1,0.3,5.2,0.5,1.6
+241,106,O,56373,Renton Ave S & 68th Ave S,46,AM,0.1,0.3,9.6,1.4,2.8
+241,106,O,56373,Renton Ave S & 68th Ave S,46,MID,0.2,0.6,9.7,4.1,15.1
+241,106,O,56373,Renton Ave S & 68th Ave S,46,PM,0.1,1,10.6,2.3,17.8
+241,106,I,55170,Renton Ave S & S Ryan St,20,AM,0.8,0,10.6,12.6,0.6
+241,106,O,56373,Renton Ave S & 68th Ave S,46,XEV,0.1,0.8,8.2,0.8,5.3
+241,106,I,55170,Renton Ave S & S Ryan St,20,MID,0.3,0.1,9.7,8.1,2.9
+241,106,O,56373,Renton Ave S & 68th Ave S,46,XNT,0,0.6,4.7,0,4.5
+241,106,I,55170,Renton Ave S & S Ryan St,20,PM,0.1,0.2,11.1,2.2,3.2
+241,106,I,55170,Renton Ave S & S Ryan St,20,XEV,0.2,0.2,10.7,1.1,0.9
+241,106,I,55170,Renton Ave S & S Ryan St,20,XNT,0,0.1,7.9,0.1,0.2
+241,106,I,55062,Renton Ave S & 74th Ave S,12,AM,0.4,0.1,6.2,5.2,1.6
+241,106,I,55062,Renton Ave S & 74th Ave S,12,MID,0.2,0.2,7.9,4.7,3.7
+241,106,I,45340,Rainier Ave S & SW Victoria St,3,AM,0.1,0,4.2,1.3,0.1
+241,106,I,55062,Renton Ave S & 74th Ave S,12,PM,0.1,0.2,10.7,1.6,3.5
+241,106,I,45340,Rainier Ave S & SW Victoria St,3,MID,0.2,0,7.5,5,0.6
+241,106,I,55062,Renton Ave S & 74th Ave S,12,XEV,0.1,0.2,10.4,0.4,1.2
+241,106,I,45340,Rainier Ave S & SW Victoria St,3,PM,0.2,0,11,3.5,0.1
+241,106,I,55062,Renton Ave S & 74th Ave S,12,XNT,0.1,0.2,8,0.4,1
+241,106,I,45340,Rainier Ave S & SW Victoria St,3,XEV,0.1,0,10,0.5,0.2
+241,106,I,45340,Rainier Ave S & SW Victoria St,3,XNT,0.2,0,7.5,1.1,0.1
+241,106,O,1480,S Jackson St & Maynard Ave S,2,AM,0.7,0.1,5.2,9,0.9
+241,106,O,1480,S Jackson St & Maynard Ave S,2,MID,2.1,0.3,6.4,49.4,6.5
+241,106,O,1480,S Jackson St & Maynard Ave S,2,PM,1.6,0.2,7.2,27.4,3.9
+241,106,O,1480,S Jackson St & Maynard Ave S,2,XEV,1.3,0.1,6.8,7.6,0.6
+241,106,O,1480,S Jackson St & Maynard Ave S,2,XNT,0.6,0,5.2,4.4,0.2
+241,106,O,46430,Rainier Ave S & Hayes Pl SW,56,AM,0,0,10.1,0,0.2
+241,106,O,46430,Rainier Ave S & Hayes Pl SW,56,MID,0,0.1,8.7,0.4,1.4
+241,106,O,46430,Rainier Ave S & Hayes Pl SW,56,PM,0,0.1,8.1,0.7,1.3
+241,106,O,46430,Rainier Ave S & Hayes Pl SW,56,XEV,0,0.1,6.3,0.1,0.5
+241,106,O,46430,Rainier Ave S & Hayes Pl SW,56,XNT,0,0.1,2.9,0.1,0.4
+241,106,I,1500,S Jackson St & 8th Ave S,60,AM,0.1,0.5,6.8,1.1,6.8
+241,106,I,1500,S Jackson St & 8th Ave S,60,MID,0.2,1.2,7.2,5.4,28.4
+241,106,I,1500,S Jackson St & 8th Ave S,60,PM,0.1,0.5,6.2,1.2,9
+241,106,I,1500,S Jackson St & 8th Ave S,60,XEV,0.2,0.4,4.6,1.1,2.6
+241,106,I,1500,S Jackson St & 8th Ave S,60,XNT,0.2,0.2,4.4,1,1
+241,106,I,30140,S Henderson St & Rainier Ave S,30,AM,1,0.6,11.9,16.7,8.9
+241,106,O,56151,Martin L King Jr Way S & S Myrtle St,24,AM,1.3,1.5,7.3,17.5,19.1
+241,106,O,56151,Martin L King Jr Way S & S Myrtle St,24,MID,2.7,3.6,11.5,61.5,81.9
+241,106,O,56151,Martin L King Jr Way S & S Myrtle St,24,PM,2.1,3,12.6,37.9,54.8
+241,106,I,55474,51st Ave S & S Fletcher St,27,AM,0.1,0,12,1.7,0.6
+241,106,O,56151,Martin L King Jr Way S & S Myrtle St,24,XEV,1,1.7,9.3,5.8,10.2
+241,106,I,55474,51st Ave S & S Fletcher St,27,MID,0,0.1,10.2,1,3.5
+241,106,I,8450,Rainier Ave S & S Plum St,53,AM,0.4,0.3,9.4,5.7,3.7
+241,106,O,56151,Martin L King Jr Way S & S Myrtle St,24,XNT,0.6,0.6,6,3.9,4.5
+241,106,I,55474,51st Ave S & S Fletcher St,27,PM,0,0.1,11.4,0.3,1.4
+241,106,I,8450,Rainier Ave S & S Plum St,53,MID,0.8,0.4,10.2,19.9,8.5
+241,106,O,8681,Rainier Ave S & S Forest St - Bay 4,11,AM,1.5,0.6,6.2,19.8,8.4
+241,106,I,55474,51st Ave S & S Fletcher St,27,XEV,0,0,10.7,0,0.2
+241,106,I,8450,Rainier Ave S & S Plum St,53,PM,0.6,0.4,7.8,10.1,5.8
+241,106,O,8681,Rainier Ave S & S Forest St - Bay 4,11,MID,2.8,1.4,11.3,67,33
+241,106,I,55474,51st Ave S & S Fletcher St,27,XNT,0,0.2,7.7,0,0.6
+241,106,I,8450,Rainier Ave S & S Plum St,53,XEV,0.4,0.5,5.4,3.1,3.5
+241,106,O,8681,Rainier Ave S & S Forest St - Bay 4,11,PM,4,1.2,14.3,68.7,20.8
+241,106,I,8450,Rainier Ave S & S Plum St,53,XNT,0.2,0.4,4.2,1.1,2
+241,106,O,8681,Rainier Ave S & S Forest St - Bay 4,11,XEV,3.1,1,11.7,18.5,6.1
+241,106,O,8681,Rainier Ave S & S Forest St - Bay 4,11,XNT,1.7,0.8,7.3,11.7,5.7
+241,106,O,55991,Martin L King Jr Way S & S Andover St,14,AM,0.3,0.2,6.2,3.6,2.3
+241,106,O,55991,Martin L King Jr Way S & S Andover St,14,MID,0.4,0.5,12,9.2,11.3
+241,106,O,55991,Martin L King Jr Way S & S Andover St,14,PM,0.4,1,15,6.6,17.6
+241,106,O,55991,Martin L King Jr Way S & S Andover St,14,XEV,0.3,1,11.8,1.5,5.9
+241,106,O,55991,Martin L King Jr Way S & S Andover St,14,XNT,0,0.4,7.1,0.2,2.5
+241,106,O,56130,Martin L King Jr Way S & S Holly St,23,AM,0.1,0.3,7.4,1.3,3.4
+241,106,O,46440,S 3rd St & Rainier Ave S,57,AM,0,2.3,7.8,0.4,25.1
+241,106,I,45320,S 2nd St & Shattuck Ave S,2,AM,0.5,0.1,4.2,8,1.6
+241,106,O,56130,Martin L King Jr Way S & S Holly St,23,MID,0.3,0.6,12.4,6,13
+241,106,O,46440,S 3rd St & Rainier Ave S,57,MID,0.3,2.8,6.2,6.8,66.4
+241,106,O,56130,Martin L King Jr Way S & S Holly St,23,PM,0.3,0.7,13.5,4.7,13.4
+241,106,O,46440,S 3rd St & Rainier Ave S,57,PM,0.3,2.4,6,4.9,40.1
+241,106,O,56130,Martin L King Jr Way S & S Holly St,23,XEV,0.2,0.5,10.1,1.2,3
+241,106,O,46440,S 3rd St & Rainier Ave S,57,XEV,0.2,2,4.5,1.2,14.3
+241,106,I,45320,S 2nd St & Shattuck Ave S,2,MID,2.1,0.1,7.5,50.7,2.5
+241,106,O,56130,Martin L King Jr Way S & S Holly St,23,XNT,0.1,0.3,6.1,0.5,2.1
+241,106,O,46440,S 3rd St & Rainier Ave S,57,XNT,0.1,0.8,2.2,0.6,6.5
+241,106,I,45320,S 2nd St & Shattuck Ave S,2,PM,2.5,0.2,10.7,37,2.3
+241,106,I,45320,S 2nd St & Shattuck Ave S,2,XEV,2.2,0.1,9.9,13.1,0.6
+241,106,O,31132,S Henderson St & Martin L King Jr Way S,29,AM,1.7,0.5,10.1,20.8,5.8
+241,106,I,45320,S 2nd St & Shattuck Ave S,2,XNT,1.6,0.1,7.3,7.8,0.5
+241,106,O,31132,S Henderson St & Martin L King Jr Way S,29,MID,3.2,1,14.2,77.4,24.9
+241,106,O,31132,S Henderson St & Martin L King Jr Way S,29,PM,5.9,1,17.3,99.5,17.2
+241,106,O,31132,S Henderson St & Martin L King Jr Way S,29,XEV,4.2,0.9,12.5,29.6,6
+241,106,I,1510,S Jackson St & Maynard Ave S,61,AM,0,4.1,2.7,0.6,53.1
+241,106,O,31132,S Henderson St & Martin L King Jr Way S,29,XNT,2.1,0.5,7.5,14.5,3.3
+241,106,I,1510,S Jackson St & Maynard Ave S,61,MID,0.1,3.5,3.7,1.6,84.7
+241,106,I,1510,S Jackson St & Maynard Ave S,61,PM,0,2.2,4.1,0.7,37
+241,106,I,1510,S Jackson St & Maynard Ave S,61,XEV,0,1.4,3.2,0.3,9.8
+241,106,I,1510,S Jackson St & Maynard Ave S,61,XNT,0,1,3.5,0,4.8
+241,106,I,8510,Rainier Ave S & S Dearborn St,57,AM,0.3,1,9.3,4.8,14.3
+241,106,I,8510,Rainier Ave S & S Dearborn St,57,MID,1.6,1.1,10.9,36.2,24.6
+241,106,I,55160,Renton Ave S & S Prentice St,19,AM,0.3,0,9.9,4.1,0.2
+241,106,I,8510,Rainier Ave S & S Dearborn St,57,PM,1.3,0.7,8.7,21.5,11.7
+241,106,I,55160,Renton Ave S & S Prentice St,19,MID,0.3,0,9.5,6.2,0.9
+241,106,I,8510,Rainier Ave S & S Dearborn St,57,XEV,0.9,0.4,6.1,6,2.9
+241,106,I,55160,Renton Ave S & S Prentice St,19,PM,0.2,0.1,11.1,2.5,1.2
+241,106,I,8510,Rainier Ave S & S Dearborn St,57,XNT,0.4,0.2,4.6,1.9,1.2
+241,106,I,55160,Renton Ave S & S Prentice St,19,XEV,0.1,0.1,10.6,0.7,0.7
+241,106,I,55160,Renton Ave S & S Prentice St,19,XNT,0,0,8,0.1,0
+241,106,O,56310,Renton Ave S & 57th Ave S,38,AM,0.1,0.1,9.8,0.8,1.4
+241,106,O,56310,Renton Ave S & 57th Ave S,38,MID,0,0.2,10.8,0.9,4.9
+241,106,O,56310,Renton Ave S & 57th Ave S,38,PM,0,0.3,14.6,0.5,4.4
+241,106,O,56310,Renton Ave S & 57th Ave S,38,XEV,0,0.1,10.4,0.1,1
+241,106,O,56310,Renton Ave S & 57th Ave S,38,XNT,0,0,6,0,0.2
+241,106,I,55010,Renton Ave S & S 130th St,6,AM,0.1,0,4.8,1.9,0.1
+241,106,I,55010,Renton Ave S & S 130th St,6,MID,0,0.1,7.9,0.9,1.3
+241,106,I,55010,Renton Ave S & S 130th St,6,PM,0,0.1,11.2,0.5,1
+241,106,I,55010,Renton Ave S & S 130th St,6,XEV,0,0.3,10.6,0,1.5
+241,106,I,55010,Renton Ave S & S 130th St,6,XNT,0.1,0.1,8.4,0.3,0.3
+241,106,I,34544,S Henderson St & Rainier Ave S,29,AM,0.3,0,0.3,0.3,0
+241,106,I,55140,Renton Ave S & S Hazel St,17,AM,0.2,0,8.6,2.9,0.4
+241,106,I,55140,Renton Ave S & S Hazel St,17,MID,0.1,0,8.9,2.1,0.8
+241,106,I,55140,Renton Ave S & S Hazel St,17,PM,0,0.1,11,0.4,1.8
+241,106,I,55140,Renton Ave S & S Hazel St,17,XEV,0,0.2,10.7,0,1.3
+241,106,O,56081,Martin L King Jr Way S & S Orcas St,20,AM,0.8,0.7,7.4,10.3,8.7
+241,106,O,56480,Renton Ave S & S 128th St,53,AM,0.1,0,10.5,1.4,0.5
+241,106,I,55000,Renton Ave S & S 132nd St,5,AM,0.2,0.1,4.7,3,0.9
+241,106,I,55140,Renton Ave S & S Hazel St,17,XNT,0,0.3,8,0,1
+241,106,O,56081,Martin L King Jr Way S & S Orcas St,20,MID,1,1.2,12.4,23.3,27.7
+241,106,O,56480,Renton Ave S & S 128th St,53,MID,0.2,0.1,9,4.5,1.3
+241,106,I,55000,Renton Ave S & S 132nd St,5,MID,0.1,0.1,7.9,2.6,2.9
+241,106,O,56081,Martin L King Jr Way S & S Orcas St,20,PM,0.8,1.9,13.7,14.1,32
+241,106,O,56480,Renton Ave S & S 128th St,53,PM,0.1,0.2,8.9,2.4,3.3
+241,106,I,55000,Renton Ave S & S 132nd St,5,PM,0.1,0.1,11.2,1,1.8
+241,106,O,56081,Martin L King Jr Way S & S Orcas St,20,XEV,1,1.9,10.9,5.9,11.6
+241,106,O,56480,Renton Ave S & S 128th St,53,XEV,0.1,0.2,6.7,0.5,1.6
+241,106,O,8641,Rainier Ave S & S Walker St,9,AM,0.9,0.9,5.6,12.3,11.1
+241,106,I,55000,Renton Ave S & S 132nd St,5,XEV,0.1,0.2,10.8,0.3,0.9
+241,106,O,56081,Martin L King Jr Way S & S Orcas St,20,XNT,0.4,1.1,6.8,2.7,7.5
+241,106,O,56480,Renton Ave S & S 128th St,53,XNT,0,0.3,3.3,0,2.1
+241,106,O,8641,Rainier Ave S & S Walker St,9,MID,1.4,0.5,9.8,33.3,12.3
+241,106,I,55000,Renton Ave S & S 132nd St,5,XNT,0,0,8.3,0.2,0.2
+241,106,O,8641,Rainier Ave S & S Walker St,9,PM,1.4,0.7,11.2,24.2,11.4
+241,106,O,8641,Rainier Ave S & S Walker St,9,XEV,1.3,0.7,9.5,7.7,4.2
+241,106,I,55711,Martin L King Jr Way S & 37th Ave S,40,AM,1.6,0.4,10.6,24.3,6.6
+241,106,O,8641,Rainier Ave S & S Walker St,9,XNT,0.6,0.5,6.7,5,4.1
+241,106,I,55711,Martin L King Jr Way S & 37th Ave S,40,MID,1.1,0.8,11.6,25.3,19.7
+241,106,I,55711,Martin L King Jr Way S & 37th Ave S,40,PM,0.8,1.1,10.7,13,17.1
+241,106,I,55711,Martin L King Jr Way S & 37th Ave S,40,XEV,0.6,1.1,9,3.3,6.7
+241,106,O,56470,Renton Ave S & 78th Ave S,52,AM,0,0,10.3,0.4,0.4
+241,106,I,55711,Martin L King Jr Way S & 37th Ave S,40,XNT,0.1,0.8,5.9,0.7,3.9
+241,106,O,56470,Renton Ave S & 78th Ave S,52,MID,0,0.1,8.9,1.1,1.3
+241,106,O,56470,Renton Ave S & 78th Ave S,52,PM,0,0.1,9,0.7,1.7
+241,106,O,56470,Renton Ave S & 78th Ave S,52,XEV,0,0.1,6.9,0.1,0.5
+241,106,O,56470,Renton Ave S & 78th Ave S,52,XNT,0,0.1,3.6,0,0.8
+241,106,O,46450,S 3rd St & Shattuck Ave S,58,AM,0,0.7,7.2,0.2,7.2
+241,106,O,46450,S 3rd St & Shattuck Ave S,58,MID,0,0.1,6,0,2.9
+241,106,O,46450,S 3rd St & Shattuck Ave S,58,PM,0,0.1,5.9,0.1,2.4
+241,106,O,46450,S 3rd St & Shattuck Ave S,58,XEV,0,0.1,4.3,0,1
+241,106,O,46450,S 3rd St & Shattuck Ave S,58,XNT,0,0.2,2.1,0.2,1.3
+241,106,I,55729,Martin L King Jr Way S & S Orcas St,41,AM,1.8,0.2,12.2,27.7,3.2
+241,106,I,55729,Martin L King Jr Way S & S Orcas St,41,MID,1.6,0.6,12.5,37.9,15.3
+241,106,I,55729,Martin L King Jr Way S & S Orcas St,41,PM,1.4,1,11.1,22.5,15.5
+241,106,I,55729,Martin L King Jr Way S & S Orcas St,41,XEV,0.9,0.8,9,5.3,5
+241,106,I,55729,Martin L King Jr Way S & S Orcas St,41,XNT,0.5,0.7,5.6,2.3,3.4
+241,106,I,55790,Martin L King Jr Way S & S Columbian Way,45,AM,0.9,0.3,11.7,13.1,4.2
+241,106,I,55790,Martin L King Jr Way S & S Columbian Way,45,MID,1,0.6,11.5,23.8,13.5
+241,106,I,55790,Martin L King Jr Way S & S Columbian Way,45,PM,0.5,1,9.4,9.3,17.1
+241,106,I,55790,Martin L King Jr Way S & S Columbian Way,45,XEV,0.3,0.6,7.4,1.9,3.4
+241,106,I,55790,Martin L King Jr Way S & S Columbian Way,45,XNT,0.1,0.2,5.1,0.4,1.2
+241,106,I,55020,Renton Ave S & S 128th St,7,AM,0.1,0.1,4.9,1.8,1
+241,106,I,55020,Renton Ave S & S 128th St,7,MID,0.1,0.1,8,3.5,1.7
+241,106,I,55020,Renton Ave S & S 128th St,7,PM,0.1,0,11.2,1.2,0.7
+241,106,I,55020,Renton Ave S & S 128th St,7,XEV,0.1,0.2,10.5,0.3,0.9
+241,106,I,55020,Renton Ave S & S 128th St,7,XNT,0,0.1,8.3,0.1,0.6
+241,106,I,55180,Renton Ave S & S Victor St,21,AM,0.3,0,10.9,4.7,0.3
+241,106,I,55180,Renton Ave S & S Victor St,21,MID,0.2,0,9.8,3.7,0.2
+241,106,I,55180,Renton Ave S & S Victor St,21,PM,0.2,0,11.2,2.6,0.7
+241,106,I,55180,Renton Ave S & S Victor St,21,XEV,0,0,10.7,0.1,0
+241,106,O,8541,S Jackson St & 12th Ave S,4,AM,1,1,5.2,13.2,13.4
+241,106,I,55180,Renton Ave S & S Victor St,21,XNT,0,0,7.9,0,0
+241,106,O,8541,S Jackson St & 12th Ave S,4,MID,2.7,1.8,7.5,64.2,42.6
+241,106,O,8541,S Jackson St & 12th Ave S,4,PM,2.7,1.8,8.4,45.7,29.8
+241,106,O,8541,S Jackson St & 12th Ave S,4,XEV,1.9,1.9,7,11.2,11.5
+241,106,O,8541,S Jackson St & 12th Ave S,4,XNT,1.3,1.1,5.5,9.4,8
+241,106,O,56440,Renton Ave S & 75th Ave S,49,AM,0.2,0,10.1,2.3,0.4
+241,106,O,56440,Renton Ave S & 75th Ave S,49,MID,0.1,0.2,9.4,2.5,4
+241,106,O,56440,Renton Ave S & 75th Ave S,49,PM,0.1,0.5,9.5,1.3,9
+241,106,I,55030,Renton Ave S & 78th Ave S,8,XEV,0,0.1,10.4,0,0.7
+241,106,O,56440,Renton Ave S & 75th Ave S,49,XEV,0.1,0.3,7.4,0.5,1.9
+241,106,I,55030,Renton Ave S & 78th Ave S,8,XNT,0,0.1,8.2,0.2,0.3
+241,106,I,45350,Renton Ave Ext & Hardie Ave NW,4,AM,0.4,0,4.6,5.4,0.3
+241,106,I,8460,Rainier Ave S & S Grand St,54,AM,0.3,0.1,9.6,3.5,1.1
+241,106,O,56440,Renton Ave S & 75th Ave S,49,XNT,0,0.1,4.1,0.1,0.9
+241,106,I,55040,Renton Ave S & 76th Ave S,9,AM,0.5,0.2,5.3,7.1,2.6
+241,106,I,45350,Renton Ave Ext & Hardie Ave NW,4,MID,0.6,0.2,8,14.1,3.9
+241,106,I,8460,Rainier Ave S & S Grand St,54,MID,0.1,0.1,10.3,3.4,2.1
+241,106,I,55040,Renton Ave S & 76th Ave S,9,MID,0.4,0.5,7.9,11.2,11.3
+241,106,I,45350,Renton Ave Ext & Hardie Ave NW,4,PM,0.5,0.2,11.2,8.2,3.7
+241,106,I,8460,Rainier Ave S & S Grand St,54,PM,0.1,0.1,7.8,1.4,1.7
+241,106,I,55040,Renton Ave S & 76th Ave S,9,PM,0.5,0.7,10.9,7.3,10.1
+241,106,I,45350,Renton Ave Ext & Hardie Ave NW,4,XEV,1.1,0.1,10.9,6.6,0.8
+241,106,I,8460,Rainier Ave S & S Grand St,54,XEV,0,0,5.3,0,0.3
+241,106,I,55040,Renton Ave S & 76th Ave S,9,XEV,0.4,0.4,10.4,2.5,2.2
+241,106,I,45350,Renton Ave Ext & Hardie Ave NW,4,XNT,1,0.1,8.3,4.8,0.5
+241,106,I,8460,Rainier Ave S & S Grand St,54,XNT,0,0,4.2,0.2,0.2
+241,106,I,55040,Renton Ave S & 76th Ave S,9,XNT,0.1,0.3,8.1,0.5,1.3
+241,106,O,9000,Rainier Ave S & S Henderson St,31,AM,1.5,1.8,9.6,18.5,21.6
+241,106,O,9000,Rainier Ave S & S Henderson St,31,MID,2,3.3,12.3,48.3,79.1
+241,106,O,9000,Rainier Ave S & S Henderson St,31,PM,2.5,2.8,16.5,41.7,48.4
+241,106,O,9000,Rainier Ave S & S Henderson St,31,XEV,1.4,1.4,11.9,9.6,10.1
+241,106,O,9000,Rainier Ave S & S Henderson St,31,XNT,0.4,0.6,6.8,3,4.2
+241,106,I,55651,Martin L King Jr Way S & S Othello St,36,AM,1.2,2.7,9,18.3,41.1
+241,106,I,55651,Martin L King Jr Way S & S Othello St,36,MID,2.1,3.4,10.3,50,82.3
+241,106,I,55651,Martin L King Jr Way S & S Othello St,36,PM,2,3.4,9.6,32.6,54.8
+241,106,I,55651,Martin L King Jr Way S & S Othello St,36,XEV,2,3.1,9.3,12.1,18.3
+241,106,I,55651,Martin L King Jr Way S & S Othello St,36,XNT,0.7,1.4,6.3,3.4,7.1
+241,106,I,55589,Martin L King Jr Way S & S Thistle St,33,AM,1,0.1,9.4,15.2,1.1
+241,106,I,55589,Martin L King Jr Way S & S Thistle St,33,MID,0.6,0.2,11.3,14.8,5.7
+241,106,I,55589,Martin L King Jr Way S & S Thistle St,33,PM,0.4,0.5,11.6,6.4,7.3
+241,106,I,55589,Martin L King Jr Way S & S Thistle St,33,XEV,0.3,0.2,10.5,1.9,1.7
+241,106,I,55589,Martin L King Jr Way S & S Thistle St,33,XNT,0.1,0.1,7.4,0.2,0.3
+241,106,I,55702,Martin L King Jr Way S & S Graham St,39,AM,0.8,1.6,9.4,12.5,24.2
+241,106,I,55702,Martin L King Jr Way S & S Graham St,39,MID,1.8,1.8,11.3,42.3,42.1
+241,106,I,55702,Martin L King Jr Way S & S Graham St,39,PM,1.6,1.3,10.9,25.7,21.5
+241,106,I,55702,Martin L King Jr Way S & S Graham St,39,XEV,0.7,0.9,9.5,4.3,5.6
+241,106,I,55702,Martin L King Jr Way S & S Graham St,39,XNT,0.3,0.3,6.5,1.4,1.5
+241,106,O,9010,Rainier Ave S & 51st Ave S,32,AM,0.9,0.8,9.7,10.9,9.7
+241,106,O,55980,Martin L King Jr Way S & S Walden St,13,AM,0.2,0.6,6.1,2.6,7.5
+241,106,O,55980,Martin L King Jr Way S & S Walden St,13,MID,1,1,12.1,24,22.9
+241,106,O,9010,Rainier Ave S & 51st Ave S,32,MID,1.3,1.9,11.7,30,45.8
+241,106,O,55980,Martin L King Jr Way S & S Walden St,13,PM,0.5,0.4,15.7,8.4,7
+241,106,O,55980,Martin L King Jr Way S & S Walden St,13,XEV,0.3,0.4,12.5,2,2.1
+241,106,O,9010,Rainier Ave S & 51st Ave S,32,PM,1.3,2.2,15.6,21.7,37.9
+241,106,O,55980,Martin L King Jr Way S & S Walden St,13,XNT,0.1,0.2,7.5,0.9,1.6
+241,106,I,55050,Renton Ave S & S 126th St,10,AM,0.4,0,5.7,6.1,0.5
+241,106,I,55050,Renton Ave S & S 126th St,10,MID,0.5,0.2,8.1,11.7,5.9
+241,106,I,55802,Martin L King Jr Way S & S Dakota St,46,AM,0.4,0.1,12.1,6.5,1
+241,106,O,9010,Rainier Ave S & 51st Ave S,32,XEV,1.1,1.6,11.5,7.9,11.3
+241,106,I,55050,Renton Ave S & S 126th St,10,PM,0.4,0.5,10.9,6.2,7.6
+241,106,I,55802,Martin L King Jr Way S & S Dakota St,46,MID,0.4,0.2,11.8,9.5,3.7
+241,106,I,55050,Renton Ave S & S 126th St,10,XEV,0.6,0.4,10.7,3.7,2.3
+241,106,I,55802,Martin L King Jr Way S & S Dakota St,46,PM,0.2,0.3,9.5,3.2,5.5
+241,106,O,9010,Rainier Ave S & 51st Ave S,32,XNT,0.4,0.7,6.5,2.5,4.6
+241,106,I,55050,Renton Ave S & S 126th St,10,XNT,0.1,0.2,8,0.6,1
+241,106,I,55802,Martin L King Jr Way S & S Dakota St,46,XEV,0.1,0.4,7.1,0.6,2.7
+241,106,I,55060,Renton Ave S & 75th Ave S,11,AM,0.2,0,5.9,3,0.2
+241,106,I,55802,Martin L King Jr Way S & S Dakota St,46,XNT,0,0.2,5,0.2,1
+241,106,I,55060,Renton Ave S & 75th Ave S,11,MID,0.1,0.2,7.8,2.5,4.5
+241,106,O,56061,Martin L King Jr Way S & S Dawson St,19,AM,0.6,0.1,7.3,7.2,1.5
+241,106,I,55060,Renton Ave S & 75th Ave S,11,PM,0.1,0.3,10.9,1.8,5
+241,106,O,56061,Martin L King Jr Way S & S Dawson St,19,MID,0.6,0.5,12.6,14.1,13.1
+241,106,I,55060,Renton Ave S & 75th Ave S,11,XEV,0.1,0.3,10.5,0.7,1.8
+241,106,O,56061,Martin L King Jr Way S & S Dawson St,19,PM,0.5,0.9,14.7,9.2,14.8
+241,106,I,55060,Renton Ave S & 75th Ave S,11,XNT,0.3,0.2,8.1,1.4,0.9
+241,106,O,56061,Martin L King Jr Way S & S Dawson St,19,XEV,0.6,0.9,11.9,3.5,5.2
+241,106,O,56061,Martin L King Jr Way S & S Dawson St,19,XNT,0.1,0.3,7.5,0.9,1.9
+241,106,O,56340,Renton Ave S & S Prentice St,41,AM,0.1,0.1,9.6,1.3,1.3
+241,106,O,56340,Renton Ave S & S Prentice St,41,MID,0.1,0.2,10.4,1.7,4.3
+241,106,O,56340,Renton Ave S & S Prentice St,41,PM,0,0.7,13,0.6,11.6
+241,106,O,56340,Renton Ave S & S Prentice St,41,XEV,0.1,0.6,9.7,0.8,4
+241,106,O,55960,Martin L King Jr Way S & S Winthrop St,12,AM,0.5,0.1,6.5,6.2,1.9
+241,106,O,56340,Renton Ave S & S Prentice St,41,XNT,0,0.4,5.7,0.2,2.9
+241,106,O,55960,Martin L King Jr Way S & S Winthrop St,12,MID,1.1,0.3,12.1,25.6,7.2
+241,106,O,55960,Martin L King Jr Way S & S Winthrop St,12,PM,1.7,0.3,15.6,28.2,5.9
+241,106,O,55960,Martin L King Jr Way S & S Winthrop St,12,XEV,1.1,0.3,12.5,6.7,1.6
+241,106,O,55960,Martin L King Jr Way S & S Winthrop St,12,XNT,0.5,0.3,7.6,3.8,1.9
+241,106,O,56162,Martin L King Jr Way S & S Webster St,26,AM,0.5,0,8.1,6.2,0.4
+241,106,O,56162,Martin L King Jr Way S & S Webster St,26,MID,0.4,0.3,12.7,10,6.9
+241,106,O,56162,Martin L King Jr Way S & S Webster St,26,PM,0.3,0.4,14.2,5.1,7.3
+241,106,O,56162,Martin L King Jr Way S & S Webster St,26,XEV,0.3,0.2,10.4,2.1,1.1
+241,106,O,56162,Martin L King Jr Way S & S Webster St,26,XNT,0.1,0.1,6.3,0.7,0.7
+241,106,O,56164,Martin L King Jr Way S & S Kenyon St,27,AM,0.8,0.2,8.6,9,2.5
+241,106,O,56164,Martin L King Jr Way S & S Kenyon St,27,MID,0.6,0.8,12.5,13.8,20.3
+241,106,O,56164,Martin L King Jr Way S & S Kenyon St,27,PM,0.4,1.4,13.2,6.5,24.1
+241,106,O,56164,Martin L King Jr Way S & S Kenyon St,27,XEV,0.2,1,9.7,1.7,6.8
+241,106,O,56164,Martin L King Jr Way S & S Kenyon St,27,XNT,0,0.4,6,0.3,2.5
+241,106,O,56460,Renton Ave S & 76th Ave S,51,AM,0.3,0.3,10.3,3.8,3.1
+241,106,O,56460,Renton Ave S & 76th Ave S,51,MID,0.3,0.7,8.9,7.8,15.8
+241,106,O,56460,Renton Ave S & 76th Ave S,51,PM,0.5,0.5,9,8.3,9.1
+241,106,O,56460,Renton Ave S & 76th Ave S,51,XEV,0.3,0.5,7,2.4,3.8
+241,106,O,56460,Renton Ave S & 76th Ave S,51,XNT,0.1,0.4,3.7,0.5,2.9
+241,106,I,55735,Martin L King Jr Way S & S Dawson St,42,AM,0.6,0.2,12.6,8.6,3.2
+241,106,I,55735,Martin L King Jr Way S & S Dawson St,42,MID,0.6,0.6,12.6,14,13.5
+241,106,I,55130,Renton Ave S & S Fountain Pl,16,AM,0.6,0,8.5,9.4,0.2
+241,106,I,55735,Martin L King Jr Way S & S Dawson St,42,PM,0.4,0.7,10.8,7.1,11.4
+241,106,I,55130,Renton Ave S & S Fountain Pl,16,MID,0.2,0.1,8.8,5.4,1.7
+241,106,I,55735,Martin L King Jr Way S & S Dawson St,42,XEV,0.4,1,8.3,2.1,6
+241,106,I,55130,Renton Ave S & S Fountain Pl,16,PM,0.1,0.1,11.1,1.9,1.5
+241,106,I,55735,Martin L King Jr Way S & S Dawson St,42,XNT,0,0.3,5.4,0.2,1.5
+241,106,I,55130,Renton Ave S & S Fountain Pl,16,XEV,0,0.2,10.9,0,1.2
+241,106,I,55130,Renton Ave S & S Fountain Pl,16,XNT,0,0.1,8.2,0.1,0.2
+241,106,O,56161,Martin L King Jr Way S & S Othello St,25,AM,0.9,0.3,7.6,11.3,4.1
+241,106,O,56161,Martin L King Jr Way S & S Othello St,25,MID,2,0.8,12.6,47.1,19.9
+241,106,O,56161,Martin L King Jr Way S & S Othello St,25,PM,2.5,1,14.3,43.1,16.6
+241,106,O,56161,Martin L King Jr Way S & S Othello St,25,XEV,1.5,0.7,10.1,10.8,4.9
+241,106,O,56161,Martin L King Jr Way S & S Othello St,25,XNT,0.6,0.4,6.2,4.1,2.6
+241,106,O,56280,Renton Ave S & 52nd Ave S,35,AM,0,0,9.9,0.2,0
+241,106,O,56280,Renton Ave S & 52nd Ave S,35,MID,0,0,11.3,0.6,0.9
+241,106,O,56280,Renton Ave S & 52nd Ave S,35,PM,0,0.1,15.1,0.5,1
+241,106,O,56280,Renton Ave S & 52nd Ave S,35,XEV,0,0,10.9,0.1,0.3
+241,106,I,55030,Renton Ave S & 78th Ave S,8,AM,0.2,0,5,2.4,0.5
+241,106,O,56280,Renton Ave S & 52nd Ave S,35,XNT,0,0,6.2,0,0
+241,106,O,1490,S Jackson St & 8th Ave S,3,AM,0.1,0.1,5.2,1.7,1.4
+241,106,I,55064,Renton Ave S & 72nd Ave S,13,AM,0.5,0.1,6.6,7.3,1.1
+241,106,I,55030,Renton Ave S & 78th Ave S,8,MID,0.1,0.1,8,3,1.7
+241,106,O,1490,S Jackson St & 8th Ave S,3,MID,0.6,0.3,6.6,14.1,7.1
+241,106,I,55064,Renton Ave S & 72nd Ave S,13,MID,0.6,0.3,8.2,14.3,6.9
+241,106,I,55030,Renton Ave S & 78th Ave S,8,PM,0,0.1,11.1,0.7,1.8
+241,106,O,1490,S Jackson St & 8th Ave S,3,PM,0.5,0.2,7.5,8,3.1
+241,106,I,55064,Renton Ave S & 72nd Ave S,13,PM,0.5,0.3,10.9,7.4,5
+241,106,I,55064,Renton Ave S & 72nd Ave S,13,XEV,0.7,0.4,10.7,3.9,2.1
+241,106,I,55064,Renton Ave S & 72nd Ave S,13,XNT,0.4,0.2,8.2,2.2,0.8
+241,106,I,55150,Renton Ave S & S Bangor St,18,AM,1,0,9.6,15.7,0.6
+241,106,I,55150,Renton Ave S & S Bangor St,18,MID,0.5,0.1,9.3,11.4,2.2
+241,106,I,55150,Renton Ave S & S Bangor St,18,PM,0.2,0.2,11.1,3.2,2.5
+241,106,I,55150,Renton Ave S & S Bangor St,18,XEV,0.1,0.2,10.6,0.8,1.3
+241,106,I,55150,Renton Ave S & S Bangor St,18,XNT,0.1,0.1,8,0.4,0.4
+241,106,O,56360,Renton Ave S & S Hazel St,43,AM,0,0,9.7,0,0.2
+241,106,O,56360,Renton Ave S & S Hazel St,43,MID,0.1,0,10.3,1.2,0.4
+241,106,O,56360,Renton Ave S & S Hazel St,43,PM,0,0.3,12.1,0.6,4.8
+241,106,O,56360,Renton Ave S & S Hazel St,43,XEV,0.1,0.1,9.1,0.5,0.9
+241,106,O,56360,Renton Ave S & S Hazel St,43,XNT,0,0,5.4,0.1,0.2
+241,106,O,56500,Renton Ave S & S 132nd St,54,AM,0.3,0.1,10.6,3,1
+241,106,I,55593,Martin L King Jr Way S & S Webster St,35,AM,0.1,0.1,10.5,2.2,1.7
+241,106,O,56500,Renton Ave S & S 132nd St,54,MID,0.1,0.1,9.1,3.4,1.6
+241,106,I,55593,Martin L King Jr Way S & S Webster St,35,MID,0,0.2,11.6,1,5.4
+241,106,O,56500,Renton Ave S & S 132nd St,54,PM,0.1,0.3,8.7,1.4,4.7
+241,106,I,55593,Martin L King Jr Way S & S Webster St,35,PM,0.1,0.7,11,1.6,10.8
+241,106,O,56500,Renton Ave S & S 132nd St,54,XEV,0,0.1,6.7,0.1,0.9
+241,106,I,55593,Martin L King Jr Way S & S Webster St,35,XEV,0.1,0.6,10.2,0.4,3.5
+241,106,O,56500,Renton Ave S & S 132nd St,54,XNT,0,0.2,3.2,0,1.3
+241,106,I,55593,Martin L King Jr Way S & S Webster St,35,XNT,0.1,0.5,7.1,0.3,2.7
+241,106,O,8660,Rainier Ave S & S Bayview St,10,AM,0.3,0.5,5.4,4.7,6.9
+241,106,O,8660,Rainier Ave S & S Bayview St,10,MID,1.1,0.9,10,24.7,21.2
+241,106,O,8660,Rainier Ave S & S Bayview St,10,PM,1.2,0.8,11.5,19.7,14
+241,106,O,8660,Rainier Ave S & S Bayview St,10,XEV,1,0.9,9.6,5.9,5.3
+241,106,O,8660,Rainier Ave S & S Bayview St,10,XNT,0.3,0.7,6.5,2.2,4.6
+241,106,I,8494,Rainier Ave S & S Charles St,56,AM,0.4,0.8,9.9,4.9,11.4
+241,106,I,8494,Rainier Ave S & S Charles St,56,MID,0.6,0.9,10.4,14.1,19.6
+241,106,I,8494,Rainier Ave S & S Charles St,56,PM,0.9,0.8,8.1,15.4,14.3
+241,106,I,8494,Rainier Ave S & S Charles St,56,XEV,0.8,0.5,5.7,5.5,3.6
+241,106,I,8494,Rainier Ave S & S Charles St,56,XNT,0.5,0.1,4.5,2.3,0.6
+241,106,O,8620,Rainier Ave S & S State St,8,AM,0.3,0.3,5.5,3.6,4.5
+241,106,O,8620,Rainier Ave S & S State St,8,MID,0.4,0.5,9,8.8,12.7
+241,106,O,8620,Rainier Ave S & S State St,8,PM,0.3,0.6,10.4,5.3,9.6
+241,106,O,8620,Rainier Ave S & S State St,8,XEV,0.3,0.4,8.9,1.7,2.1
+241,106,O,8620,Rainier Ave S & S State St,8,XNT,0.1,0.3,6.6,0.7,2.3
+241,106,I,55472,51st Ave S & Renton Ave S,26,AM,0.5,0.1,12,7.4,2
+241,106,I,55472,51st Ave S & Renton Ave S,26,MID,0.3,0.1,10.3,6.4,2.4
+241,106,I,55472,51st Ave S & Renton Ave S,26,PM,0.2,0.1,11.5,2.4,1.6
+241,106,I,55220,Renton Ave S & 52nd Ave S,25,AM,0.1,0,11.6,1.5,0.3
+241,106,I,55472,51st Ave S & Renton Ave S,26,XEV,0.1,0.1,10.7,0.8,0.5
+241,106,I,55220,Renton Ave S & 52nd Ave S,25,MID,0,0,10.1,1.1,1.1
+241,106,I,55472,51st Ave S & Renton Ave S,26,XNT,0.1,0,7.9,0.2,0
+241,106,I,55220,Renton Ave S & 52nd Ave S,25,PM,0.1,0,11.5,1.7,0.6
+241,106,I,55220,Renton Ave S & 52nd Ave S,25,XEV,0,0,10.7,0.2,0.1
+241,106,I,55220,Renton Ave S & 52nd Ave S,25,XNT,0,0,7.8,0.1,0
+241,106,I,8485,Rainier Ave S & I-90,55,AM,1,0.1,10.4,13.5,1.5
+241,106,I,8485,Rainier Ave S & I-90,55,MID,0.7,0.4,10.6,15.9,8.1
+241,106,I,8485,Rainier Ave S & I-90,55,PM,0.4,0.3,8.1,7,4.7
+241,106,I,8485,Rainier Ave S & I-90,55,XEV,0.2,0.1,5.4,1.6,1
+241,106,I,8485,Rainier Ave S & I-90,55,XNT,0.1,0.2,4.1,0.3,0.8
+241,106,I,55780,Martin L King Jr Way S & S Alaska St,44,AM,0.5,0.2,11.1,7.1,3.7
+241,106,O,8590,Rainier Ave S & S Charles St,6,AM,0.4,0.3,5.5,5.6,4.5
+241,106,I,55780,Martin L King Jr Way S & S Alaska St,44,MID,0.4,0.7,11.1,10.3,16
+241,106,O,8590,Rainier Ave S & S Charles St,6,MID,1,0.5,9.1,25,12.9
+241,106,I,55780,Martin L King Jr Way S & S Alaska St,44,PM,0.5,0.7,9.9,7.7,12.3
+241,106,O,8590,Rainier Ave S & S Charles St,6,PM,1.5,0.6,10.9,24.7,9.1
+241,106,I,55780,Martin L King Jr Way S & S Alaska St,44,XEV,0.2,0.5,7.7,1,3
+241,106,O,8590,Rainier Ave S & S Charles St,6,XEV,1.4,0.6,9.1,10.1,4.1
+241,106,I,55780,Martin L King Jr Way S & S Alaska St,44,XNT,0.3,0.1,5.3,1.4,0.7
+241,106,O,8590,Rainier Ave S & S Charles St,6,XNT,0.6,0.4,6.5,4.5,2.7
+241,106,O,56165,Martin L King Jr Way S & S Thistle St,28,AM,0.2,0,8.9,2.9,0.5
+241,106,O,56165,Martin L King Jr Way S & S Thistle St,28,MID,0.2,0.7,12,4.7,15.7
+241,106,O,56165,Martin L King Jr Way S & S Thistle St,28,PM,0.2,0.9,12.5,3.3,15.7
+241,106,O,56165,Martin L King Jr Way S & S Thistle St,28,XEV,0.1,0.5,9.3,0.6,3.6
+241,106,O,56165,Martin L King Jr Way S & S Thistle St,28,XNT,0,0.2,5.9,0.1,1.3
+241,106,I,55210,Renton Ave S & 54th Ave S,24,AM,0.1,0,11.5,1.4,0.2
+241,106,I,55210,Renton Ave S & 54th Ave S,24,MID,0.1,0,10.1,2.1,0.4
+241,106,I,55210,Renton Ave S & 54th Ave S,24,PM,0.1,0.1,11.4,1.8,1
+241,106,I,8530,S Jackson St & Boren Ave S,58,AM,0.6,2.1,8,8.1,27.2
+241,106,I,55210,Renton Ave S & 54th Ave S,24,XEV,0.1,0.1,10.7,0.5,0.5
+241,106,I,8530,S Jackson St & Boren Ave S,58,MID,0.6,2.1,9.3,14.5,49.5
+241,106,I,55210,Renton Ave S & 54th Ave S,24,XNT,0,0.1,7.8,0.1,0.3
+241,106,I,8530,S Jackson St & Boren Ave S,58,PM,0.6,1.8,7.5,10.1,31.3
+241,106,I,8530,S Jackson St & Boren Ave S,58,XEV,0.6,1.6,5.1,4.4,11.1
+241,106,I,8530,S Jackson St & Boren Ave S,58,XNT,0.3,1,3.9,1.6,4.9
+241,106,O,56450,Renton Ave S & S 126th St,50,AM,0.3,0.1,10.3,3,1.4
+241,106,O,56450,Renton Ave S & S 126th St,50,MID,0.3,0.4,9.2,6.4,10.4
+241,106,O,56450,Renton Ave S & S 126th St,50,PM,0.3,0.7,9.1,5.3,12.4
+241,106,O,56450,Renton Ave S & S 126th St,50,XEV,0.2,0.4,7.2,1.1,2.6
+241,106,O,56450,Renton Ave S & S 126th St,50,XNT,0.1,0.3,4,0.8,2.5
+241,106,I,3600,S Jackson St & 12th Ave S,59,AM,0.8,1.5,7.2,9.9,20
+241,106,I,3600,S Jackson St & 12th Ave S,59,MID,1.6,2.7,8.2,37.6,63.7
+241,106,I,3600,S Jackson St & 12th Ave S,59,PM,1.2,2,6.7,20,33.4
+241,106,I,3600,S Jackson St & 12th Ave S,59,XEV,1.2,1.6,4.8,8.7,11.4
+241,106,I,3600,S Jackson St & 12th Ave S,59,XNT,1.5,1.1,4.4,7.6,5.3
+241,106,O,1490,S Jackson St & 8th Ave S,3,XEV,0.5,0.2,7,2.7,1.2
+241,106,O,1490,S Jackson St & 8th Ave S,3,XNT,0.2,0,5.3,1.7,0.3
+241,106,O,56275,Renton Ave S & S Roxbury St,34,AM,0.2,0,9.9,2.6,0.4
+241,106,O,56275,Renton Ave S & S Roxbury St,34,MID,0.1,0.3,11.3,3.2,6.6
+241,106,O,56275,Renton Ave S & S Roxbury St,34,PM,0.2,0.6,15.2,3.1,10.5
+241,106,O,56275,Renton Ave S & S Roxbury St,34,XEV,0.1,0.6,10.9,0.4,4.6
+241,106,O,56275,Renton Ave S & S Roxbury St,34,XNT,0,0.3,6.2,0.1,1.8
+241,106,I,55190,Renton Ave S & 57th Ave S,22,AM,0.2,0,11.1,2.3,0.2
+241,106,I,55190,Renton Ave S & 57th Ave S,22,MID,0.1,0,9.9,2.9,0.5
+241,106,I,55190,Renton Ave S & 57th Ave S,22,PM,0.2,0.1,11.3,2.4,1.4
+241,106,I,55190,Renton Ave S & 57th Ave S,22,XEV,0,0.1,10.6,0.1,0.7
+241,106,I,55190,Renton Ave S & 57th Ave S,22,XNT,0,0.1,7.9,0,0.3
+241,106,I,55681,Martin L King Jr Way S & S Holly St,38,AM,0.4,0.1,10.2,6.3,1.7
+241,106,I,55681,Martin L King Jr Way S & S Holly St,38,MID,0.5,0.3,11.3,11.4,7.7
+241,106,I,55681,Martin L King Jr Way S & S Holly St,38,PM,0.4,0.5,10.7,6.8,7.5
+241,106,I,55681,Martin L King Jr Way S & S Holly St,38,XEV,0.4,0.4,9.7,2.2,2.5
+241,106,I,55681,Martin L King Jr Way S & S Holly St,38,XNT,0.1,0.2,6.5,0.6,0.9
+241,106,I,55812,Martin L King Jr Way S & S Andover St,47,AM,0.9,0.2,12.4,12.4,3.3
+241,106,I,55812,Martin L King Jr Way S & S Andover St,47,MID,0.6,0.4,12.2,14,8.4
+241,106,I,55812,Martin L King Jr Way S & S Andover St,47,PM,0.4,0.3,9.5,5.7,5
+241,106,I,55812,Martin L King Jr Way S & S Andover St,47,XEV,0.2,0.3,6.9,1.4,2.1
+241,106,I,55812,Martin L King Jr Way S & S Andover St,47,XNT,0.1,0.4,4.7,0.3,2
+241,106,O,56031,Martin L King Jr Way S & S Alaska St,17,AM,0.4,0.3,6.6,4.8,3.3
+241,106,O,56031,Martin L King Jr Way S & S Alaska St,17,MID,0.8,0.4,12.1,19.7,9.5
+241,106,O,56031,Martin L King Jr Way S & S Alaska St,17,PM,0.9,0.4,14.1,15.2,6.6
+241,106,O,56031,Martin L King Jr Way S & S Alaska St,17,XEV,0.7,0.2,11.2,4,1.4
+241,106,I,8080,Rainier Ave S & S Fisher Pl,28,AM,1.3,1.2,12.2,19.6,17.6
+241,106,O,56031,Martin L King Jr Way S & S Alaska St,17,XNT,0.6,0.1,7.4,4.2,0.7
+241,106,I,8080,Rainier Ave S & S Fisher Pl,28,MID,2.2,2,10.4,52.7,47.8
+241,106,I,8080,Rainier Ave S & S Fisher Pl,28,PM,1.9,2.8,10.6,30.9,44.9
+241,106,I,8080,Rainier Ave S & S Fisher Pl,28,XEV,1.6,2.1,10.1,9.4,12.8
+241,106,I,8080,Rainier Ave S & S Fisher Pl,28,XNT,0.8,1.2,7.4,3,4.6
+241,106,O,56021,Martin L King Jr Way S & S Columbian Way,16,AM,0.3,0.3,6.4,3.7,3.3
+241,106,O,56021,Martin L King Jr Way S & S Columbian Way,16,MID,0.8,1,11.7,19.2,23.4
+241,106,O,56021,Martin L King Jr Way S & S Columbian Way,16,PM,0.7,1.6,13.6,12.1,26.7
+241,106,O,56021,Martin L King Jr Way S & S Columbian Way,16,XEV,0.3,0.9,10.8,1.9,5.4
+241,106,O,56021,Martin L King Jr Way S & S Columbian Way,16,XNT,0.2,0.2,6.9,1.2,1.6
+241,106,O,56099,Martin L King Jr Way S & S Raymond St,21,AM,0.5,0.2,7.7,6.2,2.4
+241,106,O,56099,Martin L King Jr Way S & S Raymond St,21,MID,0.7,0.8,12.2,16.3,19.3
+241,106,O,56099,Martin L King Jr Way S & S Raymond St,21,PM,0.6,1.4,13,10.9,24.3
+241,106,O,56099,Martin L King Jr Way S & S Raymond St,21,XEV,0.5,1.2,10.3,2.9,6.9
+241,106,O,56099,Martin L King Jr Way S & S Raymond St,21,XNT,0.1,0.5,6.4,0.8,3.8
+241,106,I,844,5th Ave S & S Weller St,62,AM,1.2,3.9,0,15.2,50.8
+241,106,I,55831,Martin L King Jr Way S & S Walden St,48,AM,0.4,0.4,12.4,6.2,6
+241,106,I,844,5th Ave S & S Weller St,62,MID,1.5,5.3,0,37.1,127.5
+241,106,I,55831,Martin L King Jr Way S & S Walden St,48,MID,0.8,0.8,12.3,18.8,18.3
+241,106,I,844,5th Ave S & S Weller St,62,PM,1.3,5.5,0,21.2,87.2
+241,106,I,55831,Martin L King Jr Way S & S Walden St,48,PM,0.3,0.6,9.2,5.2,9.5
+241,106,I,844,5th Ave S & S Weller St,62,XEV,0.8,4,0,6,31.9
+241,106,I,55831,Martin L King Jr Way S & S Walden St,48,XEV,0.1,0.5,6.5,0.7,3.8
+241,106,I,844,5th Ave S & S Weller St,62,XNT,1.2,4.6,0,5.8,23
+241,106,I,55831,Martin L King Jr Way S & S Walden St,48,XNT,0,0.6,4.1,0.2,2.9
+241,106,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,50,AM,0.8,2.5,9.4,11.4,34.5
+241,106,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,50,MID,1.1,2.8,9.7,26.1,67.4
+241,106,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,50,PM,0.9,2.5,6.8,14.8,39.2
+241,106,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,50,XEV,0.7,1.5,5.2,4.9,10.8
+241,106,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,50,XNT,0.8,0.8,3.8,4.1,4.1
+241,106,I,8440,Rainier Ave S & S Walker St,52,AM,0.5,0.7,9.3,6.3,9.1
+241,106,O,56330,Renton Ave S & S Ryan St,40,AM,0.1,0.2,9.6,1.6,1.8
+241,106,I,8440,Rainier Ave S & S Walker St,52,MID,0.7,0.8,9.7,17.6,19.8
+241,106,O,56330,Renton Ave S & S Ryan St,40,MID,0.1,0.3,10.5,2.3,6.2
+241,106,I,8440,Rainier Ave S & S Walker St,52,PM,0.9,0.7,7.5,14.6,11.8
+241,106,O,56330,Renton Ave S & S Ryan St,40,PM,0.1,0.9,13.6,1.3,15
+241,106,I,8440,Rainier Ave S & S Walker St,52,XEV,0.3,0.5,5.4,2.4,3.5
+241,106,O,56330,Renton Ave S & S Ryan St,40,XEV,0,0.3,10,0,2.1
+241,106,I,8440,Rainier Ave S & S Walker St,52,XNT,0.4,0.4,4.3,2.2,1.9
+241,106,O,56330,Renton Ave S & S Ryan St,40,XNT,0,0.4,5.7,0.1,2.7
+241,106,O,8550,Rainier Ave S & S King St,5,AM,1.1,0.9,5.4,14.8,11.5
+241,106,O,8550,Rainier Ave S & S King St,5,MID,1.7,0.6,8.6,40.4,13.2
+241,106,O,8550,Rainier Ave S & S King St,5,PM,2,0.6,9.8,33.4,9.8
+241,106,O,8550,Rainier Ave S & S King St,5,XEV,1.9,0.8,8.1,11.1,4.5
+241,106,O,8550,Rainier Ave S & S King St,5,XNT,1.2,0.5,6.3,8.6,3.5
+241,106,O,56350,Renton Ave S & S Bangor St,42,AM,0.1,0.1,9.7,0.9,0.6
+241,106,O,56350,Renton Ave S & S Bangor St,42,MID,0.1,0.2,10.2,2.8,4.7
+241,106,O,56350,Renton Ave S & S Bangor St,42,PM,0.1,0.8,12.3,1.8,13.3
+241,106,O,56350,Renton Ave S & S Bangor St,42,XEV,0.1,0.7,9.2,0.9,4.7
+241,106,O,56350,Renton Ave S & S Bangor St,42,XNT,0,0.3,5.4,0.1,2.5
+241,106,O,31134,S Henderson St & 48th Ave S,30,AM,0.2,0.4,9.9,1.9,4.4
+241,106,O,31134,S Henderson St & 48th Ave S,30,MID,0.3,0.8,13.6,6.1,18.9
+241,106,O,31134,S Henderson St & 48th Ave S,30,PM,0.5,0.8,16.9,7.9,14.3
+241,106,O,31134,S Henderson St & 48th Ave S,30,XEV,0.2,0.6,12.1,1.3,4.4
+241,106,O,31134,S Henderson St & 48th Ave S,30,XNT,0.1,0.5,7.1,0.7,3.4
+241,106,O,56320,Renton Ave S & S Victor St,39,AM,0.1,0.2,9.6,0.7,2.6
+241,106,O,56320,Renton Ave S & S Victor St,39,MID,0,0.2,10.7,0.9,5
+241,106,O,56320,Renton Ave S & S Victor St,39,PM,0,0.1,14.5,0.1,2
+241,106,O,56320,Renton Ave S & S Victor St,39,XEV,0,0.2,10.3,0,1.2
+241,106,O,56320,Renton Ave S & S Victor St,39,XNT,0,0,6,0,0.1
+241,106,O,46420,Renton Ave Ext & Hardie Ave SW,55,AM,0,0.6,10.1,0.3,6.1
+241,106,O,46420,Renton Ave Ext & Hardie Ave SW,55,MID,0.1,0.5,8.7,2.4,10.8
+241,106,O,46420,Renton Ave Ext & Hardie Ave SW,55,PM,0.1,0.7,8.1,2.3,12.6
+241,106,O,46420,Renton Ave Ext & Hardie Ave SW,55,XEV,0,0.4,6.3,0.1,2.5
+241,106,O,46420,Renton Ave Ext & Hardie Ave SW,55,XNT,0,0.2,3,0.1,1.8
+241,106,I,55068,Renton Ave S & S 116th Pl,15,AM,0.3,0,7.9,4.5,0.2
+241,106,I,55068,Renton Ave S & S 116th Pl,15,MID,0.1,0,8.7,2.8,1
+241,106,I,55068,Renton Ave S & S 116th Pl,15,PM,0.1,0,11.1,1.3,0.2
+241,106,I,55068,Renton Ave S & S 116th Pl,15,XEV,0,0,11.1,0.2,0
+241,106,I,55068,Renton Ave S & S 116th Pl,15,XNT,0,0,8.3,0.1,0.1
+241,106,I,46464,Renton Transit Center - Bay 9,1,AM,3.8,0,3.8,57.6,0.4
+241,106,I,46464,Renton Transit Center - Bay 9,1,MID,5.6,0,5.6,133.8,0
+241,106,I,46464,Renton Transit Center - Bay 9,1,PM,8.4,0,8.4,126.6,0
+241,106,I,46464,Renton Transit Center - Bay 9,1,XEV,7.7,0,7.8,46.4,0
+241,106,I,46464,Renton Transit Center - Bay 9,1,XNT,5.9,0,5.9,29.6,0
+241,106,O,46464,Renton Transit Center - Bay 9,59,AM,0.2,7.5,0,2.2,82.7
+241,106,O,46464,Renton Transit Center - Bay 9,59,MID,0.2,6.3,0,3.9,144.2
+241,106,O,46464,Renton Transit Center - Bay 9,59,PM,0,6.1,0,0.4,104
+241,106,O,46464,Renton Transit Center - Bay 9,59,XEV,0.1,4.3,0,0.5,34.1
+241,106,O,46464,Renton Transit Center - Bay 9,59,XNT,0.4,2.5,0,3,19.8
+241,106,I,55066,Renton Ave S & 68th Ave S,14,AM,0.9,0,7.4,12.4,0.6
+241,106,I,55066,Renton Ave S & 68th Ave S,14,MID,0.6,0.2,8.6,13.8,3.6
+241,106,I,55066,Renton Ave S & 68th Ave S,14,PM,0.4,0.3,11,6.1,4
+241,106,I,55066,Renton Ave S & 68th Ave S,14,XEV,0.6,0.2,11,3.3,1.4
+241,106,I,55066,Renton Ave S & 68th Ave S,14,XNT,0.3,0.1,8.5,1.6,0.4
+241,106,O,56372,Renton Ave S & S 116th Pl,45,AM,0.1,0.1,9.8,1.6,1
+241,106,O,56372,Renton Ave S & S 116th Pl,45,MID,0,0.1,10.2,0.6,1.9
+241,106,O,56372,Renton Ave S & S 116th Pl,45,PM,0,0.2,11.5,0.3,3.8
+241,106,O,56372,Renton Ave S & S 116th Pl,45,XEV,0,0.1,8.8,0,0.6
+241,106,O,56372,Renton Ave S & S 116th Pl,45,XNT,0,0,5.2,0,0.2

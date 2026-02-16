@@ -1,0 +1,621 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,240,I,85630,Bellevue Transit Center - Bay 1,1,AM,3.6,0,3.6,35.7,0
+243,240,O,46479,Renton Transit Center - Bay 4,1,AM,5.4,0,5.4,48.8,0
+243,240,O,46474,Mill Ave S & S 2nd St,2,AM,0.4,0,5.8,3.7,0.4
+243,240,I,85725,NE 4th St & 108th Ave NE,2,AM,0.3,0,3.8,2.7,0.2
+243,240,I,80492,112th Ave NE & NE 4th St,3,AM,0.2,0,4,2.1,0.1
+243,240,O,46480,Park Ave N & Bronson Way N,3,AM,0.2,0,5.9,1.4,0.2
+243,240,O,46490,Park Ave N & N 2nd St,4,AM,0.1,0,6,0.6,0
+243,240,I,82742,112th Ave NE & Main St,4,AM,0.3,0,4,2.5,0
+243,240,O,46500,Park Ave N & N 3rd St,5,AM,0.1,0.1,6,1.2,0.7
+243,240,I,82749,112th Ave SE & SE 4th St,5,AM,0,0,4.1,0.4,0.2
+243,240,O,46510,Park Ave N & N 4th St,6,AM,0.2,0,6.2,2.1,0.4
+243,240,I,82760,112th Ave SE & SE 4th St,6,AM,0,0.1,4,0.2,1.1
+243,240,O,46520,Park Ave N & N 6th St,7,AM,0.1,0.2,6.1,0.7,1.6
+243,240,I,70820,SE 8th St & 114th Ave SE,7,AM,0,0.8,3.2,0.1,7.8
+243,240,O,46530,Park Ave N & N 8th St,8,AM,0.1,0.3,5.9,1,2.5
+243,240,I,70825,SE 8th St & 121st Ave SE,8,AM,0,0,3.2,0,0
+243,240,I,70813,Lake Hills Connector & SE 8th St,9,AM,0,0,3.2,0.2,0
+243,240,O,46541,Southport Dr N & Garden Ave N,9,AM,0.5,0.1,6.3,4.9,1.2
+243,240,I,71133,Richards Rd & SE 21st Pl,10,AM,0.2,0.1,3.3,1.6,0.5
+243,240,O,46550,NE Sunset Blvd & Edmonds Ave NE,10,AM,1,0.3,7,8.7,2.6
+243,240,O,46560,NE Sunset Blvd & Harrington Ave NE,11,AM,0.3,0.4,6.9,3,3.9
+243,240,I,71139,SE 26th St & Richards Rd,11,AM,0.3,0.2,3.4,2.8,1.8
+243,240,O,46565,NE Sunset Blvd & NE 10th St,12,AM,0.6,0.5,7.1,5.6,4.2
+243,240,I,71141,SE 26th St & 136th Ave SE,12,AM,0,0,3.4,0.3,0.3
+243,240,O,46600,NE 12th St & Lynnwood Ave NE,13,AM,0.7,0.3,7.4,5.9,2.6
+243,240,I,67112,139th Ave SE & SE 32nd St,13,AM,0,0.1,3.4,0.2,0.9
+243,240,I,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,14,AM,1.2,0.7,3.9,11.9,7
+243,240,O,46610,NE 12th St & Pierce Pl NE,14,AM,0.1,0,7.5,0.9,0.2
+243,240,I,65322,SE Eastgate Way & 139th Ave SE,15,AM,0.9,0.6,4.1,9,6.3
+243,240,O,46620,NE 12th St & Redmond Ave NE,15,AM,0.2,0,7.8,2.1,0
+243,240,I,79868,Factoria Blvd SE & SE 38th St,16,AM,0.2,0.8,3.6,2.3,7.7
+243,240,O,46630,NE 12th St & NE 11th Pl,16,AM,0.6,0.1,8.2,5.6,1.2
+243,240,O,40093,NE Sunset Blvd & Union Ave NE,17,AM,0.5,0.3,8.4,4.8,3
+243,240,I,79880,Factoria Blvd SE & SE 40th Ln,17,AM,0.2,0.5,3.2,2.2,5.3
+243,240,O,40097,Duvall Ave NE & NE Sunset Blvd,18,AM,1.5,1.1,8.6,11.7,8.7
+243,240,I,79890,Factoria Blvd SE & SE 42nd St,18,AM,0.1,0.4,2.9,1,3.5
+243,240,O,40101,Duvall Ave NE & NE 21st St,19,AM,0.4,0.2,8.8,3.3,1.8
+243,240,I,79900,Factoria Blvd SE & SE Newport Way,19,AM,0,0,2.9,0.3,0.2
+243,240,O,82796,Coal Creek Pkwy SE & SE 91st St,20,AM,0.1,0,8.9,0.8,0
+243,240,I,64790,Factoria Blvd SE & Coal Creek Pkwy SE,20,AM,0,0,2.9,0,0
+243,240,I,64800,Coal Creek Pkwy SE & 124th Ave SE,21,AM,0,0.1,2.9,0.1,0.8
+243,240,O,82793,Coal Creek Pkwy SE & SE 89th Pl,21,AM,0.1,0.1,8.8,0.5,0.7
+243,240,I,65570,119th Ave SE & Coal Creek Pkwy SE,22,AM,0,0,2.9,0.1,0
+243,240,O,82795,Coal Creek Pkwy SE & 135th Ave SE,22,AM,0.1,0,8.9,0.9,0.1
+243,240,O,82797,Coal Creek Pkwy SE & SE 79th Pl,23,AM,0,0,9,0.3,0
+243,240,I,65580,119th Ave SE & Lake Heights St,23,AM,0,0,2.9,0.1,0
+243,240,O,82798,Coal Creek Pkwy SE & Newcastle Golf Club Rd,24,AM,0,0,8.9,0.1,0.3
+243,240,I,65590,119th Ave SE & SE 47th St,24,AM,0,0,2.9,0,0
+243,240,I,65600,119th Ave SE & SE 49th Pl,25,AM,0,0,2.9,0,0
+243,240,O,65287,Newcastle Way & 132nd Pl SE,25,AM,1.5,0.4,10.1,12.2,2.9
+243,240,I,65610,119th Ave SE & SE 52nd St,26,AM,0,0.1,2.8,0.3,0.5
+243,240,O,65400,Newcastle Way & 129th Ave SE,26,AM,0.8,0.3,10.6,6.4,2.4
+243,240,I,65620,119th Ave SE & SE 54th Pl,27,AM,0,0,2.8,0.2,0.3
+243,240,O,65420,Newcastle Way & 125th Ave SE,27,AM,0.5,0,11.1,4.1,0
+243,240,I,65630,119th Ave SE & SE 58th St,28,AM,0.4,0.1,3.1,3.6,1.2
+243,240,O,65432,123rd Ave SE & SE 68th Pl,28,AM,0.4,0.3,11.2,3.4,2.5
+243,240,O,65450,123rd Ave SE & SE 65th Pl,29,AM,0,0.1,11.1,0.1,0.5
+243,240,I,65640,SE 60th St & 119th Ave SE,29,AM,0.1,0.1,3,0.5,1.3
+243,240,O,65460,123rd Ave SE & SE 64th Pl,30,AM,0.2,0,11.2,1.2,0.2
+243,240,I,65652,123rd Ave SE & SE 60th St,30,AM,0.1,0,3.1,0.9,0.1
+243,240,O,65470,123rd Ave SE & SE 62nd St,31,AM,0.1,0,11.3,0.7,0
+243,240,I,65660,123rd Ave SE & SE 61st St,31,AM,0,0,3.1,0.2,0
+243,240,O,65480,SE 60th St & 123rd Ave SE,32,AM,3.2,0.1,14.5,25.8,0.5
+243,240,I,65670,123rd Ave SE & SE 64th Pl,32,AM,0,0,3.1,0,0
+243,240,O,65490,SE 60th St & 119th Ave SE,33,AM,1.5,0.1,15.9,11.6,0.4
+243,240,I,65680,123rd Ave SE & SE 65th Pl,33,AM,0,0,3.1,0.1,0
+243,240,I,65700,123rd Ave SE & Newcastle Way,34,AM,0.1,0,3.2,0.6,0.2
+243,240,O,65500,119th Ave SE & SE 58th St,34,AM,2.8,0.2,18.5,22.5,1.9
+243,240,O,65510,119th Ave SE & SE 56th St,35,AM,0.6,0,19.1,4.8,0.1
+243,240,I,65720,Newcastle Way & 125th Ave SE,35,AM,0,0,3.2,0.2,0
+243,240,O,65520,119th Ave SE & SE 52nd St,36,AM,0.8,0.3,19.6,6.5,2.3
+243,240,I,65740,Newcastle Way & 129th Ave SE,36,AM,0.4,0.2,3.3,3.5,2
+243,240,I,65252,Newcastle Way & Coal Creek Pkwy SE,37,AM,0.7,0.2,3.8,5.9,1.7
+243,240,O,65530,119th Ave SE & SE 49th Pl,37,AM,0.2,0,19.7,1.2,0
+243,240,I,82792,Coal Creek Pkwy SE & SE 76th St,38,AM,0,0.1,3.7,0.3,0.9
+243,240,O,65540,119th Ave SE & SE 47th St,38,AM,0.1,0,19.8,0.8,0
+243,240,O,65550,119th Ave SE & Lake Heights St,39,AM,0.1,0,19.9,0.4,0
+243,240,I,82794,Coal Creek Pkwy SE & SE 79th Pl,39,AM,0,0,3.7,0.2,0.2
+243,240,O,65560,119th Ave SE & Coal Creek Pkwy SE,40,AM,0.1,0,19.9,0.6,0.3
+243,240,I,82789,Coal Creek Pkwy SE & SE 84th Way,40,AM,0,0,3.7,0,0
+243,240,O,64830,Coal Creek Pkwy SE & 124th Ave SE,41,AM,0.1,4.5,15.5,1,36
+243,240,I,82788,Coal Creek Pkwy SE & SE 89th Pl,41,AM,0,0,3.8,0.4,0.1
+243,240,O,64840,Factoria Blvd SE & Coal Creek Pkwy SE,42,AM,0.2,0,15.7,1.5,0
+243,240,I,82791,Coal Creek Pkwy SE & SE 91st St,42,AM,0,0,3.8,0.2,0
+243,240,I,40103,Duvall Ave NE & NE 23rd St,43,AM,0.2,0,3.9,1.8,0.1
+243,240,O,80380,Factoria Blvd SE & SE Newport Way,43,AM,0.2,2,13.8,1.2,16.2
+243,240,O,80390,Factoria Blvd SE & SE 41st Ln,44,AM,0.2,0.3,13.8,1.5,2
+243,240,I,40125,NE Sunset Blvd & Duvall Ave NE,44,AM,1.1,0.4,4.7,9.7,3.5
+243,240,I,45101,Union Ave NE & NE 12th St,45,AM,0.6,0.4,4.8,5.4,3.7
+243,240,O,80400,Factoria Blvd SE & SE 40th Ln,45,AM,0.5,1,13.3,3.9,7.7
+243,240,I,45110,NE 12th St & NE 11th Pl,46,AM,0,0,4.8,0,0
+243,240,O,80412,Factoria Blvd SE & SE 38th St,46,AM,0.4,0.8,12.9,3.1,6.2
+243,240,I,45120,NE 12th St & Redmond Ave NE,47,AM,0.2,0.1,4.9,1.6,0.6
+243,240,O,65300,SE Eastgate Way & Richards Rd,47,AM,0.3,0.2,12.3,1.9,1.7
+243,240,O,65402,SE Eastgate Way & 139th Ave SE,48,AM,1.2,0.5,12.9,8.4,3.6
+243,240,I,45130,NE 12th St & Olympia Ave NE,48,AM,0.1,0,5,0.9,0.2
+243,240,I,45140,NE 12th St & Lynnwood Ave NE,49,AM,0.2,0.4,4.8,2.2,3.7
+243,240,O,67014,Eastgate Park & Ride - Bay 1,49,AM,0.9,6.2,7.7,6.3,43.3
+243,240,I,45145,NE Sunset Blvd & Kirkland Ave NE,50,AM,0.2,0,5,1.8,0.3
+243,240,O,67111,139th Ave SE & SE 32nd St,50,AM,0.1,0,7.7,0.5,0.1
+243,240,I,45175,NE Sunset Blvd & NE 10th St,51,AM,0.9,0.2,5.7,8.3,1.4
+243,240,O,67033,SE 26th St & 137th Ave SE,51,AM,0.1,0.2,7.7,0.7,1.3
+243,240,O,67037,Richards Rd & SE 26th St,52,AM,0.3,0,7.9,1.8,0.1
+243,240,I,45180,NE Sunset Blvd & Harrington Ave NE,52,AM,0.6,0.1,6.2,5.4,0.8
+243,240,O,67039,Richards Rd & SE 21st Pl,53,AM,0.5,0.1,8.3,3.7,0.6
+243,240,I,45190,NE Sunset Blvd & Edmonds Ave NE,53,AM,1.2,0.1,7.4,11.2,1.1
+243,240,O,70807,Lake Hills Connector & SE 8th St,54,AM,0.2,0.4,8.1,1.3,2.8
+243,240,I,45191,Southport Dr N & Lake Washington Blvd N,54,AM,0.1,1,6.3,0.6,7.8
+243,240,O,70812,SE 8th St & I-405,55,AM,0.3,0.1,8.2,1.8,1
+243,240,I,45219,Park Ave N & N 8th St,55,AM,0,0.6,5.8,0.2,4.4
+243,240,O,70814,SE 8th St & 114th Ave SE,56,AM,0,0.2,8,0,1.6
+243,240,I,45230,Park Ave N & N 6th St,56,AM,0.2,0,6,1.5,0.1
+243,240,O,84309,112th Ave SE & SE 6th St,57,AM,0,0.1,7.9,0,0.5
+243,240,I,45240,Park Ave N & N 4th St,57,AM,0.3,0,6.3,2.7,0.2
+243,240,I,45260,Park Ave N & N 2nd St,58,AM,0.1,0.1,6.2,0.6,0.7
+243,240,O,82790,112th Ave SE & SE 4th St,58,AM,0,0.5,7.4,0,3.3
+243,240,O,82741,112th Ave NE & Main St,59,AM,0,0.3,7.2,0.3,2.4
+243,240,I,45270,Park Ave N & N 1st St,59,AM,0,0,6.2,0,0
+243,240,I,45280,Bronson Way S & Mill Ave S,60,AM,0,0.2,6,0,1.9
+243,240,O,80489,112th Ave NE & NE 2nd St,60,AM,0.1,0.4,6.8,0.4,3
+243,240,O,85640,NE 4th St & 108th Ave NE,61,AM,0,2.3,4.5,0,16
+243,240,I,46478,Renton Transit Center - Bay 3,61,AM,0.4,6.4,0,3.4,51.4
+243,240,O,68048,106th Ave NE & NE 6th St,62,AM,0.1,1.4,3.2,0.6,10
+243,240,O,85630,Bellevue Transit Center - Bay 1,63,AM,0.8,4.5,0,4.6,26.9
+243,240,I,85630,Bellevue Transit Center - Bay 1,1,MID,4.2,0,4.2,58.4,0.4
+243,240,O,46479,Renton Transit Center - Bay 4,1,MID,7.1,0,7.2,85.5,0
+243,240,O,46474,Mill Ave S & S 2nd St,2,MID,0.9,0.2,7.9,10.6,2
+243,240,I,85725,NE 4th St & 108th Ave NE,2,MID,0.5,0,4.6,6.7,0.4
+243,240,I,80492,112th Ave NE & NE 4th St,3,MID,0.3,0.1,4.8,4,0.7
+243,240,O,46480,Park Ave N & Bronson Way N,3,MID,0.2,0.1,8,2.2,0.8
+243,240,O,46490,Park Ave N & N 2nd St,4,MID,0.1,0,8,0.9,0.2
+243,240,I,82742,112th Ave NE & Main St,4,MID,0.2,0,5,3,0.1
+243,240,O,46500,Park Ave N & N 3rd St,5,MID,0.1,0.1,7.9,0.6,1.4
+243,240,I,82749,112th Ave SE & SE 4th St,5,MID,0.2,0.1,5.1,2.6,0.7
+243,240,O,46510,Park Ave N & N 4th St,6,MID,0.4,0.2,8.2,4.6,1.9
+243,240,I,82760,112th Ave SE & SE 4th St,6,MID,0.1,0.1,5.1,0.7,0.7
+243,240,O,46520,Park Ave N & N 6th St,7,MID,0.1,0.1,8.2,1.6,0.8
+243,240,I,70820,SE 8th St & 114th Ave SE,7,MID,0.2,0.3,5,2.5,4.3
+243,240,O,46530,Park Ave N & N 8th St,8,MID,1,0.8,8.5,12.3,9.3
+243,240,I,70825,SE 8th St & 121st Ave SE,8,MID,0,0,4.9,0,0.3
+243,240,I,70813,Lake Hills Connector & SE 8th St,9,MID,0.3,0,5.2,3.6,0.1
+243,240,O,46541,Southport Dr N & Garden Ave N,9,MID,1,0.2,9.6,11,1.9
+243,240,I,71133,Richards Rd & SE 21st Pl,10,MID,0.2,0.2,5.2,2.7,2.1
+243,240,O,46550,NE Sunset Blvd & Edmonds Ave NE,10,MID,0.9,1.1,9.4,9.9,12.1
+243,240,O,46560,NE Sunset Blvd & Harrington Ave NE,11,MID,0.4,1.7,8.2,4.5,18.2
+243,240,I,71139,SE 26th St & Richards Rd,11,MID,0.4,0.2,5.4,5.3,2.8
+243,240,O,46565,NE Sunset Blvd & NE 10th St,12,MID,0.7,0.8,8.2,8.1,8.3
+243,240,I,71141,SE 26th St & 136th Ave SE,12,MID,0.1,0.1,5.4,1.2,0.7
+243,240,O,46600,NE 12th St & Lynnwood Ave NE,13,MID,1.1,0.7,8.5,11.9,7.7
+243,240,I,67112,139th Ave SE & SE 32nd St,13,MID,0,0.1,5.2,0.3,1.2
+243,240,I,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,14,MID,4.3,0.9,8.6,55.9,12.2
+243,240,O,46610,NE 12th St & Pierce Pl NE,14,MID,0.1,0.1,8.5,1.3,1.6
+243,240,I,65322,SE Eastgate Way & 139th Ave SE,15,MID,1.6,0.7,9.4,20.4,8.7
+243,240,O,46620,NE 12th St & Redmond Ave NE,15,MID,0.3,0.1,8.7,2.9,0.9
+243,240,I,79868,Factoria Blvd SE & SE 38th St,16,MID,0.8,1.5,8.6,10,19.8
+243,240,O,46630,NE 12th St & NE 11th Pl,16,MID,0.1,0.3,8.6,1.6,2.9
+243,240,O,40093,NE Sunset Blvd & Union Ave NE,17,MID,0.8,0.6,8.8,8.7,6.1
+243,240,I,79880,Factoria Blvd SE & SE 40th Ln,17,MID,2.3,1.1,9.8,30,14.9
+243,240,O,40097,Duvall Ave NE & NE Sunset Blvd,18,MID,1.4,0.9,9.4,16.9,10.8
+243,240,I,79890,Factoria Blvd SE & SE 42nd St,18,MID,0.9,0.3,10,12.1,3.7
+243,240,O,40101,Duvall Ave NE & NE 21st St,19,MID,0.3,0.2,9.6,3.9,1.9
+243,240,I,79900,Factoria Blvd SE & SE Newport Way,19,MID,0.2,0.1,10.1,2.2,0.7
+243,240,O,82796,Coal Creek Pkwy SE & SE 91st St,20,MID,0.1,0,9.6,0.7,0.3
+243,240,I,64790,Factoria Blvd SE & Coal Creek Pkwy SE,20,MID,0,0,10,0.1,0.2
+243,240,I,64800,Coal Creek Pkwy SE & 124th Ave SE,21,MID,0.2,0,10.2,2.3,0
+243,240,O,82793,Coal Creek Pkwy SE & SE 89th Pl,21,MID,0,0.1,9.6,0.1,0.6
+243,240,I,65570,119th Ave SE & Coal Creek Pkwy SE,22,MID,0,0,10.2,0,0.1
+243,240,O,82795,Coal Creek Pkwy SE & 135th Ave SE,22,MID,0.1,0,9.7,1.3,0.3
+243,240,O,82797,Coal Creek Pkwy SE & SE 79th Pl,23,MID,0,0.1,9.6,0.2,1.1
+243,240,I,65580,119th Ave SE & Lake Heights St,23,MID,0,0,10.1,0.1,0.5
+243,240,O,82798,Coal Creek Pkwy SE & Newcastle Golf Club Rd,24,MID,0,0.2,9.5,0.4,1.9
+243,240,I,65590,119th Ave SE & SE 47th St,24,MID,0,0.1,10.1,0.2,1.3
+243,240,I,65600,119th Ave SE & SE 49th Pl,25,MID,0,0.1,10,0.1,0.7
+243,240,O,65287,Newcastle Way & 132nd Pl SE,25,MID,1.4,0.9,10.1,17.2,10.2
+243,240,I,65610,119th Ave SE & SE 52nd St,26,MID,0.1,0.3,9.8,1.1,4.4
+243,240,O,65400,Newcastle Way & 129th Ave SE,26,MID,1.3,0.5,10.8,15.2,6.4
+243,240,I,65620,119th Ave SE & SE 54th Pl,27,MID,0,1,8.9,0.6,13.5
+243,240,O,65420,Newcastle Way & 125th Ave SE,27,MID,0.2,0,11,2.3,0.5
+243,240,I,65630,119th Ave SE & SE 58th St,28,MID,0.3,0.6,8.5,4.2,8.8
+243,240,O,65432,123rd Ave SE & SE 68th Pl,28,MID,0.3,0.1,11.2,3.5,1.7
+243,240,O,65450,123rd Ave SE & SE 65th Pl,29,MID,0,0,11.1,0,0.3
+243,240,I,65640,SE 60th St & 119th Ave SE,29,MID,0.2,0.6,8.2,2.3,7.7
+243,240,O,65460,123rd Ave SE & SE 64th Pl,30,MID,0.1,0,11.2,1.7,0.2
+243,240,I,65652,123rd Ave SE & SE 60th St,30,MID,0.1,0.5,7.5,1.7,6.5
+243,240,O,65470,123rd Ave SE & SE 62nd St,31,MID,0,0,11.2,0.1,0
+243,240,I,65660,123rd Ave SE & SE 61st St,31,MID,0,0,7.5,0,0.1
+243,240,O,65480,SE 60th St & 123rd Ave SE,32,MID,1,0.1,12.2,12.5,1.4
+243,240,I,65670,123rd Ave SE & SE 64th Pl,32,MID,0,0.1,7.5,0,0.9
+243,240,O,65490,SE 60th St & 119th Ave SE,33,MID,0.4,0.2,12.4,5,2.9
+243,240,I,65680,123rd Ave SE & SE 65th Pl,33,MID,0,0,7.4,0.1,0.3
+243,240,I,65700,123rd Ave SE & Newcastle Way,34,MID,0.1,0.2,7.4,1.6,2.2
+243,240,O,65500,119th Ave SE & SE 58th St,34,MID,1,0.3,13,11.8,3.8
+243,240,O,65510,119th Ave SE & SE 56th St,35,MID,0.1,0.1,13.1,1.7,0.6
+243,240,I,65720,Newcastle Way & 125th Ave SE,35,MID,0.1,0.2,7.3,1,2.5
+243,240,O,65520,119th Ave SE & SE 52nd St,36,MID,0.3,0.1,13.3,3,1.2
+243,240,I,65740,Newcastle Way & 129th Ave SE,36,MID,0.6,1.1,6.7,7.3,14.3
+243,240,I,65252,Newcastle Way & Coal Creek Pkwy SE,37,MID,0.5,0.5,6.7,6.5,6.9
+243,240,O,65530,119th Ave SE & SE 49th Pl,37,MID,0,0,13.3,0,0
+243,240,I,82792,Coal Creek Pkwy SE & SE 76th St,38,MID,0.1,0.1,6.7,0.8,0.9
+243,240,O,65540,119th Ave SE & SE 47th St,38,MID,0.1,0,13.4,0.9,0
+243,240,O,65550,119th Ave SE & Lake Heights St,39,MID,0,0,13.4,0.4,0
+243,240,I,82794,Coal Creek Pkwy SE & SE 79th Pl,39,MID,0,0,6.7,0.4,0.3
+243,240,O,65560,119th Ave SE & Coal Creek Pkwy SE,40,MID,0.1,0,13.8,1,0.1
+243,240,I,82789,Coal Creek Pkwy SE & SE 84th Way,40,MID,0,0,6.7,0.3,0.5
+243,240,O,64830,Coal Creek Pkwy SE & 124th Ave SE,41,MID,0.1,0.2,13.7,0.8,1.8
+243,240,I,82788,Coal Creek Pkwy SE & SE 89th Pl,41,MID,0,0,6.7,0,0.1
+243,240,O,64840,Factoria Blvd SE & Coal Creek Pkwy SE,42,MID,0,0,13.7,0.1,0.2
+243,240,I,82791,Coal Creek Pkwy SE & SE 91st St,42,MID,0.1,0.1,6.7,0.7,1
+243,240,I,40103,Duvall Ave NE & NE 23rd St,43,MID,0.2,0.1,6.7,2.2,1.8
+243,240,O,80380,Factoria Blvd SE & SE Newport Way,43,MID,0.2,0.3,13.5,2,3.6
+243,240,O,80390,Factoria Blvd SE & SE 41st Ln,44,MID,0.3,0.1,13.7,3.6,1.6
+243,240,I,40125,NE Sunset Blvd & Duvall Ave NE,44,MID,1.3,1,7,16.7,12.6
+243,240,I,45101,Union Ave NE & NE 12th St,45,MID,0.7,0.7,7.1,9.6,8.9
+243,240,O,80400,Factoria Blvd SE & SE 40th Ln,45,MID,1.1,2,12.8,12.2,21.9
+243,240,I,45110,NE 12th St & NE 11th Pl,46,MID,0.1,0,7.1,0.9,0.6
+243,240,O,80412,Factoria Blvd SE & SE 38th St,46,MID,1.4,1.2,13,15.8,13.3
+243,240,I,45120,NE 12th St & Redmond Ave NE,47,MID,0.2,0.1,7.1,2,1.4
+243,240,O,65300,SE Eastgate Way & Richards Rd,47,MID,0.3,0.1,13.6,3.8,1.7
+243,240,O,65402,SE Eastgate Way & 139th Ave SE,48,MID,1.2,1.2,13.5,13.8,14.7
+243,240,I,45130,NE 12th St & Olympia Ave NE,48,MID,0.1,0.1,7.1,1.6,1.5
+243,240,I,45140,NE 12th St & Lynnwood Ave NE,49,MID,0.4,0.5,7.1,5.7,6.8
+243,240,O,67014,Eastgate Park & Ride - Bay 1,49,MID,1.3,7.1,7.7,15.8,85.4
+243,240,I,45145,NE Sunset Blvd & Kirkland Ave NE,50,MID,0.4,0.2,7.2,5.1,2.6
+243,240,O,67111,139th Ave SE & SE 32nd St,50,MID,0.2,0.1,7.8,2.3,0.7
+243,240,I,45175,NE Sunset Blvd & NE 10th St,51,MID,1.4,0.7,7.9,17.7,9.2
+243,240,O,67033,SE 26th St & 137th Ave SE,51,MID,0.2,0,8,2.7,0.5
+243,240,O,67037,Richards Rd & SE 26th St,52,MID,0.3,0.2,8.1,3.5,2.6
+243,240,I,45180,NE Sunset Blvd & Harrington Ave NE,52,MID,0.7,0.2,8.4,9.6,2.7
+243,240,O,67039,Richards Rd & SE 21st Pl,53,MID,0.3,0.1,8.2,3.1,1.2
+243,240,I,45190,NE Sunset Blvd & Edmonds Ave NE,53,MID,1.1,0.4,9.2,14.6,4.6
+243,240,O,70807,Lake Hills Connector & SE 8th St,54,MID,0.1,0.2,8,0.6,2.6
+243,240,I,45191,Southport Dr N & Lake Washington Blvd N,54,MID,0.1,1,8.3,1.9,13.4
+243,240,O,70812,SE 8th St & I-405,55,MID,0.1,0,8.2,1.6,0.5
+243,240,I,45219,Park Ave N & N 8th St,55,MID,0.2,1,7.6,3.1,13.2
+243,240,O,70814,SE 8th St & 114th Ave SE,56,MID,0.2,0.1,8.2,2.4,1.7
+243,240,I,45230,Park Ave N & N 6th St,56,MID,0.1,0,7.6,1.2,0.5
+243,240,O,84309,112th Ave SE & SE 6th St,57,MID,0,0.1,8.2,0.2,0.9
+243,240,I,45240,Park Ave N & N 4th St,57,MID,0.3,0.2,7.7,4,2.2
+243,240,I,45260,Park Ave N & N 2nd St,58,MID,0,0.1,7.7,0.6,1.6
+243,240,O,82790,112th Ave SE & SE 4th St,58,MID,0,0.2,8,0.3,2.6
+243,240,O,82741,112th Ave NE & Main St,59,MID,0,0.2,7.9,0.5,2.2
+243,240,I,45270,Park Ave N & N 1st St,59,MID,0,0.1,7.5,0,1.6
+243,240,I,45280,Bronson Way S & Mill Ave S,60,MID,0,0.4,7.2,0.3,5.2
+243,240,O,80489,112th Ave NE & NE 2nd St,60,MID,0.1,0.6,7.4,1.6,6.9
+243,240,O,85640,NE 4th St & 108th Ave NE,61,MID,0,2.8,4.7,0.1,33.5
+243,240,I,46478,Renton Transit Center - Bay 3,61,MID,1.2,8.4,0,15.4,109
+243,240,O,68048,106th Ave NE & NE 6th St,62,MID,0,1.5,3.4,0.5,17.4
+243,240,O,85630,Bellevue Transit Center - Bay 1,63,MID,0.4,4.2,0,5.4,54.4
+243,240,I,85630,Bellevue Transit Center - Bay 1,1,PM,7.7,0,7.7,76.8,0.2
+243,240,O,46479,Renton Transit Center - Bay 4,1,PM,7.5,0,7.5,74.8,0
+243,240,O,46474,Mill Ave S & S 2nd St,2,PM,0.7,0.2,8.1,7.4,2.1
+243,240,I,85725,NE 4th St & 108th Ave NE,2,PM,1.5,0.1,9,14.6,0.8
+243,240,I,80492,112th Ave NE & NE 4th St,3,PM,0.5,0.1,9.4,4.9,1.2
+243,240,O,46480,Park Ave N & Bronson Way N,3,PM,0.4,0.1,8.2,3.8,1.3
+243,240,O,46490,Park Ave N & N 2nd St,4,PM,0,0.1,8.2,0.4,0.6
+243,240,I,82742,112th Ave NE & Main St,4,PM,0.5,0.1,9.6,4.7,0.6
+243,240,O,46500,Park Ave N & N 3rd St,5,PM,0.1,0.1,8.1,0.5,1.4
+243,240,I,82749,112th Ave SE & SE 4th St,5,PM,0.4,0,10,3.9,0.2
+243,240,O,46510,Park Ave N & N 4th St,6,PM,0.2,0.3,8,2.1,2.8
+243,240,I,82760,112th Ave SE & SE 4th St,6,PM,0.1,0,10.1,0.9,0
+243,240,O,46520,Park Ave N & N 6th St,7,PM,0,0,8,0.4,0.4
+243,240,I,70820,SE 8th St & 114th Ave SE,7,PM,0.3,0.3,10,2.7,3.2
+243,240,O,46530,Park Ave N & N 8th St,8,PM,1.4,0.5,8.9,13.5,5.3
+243,240,I,70825,SE 8th St & 121st Ave SE,8,PM,0,0.1,10,0,0.7
+243,240,I,70813,Lake Hills Connector & SE 8th St,9,PM,0.6,0.1,10.5,5.5,0.6
+243,240,O,46541,Southport Dr N & Garden Ave N,9,PM,1.9,0.2,10.2,20.5,1.7
+243,240,I,71133,Richards Rd & SE 21st Pl,10,PM,0.1,0.6,10,1.2,5.9
+243,240,O,46550,NE Sunset Blvd & Edmonds Ave NE,10,PM,0.5,1.5,9.3,5.8,16.6
+243,240,O,46560,NE Sunset Blvd & Harrington Ave NE,11,PM,0.3,2.1,7.5,3.7,22.7
+243,240,I,71139,SE 26th St & Richards Rd,11,PM,0.2,0.5,9.8,2,4.6
+243,240,O,46565,NE Sunset Blvd & NE 10th St,12,PM,0.5,0.6,7.5,6,6.8
+243,240,I,71141,SE 26th St & 136th Ave SE,12,PM,0.1,0.2,9.7,1.1,1.7
+243,240,O,46600,NE 12th St & Lynnwood Ave NE,13,PM,0.6,0.7,7.4,6.9,7.9
+243,240,I,67112,139th Ave SE & SE 32nd St,13,PM,0.1,0.2,9.4,0.6,2.1
+243,240,I,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,14,PM,7,1.2,15.2,77.3,13.4
+243,240,O,46610,NE 12th St & Pierce Pl NE,14,PM,0,0.2,7.3,0.4,2
+243,240,I,65322,SE Eastgate Way & 139th Ave SE,15,PM,1.1,1.4,14.9,12.1,15.7
+243,240,O,46620,NE 12th St & Redmond Ave NE,15,PM,0,0.2,7.1,0.3,2.2
+243,240,I,79868,Factoria Blvd SE & SE 38th St,16,PM,1.5,1.4,14.9,17,15.9
+243,240,O,46630,NE 12th St & NE 11th Pl,16,PM,0.1,0.5,6.8,1.3,5.2
+243,240,O,40093,NE Sunset Blvd & Union Ave NE,17,PM,0.5,0.8,6.4,5.3,8.6
+243,240,I,79880,Factoria Blvd SE & SE 40th Ln,17,PM,4.6,1.2,18.4,45.7,11.5
+243,240,O,40097,Duvall Ave NE & NE Sunset Blvd,18,PM,0.7,0.9,6.2,7.7,10.1
+243,240,I,79890,Factoria Blvd SE & SE 42nd St,18,PM,4.1,0.6,21.9,40.5,5.6
+243,240,O,40101,Duvall Ave NE & NE 21st St,19,PM,0.1,0.3,6,1.3,3.5
+243,240,I,79900,Factoria Blvd SE & SE Newport Way,19,PM,0.3,0.1,22.1,3.4,1
+243,240,O,82796,Coal Creek Pkwy SE & SE 91st St,20,PM,0,0.1,6,0.1,0.9
+243,240,I,64790,Factoria Blvd SE & Coal Creek Pkwy SE,20,PM,0,0.1,22.1,0,0.6
+243,240,I,64800,Coal Creek Pkwy SE & 124th Ave SE,21,PM,0.8,0.1,22.8,8.2,0.8
+243,240,O,82793,Coal Creek Pkwy SE & SE 89th Pl,21,PM,0,0,5.9,0.2,0.5
+243,240,I,65570,119th Ave SE & Coal Creek Pkwy SE,22,PM,0.1,0.1,22.8,0.5,0.9
+243,240,O,82795,Coal Creek Pkwy SE & 135th Ave SE,22,PM,0,0,5.9,0.3,0
+243,240,O,82797,Coal Creek Pkwy SE & SE 79th Pl,23,PM,0,0,5.9,0.1,0.5
+243,240,I,65580,119th Ave SE & Lake Heights St,23,PM,0,0.1,22.7,0.1,1.3
+243,240,O,82798,Coal Creek Pkwy SE & Newcastle Golf Club Rd,24,PM,0.1,0.1,5.9,1,1.6
+243,240,I,65590,119th Ave SE & SE 47th St,24,PM,0,0.4,22.4,0.3,3.5
+243,240,I,65600,119th Ave SE & SE 49th Pl,25,PM,0,0.2,22.2,0.3,2.3
+243,240,O,65287,Newcastle Way & 132nd Pl SE,25,PM,0.5,0.7,5.7,5.3,7.6
+243,240,I,65610,119th Ave SE & SE 52nd St,26,PM,0.3,0.8,21.7,2.5,7.6
+243,240,O,65400,Newcastle Way & 129th Ave SE,26,PM,0.8,0.5,6,8.8,5.8
+243,240,I,65620,119th Ave SE & SE 54th Pl,27,PM,0.1,3.1,18.8,1,31.1
+243,240,O,65420,Newcastle Way & 125th Ave SE,27,PM,0,0,6,0.4,0.5
+243,240,I,65630,119th Ave SE & SE 58th St,28,PM,0.5,1.5,17.7,4.8,15
+243,240,O,65432,123rd Ave SE & SE 68th Pl,28,PM,0.1,0.2,6,1.3,2.3
+243,240,O,65450,123rd Ave SE & SE 65th Pl,29,PM,0,0,6,0,0
+243,240,I,65640,SE 60th St & 119th Ave SE,29,PM,0.2,2.1,15.8,1.7,21.1
+243,240,O,65460,123rd Ave SE & SE 64th Pl,30,PM,0,0.1,6,0.2,0.5
+243,240,I,65652,123rd Ave SE & SE 60th St,30,PM,0.1,1.8,13.7,1.6,19.7
+243,240,O,65470,123rd Ave SE & SE 62nd St,31,PM,0,0,6,0,0.2
+243,240,I,65660,123rd Ave SE & SE 61st St,31,PM,0,0,13.7,0,0.1
+243,240,O,65480,SE 60th St & 123rd Ave SE,32,PM,0.3,0.2,6.1,3.1,1.9
+243,240,I,65670,123rd Ave SE & SE 64th Pl,32,PM,0,0.2,13.5,0.3,2.4
+243,240,O,65490,SE 60th St & 119th Ave SE,33,PM,0.2,0.3,6.1,2.2,2.7
+243,240,I,65680,123rd Ave SE & SE 65th Pl,33,PM,0,0.1,13.5,0.2,0.8
+243,240,I,65700,123rd Ave SE & Newcastle Way,34,PM,0.2,0.4,13.2,2.1,4.7
+243,240,O,65500,119th Ave SE & SE 58th St,34,PM,0.5,0.2,6.4,5.2,2.2
+243,240,O,65510,119th Ave SE & SE 56th St,35,PM,0.1,0.1,6.4,0.8,0.9
+243,240,I,65720,Newcastle Way & 125th Ave SE,35,PM,0,0.5,12.8,0.1,5
+243,240,O,65520,119th Ave SE & SE 52nd St,36,PM,0.1,0,6.4,1,0.3
+243,240,I,65740,Newcastle Way & 129th Ave SE,36,PM,0.6,1.9,11.5,6.4,21.3
+243,240,I,65252,Newcastle Way & Coal Creek Pkwy SE,37,PM,0.4,1.4,10.5,4.6,15.2
+243,240,O,65530,119th Ave SE & SE 49th Pl,37,PM,0,0,6.4,0,0
+243,240,I,82792,Coal Creek Pkwy SE & SE 76th St,38,PM,0.1,0,10.5,0.8,0.4
+243,240,O,65540,119th Ave SE & SE 47th St,38,PM,0,0,6.4,0.3,0.2
+243,240,O,65550,119th Ave SE & Lake Heights St,39,PM,0,0,6.4,0,0
+243,240,I,82794,Coal Creek Pkwy SE & SE 79th Pl,39,PM,0,0.1,10.4,0.5,1.3
+243,240,O,65560,119th Ave SE & Coal Creek Pkwy SE,40,PM,0.1,0,6.8,0.8,0
+243,240,I,82789,Coal Creek Pkwy SE & SE 84th Way,40,PM,0,0.1,10.4,0.4,1.3
+243,240,O,64830,Coal Creek Pkwy SE & 124th Ave SE,41,PM,0,0.1,6.7,0.4,1.5
+243,240,I,82788,Coal Creek Pkwy SE & SE 89th Pl,41,PM,0.1,0,10.4,0.8,0.5
+243,240,O,64840,Factoria Blvd SE & Coal Creek Pkwy SE,42,PM,0,0,6.8,0.3,0
+243,240,I,82791,Coal Creek Pkwy SE & SE 91st St,42,PM,0,0.1,10.4,0.5,1.1
+243,240,I,40103,Duvall Ave NE & NE 23rd St,43,PM,0.1,0.5,10,1.5,5.6
+243,240,O,80380,Factoria Blvd SE & SE Newport Way,43,PM,0.3,0.4,6.6,3.6,4.9
+243,240,O,80390,Factoria Blvd SE & SE 41st Ln,44,PM,0.5,0.2,7,5.1,1.7
+243,240,I,40125,NE Sunset Blvd & Duvall Ave NE,44,PM,1.3,1.7,9.6,14.2,18.5
+243,240,I,45101,Union Ave NE & NE 12th St,45,PM,0.8,1.4,8.9,8.6,15.9
+243,240,O,80400,Factoria Blvd SE & SE 40th Ln,45,PM,1.9,1.3,7.6,21.4,14.6
+243,240,I,45110,NE 12th St & NE 11th Pl,46,PM,0,0.1,8.9,0.2,1.1
+243,240,O,80412,Factoria Blvd SE & SE 38th St,46,PM,2.3,0.6,9.2,24.8,6.7
+243,240,I,45120,NE 12th St & Redmond Ave NE,47,PM,0.1,0.2,8.7,0.6,2.7
+243,240,O,65300,SE Eastgate Way & Richards Rd,47,PM,0.4,0.2,9.4,4.2,1.8
+243,240,O,65402,SE Eastgate Way & 139th Ave SE,48,PM,0.5,1.6,8.3,5.6,17.9
+243,240,I,45130,NE 12th St & Olympia Ave NE,48,PM,0,0.2,8.6,0.4,1.9
+243,240,I,45140,NE 12th St & Lynnwood Ave NE,49,PM,0.3,0.7,8.1,3.3,7.8
+243,240,O,67014,Eastgate Park & Ride - Bay 1,49,PM,1.3,3.8,5.8,14.6,42
+243,240,I,45145,NE Sunset Blvd & Kirkland Ave NE,50,PM,0.3,0.2,8.2,3.2,2.2
+243,240,O,67111,139th Ave SE & SE 32nd St,50,PM,0.1,0.2,5.8,1.2,1.7
+243,240,I,45175,NE Sunset Blvd & NE 10th St,51,PM,1.2,0.9,8.6,12.9,9.4
+243,240,O,67033,SE 26th St & 137th Ave SE,51,PM,0.1,0.1,5.8,0.8,0.9
+243,240,O,67037,Richards Rd & SE 26th St,52,PM,0.2,0.3,5.6,2.1,3.5
+243,240,I,45180,NE Sunset Blvd & Harrington Ave NE,52,PM,0.5,0.3,8.7,5.5,3.6
+243,240,O,67039,Richards Rd & SE 21st Pl,53,PM,0.1,0.2,5.7,1.3,2.4
+243,240,I,45190,NE Sunset Blvd & Edmonds Ave NE,53,PM,0.7,0.7,9,7,6.6
+243,240,O,70807,Lake Hills Connector & SE 8th St,54,PM,0.1,0.3,5.4,0.8,3.2
+243,240,I,45191,Southport Dr N & Lake Washington Blvd N,54,PM,0.3,0.8,8.4,2.9,8.4
+243,240,O,70812,SE 8th St & I-405,55,PM,0.1,0.1,5.5,1.3,0.6
+243,240,I,45219,Park Ave N & N 8th St,55,PM,0.5,1.1,7.9,5.8,11.9
+243,240,O,70814,SE 8th St & 114th Ave SE,56,PM,0.6,0,6.1,6.3,0.1
+243,240,I,45230,Park Ave N & N 6th St,56,PM,0.1,0.1,7.9,1.3,0.8
+243,240,O,84309,112th Ave SE & SE 6th St,57,PM,0.1,0.1,6.2,1.3,0.7
+243,240,I,45240,Park Ave N & N 4th St,57,PM,0.2,0.4,7.7,2,4.7
+243,240,I,45260,Park Ave N & N 2nd St,58,PM,0,0.2,7.6,0.4,2
+243,240,O,82790,112th Ave SE & SE 4th St,58,PM,0,0.2,6,0.1,1.9
+243,240,O,82741,112th Ave NE & Main St,59,PM,0.1,0.3,5.8,0.7,3.1
+243,240,I,45270,Park Ave N & N 1st St,59,PM,0,0.2,7.4,0,1.7
+243,240,I,45280,Bronson Way S & Mill Ave S,60,PM,0,0.6,6.9,0.4,6.4
+243,240,O,80489,112th Ave NE & NE 2nd St,60,PM,0,0.4,5.4,0.3,4.1
+243,240,O,85640,NE 4th St & 108th Ave NE,61,PM,0.1,2,3.4,0.5,19.7
+243,240,I,46478,Renton Transit Center - Bay 3,61,PM,0.3,7.3,0,3.8,80
+243,240,O,68048,106th Ave NE & NE 6th St,62,PM,0.2,1.3,2.5,2.4,13.4
+243,240,O,85630,Bellevue Transit Center - Bay 1,63,PM,0.3,3.3,0,2.6,33.4
+243,240,I,85630,Bellevue Transit Center - Bay 1,1,XEV,5.8,0,5.8,34.5,0
+243,240,O,46479,Renton Transit Center - Bay 4,1,XEV,5.9,0,5.9,41.1,0.1
+243,240,O,46474,Mill Ave S & S 2nd St,2,XEV,0.4,0.1,6.4,2.4,0.3
+243,240,I,85725,NE 4th St & 108th Ave NE,2,XEV,0.8,0.2,6.3,4.5,1.1
+243,240,I,80492,112th Ave NE & NE 4th St,3,XEV,0.5,0.1,6.8,3.2,0.3
+243,240,O,46480,Park Ave N & Bronson Way N,3,XEV,0.1,0,6.5,0.5,0
+243,240,O,46490,Park Ave N & N 2nd St,4,XEV,0,0.1,6.4,0,0.3
+243,240,I,82742,112th Ave NE & Main St,4,XEV,0.1,0,6.9,0.7,0
+243,240,O,46500,Park Ave N & N 3rd St,5,XEV,0,0,6.4,0.1,0.2
+243,240,I,82749,112th Ave SE & SE 4th St,5,XEV,0.2,0,7,1,0
+243,240,O,46510,Park Ave N & N 4th St,6,XEV,0.1,0.2,6.3,0.5,0.9
+243,240,I,82760,112th Ave SE & SE 4th St,6,XEV,0.1,0,7.1,0.3,0
+243,240,O,46520,Park Ave N & N 6th St,7,XEV,0,0,6.4,0.2,0
+243,240,I,70820,SE 8th St & 114th Ave SE,7,XEV,0.1,0.1,7.1,0.3,0.3
+243,240,O,46530,Park Ave N & N 8th St,8,XEV,0.9,0.2,7.1,5.5,1.3
+243,240,I,70825,SE 8th St & 121st Ave SE,8,XEV,0,0,7.1,0,0.1
+243,240,I,70813,Lake Hills Connector & SE 8th St,9,XEV,0.1,0.1,7.1,0.4,0.3
+243,240,O,46541,Southport Dr N & Garden Ave N,9,XEV,1.3,0.1,8.3,7.9,0.5
+243,240,I,71133,Richards Rd & SE 21st Pl,10,XEV,0,0.2,6.9,0,1.2
+243,240,O,46550,NE Sunset Blvd & Edmonds Ave NE,10,XEV,0.2,1.1,7.4,1.3,6.6
+243,240,O,46560,NE Sunset Blvd & Harrington Ave NE,11,XEV,0.2,1.4,6.1,1,8.4
+243,240,I,71139,SE 26th St & Richards Rd,11,XEV,0.2,0.3,6.7,1.1,2
+243,240,O,46565,NE Sunset Blvd & NE 10th St,12,XEV,0.2,0.3,6,1.4,1.9
+243,240,I,71141,SE 26th St & 136th Ave SE,12,XEV,0,0,6.7,0,0.1
+243,240,O,46600,NE 12th St & Lynnwood Ave NE,13,XEV,0.4,0.5,5.9,2.2,3.1
+243,240,I,67112,139th Ave SE & SE 32nd St,13,XEV,0,0,6.7,0.1,0.2
+243,240,I,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,14,XEV,2.2,0.5,8.4,13.1,3.2
+243,240,O,46610,NE 12th St & Pierce Pl NE,14,XEV,0,0.2,5.7,0,1
+243,240,I,65322,SE Eastgate Way & 139th Ave SE,15,XEV,0.9,1.1,8.2,5.2,6.3
+243,240,O,46620,NE 12th St & Redmond Ave NE,15,XEV,0,0.2,5.6,0,0.9
+243,240,I,79868,Factoria Blvd SE & SE 38th St,16,XEV,0.8,0.9,8.1,4.6,5.4
+243,240,O,46630,NE 12th St & NE 11th Pl,16,XEV,0,0.3,5.3,0.2,1.8
+243,240,O,40093,NE Sunset Blvd & Union Ave NE,17,XEV,0.2,0.6,4.9,0.9,3.3
+243,240,I,79880,Factoria Blvd SE & SE 40th Ln,17,XEV,1.8,0.5,10.2,12.3,3.7
+243,240,O,40097,Duvall Ave NE & NE Sunset Blvd,18,XEV,0.3,0.7,4.6,2,4.1
+243,240,I,79890,Factoria Blvd SE & SE 42nd St,18,XEV,0.3,0.2,10.3,2.1,1.7
+243,240,O,40101,Duvall Ave NE & NE 21st St,19,XEV,0,0.3,4.3,0,1.7
+243,240,I,79900,Factoria Blvd SE & SE Newport Way,19,XEV,0,0.1,10.3,0.2,0.6
+243,240,O,82796,Coal Creek Pkwy SE & SE 91st St,20,XEV,0,0.1,4.2,0,0.5
+243,240,I,64790,Factoria Blvd SE & Coal Creek Pkwy SE,20,XEV,0,0,10.2,0,0.2
+243,240,I,64800,Coal Creek Pkwy SE & 124th Ave SE,21,XEV,0.1,0,10.2,0.7,0.2
+243,240,O,82793,Coal Creek Pkwy SE & SE 89th Pl,21,XEV,0,0,4.2,0,0.1
+243,240,I,65570,119th Ave SE & Coal Creek Pkwy SE,22,XEV,0,0,10.2,0,0.1
+243,240,O,82795,Coal Creek Pkwy SE & 135th Ave SE,22,XEV,0,0,4.2,0,0
+243,240,O,82797,Coal Creek Pkwy SE & SE 79th Pl,23,XEV,0,0,4.2,0,0.1
+243,240,I,65580,119th Ave SE & Lake Heights St,23,XEV,0,0,10.2,0,0.2
+243,240,O,82798,Coal Creek Pkwy SE & Newcastle Golf Club Rd,24,XEV,0,0,4.2,0.1,0.1
+243,240,I,65590,119th Ave SE & SE 47th St,24,XEV,0,0,10.2,0.1,0.2
+243,240,I,65600,119th Ave SE & SE 49th Pl,25,XEV,0,0.1,10.1,0,0.6
+243,240,O,65287,Newcastle Way & 132nd Pl SE,25,XEV,0.4,0.4,4.1,2.3,2.5
+243,240,I,65610,119th Ave SE & SE 52nd St,26,XEV,0,0.2,9.9,0.1,1.3
+243,240,O,65400,Newcastle Way & 129th Ave SE,26,XEV,0.5,0.2,4.4,3.1,1.3
+243,240,I,65620,119th Ave SE & SE 54th Pl,27,XEV,0,0.3,10.1,0,2
+243,240,O,65420,Newcastle Way & 125th Ave SE,27,XEV,0,0,4.4,0,0.1
+243,240,I,65630,119th Ave SE & SE 58th St,28,XEV,0.2,0.4,9.9,1,2.4
+243,240,O,65432,123rd Ave SE & SE 68th Pl,28,XEV,0,0.1,4.3,0.2,0.9
+243,240,O,65450,123rd Ave SE & SE 65th Pl,29,XEV,0,0,4.2,0,0
+243,240,I,65640,SE 60th St & 119th Ave SE,29,XEV,0.1,0.5,9.4,0.5,3.1
+243,240,O,65460,123rd Ave SE & SE 64th Pl,30,XEV,0,0,4.2,0,0
+243,240,I,65652,123rd Ave SE & SE 60th St,30,XEV,0,0.7,8.8,0.1,4.2
+243,240,O,65470,123rd Ave SE & SE 62nd St,31,XEV,0,0,4.2,0,0
+243,240,I,65660,123rd Ave SE & SE 61st St,31,XEV,0,0.1,8.7,0,0.6
+243,240,O,65480,SE 60th St & 123rd Ave SE,32,XEV,0.1,0.1,4.2,0.4,0.6
+243,240,I,65670,123rd Ave SE & SE 64th Pl,32,XEV,0,0.1,8.6,0,0.4
+243,240,O,65490,SE 60th St & 119th Ave SE,33,XEV,0.1,0.2,4.1,0.5,1.4
+243,240,I,65680,123rd Ave SE & SE 65th Pl,33,XEV,0,0,8.6,0,0
+243,240,I,65700,123rd Ave SE & Newcastle Way,34,XEV,0,0.2,8.4,0,1.2
+243,240,O,65500,119th Ave SE & SE 58th St,34,XEV,0.3,0.1,4.3,2.3,0.7
+243,240,O,65510,119th Ave SE & SE 56th St,35,XEV,0,0,4.3,0.1,0
+243,240,I,65720,Newcastle Way & 125th Ave SE,35,XEV,0,0.4,8,0,2.2
+243,240,O,65520,119th Ave SE & SE 52nd St,36,XEV,0.1,0.1,4.3,0.6,0.5
+243,240,I,65740,Newcastle Way & 129th Ave SE,36,XEV,0.4,0.7,7.8,2.4,4.2
+243,240,I,65252,Newcastle Way & Coal Creek Pkwy SE,37,XEV,0.6,0.6,7.8,3.7,3.3
+243,240,O,65530,119th Ave SE & SE 49th Pl,37,XEV,0,0,4.3,0,0
+243,240,I,82792,Coal Creek Pkwy SE & SE 76th St,38,XEV,0.1,0,8,0.8,0.1
+243,240,O,65540,119th Ave SE & SE 47th St,38,XEV,0,0,4.4,0,0
+243,240,O,65550,119th Ave SE & Lake Heights St,39,XEV,0,0,4.6,0,0
+243,240,I,82794,Coal Creek Pkwy SE & SE 79th Pl,39,XEV,0,0,7.9,0,0
+243,240,O,65560,119th Ave SE & Coal Creek Pkwy SE,40,XEV,0.1,0,4.6,0.5,0.2
+243,240,I,82789,Coal Creek Pkwy SE & SE 84th Way,40,XEV,0,0,7.9,0.1,0.2
+243,240,O,64830,Coal Creek Pkwy SE & 124th Ave SE,41,XEV,0,0,4.6,0,0
+243,240,I,82788,Coal Creek Pkwy SE & SE 89th Pl,41,XEV,0,0.1,7.9,0.1,0.6
+243,240,O,64840,Factoria Blvd SE & Coal Creek Pkwy SE,42,XEV,0,0,4.5,0,0
+243,240,I,82791,Coal Creek Pkwy SE & SE 91st St,42,XEV,0,0,7.9,0,0
+243,240,I,40103,Duvall Ave NE & NE 23rd St,43,XEV,0,0.2,7.7,0,1.3
+243,240,O,80380,Factoria Blvd SE & SE Newport Way,43,XEV,0.1,0.2,4.5,0.5,1
+243,240,O,80390,Factoria Blvd SE & SE 41st Ln,44,XEV,0.1,0.1,4.5,0.5,0.6
+243,240,I,40125,NE Sunset Blvd & Duvall Ave NE,44,XEV,0.4,0.9,7.1,2.1,5.3
+243,240,I,45101,Union Ave NE & NE 12th St,45,XEV,0.4,0.7,6.8,2.2,4.1
+243,240,O,80400,Factoria Blvd SE & SE 40th Ln,45,XEV,1.1,0.5,5.1,6.6,2.8
+243,240,I,45110,NE 12th St & NE 11th Pl,46,XEV,0,0,6.8,0,0.1
+243,240,O,80412,Factoria Blvd SE & SE 38th St,46,XEV,2.4,0.3,7.1,14.1,2
+243,240,I,45120,NE 12th St & Redmond Ave NE,47,XEV,0,0.2,6.6,0,1.1
+243,240,O,65300,SE Eastgate Way & Richards Rd,47,XEV,0.4,0,7.4,2.2,0.2
+243,240,O,65402,SE Eastgate Way & 139th Ave SE,48,XEV,0.3,1.7,6,1.6,10.2
+243,240,I,45130,NE 12th St & Olympia Ave NE,48,XEV,0.1,0.1,6.6,0.4,0.7
+243,240,I,45140,NE 12th St & Lynnwood Ave NE,49,XEV,0.2,0.7,6.1,0.9,4.2
+243,240,O,67014,Eastgate Park & Ride - Bay 1,49,XEV,0.7,2.5,4.1,3.9,15
+243,240,I,45145,NE Sunset Blvd & Kirkland Ave NE,50,XEV,0.2,0.2,6,1.1,1.3
+243,240,O,67111,139th Ave SE & SE 32nd St,50,XEV,0,0,4.1,0,0.2
+243,240,I,45175,NE Sunset Blvd & NE 10th St,51,XEV,0.5,0.8,5.7,2.8,4.6
+243,240,O,67033,SE 26th St & 137th Ave SE,51,XEV,0,0,4,0,0.1
+243,240,O,67037,Richards Rd & SE 26th St,52,XEV,0.2,0.2,4,0.9,1.1
+243,240,I,45180,NE Sunset Blvd & Harrington Ave NE,52,XEV,0.2,0.3,5.7,1.4,1.5
+243,240,O,67039,Richards Rd & SE 21st Pl,53,XEV,0,0.1,4,0.1,0.8
+243,240,I,45190,NE Sunset Blvd & Edmonds Ave NE,53,XEV,0.3,0.7,5.3,2.2,5.2
+243,240,O,70807,Lake Hills Connector & SE 8th St,54,XEV,0,0,3.9,0,0.3
+243,240,I,45191,Southport Dr N & Lake Washington Blvd N,54,XEV,0.1,0.4,5,0.7,2.8
+243,240,O,70812,SE 8th St & I-405,55,XEV,0,0,3.9,0.2,0
+243,240,I,45219,Park Ave N & N 8th St,55,XEV,0.3,0.3,5,2.3,2.1
+243,240,O,70814,SE 8th St & 114th Ave SE,56,XEV,0,0,4,0.3,0
+243,240,I,45230,Park Ave N & N 6th St,56,XEV,0,0.1,5,0.3,0.4
+243,240,O,84309,112th Ave SE & SE 6th St,57,XEV,0,0,4,0,0.1
+243,240,I,45240,Park Ave N & N 4th St,57,XEV,0.1,0.3,4.7,0.7,2.3
+243,240,I,45260,Park Ave N & N 2nd St,58,XEV,0,0.1,4.6,0,0.7
+243,240,O,82790,112th Ave SE & SE 4th St,58,XEV,0,0.1,3.9,0,0.5
+243,240,O,82741,112th Ave NE & Main St,59,XEV,0,0.2,3.8,0.1,1.4
+243,240,I,45270,Park Ave N & N 1st St,59,XEV,0,0.1,4.6,0,0.5
+243,240,I,45280,Bronson Way S & Mill Ave S,60,XEV,0,0.3,4.3,0,1.8
+243,240,O,80489,112th Ave NE & NE 2nd St,60,XEV,0,0.1,3.7,0,0.7
+243,240,O,85640,NE 4th St & 108th Ave NE,61,XEV,0,0.9,2.9,0.1,6
+243,240,I,46478,Renton Transit Center - Bay 3,61,XEV,0.3,4.7,0,1.7,28.3
+243,240,O,68048,106th Ave NE & NE 6th St,62,XEV,0.1,0.7,2.3,0.9,5.1
+243,240,O,85630,Bellevue Transit Center - Bay 1,63,XEV,0,2.4,0,0.2,17
+243,240,I,85630,Bellevue Transit Center - Bay 1,1,XNT,5,0,5,15,0
+243,240,O,46479,Renton Transit Center - Bay 4,1,XNT,4.3,0,4.3,8.6,0
+243,240,O,46474,Mill Ave S & S 2nd St,2,XNT,0.3,0,4.6,0.8,0.1
+243,240,I,85725,NE 4th St & 108th Ave NE,2,XNT,0.3,0,5.3,1,0.1
+243,240,I,80492,112th Ave NE & NE 4th St,3,XNT,0.1,0,5.4,0.3,0
+243,240,O,46480,Park Ave N & Bronson Way N,3,XNT,0.1,0,4.6,0.2,0
+243,240,O,46490,Park Ave N & N 2nd St,4,XNT,0,0,4.6,0.1,0
+243,240,I,82742,112th Ave NE & Main St,4,XNT,0.1,0.1,5.4,0.2,0.2
+243,240,O,46500,Park Ave N & N 3rd St,5,XNT,0,0,4.6,0,0
+243,240,I,82749,112th Ave SE & SE 4th St,5,XNT,0,0,5.4,0.1,0
+243,240,O,46510,Park Ave N & N 4th St,6,XNT,0.1,0.1,4.6,0.3,0.2
+243,240,I,82760,112th Ave SE & SE 4th St,6,XNT,0.1,0,5.6,0.4,0
+243,240,O,46520,Park Ave N & N 6th St,7,XNT,0,0,4.6,0,0
+243,240,I,70820,SE 8th St & 114th Ave SE,7,XNT,0.1,0,5.7,0.3,0
+243,240,O,46530,Park Ave N & N 8th St,8,XNT,0.6,0,5.2,1.7,0.1
+243,240,I,70825,SE 8th St & 121st Ave SE,8,XNT,0,0,5.7,0,0
+243,240,I,70813,Lake Hills Connector & SE 8th St,9,XNT,0,0,5.6,0,0
+243,240,O,46541,Southport Dr N & Garden Ave N,9,XNT,1.3,0.1,6.3,3.8,0.4
+243,240,I,71133,Richards Rd & SE 21st Pl,10,XNT,0,0,5.6,0,0.1
+243,240,O,46550,NE Sunset Blvd & Edmonds Ave NE,10,XNT,0.2,1,5.5,0.7,3.1
+243,240,O,46560,NE Sunset Blvd & Harrington Ave NE,11,XNT,0.1,1.1,4.5,0.2,3.2
+243,240,I,71139,SE 26th St & Richards Rd,11,XNT,0,0.5,5.2,0,1.4
+243,240,O,46565,NE Sunset Blvd & NE 10th St,12,XNT,0.1,0.2,4.4,0.4,0.5
+243,240,I,71141,SE 26th St & 136th Ave SE,12,XNT,0,0,5.2,0,0
+243,240,O,46600,NE 12th St & Lynnwood Ave NE,13,XNT,0.1,0.5,4.1,0.3,1.5
+243,240,I,67112,139th Ave SE & SE 32nd St,13,XNT,0,0,5.1,0,0
+243,240,I,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,14,XNT,1.6,0.6,6.1,4.8,1.7
+243,240,O,46610,NE 12th St & Pierce Pl NE,14,XNT,0,0.1,3.9,0,0.3
+243,240,I,65322,SE Eastgate Way & 139th Ave SE,15,XNT,0.7,0.8,6,2,2.5
+243,240,O,46620,NE 12th St & Redmond Ave NE,15,XNT,0,0.1,3.9,0,0.3
+243,240,I,79868,Factoria Blvd SE & SE 38th St,16,XNT,0.4,0.6,5.7,1.1,1.9
+243,240,O,46630,NE 12th St & NE 11th Pl,16,XNT,0.1,0.2,3.7,0.3,0.7
+243,240,O,40093,NE Sunset Blvd & Union Ave NE,17,XNT,0.2,0.6,3.3,0.7,1.8
+243,240,I,79880,Factoria Blvd SE & SE 40th Ln,17,XNT,0.7,0.2,6.2,2.1,0.6
+243,240,O,40097,Duvall Ave NE & NE Sunset Blvd,18,XNT,0.2,0.4,3.2,0.7,1.2
+243,240,I,79890,Factoria Blvd SE & SE 42nd St,18,XNT,0.3,0.1,6.4,0.8,0.3
+243,240,O,40101,Duvall Ave NE & NE 21st St,19,XNT,0,0.1,3,0,0.3
+243,240,I,79900,Factoria Blvd SE & SE Newport Way,19,XNT,0.1,0,6.4,0.2,0.1
+243,240,O,82796,Coal Creek Pkwy SE & SE 91st St,20,XNT,0,0.1,3,0,0.3
+243,240,I,64790,Factoria Blvd SE & Coal Creek Pkwy SE,20,XNT,0,0,6.4,0,0
+243,240,I,64800,Coal Creek Pkwy SE & 124th Ave SE,21,XNT,0,0,6.3,0,0
+243,240,O,82793,Coal Creek Pkwy SE & SE 89th Pl,21,XNT,0,0,2.9,0,0.1
+243,240,I,65570,119th Ave SE & Coal Creek Pkwy SE,22,XNT,0,0.1,6.3,0,0.2
+243,240,O,82795,Coal Creek Pkwy SE & 135th Ave SE,22,XNT,0,0,2.9,0,0
+243,240,O,82797,Coal Creek Pkwy SE & SE 79th Pl,23,XNT,0,0,2.9,0,0
+243,240,I,65580,119th Ave SE & Lake Heights St,23,XNT,0,0,6.3,0,0.1
+243,240,O,82798,Coal Creek Pkwy SE & Newcastle Golf Club Rd,24,XNT,0,0,2.9,0,0
+243,240,I,65590,119th Ave SE & SE 47th St,24,XNT,0,0,6.3,0,0
+243,240,I,65600,119th Ave SE & SE 49th Pl,25,XNT,0,0.1,6.2,0,0.2
+243,240,O,65287,Newcastle Way & 132nd Pl SE,25,XNT,0.1,0.4,2.6,0.3,1.3
+243,240,I,65610,119th Ave SE & SE 52nd St,26,XNT,0,0,6.2,0,0.1
+243,240,O,65400,Newcastle Way & 129th Ave SE,26,XNT,0.1,0,2.6,0.2,0.1
+243,240,I,65620,119th Ave SE & SE 54th Pl,27,XNT,0,0.2,6.2,0,0.8
+243,240,O,65420,Newcastle Way & 125th Ave SE,27,XNT,0,0.1,2.5,0,0.2
+243,240,I,65630,119th Ave SE & SE 58th St,28,XNT,0.1,0.2,6.1,0.3,0.6
+243,240,O,65432,123rd Ave SE & SE 68th Pl,28,XNT,0,0,2.5,0,0
+243,240,O,65450,123rd Ave SE & SE 65th Pl,29,XNT,0,0,2.5,0,0
+243,240,I,65640,SE 60th St & 119th Ave SE,29,XNT,0,0.2,6,0,0.6
+243,240,O,65460,123rd Ave SE & SE 64th Pl,30,XNT,0,0,2.5,0,0
+243,240,I,65652,123rd Ave SE & SE 60th St,30,XNT,0,0.1,5.9,0,0.3
+243,240,O,65470,123rd Ave SE & SE 62nd St,31,XNT,0,0,2.5,0,0
+243,240,I,65660,123rd Ave SE & SE 61st St,31,XNT,0,0,5.9,0,0
+243,240,O,65480,SE 60th St & 123rd Ave SE,32,XNT,0,0,2.5,0,0
+243,240,I,65670,123rd Ave SE & SE 64th Pl,32,XNT,0,0,5.8,0,0
+243,240,O,65490,SE 60th St & 119th Ave SE,33,XNT,0,0.2,2.4,0,0.5
+243,240,I,65680,123rd Ave SE & SE 65th Pl,33,XNT,0,0,5.8,0,0
+243,240,I,65700,123rd Ave SE & Newcastle Way,34,XNT,0,0.3,5.6,0,1
+243,240,O,65500,119th Ave SE & SE 58th St,34,XNT,0,0,2.4,0.1,0.1
+243,240,O,65510,119th Ave SE & SE 56th St,35,XNT,0,0,2.4,0,0
+243,240,I,65720,Newcastle Way & 125th Ave SE,35,XNT,0,0.1,5.5,0,0.3
+243,240,O,65520,119th Ave SE & SE 52nd St,36,XNT,0,0,2.3,0,0.1
+243,240,I,65740,Newcastle Way & 129th Ave SE,36,XNT,0.2,0.4,5.3,0.6,1.4
+243,240,I,65252,Newcastle Way & Coal Creek Pkwy SE,37,XNT,0.1,0.3,5.2,0.5,1.2
+243,240,O,65530,119th Ave SE & SE 49th Pl,37,XNT,0,0,2.3,0,0
+243,240,I,82792,Coal Creek Pkwy SE & SE 76th St,38,XNT,0,0,5.2,0.1,0
+243,240,O,65540,119th Ave SE & SE 47th St,38,XNT,0,0,2.3,0,0
+243,240,O,65550,119th Ave SE & Lake Heights St,39,XNT,0,0,2.6,0,0
+243,240,I,82794,Coal Creek Pkwy SE & SE 79th Pl,39,XNT,0,0,5.2,0,0
+243,240,O,65560,119th Ave SE & Coal Creek Pkwy SE,40,XNT,0,0,2.5,0,0
+243,240,I,82789,Coal Creek Pkwy SE & SE 84th Way,40,XNT,0,0,5.2,0,0
+243,240,O,64830,Coal Creek Pkwy SE & 124th Ave SE,41,XNT,0,0,2.5,0,0
+243,240,I,82788,Coal Creek Pkwy SE & SE 89th Pl,41,XNT,0,0,5.2,0,0
+243,240,O,64840,Factoria Blvd SE & Coal Creek Pkwy SE,42,XNT,0,0,2.5,0,0
+243,240,I,82791,Coal Creek Pkwy SE & SE 91st St,42,XNT,0,0,5.2,0,0
+243,240,I,40103,Duvall Ave NE & NE 23rd St,43,XNT,0,0.1,5.1,0,0.5
+243,240,O,80380,Factoria Blvd SE & SE Newport Way,43,XNT,0,0.2,2.4,0.1,0.6
+243,240,O,80390,Factoria Blvd SE & SE 41st Ln,44,XNT,0,0.1,2.4,0,0.2
+243,240,I,40125,NE Sunset Blvd & Duvall Ave NE,44,XNT,0.3,0.7,4.7,1.1,2.7
+243,240,I,45101,Union Ave NE & NE 12th St,45,XNT,0.1,0.7,4.1,0.4,2.6
+243,240,O,80400,Factoria Blvd SE & SE 40th Ln,45,XNT,0.5,0.1,2.8,2.1,0.4
+243,240,I,45110,NE 12th St & NE 11th Pl,46,XNT,0,0,4.1,0,0
+243,240,O,80412,Factoria Blvd SE & SE 38th St,46,XNT,1,0.1,3.8,4,0.5
+243,240,I,45120,NE 12th St & Redmond Ave NE,47,XNT,0,0.1,4.1,0,0.3
+243,240,O,65300,SE Eastgate Way & Richards Rd,47,XNT,0.3,0.1,4,1.3,0.2
+243,240,I,45130,NE 12th St & Olympia Ave NE,48,XNT,0,0.1,4,0.1,0.4
+243,240,O,65402,SE Eastgate Way & 139th Ave SE,48,XNT,0.2,1,3.2,0.6,4
+243,240,I,45140,NE 12th St & Lynnwood Ave NE,49,XNT,0,0.1,3.9,0,0.5
+243,240,O,67014,Eastgate Park & Ride - Bay 1,49,XNT,0.6,1.2,2.5,2.2,4.7
+243,240,I,45145,NE Sunset Blvd & Kirkland Ave NE,50,XNT,0,0.1,3.8,0.1,0.3
+243,240,O,67111,139th Ave SE & SE 32nd St,50,XNT,0,0.1,2.5,0,0.2
+243,240,I,45175,NE Sunset Blvd & NE 10th St,51,XNT,0.1,0.5,3.4,0.5,2
+243,240,O,67033,SE 26th St & 137th Ave SE,51,XNT,0,0,2.5,0,0
+243,240,O,67037,Richards Rd & SE 26th St,52,XNT,0,0.2,2.4,0.1,0.6
+243,240,I,45180,NE Sunset Blvd & Harrington Ave NE,52,XNT,0.1,0.1,3.4,0.2,0.4
+243,240,O,67039,Richards Rd & SE 21st Pl,53,XNT,0,0,2.4,0,0
+243,240,I,45190,NE Sunset Blvd & Edmonds Ave NE,53,XNT,0.1,0.6,2.9,0.3,2.3
+243,240,O,70807,Lake Hills Connector & SE 8th St,54,XNT,0,0,2.4,0,0
+243,240,I,45191,Southport Dr N & Lake Washington Blvd N,54,XNT,0.1,0.1,2.9,0.4,0.3
+243,240,O,70812,SE 8th St & I-405,55,XNT,0,0,2.4,0.1,0.1
+243,240,I,45219,Park Ave N & N 8th St,55,XNT,0.3,0,3.2,1.3,0.1
+243,240,O,70814,SE 8th St & 114th Ave SE,56,XNT,0,0,2.4,0,0
+243,240,I,45230,Park Ave N & N 6th St,56,XNT,0,0.2,3.1,0.1,0.7
+243,240,O,84309,112th Ave SE & SE 6th St,57,XNT,0.1,0,2.4,0.3,0
+243,240,I,45240,Park Ave N & N 4th St,57,XNT,0.1,0.3,2.9,0.2,1
+243,240,I,45260,Park Ave N & N 2nd St,58,XNT,0,0,2.9,0,0.1
+243,240,O,82790,112th Ave SE & SE 4th St,58,XNT,0,0,2.4,0,0
+243,240,O,82741,112th Ave NE & Main St,59,XNT,0,0.1,2.4,0,0.2
+243,240,I,45270,Park Ave N & N 1st St,59,XNT,0,0,2.9,0,0
+243,240,I,45280,Bronson Way S & Mill Ave S,60,XNT,0,0.1,2.8,0,0.4
+243,240,O,80489,112th Ave NE & NE 2nd St,60,XNT,0,0.1,2.3,0,0.2
+243,240,O,85640,NE 4th St & 108th Ave NE,61,XNT,0,0.8,1.7,0,3
+243,240,I,46478,Renton Transit Center - Bay 3,61,XNT,0.4,3.4,0,2.1,17
+243,240,O,68048,106th Ave NE & NE 6th St,62,XNT,0.3,0.4,1.7,1,1.5
+243,240,O,85630,Bellevue Transit Center - Bay 1,63,XNT,0.2,1.9,0,0.6,7.6

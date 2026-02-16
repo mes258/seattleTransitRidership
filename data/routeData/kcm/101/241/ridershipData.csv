@@ -1,0 +1,221 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,101,O,361,2nd Ave & James St,4,AM,1.2,0,6.6,14.7,0.2
+241,101,O,79600,SW Sunset Blvd & Stevens Ave SW,13,XEV,0.1,1.3,15,0.6,9.4
+241,101,O,361,2nd Ave & James St,4,MID,1.1,0.1,7.3,27.1,2.2
+241,101,O,79600,SW Sunset Blvd & Stevens Ave SW,13,XNT,0,1.3,8.5,0,5.2
+241,101,O,361,2nd Ave & James St,4,PM,2.3,0.1,15.8,32.2,1
+241,101,I,79555,Martin L King Jr Way S & 68th Ave S,11,AM,2.5,0.2,23.8,25.4,1.8
+241,101,I,79555,Martin L King Jr Way S & 68th Ave S,11,MID,1.6,1.1,14.9,38.6,26.4
+241,101,O,361,2nd Ave & James St,4,XEV,1.3,0,10.9,9.1,0.1
+241,101,I,79555,Martin L King Jr Way S & 68th Ave S,11,PM,1.1,2.6,15.5,13.3,31
+241,101,I,79555,Martin L King Jr Way S & 68th Ave S,11,XEV,1.3,3.4,14.5,8,20.3
+241,101,O,361,2nd Ave & James St,4,XNT,0.6,0.1,7.9,1.9,0.2
+241,101,I,79555,Martin L King Jr Way S & 68th Ave S,11,XNT,0.9,3,11.2,1.8,5.9
+241,101,I,46472,Mill Ave S & Houser Way S,5,AM,0.7,0,7.7,7.7,0.3
+241,101,I,46472,Mill Ave S & Houser Way S,5,MID,0.4,0.1,4.6,8.4,1.4
+241,101,I,46472,Mill Ave S & Houser Way S,5,PM,0.5,0.1,5.1,6.5,0.9
+241,101,I,46472,Mill Ave S & Houser Way S,5,XEV,0.4,0,4.1,2.2,0.2
+241,101,I,46472,Mill Ave S & Houser Way S,5,XNT,0.1,0.1,4.1,0.1,0.1
+241,101,I,660,4th Ave & Madison St,20,AM,0,4.9,11.5,0.1,38.8
+241,101,I,660,4th Ave & Madison St,20,MID,0.1,1.8,5.6,1.9,43.3
+241,101,I,660,4th Ave & Madison St,20,PM,0.1,1.5,5.3,1.7,20.6
+241,101,I,660,4th Ave & Madison St,20,XEV,0,1,4.7,0.2,6.2
+241,101,I,660,4th Ave & Madison St,20,XNT,0.1,1.4,3.3,0.1,2.7
+241,101,I,620,4th Ave S & S Jackson St,18,AM,2.7,4.2,21.7,21.6,33.2
+241,101,I,620,4th Ave S & S Jackson St,18,MID,0.4,5,9.1,10.3,126.2
+241,101,I,620,4th Ave S & S Jackson St,18,PM,0.3,5.1,7.9,3.5,66.1
+241,101,I,99264,SODO Busway & S Holgate St,15,AM,0.4,0.5,23.1,3.4,4.1
+241,101,I,620,4th Ave S & S Jackson St,18,XEV,0.2,3.7,7.1,1.4,21.9
+241,101,I,99264,SODO Busway & S Holgate St,15,MID,1.3,0.6,14.2,31.2,14.1
+241,101,I,620,4th Ave S & S Jackson St,18,XNT,0.1,2.5,5.8,0.2,4.9
+241,101,I,99264,SODO Busway & S Holgate St,15,PM,1,0.3,13.8,12.6,4.1
+241,101,I,99264,SODO Busway & S Holgate St,15,XEV,0.2,0.3,11,0.9,1.9
+241,101,I,99264,SODO Busway & S Holgate St,15,XNT,0.2,0.1,8.6,0.4,0.2
+241,101,O,1215,Union St & 5th Ave,1,AM,1.7,0,2.1,20,0
+241,101,I,30635,4th Ave S & S Royal Brougham Way,17,AM,0.1,0.2,23.1,0.5,1.6
+241,101,O,1215,Union St & 5th Ave,1,MID,1.6,0,2.1,37.3,0
+241,101,I,30635,4th Ave S & S Royal Brougham Way,17,MID,0.1,0.2,13.7,3.7,6.2
+241,101,I,30635,4th Ave S & S Royal Brougham Way,17,PM,0.1,0.3,12.8,1.6,4.3
+241,101,I,30635,4th Ave S & S Royal Brougham Way,17,XEV,0.2,0.2,10.4,1,1.3
+241,101,O,1215,Union St & 5th Ave,1,PM,4.9,0,5.3,73.5,0
+241,101,I,30635,4th Ave S & S Royal Brougham Way,17,XNT,0.1,0.2,8.2,0.2,0.3
+241,101,O,45285,Main Ave S & S 4th St,18,AM,0,0.2,3.7,0,1.7
+241,101,O,45285,Main Ave S & S 4th St,18,MID,0,0.2,3.3,0.3,5.2
+241,101,O,45285,Main Ave S & S 4th St,18,PM,0,0.3,5.1,0,4.4
+241,101,O,1215,Union St & 5th Ave,1,XEV,3.5,0,3.9,20.8,0
+241,101,O,45285,Main Ave S & S 4th St,18,XEV,0,0.2,3.6,0,1.8
+241,101,O,45285,Main Ave S & S 4th St,18,XNT,0,0.2,2,0.1,0.7
+241,101,O,1215,Union St & 5th Ave,1,XNT,3.1,0,3.3,9.2,0.1
+241,101,O,79600,SW Sunset Blvd & Stevens Ave SW,13,AM,0.3,0.2,14.5,3.3,1.9
+241,101,O,79600,SW Sunset Blvd & Stevens Ave SW,13,MID,0.2,0.5,13.7,4,12.6
+241,101,O,79600,SW Sunset Blvd & Stevens Ave SW,13,PM,0.1,1.4,19.3,1.9,20.9
+241,101,I,11130,Pike St & Convention Pl,23,AM,0.1,2.1,0,0.6,16.8
+241,101,I,11130,Pike St & Convention Pl,23,MID,0.4,1.1,0,10,26.9
+241,101,I,11130,Pike St & Convention Pl,23,PM,0.4,1,0,4.9,13.7
+241,101,I,11130,Pike St & Convention Pl,23,XEV,0.2,0.9,0,1.1,4.4
+241,101,I,11130,Pike St & Convention Pl,23,XNT,0.2,1,0,0.7,3.1
+241,101,O,46440,S 3rd St & Rainier Ave S,15,AM,0.1,1.2,11.2,1,11.8
+241,101,O,46440,S 3rd St & Rainier Ave S,15,MID,0.2,1.4,9.4,5.9,33.1
+241,101,O,46440,S 3rd St & Rainier Ave S,15,PM,0.3,1.7,14,5.2,26.2
+241,101,O,46440,S 3rd St & Rainier Ave S,15,XEV,0.2,1.5,10.6,1.6,10.5
+241,101,O,46440,S 3rd St & Rainier Ave S,15,XNT,0.1,1.3,6.6,0.4,5.2
+241,101,I,45320,S 2nd St & Shattuck Ave S,7,AM,0.6,0.1,16.1,5.5,1
+241,101,I,45320,S 2nd St & Shattuck Ave S,7,MID,1,0.1,10.7,24.6,2.5
+241,101,I,45320,S 2nd St & Shattuck Ave S,7,PM,1.4,0.1,12.6,18.6,1.7
+241,101,I,45320,S 2nd St & Shattuck Ave S,7,XEV,1.2,0.1,10.4,6.2,0.7
+241,101,I,45320,S 2nd St & Shattuck Ave S,7,XNT,1.1,0.1,8.5,2.1,0.2
+241,101,O,1230,Union St & 4th Ave,2,AM,1.9,0,4,23.2,0.2
+241,101,I,79540,SW Sunset Blvd & Oakesdale Ave SW,10,AM,0.7,0,21.5,6.6,0
+241,101,O,1230,Union St & 4th Ave,2,MID,2.3,0,4.2,54,0.3
+241,101,I,79540,SW Sunset Blvd & Oakesdale Ave SW,10,MID,0.3,0.1,14.4,6.2,1.5
+241,101,I,79540,SW Sunset Blvd & Oakesdale Ave SW,10,PM,0.2,0.1,17.4,2.4,1.5
+241,101,I,79540,SW Sunset Blvd & Oakesdale Ave SW,10,XEV,0.1,0.1,15.4,0.4,0.6
+241,101,O,1230,Union St & 4th Ave,2,PM,4.2,0.1,9.5,59.1,0.7
+241,101,I,79540,SW Sunset Blvd & Oakesdale Ave SW,10,XNT,0.1,0.1,13.2,0.2,0.1
+241,101,O,1230,Union St & 4th Ave,2,XEV,3.7,0,7.4,25.9,0.2
+241,101,O,1230,Union St & 4th Ave,2,XNT,2.5,0,5.7,7.4,0.1
+241,101,O,46450,S 3rd St & Shattuck Ave S,16,AM,0,1.3,9.9,0,12.8
+241,101,O,46450,S 3rd St & Shattuck Ave S,16,MID,0,0.3,9.2,0,7
+241,101,O,46450,S 3rd St & Shattuck Ave S,16,PM,0,0.3,13.7,0,3.9
+241,101,O,46450,S 3rd St & Shattuck Ave S,16,XEV,0,0.5,10.2,0.3,3.2
+241,101,O,46450,S 3rd St & Shattuck Ave S,16,XNT,0,0.3,6.3,0,1.1
+241,101,I,55939,S Grady Way & Talbot Rd S,2,AM,0.2,0,6.6,2.6,0.1
+241,101,I,55939,S Grady Way & Talbot Rd S,2,MID,0.3,0,4.1,7.4,0.1
+241,101,I,55939,S Grady Way & Talbot Rd S,2,PM,0.7,0.1,4.4,8.4,0.9
+241,101,I,55939,S Grady Way & Talbot Rd S,2,XEV,0.6,0,3.6,2.9,0.1
+241,101,I,55939,S Grady Way & Talbot Rd S,2,XNT,0.2,0,3.9,0.3,0
+241,101,I,45301,Renton Transit Center - Bay 5,6,XEV,5.4,0.3,9.3,27,1.3
+241,101,I,45301,Renton Transit Center - Bay 5,6,XNT,3.7,0.3,7.5,7.4,0.6
+241,101,I,46466,S Grady Way & Wells Ave S,3,AM,0.3,0,6.9,3.4,0
+241,101,I,46466,S Grady Way & Wells Ave S,3,MID,0.2,0,4.3,3.8,0
+241,101,I,46466,S Grady Way & Wells Ave S,3,PM,0.2,0,4.6,2.8,0.1
+241,101,I,46466,S Grady Way & Wells Ave S,3,XEV,0.2,0,3.7,0.9,0
+241,101,I,46466,S Grady Way & Wells Ave S,3,XNT,0.2,0,4.1,0.4,0
+241,101,O,59839,Lake Ave S & S Grady Way - Bay 4,21,AM,0.2,2.9,0,1.7,26.4
+241,101,O,59839,Lake Ave S & S Grady Way - Bay 4,21,MID,0.5,3.4,0,12.5,81.5
+241,101,O,59839,Lake Ave S & S Grady Way - Bay 4,21,PM,0.4,5.2,0,6.4,78.6
+241,101,O,59839,Lake Ave S & S Grady Way - Bay 4,21,XEV,0.3,3.6,0,2.2,25.1
+241,101,O,59839,Lake Ave S & S Grady Way - Bay 4,21,XNT,0.2,2.2,0,0.8,11
+241,101,I,55938,South Renton Park & Ride - Bay 2,1,AM,5.5,0,6.4,60.9,0.1
+241,101,I,55938,South Renton Park & Ride - Bay 2,1,MID,2.8,0,3.8,67.4,0.1
+241,101,I,55938,South Renton Park & Ride - Bay 2,1,PM,2.8,0,3.8,33,0
+241,101,I,55938,South Renton Park & Ride - Bay 2,1,XEV,2.2,0,3,10.9,0
+241,101,I,55938,South Renton Park & Ride - Bay 2,1,XNT,2.5,0,3.8,5,0
+241,101,I,79520,SW Sunset Blvd & Rainier Ave S,8,AM,3.1,0.1,19.1,30.9,0.7
+241,101,I,79520,SW Sunset Blvd & Rainier Ave S,8,MID,3.1,0.2,13.7,75.4,4.7
+241,101,I,79520,SW Sunset Blvd & Rainier Ave S,8,PM,5,0.2,17.4,65.5,2.9
+241,101,I,79520,SW Sunset Blvd & Rainier Ave S,8,XEV,5.3,0.2,15.5,26.7,1
+241,101,I,79520,SW Sunset Blvd & Rainier Ave S,8,XNT,4.8,0.2,13.1,9.5,0.4
+241,101,O,390,2nd Ave Ext S & S Jackson St,5,AM,3.7,0.2,10.1,44.1,1.8
+241,101,O,390,2nd Ave Ext S & S Jackson St,5,MID,4.2,0.4,11.1,100.5,8.6
+241,101,O,390,2nd Ave Ext S & S Jackson St,5,PM,3.6,1.6,17.8,50.1,22.7
+241,101,O,390,2nd Ave Ext S & S Jackson St,5,XEV,4,0.1,14.7,28,1
+241,101,O,390,2nd Ave Ext S & S Jackson St,5,XNT,5.4,0.1,13.1,16.2,0.3
+241,101,O,45288,S Grady Way & Williams Ave S,19,AM,0,0.3,3.4,0,3.1
+241,101,O,45288,S Grady Way & Williams Ave S,19,MID,0,0.2,3.1,0,3.6
+241,101,O,45288,S Grady Way & Williams Ave S,19,PM,0,0.2,4.9,0.1,3.6
+241,101,O,45288,S Grady Way & Williams Ave S,19,XEV,0,0.2,3.5,0,1.3
+241,101,O,45288,S Grady Way & Williams Ave S,19,XNT,0,0.2,1.8,0,0.6
+241,101,I,691,4th Ave & Union St,21,AM,0,6.5,5.1,0,51.9
+241,101,I,691,4th Ave & Union St,21,MID,0,3.4,2.3,0.1,80.7
+241,101,I,691,4th Ave & Union St,21,PM,0.1,3.4,1.9,0.8,47.4
+241,101,I,691,4th Ave & Union St,21,XEV,0,2.8,2,0.1,16.5
+241,101,I,691,4th Ave & Union St,21,XNT,0.1,2.3,1,0.1,4.5
+241,101,O,99263,SODO Busway & S Lander St,8,AM,0.8,0.3,11.1,8.9,2.9
+241,101,O,99263,SODO Busway & S Lander St,8,MID,0.9,0.2,12.3,21.2,4.6
+241,101,O,99263,SODO Busway & S Lander St,8,PM,1.6,0.2,20.6,24.1,3.5
+241,101,O,99263,SODO Busway & S Lander St,8,XEV,1.6,0.1,18.9,9.4,0.7
+241,101,O,99263,SODO Busway & S Lander St,8,XNT,1.5,0.1,14.7,5.8,0.5
+241,101,I,45301,Renton Transit Center - Bay 5,6,AM,8,0.2,15.5,88.1,1.9
+241,101,I,45301,Renton Transit Center - Bay 5,6,MID,5.2,0.2,9.6,124.3,5.7
+241,101,I,45301,Renton Transit Center - Bay 5,6,PM,6.7,0.4,11.5,80.4,4.8
+241,101,I,640,4th Ave & James St,19,AM,0.1,5.5,16.3,0.6,43.6
+241,101,I,640,4th Ave & James St,19,MID,0.1,1.8,7.3,2,46.2
+241,101,I,640,4th Ave & James St,19,PM,0.1,1.4,6.7,1.3,18.1
+241,101,I,640,4th Ave & James St,19,XEV,0,1.4,5.7,0.2,8.6
+241,101,I,640,4th Ave & James St,19,XNT,0,1.3,4.6,0,2.5
+241,101,O,99253,SODO Busway & S Spokane St,9,AM,0.6,0.9,10.7,6.1,9.8
+241,101,O,99253,SODO Busway & S Spokane St,9,MID,0.9,0.3,13,22.7,6.9
+241,101,O,99271,SODO Busway & S Royal Brougham Way,6,AM,1,0.1,11,10.9,1.3
+241,101,O,99253,SODO Busway & S Spokane St,9,PM,1.7,0.3,22.1,26.1,4.5
+241,101,O,99271,SODO Busway & S Royal Brougham Way,6,MID,1.3,0.3,11.7,30.7,7.2
+241,101,O,99271,SODO Busway & S Royal Brougham Way,6,PM,1.6,0.3,19.1,23.9,4.1
+241,101,O,99253,SODO Busway & S Spokane St,9,XEV,1.2,0.1,20,7.3,0.7
+241,101,O,99253,SODO Busway & S Spokane St,9,XNT,1.2,0.1,15.8,4.8,0.4
+241,101,O,99271,SODO Busway & S Royal Brougham Way,6,XEV,2.2,0.1,17.2,13,0.8
+241,101,O,99271,SODO Busway & S Royal Brougham Way,6,XNT,1.9,1.7,13.1,7.6,6.8
+241,101,O,99266,SODO Busway & S Holgate St,7,AM,0.2,0.7,10.5,1.9,7.2
+241,101,O,99266,SODO Busway & S Holgate St,7,MID,0.5,0.5,11.6,11.6,12.1
+241,101,O,99266,SODO Busway & S Holgate St,7,PM,0.3,0.2,19.2,4.7,3.4
+241,101,I,79560,Martin L King Jr Way S & S 129th St,12,AM,3,0.6,26.3,30.3,5.5
+241,101,I,79560,Martin L King Jr Way S & S 129th St,12,MID,1.5,1,15.4,35.8,23.9
+241,101,I,79560,Martin L King Jr Way S & S 129th St,12,PM,1.3,2,14.8,15.4,23.8
+241,101,O,99266,SODO Busway & S Holgate St,7,XEV,0.3,0.1,17.4,2,0.6
+241,101,I,79560,Martin L King Jr Way S & S 129th St,12,XEV,1.1,2.2,13.4,6.5,13.4
+241,101,I,79560,Martin L King Jr Way S & S 129th St,12,XNT,1.1,2.4,9.9,2.2,4.8
+241,101,O,99266,SODO Busway & S Holgate St,7,XNT,0.3,0.1,13.4,1.2,0.2
+241,101,O,79580,Martin L King Jr Way S & S 135th St,11,AM,3.1,0.6,14.3,31.3,6.1
+241,101,O,79580,Martin L King Jr Way S & S 135th St,11,MID,2.3,1,14.1,56,24.3
+241,101,O,79580,Martin L King Jr Way S & S 135th St,11,PM,1.5,2,20.9,22.6,30.6
+241,101,O,79580,Martin L King Jr Way S & S 135th St,11,XEV,1.4,3.4,16.7,9.7,23.6
+241,101,O,79580,Martin L King Jr Way S & S 135th St,11,XNT,0.4,4,10,1.6,16.1
+241,101,O,79590,SW Sunset Blvd & Oakesdale Ave SW,12,AM,0,0,14.3,0,0
+241,101,O,79590,SW Sunset Blvd & Oakesdale Ave SW,12,MID,0,0.1,14,0,1.8
+241,101,O,79590,SW Sunset Blvd & Oakesdale Ave SW,12,PM,0,0.4,20.5,0.1,5.6
+241,101,O,79590,SW Sunset Blvd & Oakesdale Ave SW,12,XEV,0,0.5,16.2,0,3.2
+241,101,O,79590,SW Sunset Blvd & Oakesdale Ave SW,12,XNT,0,0.2,9.8,0,0.9
+241,101,O,79610,SW Sunset Blvd & Hardie Ave SW,14,AM,0.1,2.3,12.3,0.6,23
+241,101,O,79610,SW Sunset Blvd & Hardie Ave SW,14,MID,0.2,3.3,10.6,5.1,79.3
+241,101,O,79610,SW Sunset Blvd & Hardie Ave SW,14,PM,0.3,4.1,15.4,3.9,62.1
+241,101,O,79610,SW Sunset Blvd & Hardie Ave SW,14,XEV,0.1,3.2,11.9,0.9,22.2
+241,101,O,79610,SW Sunset Blvd & Hardie Ave SW,14,XNT,0.1,0.8,7.8,0.2,3.1
+241,101,O,79570,Martin L King Jr Way S & S 129th St,10,AM,1.5,0.5,11.8,14.5,5.4
+241,101,O,79570,Martin L King Jr Way S & S 129th St,10,MID,1.3,1,12.7,30.5,23.3
+241,101,O,79570,Martin L King Jr Way S & S 129th St,10,PM,1,2.1,21.4,15.6,31.4
+241,101,O,79570,Martin L King Jr Way S & S 129th St,10,XEV,1.2,1.9,18.7,8.7,13.2
+241,101,O,79570,Martin L King Jr Way S & S 129th St,10,XNT,0.7,3,13.6,2.9,11.8
+241,101,I,99267,SODO Busway & S Royal Brougham Way,16,AM,0.2,0.5,23.3,1.2,3.8
+241,101,I,99267,SODO Busway & S Royal Brougham Way,16,MID,0.3,0.8,13.8,7.9,21.2
+241,101,I,99267,SODO Busway & S Royal Brougham Way,16,PM,0.2,1.1,13,3.2,14.4
+241,101,I,99267,SODO Busway & S Royal Brougham Way,16,XEV,0.3,0.8,10.5,1.5,4.7
+241,101,I,99267,SODO Busway & S Royal Brougham Way,16,XNT,0.3,0.7,8.3,0.6,1.3
+241,101,O,45303,Renton Transit Center - Bay 6,17,AM,0.1,6.2,3.8,1.2,62.4
+241,101,O,45303,Renton Transit Center - Bay 6,17,MID,0.3,5.9,3.5,6.6,141.2
+241,101,O,45303,Renton Transit Center - Bay 6,17,PM,0.4,9.1,5.4,5.1,126.9
+241,101,O,45303,Renton Transit Center - Bay 6,17,XEV,0.2,6.4,3.8,1.6,51.4
+241,101,O,45303,Renton Transit Center - Bay 6,17,XNT,0.2,4.3,2.1,0.7,17.3
+241,101,I,79530,SW Sunset Blvd & Stevens Ave SW,9,AM,1.8,0,20.9,18,0.3
+241,101,I,79530,SW Sunset Blvd & Stevens Ave SW,9,MID,0.8,0.3,14.2,18.8,6.3
+241,101,I,79530,SW Sunset Blvd & Stevens Ave SW,9,PM,0.5,0.5,17.4,6,6.2
+241,101,I,79530,SW Sunset Blvd & Stevens Ave SW,9,XEV,0.4,0.4,15.4,1.8,2
+241,101,I,79530,SW Sunset Blvd & Stevens Ave SW,9,XNT,0.3,0.1,13.2,0.5,0.2
+241,101,I,99254,SODO Busway & S Lander St,14,AM,0.5,2.7,23.2,4.1,24.1
+241,101,I,99254,SODO Busway & S Lander St,14,MID,0.5,1.9,13.4,10.8,45.5
+241,101,I,99254,SODO Busway & S Lander St,14,PM,0.5,2.3,13.2,6.5,29.6
+241,101,I,99254,SODO Busway & S Lander St,14,XEV,0.2,1.8,11.2,1.1,10.7
+241,101,I,99254,SODO Busway & S Lander St,14,XNT,0.2,1.3,8.5,0.3,2.5
+241,101,O,59841,Sr 515 & South Grady Way,20,AM,0,0.8,2.7,0,7.1
+241,101,O,59841,Sr 515 & South Grady Way,20,MID,0,0.3,2.8,0.3,6.1
+241,101,O,59841,Sr 515 & South Grady Way,20,PM,0,0.1,4.8,0.2,2.2
+241,101,O,59841,Sr 515 & South Grady Way,20,XEV,0,0.2,3.3,0,1.5
+241,101,O,59841,Sr 515 & South Grady Way,20,XNT,0,0.1,1.7,0.1,0.4
+241,101,I,99252,SODO Busway & S Spokane St,13,AM,0.3,1.9,25.4,2.9,17.1
+241,101,I,99252,SODO Busway & S Spokane St,13,MID,0.4,1.2,14.9,9.8,27.8
+241,101,I,99252,SODO Busway & S Spokane St,13,PM,1,0.8,15,13.3,10.7
+241,101,I,99252,SODO Busway & S Spokane St,13,XEV,0.2,0.8,12.8,1,4.7
+241,101,I,99252,SODO Busway & S Spokane St,13,XNT,0.4,0.7,9.6,0.7,1.3
+241,101,O,340,2nd Ave & Marion St,3,AM,1.5,0.1,5.4,17.8,0.9
+241,101,I,1190,Pike St & 6th Ave,22,AM,0,3.1,2,0,24.6
+241,101,O,340,2nd Ave & Marion St,3,MID,2.1,0.1,6.2,49.4,1.2
+241,101,I,1190,Pike St & 6th Ave,22,MID,0,1.6,0.7,0.1,39.3
+241,101,I,1190,Pike St & 6th Ave,22,PM,0,1.4,0.6,0.3,18.9
+241,101,O,340,2nd Ave & Marion St,3,PM,4.2,0.1,13.6,58.9,1.2
+241,101,I,1190,Pike St & 6th Ave,22,XEV,0,1.3,0.8,0,7.5
+241,101,I,1190,Pike St & 6th Ave,22,XNT,0,0.5,0.7,0,0.9
+241,101,O,340,2nd Ave & Marion St,3,XEV,2.2,0.1,9.6,15.6,0.5
+241,101,O,340,2nd Ave & Marion St,3,XNT,1.7,0,7.3,5,0.1
+241,101,I,46468,Main Ave S & S 4th St,4,AM,0.1,0,7,0.9,0
+241,101,I,46468,Main Ave S & S 4th St,4,MID,0.1,0,4.3,2.1,0
+241,101,I,46468,Main Ave S & S 4th St,4,PM,0.1,0,4.7,1,0
+241,101,I,46468,Main Ave S & S 4th St,4,XEV,0,0,3.7,0.1,0
+241,101,I,46468,Main Ave S & S 4th St,4,XNT,0,0,4.1,0,0

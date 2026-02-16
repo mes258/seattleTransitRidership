@@ -1,0 +1,422 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,150,I,50712,W James St & Washington Ave N,5,XNT,1.8,0.4,11.3,7.1,1.7
+241,150,O,79227,68th Ave S & S 216th St,32,AM,0,0.3,7.9,0,3.3
+241,150,O,361,2nd Ave & James St,4,AM,1.6,0,8.3,22.8,0.1
+241,150,O,79227,68th Ave S & S 216th St,32,MID,0.2,0,9.7,5.2,1.1
+241,150,O,79227,68th Ave S & S 216th St,32,PM,0.4,0,16.6,6.1,0.5
+241,150,O,58130,S 180th St & Andover Park W,21,AM,0,1.3,15.4,0.5,15.5
+241,150,O,361,2nd Ave & James St,4,MID,1.2,0.1,9,30.7,1.5
+241,150,O,79227,68th Ave S & S 216th St,32,XEV,0.2,0,15.8,1.2,0.1
+241,150,O,58130,S 180th St & Andover Park W,21,MID,0.1,1.2,11.5,3.1,28.5
+241,150,O,79227,68th Ave S & S 216th St,32,XNT,0,0,10.8,0.1,0.1
+241,150,O,58130,S 180th St & Andover Park W,21,PM,0.5,1,15.2,8.4,16.7
+241,150,O,58130,S 180th St & Andover Park W,21,XEV,0.3,0.3,16.7,2,2.3
+241,150,O,361,2nd Ave & James St,4,PM,1.8,0.1,14,26.9,1.2
+241,150,O,58130,S 180th St & Andover Park W,21,XNT,0,0.1,11.4,0.2,0.4
+241,150,O,361,2nd Ave & James St,4,XEV,1.2,0.1,10.7,7.1,0.6
+241,150,O,361,2nd Ave & James St,4,XNT,0.7,0,7.4,4.8,0.2
+241,150,O,58145,68th Ave S & S 208th St,30,AM,0,0.8,9.2,0.1,8.9
+241,150,O,58145,68th Ave S & S 208th St,30,MID,0,0.1,9.7,0.3,2.9
+241,150,O,58145,68th Ave S & S 208th St,30,PM,0.2,0.4,16.8,3.7,6.6
+241,150,O,58145,68th Ave S & S 208th St,30,XEV,0,0.1,16.1,0,0.7
+241,150,O,58145,68th Ave S & S 208th St,30,XNT,0,0,10.9,0,0.3
+241,150,O,58110,Interurban Ave S & Fort Dent Way,13,AM,0,0.5,16.2,0.4,6.7
+241,150,I,58075,68th Ave S & S 204th St,16,AM,0,0.6,12.9,0.1,9.6
+241,150,O,58110,Interurban Ave S & Fort Dent Way,13,MID,0.1,0.3,16.1,3.5,7
+241,150,I,58075,68th Ave S & S 204th St,16,MID,0.3,0.1,16,6.2,2.7
+241,150,O,58110,Interurban Ave S & Fort Dent Way,13,PM,0.2,0.6,17.9,3.4,9.7
+241,150,I,79248,4th Ave N & W Smith St,2,AM,0.5,0.1,11,7.7,1.1
+241,150,I,58075,68th Ave S & S 204th St,16,PM,0.4,0,14.3,6.9,0.4
+241,150,O,58110,Interurban Ave S & Fort Dent Way,13,XEV,0.3,0.8,15,2.4,5.7
+241,150,I,58075,68th Ave S & S 204th St,16,XEV,0.1,0,12.2,0.6,0
+241,150,I,58085,68th Ave S & S 212th St,14,AM,0.6,0.7,14.1,9.4,11.2
+241,150,O,58110,Interurban Ave S & Fort Dent Way,13,XNT,0.1,0.3,11,0.4,2.7
+241,150,I,79248,4th Ave N & W Smith St,2,MID,0.8,0.1,12.7,19.5,2.9
+241,150,I,58075,68th Ave S & S 204th St,16,XNT,0,0.2,12.8,0,0.7
+241,150,I,58085,68th Ave S & S 212th St,14,MID,0.5,0.1,15.7,12.3,3.2
+241,150,I,58085,68th Ave S & S 212th St,14,PM,1,0.4,13.4,16.4,6.5
+241,150,I,79248,4th Ave N & W Smith St,2,PM,0.8,0.3,10.8,12.5,4.9
+241,150,I,58085,68th Ave S & S 212th St,14,XEV,0.5,0.1,12.1,2.9,0.8
+241,150,I,58085,68th Ave S & S 212th St,14,XNT,1.1,0.2,12.8,4.5,0.6
+241,150,I,79248,4th Ave N & W Smith St,2,XEV,0.6,0.2,11,3.3,1.4
+241,150,I,79248,4th Ave N & W Smith St,2,XNT,0.4,0,8.9,1.6,0
+241,150,O,80580,W James St & Lincoln Ave N,41,AM,0.1,0.3,7.8,0.8,3.4
+241,150,O,80580,W James St & Lincoln Ave N,41,MID,0,0.2,8.2,0.6,4
+241,150,O,80580,W James St & Lincoln Ave N,41,PM,0,0.7,12,0.4,12.6
+241,150,O,80580,W James St & Lincoln Ave N,41,XEV,0,0.4,10.2,0.3,2.8
+241,150,I,79238,68th Ave S & S 216th St,13,AM,0,0.1,14.2,0.1,1.3
+241,150,O,80580,W James St & Lincoln Ave N,41,XNT,0,0.4,8.2,0.3,3.9
+241,150,I,79238,68th Ave S & S 216th St,13,MID,0,0.1,15.3,0.9,1.2
+241,150,I,79238,68th Ave S & S 216th St,13,PM,0.2,0,12.8,3.3,0
+241,150,I,79238,68th Ave S & S 216th St,13,XEV,0.1,0,11.7,0.7,0
+241,150,I,79238,68th Ave S & S 216th St,13,XNT,0.2,0,11.9,0.9,0
+241,150,O,80730,Interurban Ave S & 58th Ave S,11,AM,0.3,0.8,16.6,4.1,10
+241,150,I,660,4th Ave & Madison St,42,AM,0,3.4,5.8,0.3,47.2
+241,150,O,80730,Interurban Ave S & 58th Ave S,11,MID,0.5,1,16.2,12.2,23.5
+241,150,I,660,4th Ave & Madison St,42,MID,0.1,2,6.3,1.8,48.2
+241,150,O,80730,Interurban Ave S & 58th Ave S,11,PM,0.5,0.9,18.4,6.8,13.8
+241,150,I,660,4th Ave & Madison St,42,PM,0.1,1.9,6.4,2.1,29.8
+241,150,O,80730,Interurban Ave S & 58th Ave S,11,XEV,0.4,0.7,15.7,2.6,4.7
+241,150,I,660,4th Ave & Madison St,42,XEV,0.1,1.8,6.9,0.4,12.5
+241,150,O,80730,Interurban Ave S & 58th Ave S,11,XNT,0.2,0.7,11.4,1.2,5.6
+241,150,I,660,4th Ave & Madison St,42,XNT,0,1,5.5,0,5.2
+241,150,I,58137,58th Pl S & Russell Rd,17,AM,0.1,2.1,6.9,0.1,2.1
+241,150,O,58137,58th Pl S & Russell Rd,25,MID,2.1,0.2,13.6,2.1,0.2
+241,150,I,80680,Interurban Ave S & Fort Dent Way,31,AM,0.5,0.3,10.9,7.5,4.3
+241,150,I,80680,Interurban Ave S & Fort Dent Way,31,MID,0.5,0.2,16.5,11.4,5.2
+241,150,I,80680,Interurban Ave S & Fort Dent Way,31,PM,0.6,0.3,20.6,9.7,5.5
+241,150,I,80680,Interurban Ave S & Fort Dent Way,31,XEV,0.4,0.3,22.9,2.4,1.7
+241,150,I,80680,Interurban Ave S & Fort Dent Way,31,XNT,0.4,0.2,13.1,1.5,0.7
+241,150,I,620,4th Ave S & S Jackson St,40,AM,2.8,2.1,11.7,38.5,29.9
+241,150,I,620,4th Ave S & S Jackson St,40,MID,0.5,5.2,9.9,11.7,124.4
+241,150,I,620,4th Ave S & S Jackson St,40,PM,0.3,7,10.5,5.5,112.3
+241,150,I,99264,SODO Busway & S Holgate St,37,AM,0.3,0.6,11.4,5.1,9.3
+241,150,I,620,4th Ave S & S Jackson St,40,XEV,0.3,6.1,10.7,2,42.8
+241,150,I,99264,SODO Busway & S Holgate St,37,MID,1.2,0.7,15.6,29.8,16.2
+241,150,I,620,4th Ave S & S Jackson St,40,XNT,0.2,3.9,8.2,1.2,19.5
+241,150,I,99264,SODO Busway & S Holgate St,37,PM,1,0.4,18.5,16,5.9
+241,150,O,58112,Southcenter Blvd & 65th Ave S,14,AM,0.2,0.4,16.1,2.1,5
+241,150,I,99264,SODO Busway & S Holgate St,37,XEV,0.2,0.3,17.6,1.2,1.5
+241,150,O,58112,Southcenter Blvd & 65th Ave S,14,MID,0.1,0.4,15.7,2.5,11.1
+241,150,I,99264,SODO Busway & S Holgate St,37,XNT,0.1,0.3,12.1,0.7,1.5
+241,150,O,79228,68th Ave S & S 220th St,33,AM,0,0.1,7.8,0,1.4
+241,150,O,58112,Southcenter Blvd & 65th Ave S,14,PM,0.1,0.7,17.4,1.7,10
+241,150,O,79228,68th Ave S & S 220th St,33,MID,0.1,0,9.7,1.3,0.1
+241,150,O,58112,Southcenter Blvd & 65th Ave S,14,XEV,0.1,0.6,14.5,0.5,4.2
+241,150,O,79228,68th Ave S & S 220th St,33,PM,0.2,0,16.8,2.8,0
+241,150,O,58112,Southcenter Blvd & 65th Ave S,14,XNT,0.1,0.3,10.8,0.9,2.2
+241,150,O,1215,Union St & 5th Ave,1,AM,2.2,0,3,33.7,0
+241,150,O,79228,68th Ave S & S 220th St,33,XEV,0,0,15.9,0,0.1
+241,150,O,79228,68th Ave S & S 220th St,33,XNT,0,0.1,10.7,0,0.4
+241,150,I,80700,Interurban Ave S & 58th Ave S,33,AM,0.5,0.2,11.3,8.5,3.4
+241,150,O,1215,Union St & 5th Ave,1,MID,1.9,0,2.7,45.8,0
+241,150,I,80700,Interurban Ave S & 58th Ave S,33,MID,0.9,0.6,16.8,20.7,14.4
+241,150,I,80700,Interurban Ave S & 58th Ave S,33,PM,0.9,0.5,21.1,14,7.3
+241,150,I,80700,Interurban Ave S & 58th Ave S,33,XEV,1.2,0.3,23.7,7.1,2
+241,150,I,80700,Interurban Ave S & 58th Ave S,33,XNT,1,0.2,13.8,4.1,0.7
+241,150,O,1215,Union St & 5th Ave,1,PM,4,0,4.5,60.2,0.1
+241,150,O,1215,Union St & 5th Ave,1,XEV,3.5,0,4,20.8,0
+241,150,I,30635,4th Ave S & S Royal Brougham Way,39,AM,0.1,0,11.1,0.8,0.5
+241,150,O,59340,Andover Park W & Minkler Blvd,19,AM,0.2,1.5,17.2,2.2,17.7
+241,150,I,30635,4th Ave S & S Royal Brougham Way,39,MID,0.1,0.2,14.7,3.7,4.1
+241,150,O,59340,Andover Park W & Minkler Blvd,19,MID,0.2,0.9,13,5.1,22.5
+241,150,O,1215,Union St & 5th Ave,1,XNT,2.4,0,2.7,17.1,0
+241,150,I,30635,4th Ave S & S Royal Brougham Way,39,PM,0.2,0.3,17.2,2.5,5.1
+241,150,O,59340,Andover Park W & Minkler Blvd,19,PM,0.4,0.7,15.8,6.9,11.4
+241,150,I,30635,4th Ave S & S Royal Brougham Way,39,XEV,0.3,0.5,16.4,1.6,2.8
+241,150,O,59340,Andover Park W & Minkler Blvd,19,XEV,0.4,0.4,16.8,2.9,2.6
+241,150,I,30635,4th Ave S & S Royal Brougham Way,39,XNT,0.3,0.1,11.8,1.3,0.6
+241,150,O,59340,Andover Park W & Minkler Blvd,19,XNT,0.2,0.1,11.4,1.2,1
+241,150,I,50712,W James St & Washington Ave N,5,AM,0.9,0.4,12.2,16.1,7.2
+241,150,O,79239,68th Ave S & S 204th St,29,AM,0,0.7,10,0.2,8
+241,150,O,79239,68th Ave S & S 204th St,29,MID,0.1,0.1,9.8,1.5,3.5
+241,150,I,50712,W James St & Washington Ave N,5,MID,0.8,0.6,13.4,18.1,15.1
+241,150,O,79239,68th Ave S & S 204th St,29,PM,0.6,0,16.9,8.3,0.5
+241,150,O,79239,68th Ave S & S 204th St,29,XEV,0.1,0,16.1,0.4,0.2
+241,150,I,50712,W James St & Washington Ave N,5,PM,0.9,0.9,11.4,14.2,14
+241,150,O,79239,68th Ave S & S 204th St,29,XNT,0,0,11,0.2,0.2
+241,150,I,50712,W James St & Washington Ave N,5,XEV,0.8,0.9,11.4,4.5,5.2
+241,150,O,57446,64th Ave S & S 236th St,38,MID,0.3,0.4,9.5,8,10.4
+241,150,O,57446,64th Ave S & S 236th St,38,PM,0.6,1.2,16.6,9.2,18.3
+241,150,O,57446,64th Ave S & S 236th St,38,XEV,0.4,1.3,14.7,2.9,10.7
+241,150,O,57446,64th Ave S & S 236th St,38,XNT,0,0.5,10.3,0.2,4.1
+241,150,I,11130,Pike St & Convention Pl,45,AM,0.2,1.3,0,3.4,18.4
+241,150,I,11130,Pike St & Convention Pl,45,MID,0.4,1.3,0,9.6,30.5
+241,150,I,11130,Pike St & Convention Pl,45,PM,0.3,1.2,0,4.7,19.9
+241,150,I,11130,Pike St & Convention Pl,45,XEV,0.2,1.4,0,1.2,9.6
+241,150,I,11130,Pike St & Convention Pl,45,XNT,0.2,1.5,0,0.8,7.7
+241,150,I,79237,68th Ave S & S 220th St,12,AM,0,0.8,14.3,0.4,13.3
+241,150,I,79237,68th Ave S & S 220th St,12,MID,0,0,15.3,0.9,0.8
+241,150,I,79237,68th Ave S & S 220th St,12,PM,0.2,0,12.3,3.4,0.4
+241,150,I,57461,64th Ave S & S 236th St,7,AM,1,0.2,16.1,16.9,4.1
+241,150,I,59773,W James St & Lincoln Ave N,4,AM,0.4,0.1,11.7,7.2,2.2
+241,150,O,59350,Andover Park W & Midland Dr,20,AM,0,0.6,16.6,0,7
+241,150,I,79237,68th Ave S & S 220th St,12,XEV,0,0,11.6,0,0
+241,150,I,57461,64th Ave S & S 236th St,7,MID,0.5,0.4,15.4,11.6,9.8
+241,150,O,59350,Andover Park W & Midland Dr,20,MID,0.1,0.6,12.5,2.2,14.3
+241,150,I,79237,68th Ave S & S 220th St,12,XNT,0,0,11.6,0.1,0
+241,150,I,57461,64th Ave S & S 236th St,7,PM,0.5,1,11.2,7.3,14.7
+241,150,I,59773,W James St & Lincoln Ave N,4,MID,0.2,0.1,13.3,5.1,2
+241,150,O,59350,Andover Park W & Midland Dr,20,PM,0.4,0.4,15.8,6.2,5.8
+241,150,I,57461,64th Ave S & S 236th St,7,XEV,0.3,0.5,11.3,2,3.2
+241,150,O,59350,Andover Park W & Midland Dr,20,XEV,0.1,0.2,16.8,0.5,1.3
+241,150,I,57461,64th Ave S & S 236th St,7,XNT,0.2,0.3,11.5,0.6,1.1
+241,150,I,59773,W James St & Lincoln Ave N,4,PM,0.3,0.2,11.4,5.1,2.6
+241,150,O,59350,Andover Park W & Midland Dr,20,XNT,0,0,11.4,0.1,0.2
+241,150,I,59773,W James St & Lincoln Ave N,4,XEV,0.3,0.1,11.5,1.7,0.5
+241,150,I,59773,W James St & Lincoln Ave N,4,XNT,0.7,0,9.9,2.7,0.1
+241,150,I,60410,Andover Park W & Minkler Blvd,25,AM,0.1,0.3,11.1,1.9,4.5
+241,150,I,60410,Andover Park W & Minkler Blvd,25,MID,0.7,0.5,17.9,16.8,11.2
+241,150,I,60410,Andover Park W & Minkler Blvd,25,PM,2,0.4,21.2,29.9,6
+241,150,I,60410,Andover Park W & Minkler Blvd,25,XEV,1.5,0.1,16.8,9,0.7
+241,150,I,60410,Andover Park W & Minkler Blvd,25,XNT,0.3,0.3,11.8,1.3,1
+241,150,I,80710,Interurban Ave S & 52nd Ave S - Bay 1,34,AM,3.1,0.4,14,49.9,6.3
+241,150,I,80710,Interurban Ave S & 52nd Ave S - Bay 1,34,MID,1.5,0.7,17.6,35.8,16.7
+241,150,I,80710,Interurban Ave S & 52nd Ave S - Bay 1,34,PM,1,0.8,21.2,15.8,13.3
+241,150,I,80710,Interurban Ave S & 52nd Ave S - Bay 1,34,XEV,0.6,0.8,23.4,3.6,4.9
+241,150,I,80710,Interurban Ave S & 52nd Ave S - Bay 1,34,XNT,0.4,0.4,13.8,1.4,1.5
+241,150,O,1230,Union St & 4th Ave,2,AM,2.3,0,5.1,34.3,0.7
+241,150,O,1230,Union St & 4th Ave,2,MID,3.2,0.1,5.8,77.1,1.2
+241,150,O,1230,Union St & 4th Ave,2,PM,4.1,0,8.5,61.9,0.4
+241,150,O,1230,Union St & 4th Ave,2,XEV,3.3,0,7.2,19.7,0.2
+241,150,O,1230,Union St & 4th Ave,2,XNT,2.3,0,5,16.3,0.1
+241,150,I,58086,68th Ave S & S 196th St,20,AM,0.1,0.8,12.6,2.2,13.8
+241,150,I,58086,68th Ave S & S 196th St,20,MID,0.2,0.2,16,4.4,4
+241,150,I,58086,68th Ave S & S 196th St,20,PM,0.8,0.2,14.9,12,3.1
+241,150,I,58086,68th Ave S & S 196th St,20,XEV,0.4,0.1,13,2.6,0.6
+241,150,I,58086,68th Ave S & S 196th St,20,XNT,0.4,0.1,9.8,1.5,0.3
+241,150,O,80720,Interurban Ave S & 52nd Ave S - Bay 2,10,AM,0.8,0.9,17,10.2,11.3
+241,150,O,80720,Interurban Ave S & 52nd Ave S - Bay 2,10,MID,0.7,0.9,16.7,15.6,22.7
+241,150,O,80720,Interurban Ave S & 52nd Ave S - Bay 2,10,PM,0.8,3.3,18.9,12.2,50
+241,150,O,80720,Interurban Ave S & 52nd Ave S - Bay 2,10,XEV,0.4,2.5,16,2.8,17.6
+241,150,O,80720,Interurban Ave S & 52nd Ave S - Bay 2,10,XNT,0.2,1.6,12,1.8,12.6
+241,150,I,58139,S 194th Way & 58th Pl S,18,AM,0,0,6.9,0,0
+241,150,O,58139,S 194th Way & 58th Pl S,26,MID,0,0,13.6,0,0
+241,150,O,57455,Kent Sounder Station - Bay 5,44,AM,0.4,7.5,0,4.2,82.8
+241,150,O,57455,Kent Sounder Station - Bay 5,44,MID,0.2,7.3,0,5.4,167.9
+241,150,O,57455,Kent Sounder Station - Bay 5,44,PM,0.2,10.3,0,3,175.1
+241,150,O,57455,Kent Sounder Station - Bay 5,44,XEV,0.2,9,0,1.3,62.8
+241,150,O,57455,Kent Sounder Station - Bay 5,44,XNT,0.2,7.7,0,1.4,69.1
+241,150,I,60380,Andover Park W & S 180th St,23,AM,0.2,0.4,11.6,2.7,7.6
+241,150,I,60380,Andover Park W & S 180th St,23,MID,0.8,0.4,17.4,19.2,9.3
+241,150,I,60380,Andover Park W & S 180th St,23,PM,1.6,0.3,19.1,23.4,4.8
+241,150,I,60380,Andover Park W & S 180th St,23,XEV,1,0.2,15.2,6,1.2
+241,150,I,60380,Andover Park W & S 180th St,23,XNT,0.2,0.1,11.6,0.9,0.2
+241,150,I,58102,Southcenter Blvd & 62nd Ave S,29,AM,1,0.2,10.5,16.5,2.8
+241,150,I,58102,Southcenter Blvd & 62nd Ave S,29,MID,0.6,0.2,16,15.5,5.2
+241,150,I,58102,Southcenter Blvd & 62nd Ave S,29,PM,0.6,0.4,20.1,10,6.2
+241,150,I,58102,Southcenter Blvd & 62nd Ave S,29,XEV,0.8,0.4,22.6,4.5,2.2
+241,150,I,58102,Southcenter Blvd & 62nd Ave S,29,XNT,0.3,0.3,12.8,1,1.3
+241,150,O,57479,64th Ave S & S 231st St,37,AM,0,0.1,6.8,0.3,1.2
+241,150,O,57479,64th Ave S & S 231st St,37,MID,0,0.1,9.6,0.2,1.9
+241,150,O,57479,64th Ave S & S 231st St,37,PM,0.1,0.1,17.2,2,1.4
+241,150,O,57479,64th Ave S & S 231st St,37,XEV,0,0,15.7,0,0.3
+241,150,O,57479,64th Ave S & S 231st St,37,XNT,0,0,10.7,0,0
+241,150,I,1190,Pike St & 6th Ave,44,XNT,0,1.3,1.4,0.1,6.6
+241,150,O,57446,64th Ave S & S 236th St,38,AM,0.9,0.3,7.3,9.8,3.5
+241,150,O,58114,Southcenter Blvd & 62nd Ave S,15,AM,0.4,0.4,16.1,4.4,4.6
+241,150,O,80600,W James St & 1st Ave N,43,AM,0,0.4,7.1,0.1,4.6
+241,150,O,58114,Southcenter Blvd & 62nd Ave S,15,MID,0.2,0.4,15.5,4.7,9.4
+241,150,O,80600,W James St & 1st Ave N,43,MID,0,0.8,7,0.1,18.4
+241,150,O,58114,Southcenter Blvd & 62nd Ave S,15,PM,0.2,0.8,16.8,2.9,11.5
+241,150,O,80600,W James St & 1st Ave N,43,PM,0,1.3,10.1,0.1,21.8
+241,150,O,58114,Southcenter Blvd & 62nd Ave S,15,XEV,0.1,0.4,14.2,0.6,3.1
+241,150,O,80600,W James St & 1st Ave N,43,XEV,0,1.2,8.5,0,8.2
+241,150,O,58114,Southcenter Blvd & 62nd Ave S,15,XNT,0.1,0.8,10.1,0.7,6.2
+241,150,O,80600,W James St & 1st Ave N,43,XNT,0,0.5,7.5,0.1,4.1
+241,150,O,390,2nd Ave Ext S & S Jackson St,5,AM,5.3,0.2,13.4,73.6,2.2
+241,150,O,390,2nd Ave Ext S & S Jackson St,5,MID,5.7,0.5,14.2,143.3,12.8
+241,150,O,390,2nd Ave Ext S & S Jackson St,5,PM,4.7,2.3,16.4,71.1,34.3
+241,150,O,390,2nd Ave Ext S & S Jackson St,5,XEV,4.4,0.2,14.8,26.1,1.1
+241,150,O,390,2nd Ave Ext S & S Jackson St,5,XNT,3,0.2,10.3,21,1.1
+241,150,I,58135,S 194th St & 62nd Ave S,19,AM,0,2.1,4.8,0,2.1
+241,150,O,58135,S 194th St & 62nd Ave S,27,MID,0,0,13.6,0,0
+241,150,I,50774,64th Ave S & W James St,6,AM,3.4,0.2,15.4,57.4,2.9
+241,150,I,50774,64th Ave S & W James St,6,MID,2.5,0.6,15.3,59.1,13.9
+241,150,I,50774,64th Ave S & W James St,6,PM,1.6,1.2,11.7,23.3,18.7
+241,150,I,50774,64th Ave S & W James St,6,XEV,1.2,1.1,11.5,7.1,6.6
+241,150,I,50774,64th Ave S & W James St,6,XNT,0.8,0.5,11.6,3.2,1.8
+241,150,O,59312,Andover Park W & Baker Blvd - Bay 1,16,AM,5.6,2.3,19.5,67.7,27.3
+241,150,O,59312,Andover Park W & Baker Blvd - Bay 1,16,MID,4.6,5.9,14.1,114.8,148.6
+241,150,O,59312,Andover Park W & Baker Blvd - Bay 1,16,PM,6.1,7,16,92.2,105.1
+241,150,O,59312,Andover Park W & Baker Blvd - Bay 1,16,XEV,5.8,3.8,16.2,40.8,26.4
+241,150,O,59312,Andover Park W & Baker Blvd - Bay 1,16,XNT,2.1,1.2,11,16.9,9.9
+241,150,I,58074,68th Ave S & S 208th St,15,AM,0.1,0.4,13.5,0.9,5.8
+241,150,I,58074,68th Ave S & S 208th St,15,MID,0.1,0.1,15.9,1.3,1.8
+241,150,I,58074,68th Ave S & S 208th St,15,PM,0.5,0,13.9,8.1,0.1
+241,150,I,58074,68th Ave S & S 208th St,15,XEV,0,0,12.1,0.2,0.2
+241,150,I,58074,68th Ave S & S 208th St,15,XNT,0.2,0,13,0.7,0
+241,150,I,691,4th Ave & Union St,43,AM,0,3.1,2.7,0,43.9
+241,150,I,691,4th Ave & Union St,43,MID,0,3.8,2.5,0.6,90.9
+241,150,O,59320,Andover Park W & Strander Blvd,17,AM,0.2,0.5,19.2,2.7,6.1
+241,150,I,691,4th Ave & Union St,43,PM,0,4,2.4,0.7,64.3
+241,150,O,59320,Andover Park W & Strander Blvd,17,MID,0.9,0.8,14.2,22.3,21.1
+241,150,I,691,4th Ave & Union St,43,XEV,0.1,4.2,2.7,0.5,29.4
+241,150,O,59320,Andover Park W & Strander Blvd,17,PM,1.2,0.8,16.3,17.8,12.3
+241,150,I,691,4th Ave & Union St,43,XNT,0,2.8,2.7,0,14.2
+241,150,O,59320,Andover Park W & Strander Blvd,17,XEV,1.3,0.7,16.8,8.9,4.7
+241,150,O,59320,Andover Park W & Strander Blvd,17,XNT,0.5,0.2,11.4,4.1,1.2
+241,150,O,50779,W James St & 64th Ave S,39,AM,1.6,0.8,8.2,18,8.6
+241,150,O,50779,W James St & 64th Ave S,39,MID,0.7,1.3,8.9,16.3,31.2
+241,150,O,50779,W James St & 64th Ave S,39,PM,0.7,3.7,13.2,11.2,58.6
+241,150,O,50779,W James St & 64th Ave S,39,XEV,0.4,3.4,11.7,2.8,26.9
+241,150,O,50779,W James St & 64th Ave S,39,XNT,0.2,2.3,8.1,1.5,18.7
+241,150,O,99263,SODO Busway & S Lander St,8,AM,2.2,0.3,16.2,30.5,4.1
+241,150,I,79234,68th Ave S & S 228th St,10,AM,0.1,0.3,15.1,1.3,5.9
+241,150,O,99263,SODO Busway & S Lander St,8,MID,1.5,0.3,16.4,35.4,6
+241,150,I,79234,68th Ave S & S 228th St,10,MID,0.1,0.2,15.3,3.2,4.4
+241,150,I,79234,68th Ave S & S 228th St,10,PM,0.4,0,12.1,5.7,0.1
+241,150,I,79234,68th Ave S & S 228th St,10,XEV,0.1,0,11.5,0.7,0
+241,150,O,99263,SODO Busway & S Lander St,8,PM,1.5,0.3,19.6,23.1,5.1
+241,150,I,79234,68th Ave S & S 228th St,10,XNT,0.1,0.1,11.6,0.5,0.3
+241,150,O,99263,SODO Busway & S Lander St,8,XEV,1.2,0.2,17.5,8.4,1.4
+241,150,O,99263,SODO Busway & S Lander St,8,XNT,0.9,0.2,12.3,6.4,1.1
+241,150,I,60428,Andover Park W & Strander Blvd,27,XNT,0.5,0.3,12.2,2.1,1.3
+241,150,I,79213,S 228th St & 64th Ave S,9,PM,0.5,0.1,11.8,7.6,1
+241,150,I,79213,S 228th St & 64th Ave S,9,XEV,0.1,0,11.4,0.6,0
+241,150,I,79213,S 228th St & 64th Ave S,9,XNT,0,0,11.6,0,0.1
+241,150,O,79229,68th Ave S & S 224th St,34,AM,0,0.1,7.7,0,1.2
+241,150,I,57458,Kent Sounder Station - Bay 8,1,AM,7.5,0,10.7,128.2,0.6
+241,150,O,79229,68th Ave S & S 224th St,34,MID,0,0,9.7,0.4,0.3
+241,150,I,57458,Kent Sounder Station - Bay 8,1,MID,11.2,0,12,268.7,0.1
+241,150,O,79229,68th Ave S & S 224th St,34,PM,0.1,0,16.8,1.3,0.1
+241,150,I,57458,Kent Sounder Station - Bay 8,1,PM,9.6,0,10.3,143.7,0.1
+241,150,O,79229,68th Ave S & S 224th St,34,XEV,0,0,15.8,0.1,0.1
+241,150,I,57458,Kent Sounder Station - Bay 8,1,XEV,10,0,10.7,59.8,0
+241,150,O,79229,68th Ave S & S 224th St,34,XNT,0,0,10.7,0,0
+241,150,I,57458,Kent Sounder Station - Bay 8,1,XNT,7.3,0,8.7,29.3,0
+241,150,I,60420,Andover Park W & Corporate Dr N,26,AM,0.1,0,11.1,1,0.6
+241,150,I,60420,Andover Park W & Corporate Dr N,26,MID,0.3,0.1,18.1,7.3,2.2
+241,150,I,60420,Andover Park W & Corporate Dr N,26,PM,0.3,0,21.5,4.9,0.4
+241,150,I,60420,Andover Park W & Corporate Dr N,26,XEV,0.3,0,17.1,1.8,0.1
+241,150,I,60420,Andover Park W & Corporate Dr N,26,XNT,0.3,0,12.1,1,0
+241,150,I,640,4th Ave & James St,41,AM,0.1,2.6,9.1,0.9,36.7
+241,150,I,640,4th Ave & James St,41,MID,0.1,1.8,8.2,2.2,43
+241,150,I,640,4th Ave & James St,41,PM,0.1,2.4,8.2,1.8,39
+241,150,I,640,4th Ave & James St,41,XEV,0.1,2.1,8.6,0.5,14.9
+241,150,I,640,4th Ave & James St,41,XNT,0,1.7,6.5,0.2,8.5
+241,150,O,99253,SODO Busway & S Spokane St,9,AM,1.5,0.9,16.8,20.7,12.4
+241,150,I,80820,W James St & 4th Ave N,3,AM,0.3,0,11.4,5.9,0
+241,150,O,99253,SODO Busway & S Spokane St,9,MID,1.4,0.3,17.4,32.7,7.9
+241,150,O,99271,SODO Busway & S Royal Brougham Way,6,AM,1.6,0.2,14.9,23,2.1
+241,150,I,80820,W James St & 4th Ave N,3,MID,0.6,0.1,13.2,13.4,2
+241,150,O,99271,SODO Busway & S Royal Brougham Way,6,MID,1.6,0.4,15.4,40.7,9.8
+241,150,O,99253,SODO Busway & S Spokane St,9,PM,1.8,0.4,21,26.6,5.5
+241,150,I,80820,W James St & 4th Ave N,3,PM,0.5,0.1,11.2,7.9,1.4
+241,150,O,99253,SODO Busway & S Spokane St,9,XEV,0.8,0.3,18.1,5.9,2.1
+241,150,O,99271,SODO Busway & S Royal Brougham Way,6,PM,1.9,0.4,18.3,27.2,5.4
+241,150,I,80820,W James St & 4th Ave N,3,XEV,0.4,0.1,11.3,2.3,0.5
+241,150,O,99253,SODO Busway & S Spokane St,9,XNT,0.8,0.4,12.7,5.9,3
+241,150,O,99271,SODO Busway & S Royal Brougham Way,6,XEV,2.1,0.2,16.3,14.8,1.3
+241,150,I,80820,W James St & 4th Ave N,3,XNT,0.4,0,9.3,1.5,0
+241,150,O,57478,64th Ave S & S 228th St,36,AM,0,0.5,6.9,0,5.9
+241,150,O,99271,SODO Busway & S Royal Brougham Way,6,XNT,1.4,0.2,11.4,9.6,1.6
+241,150,O,57478,64th Ave S & S 228th St,36,MID,0.1,0.2,9.6,2.1,3.8
+241,150,O,57478,64th Ave S & S 228th St,36,PM,0.4,0.1,17.2,5.4,1.8
+241,150,O,57478,64th Ave S & S 228th St,36,XEV,0.2,0.3,15.7,1.2,2.3
+241,150,O,57478,64th Ave S & S 228th St,36,XNT,0.1,0.1,10.7,0.7,0.6
+241,150,I,79236,68th Ave S & S 224th St,11,AM,0,0.1,15,0.4,2.4
+241,150,I,79236,68th Ave S & S 224th St,11,MID,0,0,15.3,1.1,0.1
+241,150,I,79236,68th Ave S & S 224th St,11,PM,0,0,12.1,0.4,0
+241,150,I,79236,68th Ave S & S 224th St,11,XEV,0,0,11.6,0,0
+241,150,I,79236,68th Ave S & S 224th St,11,XNT,0.1,0,11.6,0.2,0
+241,150,O,79240,68th Ave S & S 212th St,31,AM,0.2,1.2,8.3,2.1,12.8
+241,150,O,79240,68th Ave S & S 212th St,31,MID,0.2,0.4,9.5,4.9,10.2
+241,150,O,99266,SODO Busway & S Holgate St,7,AM,0.1,0.7,14.3,1.9,9.5
+241,150,O,79240,68th Ave S & S 212th St,31,PM,0.5,1,16.2,7.5,15.4
+241,150,O,79240,68th Ave S & S 212th St,31,XEV,0.1,0.4,15.7,0.9,3.3
+241,150,O,99266,SODO Busway & S Holgate St,7,MID,0.4,0.6,15.2,10.4,15.1
+241,150,O,79240,68th Ave S & S 212th St,31,XNT,0.2,0.3,10.8,1.2,2.3
+241,150,O,99266,SODO Busway & S Holgate St,7,PM,0.6,0.4,18.4,9,5.5
+241,150,O,99266,SODO Busway & S Holgate St,7,XEV,0.3,0.1,16.6,2.1,1
+241,150,O,99266,SODO Busway & S Holgate St,7,XNT,0.2,0.1,11.6,1.7,0.7
+241,150,O,80742,Interurban Ave S & S 147th St,12,AM,0.2,0.2,16.7,3.1,2.2
+241,150,O,80742,Interurban Ave S & S 147th St,12,MID,0.2,0.2,16.3,5.1,4.5
+241,150,O,80742,Interurban Ave S & S 147th St,12,PM,0.3,0.3,18.4,4,4.2
+241,150,O,80742,Interurban Ave S & S 147th St,12,XEV,0.1,0.3,15.5,0.7,1.8
+241,150,O,80742,Interurban Ave S & S 147th St,12,XNT,0,0.2,11.3,0.1,1.3
+241,150,I,60428,Andover Park W & Strander Blvd,27,AM,0.1,0.7,10.6,2.4,12.1
+241,150,I,79213,S 228th St & 64th Ave S,9,AM,0.1,0.5,15.4,2.5,9.3
+241,150,I,60428,Andover Park W & Strander Blvd,27,MID,1,1.3,17.8,24.8,31.8
+241,150,I,79213,S 228th St & 64th Ave S,9,MID,0.1,0.2,15.4,3.5,4.5
+241,150,I,60428,Andover Park W & Strander Blvd,27,PM,1.3,1.4,21.3,18.8,21.5
+241,150,I,60428,Andover Park W & Strander Blvd,27,XEV,1.7,1,17.9,10.3,5.8
+241,150,I,99254,SODO Busway & S Lander St,36,PM,0.5,3.8,17.8,8.4,61
+241,150,I,99254,SODO Busway & S Lander St,36,XEV,0.3,4.3,17.6,1.7,25.7
+241,150,I,99254,SODO Busway & S Lander St,36,XNT,0.4,2.3,12.3,2,11.4
+241,150,O,58132,S 180th St & Sperry Dr,22,AM,0.3,2.8,12.9,4.1,34.1
+241,150,O,58132,S 180th St & Sperry Dr,22,MID,0.6,2,10.1,14.5,47.5
+241,150,O,58132,S 180th St & Sperry Dr,22,PM,1,0.8,15.4,15.9,13.3
+241,150,O,58132,S 180th St & Sperry Dr,22,XEV,0.9,1,16.6,6,6.9
+241,150,O,58132,S 180th St & Sperry Dr,22,XNT,0.2,0.7,10.9,1.9,5.8
+241,150,O,58140,68th Ave S & S 196th St,28,AM,0.2,1.2,10.6,1.9,14.9
+241,150,O,58140,68th Ave S & S 196th St,28,MID,0.2,0.2,9.9,4.4,5.5
+241,150,O,58140,68th Ave S & S 196th St,28,PM,0.6,0.2,16.4,9.6,3.7
+241,150,O,58140,68th Ave S & S 196th St,28,XEV,0.1,0.2,16.1,0.6,1.6
+241,150,O,58140,68th Ave S & S 196th St,28,XNT,0.2,0.1,11,1.6,0.5
+241,150,I,99267,SODO Busway & S Royal Brougham Way,38,AM,0.2,0.6,11.1,2.1,7.9
+241,150,I,99267,SODO Busway & S Royal Brougham Way,38,MID,0.3,1,14.7,7.9,24.4
+241,150,I,99267,SODO Busway & S Royal Brougham Way,38,PM,0.3,1.4,17.4,4.4,22.1
+241,150,I,99267,SODO Busway & S Royal Brougham Way,38,XEV,0.3,1.2,16.6,1.8,7.4
+241,150,I,99267,SODO Busway & S Royal Brougham Way,38,XNT,0.4,0.8,11.7,2.1,4.2
+241,150,O,79214,S 228th St & 68th Ave S,35,AM,0,0.4,7.4,0,4
+241,150,O,79214,S 228th St & 68th Ave S,35,MID,0.1,0.1,9.7,2.9,3.1
+241,150,O,79214,S 228th St & 68th Ave S,35,PM,0.2,0.1,16.9,2.6,1.1
+241,150,O,79214,S 228th St & 68th Ave S,35,XEV,0.1,0,15.9,0.4,0.2
+241,150,O,79214,S 228th St & 68th Ave S,35,XNT,0,0,10.7,0.2,0.3
+241,150,I,58088,S 180th St & Sperry Dr,22,AM,1,0.8,11.9,16.3,13.2
+241,150,I,58088,S 180th St & Sperry Dr,22,MID,1.9,0.9,17,44.7,22
+241,150,I,58088,S 180th St & Sperry Dr,22,PM,2.5,0.6,17.9,37.5,9.1
+241,150,I,58088,S 180th St & Sperry Dr,22,XEV,1.9,0.4,14.4,11.3,2.3
+241,150,I,58088,S 180th St & Sperry Dr,22,XNT,1.5,0.3,11.5,6,1.3
+241,150,O,58136,West Valley Hwy S & S 190th St,24,AM,0.2,0.7,11.7,2.1,8.5
+241,150,O,58136,West Valley Hwy S & S 190th St,24,MID,0.2,0.4,9.9,5.5,8.9
+241,150,O,58136,West Valley Hwy S & S 190th St,24,PM,0.6,0.2,15.9,9.4,2.5
+241,150,O,58136,West Valley Hwy S & S 190th St,24,XEV,0.2,0.1,16.5,1.4,0.9
+241,150,O,58136,West Valley Hwy S & S 190th St,24,XNT,0.1,0.1,10.9,0.4,0.8
+241,150,I,99254,SODO Busway & S Lander St,36,AM,0.5,1.4,11.7,7.7,20.8
+241,150,I,99254,SODO Busway & S Lander St,36,MID,0.4,2,15,10.5,48.9
+241,150,O,80590,W James St & 4th Ave N,42,AM,0,0.3,7.5,0,3.4
+241,150,O,80590,W James St & 4th Ave N,42,MID,0,0.5,7.8,0.2,10.4
+241,150,O,80590,W James St & 4th Ave N,42,PM,0,0.7,11.4,0.1,12.2
+241,150,O,80590,W James St & 4th Ave N,42,XEV,0,0.5,9.7,0,3.8
+241,150,O,80590,W James St & 4th Ave N,42,XNT,0,0.3,7.9,0.2,2.3
+241,150,I,80692,Interurban Ave S & S 147th St,32,AM,0.2,0.1,11,3.5,1.9
+241,150,I,80692,Interurban Ave S & S 147th St,32,MID,0.2,0.1,16.5,4.8,3
+241,150,I,80692,Interurban Ave S & S 147th St,32,PM,0.2,0.1,20.6,3.2,2.2
+241,150,I,80692,Interurban Ave S & S 147th St,32,XEV,0.2,0.2,22.8,0.9,1.1
+241,150,I,80692,Interurban Ave S & S 147th St,32,XNT,0.1,0.2,12.9,0.4,0.9
+241,150,I,59316,Andover Park W & Baker Blvd - Bay 4,28,AM,1.3,2.1,9.8,22.6,35.2
+241,150,I,59316,Andover Park W & Baker Blvd - Bay 4,28,MID,4,5.9,15.7,91.6,136.1
+241,150,I,59316,Andover Park W & Baker Blvd - Bay 4,28,PM,6.1,7.6,19.8,97.5,121.6
+241,150,I,59316,Andover Park W & Baker Blvd - Bay 4,28,XEV,8.4,4,22.3,50.4,24.1
+241,150,I,59316,Andover Park W & Baker Blvd - Bay 4,28,XNT,3.5,2.9,12.9,13.9,11.6
+241,150,O,79243,W James St & Washington Ave N,40,AM,0.6,0.7,8.1,6.1,7.4
+241,150,O,79243,W James St & Washington Ave N,40,MID,0.4,0.8,8.4,8.8,18.6
+241,150,O,79243,W James St & Washington Ave N,40,PM,0.5,0.9,12.8,9.1,15
+241,150,O,79243,W James St & Washington Ave N,40,XEV,0.2,0.7,10.5,1.2,4.6
+241,150,O,79243,W James St & Washington Ave N,40,XNT,0.2,0.7,8.6,2,6.3
+241,150,I,57462,64th Ave S & S 231st St,8,AM,0,0.3,15.8,0.1,5.6
+241,150,I,57462,64th Ave S & S 231st St,8,MID,0,0,15.4,0.7,0.6
+241,150,I,57462,64th Ave S & S 231st St,8,PM,0.2,0,11.3,2.7,0
+241,150,I,57462,64th Ave S & S 231st St,8,XEV,0.1,0,11.3,0.5,0
+241,150,I,57462,64th Ave S & S 231st St,8,XNT,0.1,0,11.6,0.4,0
+241,150,O,59330,Andover Park W & Corporate Dr N,18,AM,0,0.7,18.5,0.2,8.5
+241,150,O,59330,Andover Park W & Corporate Dr N,18,MID,0.1,0.6,13.7,3.3,14.8
+241,150,O,59330,Andover Park W & Corporate Dr N,18,PM,0.2,0.3,16.2,2.9,5
+241,150,O,59330,Andover Park W & Corporate Dr N,18,XEV,0.1,0.1,16.8,1,0.8
+241,150,O,59330,Andover Park W & Corporate Dr N,18,XNT,0,0.1,11.4,0.2,0.5
+241,150,I,99252,SODO Busway & S Spokane St,35,AM,0.4,2.1,12.6,6.4,30.9
+241,150,I,99252,SODO Busway & S Spokane St,35,MID,0.4,1,16.6,9.7,23.1
+241,150,I,99252,SODO Busway & S Spokane St,35,PM,1,1.6,21.1,16.2,25.6
+241,150,I,99252,SODO Busway & S Spokane St,35,XEV,0.2,1.2,21.1,1.7,8.5
+241,150,I,99252,SODO Busway & S Spokane St,35,XNT,0.2,0.7,13.3,0.7,2.7
+241,150,I,58104,Southcenter Blvd & 65th Ave S,30,AM,0.2,0,10.7,3.7,0.1
+241,150,I,58104,Southcenter Blvd & 65th Ave S,30,MID,0.3,0.1,16.2,6.2,1.6
+241,150,I,58104,Southcenter Blvd & 65th Ave S,30,PM,0.3,0.1,20.3,4.5,1.4
+241,150,I,58104,Southcenter Blvd & 65th Ave S,30,XEV,0.2,0.1,22.7,1.2,0.4
+241,150,I,58104,Southcenter Blvd & 65th Ave S,30,XNT,0.1,0,12.9,0.3,0.1
+241,150,O,58134,West Valley Hwy & Todd Blvd,23,AM,0.1,0.8,12.3,1.4,9.7
+241,150,O,58134,West Valley Hwy & Todd Blvd,23,MID,0.1,0.2,10,2.9,4.3
+241,150,O,58134,West Valley Hwy & Todd Blvd,23,PM,0.2,0.1,15.5,2.9,1
+241,150,O,58134,West Valley Hwy & Todd Blvd,23,XEV,0.1,0.2,16.5,0.5,1.6
+241,150,O,58134,West Valley Hwy & Todd Blvd,23,XNT,0.1,0.1,10.9,0.8,0.7
+241,150,I,60400,Andover Park W & Midland Dr,24,AM,0,0.3,11.3,0.1,5.9
+241,150,I,60400,Andover Park W & Midland Dr,24,MID,0.3,0.1,17.6,8.3,2
+241,150,I,60400,Andover Park W & Midland Dr,24,PM,0.5,0.1,19.6,8.2,0.8
+241,150,O,340,2nd Ave & Marion St,3,AM,1.8,0.1,6.8,24.5,1.7
+241,150,I,60400,Andover Park W & Midland Dr,24,XEV,0.4,0.1,15.5,2.5,0.8
+241,150,I,60400,Andover Park W & Midland Dr,24,XNT,0.1,0,11.7,0.5,0.1
+241,150,O,340,2nd Ave & Marion St,3,MID,2.2,0.1,7.9,54.3,1.4
+241,150,O,340,2nd Ave & Marion St,3,PM,3.9,0.1,12.4,59.2,1.4
+241,150,I,1190,Pike St & 6th Ave,44,AM,0,1.6,1.1,0,22.5
+241,150,I,1190,Pike St & 6th Ave,44,MID,0,1.7,0.9,0.4,41
+241,150,O,340,2nd Ave & Marion St,3,XEV,2.6,0.1,9.6,15.3,0.6
+241,150,I,1190,Pike St & 6th Ave,44,PM,0,1.6,1,0.5,24.8
+241,150,I,1190,Pike St & 6th Ave,44,XEV,0.1,1.7,1.2,0.5,11.6
+241,150,O,340,2nd Ave & Marion St,3,XNT,1.8,0,6.8,12.9,0.3
+241,150,I,58087,West Valley Hwy S & S 190th St,21,AM,0.2,1.1,11.7,3,18.2
+241,150,I,58087,West Valley Hwy S & S 190th St,21,MID,0.3,0.2,16.1,6.4,5.1
+241,150,I,58087,West Valley Hwy S & S 190th St,21,PM,1.1,0.1,16,17.2,0.9
+241,150,I,58087,West Valley Hwy S & S 190th St,21,XEV,0.4,0.5,12.9,2.4,3.2
+241,150,I,58087,West Valley Hwy S & S 190th St,21,XNT,0.6,0.1,10.3,2.3,0.3

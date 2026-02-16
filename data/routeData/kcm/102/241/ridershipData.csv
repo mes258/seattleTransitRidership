@@ -1,0 +1,159 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,102,O,79600,SW Sunset Blvd & Stevens Ave SW,13,PM,0,1.4,22.7,0.3,11.4
+241,102,O,361,2nd Ave & James St,4,PM,3.3,0.1,21.5,26.3,0.6
+241,102,I,79555,Martin L King Jr Way S & 68th Ave S,53,AM,2.1,0.1,23.7,18.9,1.1
+241,102,O,59612,SE Fairwood Blvd & SE 170th St,55,PM,0,0,0.5,0,0.2
+241,102,I,60162,SE Fairwood Blvd & SE 168th St,11,AM,0,0,0.9,0,0
+241,102,O,60010,Edmonds Ave SE & SE 16th St,24,PM,0,0.5,8.9,0.2,3.2
+241,102,I,60162,SE Fairwood Blvd & SE 168th St,11,XNT,0,0,1.8,0,0
+241,102,I,60156,SE Fairwood Blvd & SE 171st Pl,8,AM,0,0,0.7,0,0
+241,102,I,60156,SE Fairwood Blvd & SE 171st Pl,8,XNT,0,0,1.8,0,0
+241,102,O,55945,SE Fairwood Blvd & SE 169th Pl,49,PM,0,0,1.3,0,0
+241,102,O,59604,156th Ave SE & SE Fairwood Blvd,52,PM,0,0,0.7,0,0.1
+241,102,I,60158,156th Ave SE & SE Fairwood Blvd,10,AM,0.2,0,0.9,0.7,0
+241,102,I,60158,156th Ave SE & SE Fairwood Blvd,10,XNT,0,0,1.8,0,0
+241,102,O,59568,161st Ave SE & SE 176th Pl,46,PM,0,0,1.3,0,0.1
+241,102,I,60155,SE Fairwood Blvd & SE 170th St,7,AM,0,0,0.7,0,0
+241,102,I,60155,SE Fairwood Blvd & SE 170th St,7,XNT,0,0,1.8,0,0
+241,102,I,60168,SE 179th St & 156th Pl SE,19,AM,0,0,1.8,0,0
+241,102,I,60168,SE 179th St & 156th Pl SE,19,XNT,0.1,0,2.5,0.1,0
+241,102,O,59606,SE Fairwood Blvd & SE 171st Pl,54,PM,0,0.2,0.6,0,1.3
+241,102,I,660,4th Ave & Madison St,62,AM,0,5.6,11.1,0,50.6
+241,102,I,59810,S Puget Dr & Benson Rd S,44,AM,1.7,0,16.9,8.6,0
+241,102,O,59555,SE Petrovitsky Rd & 134th Ave SE,36,PM,0,0.4,5,0,2.6
+241,102,O,59567,161st Ave SE & SE 179th St,45,PM,0,0.1,1.3,0,0.7
+241,102,I,59772,Puget Dr SE & SE 16th Pl,41,AM,0.1,0,12.3,0.7,0
+241,102,I,60175,SE Petrovitsky Rd & SE 176th St,24,AM,0.8,0,4.5,3.2,0
+241,102,I,60175,SE Petrovitsky Rd & SE 176th St,24,XNT,1,0,5.1,1,0
+241,102,I,620,4th Ave S & S Jackson St,60,AM,2.5,2.7,21.3,22.8,24.5
+241,102,I,99264,SODO Busway & S Holgate St,57,AM,0.1,0.6,21.7,0.5,5.5
+241,102,I,60166,SE 179th St & 160th Ave SE,17,AM,0.1,0,1.5,0.2,0
+241,102,O,1215,Union St & 5th Ave,1,PM,7.5,0,8,60.3,0
+241,102,I,60166,SE 179th St & 160th Ave SE,17,XNT,0,0,2,0,0
+241,102,I,60180,128th Ave SE & SE Petrovitsky Rd,27,AM,0.3,0,6.5,1,0
+241,102,I,60137,140th Way SE & SE 158th St,2,AM,0,0,0.2,0.1,0
+241,102,I,60180,128th Ave SE & SE Petrovitsky Rd,27,XNT,0,0,7.2,0,0
+241,102,I,60137,140th Way SE & SE 158th St,2,XNT,0,0,0.1,0,0
+241,102,O,59540,128th Ave SE & SE 172nd St,34,PM,0.1,0.5,5.6,0.3,2.8
+241,102,O,59561,SE Petrovitsky Rd & SE 176th St,38,PM,0,0.4,3.1,0.2,2.5
+241,102,O,59569,161st Ave SE & SE 173rd St,47,PM,0,0,1.3,0,0
+241,102,O,59615,SE Fairwood Blvd & 145th Ave SE,58,PM,0,0.1,0.5,0,0.3
+241,102,O,59971,S Puget Dr & Grant Ave S,21,PM,0,1.7,9.8,0.2,10.1
+241,102,O,59552,SE Petrovitsky Rd & 140th Ave SE,37,PM,0.1,1.7,3.4,0.4,10.2
+241,102,I,59554,161st Ave SE & SE 170th Pl,13,AM,0,0,1.3,0,0
+241,102,I,30635,4th Ave S & S Royal Brougham Way,59,AM,0,0.1,21.5,0.1,0.8
+241,102,I,59554,161st Ave SE & SE 170th Pl,13,XNT,0,0,2,0,0
+241,102,O,59480,SE 168th St & 120th Ave SE,29,PM,0,0.1,7.5,0,0.5
+241,102,I,60172,SE 179th St & 154th Ave SE,20,AM,0.4,0,2.2,1.7,0
+241,102,I,60172,SE 179th St & 154th Ave SE,20,XNT,0,0,2.5,0,0
+241,102,O,59605,SE Fairwood Blvd & 154th Pl SE,53,PM,0,0,0.7,0,0.1
+241,102,I,11130,Pike St & Convention Pl,65,AM,0.7,3,0,6.3,26.8
+241,102,I,60165,161st Ave SE & SE 176th Pl,16,AM,0.1,0,1.4,0.2,0
+241,102,I,60165,161st Ave SE & SE 176th Pl,16,XNT,0,0,2,0,0
+241,102,I,60202,128th Ave SE & SE 169th Pl,29,AM,0.6,0.2,7.1,2.4,0.6
+241,102,I,99300,Renton Maple Valley Rd & 131st Ave SE,1,AM,0.2,0,0.2,0.6,0
+241,102,I,60202,128th Ave SE & SE 169th Pl,29,XNT,0.1,0,8.3,0.1,0
+241,102,I,99300,Renton Maple Valley Rd & 131st Ave SE,1,XNT,0.1,0,0.1,0.1,0
+241,102,I,59785,S Puget Dr & Rolling Hills Ave SE,42,AM,0.9,0,13.2,4.6,0
+241,102,O,1230,Union St & 4th Ave,2,PM,4.7,0.1,12.4,37.5,1
+241,102,I,79540,SW Sunset Blvd & Oakesdale Ave SW,52,AM,0.4,0,21.7,3.9,0
+241,102,I,59720,Edmonds Ave SE & Edmonds Way SE,39,AM,1,0,12.2,4.8,0
+241,102,I,59830,Talbot Rd S & S Renton Village Pl,45,AM,0,0,16.9,0.1,0.1
+241,102,I,60154,SE Fairwood Blvd & 150th Ave SE,6,AM,0,0,0.7,0.1,0
+241,102,I,60154,SE Fairwood Blvd & 150th Ave SE,6,XNT,0,0,1.8,0,0
+241,102,O,55946,161st Ave SE & SE 171st Pl,48,PM,0,0,1.3,0,0
+241,102,O,59842,South Renton Park & Ride - Bay 1,17,PM,1.7,9.2,9.5,13.5,73.7
+241,102,O,59490,SE 168th St & 122nd Ave SE,30,PM,0,0.1,7.4,0,0.6
+241,102,O,59510,SE 168th St & 126th Ave SE,32,PM,0,0.5,6.5,0,2.8
+241,102,O,59562,SE Petrovitsky Rd & 143rd Ave SE,39,PM,0,0.2,2.8,0,1.4
+241,102,I,59800,S Puget Dr & Grant Ave S,43,AM,2,0,15.2,9.8,0
+241,102,I,55943,151st Ave SE & SE Petrovitsky Rd,22,AM,1,0,3.4,4.1,0
+241,102,I,55943,151st Ave SE & SE Petrovitsky Rd,22,XNT,1,0,3.6,1,0
+241,102,O,59603,SE Fairwood Blvd & SE 168th St,51,PM,0,0,0.8,0,0
+241,102,I,60177,SE Petrovitsky Rd & 134th Ave SE,26,AM,0.6,0,6.2,2.2,0
+241,102,O,60136,140th Way SE & SE 158th St,60,PM,0,0.2,0,0.2,1
+241,102,I,60177,SE Petrovitsky Rd & 134th Ave SE,26,XNT,0.7,0,7.2,0.7,0
+241,102,O,59565,SE 179th St & 156th Pl SE,43,PM,0,0.2,1.6,0,1
+241,102,I,60250,SE 168th St & 120th Ave SE,33,AM,0.2,0,8.7,0.9,0
+241,102,I,1190,Pike St & 6th Ave,64,AM,0,2.8,2.3,0.3,25.3
+241,102,O,59564,SE 179th St & 154th Ave SE,42,PM,0,0.3,1.8,0,1.6
+241,102,O,59974,Puget Dr SE & Jones Pl SE,22,PM,0,0.2,9.6,0,1.1
+241,102,I,79520,SW Sunset Blvd & Rainier Ave S,50,AM,2.3,0.3,20.5,18.4,2.3
+241,102,I,55938,South Renton Park & Ride - Bay 2,47,AM,8.8,0.4,19.6,70.2,2.9
+241,102,I,79520,SW Sunset Blvd & Rainier Ave S,50,XNT,2.2,0,15.5,2.2,0
+241,102,I,55938,South Renton Park & Ride - Bay 2,47,XNT,10.9,0,11.3,10.9,0
+241,102,I,59710,116th Ave SE & SE 20th Pl,38,AM,0.2,0,11.2,1,0
+241,102,O,59950,S Puget Dr & Talbot Rd S,19,PM,0,0.1,12.7,0,0.5
+241,102,I,60240,SE 168th St & 122nd Ave SE,32,AM,0.1,0,8.6,0.7,0
+241,102,I,59860,Rainier Ave S & S 7th St,48,AM,0.4,1.4,18.6,3.2,11.3
+241,102,I,59860,Rainier Ave S & S 7th St,48,XNT,1.2,0,12.5,1.2,0
+241,102,O,390,2nd Ave Ext S & S Jackson St,5,PM,3.3,2.1,22.7,26.2,16.5
+241,102,I,59870,Rainier Ave S & S 4th Pl,49,AM,0.3,0.3,18.6,2.2,2.4
+241,102,I,59870,Rainier Ave S & S 4th Pl,49,XNT,0.8,0,13.3,0.8,0
+241,102,O,59613,SE Fairwood Blvd & 150th Ave SE,56,PM,0,0,0.5,0,0.1
+241,102,O,60020,116th Ave SE & SE 20th Pl,25,PM,0,0.1,8.9,0,0.3
+241,102,O,59976,Puget Dr SE & SE 19th St,23,PM,0,0.2,9.4,0,1
+241,102,I,691,4th Ave & Union St,63,AM,0,6.1,5,0.2,55.1
+241,102,O,59500,SE 168th St & 124th Ave SE,31,PM,0,0.4,7,0,2.6
+241,102,I,60173,SE 179th St & 152nd Pl SE,21,AM,0.1,0,2.4,0.5,0
+241,102,I,60173,SE 179th St & 152nd Pl SE,21,XNT,0.1,0,2.6,0.1,0
+241,102,O,59938,Talbot Rd S & S Renton Village Pl,18,PM,0.2,0.1,12.7,1,0.8
+241,102,I,60163,SE Fairwood Blvd & 160th Pl SE,12,AM,0.4,0,1.3,1.7,0
+241,102,I,60163,SE Fairwood Blvd & 160th Pl SE,12,XNT,0.1,0,2,0.1,0
+241,102,O,99263,SODO Busway & S Lander St,8,PM,1.6,0.3,25.8,13.1,2.3
+241,102,I,640,4th Ave & James St,61,AM,0.1,4.7,16.7,0.9,42
+241,102,I,55944,161st Ave SE & SE 171st Pl,14,AM,0.1,0,1.4,0.4,0
+241,102,I,55944,161st Ave SE & SE 171st Pl,14,XNT,0,0,2,0,0
+241,102,O,99253,SODO Busway & S Spokane St,9,PM,1.9,0.3,27.4,15.1,2.3
+241,102,O,99271,SODO Busway & S Royal Brougham Way,6,PM,2,0.3,24.3,16,2.6
+241,102,O,55947,151st Ave SE & SE Petrovitsky Rd,40,PM,0,0.8,2.1,0,4.5
+241,102,O,59566,SE 179th St & 159th Ave SE,44,PM,0,0.1,1.5,0,0.6
+241,102,O,59520,128th Ave SE & SE 169th St,33,PM,0.1,0.6,6,0.4,3.5
+241,102,O,59550,128th Ave SE & SE Petrovitsky Rd,35,PM,0,0.2,5.5,0,1.1
+241,102,O,59902,S 7th St & Rainier Ave S,16,PM,0.5,1.2,17,3.9,9.8
+241,102,O,59563,SE 179th St & 152nd Pl SE,41,PM,0,0.1,2,0,0.6
+241,102,I,60153,SE Fairwood Blvd & 148th Ave SE,5,AM,0,0,0.7,0,0
+241,102,I,60153,SE Fairwood Blvd & 148th Ave SE,5,XNT,0,0,1.8,0,0
+241,102,O,99266,SODO Busway & S Holgate St,7,PM,0.4,0.2,24.5,3.2,1.7
+241,102,I,79560,Martin L King Jr Way S & S 129th St,54,AM,2.7,0.3,26.1,24.3,2.5
+241,102,O,79580,Martin L King Jr Way S & S 135th St,11,PM,1,2.3,24.6,7.6,18.5
+241,102,O,79590,SW Sunset Blvd & Oakesdale Ave SW,12,PM,0,0.6,24.1,0.1,5.1
+241,102,O,59616,SE Fairwood Blvd & 141st Ave SE,59,PM,0,0.3,0.2,0.1,1.8
+241,102,I,99254,SODO Busway & S Lander St,56,AM,0.4,2.7,22.3,3.6,24.6
+241,102,O,79610,SW Sunset Blvd & Hardie Ave SW,14,PM,0.4,4.4,18.7,3,35.3
+241,102,O,79570,Martin L King Jr Way S & S 129th St,10,PM,0.9,2.3,26,7.2,18.5
+241,102,I,59716,116th Ave SE & SE 164th St,36,AM,0.5,0,10.7,2.3,0
+241,102,I,60260,SE 168th St & 117th Ave SE,34,AM,0.3,0,9.1,1.6,0
+241,102,O,59614,SE Fairwood Blvd & 148th Ave SE,57,PM,0,0,0.5,0,0
+241,102,I,59712,116th Ave SE & SE 168th St,35,AM,1.2,0,10.3,6,0
+241,102,I,99267,SODO Busway & S Royal Brougham Way,58,AM,0.1,0.3,21.5,0.9,3
+241,102,I,60152,SE Fairwood Blvd & 145th Ave SE,4,AM,0,0,0.7,0,0
+241,102,I,60152,SE Fairwood Blvd & 145th Ave SE,4,XNT,0,0,1.8,0,0
+241,102,O,59460,SE 168th St & 116th Ave SE,28,PM,0.1,0.9,7.6,0.5,5.5
+241,102,O,59602,SE Fairwood Blvd & 160th Pl SE,50,PM,0,0.5,0.8,0,2.7
+241,102,I,59718,116th Ave SE & SE 160th St,37,AM,0.4,0,11,1.8,0
+241,102,I,60190,128th Ave SE & SE 172nd St,28,AM,0.2,0,6.6,0.7,0
+241,102,I,60190,128th Ave SE & SE 172nd St,28,XNT,1,0,8.2,1,0
+241,102,O,59891,Rainier Ave S & S 3rd Pl,15,PM,0.4,1.4,17.7,3.2,10.8
+241,102,O,60026,116th Ave SE & SE 164th St,27,PM,0.2,0.4,8.4,1.1,2.2
+241,102,I,79530,SW Sunset Blvd & Stevens Ave SW,51,AM,1.4,0,21.3,12.2,0
+241,102,I,60167,SE 179th St & 159th Ave SE,18,AM,0.3,0,1.8,1.3,0
+241,102,I,60167,SE 179th St & 159th Ave SE,18,XNT,0.5,0,2.5,0.5,0
+241,102,I,60185,SE Petrovitsky Rd & 140th Ave SE,25,AM,1.2,0,5.7,4.8,0
+241,102,I,60185,SE Petrovitsky Rd & 140th Ave SE,25,XNT,1.4,0,6.5,1.4,0
+241,102,I,59841,Sr 515 & South Grady Way,46,AM,1,0.2,17.6,4.8,0.8
+241,102,O,59960,S Puget Dr & Benson Rd S,20,PM,0.1,1.2,11.4,0.4,7.4
+241,102,I,60151,SE Fairwood Blvd & 141st Ave SE,3,AM,0.5,0.1,0.7,2.1,0.4
+241,102,I,60151,SE Fairwood Blvd & 141st Ave SE,3,XNT,1.8,0,1.8,1.8,0
+241,102,I,60157,SE Fairwood Blvd & 154th Pl SE,9,AM,0,0,0.7,0,0
+241,102,I,60157,SE Fairwood Blvd & 154th Pl SE,9,XNT,0,0,1.8,0,0
+241,102,I,60220,SE 168th St & 127th Ave SE,30,AM,0.6,0,7.9,3,0
+241,102,I,60230,SE 168th St & 125th Ave SE,31,AM,0.5,0,8.4,2.6,0
+241,102,I,99252,SODO Busway & S Spokane St,55,AM,0.2,1.8,24.5,2.1,16.4
+241,102,O,60022,116th Ave SE & SE 160th St,26,PM,0,0.3,8.6,0.1,2
+241,102,O,340,2nd Ave & Marion St,3,PM,6,0.1,18.3,48,0.9
+241,102,I,59724,Puget Dr SE & Royal Hills Dr SE,40,AM,0,0,12.2,0.1,0
+241,102,I,60164,161st Ave SE & SE 174th St,15,AM,0,0,1.4,0,0
+241,102,I,60164,161st Ave SE & SE 174th St,15,XNT,0,0,2,0,0
+241,102,I,60174,SE Petrovitsky Rd & SE 176th St,23,AM,0.4,0,3.7,1.4,0
+241,102,I,60174,SE Petrovitsky Rd & SE 176th St,23,XNT,0.5,0,4.1,0.5,0

@@ -1,0 +1,11 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,981,O,81294,1st Ave NE & NE 140th St,2,PM,8.1,0.2,19.2,8.1,0.2
+241,981,O,67655,Bellevue Transit Center - Bay 8,8,PM,0,1.2,3.3,0,1.2
+241,981,O,64140,N Mercer Way & 80th Ave SE - Bay 1,10,XEV,0,1.7,0,0,1.7
+241,981,O,76870,NE Bothell Way & 68th Ave NE,4,PM,3.4,0.1,22.6,3.4,0.1
+241,981,O,82687,I-405 & Totem Lake Freeway Station - Bay 1,5,PM,0.2,2.2,20.6,0.2,2.2
+241,981,O,74450,South Kirkland Park & Ride,6,PM,0.2,12.5,8.3,0.2,12.5
+241,981,O,82718,I-405 & SE 8th St,9,XEV,0.1,1.9,1.5,0.1,1.9
+241,981,O,75304,NE 135th St & 1st Ave NE,1,PM,11.8,0,11.9,11.8,0
+241,981,O,76820,Bothell Way NE & NE 170th St,3,PM,0.1,0,19.3,0.1,0
+241,981,O,74463,112th Ave NE & NE 19 St,7,PM,0,3.9,4.4,0,3.9

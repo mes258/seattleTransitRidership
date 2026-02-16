@@ -1,0 +1,386 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,32,O,18660,W Nickerson St & Jesse Ave W,30,AM,0.4,0.1,8.7,2.6,0.3
+241,32,O,18660,W Nickerson St & Jesse Ave W,30,MID,0.1,0.1,6.3,1.7,1.1
+241,32,O,18660,W Nickerson St & Jesse Ave W,30,PM,0.1,0.4,9.7,0.9,4.9
+241,32,I,14038,W Mercer St & 3rd Ave W,3,AM,2.1,0,4.4,17.1,0.3
+241,32,O,18660,W Nickerson St & Jesse Ave W,30,XEV,0,0.2,6.6,0.2,1.2
+241,32,I,14038,W Mercer St & 3rd Ave W,3,MID,1.7,0.1,4.7,19.9,0.9
+241,32,I,14038,W Mercer St & 3rd Ave W,3,PM,2.2,0.1,5.9,22.4,1.2
+241,32,O,18660,W Nickerson St & Jesse Ave W,30,XNT,0,0.2,3,0,1.5
+241,32,I,14038,W Mercer St & 3rd Ave W,3,XEV,1.5,0.1,5.1,8.8,0.5
+241,32,I,29952,NE 45th St & 42nd Ave NE,36,AM,0,1.5,4.7,0,8.9
+241,32,I,14038,W Mercer St & 3rd Ave W,3,XNT,0.4,0,3.1,3,0.2
+241,32,I,29952,NE 45th St & 42nd Ave NE,36,MID,0,0.2,2.1,0.1,2
+241,32,O,18670,W Nickerson St & 11th Ave W,31,AM,0.1,0.4,8.4,0.3,2.5
+241,32,I,29952,NE 45th St & 42nd Ave NE,36,PM,0,0.3,1.8,0,2.7
+241,32,I,29952,NE 45th St & 42nd Ave NE,36,XEV,0,0.1,1.5,0,0.4
+241,32,O,18670,W Nickerson St & 11th Ave W,31,MID,0.1,0.2,6.2,0.7,2.6
+241,32,I,29952,NE 45th St & 42nd Ave NE,36,XNT,0,0.1,0.7,0,0.6
+241,32,O,18670,W Nickerson St & 11th Ave W,31,PM,0.2,0.4,9.6,2.6,3.9
+241,32,O,13830,15th Ave W & W Wheeler St,34,AM,0.2,0.2,7.9,1,1.3
+241,32,O,13830,15th Ave W & W Wheeler St,34,MID,0.1,0.3,5.9,1.8,3.6
+241,32,O,18650,W Nickerson St & 8th Ave W,29,AM,0.2,0,8.3,1.1,0
+241,32,O,18670,W Nickerson St & 11th Ave W,31,XEV,0.1,0.3,6.5,0.3,1.5
+241,32,O,13830,15th Ave W & W Wheeler St,34,PM,0.2,0.6,7.6,2.2,6.3
+241,32,O,13830,15th Ave W & W Wheeler St,34,XEV,0.1,0.4,5.1,0.4,2.2
+241,32,O,18650,W Nickerson St & 8th Ave W,29,MID,0,0,6.3,0.4,0.3
+241,32,O,18670,W Nickerson St & 11th Ave W,31,XNT,0,0.1,3,0,0.4
+241,32,O,13830,15th Ave W & W Wheeler St,34,XNT,0.1,0.2,2.9,0.4,1.1
+241,32,O,18650,W Nickerson St & 8th Ave W,29,PM,0,0.1,10.1,0.3,0.7
+241,32,I,26940,Wallingford Ave N & N 37th St,23,AM,0.3,0,11.3,2.3,0.3
+241,32,O,18650,W Nickerson St & 8th Ave W,29,XEV,0,0.1,6.8,0.2,0.3
+241,32,I,26940,Wallingford Ave N & N 37th St,23,MID,0.3,0.2,11,3.8,2.5
+241,32,I,26940,Wallingford Ave N & N 37th St,23,PM,0.2,0.4,14.8,2.4,3.8
+241,32,O,18650,W Nickerson St & 8th Ave W,29,XNT,0,0,3.2,0.1,0.2
+241,32,I,26940,Wallingford Ave N & N 37th St,23,XEV,0.2,0.2,13.3,0.9,0.9
+241,32,I,26940,Wallingford Ave N & N 37th St,23,XNT,0.1,0.1,5.3,0.8,0.4
+241,32,I,29891,NE 45th St & 19th Ave NE,31,AM,0.7,0.6,8.4,4.7,4.2
+241,32,I,29891,NE 45th St & 19th Ave NE,31,MID,1.1,1.2,8.6,12.6,14.6
+241,32,I,14150,15th Ave W & W Armour St,8,AM,0.5,0,5.8,4,0
+241,32,I,29891,NE 45th St & 19th Ave NE,31,PM,1.1,1.8,10.6,11.4,18.1
+241,32,I,14150,15th Ave W & W Armour St,8,MID,0.3,0.1,5.9,4.1,0.6
+241,32,I,29891,NE 45th St & 19th Ave NE,31,XEV,0.7,1.8,5.9,4.2,10.7
+241,32,I,14150,15th Ave W & W Armour St,8,PM,0.3,0.1,9,3.3,1.1
+241,32,I,29891,NE 45th St & 19th Ave NE,31,XNT,0.2,1.1,2.3,1.3,8.7
+241,32,I,14150,15th Ave W & W Armour St,8,XEV,0.1,0.1,6.4,0.8,0.6
+241,32,I,14150,15th Ave W & W Armour St,8,XNT,0.1,0.1,3.5,0.5,0.8
+241,32,O,13890,Elliott Ave W & W Prospect St,37,AM,0,1.7,4.5,0.1,8.6
+241,32,O,13890,Elliott Ave W & W Prospect St,37,MID,0.1,0.9,5.1,1.9,12.4
+241,32,O,13890,Elliott Ave W & W Prospect St,37,PM,0.5,0.2,7.6,5,2.2
+241,32,O,13890,Elliott Ave W & W Prospect St,37,XEV,0.2,0.3,5.3,1,1.7
+241,32,O,26430,Wallingford Ave N & N 37th St,18,AM,0.3,0.2,12.3,1.8,1.1
+241,32,O,13890,Elliott Ave W & W Prospect St,37,XNT,0.1,0.1,3,0.7,0.9
+241,32,O,26430,Wallingford Ave N & N 37th St,18,MID,0.2,0.2,11.9,2.1,3
+241,32,I,18230,W Nickerson St & Queen Anne Ave N,15,AM,0.4,0.2,9.3,3.1,1.5
+241,32,O,9605,Roosevelt Way NE & NE 45th St,10,AM,1.5,0.6,8.9,10.7,4.4
+241,32,O,26430,Wallingford Ave N & N 37th St,18,PM,0.2,0.4,15.5,1.6,3.8
+241,32,I,18230,W Nickerson St & Queen Anne Ave N,15,MID,0.4,0.1,8.1,4.4,1.5
+241,32,O,29110,NE 45th St & 40th Ave NE,3,AM,0.8,0,2,6.6,0.2
+241,32,I,18230,W Nickerson St & Queen Anne Ave N,15,PM,0.4,0.3,10.9,4.3,2.7
+241,32,O,9605,Roosevelt Way NE & NE 45th St,10,MID,1.7,0.9,10,22.2,11.1
+241,32,O,26430,Wallingford Ave N & N 37th St,18,XEV,0,0.3,10.5,0.2,1.7
+241,32,I,18230,W Nickerson St & Queen Anne Ave N,15,XEV,0.2,0.1,7,0.9,0.6
+241,32,O,29110,NE 45th St & 40th Ave NE,3,MID,0.5,0,2.6,6.5,0
+241,32,I,18230,W Nickerson St & Queen Anne Ave N,15,XNT,0.1,0.1,3.4,0.4,0.5
+241,32,O,9605,Roosevelt Way NE & NE 45th St,10,PM,1.9,1.8,13.7,19.4,18.2
+241,32,O,26430,Wallingford Ave N & N 37th St,18,XNT,0.1,0.2,3.8,0.6,1.2
+241,32,O,29110,NE 45th St & 40th Ave NE,3,PM,0.9,0,4.9,9.4,0.1
+241,32,O,9605,Roosevelt Way NE & NE 45th St,10,XEV,1.4,1.7,11,9.7,11.8
+241,32,O,29110,NE 45th St & 40th Ave NE,3,XEV,0.6,0,2.3,3.6,0
+241,32,O,9605,Roosevelt Way NE & NE 45th St,10,XNT,0.7,0.5,4.3,4.1,3
+241,32,O,29110,NE 45th St & 40th Ave NE,3,XNT,0.3,0,1.3,1.9,0
+241,32,I,14110,15th Ave W & W Newton St,6,AM,0.4,0.2,4.5,3.1,1.8
+241,32,I,14110,15th Ave W & W Newton St,6,MID,0.7,0.2,5.4,8.2,2.5
+241,32,I,14110,15th Ave W & W Newton St,6,PM,1.2,0.3,8.6,11.8,2.6
+241,32,O,26369,NE 40th St & 1st Ave NE,13,AM,0.5,0.2,12.4,3.4,1.1
+241,32,O,18600,Nickerson St & 3rd Ave N,24,AM,0,0.2,9.3,0.2,0.9
+241,32,I,14110,15th Ave W & W Newton St,6,XEV,1.1,0.2,6.4,6.4,1.4
+241,32,I,14110,15th Ave W & W Newton St,6,XNT,0.4,0.2,3.6,3.1,1.3
+241,32,O,26369,NE 40th St & 1st Ave NE,13,MID,0.4,0.2,12.3,5.2,2.5
+241,32,O,18600,Nickerson St & 3rd Ave N,24,MID,0.1,0.3,7.5,1.9,3.9
+241,32,O,26369,NE 40th St & 1st Ave NE,13,PM,0.4,0.5,16.4,3.7,5.3
+241,32,O,18600,Nickerson St & 3rd Ave N,24,PM,0.3,0.5,12.4,3,5.2
+241,32,O,26369,NE 40th St & 1st Ave NE,13,XEV,0.2,0.4,11.7,1,2.2
+241,32,O,18600,Nickerson St & 3rd Ave N,24,XEV,0.1,0.3,8.2,0.7,1.8
+241,32,O,26369,NE 40th St & 1st Ave NE,13,XNT,0,0.2,4.3,0.2,1.2
+241,32,O,18600,Nickerson St & 3rd Ave N,24,XNT,0.1,0.1,3.7,0.4,0.4
+241,32,O,18620,Nickerson St & Cremona St,26,AM,0.1,0.6,8.9,0.6,3.3
+241,32,O,18620,Nickerson St & Cremona St,26,MID,0.1,0.4,7.1,1.6,4.8
+241,32,O,18620,Nickerson St & Cremona St,26,PM,0.2,0.3,12,1.8,3.1
+241,32,I,18180,W Nickerson St & 12th Ave W,10,AM,0.4,0.1,7.3,2.9,0.9
+241,32,I,18180,W Nickerson St & 12th Ave W,10,MID,0.3,0.1,6.9,3.3,1.7
+241,32,O,18620,Nickerson St & Cremona St,26,XEV,0.1,0.3,7.8,0.3,1.5
+241,32,I,18180,W Nickerson St & 12th Ave W,10,PM,0.3,0.2,9.8,3.4,1.5
+241,32,I,18180,W Nickerson St & 12th Ave W,10,XEV,0.2,0.1,6.6,1.2,0.7
+241,32,O,18620,Nickerson St & Cremona St,26,XNT,0,0.1,3.6,0.2,0.6
+241,32,I,18180,W Nickerson St & 12th Ave W,10,XNT,0.1,0.2,3.2,0.7,1.1
+241,32,O,29100,NE 45th St & 42nd Ave NE,2,AM,0.3,0,1.2,2.3,0.1
+241,32,O,29100,NE 45th St & 42nd Ave NE,2,MID,0.2,0.1,2.1,2.7,0.6
+241,32,O,29100,NE 45th St & 42nd Ave NE,2,PM,0.7,0,4,7.7,0
+241,32,O,29100,NE 45th St & 42nd Ave NE,2,XEV,0.4,0,1.7,2.1,0
+241,32,O,29100,NE 45th St & 42nd Ave NE,2,XNT,0.1,0,0.9,0.6,0
+241,32,O,26400,N 40th St & Wallingford Ave N,16,AM,0.4,0.8,12.1,2.6,5.8
+241,32,O,26400,N 40th St & Wallingford Ave N,16,MID,0.3,0.4,12.1,4.1,5.8
+241,32,I,14070,Elliott Ave W & W Prospect St,4,AM,0.3,0.2,4.5,2.7,1.8
+241,32,O,26400,N 40th St & Wallingford Ave N,16,PM,0.8,0.9,16.1,7.8,9.4
+241,32,I,14070,Elliott Ave W & W Prospect St,4,MID,0.4,0.2,4.8,4.8,2.8
+241,32,I,14070,Elliott Ave W & W Prospect St,4,PM,1.5,0.1,7.3,14.5,1
+241,32,O,26400,N 40th St & Wallingford Ave N,16,XEV,0.2,0.5,11.1,1.3,3.2
+241,32,I,14070,Elliott Ave W & W Prospect St,4,XEV,0.4,0,5.3,2.2,0.1
+241,32,I,18190,W Nickerson St & Jesse Ave W,11,AM,0.5,0,7.8,4.3,0
+241,32,O,11356,NE 45th St & 17th Ave NE,8,AM,0.2,0.5,7.5,1.7,3.2
+241,32,I,14070,Elliott Ave W & W Prospect St,4,XNT,0.1,0,3.2,1,0.1
+241,32,I,18190,W Nickerson St & Jesse Ave W,11,MID,0.2,0.1,7,1.8,0.7
+241,32,O,26400,N 40th St & Wallingford Ave N,16,XNT,0,0.1,4,0.3,1
+241,32,I,18190,W Nickerson St & Jesse Ave W,11,PM,0.1,0.3,9.7,1.3,2.6
+241,32,O,11356,NE 45th St & 17th Ave NE,8,MID,0.7,0.6,9,9.6,7.8
+241,32,I,18190,W Nickerson St & Jesse Ave W,11,XEV,0.1,0.3,6.4,0.4,1.5
+241,32,O,26460,N 35th St & Woodlawn Ave N,20,AM,0.1,0.3,13.1,0.3,1.8
+241,32,O,26370,N 40th St & Eastern Ave N,14,AM,0.1,0,12.5,1,0.2
+241,32,I,18190,W Nickerson St & Jesse Ave W,11,XNT,0,0.1,3.2,0.1,0.4
+241,32,O,11356,NE 45th St & 17th Ave NE,8,PM,1,1.1,15.3,11.2,12.1
+241,32,O,26460,N 35th St & Woodlawn Ave N,20,MID,0.1,0.2,11.4,0.7,3.2
+241,32,O,26370,N 40th St & Eastern Ave N,14,MID,0.1,0.1,12.3,1.4,1.4
+241,32,O,11356,NE 45th St & 17th Ave NE,8,XEV,0.6,0.9,11.8,3.6,5.4
+241,32,O,26460,N 35th St & Woodlawn Ave N,20,PM,0.1,0.3,13.6,1,3.4
+241,32,O,26370,N 40th St & Eastern Ave N,14,PM,0.1,0.2,16.3,1.1,2.2
+241,32,O,11356,NE 45th St & 17th Ave NE,8,XNT,0.1,0.2,3.3,0.7,0.9
+241,32,O,26460,N 35th St & Woodlawn Ave N,20,XEV,0.1,0.2,9.5,0.3,1.2
+241,32,O,26370,N 40th St & Eastern Ave N,14,XEV,0.1,0.2,11.6,0.4,1.2
+241,32,O,26460,N 35th St & Woodlawn Ave N,20,XNT,0,0.1,3.5,0.1,0.4
+241,32,O,26370,N 40th St & Eastern Ave N,14,XNT,0,0.1,4.2,0,0.5
+241,32,I,14170,15th Ave W & W Dravus St,9,XEV,0.5,0.5,6.5,3.2,2.7
+241,32,O,5402,NE 42nd St & 8th Ave NE,12,XNT,0.1,0.6,4.1,0.7,3.6
+241,32,O,25202,NE 45th St & University Village,6,XEV,9.7,0.2,13.3,58.2,1.3
+241,32,I,14170,15th Ave W & W Dravus St,9,XNT,0.3,0.5,3.3,2.1,3.5
+241,32,O,25202,NE 45th St & University Village,6,XNT,1.6,0.1,3.2,9.4,0.5
+241,32,O,26410,Wallingford Ave N & N 39th St,17,AM,0.1,0.1,12.2,1,0.4
+241,32,O,26410,Wallingford Ave N & N 39th St,17,MID,0.1,0.2,12,1.3,3.2
+241,32,O,26410,Wallingford Ave N & N 39th St,17,PM,0.1,0.4,15.8,0.6,3.9
+241,32,O,26410,Wallingford Ave N & N 39th St,17,XEV,0,0.3,10.7,0,2
+241,32,O,26410,Wallingford Ave N & N 39th St,17,XNT,0,0.1,3.9,0,0.9
+241,32,O,13800,15th Ave W & W Dravus St,32,AM,0.5,0.9,8,2.8,5.1
+241,32,O,13800,15th Ave W & W Dravus St,32,MID,0.4,0.6,6,5.5,7.9
+241,32,O,13800,15th Ave W & W Dravus St,32,PM,0.5,1.7,8.4,5.5,18.8
+241,32,O,13800,15th Ave W & W Dravus St,32,XEV,0.5,1.3,5.7,2.9,7.8
+241,32,O,13800,15th Ave W & W Dravus St,32,XNT,0.9,0.7,3.1,6,4.8
+241,32,O,13810,15th Ave W & W Armour St,33,AM,0.1,0.1,7.9,0.6,0.6
+241,32,O,13810,15th Ave W & W Armour St,33,MID,0.1,0.2,6,1.9,2.5
+241,32,O,13810,15th Ave W & W Armour St,33,PM,0.1,0.5,8,1.5,5.6
+241,32,O,13810,15th Ave W & W Armour St,33,XEV,0.1,0.3,5.4,0.3,1.7
+241,32,O,13810,15th Ave W & W Armour St,33,XNT,0,0.1,3,0.1,0.9
+241,32,O,2180,Queen Anne Ave N & W Harrison St,40,AM,0,1.3,0,0.1,6.7
+241,32,O,2180,Queen Anne Ave N & W Harrison St,40,MID,0.3,1.7,0,4.3,24.2
+241,32,O,2180,Queen Anne Ave N & W Harrison St,40,PM,0,1.7,0,0.4,16.8
+241,32,O,2180,Queen Anne Ave N & W Harrison St,40,XEV,0,1.2,0,0.1,8.4
+241,32,O,2180,Queen Anne Ave N & W Harrison St,40,XNT,0.1,0.8,0,0.4,5.4
+241,32,O,26450,N 35th St & Wallingford Ave N,19,AM,0.5,0.8,12.7,2.9,5
+241,32,O,26450,N 35th St & Wallingford Ave N,19,MID,0.4,0.7,11.3,5.3,10.2
+241,32,O,26450,N 35th St & Wallingford Ave N,19,PM,0.6,1.3,14.8,5.5,13.1
+241,32,O,26450,N 35th St & Wallingford Ave N,19,XEV,0.4,1.1,9.9,2.4,6.3
+241,32,O,26450,N 35th St & Wallingford Ave N,19,XNT,0.1,0.3,3.6,0.8,2.4
+241,32,O,11358,U District Station - Bay 2,9,AM,3,2.5,8,21.1,17.5
+241,32,I,18220,W Nickerson St & 3rd Ave W,14,AM,1.2,0.3,9.1,9.3,2.1
+241,32,O,11358,U District Station - Bay 2,9,MID,3.4,3.3,9.1,44.1,42.8
+241,32,I,18220,W Nickerson St & 3rd Ave W,14,MID,0.9,0.2,7.9,11,2.7
+241,32,I,18220,W Nickerson St & 3rd Ave W,14,PM,1.1,0.3,10.8,11,3
+241,32,O,11358,U District Station - Bay 2,9,PM,4.3,5.9,13.6,46.8,65.4
+241,32,I,18220,W Nickerson St & 3rd Ave W,14,XEV,0.7,0.2,7,3.9,1.4
+241,32,I,18220,W Nickerson St & 3rd Ave W,14,XNT,0.3,0.1,3.4,2.1,0.4
+241,32,O,11358,U District Station - Bay 2,9,XEV,3.5,4.5,10.8,20.8,26.8
+241,32,O,11358,U District Station - Bay 2,9,XNT,1.6,0.8,4.1,9.4,4.7
+241,32,O,25202,NE 45th St & University Village,6,AM,1.5,0.1,5.6,11.9,1
+241,32,O,5402,NE 42nd St & 8th Ave NE,12,AM,1.5,0.1,12,10.6,0.6
+241,32,O,25202,NE 45th St & University Village,6,MID,4.1,0.2,8.5,49.1,2.5
+241,32,O,5402,NE 42nd St & 8th Ave NE,12,MID,1,0.5,12.1,13.1,7.1
+241,32,O,25202,NE 45th St & University Village,6,PM,8.5,0.4,15.3,93.1,4.2
+241,32,I,14130,15th Ave W & W Wheeler St,7,AM,0.9,0,5.3,7,0.1
+241,32,O,5402,NE 42nd St & 8th Ave NE,12,PM,1.3,0.9,16.6,12.5,8.7
+241,32,I,14130,15th Ave W & W Wheeler St,7,MID,0.3,0,5.6,3.4,0.5
+241,32,I,14130,15th Ave W & W Wheeler St,7,PM,0.3,0.1,8.8,3.2,0.9
+241,32,O,5402,NE 42nd St & 8th Ave NE,12,XEV,0.5,1.4,11,3.6,9.8
+241,32,I,14130,15th Ave W & W Wheeler St,7,XEV,0.1,0.1,6.4,0.7,0.8
+241,32,I,14130,15th Ave W & W Wheeler St,7,XNT,0,0.1,3.6,0.2,0.5
+241,32,I,26965,N 40th St & Wallingford Ave N,24,XEV,0.3,0.3,13.3,1.9,1.9
+241,32,I,26965,N 40th St & Wallingford Ave N,24,XNT,0.1,0.2,5.2,0.5,1.2
+241,32,I,14170,15th Ave W & W Dravus St,9,AM,1.4,0.1,7,10.8,0.8
+241,32,I,14170,15th Ave W & W Dravus St,9,MID,1,0.2,6.7,12.4,2.8
+241,32,I,14170,15th Ave W & W Dravus St,9,PM,1,0.4,9.6,10.1,4.2
+241,32,I,14090,Elliott Ave W & W Galer St,5,AM,0,0.3,4.3,0.2,2.5
+241,32,I,14090,Elliott Ave W & W Galer St,5,MID,0.1,0.1,4.9,1.6,0.8
+241,32,I,14090,Elliott Ave W & W Galer St,5,PM,0.4,0.1,7.7,4.3,0.8
+241,32,I,14090,Elliott Ave W & W Galer St,5,XEV,0.3,0.1,5.5,1.6,0.4
+241,32,I,26860,Fremont Ave N & N 34th St,18,AM,2,2.5,9.4,15.8,20
+241,32,I,14090,Elliott Ave W & W Galer St,5,XNT,0.2,0.1,3.3,1.1,0.5
+241,32,I,26860,Fremont Ave N & N 34th St,18,MID,2.5,1.8,9.2,30.2,21.3
+241,32,I,26860,Fremont Ave N & N 34th St,18,PM,3.8,2.4,12.5,37.8,24.3
+241,32,I,26860,Fremont Ave N & N 34th St,18,XEV,3.7,1.2,9.6,22.2,7
+241,32,I,26860,Fremont Ave N & N 34th St,18,XNT,1.4,0.5,4.4,10.1,3.3
+241,32,O,26490,N 35th St & Troll Ave N,22,AM,0.6,1.5,11.5,3.8,9.1
+241,32,O,26490,N 35th St & Troll Ave N,22,MID,0.5,1.8,9.7,6.6,24.8
+241,32,I,29889,NE 45th St & Memorial Way NE,30,AM,0.2,1.1,8.4,1.3,8
+241,32,O,26490,N 35th St & Troll Ave N,22,PM,0.5,2,12.4,4.5,20.3
+241,32,I,29889,NE 45th St & Memorial Way NE,30,MID,0.5,1.7,8.7,6,19.9
+241,32,I,29889,NE 45th St & Memorial Way NE,30,PM,0.7,0.9,11.2,6.9,9.2
+241,32,O,26490,N 35th St & Troll Ave N,22,XEV,0.4,1.6,8.2,2.5,9.5
+241,32,I,29889,NE 45th St & Memorial Way NE,30,XEV,0.4,0.7,7,2.5,4.1
+241,32,I,29889,NE 45th St & Memorial Way NE,30,XNT,0.1,0.4,3.2,0.8,3.1
+241,32,O,26490,N 35th St & Troll Ave N,22,XNT,0.1,0.3,3.5,0.6,2.1
+241,32,I,18240,Nickerson St & Warren Ave N,16,AM,0.4,0.1,9.6,3.5,0.8
+241,32,I,18240,Nickerson St & Warren Ave N,16,MID,0.3,0.1,8.3,4,1.7
+241,32,I,18240,Nickerson St & Warren Ave N,16,PM,0.3,0.2,11,3.3,2.3
+241,32,I,18240,Nickerson St & Warren Ave N,16,XEV,0.2,0.2,7.1,1.2,1.1
+241,32,I,18240,Nickerson St & Warren Ave N,16,XNT,0.1,0,3.4,0.4,0.2
+241,32,I,18250,Nickerson St & Florentia St,17,AM,0.3,0.1,9.9,2.5,0.4
+241,32,I,18250,Nickerson St & Florentia St,17,MID,0.3,0.1,8.5,3.1,0.6
+241,32,I,18250,Nickerson St & Florentia St,17,PM,0.2,0.2,11.1,2.2,1.5
+241,32,I,18250,Nickerson St & Florentia St,17,XEV,0.1,0.1,7,0.7,0.7
+241,32,I,18250,Nickerson St & Florentia St,17,XNT,0.1,0,3.4,0.5,0.3
+241,32,I,29930,NE 45th St & 36th Ave NE,34,AM,0.2,0.2,6.4,1.3,1.4
+241,32,I,29930,NE 45th St & 36th Ave NE,34,MID,0,0.5,2.8,0.3,6.5
+241,32,I,29930,NE 45th St & 36th Ave NE,34,PM,0,1,2.7,0.3,10
+241,32,I,29930,NE 45th St & 36th Ave NE,34,XEV,0,0.5,1.8,0.2,3
+241,32,I,29930,NE 45th St & 36th Ave NE,34,XNT,0,0.2,0.9,0,1.7
+241,32,O,29130,NE 45th St & 36th Ave NE,4,AM,1.1,0,3.1,9,0.1
+241,32,O,29130,NE 45th St & 36th Ave NE,4,MID,0.8,0.1,3.4,9.8,1.1
+241,32,O,29130,NE 45th St & 36th Ave NE,4,PM,0.8,0.1,5.6,9.2,0.6
+241,32,O,29130,NE 45th St & 36th Ave NE,4,XEV,0.7,0,3,4.4,0
+241,32,O,29130,NE 45th St & 36th Ave NE,4,XNT,0.2,0,1.5,1.4,0
+241,32,O,18610,Nickerson St & Warren Ave N,25,AM,0.3,0.3,9.4,2,1.5
+241,32,O,18610,Nickerson St & Warren Ave N,25,MID,0.1,0.2,7.4,1.4,2.9
+241,32,O,18610,Nickerson St & Warren Ave N,25,PM,0.2,0.4,12.2,2.7,4.9
+241,32,I,29950,NE 45th St & 40th Ave NE,35,AM,0.2,1.1,6.1,1.1,6.4
+241,32,I,29950,NE 45th St & 40th Ave NE,35,MID,0,0.6,2.3,0.2,7.7
+241,32,O,18610,Nickerson St & Warren Ave N,25,XEV,0.1,0.3,7.9,0.3,1.6
+241,32,I,29950,NE 45th St & 40th Ave NE,35,PM,0,0.6,2.1,0.2,6
+241,32,I,29950,NE 45th St & 40th Ave NE,35,XEV,0,0.3,1.6,0.1,1.8
+241,32,O,18610,Nickerson St & Warren Ave N,25,XNT,0,0.1,3.7,0.3,0.7
+241,32,I,29950,NE 45th St & 40th Ave NE,35,XNT,0,0.1,0.8,0,1.1
+241,32,I,26965,N 40th St & Wallingford Ave N,24,AM,1,0.5,11.7,7.1,3.6
+241,32,I,26965,N 40th St & Wallingford Ave N,24,MID,0.7,0.4,11.4,9.2,5.1
+241,32,I,26965,N 40th St & Wallingford Ave N,24,PM,1,0.6,15.2,10.1,6.4
+241,32,I,25201,NE 45th St & University Village,32,AM,0.1,1.5,7,0.4,10.7
+241,32,I,25201,NE 45th St & University Village,32,MID,0.2,4.7,4.1,2.6,56
+241,32,I,25201,NE 45th St & University Village,32,PM,0.3,6.2,4.6,2.5,62.2
+241,32,I,25201,NE 45th St & University Village,32,XEV,0.2,3.2,2.9,1.3,19.3
+241,32,I,25201,NE 45th St & University Village,32,XNT,0.1,1.1,1.3,0.9,8.7
+241,32,I,2361,Republican St & 1st Ave N,1,AM,0.7,0,0.7,5.9,0
+241,32,I,2361,Republican St & 1st Ave N,1,MID,1.7,0,1.7,22.7,0.4
+241,32,I,2361,Republican St & 1st Ave N,1,PM,1.9,0,2,17,0
+241,32,I,2361,Republican St & 1st Ave N,1,XEV,1.6,0,1.6,9.6,0
+241,32,I,2361,Republican St & 1st Ave N,1,XNT,1.3,0,1.3,9,0
+241,32,I,26980,N 40th St & Bagley Ave N,25,AM,0.3,0.1,12,2.3,0.4
+241,32,I,26980,N 40th St & Bagley Ave N,25,MID,0.3,0.1,11.3,3,1.6
+241,32,I,26980,N 40th St & Bagley Ave N,25,PM,0.3,0.3,15.3,3.3,3.4
+241,32,I,26980,N 40th St & Bagley Ave N,25,XEV,0.1,0.1,13,0.7,0.9
+241,32,I,26980,N 40th St & Bagley Ave N,25,XNT,0,0,5.1,0,0.2
+241,32,O,13870,Elliott Ave W & W Galer St,36,AM,0.1,0.5,6.2,0.4,2.5
+241,32,O,13870,Elliott Ave W & W Galer St,36,MID,0.1,0.2,5.8,1.7,2.7
+241,32,O,26510,Fremont Ave N & N 34th St,23,AM,1.1,3.1,9.4,6.5,18.3
+241,32,O,13870,Elliott Ave W & W Galer St,36,PM,0.3,0.3,7.3,3.3,3.1
+241,32,O,13870,Elliott Ave W & W Galer St,36,XEV,0.2,0.2,5.5,1.4,0.9
+241,32,O,26510,Fremont Ave N & N 34th St,23,MID,1.2,2.8,7.7,15.7,36.3
+241,32,O,13870,Elliott Ave W & W Galer St,36,XNT,0.1,0.2,3,0.8,1.5
+241,32,O,26510,Fremont Ave N & N 34th St,23,PM,3.4,3.4,12.5,37.6,37.2
+241,32,O,26510,Fremont Ave N & N 34th St,23,XEV,2.4,2.3,8.3,14.2,13.7
+241,32,O,26510,Fremont Ave N & N 34th St,23,XNT,1,0.7,3.8,7.1,5
+241,32,I,26885,N 35th St & Woodland Park Ave N,20,AM,0.8,0.6,10.5,6.7,4.4
+241,32,I,9630,11th Ave NE & NE 42nd St,28,AM,0.7,2.1,10.3,5.1,14.4
+241,32,I,26885,N 35th St & Woodland Park Ave N,20,MID,1,0.4,10.5,11.8,5.3
+241,32,I,9630,11th Ave NE & NE 42nd St,28,MID,0.8,2.1,10.4,9.8,25.7
+241,32,I,9630,11th Ave NE & NE 42nd St,28,PM,1,2.3,12.8,10,22.7
+241,32,I,26885,N 35th St & Woodland Park Ave N,20,PM,1.5,0.6,14.2,14.7,5.7
+241,32,I,9630,11th Ave NE & NE 42nd St,28,XEV,0.6,2.3,9.9,3.7,13.7
+241,32,I,9630,11th Ave NE & NE 42nd St,28,XNT,0.2,1.1,4.5,1.8,8.6
+241,32,I,26885,N 35th St & Woodland Park Ave N,20,XEV,1.8,0.3,11.8,11,1.8
+241,32,I,26885,N 35th St & Woodland Park Ave N,20,XNT,0.5,0.1,4.9,3.5,0.7
+241,32,O,13840,15th Ave W & W Armory Way,35,AM,0.2,1,7.2,1.3,6
+241,32,O,13840,15th Ave W & W Armory Way,35,MID,0.4,0.7,5.6,5.1,8.8
+241,32,O,13840,15th Ave W & W Armory Way,35,PM,0.5,0.9,7.2,5.8,9.9
+241,32,O,13840,15th Ave W & W Armory Way,35,XEV,0.6,0.3,5.4,3.3,1.6
+241,32,O,13840,15th Ave W & W Armory Way,35,XNT,0.3,0.1,3.1,2,0.9
+241,32,I,2370,Mercer St & Queen Anne Ave N,2,AM,1.7,0.1,2.4,13.4,0.4
+241,32,I,2370,Mercer St & Queen Anne Ave N,2,MID,1.6,0.2,3.1,19.3,2.1
+241,32,I,2370,Mercer St & Queen Anne Ave N,2,PM,2,0.1,3.8,20,1
+241,32,I,2370,Mercer St & Queen Anne Ave N,2,XEV,2.1,0,3.7,12.6,0.1
+241,32,I,2370,Mercer St & Queen Anne Ave N,2,XNT,1.5,0,2.8,10.5,0.2
+241,32,I,10911,U District Station - Bay 3,29,AM,2.2,3.2,9.3,15.1,22.1
+241,32,I,10911,U District Station - Bay 3,29,MID,3.3,3.9,9.9,39.7,46.2
+241,32,I,10911,U District Station - Bay 3,29,PM,5.7,7,11.5,56.7,70.4
+241,32,I,10911,U District Station - Bay 3,29,XEV,2.6,5.3,7.3,15.5,31.7
+241,32,I,10911,U District Station - Bay 3,29,XNT,1.2,2.2,3.5,9.3,17.6
+241,32,O,2672,Queen Anne Ave N & W Mercer St,39,AM,0,2.3,1.3,0.2,11.6
+241,32,O,2672,Queen Anne Ave N & W Mercer St,39,MID,0.2,2.9,1.3,2.5,40.2
+241,32,O,2672,Queen Anne Ave N & W Mercer St,39,PM,0.1,4.3,1.6,1.1,43.3
+241,32,O,2672,Queen Anne Ave N & W Mercer St,39,XEV,0.1,2.9,1.1,0.9,20.6
+241,32,O,2672,Queen Anne Ave N & W Mercer St,39,XNT,0.1,1.6,0.7,0.9,11.5
+241,32,O,26480,N 35th St & Stone Way N,21,AM,0.4,0.7,12.7,2.1,4.1
+241,32,O,26480,N 35th St & Stone Way N,21,MID,0.5,1.1,10.9,6.5,15
+241,32,O,26480,N 35th St & Stone Way N,21,PM,0.7,1.7,12.8,6.7,17.1
+241,32,I,18200,W Nickerson St & 8th Ave W,12,AM,0.1,0.1,7.8,0.9,0.8
+241,32,O,26480,N 35th St & Stone Way N,21,XEV,0.6,1.3,8.8,3.5,7.5
+241,32,I,18200,W Nickerson St & 8th Ave W,12,MID,0.1,0,7,0.6,0.3
+241,32,I,18200,W Nickerson St & 8th Ave W,12,PM,0.1,0.1,9.6,0.5,0.9
+241,32,O,26480,N 35th St & Stone Way N,21,XNT,0.2,0.2,3.5,1.7,1.6
+241,32,I,18200,W Nickerson St & 8th Ave W,12,XEV,0,0.1,6.3,0,0.4
+241,32,I,18200,W Nickerson St & 8th Ave W,12,XNT,0,0,3.2,0,0.1
+241,32,O,18640,W Nickerson St & 6th Ave W,28,AM,0,0.2,8.2,0,0.9
+241,32,O,18640,W Nickerson St & 6th Ave W,28,MID,0.1,0.1,6.3,1.3,1.3
+241,32,O,18640,W Nickerson St & 6th Ave W,28,PM,0.1,0.3,10.1,1.3,3.4
+241,32,O,18640,W Nickerson St & 6th Ave W,28,XEV,0.1,0.4,6.8,0.6,2.1
+241,32,O,18640,W Nickerson St & 6th Ave W,28,XNT,0,0.2,3.3,0,1.4
+241,32,O,26381,N 40th St & Bagley Ave N,15,AM,0.3,0.2,12.6,2.3,1.4
+241,32,O,26381,N 40th St & Bagley Ave N,15,MID,0.2,0.2,12.3,2.6,3.2
+241,32,O,26381,N 40th St & Bagley Ave N,15,PM,0.3,0.4,16.3,3.4,3.8
+241,32,O,26381,N 40th St & Bagley Ave N,15,XEV,0,0.3,11.4,0.2,1.7
+241,32,O,26381,N 40th St & Bagley Ave N,15,XNT,0,0.1,4.1,0.1,0.5
+241,32,O,29091,NE 45th St & 45th Ave NE,1,AM,1,0,1,7.9,0.2
+241,32,O,29091,NE 45th St & 45th Ave NE,1,MID,1.9,0,1.9,23.1,0
+241,32,O,29091,NE 45th St & 45th Ave NE,1,PM,3.3,0,3.4,36.8,0
+241,32,O,29091,NE 45th St & 45th Ave NE,1,XEV,1.4,0,1.4,8.2,0
+241,32,O,29091,NE 45th St & 45th Ave NE,1,XNT,0.8,0,0.8,5,0
+241,32,I,29091,NE 45th St & 45th Ave NE,37,AM,0,4.7,0,0,28
+241,32,I,29091,NE 45th St & 45th Ave NE,37,MID,0,2.1,0,0,27.6
+241,32,I,29091,NE 45th St & 45th Ave NE,37,PM,0,1.8,0,0.2,18.4
+241,32,I,29091,NE 45th St & 45th Ave NE,37,XEV,0,1.5,0,0,8.7
+241,32,I,29091,NE 45th St & 45th Ave NE,37,XNT,0,0.7,0,0.1,5.6
+241,32,I,18210,W Nickerson St & 6th Ave W,13,AM,0.5,0.1,8.2,3.8,0.5
+241,32,I,18210,W Nickerson St & 6th Ave W,13,MID,0.3,0.1,7.2,3.5,1.7
+241,32,I,18210,W Nickerson St & 6th Ave W,13,PM,0.5,0.1,10,4.8,1.3
+241,32,I,18210,W Nickerson St & 6th Ave W,13,XEV,0.4,0.2,6.6,2.1,1.2
+241,32,I,18210,W Nickerson St & 6th Ave W,13,XNT,0.1,0.2,3.1,1,1.1
+241,32,O,25200,NE 45th St & Union Bay Pl NE,5,AM,1.2,0,4.2,9.2,0.1
+241,32,O,25200,NE 45th St & Union Bay Pl NE,5,MID,1.3,0.1,4.6,15.1,0.7
+241,32,O,25200,NE 45th St & Union Bay Pl NE,5,PM,1.7,0.1,7.2,18.3,1.1
+241,32,O,25200,NE 45th St & Union Bay Pl NE,5,XEV,0.8,0,3.8,4.6,0
+241,32,O,25200,NE 45th St & Union Bay Pl NE,5,XNT,0.2,0,1.7,1,0
+241,32,I,26870,N 35th St & Troll Ave N,19,AM,0.9,0.1,10.2,7.4,0.4
+241,32,I,26870,N 35th St & Troll Ave N,19,MID,0.9,0.2,10,10.9,2
+241,32,I,26870,N 35th St & Troll Ave N,19,PM,1.2,0.4,13.3,12.4,4.2
+241,32,I,26870,N 35th St & Troll Ave N,19,XEV,0.9,0.3,10.2,5.2,1.6
+241,32,I,9612,NE 42nd St & 8th Ave NE,27,AM,0.8,1.7,11.6,5.9,11.8
+241,32,I,9612,NE 42nd St & 8th Ave NE,27,MID,1.4,1.1,11.8,17.2,12.9
+241,32,I,26870,N 35th St & Troll Ave N,19,XNT,0.2,0.1,4.5,1.5,0.9
+241,32,I,9612,NE 42nd St & 8th Ave NE,27,PM,1.1,2.3,14.1,10.9,23
+241,32,I,9612,NE 42nd St & 8th Ave NE,27,XEV,0.7,2.1,11.6,4.4,12.3
+241,32,I,9612,NE 42nd St & 8th Ave NE,27,XNT,0.3,1,5.4,2.3,7.7
+241,32,O,11357,NE 45th St & 20th Ave NE,7,AM,2.1,0.3,7.7,15,2.1
+241,32,O,11357,NE 45th St & 20th Ave NE,7,MID,1.9,1.1,8.9,24.6,13.9
+241,32,O,11357,NE 45th St & 20th Ave NE,7,PM,2.1,2,15.4,23.5,22.4
+241,32,O,11357,NE 45th St & 20th Ave NE,7,XEV,1.5,2.7,12.1,8.8,15.9
+241,32,O,11357,NE 45th St & 20th Ave NE,7,XNT,0.8,0.6,3.4,4.8,3.3
+241,32,O,9610,Roosevelt Way NE & NE 42nd St,11,AM,2.1,0.5,10.6,15,3.2
+241,32,O,9610,Roosevelt Way NE & NE 42nd St,11,MID,2.1,0.5,11.6,27.6,6.5
+241,32,O,9610,Roosevelt Way NE & NE 42nd St,11,PM,3.3,0.8,16.2,32.8,8
+241,32,O,9610,Roosevelt Way NE & NE 42nd St,11,XEV,1.8,0.9,11.9,12.9,6.1
+241,32,O,9610,Roosevelt Way NE & NE 42nd St,11,XNT,0.5,0.2,4.6,3,1.2
+241,32,O,13910,W Mercer St & 3rd Ave W,38,AM,0.2,1.1,3.6,0.9,5.7
+241,32,O,13910,W Mercer St & 3rd Ave W,38,MID,0.3,1.4,4,4.3,20.1
+241,32,O,13910,W Mercer St & 3rd Ave W,38,PM,0.2,2.1,5.8,2.3,20.7
+241,32,O,13910,W Mercer St & 3rd Ave W,38,XEV,0.1,1.7,4,0.8,12
+241,32,O,13910,W Mercer St & 3rd Ave W,38,XNT,0.1,0.9,2.2,0.5,6
+241,32,I,26999,N 40th St & Eastern Ave N,26,AM,0.6,0.1,12.5,4,0.8
+241,32,I,26999,N 40th St & Eastern Ave N,26,MID,0.5,0.4,11.4,5.7,4.2
+241,32,I,26999,N 40th St & Eastern Ave N,26,PM,0.4,0.4,15.3,3.5,4.1
+241,32,I,26999,N 40th St & Eastern Ave N,26,XEV,0.2,0.3,12.9,1.5,2.3
+241,32,I,26999,N 40th St & Eastern Ave N,26,XNT,0.1,0.2,5.1,0.7,1.1
+241,32,I,29920,NE 45th St & Mary Gates Memorial Dr NE,33,AM,0.1,0.7,6.4,0.8,5.1
+241,32,I,29920,NE 45th St & Mary Gates Memorial Dr NE,33,MID,0,0.8,3.4,0.5,9.5
+241,32,I,29920,NE 45th St & Mary Gates Memorial Dr NE,33,PM,0.1,1,3.7,0.6,9.6
+241,32,I,29920,NE 45th St & Mary Gates Memorial Dr NE,33,XEV,0,0.7,2.3,0.2,4.1
+241,32,I,29920,NE 45th St & Mary Gates Memorial Dr NE,33,XNT,0,0.2,1.1,0.2,1.9
+241,32,O,18630,W Nickerson St & 3rd Ave W,27,AM,0.3,1,8.3,1.9,5.7
+241,32,O,18630,W Nickerson St & 3rd Ave W,27,MID,0.3,1.1,6.3,3.4,14.3
+241,32,O,18630,W Nickerson St & 3rd Ave W,27,PM,0.5,2.2,10.3,5.2,24.5
+241,32,O,18630,W Nickerson St & 3rd Ave W,27,XEV,0.3,1,7.1,1.7,5.8
+241,32,O,18630,W Nickerson St & 3rd Ave W,27,XNT,0.1,0.2,3.4,0.6,1.7
+241,32,I,26901,N 35th St & Carr Pl N,21,AM,0.1,0.1,10.7,0.6,0.4
+241,32,I,26901,N 35th St & Carr Pl N,21,MID,0.2,0.1,10.4,2.8,0.7
+241,32,I,26901,N 35th St & Carr Pl N,21,PM,0.2,0.1,14.7,2.3,1.2
+241,32,I,26901,N 35th St & Carr Pl N,21,XEV,0.3,0.2,12.1,1.5,0.9
+241,32,I,26901,N 35th St & Carr Pl N,21,XNT,0,0,5.1,0.3,0.2
+241,32,I,26920,Wallingford Ave N & N 35th St,22,AM,0.7,0.5,11,5.1,3.3
+241,32,I,26920,Wallingford Ave N & N 35th St,22,MID,0.9,0.4,11,11.7,5.6
+241,32,I,26920,Wallingford Ave N & N 35th St,22,PM,1.4,0.7,15.2,13.8,6.5
+241,32,I,26920,Wallingford Ave N & N 35th St,22,XEV,2.2,0.6,13.7,13.3,3.6
+241,32,I,26920,Wallingford Ave N & N 35th St,22,XNT,0.5,0.2,5.6,3.8,1.3

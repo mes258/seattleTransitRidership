@@ -1,0 +1,80 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,56,I,15080,SW Admiral Way & 39th Ave SW,14,AM,0.9,0,21.6,2.6,0
+241,56,I,15080,SW Admiral Way & 39th Ave SW,14,MID,0.5,0,12.4,0.5,0
+241,56,O,15580,SW Admiral Way & 49th Ave SW,14,PM,0,0.8,8.4,0,2.4
+241,56,O,15580,SW Admiral Way & 49th Ave SW,14,XEV,0,0.2,3.1,0,0.2
+241,56,O,15651,63rd Ave SW & SW Admiral Way,19,PM,0,0.6,3.5,0,1.8
+241,56,O,15651,63rd Ave SW & SW Admiral Way,19,XEV,0,0.2,1.7,0,0.2
+241,56,I,14963,SW Admiral Way & 60th Ave SW,4,AM,0.9,0,7.2,2.6,0
+241,56,I,15120,SW Admiral Way & SW City View St,17,AM,0.1,0,22.8,0.4,0
+241,56,I,15120,SW Admiral Way & SW City View St,17,MID,0.2,0,14,0.2,0
+241,56,I,14963,SW Admiral Way & 60th Ave SW,4,MID,0.2,0,3.9,0.2,0
+241,56,I,15040,SW Admiral Way & 47th Ave SW,10,AM,1.5,0,12.3,4.6,0.1
+241,56,I,15040,SW Admiral Way & 47th Ave SW,10,MID,0.6,0,6,0.6,0
+241,56,O,15652,63rd Ave SW & Alki Ave SW,20,PM,0,0.8,2.7,0,2.5
+241,56,O,15652,63rd Ave SW & Alki Ave SW,20,XEV,0,0.6,1.1,0,0.6
+241,56,I,14980,SW Admiral Way & 57th Ave SW,6,AM,0.4,0,8,1.1,0
+241,56,I,14980,SW Admiral Way & 57th Ave SW,6,MID,0.2,0,4.4,0.2,0
+241,56,O,420,3rd Ave & Virginia St,2,PM,2.4,0.1,3.9,9.7,0.5
+241,56,I,15100,SW Admiral Way & SW Olga St,16,AM,0.8,0,22.7,2.4,0
+241,56,I,15100,SW Admiral Way & SW Olga St,16,MID,1.1,0,13.8,1.1,0
+241,56,O,431,3rd Ave & Pike St,3,PM,2.9,0.3,6.5,11.6,1.3
+241,56,O,1558,Columbia St & Alaskan Way,6,PM,1.2,0.4,14.1,4.8,1.7
+241,56,O,15630,SW Admiral Way & 57th Ave SW,17,PM,0,0.5,7,0,1.5
+241,56,O,15630,SW Admiral Way & 57th Ave SW,17,XEV,0,0.3,2.5,0,0.3
+241,56,O,15532,SW Admiral Way & 41st Ave SW,11,PM,0,4.5,12,0.1,13.6
+241,56,O,15532,SW Admiral Way & 41st Ave SW,11,XEV,0,1.6,4.6,0,1.6
+241,56,O,15540,SW Admiral Way & California Ave SW,12,PM,0.7,2.8,9.9,2.2,8.5
+241,56,O,15540,SW Admiral Way & California Ave SW,12,XEV,0.3,1.2,3.8,0.3,1.2
+241,56,O,1562,Alaskan Way S & S Jackson St,7,PM,1.6,0.2,15.3,6.3,0.8
+241,56,I,590,3rd Ave & Pine St,22,AM,0.8,6,0,2.4,18.1
+241,56,I,590,3rd Ave & Pine St,22,MID,0.9,4,0,0.9,4
+241,56,I,15002,SW Admiral Way & 51st Ave SW,8,AM,1,0,9.6,3,0
+241,56,I,1559,Alaskan Way & Columbia St,19,AM,0.7,1.9,19.9,2.2,5.7
+241,56,I,1559,Alaskan Way & Columbia St,19,MID,0.9,0.9,12.7,0.9,0.9
+241,56,I,15002,SW Admiral Way & 51st Ave SW,8,MID,0.4,0,4.8,0.4,0
+241,56,I,14961,61st Ave SW & SW Stevens St,2,AM,1.1,0,4.7,3.4,0
+241,56,I,15090,SW Admiral Way & Belvidere Ave SW,15,AM,0.3,0,21.9,1,0
+241,56,I,15090,SW Admiral Way & Belvidere Ave SW,15,MID,0.3,0,12.7,0.3,0
+241,56,I,14961,61st Ave SW & SW Stevens St,2,MID,0.9,0,2.8,0.9,0
+241,56,O,15500,SW Admiral Way & SW Olga St,9,PM,0,0.7,16.9,0,2.2
+241,56,O,15500,SW Admiral Way & SW Olga St,9,XEV,0,0.6,6.5,0,0.6
+241,56,I,15050,SW Admiral Way & 45th Ave SW,11,AM,1.4,0,13.6,4.1,0
+241,56,I,15050,SW Admiral Way & 45th Ave SW,11,MID,0.6,0,6.5,0.6,0
+241,56,O,15480,SW Admiral Way & SW City View St,8,PM,0,0.4,17.7,0,1.3
+241,56,O,15480,SW Admiral Way & SW City View St,8,XEV,0,0,7.1,0,0
+241,56,I,570,3rd Ave & Union St,21,AM,0.2,6.5,5.3,0.7,19.4
+241,56,I,570,3rd Ave & Union St,21,MID,0.1,4,3.1,0.1,4
+241,56,O,15521,SW Admiral Way & 38th Ave SW,10,PM,0,0.5,16.5,0,1.5
+241,56,O,15521,SW Admiral Way & 38th Ave SW,10,XEV,0,0.2,6.3,0,0.2
+241,56,O,481,3rd Ave & Columbia St,5,PM,3,0.2,13.2,11.9,0.7
+241,56,O,468,3rd Ave & Seneca St,4,PM,4.2,0.2,10.5,16.9,0.8
+241,56,O,400,3rd Ave & Bell St,1,PM,1.7,0.3,1.7,6.8,1
+241,56,I,548,3rd Ave & Madison St,20,AM,0.3,8.7,11.5,0.9,26.1
+241,56,I,548,3rd Ave & Madison St,20,MID,0.3,5.9,7.1,0.3,5.9
+241,56,O,15588,SW Admiral Way & 51st Ave SW,15,PM,0,0.4,8,0.1,1.2
+241,56,O,15588,SW Admiral Way & 51st Ave SW,15,XEV,0,0.2,2.9,0,0.2
+241,56,O,15610,SW Admiral Way & SW Lander St,16,PM,0,0.6,7.5,0,1.7
+241,56,O,15610,SW Admiral Way & SW Lander St,16,XEV,0,0.1,2.8,0,0.1
+241,56,I,14970,SW Admiral Way & 59th Ave SW,5,AM,0.5,0,7.6,1.4,0
+241,56,I,14970,SW Admiral Way & 59th Ave SW,5,MID,0.2,0,4.1,0.2,0
+241,56,I,15000,SW Admiral Way & SW Stevens St,7,AM,0.6,0,8.6,1.8,0
+241,56,I,15000,SW Admiral Way & SW Stevens St,7,MID,0,0,4.4,0,0
+241,56,I,14962,61st Ave SW & SW Admiral Way,3,AM,1.6,0,6.3,4.7,0
+241,56,I,14962,61st Ave SW & SW Admiral Way,3,MID,1,0.1,3.7,1,0.1
+241,56,I,1561,Alaskan Way S & S Jackson St,18,AM,0.2,2.1,21.3,0.5,6.4
+241,56,I,1561,Alaskan Way S & S Jackson St,18,MID,0.4,1.8,12.9,0.4,1.8
+241,56,I,14960,Alki Ave SW & 61st Ave SW,1,AM,3.7,0,3.7,11.1,0
+241,56,I,14960,Alki Ave SW & 61st Ave SW,1,MID,2,0,2,2,0
+241,56,O,14960,Alki Ave SW & 61st Ave SW,21,PM,0.1,2.8,0,0.4,8.3
+241,56,O,14960,Alki Ave SW & 61st Ave SW,21,XEV,0.2,1.3,0,0.2,1.3
+241,56,O,15650,SW Admiral Way & 61st Ave SW,18,PM,0,2.9,4.1,0.1,8.8
+241,56,O,15650,SW Admiral Way & 61st Ave SW,18,XEV,0,0.7,1.9,0,0.7
+241,56,I,15070,SW Admiral Way & 41st Ave SW,13,AM,2.1,0,20.7,6.2,0
+241,56,I,15070,SW Admiral Way & 41st Ave SW,13,MID,2.5,0,11.9,2.5,0
+241,56,I,15060,SW Admiral Way & California Ave SW,12,AM,5.1,0.1,18.6,15.4,0.4
+241,56,I,15060,SW Admiral Way & California Ave SW,12,MID,3.2,0.3,9.4,3.2,0.3
+241,56,O,15570,SW Admiral Way & SW Waite St,13,PM,0,0.8,9.1,0,2.4
+241,56,O,15570,SW Admiral Way & SW Waite St,13,XEV,0,0.5,3.3,0,0.5
+241,56,I,15030,SW Admiral Way & SW Lander St,9,AM,1.2,0,10.8,3.5,0
+241,56,I,15030,SW Admiral Way & SW Lander St,9,MID,0.6,0,5.4,0.6,0

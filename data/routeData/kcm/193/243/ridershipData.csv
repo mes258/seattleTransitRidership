@@ -1,0 +1,46 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,193,I,83751,Fed Way/320th Street P&R - Bay 1,1,AM,0.8,0,0.8,6,0
+243,193,I,80437,Federal Way TC - Bay 7,2,AM,7.5,0.1,8.2,59.6,0.5
+243,193,I,80462,S 317th St & 26th Ave S,3,AM,0,0,8.2,0.1,0
+243,193,I,47972,I-5 & S 272nd St - Bay 5,4,AM,1.7,0.1,9.8,13.4,0.4
+243,193,I,58782,I-5 Ramp & Kent Des Moines Rd,5,AM,2.3,0.1,11.9,18.4,1
+243,193,I,59292,Interurban Ave S & 48th Ave S,6,AM,0,0.3,11.7,0,2
+243,193,I,80710,Interurban Ave S & 52nd Ave S - Bay 1,7,AM,5.8,0.2,17.2,46.1,1.9
+243,193,I,3150,Seneca St & 8th Ave,8,AM,0.1,1.9,15.8,0.7,15.1
+243,193,I,41981,9th Ave & Spring St,9,AM,0.1,4.4,11.5,0.7,35.2
+243,193,I,41990,9th Ave & Marion St,10,AM,0,1.6,9.9,0.1,12.4
+243,193,I,42000,9th Ave & Cherry St,11,AM,0,0.2,9.8,0,1.2
+243,193,I,12910,9th Ave & Jefferson St,12,AM,0.2,5.9,4,1.3,47.5
+243,193,I,12930,E Jefferson St & Broadway,13,AM,0.2,1.9,2.3,1.6,15.3
+243,193,I,12950,E Jefferson St & 12th Ave,14,AM,0.1,0.5,1.9,0.5,4
+243,193,I,12980,E Jefferson St & 17th Ave,15,AM,0,1.9,0,0.3,15.3
+243,193,O,12805,E Jefferson St & 18th Ave,1,PM,1.4,0,1.7,11.5,0.1
+243,193,O,12840,E Jefferson St & 12th Ave,2,PM,0.6,0.1,2.3,4.8,0.6
+243,193,O,12860,Jefferson St & Broadway,3,PM,1.3,0.2,3.4,10.6,1.2
+243,193,O,12880,Jefferson St & 9th Ave,4,PM,4.3,0.3,7.4,34.3,2.5
+243,193,O,41955,9th Ave & Spring St,5,PM,2.4,0.2,9.7,19.2,1.3
+243,193,O,11075,Boren Ave & Seneca St,6,PM,2.5,0.1,12,19.6,0.9
+243,193,O,11085,Boren Ave & Madison St,7,PM,1.5,0,13.5,11.9,0.1
+243,193,O,11087,Boren Ave & Columbia St,8,PM,0.5,0,14,4.3,0.2
+243,193,O,80710,Interurban Ave S & 52nd Ave S - Bay 1,9,PM,0.4,5.2,9.1,2.8,41.3
+243,193,O,59295,Interurban Ave S & 48th Ave S,10,PM,0,0.1,9.1,0.1,0.6
+243,193,O,53504,Kent-Des Moines Freeway Station,11,PM,0.1,1.6,7.5,0.4,12.8
+243,193,O,47970,I-5 & S 272nd St - Bay 4,12,PM,0.1,1.3,6.8,0.4,8.9
+243,193,O,80458,S 317th St & 26th Ave S,13,PM,0,0,6.8,0,0.2
+243,193,O,80432,Federal Way TC - Bay 2,14,PM,0.2,6.6,0.4,1.2,46
+243,193,O,83752,Fed Way/320th Street P&R - Bay 2,15,PM,0.2,0.8,0,1.5,5.4
+243,193,O,12805,E Jefferson St & 18th Ave,1,XEV,1.3,0,1.9,1.3,0
+243,193,O,12840,E Jefferson St & 12th Ave,2,XEV,0.2,0,2,0.2,0
+243,193,O,12860,Jefferson St & Broadway,3,XEV,1.7,0.2,3.4,1.7,0.2
+243,193,O,12880,Jefferson St & 9th Ave,4,XEV,4,0.2,7.3,4,0.2
+243,193,O,41955,9th Ave & Spring St,5,XEV,0.4,0,7.7,0.4,0
+243,193,O,11075,Boren Ave & Seneca St,6,XEV,1.4,0,9.1,1.4,0
+243,193,O,11085,Boren Ave & Madison St,7,XEV,0.3,0,9.3,0.3,0
+243,193,O,11087,Boren Ave & Columbia St,8,XEV,1,0,10.3,1,0
+243,193,O,80710,Interurban Ave S & 52nd Ave S - Bay 1,9,XEV,0.1,2.9,7.6,0.1,2.9
+243,193,O,59295,Interurban Ave S & 48th Ave S,10,XEV,0,0,7.5,0,0
+243,193,O,53504,Kent-Des Moines Freeway Station,11,XEV,0,0.7,6.9,0,0.7
+243,193,O,47970,I-5 & S 272nd St - Bay 4,12,XEV,0.1,1,4.4,0.1,2
+243,193,O,80458,S 317th St & 26th Ave S,13,XEV,0,0.1,4.4,0,0.1
+243,193,O,80432,Federal Way TC - Bay 2,14,XEV,0.1,4.3,0.2,0.1,8.5
+243,193,O,83752,Fed Way/320th Street P&R - Bay 2,15,XEV,0.1,0.6,0,0.1,1.1

@@ -1,0 +1,63 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+243,57,I,32013,44th Ave SW & SW Alaska St - Bay 5,1,AM,0.1,0,0.1,0.3,0
+243,57,I,39458,Glenn Way SW & SW Genesee St,2,AM,0,0,0.1,0,0
+243,57,I,39459,SW Genesee St & 47th Ave SW,3,AM,0.1,0,0.2,0.3,0
+243,57,I,39460,SW Genesee St & 49th Ave SW,4,AM,0.2,0,0.4,0.5,0
+243,57,I,39461,SW Genesee St & 51st Ave SW,5,AM,0.3,0,0.7,1,0
+243,57,I,39462,SW Genesee St & 53rd Ave SW,6,AM,0.9,0,1.6,2.6,0
+243,57,I,39463,SW Genesee St & 55th Ave SW,7,AM,0.1,0,1.7,0.4,0
+243,57,I,39464,55th Ave SW & SW Dakota St,8,AM,1.1,0,2.7,3.2,0
+243,57,I,39465,55th Ave SW & SW Andover St,9,AM,0.5,0,3.3,1.6,0
+243,57,I,39466,55th Ave SW & SW Charlestown St,10,AM,0.5,0,3.8,1.6,0.1
+243,57,I,39467,SW Charlestown St & 53rd Ave SW,11,AM,0.2,0,4.1,0.7,0
+243,57,I,39468,SW Charlestown St & 51st Ave SW,12,AM,1.2,0,5.2,3.5,0
+243,57,I,39469,49th Ave SW & SW Charlestown St,13,AM,1.2,0,6.4,3.5,0
+243,57,I,39470,49th Ave SW & SW Spokane St,14,AM,0.7,0,7,2,0
+243,57,I,39471,49th Ave SW & SW Hinds St,15,AM,1.1,0,8.2,3.3,0
+243,57,I,39472,49th Ave SW & SW Hanford St,16,AM,1.2,0,9.4,3.7,0
+243,57,I,39473,49th Ave SW & SW Stevens St,17,AM,0.9,0,10.3,2.7,0
+243,57,I,15030,SW Admiral Way & SW Lander St,18,AM,1.5,0,11.8,4.6,0
+243,57,I,15040,SW Admiral Way & 47th Ave SW,19,AM,1.2,0,12.9,3.5,0
+243,57,I,15050,SW Admiral Way & 45th Ave SW,20,AM,3.2,0,16.1,9.7,0.1
+243,57,I,15060,SW Admiral Way & California Ave SW,21,AM,5,0.3,20.8,15.1,1
+243,57,I,15070,SW Admiral Way & 41st Ave SW,22,AM,2.4,0.1,23.1,7.1,0.3
+243,57,I,15080,SW Admiral Way & 39th Ave SW,23,AM,0.8,0,23.9,2.5,0
+243,57,I,15090,SW Admiral Way & Belvidere Ave SW,24,AM,0.1,0,24,0.3,0
+243,57,I,15100,SW Admiral Way & SW Olga St,25,AM,1,0,25,2.9,0
+243,57,I,15120,SW Admiral Way & SW City View St,26,AM,0.3,0,25.2,0.8,0
+243,57,I,1561,Alaskan Way S & S Jackson St,27,AM,0.4,2.7,23.6,1.1,8.1
+243,57,I,1559,Alaskan Way & Columbia St,28,AM,1.3,3.1,21.2,3.9,9.3
+243,57,I,548,3rd Ave & Madison St,29,AM,0.5,9,12.7,1.4,27
+243,57,I,570,3rd Ave & Union St,30,AM,0.1,6.8,6,0.2,20.5
+243,57,I,590,3rd Ave & Pine St,31,AM,0.4,6.5,0,1.3,19.5
+243,57,O,400,3rd Ave & Bell St,1,PM,1.4,0,1.5,7.1,0
+243,57,O,420,3rd Ave & Virginia St,2,PM,2.9,0.2,4.1,14.3,0.9
+243,57,O,431,3rd Ave & Pike St,3,PM,3.8,0.5,7.4,18.9,2.5
+243,57,O,468,3rd Ave & Seneca St,4,PM,6.1,0.3,13.1,30.5,1.7
+243,57,O,481,3rd Ave & Columbia St,5,PM,4.5,0.3,17.3,22.4,1.5
+243,57,O,1558,Columbia St & Alaskan Way,6,PM,2.1,0.6,18.9,10.7,3.1
+243,57,O,1562,Alaskan Way S & S Jackson St,7,PM,2.1,0.2,20.8,10.7,0.9
+243,57,O,15480,SW Admiral Way & SW City View St,8,PM,0,0.3,20.5,0,1.4
+243,57,O,15500,SW Admiral Way & SW Olga St,9,PM,0,1.1,19.4,0,5.7
+243,57,O,15521,SW Admiral Way & 38th Ave SW,10,PM,0,0.3,19.1,0,1.4
+243,57,O,15532,SW Admiral Way & 41st Ave SW,11,PM,0.1,5.9,13.4,0.7,29.3
+243,57,O,15540,SW Admiral Way & California Ave SW,12,PM,0.8,4.6,9.6,4.2,23.2
+243,57,O,15570,SW Admiral Way & SW Waite St,13,PM,0,1.3,8.3,0,6.7
+243,57,O,15580,SW Admiral Way & 49th Ave SW,14,PM,0,0.7,7.6,0,3.7
+243,57,O,39475,49th Ave SW & SW Stevens St,15,PM,0,0.7,6.8,0,3.7
+243,57,O,39476,49th Ave SW & SW Hanford St,16,PM,0,1.1,5.7,0,5.4
+243,57,O,39477,49th Ave SW & SW Hinds St,17,PM,0,0.4,5.3,0,2.1
+243,57,O,39479,49th Ave SW & SW Spokane St,18,PM,0.1,0.4,5,0.5,2
+243,57,O,39480,SW Charlestown St & 49th Ave SW,19,PM,0,0.9,4.2,0.2,4.5
+243,57,O,39490,SW Charlestown St & 51st Ave SW,20,PM,0,0.5,3.7,0.1,2.5
+243,57,O,39500,SW Charlestown St & 53rd Ave SW,21,PM,0,0.3,3.4,0.1,1.6
+243,57,O,39510,55th Ave SW & SW Charlestown St,22,PM,0,0.5,2.9,0,2.7
+243,57,O,39520,55th Ave SW & SW Andover St,23,PM,0,0.6,2.3,0,3.2
+243,57,O,39530,55th Ave SW & SW Dakota St,24,PM,0,0.3,2,0.1,1.6
+243,57,O,39540,55th Ave SW & SW Genesee St,25,PM,0,0.2,1.7,0,1.2
+243,57,O,39550,SW Genesee St & 53rd Ave SW,26,PM,0,0.2,1.5,0,1.1
+243,57,O,39560,SW Genesee St & 51st Ave SW,27,PM,0,0.2,1.3,0,0.9
+243,57,O,39750,SW Genesee St & 49th Ave SW,28,PM,0,0.1,1.3,0.2,0.4
+243,57,O,39760,SW Genesee St & 47th Ave SW,29,PM,0,0.1,1.2,0.2,0.6
+243,57,O,39770,Glenn Way SW & 46th Ave SW,30,PM,0,0.1,1.1,0,0.3
+243,57,O,31811,SW Alaska St & 44th Ave SW - Bay 2,31,PM,0.2,1.3,0,0.9,6.5

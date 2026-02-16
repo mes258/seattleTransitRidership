@@ -1,0 +1,384 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+241,20,O,26210,NE Ravenna Blvd & Woodlawn Ave NE,15,XEV,0.3,0.4,3.8,1.3,1.5
+241,20,O,26210,NE Ravenna Blvd & Woodlawn Ave NE,15,XNT,0.1,0.1,2.9,0.4,0.4
+241,20,I,17170,Woodlawn Ave NE & 5th Ave NE,25,AM,0.4,0.2,3.5,4.2,2.5
+241,20,I,17170,Woodlawn Ave NE & 5th Ave NE,25,MID,0.5,0.6,5,6.2,8.3
+241,20,I,17170,Woodlawn Ave NE & 5th Ave NE,25,PM,0.4,0.5,3.2,6.5,7.3
+241,20,I,17170,Woodlawn Ave NE & 5th Ave NE,25,XEV,0.5,0.4,3.1,2,1.4
+241,20,I,17170,Woodlawn Ave NE & 5th Ave NE,25,XNT,0.2,0.1,1,0.5,0.4
+241,20,I,17110,1st Ave NE & N 80th St,21,AM,0.2,0,2.8,1.9,0.2
+241,20,I,17110,1st Ave NE & N 80th St,21,MID,0.1,0,5.7,1.5,0.3
+241,20,I,17110,1st Ave NE & N 80th St,21,PM,0.1,0,3.9,0.8,0.3
+241,20,I,17110,1st Ave NE & N 80th St,21,XEV,0,0,2.6,0,0.1
+241,20,I,17110,1st Ave NE & N 80th St,21,XNT,0,0,1.1,0,0.1
+241,20,I,26240,Latona Ave NE & NE 61st St,28,AM,0.2,0,4.1,1.8,0
+241,20,I,26240,Latona Ave NE & NE 61st St,28,MID,0.2,0.1,5.5,2.4,1
+241,20,I,26240,Latona Ave NE & NE 61st St,28,PM,0.1,0.1,3.5,1.5,2
+241,20,I,26240,Latona Ave NE & NE 61st St,28,XEV,0,0.1,3,0,0.4
+241,20,O,38650,Lake City Way NE & NE 120th St,36,AM,0,0.4,2.2,0.1,3.8
+241,20,I,26240,Latona Ave NE & NE 61st St,28,XNT,0,0,1,0,0
+241,20,O,38650,Lake City Way NE & NE 120th St,36,MID,0.1,0.8,4.4,1.1,10.9
+241,20,O,38650,Lake City Way NE & NE 120th St,36,PM,0.1,1.4,5,1.5,20.8
+241,20,O,38650,Lake City Way NE & NE 120th St,36,XEV,0.1,0.9,4,0.4,4.7
+241,20,O,38650,Lake City Way NE & NE 120th St,36,XNT,0,1,4.4,0.1,3
+241,20,I,26250,Latona Ave NE & NE 59th St,29,AM,0.3,0,4.4,3.2,0.2
+241,20,I,26250,Latona Ave NE & NE 59th St,29,MID,0.5,0.2,5.7,6.1,2.6
+241,20,I,35338,NE Northgate Way & 15th Ave NE,8,AM,0.3,0,8.6,3.8,0.2
+241,20,I,26250,Latona Ave NE & NE 59th St,29,PM,0.1,0.1,3.5,1.8,2.1
+241,20,I,35338,NE Northgate Way & 15th Ave NE,8,MID,0.4,0.3,11.4,4.4,3.3
+241,20,I,26250,Latona Ave NE & NE 59th St,29,XEV,0,0.1,2.9,0.2,0.7
+241,20,I,35338,NE Northgate Way & 15th Ave NE,8,PM,0.1,0.3,8.9,2,4.6
+241,20,I,26250,Latona Ave NE & NE 59th St,29,XNT,0,0,1.1,0,0.1
+241,20,I,35338,NE Northgate Way & 15th Ave NE,8,XEV,0,0.2,5.9,0.1,0.5
+241,20,O,27090,Latona Ave NE & NE 52nd St,8,AM,0.1,0,2.1,1.1,0.1
+241,20,I,35338,NE Northgate Way & 15th Ave NE,8,XNT,0.1,0,2.6,0.3,0.1
+241,20,O,27090,Latona Ave NE & NE 52nd St,8,MID,0.2,0.3,4.8,2.1,3.1
+241,20,O,27090,Latona Ave NE & NE 52nd St,8,PM,0.1,0.7,8.2,2.1,11.8
+241,20,O,27090,Latona Ave NE & NE 52nd St,8,XEV,0.1,0.7,5,0.2,2.2
+241,20,O,27090,Latona Ave NE & NE 52nd St,8,XNT,0,0.3,3.2,0,1
+241,20,O,76730,Lake City Way NE & NE 130th St,38,AM,0,0.9,0,0.3,9.3
+241,20,O,76730,Lake City Way NE & NE 130th St,38,MID,0,1.2,0,0.1,15.2
+241,20,O,76730,Lake City Way NE & NE 130th St,38,PM,0,1.5,0,0.4,22
+241,20,O,76730,Lake City Way NE & NE 130th St,38,XEV,0,1.4,0,0,6.9
+241,20,O,76730,Lake City Way NE & NE 130th St,38,XNT,0,1.5,0,0,4.6
+241,20,I,29865,NE 45th St & Roosevelt Way NE,34,AM,0.4,0.5,6.2,4,5.3
+241,20,I,29865,NE 45th St & Roosevelt Way NE,34,MID,0.6,0.8,6.2,8.3,10.2
+241,20,I,29865,NE 45th St & Roosevelt Way NE,34,PM,0.4,0.8,2.6,5.5,11.6
+241,20,I,29865,NE 45th St & Roosevelt Way NE,34,XEV,0.2,0.8,1.6,1,4.1
+241,20,O,29423,Brooklyn Ave NE & NE Pacific St,1,AM,0.2,0,0.9,2.1,0
+241,20,I,29865,NE 45th St & Roosevelt Way NE,34,XNT,0.1,0.3,0.8,0.3,0.8
+241,20,O,29423,Brooklyn Ave NE & NE Pacific St,1,MID,0.9,0,2.2,11.1,0
+241,20,O,29423,Brooklyn Ave NE & NE Pacific St,1,PM,2.4,0,3.4,38,0
+241,20,O,29423,Brooklyn Ave NE & NE Pacific St,1,XEV,0.9,0,2.4,1.8,0
+241,20,O,29423,Brooklyn Ave NE & NE Pacific St,1,XNT,0.2,0,1.5,0.5,0
+241,20,I,17140,Woodlawn Ave NE & Latona Ave NE,23,AM,0.4,0.1,3.2,4.2,1.7
+241,20,I,29431,15th Ave NE & NE Pacific St,39,AM,0,1.4,0,0.2,13.5
+241,20,O,27052,Latona Ave NE & NE 50th St,7,AM,0.1,0,2,0.6,0.5
+241,20,I,17140,Woodlawn Ave NE & Latona Ave NE,23,MID,0.3,0.4,5.6,3.3,5.3
+241,20,I,29431,15th Ave NE & NE Pacific St,39,MID,0,1.1,0,0,16
+241,20,O,27052,Latona Ave NE & NE 50th St,7,MID,0.2,0.3,4.9,2.1,3.2
+241,20,I,17140,Woodlawn Ave NE & Latona Ave NE,23,PM,0.2,0.5,3.6,2.7,6.9
+241,20,I,29431,15th Ave NE & NE Pacific St,39,PM,0,0.2,0,0,2.3
+241,20,O,27052,Latona Ave NE & NE 50th St,7,PM,0.1,0.5,8.9,1.7,8.1
+241,20,I,17140,Woodlawn Ave NE & Latona Ave NE,23,XEV,0.1,0.3,2.5,0.4,1
+241,20,I,29431,15th Ave NE & NE Pacific St,39,XEV,0,0.1,0,0.1,0.8
+241,20,O,27052,Latona Ave NE & NE 50th St,7,XEV,0.2,0.4,5.6,0.6,1.2
+241,20,I,17140,Woodlawn Ave NE & Latona Ave NE,23,XNT,0,0,1,0,0.1
+241,20,I,29431,15th Ave NE & NE Pacific St,39,XNT,0,0.1,0,0,0.3
+241,20,O,27052,Latona Ave NE & NE 50th St,7,XNT,0,0.3,3.6,0,1
+241,20,O,17570,Woodlawn Ave NE & Latona Ave NE,17,AM,0,0,2.5,0.5,0.1
+241,20,O,17570,Woodlawn Ave NE & Latona Ave NE,17,MID,0.2,0.1,4.6,2.8,1.8
+241,20,O,17570,Woodlawn Ave NE & Latona Ave NE,17,PM,0.4,0.3,5.5,5.4,5.1
+241,20,O,17570,Woodlawn Ave NE & Latona Ave NE,17,XEV,0.3,0.2,4.3,1.2,0.8
+241,20,O,17570,Woodlawn Ave NE & Latona Ave NE,17,XNT,0.1,0.1,3.5,0.2,0.3
+241,20,O,27051,Latona Ave NE & NE 45th St,6,AM,0.3,0.4,2,3.4,4.6
+241,20,O,27051,Latona Ave NE & NE 45th St,6,MID,0.6,0.3,5,6.9,3.8
+241,20,O,27051,Latona Ave NE & NE 45th St,6,PM,0.8,1,9.3,13.4,15.9
+241,20,O,27051,Latona Ave NE & NE 45th St,6,XEV,0.5,0.8,5.9,1.4,2.3
+241,20,O,27051,Latona Ave NE & NE 45th St,6,XNT,0.3,0.7,3.9,1,2.1
+241,20,O,27100,Latona Ave NE & NE 54th St,9,AM,0.1,0.2,2.1,1.1,1.9
+241,20,O,27100,Latona Ave NE & NE 54th St,9,MID,0.3,0.2,4.8,3,2.8
+241,20,O,27100,Latona Ave NE & NE 54th St,9,PM,0.3,0.8,7.8,5.3,12
+241,20,O,27100,Latona Ave NE & NE 54th St,9,XEV,0,0.3,4.7,0.1,0.8
+241,20,O,17610,N 80th St & Corliss Ave N,20,AM,0.2,0,2.8,2.2,0
+241,20,O,27100,Latona Ave NE & NE 54th St,9,XNT,0,0.2,3.1,0.1,0.5
+241,20,O,17610,N 80th St & Corliss Ave N,20,MID,0.1,0.1,4.6,1,0.8
+241,20,O,17610,N 80th St & Corliss Ave N,20,PM,0,0.2,4.9,0.6,3.1
+241,20,O,17610,N 80th St & Corliss Ave N,20,XEV,0,0.2,3.9,0.1,0.6
+241,20,O,17610,N 80th St & Corliss Ave N,20,XNT,0,0.1,3.3,0,0.2
+241,20,O,26210,NE Ravenna Blvd & Woodlawn Ave NE,15,AM,0.2,0.1,2.3,2.1,0.6
+241,20,O,26210,NE Ravenna Blvd & Woodlawn Ave NE,15,MID,0.3,0.4,4.2,3.8,4.6
+241,20,O,26210,NE Ravenna Blvd & Woodlawn Ave NE,15,PM,0.4,0.8,5.4,5.8,12
+241,20,O,27120,Latona Ave NE & NE 58th St,10,AM,0.1,0,2.2,1.5,0
+241,20,O,27120,Latona Ave NE & NE 58th St,10,MID,0.1,0.2,4.7,1.2,2.8
+241,20,O,27120,Latona Ave NE & NE 58th St,10,PM,0.1,0.6,7.3,1.1,9.1
+241,20,O,27120,Latona Ave NE & NE 58th St,10,XEV,0,0.3,4.5,0.1,1
+241,20,I,26220,4th Ave NE & NE 65th St,26,AM,0.3,0,3.6,3,0.5
+241,20,O,27120,Latona Ave NE & NE 58th St,10,XNT,0,0.1,3,0,0.3
+241,20,I,26220,4th Ave NE & NE 65th St,26,MID,0.3,0.1,5.1,3.1,1.2
+241,20,I,26220,4th Ave NE & NE 65th St,26,PM,0.3,0.1,3.5,3.9,1.3
+241,20,I,26220,4th Ave NE & NE 65th St,26,XEV,0.1,0.1,3,0.4,0.5
+241,20,I,26220,4th Ave NE & NE 65th St,26,XNT,0,0,1.1,0.1,0
+241,20,I,26270,Latona Ave NE & NE 55th St,30,AM,0.9,0.2,5.1,9.6,1.8
+241,20,I,26270,Latona Ave NE & NE 55th St,30,MID,0.6,0.3,6,8.4,4.3
+241,20,I,26270,Latona Ave NE & NE 55th St,30,PM,0.2,0.3,3.4,3.6,5
+241,20,I,26270,Latona Ave NE & NE 55th St,30,XEV,0.1,0.1,2.9,0.3,0.5
+241,20,O,17640,Wallingford Ave N & N 80th St,21,AM,0.3,0,3,2.8,0.2
+241,20,I,26270,Latona Ave NE & NE 55th St,30,XNT,0,0,1,0.1,0.1
+241,20,O,17640,Wallingford Ave N & N 80th St,21,MID,0.3,0.2,4.7,4.3,2.8
+241,20,I,26301,Thackeray Pl NE & NE 50th St,32,AM,0.3,0,6.2,3.1,0.5
+241,20,O,17640,Wallingford Ave N & N 80th St,21,PM,0.4,0.3,5,5.5,4.7
+241,20,I,26301,Thackeray Pl NE & NE 50th St,32,MID,0.2,0.2,6.6,3.2,3.2
+241,20,O,17640,Wallingford Ave N & N 80th St,21,XEV,0.2,0.1,4.1,0.8,0.2
+241,20,I,26301,Thackeray Pl NE & NE 50th St,32,PM,0.2,0.1,3.4,2.6,1.5
+241,20,O,17640,Wallingford Ave N & N 80th St,21,XNT,0.1,0.1,3.3,0.2,0.3
+241,20,I,26301,Thackeray Pl NE & NE 50th St,32,XEV,0.1,0.1,2.6,0.3,0.6
+241,20,I,26301,Thackeray Pl NE & NE 50th St,32,XNT,0,0,1,0,0
+241,20,I,76700,Lake City Way NE & NE 130th St,2,AM,1.8,0,3.3,25.3,0.6
+241,20,I,76700,Lake City Way NE & NE 130th St,2,MID,2.5,0,5.6,30.3,0.5
+241,20,I,76700,Lake City Way NE & NE 130th St,2,PM,1.9,0,4,29.2,0.7
+241,20,I,76700,Lake City Way NE & NE 130th St,2,XEV,1.4,0.1,3.1,4.3,0.2
+241,20,I,76700,Lake City Way NE & NE 130th St,2,XNT,0.8,0,1.3,2.3,0
+241,20,I,26230,Latona Ave NE & NE 64th St,27,AM,0.5,0.1,3.9,5.4,0.8
+241,20,I,26230,Latona Ave NE & NE 64th St,27,MID,0.3,0.1,5.4,3.8,1.1
+241,20,I,10914,15th Ave NE & NE Campus Pkwy,37,AM,0,1,2.2,0,11.1
+241,20,I,26230,Latona Ave NE & NE 64th St,27,PM,0.1,0.1,3.6,2.1,1.5
+241,20,I,10914,15th Ave NE & NE Campus Pkwy,37,MID,0,1.2,2.4,0,15.4
+241,20,I,26230,Latona Ave NE & NE 64th St,27,XEV,0.1,0,3,0.5,0.2
+241,20,I,10914,15th Ave NE & NE Campus Pkwy,37,PM,0,0.5,0.3,0,7.3
+241,20,I,26230,Latona Ave NE & NE 64th St,27,XNT,0,0,1.1,0,0
+241,20,I,10914,15th Ave NE & NE Campus Pkwy,37,XEV,0,0.3,0.2,0,1.6
+241,20,I,10914,15th Ave NE & NE Campus Pkwy,37,XNT,0,0.1,0.2,0,0.3
+241,20,O,9587,U District Station - Bay 1,4,AM,0.5,0.1,1.8,6.5,0.8
+241,20,O,9587,U District Station - Bay 1,4,MID,1.3,0.3,4.2,15.2,3.2
+241,20,O,9587,U District Station - Bay 1,4,PM,2.9,0.8,9,46.6,13.4
+241,20,O,9587,U District Station - Bay 1,4,XEV,1.9,0.5,5.7,5.7,1.4
+241,20,O,9587,U District Station - Bay 1,4,XNT,1.8,0.1,4,5.5,0.3
+241,20,O,81367,NE Northgate Way & Roosevelt Way NE,31,AM,0.8,0.4,4.9,7.6,4
+241,20,O,81367,NE Northgate Way & Roosevelt Way NE,31,MID,1.2,0.8,7.4,15.1,10
+241,20,O,81367,NE Northgate Way & Roosevelt Way NE,31,PM,1.2,1.1,9.4,17.4,16.6
+241,20,O,35332,NE Northgate Way & 15th Ave NE,32,AM,0.1,0.1,4.9,1.3,0.5
+241,20,O,81367,NE Northgate Way & Roosevelt Way NE,31,XEV,0.8,0.8,6.9,4,3.8
+241,20,O,35332,NE Northgate Way & 15th Ave NE,32,MID,0.2,0.2,7.3,2.4,3
+241,20,O,17022,N 92nd St & Corliss Ave N,25,AM,0.2,0.1,2.9,2.7,1.2
+241,20,O,81367,NE Northgate Way & Roosevelt Way NE,31,XNT,0.5,0.7,6.4,1.5,2.2
+241,20,O,35332,NE Northgate Way & 15th Ave NE,32,PM,0.1,0.3,9.2,1.4,4.9
+241,20,O,17022,N 92nd St & Corliss Ave N,25,MID,0.2,0.2,6,2.8,3.2
+241,20,O,35332,NE Northgate Way & 15th Ave NE,32,XEV,0.1,0.4,6.6,0.4,2
+241,20,O,17022,N 92nd St & Corliss Ave N,25,PM,0.2,0.3,5.5,2.9,4.6
+241,20,O,35332,NE Northgate Way & 15th Ave NE,32,XNT,0.1,0.1,6.3,0.2,0.3
+241,20,O,17022,N 92nd St & Corliss Ave N,25,XEV,0.1,0.3,3.8,0.4,1.3
+241,20,O,17022,N 92nd St & Corliss Ave N,25,XNT,0,0.1,2.9,0.1,0.4
+241,20,I,82198,NE Northgate Way & Roosevelt Way NE,9,AM,0.8,0.4,9.1,10.6,4.8
+241,20,I,82198,NE Northgate Way & Roosevelt Way NE,9,MID,1.3,1.6,11,15.1,19.6
+241,20,I,82198,NE Northgate Way & Roosevelt Way NE,9,PM,1.3,1.5,8.7,21.1,23.3
+241,20,I,82198,NE Northgate Way & Roosevelt Way NE,9,XEV,0.8,0.9,5.8,2.4,2.6
+241,20,I,82198,NE Northgate Way & Roosevelt Way NE,9,XNT,0.4,0.3,2.7,1.1,1
+241,20,I,76710,Lake City Way NE & NE 125th St,3,AM,2.3,0,5.5,32.3,0.5
+241,20,I,76710,Lake City Way NE & NE 125th St,3,MID,3.1,0.2,8.5,34.3,2.5
+241,20,I,76710,Lake City Way NE & NE 125th St,3,PM,2.5,0.3,6.3,40.7,4.8
+241,20,I,17160,Woodlawn Ave NE & NE 71st St,24,AM,0.9,0.8,3.3,10.5,9
+241,20,I,76710,Lake City Way NE & NE 125th St,3,XEV,2,0.1,4.9,5.9,0.4
+241,20,I,17160,Woodlawn Ave NE & NE 71st St,24,MID,0.8,1.3,5.1,10,16.6
+241,20,I,76710,Lake City Way NE & NE 125th St,3,XNT,0.7,0.1,2,2.2,0.3
+241,20,I,17160,Woodlawn Ave NE & NE 71st St,24,PM,0.6,1,3.2,8.8,15
+241,20,I,17160,Woodlawn Ave NE & NE 71st St,24,XEV,0.9,0.5,2.9,3.6,2
+241,20,I,17160,Woodlawn Ave NE & NE 71st St,24,XNT,0.2,0.2,1,0.6,0.7
+241,20,O,81364,NE Northgate Way & 5th Ave NE,30,AM,0.8,0.8,4.5,8.4,7.6
+241,20,O,81364,NE Northgate Way & 5th Ave NE,30,MID,1.4,1.5,7,18,19.5
+241,20,O,81364,NE Northgate Way & 5th Ave NE,30,PM,1.6,2.5,9.4,24.1,37.9
+241,20,O,81364,NE Northgate Way & 5th Ave NE,30,XEV,1.2,1.6,6.9,5.9,7.9
+241,20,O,81364,NE Northgate Way & 5th Ave NE,30,XNT,0.6,0.6,6.6,1.9,1.9
+241,20,O,27150,Latona Ave NE & NE 65th St,13,AM,0.1,0.2,2.3,0.8,2.1
+241,20,O,27150,Latona Ave NE & NE 65th St,13,MID,0.1,0.2,4.4,1.1,2.7
+241,20,O,27150,Latona Ave NE & NE 65th St,13,PM,0.1,0.7,6.2,1.9,10.6
+241,20,O,27150,Latona Ave NE & NE 65th St,13,XEV,0.2,0.4,3.9,0.5,1.3
+241,20,O,27150,Latona Ave NE & NE 65th St,13,XNT,0,0.1,2.8,0.1,0.2
+241,20,I,35336,NE Northgate Way & 19th Ave NE,7,AM,0.6,0,8.4,8.4,0
+241,20,I,35336,NE Northgate Way & 19th Ave NE,7,MID,0.3,0.1,11.3,3.1,0.6
+241,20,I,17698,N 92nd St & Corliss Ave N,15,AM,0.2,0.1,3.5,2,0.9
+241,20,I,35336,NE Northgate Way & 19th Ave NE,7,PM,0.2,0.1,9,3,1.4
+241,20,I,17698,N 92nd St & Corliss Ave N,15,MID,0.3,0.3,6.7,3.6,3.5
+241,20,I,35336,NE Northgate Way & 19th Ave NE,7,XEV,0.1,0,6,0.3,0.1
+241,20,I,17698,N 92nd St & Corliss Ave N,15,PM,0.2,0.4,4.8,2.8,6.6
+241,20,I,35336,NE Northgate Way & 19th Ave NE,7,XNT,0,0,2.6,0.1,0.1
+241,20,I,17698,N 92nd St & Corliss Ave N,15,XEV,0.1,0.2,3.5,0.4,0.8
+241,20,I,17698,N 92nd St & Corliss Ave N,15,XNT,0,0.2,1.6,0,0.7
+241,20,O,38620,Lake City Way NE & NE 113th St,35,AM,0.1,2.3,2.6,1,22.9
+241,20,O,38620,Lake City Way NE & NE 113th St,35,MID,0.3,2.2,5.2,4,28.2
+241,20,O,38620,Lake City Way NE & NE 113th St,35,PM,0.3,2,6.3,4.5,30.3
+241,20,O,38620,Lake City Way NE & NE 113th St,35,XEV,0.2,1.3,4.9,1.1,6.7
+241,20,O,38620,Lake City Way NE & NE 113th St,35,XNT,0.1,0.7,5.3,0.3,2
+241,20,I,38160,Lake City Way NE & NE 115th St,5,AM,0.9,0.1,7.2,11.7,1
+241,20,I,38160,Lake City Way NE & NE 115th St,5,MID,1.9,0.3,10.9,22.4,3.2
+241,20,I,38160,Lake City Way NE & NE 115th St,5,PM,2.2,0.5,8.7,35.8,7.3
+241,20,I,38160,Lake City Way NE & NE 115th St,5,XEV,1,0.4,5.9,2.9,1.2
+241,20,I,38160,Lake City Way NE & NE 115th St,5,XNT,0.5,0.1,2.6,1.5,0.3
+241,20,O,29455,NE 45th St & 9th Ave NE,5,AM,0.4,0,2.2,4.6,0.2
+241,20,O,29455,NE 45th St & 9th Ave NE,5,MID,0.9,0.4,4.7,11.3,4.9
+241,20,O,29455,NE 45th St & 9th Ave NE,5,PM,1.5,1,9.4,23.4,16
+241,20,O,29455,NE 45th St & 9th Ave NE,5,XEV,1,0.6,6.1,3.1,1.7
+241,20,I,38653,NE 130th St & 35th Ave NE,1,AM,1.1,0,1.5,16,0.1
+241,20,O,29455,NE 45th St & 9th Ave NE,5,XNT,0.5,0.2,4.3,1.5,0.5
+241,20,I,38653,NE 130th St & 35th Ave NE,1,MID,1.6,0,3.1,18.8,0.1
+241,20,I,38653,NE 130th St & 35th Ave NE,1,PM,1,0,2.1,15.1,0
+241,20,I,38653,NE 130th St & 35th Ave NE,1,XEV,0.9,0,1.8,2.8,0
+241,20,I,38653,NE 130th St & 35th Ave NE,1,XNT,0.2,0,0.6,0.7,0
+241,20,I,17080,Wallingford Ave N & N 80th St,19,AM,0.1,0.2,2.5,1.6,2.5
+241,20,I,17080,Wallingford Ave N & N 80th St,19,MID,0.2,0.4,5.5,3,5.3
+241,20,I,17080,Wallingford Ave N & N 80th St,19,PM,0.2,0.4,4.1,2.5,6.4
+241,20,I,17080,Wallingford Ave N & N 80th St,19,XEV,0.2,0.1,2.6,0.8,0.5
+241,20,I,17080,Wallingford Ave N & N 80th St,19,XNT,0.1,0,1.1,0.2,0
+241,20,O,11352,15th Ave NE & NE 42nd St,3,AM,0.3,0,1.3,3.5,0.3
+241,20,O,11352,15th Ave NE & NE 42nd St,3,MID,0.9,0.3,3.4,11.8,3.5
+241,20,O,17560,Woodlawn Ave NE & NE 71st St,16,AM,0.4,0.2,2.5,4.7,2
+241,20,O,11352,15th Ave NE & NE 42nd St,3,PM,2.1,0.2,7,31.4,2.8
+241,20,O,17560,Woodlawn Ave NE & NE 71st St,16,MID,1,0.5,4.5,12.8,6.6
+241,20,O,11352,15th Ave NE & NE 42nd St,3,XEV,1.2,0.2,4.3,3.7,0.5
+241,20,O,17560,Woodlawn Ave NE & NE 71st St,16,PM,1.3,1.1,5.5,18.9,17
+241,20,O,11352,15th Ave NE & NE 42nd St,3,XNT,0.5,0,2.3,1.5,0.1
+241,20,O,17560,Woodlawn Ave NE & NE 71st St,16,XEV,0.9,0.5,4.3,3.6,1.9
+241,20,O,17560,Woodlawn Ave NE & NE 71st St,16,XNT,0.7,0.1,3.5,2.1,0.2
+241,20,I,17100,N 80th St & Corliss Ave N,20,AM,0.2,0,2.6,2.1,0.3
+241,20,I,17100,N 80th St & Corliss Ave N,20,MID,0.1,0.1,5.6,1.9,1.2
+241,20,I,17100,N 80th St & Corliss Ave N,20,PM,0.1,0.2,3.9,1.1,3.4
+241,20,I,17100,N 80th St & Corliss Ave N,20,XEV,0,0.1,2.6,0.1,0.3
+241,20,I,17100,N 80th St & Corliss Ave N,20,XNT,0,0,1.1,0,0
+241,20,O,17024,1st Ave NE & NE 95th St,26,AM,0.4,0.2,3.2,4.7,2.1
+241,20,O,17024,1st Ave NE & NE 95th St,26,MID,0.3,0.3,6,3.6,3.7
+241,20,O,17024,1st Ave NE & NE 95th St,26,PM,0.3,0.3,5.6,3.8,4.2
+241,20,O,17024,1st Ave NE & NE 95th St,26,XEV,0.2,0.1,3.8,1,0.6
+241,20,I,35331,NE Northgate Way & 23rd Ave NE,6,AM,0.5,0,7.7,7,0
+241,20,O,17024,1st Ave NE & NE 95th St,26,XNT,0,0.2,2.8,0,0.5
+241,20,I,35331,NE Northgate Way & 23rd Ave NE,6,MID,0.3,0.1,11.1,3.9,0.8
+241,20,I,35331,NE Northgate Way & 23rd Ave NE,6,PM,0.3,0.1,8.9,4.2,0.9
+241,20,I,35331,NE Northgate Way & 23rd Ave NE,6,XEV,0.1,0.1,5.9,0.4,0.2
+241,20,I,35331,NE Northgate Way & 23rd Ave NE,6,XNT,0,0,2.6,0,0.1
+241,20,O,35333,NE Northgate Way & 23rd Ave NE,34,AM,0,0.1,4.7,0,0.9
+241,20,O,35333,NE Northgate Way & 23rd Ave NE,34,MID,0,0.3,7,0,3.3
+241,20,O,35333,NE Northgate Way & 23rd Ave NE,34,PM,0,0.7,8,0,10.9
+241,20,O,35333,NE Northgate Way & 23rd Ave NE,34,XEV,0,0.3,6,0,1.7
+241,20,O,35333,NE Northgate Way & 23rd Ave NE,34,XNT,0,0.3,5.9,0,0.8
+241,20,I,23250,5th Ave NE & NE 106th St,11,AM,0.1,0.1,9.6,1.1,1.2
+241,20,I,23250,5th Ave NE & NE 106th St,11,MID,0.3,0.2,11.5,3,2
+241,20,I,23250,5th Ave NE & NE 106th St,11,PM,0.1,0.2,9,2.1,2.5
+241,20,I,23250,5th Ave NE & NE 106th St,11,XEV,0.1,0.1,6.3,0.2,0.2
+241,20,I,23250,5th Ave NE & NE 106th St,11,XNT,0,0,3.3,0,0.1
+241,20,I,10917,15th Ave NE & NE 40th St,38,AM,0,0.8,1.4,0,8.5
+241,20,I,10917,15th Ave NE & NE 40th St,38,MID,0,1.4,1,0,18.3
+241,20,I,17120,1st Ave NE & N 77th St,22,AM,0.2,0,3,2.7,0
+241,20,I,10917,15th Ave NE & NE 40th St,38,PM,0,0.2,0.2,0,2.8
+241,20,I,17120,1st Ave NE & N 77th St,22,MID,0.2,0,5.8,2,0.6
+241,20,I,10917,15th Ave NE & NE 40th St,38,XEV,0,0.1,0.1,0,0.6
+241,20,I,17120,1st Ave NE & N 77th St,22,PM,0.1,0.1,3.9,1,1.2
+241,20,I,10917,15th Ave NE & NE 40th St,38,XNT,0,0.1,0.1,0,0.4
+241,20,I,17120,1st Ave NE & N 77th St,22,XEV,0,0.1,2.6,0,0.3
+241,20,I,17120,1st Ave NE & N 77th St,22,XNT,0,0,1.1,0,0
+241,20,I,10912,15th Ave NE & NE 43rd St,36,AM,0.1,1.7,3.2,0.6,18.4
+241,20,I,10912,15th Ave NE & NE 43rd St,36,MID,0.1,1.6,3.6,1.1,20.4
+241,20,I,10912,15th Ave NE & NE 43rd St,36,PM,0,0.6,0.8,0.7,9.5
+241,20,I,10912,15th Ave NE & NE 43rd St,36,XEV,0,0.3,0.5,0.1,1.4
+241,20,I,10912,15th Ave NE & NE 43rd St,36,XNT,0,0.1,0.2,0,0.3
+241,20,O,27160,2nd Ave NE & Woodlawn Ave NE,14,AM,0.1,0.2,2.2,0.8,1.8
+241,20,O,27160,2nd Ave NE & Woodlawn Ave NE,14,MID,0.2,0.4,4.3,2.4,4.5
+241,20,O,27160,2nd Ave NE & Woodlawn Ave NE,14,PM,0.2,0.8,5.6,3.5,12.8
+241,20,O,27160,2nd Ave NE & Woodlawn Ave NE,14,XEV,0.4,0.5,3.8,1.1,1.4
+241,20,O,27160,2nd Ave NE & Woodlawn Ave NE,14,XNT,0.2,0.1,2.9,0.5,0.4
+241,20,I,17694,North Seattle College,16,AM,0.1,0.9,2.7,1.9,11.8
+241,20,I,17694,North Seattle College,16,MID,1.3,1.9,6,15.5,22.8
+241,20,I,17694,North Seattle College,16,PM,0.8,0.6,5,11.6,8.6
+241,20,I,17694,North Seattle College,16,XEV,0.3,0.3,3.5,1.1,1.2
+241,20,I,35318,Northgate Station - Bay 4,13,AM,1.3,7.3,3.5,16.8,94.6
+241,20,I,35318,Northgate Station - Bay 4,13,MID,2,6.4,6.7,23.6,77.3
+241,20,I,35318,Northgate Station - Bay 4,13,PM,1.6,4.9,5.2,24.8,78.1
+241,20,I,35318,Northgate Station - Bay 4,13,XEV,1.2,3.4,4,3.7,10.2
+241,20,I,35318,Northgate Station - Bay 4,13,XNT,0.8,2.2,1.9,2.3,6.6
+241,20,O,27140,Latona Ave NE & NE 62nd St,12,AM,0,0,2.3,0,0
+241,20,O,27140,Latona Ave NE & NE 62nd St,12,MID,0,0.1,4.6,0,0.9
+241,20,I,26302,Thackeray Pl NE & NE 45th St,33,AM,0.4,0.3,6.3,4.6,3.8
+241,20,O,27140,Latona Ave NE & NE 62nd St,12,PM,0,0.3,6.8,0.1,4.2
+241,20,I,26302,Thackeray Pl NE & NE 45th St,33,MID,0.4,0.7,6.3,4.7,8.8
+241,20,O,27140,Latona Ave NE & NE 62nd St,12,XEV,0,0.1,4.2,0,0.4
+241,20,I,26302,Thackeray Pl NE & NE 45th St,33,PM,0.2,0.6,3,3.7,9.5
+241,20,O,27140,Latona Ave NE & NE 62nd St,12,XNT,0,0.1,2.9,0,0.3
+241,20,I,26302,Thackeray Pl NE & NE 45th St,33,XEV,0.1,0.6,2.2,0.7,2.8
+241,20,I,26302,Thackeray Pl NE & NE 45th St,33,XNT,0.2,0.2,1,0.5,0.7
+241,20,O,76720,Lake City Way NE & NE 125th St,37,AM,0,1.3,0.9,0.1,13.1
+241,20,O,76720,Lake City Way NE & NE 125th St,37,MID,0.2,3.4,1.2,2.3,44.4
+241,20,O,76720,Lake City Way NE & NE 125th St,37,PM,0.2,3.8,1.4,3.1,56.7
+241,20,O,76720,Lake City Way NE & NE 125th St,37,XEV,0.1,2.8,1.4,0.6,13.8
+241,20,O,76720,Lake City Way NE & NE 125th St,37,XNT,0,2.9,1.5,0.1,8.8
+241,20,I,23230,5th Ave NE & NE Northgate Way,10,AM,1.1,0.6,9.6,14.3,7.6
+241,20,I,23230,5th Ave NE & NE Northgate Way,10,MID,1.7,1.4,11.4,20.6,16.4
+241,20,I,23230,5th Ave NE & NE Northgate Way,10,PM,1.7,1.4,9.1,27.2,21.6
+241,20,I,23230,5th Ave NE & NE Northgate Way,10,XEV,1.4,0.8,6.4,4.2,2.5
+241,20,I,23230,5th Ave NE & NE Northgate Way,10,XNT,0.9,0.3,3.3,2.6,0.9
+241,20,I,35290,NE 103rd St & 5th Ave NE,12,AM,0.1,0.2,9.5,0.8,2.4
+241,20,I,35290,NE 103rd St & 5th Ave NE,12,MID,0.2,0.5,11.2,2.4,6
+241,20,I,35290,NE 103rd St & 5th Ave NE,12,PM,0.2,0.7,8.6,3.1,10.6
+241,20,I,35290,NE 103rd St & 5th Ave NE,12,XEV,0.2,0.3,6.2,0.6,1
+241,20,I,35290,NE 103rd St & 5th Ave NE,12,XNT,0.1,0,3.3,0.3,0.1
+241,20,I,26290,Latona Ave NE & NE 51st St,31,AM,0.9,0,6,10.4,0.2
+241,20,O,17590,1st Ave NE & NE 77th St,18,AM,0.1,0,2.7,1.6,0.2
+241,20,I,26290,Latona Ave NE & NE 51st St,31,MID,0.7,0.2,6.6,9.5,2.1
+241,20,O,17590,1st Ave NE & NE 77th St,18,MID,0.1,0.1,4.6,0.8,1.4
+241,20,I,26290,Latona Ave NE & NE 51st St,31,PM,0.2,0.2,3.4,2.8,3.6
+241,20,O,17590,1st Ave NE & NE 77th St,18,PM,0,0.3,5.2,0.4,4.6
+241,20,I,26290,Latona Ave NE & NE 51st St,31,XEV,0.1,0.3,2.7,0.4,1.4
+241,20,O,17590,1st Ave NE & NE 77th St,18,XEV,0,0.2,4.2,0,0.7
+241,20,I,26290,Latona Ave NE & NE 51st St,31,XNT,0.1,0.1,1,0.2,0.2
+241,20,O,17590,1st Ave NE & NE 77th St,18,XNT,0,0.1,3.5,0,0.2
+241,20,I,10911,U District Station - Bay 3,35,AM,0.2,1.6,4.8,1.8,18
+241,20,I,10911,U District Station - Bay 3,35,MID,0.4,1.5,5.1,4.6,19
+241,20,I,10911,U District Station - Bay 3,35,PM,0.1,1.3,1.4,1.9,20
+241,20,I,10911,U District Station - Bay 3,35,XEV,0.1,0.9,0.8,0.5,4.7
+241,20,I,10911,U District Station - Bay 3,35,XNT,0,0.5,0.3,0.1,1.5
+241,20,O,35317,Northgate Station - Bay 1,27,AM,2.3,1.3,4.2,25.7,14.5
+241,20,O,35317,Northgate Station - Bay 1,27,MID,4.1,2.1,7.6,48.7,25
+241,20,O,35317,Northgate Station - Bay 1,27,PM,6.8,2.2,10.5,101.6,33.3
+241,20,O,35317,Northgate Station - Bay 1,27,XEV,4.6,1.2,7.1,22.8,6.2
+241,20,O,35317,Northgate Station - Bay 1,27,XNT,4.2,0.5,6.4,12.6,1.5
+241,20,O,23770,5th Ave NE & NE 106th St,29,AM,0,0.1,4.4,0.1,0.5
+241,20,O,23770,5th Ave NE & NE 106th St,29,MID,0.2,0.6,7.1,2.8,7.2
+241,20,O,23770,5th Ave NE & NE 106th St,29,PM,0.2,0.6,10.3,3.1,9.7
+241,20,O,23770,5th Ave NE & NE 106th St,29,XEV,0.2,0.2,7.3,0.9,0.9
+241,20,O,23770,5th Ave NE & NE 106th St,29,XNT,0.1,0.1,6.6,0.3,0.2
+241,20,I,17070,Wallingford Ave N & N 82nd St,18,AM,0.2,0.6,2.5,1.9,6.6
+241,20,I,17070,Wallingford Ave N & N 82nd St,18,MID,0.3,0.6,5.7,3.8,7.8
+241,20,I,17070,Wallingford Ave N & N 82nd St,18,PM,0.2,0.6,4.4,2.8,9.7
+241,20,I,17070,Wallingford Ave N & N 82nd St,18,XEV,0.1,0.3,2.6,0.4,1.2
+241,20,I,17070,Wallingford Ave N & N 82nd St,18,XNT,0.1,0.1,1.1,0.2,0.4
+241,20,I,17697,1st Ave NE & NE 95th St,14,AM,0.1,0.1,3.4,0.7,1.7
+241,20,I,17697,1st Ave NE & NE 95th St,14,MID,0.2,0.3,6.7,2.8,3.2
+241,20,I,17697,1st Ave NE & NE 95th St,14,PM,0.2,0.5,5.1,3.1,6.8
+241,20,I,17697,1st Ave NE & NE 95th St,14,XEV,0.1,0.4,3.6,0.4,1.5
+241,20,I,17697,1st Ave NE & NE 95th St,14,XNT,0.1,0.2,1.8,0.2,0.6
+241,20,O,27130,Latona Ave NE & NE 60th St,11,AM,0.2,0,2.3,1.8,0
+241,20,O,27130,Latona Ave NE & NE 60th St,11,MID,0.1,0.1,4.6,0.8,0.9
+241,20,O,27130,Latona Ave NE & NE 60th St,11,PM,0,0.3,7,0.2,5.5
+241,20,O,27130,Latona Ave NE & NE 60th St,11,XEV,0,0.1,4.3,0,0.4
+241,20,O,27130,Latona Ave NE & NE 60th St,11,XNT,0,0.1,3,0,0.2
+241,20,O,35334,NE Northgate Way & 19th Ave NE,33,AM,0,0.1,4.8,0.2,1.2
+241,20,O,35334,NE Northgate Way & 19th Ave NE,33,MID,0,0.1,7.3,0.6,1.3
+241,20,O,35334,NE Northgate Way & 19th Ave NE,33,PM,0,0.5,8.7,0.3,7.9
+241,20,O,35334,NE Northgate Way & 19th Ave NE,33,XEV,0,0.3,6.3,0.1,1.4
+241,20,O,35334,NE Northgate Way & 19th Ave NE,33,XNT,0,0.2,6.2,0,0.5
+241,20,I,38145,Lake City Way NE & NE 120th St,4,AM,1,0,6.5,13.3,0.2
+241,20,I,38145,Lake City Way NE & NE 120th St,4,MID,1.1,0.1,9.4,11.8,1.3
+241,20,I,38145,Lake City Way NE & NE 120th St,4,PM,0.7,0.1,6.9,11.4,2
+241,20,I,38145,Lake City Way NE & NE 120th St,4,XEV,0.4,0.1,5.3,1.3,0.3
+241,20,I,38145,Lake City Way NE & NE 120th St,4,XNT,0.3,0,2.2,0.8,0
+241,20,O,17600,1st Ave NE & NE 80th St,19,AM,0,0.1,2.6,0.3,1
+241,20,O,17600,1st Ave NE & NE 80th St,19,MID,0,0,4.6,0.3,0.5
+241,20,O,17600,1st Ave NE & NE 80th St,19,PM,0,0.2,5.1,0.2,2.5
+241,20,O,17600,1st Ave NE & NE 80th St,19,XEV,0,0.1,4.1,0,0.5
+241,20,O,17600,1st Ave NE & NE 80th St,19,XNT,0,0.1,3.4,0,0.4
+241,20,O,23750,5th Ave NE & NE 103rd St,28,AM,0.3,0,4.5,3.2,0.4
+241,20,O,23750,5th Ave NE & NE 103rd St,28,MID,0.4,0.2,7.5,4.7,2.6
+241,20,O,23750,5th Ave NE & NE 103rd St,28,PM,0.5,0.3,10.7,7.2,4
+241,20,O,23750,5th Ave NE & NE 103rd St,28,XEV,0.3,0.2,7.3,1.7,0.9
+241,20,O,23750,5th Ave NE & NE 103rd St,28,XNT,0.3,0,6.6,0.8,0.1
+241,20,O,17650,Wallingford Ave N & N 82nd St,22,AM,0.5,0.1,3.4,5.2,1.3
+241,20,O,17650,Wallingford Ave N & N 82nd St,22,MID,0.8,0.1,5.4,10.7,1.5
+241,20,O,17650,Wallingford Ave N & N 82nd St,22,PM,0.5,0.2,5.4,8.1,2.5
+241,20,O,17650,Wallingford Ave N & N 82nd St,22,XEV,0.3,0.1,4.3,1.1,0.4
+241,20,O,17650,Wallingford Ave N & N 82nd St,22,XNT,0.1,0.1,3.3,0.3,0.2
+241,20,O,17680,Wallingford Ave N & N 90th St,23,AM,0.7,0.7,3.4,7.4,7.4
+241,20,O,17680,Wallingford Ave N & N 90th St,23,MID,0.7,0.4,5.7,9.5,5
+241,20,O,17680,Wallingford Ave N & N 90th St,23,PM,0.5,0.9,5,7.4,13
+241,20,O,17680,Wallingford Ave N & N 90th St,23,XEV,0.2,0.6,3.9,0.7,2.2
+241,20,O,17680,Wallingford Ave N & N 90th St,23,XNT,0.1,0.4,3,0.2,1.2
+241,20,O,9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,2,AM,0.3,0,1.1,3,0.2
+241,20,O,9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,2,MID,0.7,0,2.8,9.3,0.3
+241,20,O,9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,2,PM,1.6,0,5,25.6,0.6
+241,20,O,9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,2,XEV,0.7,0.1,2.9,1.3,0.1
+241,20,O,9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,2,XNT,0.4,0,1.8,1.1,0.1
+241,20,I,17040,Wallingford Ave N & N 90th St,17,AM,0.5,0.3,2.9,5.5,3.9
+241,20,I,17040,Wallingford Ave N & N 90th St,17,MID,0.8,0.6,6,10.5,7.2
+241,20,I,17040,Wallingford Ave N & N 90th St,17,PM,0.7,0.9,4.8,10.4,13.7
+241,20,I,17040,Wallingford Ave N & N 90th St,17,XEV,0.1,0.8,2.8,0.5,3.2
+241,20,I,17040,Wallingford Ave N & N 90th St,17,XNT,0,0.5,1.1,0.1,1.4
+241,20,O,17695,North Seattle College,24,AM,0.1,0.7,2.8,1.3,7.9
+241,20,O,17695,North Seattle College,24,MID,1.6,1.3,6.1,21.2,17
+241,20,O,17695,North Seattle College,24,PM,1.1,0.5,5.6,16.3,7.5
+241,20,O,17695,North Seattle College,24,XEV,0.3,0.2,4,1.3,0.8
