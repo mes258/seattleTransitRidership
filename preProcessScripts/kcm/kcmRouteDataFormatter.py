@@ -7,10 +7,12 @@ import csv
 # Write ouput to new data.csv in the data folder
 
 # Replace with the actual file path
-rawDataFilePath = "../../data/rawData/kcm/243_Fall_2024_Summarized_Stop_Data.csv"
+#rawDataFilePath = "../../data/rawData/kcm/243_Fall_2024_Summarized_Stop_Data.csv"
 #rawDataFilePath = "../../data/rawData/kcm/241_Spring_2024_Stop_Summary_Data.csv"
+rawDataFilePath = "../../data/rawData/kcm/allStopLevelData.csv"
+
 # Set accordingly
-timePeriod = "243"
+timePeriod = None
 # Set to None for all routes to be populated
 route = None
 
@@ -52,7 +54,7 @@ with open(rawDataFilePath, mode='r', newline='') as infile:
         service_change_num = row['SERVICE_CHANGE_NUM']
         service_rte_num = row['SERVICE_RTE_NUM']
         
-        if service_change_num == timePeriod and (service_rte_num == route or route is None):
+        if (service_change_num == timePeriod or timePeriod is None) and (service_rte_num == route or route is None):
           stopName = getKcmStopNameForStopId(stopData, row['STOP_ID'])
           if stopName == "NOT FOUND":
             print(f"Stop Name not found: route: {service_rte_num}, stop: {row['STOP_ID']}")
@@ -99,4 +101,4 @@ with open(rawDataFilePath, mode='r', newline='') as infile:
               if not file_exists:
                   writer.writeheader()  # Write the header if the file does not exist
               writer.writerow(outputRow)
-
+              
