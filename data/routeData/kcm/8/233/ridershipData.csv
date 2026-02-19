@@ -1,0 +1,356 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+233,8,I,2672,Queen Anne Ave N & W Mercer St,1,AM,4.7,0.9,4.1,65.5,12.4
+233,8,I,2180,Queen Anne Ave N & W Harrison St,2,AM,1.9,0,5.9,26.9,0.4
+233,8,I,2200,Queen Anne Ave N & W John St,3,AM,1.8,0,7.4,27,0.1
+233,8,I,2244,Denny Way & 2nd Ave N,4,AM,1.8,0.1,8.5,24.5,1.5
+233,8,I,2245,Denny Way & 5th Ave N,5,AM,1.2,0.1,9.6,17.1,1.4
+233,8,I,2247,Denny Way & 6th Ave,6,AM,1.4,0.1,10.9,19.8,1.3
+233,8,I,2250,Denny Way & Dexter Ave,7,AM,1.9,1.2,11.6,27,17.4
+233,8,I,2255,Denny Way & Westlake Ave,8,AM,2.8,1.6,12.7,39.1,22.8
+233,8,I,2260,Denny Way & Fairview Ave,9,AM,1.4,1.9,12.2,20,26.8
+233,8,I,2262,Denny Way & Stewart St,10,AM,2.2,1.4,13,30.4,19.5
+233,8,I,2264,E Denny Way & Melrose Ave,11,AM,0.6,0.2,13.4,8.8,3.2
+233,8,I,29268,E Olive Way & Summit Ave E,12,AM,1.7,1.1,14,23.6,14.8
+233,8,I,29270,E John St & Broadway  E - Bay 1,13,AM,3.4,3.8,13.6,47.8,53.3
+233,8,I,29277,E John St & 12th Ave E,14,AM,0.5,0.6,13.7,7,8
+233,8,I,29273,E John St & 15th Ave E,15,AM,0.6,3.6,10.7,8.1,47
+233,8,I,29274,E Thomas St & 16th Ave E,16,AM,0.7,0.3,11.1,8.7,3.5
+233,8,I,29275,E Thomas St & 19th Ave E,17,AM,0.3,1.5,10,4.2,19
+233,8,I,29276,E John St & 22nd Ave E,18,AM,0.3,1.5,8.7,3.7,19.8
+233,8,I,12378,E Madison St & 25th Ave E,19,AM,0.1,0.1,8.8,1.1,0.9
+233,8,I,12380,E Madison St & 27th Ave E,20,AM,0.2,1.3,7.7,2.7,16.8
+233,8,I,43706,Martin L King Jr Way E & E John St,21,AM,0.2,0.1,7.7,2.2,1.8
+233,8,I,43710,Martin L King Jr Way & E Olive St,22,AM,0.1,0.1,7.6,1.1,1.8
+233,8,I,43712,Martin L King Jr Way & E Union St,23,AM,0.5,0.4,7.8,5.7,5.1
+233,8,I,43714,Martin L King Jr Way & E Marion St,24,AM,0.1,0.1,7.8,0.9,1.3
+233,8,I,43716,Martin L King Jr Way & E Cherry St,25,AM,0.4,1.6,6.6,4.9,19
+233,8,I,43720,Martin L King Jr Way & E Alder St,26,AM,0.3,2.6,4.4,3.9,31
+233,8,I,27335,E Yesler Way & 27th Ave,27,AM,0.1,0.2,4.4,1.7,2.1
+233,8,I,12630,23rd Ave S & E Yesler Way,28,AM,0.3,0.7,4,3.5,7.9
+233,8,I,12010,S Jackson St & 23rd Ave S,29,AM,0.2,0.7,3.5,2.2,8.7
+233,8,I,43724,Martin L King Jr Way S & S Jackson St,30,AM,0.2,0.1,3.6,2.4,0.8
+233,8,I,43728,Martin L King Jr Way S & S Dearborn St,31,AM,0.2,0.3,3.4,2.1,3.9
+233,8,I,12481,Martin L King Jr Way S & S Judkins St,32,AM,0.3,0.3,3.4,3.4,3.4
+233,8,I,12487,Martin L King Jr Way S & S Massachusetts St,33,AM,0.1,0.5,3.2,1.3,5.8
+233,8,I,12484,Martin L King Jr Way S & S Hill St,34,AM,0,0.4,2.7,0.1,4.6
+233,8,I,12486,Martin L King Jr Way S & S Bayview St,35,AM,0,0.2,2.6,0,1.9
+233,8,I,8402,Mount Baker Transit Center - Bay 2,36,AM,0.2,2.8,0,2.3,30.5
+233,8,O,8402,Mount Baker Transit Center - Bay 2,1,AM,4.2,0,4.7,58.3,0.2
+233,8,O,8672,Martin L King Jr Way S & S Bayview St,2,AM,0,0,4.7,0.3,0
+233,8,O,36752,Martin L King Jr Way S & S Walker St,3,AM,0.1,0,4.7,1.8,0.6
+233,8,O,12497,Martin L King Jr Way S & S Massachusetts St,4,AM,0.1,0,4.8,0.7,0
+233,8,O,43765,Martin L King Jr Way S & S Irving St,5,AM,0.7,0.2,5.3,9.6,2.1
+233,8,O,43770,Martin L King Jr Way S & S Dearborn St,6,AM,0.8,0.1,5.9,11,1.5
+233,8,O,11890,S Jackson St & Martin L King Jr Way S,7,AM,0.8,0.1,6.6,11,1.2
+233,8,O,12550,23rd Ave S & S Jackson St,8,AM,1.3,1,7,17.5,13.3
+233,8,O,27570,E Yesler Way & 23rd Ave S,9,AM,1,0.9,7.1,14.5,13
+233,8,O,27590,E Yesler Way & 27th Ave S,10,AM,0.9,0.1,7.9,12.5,1.3
+233,8,O,43778,Martin L King Jr Way & E Alder St,11,AM,1.1,0.1,8.9,14.4,0.9
+233,8,O,43782,Martin L King Jr Way & E Cherry St,12,AM,0.9,0.2,9.7,12.2,2.3
+233,8,O,43784,Martin L King Jr Way & E Marion St,13,AM,0.8,0,10.5,10.6,0
+233,8,O,96760,Martin L King Jr Way & E Union St,14,AM,1.2,0.4,11.2,15.1,5.7
+233,8,O,43788,Martin L King Jr Way & E Olive St,15,AM,0.6,0,11.8,8.1,0.2
+233,8,O,43792,Martin L King Jr Way E & E John St,16,AM,1.2,0.3,12.7,15.2,3.5
+233,8,O,12322,E Madison St & 28th Ave E,17,AM,1.1,0.4,13.3,14,5.6
+233,8,O,12340,E Madison St & 25th Ave E,18,AM,1.6,0,14.8,20.2,0.2
+233,8,O,29258,E John St & 22nd Ave E,19,AM,3.1,4,14,37.5,47.8
+233,8,O,29259,E Thomas St & 19th Ave E,20,AM,2.4,0.3,16.1,28.6,3
+233,8,O,29260,E Thomas St & 16th Ave E,21,AM,1.5,0.9,16.8,18.4,10.9
+233,8,O,29261,E John St & 15th Ave E,22,AM,2.2,0.8,18.2,26.9,9.6
+233,8,O,29301,E John St & 12th Ave E,23,AM,2.3,0.2,20.3,28.1,2.7
+233,8,O,29262,E John St & Broadway  E - Bay 2,24,AM,3.5,3,20.8,41.9,36.5
+233,8,O,29266,E Olive Way & Summit Ave E,25,AM,2.5,0.4,22.9,30,4.6
+233,8,O,2275,E Denny Way & Bellevue Ave E,26,AM,2.4,0.5,24.8,28.4,6.1
+233,8,O,2285,Denny Way & Fairview Ave N,27,AM,1.1,7.1,18.7,12.4,77.6
+233,8,O,2291,Denny Way & Westlake Ave,28,AM,0.3,5.9,13.2,3.8,65
+233,8,O,2295,Denny Way & Dexter Ave N,29,AM,0.2,2.8,10.6,2.2,31.1
+233,8,O,2297,Denny Way & 6th Ave N,30,AM,0.1,1.1,9.5,1,12.4
+233,8,O,2300,Denny Way & 5th Ave N,31,AM,0,2.2,7.4,0.4,23.8
+233,8,O,20829,Denny Way & 2nd Ave N,32,AM,0,1.4,5.7,0,14.4
+233,8,O,2330,1st Ave N & Denny Way,33,AM,0.1,2.6,3.1,0.7,26.3
+233,8,O,2360,1st Ave N & Republican St,34,AM,0,1.7,1.4,0,17.4
+233,8,O,2370,Mercer St & Queen Anne Ave N,35,AM,0,1.4,0,0,13.8
+233,8,I,2672,Queen Anne Ave N & W Mercer St,1,MID,5.4,0,5.6,129,0.1
+233,8,I,2180,Queen Anne Ave N & W Harrison St,2,MID,2.3,0,7.8,56.1,0.5
+233,8,I,2200,Queen Anne Ave N & W John St,3,MID,2,0.1,9.7,47.5,3
+233,8,I,2244,Denny Way & 2nd Ave N,4,MID,3.2,0.1,13.1,81.2,2
+233,8,I,2245,Denny Way & 5th Ave N,5,MID,2.3,0.3,15.1,58.1,7.5
+233,8,I,2247,Denny Way & 6th Ave,6,MID,1.7,0.2,16.5,41.8,5.5
+233,8,I,2250,Denny Way & Dexter Ave,7,MID,2,1.1,17.5,46.9,27
+233,8,I,2255,Denny Way & Westlake Ave,8,MID,5.3,3.7,19.1,127.3,88.7
+233,8,I,2260,Denny Way & Fairview Ave,9,MID,2.4,2.7,18.9,58.3,64.4
+233,8,I,2262,Denny Way & Stewart St,10,MID,3.6,2,20.4,85.2,47.3
+233,8,I,2264,E Denny Way & Melrose Ave,11,MID,0.7,0.9,20.2,17,22.2
+233,8,I,29268,E Olive Way & Summit Ave E,12,MID,1.6,2.8,19,37.9,66.9
+233,8,I,29270,E John St & Broadway  E - Bay 1,13,MID,5.8,7.7,16.6,134.3,176.6
+233,8,I,29277,E John St & 12th Ave E,14,MID,0.5,1,15.9,11.2,23.1
+233,8,I,29273,E John St & 15th Ave E,15,MID,1.3,5.7,11.5,32.2,137.1
+233,8,I,29274,E Thomas St & 16th Ave E,16,MID,0.6,0.6,11.4,13.7,14.8
+233,8,I,29275,E Thomas St & 19th Ave E,17,MID,0.3,1.6,10.2,7.5,37.3
+233,8,I,29276,E John St & 22nd Ave E,18,MID,0.5,1.9,8.8,11.7,44.8
+233,8,I,12378,E Madison St & 25th Ave E,19,MID,0.1,0.3,8.5,1.7,7.4
+233,8,I,12380,E Madison St & 27th Ave E,20,MID,0.3,1.7,7.2,6.8,39.7
+233,8,I,43706,Martin L King Jr Way E & E John St,21,MID,0.2,0.2,7.1,4.3,5.5
+233,8,I,43710,Martin L King Jr Way & E Olive St,22,MID,0.1,0.2,7.2,1.9,5.3
+233,8,I,43712,Martin L King Jr Way & E Union St,23,MID,0.9,1.1,6.9,23.1,27.8
+233,8,I,43714,Martin L King Jr Way & E Marion St,24,MID,0.1,0.2,6.8,1.4,4.8
+233,8,I,43716,Martin L King Jr Way & E Cherry St,25,MID,0.4,0.8,6.3,9.4,20.7
+233,8,I,43720,Martin L King Jr Way & E Alder St,26,MID,0,0.6,5.8,1.1,15.7
+233,8,I,27335,E Yesler Way & 27th Ave,27,MID,0.1,0.4,5.3,2.6,9.9
+233,8,I,12630,23rd Ave S & E Yesler Way,28,MID,0.2,1.2,4.4,5.9,28.3
+233,8,I,12010,S Jackson St & 23rd Ave S,29,MID,0.5,1.2,3.7,13,29.3
+233,8,I,43724,Martin L King Jr Way S & S Jackson St,30,MID,0.1,0.2,3.6,2.2,4.4
+233,8,I,43728,Martin L King Jr Way S & S Dearborn St,31,MID,0.2,0.3,3.5,3.6,6.8
+233,8,I,12481,Martin L King Jr Way S & S Judkins St,32,MID,0.2,0.2,3.5,4.4,5.1
+233,8,I,12487,Martin L King Jr Way S & S Massachusetts St,33,MID,0.1,0.1,3.3,1.3,3.6
+233,8,I,12484,Martin L King Jr Way S & S Hill St,34,MID,0,0.3,3,1.1,8
+233,8,I,12486,Martin L King Jr Way S & S Bayview St,35,MID,0,0.2,2.9,0,4
+233,8,I,8402,Mount Baker Transit Center - Bay 2,36,MID,0.3,3.2,0,7.8,79.9
+233,8,O,8402,Mount Baker Transit Center - Bay 2,1,MID,3.8,0,4.4,92.3,0.1
+233,8,O,8672,Martin L King Jr Way S & S Bayview St,2,MID,0.1,0,4.5,1.7,0
+233,8,O,36752,Martin L King Jr Way S & S Walker St,3,MID,0.3,0.1,4.7,6.8,1.5
+233,8,O,12497,Martin L King Jr Way S & S Massachusetts St,4,MID,0.1,0,4.7,1.5,0.3
+233,8,O,43765,Martin L King Jr Way S & S Irving St,5,MID,0.6,0.1,5.2,14.5,3.4
+233,8,O,43770,Martin L King Jr Way S & S Dearborn St,6,MID,0.4,0.2,5.4,9.8,4.5
+233,8,O,11890,S Jackson St & Martin L King Jr Way S,7,MID,0.4,0.2,5.6,9,3.6
+233,8,O,12550,23rd Ave S & S Jackson St,8,MID,1.8,0.7,6.8,44.1,15.6
+233,8,O,27570,E Yesler Way & 23rd Ave S,9,MID,1.2,0.5,7.4,27.9,12.3
+233,8,O,27590,E Yesler Way & 27th Ave S,10,MID,0.4,0.1,7.7,10.2,2.8
+233,8,O,43778,Martin L King Jr Way & E Alder St,11,MID,0.5,0.1,8,12.5,3
+233,8,O,43782,Martin L King Jr Way & E Cherry St,12,MID,0.8,0.4,8.4,19.6,10.4
+233,8,O,43784,Martin L King Jr Way & E Marion St,13,MID,0.2,0.1,8.5,4.3,1.4
+233,8,O,96760,Martin L King Jr Way & E Union St,14,MID,1.2,0.7,9,29.3,17.3
+233,8,O,43788,Martin L King Jr Way & E Olive St,15,MID,0.3,0.1,9.3,7.5,1.8
+233,8,O,43792,Martin L King Jr Way E & E John St,16,MID,0.5,0.3,9.4,11.7,7.6
+233,8,O,12322,E Madison St & 28th Ave E,17,MID,1.7,0.7,10.5,40,15.8
+233,8,O,12340,E Madison St & 25th Ave E,18,MID,0.8,0.1,11.2,19.9,3
+233,8,O,29258,E John St & 22nd Ave E,19,MID,2.8,0.6,13.5,70.6,15.3
+233,8,O,29259,E Thomas St & 19th Ave E,20,MID,2.1,0.5,14.8,49.2,11.2
+233,8,O,29260,E Thomas St & 16th Ave E,21,MID,0.8,0.9,14.7,18.3,21.4
+233,8,O,29261,E John St & 15th Ave E,22,MID,4.1,1.2,17.7,99.2,27.9
+233,8,O,29301,E John St & 12th Ave E,23,MID,1.4,0.4,18.7,34.6,9.3
+233,8,O,29262,E John St & Broadway  E - Bay 2,24,MID,5.4,5.7,18.5,128.9,135.6
+233,8,O,29266,E Olive Way & Summit Ave E,25,MID,2.2,1,19.6,51.8,24.5
+233,8,O,2275,E Denny Way & Bellevue Ave E,26,MID,1.9,0.9,20.6,45.3,21.1
+233,8,O,2285,Denny Way & Fairview Ave N,27,MID,2,5.4,17.5,51.1,135.9
+233,8,O,2291,Denny Way & Westlake Ave,28,MID,1.5,5.6,13.4,36.3,139
+233,8,O,2295,Denny Way & Dexter Ave N,29,MID,0.3,2.6,10.8,7.8,62.9
+233,8,O,2297,Denny Way & 6th Ave N,30,MID,0.2,1.2,9.8,4,29.2
+233,8,O,2300,Denny Way & 5th Ave N,31,MID,0.1,2.1,7.8,3.4,51.3
+233,8,O,20829,Denny Way & 2nd Ave N,32,MID,0,1.4,6.5,0.5,35.5
+233,8,O,2330,1st Ave N & Denny Way,33,MID,0.2,1.8,4.9,4.7,43.9
+233,8,O,2360,1st Ave N & Republican St,34,MID,0,2.9,2,0.8,73.3
+233,8,O,2370,Mercer St & Queen Anne Ave N,35,MID,0,2.1,0,0.8,51.6
+233,8,I,2672,Queen Anne Ave N & W Mercer St,1,PM,5.9,0,6,106.2,0.5
+233,8,I,2180,Queen Anne Ave N & W Harrison St,2,PM,1.5,0,7.5,26.7,0.8
+233,8,I,2200,Queen Anne Ave N & W John St,3,PM,2.3,0.1,9.7,42.2,2.1
+233,8,I,2244,Denny Way & 2nd Ave N,4,PM,3.5,0.2,12.9,62.3,3.1
+233,8,I,2245,Denny Way & 5th Ave N,5,PM,3.5,0.2,16.1,62.2,3.9
+233,8,I,2247,Denny Way & 6th Ave,6,PM,2.4,0.4,18.1,42.9,7.6
+233,8,I,2250,Denny Way & Dexter Ave,7,PM,4.6,0.9,21.7,83.1,16.1
+233,8,I,2255,Denny Way & Westlake Ave,8,PM,15,1.6,34.7,270.4,28.8
+233,8,I,2260,Denny Way & Fairview Ave,9,PM,5.6,1.7,38.6,101.1,30.1
+233,8,I,2262,Denny Way & Stewart St,10,PM,6.5,2,43.4,117.1,36.3
+233,8,I,2264,E Denny Way & Melrose Ave,11,PM,0.7,2.3,41.8,12.9,41.8
+233,8,I,29268,E Olive Way & Summit Ave E,12,PM,2,6.9,36.8,35.2,124.1
+233,8,I,29270,E John St & Broadway  E - Bay 1,13,PM,7.9,13.5,31,150,255.8
+233,8,I,29277,E John St & 12th Ave E,14,PM,0.5,2.9,28.7,10.1,54.2
+233,8,I,29273,E John St & 15th Ave E,15,PM,1.2,8.8,21.1,22.6,167.7
+233,8,I,29274,E Thomas St & 16th Ave E,16,PM,0.5,1.5,20.2,9.8,27.2
+233,8,I,29275,E Thomas St & 19th Ave E,17,PM,1,3.5,17.7,17.5,63.3
+233,8,I,29276,E John St & 22nd Ave E,18,PM,2.1,5.2,14.5,37.1,93.3
+233,8,I,12378,E Madison St & 25th Ave E,19,PM,0.1,0.9,13.7,1.9,16.7
+233,8,I,12380,E Madison St & 27th Ave E,20,PM,0.2,1.8,12.2,4.3,31.7
+233,8,I,43706,Martin L King Jr Way E & E John St,21,PM,0.3,0.7,11.8,5,12.3
+233,8,I,43710,Martin L King Jr Way & E Olive St,22,PM,0.2,0.5,11.5,2.7,8.5
+233,8,I,43712,Martin L King Jr Way & E Union St,23,PM,1,1.9,10.6,17.7,34.6
+233,8,I,43714,Martin L King Jr Way & E Marion St,24,PM,0.1,0.5,10.2,1.4,8.3
+233,8,I,43716,Martin L King Jr Way & E Cherry St,25,PM,0.4,1.4,9.2,7.7,26
+233,8,I,43720,Martin L King Jr Way & E Alder St,26,PM,0.1,0.8,8.5,2.3,15.2
+233,8,I,27335,E Yesler Way & 27th Ave,27,PM,0.1,1.1,7.5,2.1,20.9
+233,8,I,12630,23rd Ave S & E Yesler Way,28,PM,0.6,1.6,6.5,10.7,29.6
+233,8,I,12010,S Jackson St & 23rd Ave S,29,PM,0.9,1.7,5.9,15.8,30
+233,8,I,43724,Martin L King Jr Way S & S Jackson St,30,PM,0.1,0.5,5.5,1.8,8.7
+233,8,I,43728,Martin L King Jr Way S & S Dearborn St,31,PM,0.2,0.8,4.9,4.2,14.4
+233,8,I,12481,Martin L King Jr Way S & S Judkins St,32,PM,0.2,0.6,4.5,3.8,10.9
+233,8,I,12487,Martin L King Jr Way S & S Massachusetts St,33,PM,0.1,0.4,4.2,1.3,7.1
+233,8,I,12484,Martin L King Jr Way S & S Hill St,34,PM,0.1,0.3,4,0.9,4.5
+233,8,I,12486,Martin L King Jr Way S & S Bayview St,35,PM,0,0.2,3.9,0.2,3
+233,8,I,8402,Mount Baker Transit Center - Bay 2,36,PM,0.4,4.4,0,7.8,78.6
+233,8,O,8402,Mount Baker Transit Center - Bay 2,1,PM,4.2,0,4.9,75.5,0.2
+233,8,O,8672,Martin L King Jr Way S & S Bayview St,2,PM,0.1,0,4.9,0.9,0.3
+233,8,O,36752,Martin L King Jr Way S & S Walker St,3,PM,0.5,0.2,5.2,9.6,2.9
+233,8,O,12497,Martin L King Jr Way S & S Massachusetts St,4,PM,0.1,0,5.2,1.3,0.5
+233,8,O,43765,Martin L King Jr Way S & S Irving St,5,PM,0.7,0.2,5.8,13.1,3.5
+233,8,O,43770,Martin L King Jr Way S & S Dearborn St,6,PM,0.4,0.2,5.9,7.3,4.3
+233,8,O,11890,S Jackson St & Martin L King Jr Way S,7,PM,0.4,0.3,6,6.3,5.3
+233,8,O,12550,23rd Ave S & S Jackson St,8,PM,1.7,0.7,7,30.1,13
+233,8,O,27570,E Yesler Way & 23rd Ave S,9,PM,1.6,0.5,8,28.2,8.8
+233,8,O,27590,E Yesler Way & 27th Ave S,10,PM,0.4,0.2,8.5,7.1,3
+233,8,O,43778,Martin L King Jr Way & E Alder St,11,PM,0.9,0.3,9.2,16.7,4.9
+233,8,O,43782,Martin L King Jr Way & E Cherry St,12,PM,0.9,0.5,9.7,16.5,8.7
+233,8,O,43784,Martin L King Jr Way & E Marion St,13,PM,0.1,0.2,9.7,2.6,2.7
+233,8,O,96760,Martin L King Jr Way & E Union St,14,PM,1.5,0.9,10.2,26.6,16.4
+233,8,O,43788,Martin L King Jr Way & E Olive St,15,PM,0.2,0.2,10.3,3.8,2.9
+233,8,O,43792,Martin L King Jr Way E & E John St,16,PM,0.5,0.4,10.4,9,8
+233,8,O,12322,E Madison St & 28th Ave E,17,PM,1.9,0.5,11.7,33.7,9.4
+233,8,O,12340,E Madison St & 25th Ave E,18,PM,0.6,0.1,12.1,10.2,1.9
+233,8,O,29258,E John St & 22nd Ave E,19,PM,2.7,0.7,14.1,48.3,12.8
+233,8,O,29259,E Thomas St & 19th Ave E,20,PM,2.2,0.5,16.1,42.5,9.5
+233,8,O,29260,E Thomas St & 16th Ave E,21,PM,0.7,1.1,15.7,13.8,21.7
+233,8,O,29261,E John St & 15th Ave E,22,PM,4.5,1.5,19.1,80.8,27.6
+233,8,O,29301,E John St & 12th Ave E,23,PM,1.1,0.8,19.5,19.9,13.5
+233,8,O,29262,E John St & Broadway  E - Bay 2,24,PM,6,6.6,18.8,107.2,119.3
+233,8,O,29266,E Olive Way & Summit Ave E,25,PM,2.1,1.9,19,37.7,33.3
+233,8,O,2275,E Denny Way & Bellevue Ave E,26,PM,1.9,1.2,19.7,34.5,21.6
+233,8,O,2285,Denny Way & Fairview Ave N,27,PM,4.7,4.2,20.4,79.1,71.3
+233,8,O,2291,Denny Way & Westlake Ave,28,PM,5,3.9,21.6,85.2,65.8
+233,8,O,2295,Denny Way & Dexter Ave N,29,PM,1.1,2.7,19.9,20.6,48.8
+233,8,O,2297,Denny Way & 6th Ave N,30,PM,0.4,2.1,18.2,6.9,37.7
+233,8,O,2300,Denny Way & 5th Ave N,31,PM,0.2,2.7,15.7,3.9,49.3
+233,8,O,20829,Denny Way & 2nd Ave N,32,PM,0.1,2.9,12.9,1.7,51.4
+233,8,O,2330,1st Ave N & Denny Way,33,PM,0.3,3.3,9.9,4.5,59.5
+233,8,O,2360,1st Ave N & Republican St,34,PM,0,6,4,0.5,107.3
+233,8,O,2370,Mercer St & Queen Anne Ave N,35,PM,0,4,0,0.6,72.6
+233,8,I,2672,Queen Anne Ave N & W Mercer St,1,XEV,4.3,0,4.5,43,0.3
+233,8,I,2180,Queen Anne Ave N & W Harrison St,2,XEV,1.1,0.1,5.5,10.8,0.5
+233,8,I,2200,Queen Anne Ave N & W John St,3,XEV,1.2,0.2,6.4,11.6,1.9
+233,8,I,2244,Denny Way & 2nd Ave N,4,XEV,2.2,0.1,8.5,22.2,1.4
+233,8,I,2245,Denny Way & 5th Ave N,5,XEV,3,0.2,11.3,29.7,1.8
+233,8,I,2247,Denny Way & 6th Ave,6,XEV,1.4,0.2,12.5,13.8,1.7
+233,8,I,2250,Denny Way & Dexter Ave,7,XEV,1.9,0.5,14.3,21.4,5
+233,8,I,2255,Denny Way & Westlake Ave,8,XEV,7.4,0.8,20.8,80.9,9.1
+233,8,I,2260,Denny Way & Fairview Ave,9,XEV,2.6,1.4,22,28.7,15.1
+233,8,I,2262,Denny Way & Stewart St,10,XEV,4,1.1,24.9,44.1,12.4
+233,8,I,2264,E Denny Way & Melrose Ave,11,XEV,0.5,1.6,23.8,5,17.1
+233,8,I,29268,E Olive Way & Summit Ave E,12,XEV,1.8,4.7,21,20.2,51.9
+233,8,I,29270,E John St & Broadway  E - Bay 1,13,XEV,6.3,8.2,19.1,69.7,90
+233,8,I,29277,E John St & 12th Ave E,14,XEV,0.4,1.7,17.8,4.8,18.9
+233,8,I,29273,E John St & 15th Ave E,15,XEV,1,4.9,13.9,10.9,54.3
+233,8,I,29274,E Thomas St & 16th Ave E,16,XEV,0.4,1,13.7,5.2,12.4
+233,8,I,29275,E Thomas St & 19th Ave E,17,XEV,0.2,2.1,11.9,2.3,24.8
+233,8,I,29276,E John St & 22nd Ave E,18,XEV,0.4,3.2,9,4.6,38.9
+233,8,I,12378,E Madison St & 25th Ave E,19,XEV,0,0.6,8.4,0,7
+233,8,I,12380,E Madison St & 27th Ave E,20,XEV,0.2,0.9,7.7,1.9,10.2
+233,8,I,43706,Martin L King Jr Way E & E John St,21,XEV,0.1,0.3,7.5,1,3.8
+233,8,I,43710,Martin L King Jr Way & E Olive St,22,XEV,0,0.3,7.2,0.2,3.3
+233,8,I,43712,Martin L King Jr Way & E Union St,23,XEV,0.6,0.9,7.1,7.1,10.3
+233,8,I,43714,Martin L King Jr Way & E Marion St,24,XEV,0.1,0.3,6.9,0.9,2.8
+233,8,I,43716,Martin L King Jr Way & E Cherry St,25,XEV,0.3,1.1,6.1,3.4,11.7
+233,8,I,43720,Martin L King Jr Way & E Alder St,26,XEV,0,0.3,5.8,0.3,3.8
+233,8,I,27335,E Yesler Way & 27th Ave,27,XEV,0,0.8,5.1,0.5,9
+233,8,I,12630,23rd Ave S & E Yesler Way,28,XEV,0.1,0.8,4.4,1.5,9.3
+233,8,I,12010,S Jackson St & 23rd Ave S,29,XEV,0.4,1.6,3.2,5.1,19.5
+233,8,I,43724,Martin L King Jr Way S & S Jackson St,30,XEV,0.1,0.3,2.9,1,3.6
+233,8,I,43728,Martin L King Jr Way S & S Dearborn St,31,XEV,0.2,0.3,2.8,2,3.6
+233,8,I,12481,Martin L King Jr Way S & S Judkins St,32,XEV,0.1,0.3,2.6,0.6,3.4
+233,8,I,12487,Martin L King Jr Way S & S Massachusetts St,33,XEV,0,0.3,2.3,0.2,3.7
+233,8,I,12484,Martin L King Jr Way S & S Hill St,34,XEV,0,0.1,2.1,0.3,1.6
+233,8,I,12486,Martin L King Jr Way S & S Bayview St,35,XEV,0,0.1,2.1,0,1
+233,8,I,8402,Mount Baker Transit Center - Bay 2,36,XEV,0.2,2.3,0,2.4,27.6
+233,8,O,8402,Mount Baker Transit Center - Bay 2,1,XEV,2.4,0,2.9,24.4,0
+233,8,O,8672,Martin L King Jr Way S & S Bayview St,2,XEV,0,0,3,0.4,0.1
+233,8,O,36752,Martin L King Jr Way S & S Walker St,3,XEV,0.2,0.1,3,2.1,0.9
+233,8,O,12497,Martin L King Jr Way S & S Massachusetts St,4,XEV,0,0,3,0.1,0.1
+233,8,O,43765,Martin L King Jr Way S & S Irving St,5,XEV,0.2,0.1,3.1,2.3,1.2
+233,8,O,43770,Martin L King Jr Way S & S Dearborn St,6,XEV,0.1,0.2,3.1,1.2,1.6
+233,8,O,11890,S Jackson St & Martin L King Jr Way S,7,XEV,0.2,0.2,3.2,2.2,1.7
+233,8,O,12550,23rd Ave S & S Jackson St,8,XEV,0.7,0.5,3.4,6.8,4.7
+233,8,O,27570,E Yesler Way & 23rd Ave S,9,XEV,0.6,0.3,3.7,5.5,2.5
+233,8,O,27590,E Yesler Way & 27th Ave S,10,XEV,0.2,0.1,3.8,2.1,0.8
+233,8,O,43778,Martin L King Jr Way & E Alder St,11,XEV,0.1,0.1,3.9,1.4,0.7
+233,8,O,43782,Martin L King Jr Way & E Cherry St,12,XEV,0.5,0.3,4.1,5.1,2.9
+233,8,O,43784,Martin L King Jr Way & E Marion St,13,XEV,0.1,0.1,4.2,1,0.6
+233,8,O,96760,Martin L King Jr Way & E Union St,14,XEV,0.9,0.5,4.6,9.4,5.1
+233,8,O,43788,Martin L King Jr Way & E Olive St,15,XEV,0.2,0.1,4.7,1.9,0.7
+233,8,O,43792,Martin L King Jr Way E & E John St,16,XEV,0.2,0.2,4.6,2,2.7
+233,8,O,12322,E Madison St & 28th Ave E,17,XEV,1,0.1,5.4,10.7,1.6
+233,8,O,12340,E Madison St & 25th Ave E,18,XEV,0.3,0,5.6,2.9,0.5
+233,8,O,29258,E John St & 22nd Ave E,19,XEV,1.1,0.3,6.4,11.6,2.9
+233,8,O,29259,E Thomas St & 19th Ave E,20,XEV,0.9,0.1,7.2,10.3,1.5
+233,8,O,29260,E Thomas St & 16th Ave E,21,XEV,0.5,0.4,7.3,5.2,4.5
+233,8,O,29261,E John St & 15th Ave E,22,XEV,2.2,0.7,9,24.7,8
+233,8,O,29301,E John St & 12th Ave E,23,XEV,0.6,0.4,9.3,7,4.1
+233,8,O,29262,E John St & Broadway  E - Bay 2,24,XEV,4.7,2.6,11.4,51.9,28.9
+233,8,O,29266,E Olive Way & Summit Ave E,25,XEV,1.4,1.2,11.6,15.2,12.7
+233,8,O,2275,E Denny Way & Bellevue Ave E,26,XEV,1.2,0.7,12.1,13,7.4
+233,8,O,2285,Denny Way & Fairview Ave N,27,XEV,1.9,2.6,11.7,22.5,30.9
+233,8,O,2291,Denny Way & Westlake Ave,28,XEV,1.8,1.8,11.8,22,21.2
+233,8,O,2295,Denny Way & Dexter Ave N,29,XEV,0.3,1.7,10.5,4,19.8
+233,8,O,2297,Denny Way & 6th Ave N,30,XEV,0.2,1.4,9.4,2.5,16.4
+233,8,O,2300,Denny Way & 5th Ave N,31,XEV,0.1,1.6,7.8,1.3,19.5
+233,8,O,20829,Denny Way & 2nd Ave N,32,XEV,0,1.2,6.7,0.1,14.4
+233,8,O,2330,1st Ave N & Denny Way,33,XEV,0.2,1.7,5.1,2,20.3
+233,8,O,2360,1st Ave N & Republican St,34,XEV,0,2.8,2.4,0.3,33.4
+233,8,O,2370,Mercer St & Queen Anne Ave N,35,XEV,0,2.4,0,0.4,29
+233,8,I,2672,Queen Anne Ave N & W Mercer St,1,XNT,2.7,0,2.7,19,0
+233,8,I,2180,Queen Anne Ave N & W Harrison St,2,XNT,1,0,3.7,6.8,0
+233,8,I,2200,Queen Anne Ave N & W John St,3,XNT,0.8,0.2,4.8,4.5,1.1
+233,8,I,2244,Denny Way & 2nd Ave N,4,XNT,1.4,0.1,6.2,8.6,0.6
+233,8,I,2245,Denny Way & 5th Ave N,5,XNT,1.4,0.1,7.3,8.2,0.4
+233,8,I,2247,Denny Way & 6th Ave,6,XNT,1,0.1,8.2,5.7,0.4
+233,8,I,2250,Denny Way & Dexter Ave,7,XNT,0.9,0.3,8.8,5.6,1.7
+233,8,I,2255,Denny Way & Westlake Ave,8,XNT,3.4,0.2,11.9,20.1,1.4
+233,8,I,2260,Denny Way & Fairview Ave,9,XNT,1,0.5,12.5,6,2.9
+233,8,I,2262,Denny Way & Stewart St,10,XNT,1.7,0.6,13.6,10.3,3.4
+233,8,I,2264,E Denny Way & Melrose Ave,11,XNT,0.2,0.8,13,1,4.9
+233,8,I,29268,E Olive Way & Summit Ave E,12,XNT,0.9,2.5,11.4,5.6,15
+233,8,I,29270,E John St & Broadway  E - Bay 1,13,XNT,4,3,12.5,24.1,17.9
+233,8,I,29277,E John St & 12th Ave E,14,XNT,0.2,1.1,11.6,1,6.4
+233,8,I,29273,E John St & 15th Ave E,15,XNT,0.6,3.2,9,3.7,19.3
+233,8,I,29274,E Thomas St & 16th Ave E,16,XNT,0.2,0.4,8.8,1.2,2.4
+233,8,I,29275,E Thomas St & 19th Ave E,17,XNT,0.1,0.9,7.9,0.3,5.5
+233,8,I,29276,E John St & 22nd Ave E,18,XNT,0.2,2.1,6.1,1,12.3
+233,8,I,12378,E Madison St & 25th Ave E,19,XNT,0,0.3,5.8,0,1.8
+233,8,I,12380,E Madison St & 27th Ave E,20,XNT,0.4,0.7,5.5,2.1,4
+233,8,I,43706,Martin L King Jr Way E & E John St,21,XNT,0,0.3,5.3,0.3,2.3
+233,8,I,43710,Martin L King Jr Way & E Olive St,22,XNT,0,0.2,5.1,0,1.1
+233,8,I,43712,Martin L King Jr Way & E Union St,23,XNT,0.4,0.5,5.1,2.7,3.2
+233,8,I,43714,Martin L King Jr Way & E Marion St,24,XNT,0,0.1,5,0.1,0.9
+233,8,I,43716,Martin L King Jr Way & E Cherry St,25,XNT,0.1,0.5,4.6,0.4,3.4
+233,8,I,43720,Martin L King Jr Way & E Alder St,26,XNT,0,0.2,4.4,0,1.2
+233,8,I,27335,E Yesler Way & 27th Ave,27,XNT,0,0.7,3.7,0.1,5.2
+233,8,I,12630,23rd Ave S & E Yesler Way,28,XNT,0,1,2.7,0.3,7
+233,8,I,12010,S Jackson St & 23rd Ave S,29,XNT,0.4,0.7,2.3,2.5,5
+233,8,I,43724,Martin L King Jr Way S & S Jackson St,30,XNT,0.1,0.2,2.2,0.6,1.3
+233,8,I,43728,Martin L King Jr Way S & S Dearborn St,31,XNT,0,0.2,2.1,0.2,1.1
+233,8,I,12481,Martin L King Jr Way S & S Judkins St,32,XNT,0,0.1,2,0,0.7
+233,8,I,12487,Martin L King Jr Way S & S Massachusetts St,33,XNT,0,0.1,1.9,0,0.8
+233,8,I,12484,Martin L King Jr Way S & S Hill St,34,XNT,0,0.1,1.8,0.1,0.4
+233,8,I,12486,Martin L King Jr Way S & S Bayview St,35,XNT,0,0,1.8,0,0.2
+233,8,I,8402,Mount Baker Transit Center - Bay 2,36,XNT,0.4,2.2,0,2.6,15.3
+233,8,O,8402,Mount Baker Transit Center - Bay 2,1,XNT,1.6,0,1.8,9.7,0
+233,8,O,8672,Martin L King Jr Way S & S Bayview St,2,XNT,0.1,0,1.8,0.5,0
+233,8,O,36752,Martin L King Jr Way S & S Walker St,3,XNT,0.2,0,1.9,1.1,0.1
+233,8,O,12497,Martin L King Jr Way S & S Massachusetts St,4,XNT,0,0,1.9,0,0
+233,8,O,43765,Martin L King Jr Way S & S Irving St,5,XNT,0.1,0.1,1.9,0.5,0.3
+233,8,O,43770,Martin L King Jr Way S & S Dearborn St,6,XNT,0.1,0.1,1.9,0.6,0.5
+233,8,O,11890,S Jackson St & Martin L King Jr Way S,7,XNT,0.2,0.1,2,1.4,0.8
+233,8,O,12550,23rd Ave S & S Jackson St,8,XNT,0.5,0.3,2.3,2.9,1.5
+233,8,O,27570,E Yesler Way & 23rd Ave S,9,XNT,0.3,0.2,2.3,1.5,0.9
+233,8,O,27590,E Yesler Way & 27th Ave S,10,XNT,0.1,0.1,2.4,0.5,0.5
+233,8,O,43778,Martin L King Jr Way & E Alder St,11,XNT,0.1,0,2.4,0.3,0
+233,8,O,43782,Martin L King Jr Way & E Cherry St,12,XNT,0.2,0.2,2.4,1.2,1.2
+233,8,O,43784,Martin L King Jr Way & E Marion St,13,XNT,0.1,0.1,2.4,0.4,0.8
+233,8,O,96760,Martin L King Jr Way & E Union St,14,XNT,0.3,0.2,2.5,2,1
+233,8,O,43788,Martin L King Jr Way & E Olive St,15,XNT,0,0,2.5,0,0.2
+233,8,O,43792,Martin L King Jr Way E & E John St,16,XNT,0.1,0.1,2.5,0.5,0.5
+233,8,O,12322,E Madison St & 28th Ave E,17,XNT,0.6,0.1,3,3.3,0.5
+233,8,O,12340,E Madison St & 25th Ave E,18,XNT,0.1,0,3.1,0.7,0
+233,8,O,29258,E John St & 22nd Ave E,19,XNT,0.5,0.1,3.5,2.9,0.6
+233,8,O,29259,E Thomas St & 19th Ave E,20,XNT,0.3,0.1,3.7,1.7,0.4
+233,8,O,29260,E Thomas St & 16th Ave E,21,XNT,0.2,0.2,3.7,1.3,0.9
+233,8,O,29261,E John St & 15th Ave E,22,XNT,2,0.5,5.6,13.9,3.2
+233,8,O,29301,E John St & 12th Ave E,23,XNT,0.3,0.2,5.8,2.3,1.1
+233,8,O,29262,E John St & Broadway  E - Bay 2,24,XNT,2.4,1.8,6.4,16.8,12.6
+233,8,O,29266,E Olive Way & Summit Ave E,25,XNT,0.8,0.7,6.6,5.9,4.6
+233,8,O,2275,E Denny Way & Bellevue Ave E,26,XNT,0.8,0.4,7,5.8,2.7
+233,8,O,2285,Denny Way & Fairview Ave N,27,XNT,0.7,1.3,6.5,5.2,8.8
+233,8,O,2291,Denny Way & Westlake Ave,28,XNT,0.5,0.7,6.3,3.3,4.7
+233,8,O,2295,Denny Way & Dexter Ave N,29,XNT,0.1,1,5.4,0.5,7
+233,8,O,2297,Denny Way & 6th Ave N,30,XNT,0.1,0.6,4.8,0.4,4.5
+233,8,O,2300,Denny Way & 5th Ave N,31,XNT,0.1,0.8,4,0.4,5.7
+233,8,O,20829,Denny Way & 2nd Ave N,32,XNT,0,0.4,3.6,0.1,2.7
+233,8,O,2330,1st Ave N & Denny Way,33,XNT,0.1,0.9,2.9,0.8,6.3
+233,8,O,2360,1st Ave N & Republican St,34,XNT,0,1.1,1.8,0.2,7.8
+233,8,O,2370,Mercer St & Queen Anne Ave N,35,XNT,0.1,1.9,0,0.6,13.6

@@ -142,7 +142,7 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log(routeData)
         routeDataDiv.innerHTML = `<h1>${routeData["routeName"]}</h1>`
         routeDataDiv.innerHTML += `<h3>${routeData["destinations"]}</h3>`
-        routeDataDiv.innerHTML += `<p>In ${serviceChangeMapping[serviceChange]}, ${agencyMapping[agency]} ${routeData["routeName"]} had about ${routeData["avgWeekdayRidership"].toLocaleString("en-US")} average weekday passengers.</p>`
+        routeDataDiv.innerHTML += `<p>Between ${serviceChangeMapping[serviceChange]}, ${agencyMapping[agency]} ${routeData["routeName"]} had about ${routeData["avgWeekdayRidership"].toLocaleString("en-US")} average weekday passengers.</p>`
         if(routeData["scheduleUrl"] != ""){
           routeDataDiv.innerHTML += `<p><a href="${routeData["scheduleUrl"]}">${routeData["routeName"]} schedule and map, from ${agencyMapping[agency]}</a></p>`
         }

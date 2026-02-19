@@ -1,0 +1,272 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+201,14,I,11690,Mount Rainier Dr S & S Ridgeway Pl,1,AM,0.7,0.1,0.7,8.6,0.7
+201,14,I,11700,S Mcclellan St & Lake Park Dr S,2,AM,0.1,0,0.8,1.7,0.1
+201,14,I,11720,S Mcclellan St & 31st Ave S,3,AM,0,0,0.7,0.1,0
+201,14,I,8403,Mount Baker Transit Center - Bay 3,4,AM,0.5,0.2,0.9,5.5,2.3
+201,14,I,11730,31st Ave S & S Lander St,5,AM,0,0,0.9,0.4,0.2
+201,14,I,11750,31st Ave S & S College St,6,AM,0,0,1,0.5,0
+201,14,I,11770,31st Ave S & S Plum St,7,AM,0,0,1,0,0
+201,14,I,11790,31st Ave S & S Massachusetts St,8,AM,0.1,0,1,0.7,0.2
+201,14,I,11800,31st Ave S & S Day St,9,AM,0.1,0,1.1,0.8,0.1
+201,14,I,11820,31st Ave S & S Norman St,10,AM,0.1,0,1.1,0.6,0.3
+201,14,I,11840,31st Ave S & S Dearborn St,11,AM,0.1,0,1.2,0.9,0.2
+201,14,I,11860,31st Ave S & S King St,12,AM,0,0,1.2,0.4,0.2
+201,14,I,11870,S Jackson St & 30th Ave S,13,AM,0.3,0,1.4,3,0.5
+201,14,I,11880,S Jackson St & 28th Ave S,14,AM,0.1,0,1.5,0.6,0
+201,14,I,11890,S Jackson St & Martin L King Jr Way S,15,AM,0.3,0,1.7,2.8,0.2
+201,14,I,11910,S Jackson St & 23rd Ave S,16,AM,0.8,0.2,2.4,9,2
+201,14,I,11920,S Jackson St & 20th Pl S,17,AM,0.5,0.1,2.8,5.2,0.6
+201,14,I,11940,S Jackson St & 18th Ave S,18,AM,0.9,0,3.6,9.7,0.4
+201,14,I,8530,S Jackson St & Boren Ave S,19,AM,0.7,0.2,4.1,7.7,2.4
+201,14,I,3600,S Jackson St & 12th Ave S,20,AM,0,0.2,3.9,0,2.5
+201,14,O,2220,3rd Ave & Cedar St,1,AM,1.2,0,4.6,11.7,0
+201,14,O,400,3rd Ave & Bell St,2,AM,0.7,0.4,4.9,6.5,4
+201,14,O,420,3rd Ave & Virginia St,3,AM,0.4,0.6,4.7,4,5.7
+201,14,O,430,3rd Ave & Pine St,4,AM,1.1,1,4.8,9.6,8.7
+201,14,O,450,3rd Ave & Union St,5,AM,1,0.6,5.1,8.8,5.7
+201,14,O,480,3rd Ave & Marion St,6,AM,0.6,0.7,5.1,5.5,5.9
+201,14,O,500,3rd Ave & James St,7,AM,0.5,0.6,4.9,4.1,5.7
+201,14,O,515,3rd Ave S & S Main St,8,AM,0.9,0.6,5.2,8,5.2
+201,14,O,1471,S Jackson St & 5th Ave S,9,AM,2.6,0.9,6.9,23.7,7.8
+201,14,O,1480,S Jackson St & Maynard Ave S,10,AM,0.3,0.4,6.1,2.5,4.3
+201,14,O,1490,S Jackson St & 8th Ave S,11,AM,0.1,0.2,5.8,1,2.2
+201,14,O,8540,S Jackson St & 12th Ave S,12,AM,0.8,1.4,5.2,7.5,12.8
+201,14,O,11960,S Jackson St & Rainier Ave S,13,AM,0.2,0.4,5,1.9,3.8
+201,14,O,11980,S Jackson St & 18th Ave S,14,AM,0.1,0.4,4.8,1,3.3
+201,14,O,11990,S Jackson St & 20th Ave S,15,AM,0,1.3,3.5,0.4,11.3
+201,14,O,12010,S Jackson St & 23rd Ave S,16,AM,0,1.6,2,0.4,14.4
+201,14,O,12030,S Jackson St & 28th Ave S,17,AM,0,0.1,1.9,0.2,1.2
+201,14,O,12040,S Jackson St & 30th Ave S,18,AM,0,0,1.9,0,0.4
+201,14,O,12050,31st Ave S & S King St,19,AM,0,0,1.8,0,0
+201,14,O,12070,31st Ave S & S Dearborn St,20,AM,0,0,1.8,0,0.3
+201,14,O,12080,31st Ave S & S Norman St,21,AM,0,0,1.8,0.2,0.1
+201,14,O,12090,31st Ave S & S Irving St,22,AM,0,0.1,1.8,0,0.5
+201,14,O,12110,31st Ave S & S Massachusetts St,23,AM,0,0,1.7,0,0.2
+201,14,O,12130,31st Ave S & S Plum St,24,AM,0,0,1.7,0,0.1
+201,14,O,12140,31st Ave S & S Walker St,25,AM,0,0,1.8,0,0
+201,14,O,12160,31st Ave S & S Lander St,26,AM,0,0,1.7,0,0.2
+201,14,O,8403,Mount Baker Transit Center - Bay 3,27,AM,0.9,1.5,0.9,6.9,12
+201,14,O,12170,S Mcclellan St & 31st Ave S,28,AM,0,0,0.9,0,0
+201,14,O,12190,S Mcclellan St & S Mount Baker Blvd,29,AM,0,0,0.9,0,0
+201,14,O,12200,Mount Rainier Dr S & 37th Pl S,30,AM,0,0.1,0.8,0.2,1
+201,14,O,11680,Mount Rainier Dr S & S Hanford St,31,AM,0.1,0.1,0.8,0.6,1.1
+201,14,O,11690,Mount Rainier Dr S & S Ridgeway Pl,32,AM,0,0.8,0.1,0,6.3
+201,14,I,11690,Mount Rainier Dr S & S Ridgeway Pl,1,MID,1.5,0,1.6,28.7,0
+201,14,I,11700,S Mcclellan St & Lake Park Dr S,2,MID,0.1,0,1.6,1,0.8
+201,14,I,11720,S Mcclellan St & 31st Ave S,3,MID,0,0,1.5,0,0
+201,14,I,8403,Mount Baker Transit Center - Bay 3,4,MID,1,0.2,2.2,18.6,4
+201,14,I,11730,31st Ave S & S Lander St,5,MID,0.1,0.1,2.2,2.2,1.2
+201,14,I,11750,31st Ave S & S College St,6,MID,0,0.1,2.2,0.6,1.5
+201,14,I,11770,31st Ave S & S Plum St,7,MID,0,0,2.2,0.7,0.8
+201,14,I,11790,31st Ave S & S Massachusetts St,8,MID,0.1,0.1,2.3,2,1.2
+201,14,I,11800,31st Ave S & S Day St,9,MID,0.1,0,2.3,1.9,0.8
+201,14,I,11820,31st Ave S & S Norman St,10,MID,0.1,0,2.4,1.4,0.5
+201,14,I,11840,31st Ave S & S Dearborn St,11,MID,0,0,2.4,0.8,0.5
+201,14,I,11860,31st Ave S & S King St,12,MID,0,0.1,2.3,0.6,1.1
+201,14,I,11870,S Jackson St & 30th Ave S,13,MID,0.2,0.1,2.4,3.6,2
+201,14,I,11880,S Jackson St & 28th Ave S,14,MID,0.1,0.1,2.4,2.2,1.8
+201,14,I,11890,S Jackson St & Martin L King Jr Way S,15,MID,0.4,0,2.8,7.8,0.9
+201,14,I,11910,S Jackson St & 23rd Ave S,16,MID,2.3,0.3,4.8,44.4,5.1
+201,14,I,11920,S Jackson St & 20th Pl S,17,MID,1.8,0.2,6.4,33.7,3.6
+201,14,I,11940,S Jackson St & 18th Ave S,18,MID,1.1,0.2,7.3,21.3,3.7
+201,14,I,8530,S Jackson St & Boren Ave S,19,MID,0.8,0.6,7.5,14.9,11.5
+201,14,I,3600,S Jackson St & 12th Ave S,20,MID,0,0.8,6.7,0,15.6
+201,14,O,2220,3rd Ave & Cedar St,1,MID,2.3,0,7.1,45.7,0
+201,14,O,400,3rd Ave & Bell St,2,MID,1.5,0.9,7.7,30.8,18.6
+201,14,O,420,3rd Ave & Virginia St,3,MID,0.9,0.9,7.7,17.8,18.2
+201,14,O,430,3rd Ave & Pine St,4,MID,1.7,1.9,7.5,34.3,37.3
+201,14,O,450,3rd Ave & Union St,5,MID,2,0.8,8.6,39.5,16.2
+201,14,O,480,3rd Ave & Marion St,6,MID,0.7,0.6,8.8,14,11.6
+201,14,O,500,3rd Ave & James St,7,MID,0.8,1.4,8.2,16.1,27.1
+201,14,O,515,3rd Ave S & S Main St,8,MID,1.4,1,8.5,27,20.8
+201,14,O,1471,S Jackson St & 5th Ave S,9,MID,3.3,1.9,9.9,66,37.3
+201,14,O,1480,S Jackson St & Maynard Ave S,10,MID,0.9,0.6,9.7,18.7,13.4
+201,14,O,1490,S Jackson St & 8th Ave S,11,MID,0.2,0.3,9.5,4.6,6.7
+201,14,O,8540,S Jackson St & 12th Ave S,12,MID,1.9,2.6,8.8,40.4,54.6
+201,14,O,11960,S Jackson St & Rainier Ave S,13,MID,0.5,0.5,8.8,9.7,10.2
+201,14,O,11980,S Jackson St & 18th Ave S,14,MID,0.1,0.9,8,2.5,18.8
+201,14,O,11990,S Jackson St & 20th Ave S,15,MID,0.2,2.8,5.5,4.8,59.1
+201,14,O,12010,S Jackson St & 23rd Ave S,16,MID,0.1,2.5,3,2.3,53
+201,14,O,12030,S Jackson St & 28th Ave S,17,MID,0,0.2,2.9,0.8,4.2
+201,14,O,12040,S Jackson St & 30th Ave S,18,MID,0,0.2,2.7,0.1,3.2
+201,14,O,12050,31st Ave S & S King St,19,MID,0,0,2.7,0.2,0.8
+201,14,O,12070,31st Ave S & S Dearborn St,20,MID,0,0,2.7,0.1,0
+201,14,O,12080,31st Ave S & S Norman St,21,MID,0,0,2.7,0.1,1
+201,14,O,12090,31st Ave S & S Irving St,22,MID,0,0.1,2.6,0.5,1.5
+201,14,O,12110,31st Ave S & S Massachusetts St,23,MID,0,0.1,2.6,0,1.5
+201,14,O,12130,31st Ave S & S Plum St,24,MID,0,0,2.6,0,0.3
+201,14,O,12140,31st Ave S & S Walker St,25,MID,0,0,2.6,0.8,0.6
+201,14,O,12160,31st Ave S & S Lander St,26,MID,0,0.1,2.5,0.3,2.8
+201,14,O,8403,Mount Baker Transit Center - Bay 3,27,MID,0.8,1.8,1.5,17.5,38.3
+201,14,O,12170,S Mcclellan St & 31st Ave S,28,MID,0,0,1.5,0.1,0.8
+201,14,O,12190,S Mcclellan St & S Mount Baker Blvd,29,MID,0,0.1,1.4,0.4,1.2
+201,14,O,12200,Mount Rainier Dr S & 37th Pl S,30,MID,0,0,1.4,0.3,0.5
+201,14,O,11680,Mount Rainier Dr S & S Hanford St,31,MID,0.1,0.1,1.4,1.3,2.1
+201,14,O,11690,Mount Rainier Dr S & S Ridgeway Pl,32,MID,0,1.4,0,0,29
+201,14,I,11690,Mount Rainier Dr S & S Ridgeway Pl,1,PM,1.9,0,1.9,25.1,0
+201,14,I,11700,S Mcclellan St & Lake Park Dr S,2,PM,0.1,0,1.9,0.7,0.3
+201,14,I,11720,S Mcclellan St & 31st Ave S,3,PM,0,0,2,0.2,0
+201,14,I,8403,Mount Baker Transit Center - Bay 3,4,PM,1.1,0.3,2.8,14,4.3
+201,14,I,11730,31st Ave S & S Lander St,5,PM,0,0.1,2.7,0.4,1.4
+201,14,I,11750,31st Ave S & S College St,6,PM,0,0,2.8,0.1,0.5
+201,14,I,11770,31st Ave S & S Plum St,7,PM,0,0.1,2.8,0.2,0.7
+201,14,I,11790,31st Ave S & S Massachusetts St,8,PM,0,0.1,2.7,0.4,0.9
+201,14,I,11800,31st Ave S & S Day St,9,PM,0.1,0,2.8,1.1,0.5
+201,14,I,11820,31st Ave S & S Norman St,10,PM,0.1,0.1,2.8,1.1,0.7
+201,14,I,11840,31st Ave S & S Dearborn St,11,PM,0.1,0,2.9,1.1,0.1
+201,14,I,11860,31st Ave S & S King St,12,PM,0,0,2.9,0.5,0.4
+201,14,I,11870,S Jackson St & 30th Ave S,13,PM,0.2,0.1,2.9,2.4,1.4
+201,14,I,11880,S Jackson St & 28th Ave S,14,PM,0.1,0.1,3,1.7,0.9
+201,14,I,11890,S Jackson St & Martin L King Jr Way S,15,PM,0.3,0,3.3,4.3,0.5
+201,14,I,11910,S Jackson St & 23rd Ave S,16,PM,2.5,0.3,5.5,32.7,4.2
+201,14,I,11920,S Jackson St & 20th Pl S,17,PM,1.2,0.2,6.4,15.9,2.8
+201,14,I,11940,S Jackson St & 18th Ave S,18,PM,0.5,0.3,6.6,6.8,3.8
+201,14,I,8530,S Jackson St & Boren Ave S,19,PM,0.6,0.6,6.8,7.2,7.6
+201,14,I,3600,S Jackson St & 12th Ave S,20,PM,0,0.9,6,0,10.2
+201,14,O,2220,3rd Ave & Cedar St,1,PM,1.9,0,7,22.7,0
+201,14,O,400,3rd Ave & Bell St,2,PM,1.3,1.1,7.3,16,12.6
+201,14,O,420,3rd Ave & Virginia St,3,PM,1,0.9,7.4,11.9,10.5
+201,14,O,430,3rd Ave & Pine St,4,PM,1.7,1.8,7.1,21.6,23.7
+201,14,O,450,3rd Ave & Union St,5,PM,2.3,0.8,8.7,30.5,10.1
+201,14,O,480,3rd Ave & Marion St,6,PM,0.8,0.5,8.9,10.3,6.6
+201,14,O,500,3rd Ave & James St,7,PM,0.7,1.2,8.5,9.1,15.3
+201,14,O,515,3rd Ave S & S Main St,8,PM,1.2,1.1,8.6,15.1,14.1
+201,14,O,1471,S Jackson St & 5th Ave S,9,PM,3.8,2,10.4,50,26.4
+201,14,O,1480,S Jackson St & Maynard Ave S,10,PM,0.7,0.6,10.7,8,7.6
+201,14,O,1490,S Jackson St & 8th Ave S,11,PM,0.3,0.3,10.5,3.4,4.2
+201,14,O,8540,S Jackson St & 12th Ave S,12,PM,1.8,3,9.3,23.3,39.3
+201,14,O,11960,S Jackson St & Rainier Ave S,13,PM,0.4,0.5,9.2,4.9,6.9
+201,14,O,11980,S Jackson St & 18th Ave S,14,PM,0.1,1.2,8.1,1.6,15.5
+201,14,O,11990,S Jackson St & 20th Ave S,15,PM,0.1,2,6.2,1.8,26
+201,14,O,12010,S Jackson St & 23rd Ave S,16,PM,0.2,2.6,3.8,2.3,33.6
+201,14,O,12030,S Jackson St & 28th Ave S,17,PM,0,0.3,3.5,0.6,4.5
+201,14,O,12040,S Jackson St & 30th Ave S,18,PM,0,0.3,3.3,0.3,3.6
+201,14,O,12050,31st Ave S & S King St,19,PM,0,0,3.2,0,0.5
+201,14,O,12070,31st Ave S & S Dearborn St,20,PM,0,0,3.2,0.3,0.4
+201,14,O,12080,31st Ave S & S Norman St,21,PM,0,0.1,3.1,0.2,1.6
+201,14,O,12090,31st Ave S & S Irving St,22,PM,0,0.1,3.1,0.2,1
+201,14,O,12110,31st Ave S & S Massachusetts St,23,PM,0,0.1,3.1,0.2,0.9
+201,14,O,12130,31st Ave S & S Plum St,24,PM,0,0.1,3.2,0.2,0.6
+201,14,O,12140,31st Ave S & S Walker St,25,PM,0,0,3.1,0,0.3
+201,14,O,12160,31st Ave S & S Lander St,26,PM,0,0.2,2.9,0,2.7
+201,14,O,8403,Mount Baker Transit Center - Bay 3,27,PM,0.8,1.7,2,9.8,22.1
+201,14,O,12170,S Mcclellan St & 31st Ave S,28,PM,0,0,1.9,0,0.6
+201,14,O,12190,S Mcclellan St & S Mount Baker Blvd,29,PM,0,0.1,1.9,0.2,1.4
+201,14,O,12200,Mount Rainier Dr S & 37th Pl S,30,PM,0,0.1,1.8,0.1,0.7
+201,14,O,11680,Mount Rainier Dr S & S Hanford St,31,PM,0.1,0.1,1.8,1.2,1.7
+201,14,O,11690,Mount Rainier Dr S & S Ridgeway Pl,32,PM,0,1.8,0,0,23.3
+201,14,I,11690,Mount Rainier Dr S & S Ridgeway Pl,1,XEV,1.4,0,1.4,11.2,0
+201,14,I,11700,S Mcclellan St & Lake Park Dr S,2,XEV,0,0,1.4,0.3,0
+201,14,I,11720,S Mcclellan St & 31st Ave S,3,XEV,0,0,1.5,0.1,0
+201,14,I,8403,Mount Baker Transit Center - Bay 3,4,XEV,0.8,0.2,2.1,6.9,1.4
+201,14,I,11730,31st Ave S & S Lander St,5,XEV,0,0,2.1,0.2,0.3
+201,14,I,11750,31st Ave S & S College St,6,XEV,0,0,2.1,0,0.1
+201,14,I,11770,31st Ave S & S Plum St,7,XEV,0,0.1,2,0,1
+201,14,I,11790,31st Ave S & S Massachusetts St,8,XEV,0,0,2,0,0.2
+201,14,I,11800,31st Ave S & S Day St,9,XEV,0,0,2,0.2,0.4
+201,14,I,11820,31st Ave S & S Norman St,10,XEV,0.1,0.1,1.8,0.5,0.6
+201,14,I,11840,31st Ave S & S Dearborn St,11,XEV,0,0,1.8,0.2,0.2
+201,14,I,11860,31st Ave S & S King St,12,XEV,0,0,1.8,0.1,0.1
+201,14,I,11870,S Jackson St & 30th Ave S,13,XEV,0.1,0.1,1.9,0.6,0.6
+201,14,I,11880,S Jackson St & 28th Ave S,14,XEV,0.1,0.1,1.9,0.7,0.4
+201,14,I,11890,S Jackson St & Martin L King Jr Way S,15,XEV,0.2,0,2,1.3,0.2
+201,14,I,11910,S Jackson St & 23rd Ave S,16,XEV,1.1,0.2,3,9.1,1.5
+201,14,I,11920,S Jackson St & 20th Pl S,17,XEV,0.5,0.2,3.3,3.7,1.5
+201,14,I,11940,S Jackson St & 18th Ave S,18,XEV,0.2,0.1,3.4,1.7,1
+201,14,I,8530,S Jackson St & Boren Ave S,19,XEV,1.1,0.5,4.1,9.5,4.4
+201,14,I,3600,S Jackson St & 12th Ave S,20,XEV,0.2,0.3,4,1.8,3.1
+201,14,I,1500,S Jackson St & 8th Ave S,21,XEV,0.2,0.6,1.6,0.3,1.1
+201,14,I,844,5th Ave S & S Weller St,22,XEV,0.1,1.7,0,0.2,3.4
+201,14,O,2220,3rd Ave & Cedar St,1,XEV,1.3,0,5.2,8.9,0
+201,14,O,400,3rd Ave & Bell St,2,XEV,1,0.8,5.4,7,5.4
+201,14,O,420,3rd Ave & Virginia St,3,XEV,0.5,0.7,5.3,3.7,4.6
+201,14,O,430,3rd Ave & Pine St,4,XEV,1.2,1.1,5.4,8.3,7.5
+201,14,O,450,3rd Ave & Union St,5,XEV,1.4,0.5,6.3,10.1,3.5
+201,14,O,480,3rd Ave & Marion St,6,XEV,0.6,0.4,6.5,4.2,2.6
+201,14,O,500,3rd Ave & James St,7,XEV,0.6,0.9,6.2,4.2,6.4
+201,14,O,515,3rd Ave S & S Main St,8,XEV,0.9,0.4,6.6,6,2.9
+201,14,O,1471,S Jackson St & 5th Ave S,9,XEV,2.4,0.9,8.2,17,6.2
+201,14,O,1480,S Jackson St & Maynard Ave S,10,XEV,0.4,0.5,8,3.5,3.8
+201,14,O,1490,S Jackson St & 8th Ave S,11,XEV,0.2,0.4,7.8,1.4,3
+201,14,O,8540,S Jackson St & 12th Ave S,12,XEV,1,2.4,6.5,8,18.8
+201,14,O,11960,S Jackson St & Rainier Ave S,13,XEV,0.3,0.7,6.3,2.1,4.6
+201,14,O,11980,S Jackson St & 18th Ave S,14,XEV,0.1,0.6,5.8,0.6,4.1
+201,14,O,11990,S Jackson St & 20th Ave S,15,XEV,0.1,1.5,4.3,0.5,10.7
+201,14,O,12010,S Jackson St & 23rd Ave S,16,XEV,0.2,1.5,3,1.6,10.5
+201,14,O,12030,S Jackson St & 28th Ave S,17,XEV,0,0.2,2.8,0.2,1.6
+201,14,O,12040,S Jackson St & 30th Ave S,18,XEV,0,0.2,2.7,0,1.1
+201,14,O,12050,31st Ave S & S King St,19,XEV,0,0,2.6,0,0.3
+201,14,O,12070,31st Ave S & S Dearborn St,20,XEV,0,0,2.6,0,0.3
+201,14,O,12080,31st Ave S & S Norman St,21,XEV,0,0.2,2.5,0.1,1.2
+201,14,O,12090,31st Ave S & S Irving St,22,XEV,0,0.1,2.3,0.1,1
+201,14,O,12110,31st Ave S & S Massachusetts St,23,XEV,0,0.1,2.2,0.2,1
+201,14,O,12130,31st Ave S & S Plum St,24,XEV,0,0,2.2,0.1,0.1
+201,14,O,12140,31st Ave S & S Walker St,25,XEV,0,0,2.2,0,0
+201,14,O,12160,31st Ave S & S Lander St,26,XEV,0,0,2.1,0,0.3
+201,14,O,8403,Mount Baker Transit Center - Bay 3,27,XEV,0.7,1.6,1.2,5.8,12.9
+201,14,O,12170,S Mcclellan St & 31st Ave S,28,XEV,0,0,1.2,0,0.1
+201,14,O,12190,S Mcclellan St & S Mount Baker Blvd,29,XEV,0,0.1,1.2,0.1,0.5
+201,14,O,12200,Mount Rainier Dr S & 37th Pl S,30,XEV,0,0,1.1,0,0.3
+201,14,O,11680,Mount Rainier Dr S & S Hanford St,31,XEV,0.1,0.1,1.1,0.6,0.9
+201,14,O,11690,Mount Rainier Dr S & S Ridgeway Pl,32,XEV,0.3,1.4,0,2.5,11.3
+201,14,I,11690,Mount Rainier Dr S & S Ridgeway Pl,1,XNT,1.2,0,1.2,4.6,0
+201,14,I,11700,S Mcclellan St & Lake Park Dr S,2,XNT,0,0,1.2,0,0
+201,14,I,11720,S Mcclellan St & 31st Ave S,3,XNT,0,0,1.2,0,0
+201,14,I,8403,Mount Baker Transit Center - Bay 3,4,XNT,0.6,0.1,1.4,2.9,0.5
+201,14,I,11730,31st Ave S & S Lander St,5,XNT,0,0,1.4,0.2,0.1
+201,14,I,11750,31st Ave S & S College St,6,XNT,0,0,1.4,0,0
+201,14,I,11770,31st Ave S & S Plum St,7,XNT,0,0,1.4,0,0.1
+201,14,I,11790,31st Ave S & S Massachusetts St,8,XNT,0,0,1.4,0,0
+201,14,I,11800,31st Ave S & S Day St,9,XNT,0,0,1.3,0,0.1
+201,14,I,11820,31st Ave S & S Norman St,10,XNT,0,0.1,1.6,0.2,0.4
+201,14,I,11840,31st Ave S & S Dearborn St,11,XNT,0,0,1.6,0,0
+201,14,I,11860,31st Ave S & S King St,12,XNT,0,0,1.6,0.1,0.2
+201,14,I,11870,S Jackson St & 30th Ave S,13,XNT,0.1,0.1,1.5,0.3,0.4
+201,14,I,11880,S Jackson St & 28th Ave S,14,XNT,0,0,1.6,0.1,0.1
+201,14,I,11890,S Jackson St & Martin L King Jr Way S,15,XNT,0.1,0,1.7,0.7,0.1
+201,14,I,11910,S Jackson St & 23rd Ave S,16,XNT,0.8,0.1,2.3,4.9,0.7
+201,14,I,11920,S Jackson St & 20th Pl S,17,XNT,0.3,0.1,2.6,2,0.4
+201,14,I,11940,S Jackson St & 18th Ave S,18,XNT,0.2,0,2.8,1.2,0.2
+201,14,I,8530,S Jackson St & Boren Ave S,19,XNT,0.3,0.2,3,2,0.9
+201,14,I,3600,S Jackson St & 12th Ave S,20,XNT,0.2,0.3,2.9,1.2,1.8
+201,14,I,1500,S Jackson St & 8th Ave S,21,XNT,0.2,0.2,2.1,0.3,0.3
+201,14,I,844,5th Ave S & S Weller St,22,XNT,0.1,1.8,0,0.1,1.8
+201,14,I,1510,S Jackson St & Maynard Ave S,23,XNT,0.1,0,2.4,0.1,0
+201,14,I,1530,S Jackson St & 5th Ave S,24,XNT,0.3,0.3,2.3,0.3,0.3
+201,14,I,1610,Prefontaine Pl S & Yesler Way,25,XNT,0.3,0.3,2.3,0.3,0.3
+201,14,I,538,3rd Ave & Columbia St,26,XNT,0.2,0.8,1.7,0.2,0.8
+201,14,I,558,3rd Ave & Seneca St,27,XNT,0.2,0.2,1.8,0.2,0.2
+201,14,I,575,3rd Ave & Pike St,28,XNT,0,0.6,1.2,0,0.6
+201,14,I,600,3rd Ave & Virginia St,29,XNT,0.7,1.9,0,0.7,1.9
+201,14,O,2220,3rd Ave & Cedar St,1,XNT,1,0,3.4,5.9,0
+201,14,O,400,3rd Ave & Bell St,2,XNT,0.8,0.6,3.6,4.7,3.6
+201,14,O,420,3rd Ave & Virginia St,3,XNT,0.4,0.5,3.5,2.5,2.9
+201,14,O,430,3rd Ave & Pine St,4,XNT,0.5,0.6,2.9,3.8,4.5
+201,14,O,450,3rd Ave & Union St,5,XNT,0.9,0.3,3.5,6.6,2.2
+201,14,O,480,3rd Ave & Marion St,6,XNT,0.4,0.3,3.5,2.7,2.4
+201,14,O,500,3rd Ave & James St,7,XNT,0.6,0.6,3.5,4,4.1
+201,14,O,515,3rd Ave S & S Main St,8,XNT,0.7,0.3,3.9,5,1.9
+201,14,O,1471,S Jackson St & 5th Ave S,9,XNT,1.6,0.4,5.1,10.9,3.1
+201,14,O,1480,S Jackson St & Maynard Ave S,10,XNT,0.3,0.2,5.1,1.8,1.6
+201,14,O,1490,S Jackson St & 8th Ave S,11,XNT,0.1,0.3,4.9,0.6,2
+201,14,O,8540,S Jackson St & 12th Ave S,12,XNT,0.5,1.7,3.7,3.6,12.2
+201,14,O,11960,S Jackson St & Rainier Ave S,13,XNT,0.2,0.4,3.7,1.6,3
+201,14,O,11980,S Jackson St & 18th Ave S,14,XNT,0,0.2,3.5,0.2,1.9
+201,14,O,11990,S Jackson St & 20th Ave S,15,XNT,0,0.7,2.8,0.3,5.7
+201,14,O,12010,S Jackson St & 23rd Ave S,16,XNT,0,0.6,2.3,0.3,5.1
+201,14,O,12030,S Jackson St & 28th Ave S,17,XNT,0,0.2,2.1,0,1.4
+201,14,O,12040,S Jackson St & 30th Ave S,18,XNT,0,0.1,2,0,1
+201,14,O,12050,31st Ave S & S King St,19,XNT,0,0,2,0,0.1
+201,14,O,12070,31st Ave S & S Dearborn St,20,XNT,0,0,2,0,0
+201,14,O,12080,31st Ave S & S Norman St,21,XNT,0,0.1,1.9,0,0.5
+201,14,O,12090,31st Ave S & S Irving St,22,XNT,0,0,1.9,0,0.3
+201,14,O,12110,31st Ave S & S Massachusetts St,23,XNT,0,0.1,1.7,0,1.1
+201,14,O,12130,31st Ave S & S Plum St,24,XNT,0,0,1.7,0,0
+201,14,O,12140,31st Ave S & S Walker St,25,XNT,0,0,1.7,0,0
+201,14,O,12160,31st Ave S & S Lander St,26,XNT,0,0,1.7,0,0.1
+201,14,O,8403,Mount Baker Transit Center - Bay 3,27,XNT,0.3,1.5,0.6,2.7,12.1
+201,14,O,12170,S Mcclellan St & 31st Ave S,28,XNT,0,0,1,0,0
+201,14,O,12190,S Mcclellan St & S Mount Baker Blvd,29,XNT,0,0.1,1.1,0.1,0.3
+201,14,O,12200,Mount Rainier Dr S & 37th Pl S,30,XNT,0,0,1.1,0,0.1
+201,14,O,11680,Mount Rainier Dr S & S Hanford St,31,XNT,0.1,0,1.1,0.2,0.1
+201,14,O,11690,Mount Rainier Dr S & S Ridgeway Pl,32,XNT,0.3,1.4,0,1.1,5.4

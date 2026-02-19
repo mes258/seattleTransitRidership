@@ -1,0 +1,278 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+221,674,I,28680,NW 100th Pl & 7th Ave NW,1,AM,1.9,0,1.9,57.4,0.1
+221,674,I,40049,Holman Rd NW & Mary Ave NW,2,AM,0.9,0.1,2.8,27.9,2.7
+221,674,I,13600,15th Ave NW & NW 85th St,3,AM,2.1,0.1,4.9,64.1,1.8
+221,674,I,13620,15th Ave NW & NW 80th St,4,AM,0.7,0,5.5,20.8,0.8
+221,674,I,13640,15th Ave NW & NW 75th St,5,AM,0.7,0,6.1,18.9,1.1
+221,674,I,13660,15th Ave NW & NW 70th St,6,AM,0.9,0.3,6.7,26.1,9.3
+221,674,I,13670,15th Ave NW & NW 65th St,7,AM,1.3,0.7,7.3,36.4,20.3
+221,674,I,13700,15th Ave NW & NW 60th St,8,AM,1.6,0.2,8.7,45.7,4.6
+221,674,I,13721,15th Ave NW & NW Market St,9,AM,4,1.1,11.6,115.4,31.1
+221,674,I,13760,15th Ave NW & NW Leary Way,10,AM,1.2,0.7,12.1,34.3,19.4
+221,674,I,13770,15th Ave W & W Emerson St,11,AM,0.6,0.5,12.1,15.5,15.2
+221,674,I,13800,15th Ave W & W Dravus St,12,AM,2.3,0.5,13.9,63.4,14.1
+221,674,I,13810,15th Ave W & W Armour St,13,AM,0.5,0.1,14.3,12.7,1.9
+221,674,I,13830,15th Ave W & W Wheeler St,14,AM,0.5,0.2,14.6,14.1,4.3
+221,674,I,13840,15th Ave W & W Armory Way,15,AM,0.8,0.4,15,21.7,11.7
+221,674,I,13870,Elliott Ave W & W Galer St,16,AM,0.2,0.3,14.9,6.8,9.5
+221,674,I,13890,Elliott Ave W & W Prospect St,17,AM,0.2,0.8,14.3,4.5,21.1
+221,674,I,13910,W Mercer St & 3rd Ave W,18,AM,2,0.3,15.8,54,9.3
+221,674,I,2672,Queen Anne Ave N & W Mercer St,19,AM,2.5,2,16.3,66.8,53
+221,674,I,2200,Queen Anne Ave N & W John St,20,AM,1,0.9,16.4,27.8,24
+221,674,I,2220,3rd Ave & Cedar St,21,AM,1.5,1.1,17,39.4,28
+221,674,I,400,3rd Ave & Bell St,22,AM,0.8,1.9,15.9,19.5,48.6
+221,674,I,420,3rd Ave & Virginia St,23,AM,0.3,3,13.3,8.2,76.9
+221,674,I,431,3rd Ave & Pike St,24,AM,0.2,5,8.3,4.4,124.9
+221,674,I,468,3rd Ave & Seneca St,25,AM,0.1,4.3,4.1,2.1,107.3
+221,674,I,490,3rd Ave & Cherry St,26,AM,0.1,2.5,1.8,2.6,61.5
+221,674,I,1710,Terrace St & 5th Ave,27,AM,0.8,2.6,0,20.3,65.2
+221,674,O,1610,Prefontaine Pl S & Yesler Way,1,AM,3,0,3,71.9,0
+221,674,O,538,3rd Ave & Columbia St,2,AM,1.8,0.1,4.7,44.2,3.4
+221,674,O,558,3rd Ave & Seneca St,3,AM,3.4,0.2,7.9,82.5,4.3
+221,674,O,575,3rd Ave & Pike St,4,AM,3.1,0.5,10.6,74.9,10.9
+221,674,O,600,3rd Ave & Virginia St,5,AM,3.4,0.6,13.6,81.2,13.7
+221,674,O,605,3rd Ave & Bell St,6,AM,1.4,0.8,14.1,33.7,20.1
+221,674,O,1690,3rd Ave & Vine St,7,AM,0.7,1.5,13.4,17.3,34.9
+221,674,O,2330,1st Ave N & Denny Way,8,AM,0.6,1.8,12.3,15.4,42.6
+221,674,O,2360,1st Ave N & Republican St,9,AM,0.5,1.8,11,12.3,42
+221,674,O,2370,Mercer St & Queen Anne Ave N,10,AM,1,1.1,11.1,24,25
+221,674,O,14038,W Mercer St & 3rd Ave W,11,AM,1.3,0.6,11.8,28.9,13.5
+221,674,O,14070,Elliott Ave W & W Prospect St,12,AM,1.3,1.2,11.8,28.8,27.1
+221,674,O,14090,Elliott Ave W & W Galer St,13,AM,0.3,0.7,11.4,5.8,15
+221,674,O,14110,15th Ave W & W Newton St,14,AM,0.4,1.3,10.6,10.1,30.2
+221,674,O,14130,15th Ave W & W Wheeler St,15,AM,0.2,0.1,10.7,5.2,1.6
+221,674,O,14150,15th Ave W & W Armour St,16,AM,0.3,0.1,10.9,6,1.7
+221,674,O,14170,15th Ave W & W Dravus St,17,AM,1.8,0.7,12.2,40.2,15.9
+221,674,O,14190,15th Ave W & W Emerson St,18,AM,1.6,1.1,12.6,34.8,24.5
+221,674,O,14200,15th Ave NW & NW Leary Way,19,AM,0.3,2.5,10.5,6.6,54.6
+221,674,O,14230,15th Ave NW & NW Market St,20,AM,1.2,3.7,8,26.8,81.1
+221,674,O,14250,15th Ave NW & NW 60th St,21,AM,0.2,0.2,8,4.5,5.4
+221,674,O,14280,15th Ave NW & NW 65th St,22,AM,0.4,4.1,4.5,8.8,85.2
+221,674,O,14300,15th Ave NW & NW 70th St,23,AM,0.1,0.1,4.5,2.8,2.6
+221,674,O,14320,15th Ave NW & NW 75th St,24,AM,0.2,0.2,4.5,4.6,5.2
+221,674,O,14340,15th Ave NW & NW 80th St,25,AM,0,0.3,4.2,0,5.9
+221,674,O,14360,15th Ave NW & NW 85th St,26,AM,0.1,1.2,3,1.6,26
+221,674,O,40050,Holman Rd NW & Mary Ave NW,27,AM,0.1,1.2,1.9,1.3,24.9
+221,674,O,28680,NW 100th Pl & 7th Ave NW,28,AM,0,1.9,0,0,37.6
+221,674,I,28680,NW 100th Pl & 7th Ave NW,1,MID,2.1,0,2.1,76.2,0
+221,674,I,40049,Holman Rd NW & Mary Ave NW,2,MID,1.2,0.1,3.2,43.4,3
+221,674,I,13600,15th Ave NW & NW 85th St,3,MID,2.4,0.2,5.4,85.2,5.6
+221,674,I,13620,15th Ave NW & NW 80th St,4,MID,0.7,0.1,6.1,26,1.9
+221,674,I,13640,15th Ave NW & NW 75th St,5,MID,0.5,0.1,6.5,19,4.8
+221,674,I,13660,15th Ave NW & NW 70th St,6,MID,0.7,0.4,6.8,25.3,15.6
+221,674,I,13670,15th Ave NW & NW 65th St,7,MID,2,0.5,8.3,74.3,18.5
+221,674,I,13700,15th Ave NW & NW 60th St,8,MID,1,0.4,8.9,38.7,14.4
+221,674,I,13721,15th Ave NW & NW Market St,9,MID,4.6,2.2,11.3,165.2,77.9
+221,674,I,13760,15th Ave NW & NW Leary Way,10,MID,2.5,1.3,12.5,89.5,45.3
+221,674,I,13770,15th Ave W & W Emerson St,11,MID,0.5,0.4,12.6,19.1,15.3
+221,674,I,13800,15th Ave W & W Dravus St,12,MID,1.2,0.9,12.9,46,34.9
+221,674,I,13810,15th Ave W & W Armour St,13,MID,0.4,0.2,13.2,15.2,6.6
+221,674,I,13830,15th Ave W & W Wheeler St,14,MID,0.3,0.2,13.2,12.7,9.2
+221,674,I,13840,15th Ave W & W Armory Way,15,MID,1.4,0.5,14.1,50.2,19.1
+221,674,I,13870,Elliott Ave W & W Galer St,16,MID,0.6,0.3,14.3,23.2,10.5
+221,674,I,13890,Elliott Ave W & W Prospect St,17,MID,0.3,0.7,13.9,11.9,26.9
+221,674,I,13910,W Mercer St & 3rd Ave W,18,MID,1.8,0.9,14.8,66.2,34.5
+221,674,I,2672,Queen Anne Ave N & W Mercer St,19,MID,3.7,2.9,15.6,136,107.9
+221,674,I,2200,Queen Anne Ave N & W John St,20,MID,1.2,0.8,16,44.5,29.7
+221,674,I,2220,3rd Ave & Cedar St,21,MID,1.6,1.4,16,61,52.5
+221,674,I,400,3rd Ave & Bell St,22,MID,1.3,2.4,15,49.4,87.5
+221,674,I,420,3rd Ave & Virginia St,23,MID,0.7,3.2,12.5,24.5,117.7
+221,674,I,431,3rd Ave & Pike St,24,MID,0.5,6.3,6.7,18.5,239.8
+221,674,I,468,3rd Ave & Seneca St,25,MID,0.1,2.9,4,5.2,108.7
+221,674,I,490,3rd Ave & Cherry St,26,MID,0.1,2.4,1.7,3.3,87
+221,674,I,1710,Terrace St & 5th Ave,27,MID,1.3,3,0,49.1,112.4
+221,674,O,1610,Prefontaine Pl S & Yesler Way,1,MID,3,0,3,112.6,0
+221,674,O,538,3rd Ave & Columbia St,2,MID,2.1,0.1,4.9,80.6,5.6
+221,674,O,558,3rd Ave & Seneca St,3,MID,2.6,0.2,7.3,98.5,9
+221,674,O,575,3rd Ave & Pike St,4,MID,4.5,1,10.8,164.7,35.6
+221,674,O,600,3rd Ave & Virginia St,5,MID,3.5,1,13.5,134.1,38.6
+221,674,O,605,3rd Ave & Bell St,6,MID,2.2,1.2,14.5,83.1,45.1
+221,674,O,1690,3rd Ave & Vine St,7,MID,1.2,1.4,14.1,44,50.7
+221,674,O,2330,1st Ave N & Denny Way,8,MID,1.2,1.2,14.1,42.9,44.1
+221,674,O,2360,1st Ave N & Republican St,9,MID,0.9,2.3,12.7,33.3,84.6
+221,674,O,2370,Mercer St & Queen Anne Ave N,10,MID,1.7,1.6,12.7,64.4,61.3
+221,674,O,14038,W Mercer St & 3rd Ave W,11,MID,1.1,1.1,12.7,42.5,41.7
+221,674,O,14070,Elliott Ave W & W Prospect St,12,MID,0.5,0.8,12.5,18.1,29
+221,674,O,14090,Elliott Ave W & W Galer St,13,MID,0.3,0.6,12.2,10,21
+221,674,O,14110,15th Ave W & W Newton St,14,MID,0.8,1.4,11.6,28.7,51.7
+221,674,O,14130,15th Ave W & W Wheeler St,15,MID,0.2,0.2,11.6,6.8,7
+221,674,O,14150,15th Ave W & W Armour St,16,MID,0.2,0.3,11.4,8.2,10
+221,674,O,14170,15th Ave W & W Dravus St,17,MID,0.8,0.8,11.3,30.6,28.1
+221,674,O,14190,15th Ave W & W Emerson St,18,MID,0.6,0.3,11.6,22.1,12.5
+221,674,O,14200,15th Ave NW & NW Leary Way,19,MID,1.2,2.9,9.8,42.6,108.4
+221,674,O,14230,15th Ave NW & NW Market St,20,MID,1.9,4.6,7.1,70,171
+221,674,O,14250,15th Ave NW & NW 60th St,21,MID,0.4,0.7,6.8,13.5,24.9
+221,674,O,14280,15th Ave NW & NW 65th St,22,MID,1,1.3,6.4,35.5,49.7
+221,674,O,14300,15th Ave NW & NW 70th St,23,MID,0.1,0.4,6.1,5.5,15.7
+221,674,O,14320,15th Ave NW & NW 75th St,24,MID,0.1,0.5,5.7,4.8,17.2
+221,674,O,14340,15th Ave NW & NW 80th St,25,MID,0.1,0.8,5,1.9,28.1
+221,674,O,14360,15th Ave NW & NW 85th St,26,MID,0.1,2.4,2.7,5.2,90
+221,674,O,40050,Holman Rd NW & Mary Ave NW,27,MID,0.1,0.8,2,2,30.8
+221,674,O,28680,NW 100th Pl & 7th Ave NW,28,MID,0,2,0,1.8,73.4
+221,674,I,28680,NW 100th Pl & 7th Ave NW,1,PM,2.2,0,2.3,60.6,0
+221,674,I,40049,Holman Rd NW & Mary Ave NW,2,PM,1.7,0.1,3.8,47,2.7
+221,674,I,13600,15th Ave NW & NW 85th St,3,PM,2.3,0.2,5.9,63.7,5.4
+221,674,I,13620,15th Ave NW & NW 80th St,4,PM,0.8,0.1,6.6,21.1,2.9
+221,674,I,13640,15th Ave NW & NW 75th St,5,PM,0.5,0.3,6.8,12.4,8.5
+221,674,I,13660,15th Ave NW & NW 70th St,6,PM,0.9,0.4,7.2,23.3,10.2
+221,674,I,13670,15th Ave NW & NW 65th St,7,PM,4.1,0.5,10.9,110.1,12.6
+221,674,I,13700,15th Ave NW & NW 60th St,8,PM,1.1,0.4,11.6,30.5,11.6
+221,674,I,13721,15th Ave NW & NW Market St,9,PM,5.9,2.5,14.8,163.9,71.2
+221,674,I,13760,15th Ave NW & NW Leary Way,10,PM,4.3,1.3,17.8,120.4,35.7
+221,674,I,13770,15th Ave W & W Emerson St,11,PM,1,0.7,18,26.9,20.6
+221,674,I,13800,15th Ave W & W Dravus St,12,PM,1.5,2.7,17,40.8,72.6
+221,674,I,13810,15th Ave W & W Armour St,13,PM,0.3,0.3,17,8.5,8
+221,674,I,13830,15th Ave W & W Wheeler St,14,PM,0.3,0.5,16.8,7.8,12.6
+221,674,I,13840,15th Ave W & W Armory Way,15,PM,2,0.8,18,52.8,21.2
+221,674,I,13870,Elliott Ave W & W Galer St,16,PM,0.9,0.4,18.4,23.9,12.3
+221,674,I,13890,Elliott Ave W & W Prospect St,17,PM,1.1,1.5,18,31.6,42.8
+221,674,I,13910,W Mercer St & 3rd Ave W,18,PM,1.5,1.5,18,42.3,42.7
+221,674,I,2672,Queen Anne Ave N & W Mercer St,19,PM,3.8,4.5,17.3,106.6,126.1
+221,674,I,2200,Queen Anne Ave N & W John St,20,PM,1.6,1.1,18,43.9,30.5
+221,674,I,2220,3rd Ave & Cedar St,21,PM,1.9,1.6,18.4,52,43.4
+221,674,I,400,3rd Ave & Bell St,22,PM,1.3,2.6,17.1,35.5,71.9
+221,674,I,420,3rd Ave & Virginia St,23,PM,0.5,3.9,13.7,14.8,109.3
+221,674,I,431,3rd Ave & Pike St,24,PM,0.5,7.6,6.6,14.2,213
+221,674,I,468,3rd Ave & Seneca St,25,PM,0.1,2.6,4.1,2.6,69.5
+221,674,I,490,3rd Ave & Cherry St,26,PM,0.1,2,2.2,2.5,57
+221,674,I,1710,Terrace St & 5th Ave,27,PM,1.2,3.4,0,33.2,96.1
+221,674,O,1610,Prefontaine Pl S & Yesler Way,1,PM,3.4,0,3.4,100.5,0.6
+221,674,O,538,3rd Ave & Columbia St,2,PM,3.4,0.2,6.6,101.3,5.4
+221,674,O,558,3rd Ave & Seneca St,3,PM,5.4,0.2,11.8,157.3,5.8
+221,674,O,575,3rd Ave & Pike St,4,PM,5.5,1,16.1,163.8,30.5
+221,674,O,600,3rd Ave & Virginia St,5,PM,4.8,0.9,20.3,144.7,28.4
+221,674,O,605,3rd Ave & Bell St,6,PM,2.8,1.4,21.7,82.9,42.8
+221,674,O,1690,3rd Ave & Vine St,7,PM,1.4,1.8,21.2,42,56.1
+221,674,O,2330,1st Ave N & Denny Way,8,PM,1.4,1.7,21,44,51.4
+221,674,O,2360,1st Ave N & Republican St,9,PM,1.2,3.5,18.6,37.7,109.4
+221,674,O,2370,Mercer St & Queen Anne Ave N,10,PM,2.1,2.5,18.3,65.8,76.7
+221,674,O,14038,W Mercer St & 3rd Ave W,11,PM,1.2,1.9,17.6,37.7,59.1
+221,674,O,14070,Elliott Ave W & W Prospect St,12,PM,1.1,0.3,18.2,34.3,9.5
+221,674,O,14090,Elliott Ave W & W Galer St,13,PM,0.4,0.6,18.1,13.7,17.6
+221,674,O,14110,15th Ave W & W Newton St,14,PM,0.9,1.3,17.7,28.5,41.4
+221,674,O,14130,15th Ave W & W Wheeler St,15,PM,0.2,0.5,17.4,6,15.2
+221,674,O,14150,15th Ave W & W Armour St,16,PM,0.2,0.5,17.1,6.5,16.3
+221,674,O,14170,15th Ave W & W Dravus St,17,PM,0.9,1.8,16.2,29.2,57.8
+221,674,O,14190,15th Ave W & W Emerson St,18,PM,0.8,0.8,16.2,25,25.1
+221,674,O,14200,15th Ave NW & NW Leary Way,19,PM,1.7,3,15,53.9,94.6
+221,674,O,14230,15th Ave NW & NW Market St,20,PM,2.3,6.1,11.1,72.8,194.7
+221,674,O,14250,15th Ave NW & NW 60th St,21,PM,0.4,1.6,10,14.2,50.8
+221,674,O,14280,15th Ave NW & NW 65th St,22,PM,1.9,1.7,10.3,62.3,55.8
+221,674,O,14300,15th Ave NW & NW 70th St,23,PM,0.2,1,9.4,4.9,32.1
+221,674,O,14320,15th Ave NW & NW 75th St,24,PM,0.1,1.1,8.4,3.4,34.9
+221,674,O,14340,15th Ave NW & NW 80th St,25,PM,0.1,1.2,7.3,1.7,39.6
+221,674,O,14360,15th Ave NW & NW 85th St,26,PM,0.1,3.8,3.7,3.8,116.9
+221,674,O,40050,Holman Rd NW & Mary Ave NW,27,PM,0.1,1.3,2.5,2.3,39.7
+221,674,O,28680,NW 100th Pl & 7th Ave NW,28,PM,0.1,2.6,0,2.6,83.8
+221,674,I,28680,NW 100th Pl & 7th Ave NW,1,XEV,1.8,0,1.8,20.1,0
+221,674,I,40049,Holman Rd NW & Mary Ave NW,2,XEV,0.5,0,2.3,5.1,0.5
+221,674,I,13600,15th Ave NW & NW 85th St,3,XEV,2.2,0.2,4.3,24.6,1.8
+221,674,I,13620,15th Ave NW & NW 80th St,4,XEV,0.5,0.1,4.7,5.1,0.7
+221,674,I,13640,15th Ave NW & NW 75th St,5,XEV,0.2,0.1,4.9,2.8,1.4
+221,674,I,13660,15th Ave NW & NW 70th St,6,XEV,0.3,0.2,5,3,1.8
+221,674,I,13670,15th Ave NW & NW 65th St,7,XEV,0.5,0.2,5.3,6,2.8
+221,674,I,13700,15th Ave NW & NW 60th St,8,XEV,0.5,0.3,5.5,6.4,3.5
+221,674,I,13721,15th Ave NW & NW Market St,9,XEV,4.7,1,9.1,55.8,12.5
+221,674,I,13760,15th Ave NW & NW Leary Way,10,XEV,3.6,0.7,12,42.6,8
+221,674,I,13770,15th Ave W & W Emerson St,11,XEV,0.5,0.6,11.9,6.4,7.5
+221,674,I,13800,15th Ave W & W Dravus St,12,XEV,1.2,1.3,12,15.4,17.3
+221,674,I,13810,15th Ave W & W Armour St,13,XEV,0.2,0.2,12,2.2,2.3
+221,674,I,13830,15th Ave W & W Wheeler St,14,XEV,0.3,0.4,11.8,3.3,5.5
+221,674,I,13840,15th Ave W & W Armory Way,15,XEV,1.8,0.8,12.8,23.2,10
+221,674,I,13870,Elliott Ave W & W Galer St,16,XEV,0.7,0.6,13,9.7,7.3
+221,674,I,13890,Elliott Ave W & W Prospect St,17,XEV,0.5,0.4,13.2,5.8,4.3
+221,674,I,13910,W Mercer St & 3rd Ave W,18,XEV,0.9,1.1,12.9,10.6,13.6
+221,674,I,2672,Queen Anne Ave N & W Mercer St,19,XEV,3.4,3.1,13.2,40.8,37.6
+221,674,I,2200,Queen Anne Ave N & W John St,20,XEV,1,1,13.2,12.7,13.4
+221,674,I,2220,3rd Ave & Cedar St,21,XEV,1.4,1.5,13,17.7,19.9
+221,674,I,400,3rd Ave & Bell St,22,XEV,1,2.1,11.9,12.8,27.3
+221,674,I,420,3rd Ave & Virginia St,23,XEV,0.4,2.5,9.8,5.4,33
+221,674,I,431,3rd Ave & Pike St,24,XEV,0.4,5.3,4.9,5.3,68.3
+221,674,I,468,3rd Ave & Seneca St,25,XEV,0.1,2.1,3.1,2,28.7
+221,674,I,490,3rd Ave & Cherry St,26,XEV,0.1,1.4,1.7,0.7,18.7
+221,674,I,1710,Terrace St & 5th Ave,27,XEV,0.5,2.2,0,6.9,28.7
+221,674,O,1610,Prefontaine Pl S & Yesler Way,1,XEV,3.1,0,3.1,33.6,0
+221,674,O,538,3rd Ave & Columbia St,2,XEV,1.7,0.1,4.7,19.2,1.5
+221,674,O,558,3rd Ave & Seneca St,3,XEV,3.4,0.2,8.1,41.3,2.1
+221,674,O,575,3rd Ave & Pike St,4,XEV,5.8,0.7,13.3,69.6,8.7
+221,674,O,600,3rd Ave & Virginia St,5,XEV,4.7,0.9,17.4,56.5,11
+221,674,O,605,3rd Ave & Bell St,6,XEV,3.7,1.4,19.7,44.4,16.6
+221,674,O,1690,3rd Ave & Vine St,7,XEV,1.4,1.8,19.3,16.6,21.6
+221,674,O,2330,1st Ave N & Denny Way,8,XEV,1.6,1.6,19.4,17.6,17.5
+221,674,O,2360,1st Ave N & Republican St,9,XEV,1.9,3.2,18.1,21.4,35.7
+221,674,O,2370,Mercer St & Queen Anne Ave N,10,XEV,2.6,2.4,18.2,28.3,26.4
+221,674,O,14038,W Mercer St & 3rd Ave W,11,XEV,0.9,1.9,17.3,10.2,20.7
+221,674,O,14070,Elliott Ave W & W Prospect St,12,XEV,0.5,0.3,17.4,5.7,3.6
+221,674,O,14090,Elliott Ave W & W Galer St,13,XEV,0.5,0.9,17.1,5.7,9.9
+221,674,O,14110,15th Ave W & W Newton St,14,XEV,1.2,1.4,16.8,13,15.4
+221,674,O,14130,15th Ave W & W Wheeler St,15,XEV,0.2,0.5,16.4,1.9,5.7
+221,674,O,14150,15th Ave W & W Armour St,16,XEV,0.2,0.5,16.1,1.9,6.3
+221,674,O,14170,15th Ave W & W Dravus St,17,XEV,0.8,2.1,14.7,9.3,25.1
+221,674,O,14190,15th Ave W & W Emerson St,18,XEV,0.4,0.6,14.5,5,7.4
+221,674,O,14200,15th Ave NW & NW Leary Way,19,XEV,1.8,2.5,13.9,21.7,29.4
+221,674,O,14230,15th Ave NW & NW Market St,20,XEV,2.2,5.6,10.5,26.5,67.3
+221,674,O,14250,15th Ave NW & NW 60th St,21,XEV,0.4,1.4,9.2,4.3,15.9
+221,674,O,14280,15th Ave NW & NW 65th St,22,XEV,0.3,1.3,8,3.8,15
+221,674,O,14300,15th Ave NW & NW 70th St,23,XEV,0.1,0.9,7.1,1.4,11.1
+221,674,O,14320,15th Ave NW & NW 75th St,24,XEV,0.1,0.8,6.5,1.2,9.1
+221,674,O,14340,15th Ave NW & NW 80th St,25,XEV,0.1,0.8,5.8,1,9.7
+221,674,O,14360,15th Ave NW & NW 85th St,26,XEV,0.1,2.7,3,1.5,35.3
+221,674,O,40050,Holman Rd NW & Mary Ave NW,27,XEV,0.1,1.1,2,0.8,13.7
+221,674,O,28680,NW 100th Pl & 7th Ave NW,28,XEV,0,2.1,0,0.2,26.8
+221,674,I,28680,NW 100th Pl & 7th Ave NW,1,XNT,1.9,0,1.9,22.7,0.1
+221,674,I,40049,Holman Rd NW & Mary Ave NW,2,XNT,0.3,0,2,3.5,0.5
+221,674,I,13600,15th Ave NW & NW 85th St,3,XNT,1.4,0.1,3.3,15.4,1.5
+221,674,I,13620,15th Ave NW & NW 80th St,4,XNT,0.4,0,3.6,4,0.4
+221,674,I,13640,15th Ave NW & NW 75th St,5,XNT,0.3,0,3.9,3.3,0.4
+221,674,I,13660,15th Ave NW & NW 70th St,6,XNT,0.1,0.1,3.9,1.6,1.1
+221,674,I,13670,15th Ave NW & NW 65th St,7,XNT,0.4,0.1,4.2,4,0.8
+221,674,I,13700,15th Ave NW & NW 60th St,8,XNT,0.3,0.1,4.4,2.9,0.7
+221,674,I,13721,15th Ave NW & NW Market St,9,XNT,3,0.6,6.8,32.9,6.5
+221,674,I,13760,15th Ave NW & NW Leary Way,10,XNT,2,0.3,8.5,22.3,3.8
+221,674,I,13770,15th Ave W & W Emerson St,11,XNT,0.3,0.3,8.4,2.9,3.3
+221,674,I,13800,15th Ave W & W Dravus St,12,XNT,0.5,0.6,8.3,5,6.2
+221,674,I,13810,15th Ave W & W Armour St,13,XNT,0,0.1,8.2,0.5,1.2
+221,674,I,13830,15th Ave W & W Wheeler St,14,XNT,0.2,0.2,8.1,1.7,2.6
+221,674,I,13840,15th Ave W & W Armory Way,15,XNT,0.8,0.6,8.4,9.2,6.3
+221,674,I,13870,Elliott Ave W & W Galer St,16,XNT,0.7,0.5,8.6,7.8,5.6
+221,674,I,13890,Elliott Ave W & W Prospect St,17,XNT,0.2,0.1,9,2.6,1.7
+221,674,I,13910,W Mercer St & 3rd Ave W,18,XNT,0.4,0.8,8.6,4.7,9.6
+221,674,I,2672,Queen Anne Ave N & W Mercer St,19,XNT,3.1,1.6,10.1,36.8,18.8
+221,674,I,2200,Queen Anne Ave N & W John St,20,XNT,0.8,0.6,10.2,9.6,7.1
+221,674,I,2220,3rd Ave & Cedar St,21,XNT,1.3,1.1,10.4,15.3,13.3
+221,674,I,400,3rd Ave & Bell St,22,XNT,1.1,1.8,9.8,13.7,21.3
+221,674,I,420,3rd Ave & Virginia St,23,XNT,0.5,2.1,8.2,5.5,24.8
+221,674,I,431,3rd Ave & Pike St,24,XNT,0.3,3.2,5.2,3,38.9
+221,674,I,468,3rd Ave & Seneca St,25,XNT,0.2,1.8,3.6,1.8,21.5
+221,674,I,490,3rd Ave & Cherry St,26,XNT,0.1,1.5,2.3,1.8,19.2
+221,674,I,1710,Terrace St & 5th Ave,27,XNT,0.5,2.6,0,5.4,31.3
+221,674,I,515,3rd Ave S & S Main St,28,XNT,1.3,3.1,3.1,1.3,3.1
+221,674,I,99271,SODO Busway & S Royal Brougham Way,29,XNT,0.3,3.5,0,0.3,3.5
+221,674,O,1610,Prefontaine Pl S & Yesler Way,1,XNT,2.6,0,2.7,34,0
+221,674,O,538,3rd Ave & Columbia St,2,XNT,1.7,0.2,4.1,21.6,2.5
+221,674,O,558,3rd Ave & Seneca St,3,XNT,1.9,0.2,5.9,25.3,2.5
+221,674,O,575,3rd Ave & Pike St,4,XNT,3.2,0.5,8.5,42,7
+221,674,O,600,3rd Ave & Virginia St,5,XNT,3.1,0.8,10.9,36.7,9.4
+221,674,O,605,3rd Ave & Bell St,6,XNT,3.2,1,13.1,38.4,12.2
+221,674,O,1690,3rd Ave & Vine St,7,XNT,1.2,1.1,13.2,14.4,13.1
+221,674,O,2330,1st Ave N & Denny Way,8,XNT,0.9,1.2,13.3,12,16.1
+221,674,O,2360,1st Ave N & Republican St,9,XNT,1.3,1.6,13,16.4,20.2
+221,674,O,2370,Mercer St & Queen Anne Ave N,10,XNT,1.7,1.7,13,21.6,21.8
+221,674,O,14038,W Mercer St & 3rd Ave W,11,XNT,0.6,1.3,12.3,8,17.2
+221,674,O,14070,Elliott Ave W & W Prospect St,12,XNT,0.3,0.4,12.1,3.3,5
+221,674,O,14090,Elliott Ave W & W Galer St,13,XNT,0.3,1.3,11.1,3.3,16.5
+221,674,O,14110,15th Ave W & W Newton St,14,XNT,0.4,1,10.4,4.7,13.4
+221,674,O,14130,15th Ave W & W Wheeler St,15,XNT,0,0.3,10.2,0.2,3.7
+221,674,O,14150,15th Ave W & W Armour St,16,XNT,0,0.4,9.8,0.6,5.2
+221,674,O,14170,15th Ave W & W Dravus St,17,XNT,0.4,1.2,9.1,5.6,15.1
+221,674,O,14190,15th Ave W & W Emerson St,18,XNT,0.2,0.5,8.9,2.4,6
+221,674,O,14200,15th Ave NW & NW Leary Way,19,XNT,0.6,1.2,8.2,7.6,15.9
+221,674,O,14230,15th Ave NW & NW Market St,20,XNT,0.9,2.5,6.6,11.8,33
+221,674,O,14250,15th Ave NW & NW 60th St,21,XNT,0.1,1,6.2,1.9,14.2
+221,674,O,14280,15th Ave NW & NW 65th St,22,XNT,0.2,0.8,5.7,3.1,10.8
+221,674,O,14300,15th Ave NW & NW 70th St,23,XNT,0,0.5,5.2,0.5,6.5
+221,674,O,14320,15th Ave NW & NW 75th St,24,XNT,0,0.4,4.9,0.4,5.3
+221,674,O,14340,15th Ave NW & NW 80th St,25,XNT,0,0.6,4.4,0.2,7.8
+221,674,O,14360,15th Ave NW & NW 85th St,26,XNT,0.2,1.8,2.7,2.2,25.6
+221,674,O,40050,Holman Rd NW & Mary Ave NW,27,XNT,0.1,0.6,2.1,0.7,9
+221,674,O,28680,NW 100th Pl & 7th Ave NW,28,XNT,0.1,2.2,0,1.2,30.3

@@ -1,0 +1,420 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+212,3,I,12690,34th Ave & E Union St,1,AM,1.4,0,1.5,14.2,0.1
+212,3,I,12700,34th Ave & E Marion St,2,AM,0.3,0,1.8,2.6,0
+212,3,I,12712,34th Ave & E Cherry St,3,AM,0.2,0,2,1.9,0
+212,3,I,12720,E Cherry St & 32nd Ave,4,AM,0.8,0,2.7,7.6,0
+212,3,I,12740,E Cherry St & Martin L King Jr Way,5,AM,0.8,0,3.4,8.1,0.3
+212,3,I,12760,E Cherry St & 24th Ave,6,AM,0.3,0,3.7,2.8,0.2
+212,3,I,13005,21st Ave & E James St,7,AM,0.7,0,0.7,4.4,0
+212,3,I,12770,23rd Ave & E Cherry St,8,AM,0.4,0,2.9,6.4,0.5
+212,3,I,12780,E Jefferson St & 23rd Ave,9,AM,1,0.1,3.8,14.7,2
+212,3,I,12790,E Jefferson St & 21st Ave,10,AM,0.9,0,4.7,13.9,0
+212,3,I,12805,E Jefferson St & 18th Ave,11,AM,1.1,0.4,5.3,16.1,6.3
+212,3,I,12820,E Jefferson St & 15th Ave,12,AM,0.6,0.1,5.9,9.2,0.8
+212,3,I,12840,E Jefferson St & 12th Ave,13,AM,1.2,0.1,7,18.1,1.6
+212,3,I,12860,Jefferson St & Broadway,14,AM,0.9,0.9,7.1,12,13
+212,3,I,12880,Jefferson St & 9th Ave,15,AM,2,1.8,7.4,28.6,24.8
+212,3,I,12890,James St & 8th Ave,16,AM,0.6,0.2,7.6,9.6,3.4
+212,3,I,1540,James St & 5th Ave,17,AM,0.1,0.5,7.2,1.4,7.4
+212,3,I,1550,James St & 4th Ave,18,AM,0.2,1.6,5.8,3.1,24.3
+212,3,I,1530,S Jackson St & 5th Ave S,19,AM,1.4,0,1.4,2.8,0
+212,3,I,1610,Prefontaine Pl S & Yesler Way,20,AM,0.4,0.2,1.7,0.8,0.3
+212,3,I,531,3rd Ave & James St,21,AM,0.1,0,1.7,0.1,0
+212,3,I,538,3rd Ave & Columbia St,22,AM,0.4,1.4,4.4,7.6,23.2
+212,3,I,558,3rd Ave & Seneca St,23,AM,0.8,0.9,4.4,14.1,14.6
+212,3,I,575,3rd Ave & Pike St,24,AM,1.3,1.5,4.2,22,24.7
+212,3,I,600,3rd Ave & Virginia St,25,AM,0.9,1.8,3.3,15.4,30
+212,3,I,605,3rd Ave & Bell St,26,AM,0.5,0.5,6.4,3.8,3.7
+212,3,I,1690,3rd Ave & Vine St,27,AM,0.2,0.9,5.7,1.9,7.2
+212,3,I,4200,Cedar St & Denny Way,28,AM,0.3,0.4,5.8,2.7,2.8
+212,3,I,4220,5th Ave N & Broad St,29,AM,0.1,1.6,4.3,0.6,12.4
+212,3,I,4230,5th Ave N & Republican St,30,AM,0.1,0.8,3.6,0.8,6.3
+212,3,I,4245,Valley St & Taylor Ave N,31,AM,0.4,0.8,3.1,3.1,6.5
+212,3,I,4265,Taylor Ave N & Prospect St,32,AM,0.1,0.1,3.2,0.4,0.4
+212,3,I,4280,Taylor Ave N & Lee St,33,AM,0,0.1,3.1,0.2,0.7
+212,3,I,4290,Taylor Ave N & Galer St,34,AM,0,0.2,3,0.3,1.2
+212,3,I,4300,Taylor Ave N & 5th Ave N,35,AM,0,0.1,2.9,0.2,0.9
+212,3,I,4325,5th Ave N & Newton St,36,AM,0,0.1,2.7,0.2,0.5
+212,3,I,4340,Boston St & 4th Ave N,37,AM,0,0.2,2.5,0.2,1.5
+212,3,I,4355,Boston St & 2nd Ave N,38,AM,0,0.3,2.2,0.2,2
+212,3,I,4370,Boston St & 1st Ave N,39,AM,0.1,0.9,1.4,0.6,6.6
+212,3,I,41340,W Mcgraw St & Queen Anne Ave N,40,AM,0.1,0.1,1.4,0.6,0.6
+212,3,I,41350,W Mcgraw St & 3rd Ave W,41,AM,0.1,0,1.5,0.7,0.3
+212,3,I,41360,3rd Ave W & W Smith St,42,AM,0.1,0,1.5,0.4,0
+212,3,I,41370,3rd Ave W & W Raye St,43,AM,0,0,1.5,0,0.1
+212,3,I,41380,3rd Ave W & W Armour St,44,AM,0,0.2,1.3,0.1,1.4
+212,3,I,41390,3rd Ave W & W Dravus St,45,AM,0,0.7,0.7,0.2,4.8
+212,3,I,18220,W Nickerson St & 3rd Ave W,46,AM,1,1.7,0,7.1,11.8
+212,3,O,41255,3rd Ave W & W Cremona St,1,AM,0.9,0,0.9,5.5,0
+212,3,O,41270,3rd Ave W & W Fulton St,2,AM,0.2,0,1.2,1.4,0
+212,3,O,41280,3rd Ave W & W Raye St,3,AM,0.1,0,1.2,0.6,0
+212,3,O,41290,3rd Ave W & W Smith St,4,AM,0.1,0,1.3,0.5,0
+212,3,O,41300,3rd Ave W & W Mcgraw St,5,AM,0.2,0,1.5,1,0.1
+212,3,O,3910,W Mcgraw St & 2nd Ave W,6,AM,0.2,0,1.6,1.4,0
+212,3,O,3920,Queen Anne Ave N & W Mcgraw St,7,AM,0.2,0.1,1.8,1.2,0.4
+212,3,O,3930,Boston St & Queen Anne Ave N,8,AM,0.7,0.2,2.3,4.2,1.2
+212,3,O,3940,Boston St & Warren Ave N,9,AM,0.5,0,2.8,3,0
+212,3,O,3950,Boston St & Nob Hill Ave N,10,AM,0.2,0,3,1,0
+212,3,O,3960,Boston St & Bigelow Ave N,11,AM,0.2,0.1,3.2,1.4,0.3
+212,3,O,3980,5th Ave N & Newton St,12,AM,0.3,0,3.4,1.7,0
+212,3,O,3990,Taylor Ave N & 5th Ave N,13,AM,0.2,0,3.6,1.2,0
+212,3,O,4000,Taylor Ave N & Garfield St,14,AM,0.4,0.1,3.9,2.3,0.5
+212,3,O,4010,Taylor Ave N & Lee St,15,AM,0.5,0,4.4,2.7,0.2
+212,3,O,4020,Taylor Ave N & Prospect St,16,AM,0.5,0.1,4.8,3.1,0.4
+212,3,O,4040,5th Ave N & Valley St,17,AM,2,0.3,6.4,11.8,1.9
+212,3,O,4050,5th Ave N & Republican St,18,AM,0.6,0.1,6.9,3,0.7
+212,3,O,4070,5th Ave N & Broad St,19,AM,0.2,0.3,6.9,1.2,1.3
+212,3,O,4080,5th Ave N & Denny Way,20,AM,0.6,0.4,7.1,3,2.2
+212,3,O,2220,3rd Ave & Cedar St,21,AM,2.2,0.3,9,10.8,1.4
+212,3,O,400,3rd Ave & Bell St,22,AM,2,0.5,10.5,10,2.3
+212,3,O,420,3rd Ave & Virginia St,23,AM,1.7,0.9,11.3,8.4,4.3
+212,3,O,430,3rd Ave & Pine St,24,AM,2,0.5,4.5,38.7,9.6
+212,3,O,450,3rd Ave & Union St,25,AM,1.8,0.6,6,35.9,11.8
+212,3,O,480,3rd Ave & Marion St,26,AM,2.9,0.5,8.4,57.9,9.3
+212,3,O,1560,James St & 3rd Ave,27,AM,4.5,0.5,12.4,90.8,9.6
+212,3,O,1570,James St & 5th Ave,28,AM,2.8,0.2,15,55.9,4.8
+212,3,O,12900,James St & 8th Ave,29,AM,0.1,0.6,14.5,2.1,12.8
+212,3,O,12910,9th Ave & Jefferson St,30,AM,0.5,8.1,6.9,9.9,161.7
+212,3,O,12930,E Jefferson St & Broadway,31,AM,0.4,2.2,5.1,8.5,42.7
+212,3,O,12950,E Jefferson St & 12th Ave,32,AM,0.1,0.5,4.8,2,8.6
+212,3,O,12960,E Jefferson St & 14th Ave,33,AM,0,0.2,4.6,0.4,4.4
+212,3,O,12980,E Jefferson St & 17th Ave,34,AM,0.1,2.2,2.4,1.4,41.9
+212,3,O,12991,E Jefferson St & 20th Ave,35,AM,0,0.8,1.7,0.5,14.8
+212,3,O,13005,21st Ave & E James St,36,AM,0.1,0.5,1.2,1.8,10
+212,3,O,13020,E Cherry St & 23rd Ave,37,AM,0.2,0.6,1.6,2.7,7.7
+212,3,O,13030,E Cherry St & 25th Ave,38,AM,0,0.2,1.4,0.1,2
+212,3,O,13040,E Cherry St & Martin L King Jr Way,39,AM,0,0.1,1.3,0.2,1.2
+212,3,O,13060,E Cherry St & 31st Ave,40,AM,0,0,1.3,0,0
+212,3,O,13070,E Cherry St & 33rd Ave,41,AM,0,0.1,1.2,0.1,1.2
+212,3,O,13080,34th Ave & E Columbia St,42,AM,0,0,1.2,0,0.3
+212,3,O,13090,E Spring St & 34th Ave,43,AM,0,0.3,0.9,0,3.5
+212,3,O,12690,34th Ave & E Union St,44,AM,0,0.9,0,0.4,11
+212,3,I,12690,34th Ave & E Union St,1,MID,0.9,0,0.9,12.1,0
+212,3,I,12700,34th Ave & E Marion St,2,MID,0.2,0,1.1,2,0.6
+212,3,I,12712,34th Ave & E Cherry St,3,MID,0.1,0,1.2,1.9,0
+212,3,I,12720,E Cherry St & 32nd Ave,4,MID,0.2,0,1.4,2.3,0
+212,3,I,12740,E Cherry St & Martin L King Jr Way,5,MID,0.5,0.1,1.8,5.9,0.7
+212,3,I,12760,E Cherry St & 24th Ave,6,MID,0.5,0,2.2,6.6,0.2
+212,3,I,13005,21st Ave & E James St,7,MID,1,0,1,22.4,0
+212,3,I,12770,23rd Ave & E Cherry St,8,MID,0.5,0.1,2,18.6,1.8
+212,3,I,12780,E Jefferson St & 23rd Ave,9,MID,0.9,0.1,2.8,31.6,2.9
+212,3,I,12790,E Jefferson St & 21st Ave,10,MID,0.4,0,3.1,14.2,0.1
+212,3,I,12805,E Jefferson St & 18th Ave,11,MID,1,0.2,4,37.3,6.1
+212,3,I,12820,E Jefferson St & 15th Ave,12,MID,0.4,0,4.4,15.9,1.6
+212,3,I,12840,E Jefferson St & 12th Ave,13,MID,0.7,0.2,5,26.2,5.5
+212,3,I,12860,Jefferson St & Broadway,14,MID,1.6,0.6,5.9,56.4,20.7
+212,3,I,12880,Jefferson St & 9th Ave,15,MID,3.9,0.7,9.1,141.8,26.8
+212,3,I,12890,James St & 8th Ave,16,MID,0.8,0.1,9.8,27.8,4
+212,3,I,1540,James St & 5th Ave,17,MID,0.2,0.4,9.6,6.7,13.7
+212,3,I,1550,James St & 4th Ave,18,MID,0.4,2.5,7.4,13.8,90.6
+212,3,I,538,3rd Ave & Columbia St,22,MID,0.7,1.4,6.7,25.9,50.7
+212,3,I,558,3rd Ave & Seneca St,23,MID,0.7,0.8,6.6,24.8,29
+212,3,I,575,3rd Ave & Pike St,24,MID,2.6,3.4,5.8,89.5,120.3
+212,3,I,600,3rd Ave & Virginia St,25,MID,1.6,2.2,5.1,53.6,76.4
+212,3,I,605,3rd Ave & Bell St,26,MID,0.7,1,7.3,15.1,24
+212,3,I,1690,3rd Ave & Vine St,27,MID,0.4,1.2,6.5,9.4,28.6
+212,3,I,4200,Cedar St & Denny Way,28,MID,0.4,0.5,6.3,9.4,12.3
+212,3,I,4220,5th Ave N & Broad St,29,MID,0.2,1.5,5,4.4,35.6
+212,3,I,4230,5th Ave N & Republican St,30,MID,0.2,0.8,4.4,4.3,19.2
+212,3,I,4245,Valley St & Taylor Ave N,31,MID,0.3,0.7,4,7.6,15.7
+212,3,I,4265,Taylor Ave N & Prospect St,32,MID,0.1,0.2,4,3.4,4.2
+212,3,I,4280,Taylor Ave N & Lee St,33,MID,0.1,0.2,3.8,1.4,4.6
+212,3,I,4290,Taylor Ave N & Galer St,34,MID,0.1,0.2,3.8,2.7,4.1
+212,3,I,4300,Taylor Ave N & 5th Ave N,35,MID,0,0.1,3.7,0.2,1.5
+212,3,I,4325,5th Ave N & Newton St,36,MID,0.1,0.2,3.6,1.2,4.2
+212,3,I,4340,Boston St & 4th Ave N,37,MID,0,0.2,3.4,0.1,4.3
+212,3,I,4355,Boston St & 2nd Ave N,38,MID,0,0.2,3.2,0.1,5.2
+212,3,I,4370,Boston St & 1st Ave N,39,MID,0.2,1.9,1.6,5.2,44.7
+212,3,I,41340,W Mcgraw St & Queen Anne Ave N,40,MID,0.1,0.2,1.5,2.7,3.6
+212,3,I,41350,W Mcgraw St & 3rd Ave W,41,MID,0,0.2,1.4,0.8,3.8
+212,3,I,41360,3rd Ave W & W Smith St,42,MID,0,0,1.4,0.1,0.5
+212,3,I,41370,3rd Ave W & W Raye St,43,MID,0,0.1,1.3,0,1.3
+212,3,I,41380,3rd Ave W & W Armour St,44,MID,0,0.2,1.2,0.3,4.1
+212,3,I,41390,3rd Ave W & W Dravus St,45,MID,0,0.7,0.5,0.2,16.9
+212,3,I,18220,W Nickerson St & 3rd Ave W,46,MID,1.3,1.7,0,29.1,39.7
+212,3,O,41255,3rd Ave W & W Cremona St,1,MID,1.5,0,1.7,35.9,0
+212,3,O,41270,3rd Ave W & W Fulton St,2,MID,0.4,0,2.1,9.8,0.3
+212,3,O,41280,3rd Ave W & W Raye St,3,MID,0.1,0,2.2,2.8,0.2
+212,3,O,41290,3rd Ave W & W Smith St,4,MID,0.1,0,2.3,1.7,0
+212,3,O,41300,3rd Ave W & W Mcgraw St,5,MID,0.1,0.1,2.3,2.1,2.4
+212,3,O,3910,W Mcgraw St & 2nd Ave W,6,MID,0.2,0,2.4,3.6,0.5
+212,3,O,3920,Queen Anne Ave N & W Mcgraw St,7,MID,0.2,0.2,2.4,4.1,4.1
+212,3,O,3930,Boston St & Queen Anne Ave N,8,MID,0.9,0.4,2.9,22.3,9.4
+212,3,O,3940,Boston St & Warren Ave N,9,MID,0.2,0,3.1,5.6,0.8
+212,3,O,3950,Boston St & Nob Hill Ave N,10,MID,0.1,0,3.2,3,0.5
+212,3,O,3960,Boston St & Bigelow Ave N,11,MID,0.1,0,3.3,2.2,0.5
+212,3,O,3980,5th Ave N & Newton St,12,MID,0.2,0,3.4,3.9,0.9
+212,3,O,3990,Taylor Ave N & 5th Ave N,13,MID,0.1,0,3.5,2.4,0.1
+212,3,O,4000,Taylor Ave N & Garfield St,14,MID,0.2,0.1,3.6,3.9,2.1
+212,3,O,4010,Taylor Ave N & Lee St,15,MID,0.4,0,4,10.4,1
+212,3,O,4020,Taylor Ave N & Prospect St,16,MID,0.3,0.1,4.2,6.3,2.3
+212,3,O,4040,5th Ave N & Valley St,17,MID,1.4,0.3,5.3,32.6,6.6
+212,3,O,4050,5th Ave N & Republican St,18,MID,1.1,0.2,6.2,26.3,4.2
+212,3,O,4070,5th Ave N & Broad St,19,MID,1.4,0.3,7.4,34.7,6.8
+212,3,O,4080,5th Ave N & Denny Way,20,MID,0.5,0.3,7.6,12.9,7.4
+212,3,O,2220,3rd Ave & Cedar St,21,MID,2.4,0.5,9.5,57.8,10.9
+212,3,O,400,3rd Ave & Bell St,22,MID,2.3,0.8,11,54.7,19.4
+212,3,O,420,3rd Ave & Virginia St,23,MID,1.7,1.3,11.4,40.5,30
+212,3,O,430,3rd Ave & Pine St,24,MID,2.2,2.7,7.2,79.6,96
+212,3,O,450,3rd Ave & Union St,25,MID,2.4,1.2,8.3,85.2,44.3
+212,3,O,480,3rd Ave & Marion St,26,MID,1.2,0.8,8.7,43.5,27.4
+212,3,O,1560,James St & 3rd Ave,27,MID,3.9,1.3,11.2,135.8,45.4
+212,3,O,1570,James St & 5th Ave,28,MID,0.5,0.3,11.5,19.1,10.1
+212,3,O,12900,James St & 8th Ave,29,MID,0.1,1.1,10.5,4.1,39
+212,3,O,12910,9th Ave & Jefferson St,30,MID,0.8,5.3,6,28.1,186.1
+212,3,O,12930,E Jefferson St & Broadway,31,MID,0.5,2.1,4.4,17.5,73.9
+212,3,O,12950,E Jefferson St & 12th Ave,32,MID,0.2,0.5,4.1,5.5,17.5
+212,3,O,12960,E Jefferson St & 14th Ave,33,MID,0,0.2,3.9,1.6,7.7
+212,3,O,12980,E Jefferson St & 17th Ave,34,MID,0.1,1.3,2.6,4.3,48.5
+212,3,O,12991,E Jefferson St & 20th Ave,35,MID,0,0.6,2.1,0.8,21.5
+212,3,O,13005,21st Ave & E James St,36,MID,0.1,1.3,0.8,2.7,46.9
+212,3,O,13020,E Cherry St & 23rd Ave,37,MID,0.2,0.6,1.9,2.1,7.4
+212,3,O,13030,E Cherry St & 25th Ave,38,MID,0,0.1,1.8,0,1.7
+212,3,O,13040,E Cherry St & Martin L King Jr Way,39,MID,0.1,0.5,1.3,0.8,6.8
+212,3,O,13060,E Cherry St & 31st Ave,40,MID,0,0.2,1.2,0,2
+212,3,O,13070,E Cherry St & 33rd Ave,41,MID,0,0.1,1.1,0,1.4
+212,3,O,13080,34th Ave & E Columbia St,42,MID,0,0.1,1,0,1.4
+212,3,O,13090,E Spring St & 34th Ave,43,MID,0,0.2,0.8,0.4,3.2
+212,3,O,12690,34th Ave & E Union St,44,MID,0,0.8,0,0,9.6
+212,3,I,12690,34th Ave & E Union St,1,PM,1.2,0,1.2,16.5,0
+212,3,I,12700,34th Ave & E Marion St,2,PM,0.1,0,1.3,1.3,0
+212,3,I,12712,34th Ave & E Cherry St,3,PM,0,0,1.3,0.6,0
+212,3,I,12720,E Cherry St & 32nd Ave,4,PM,0.1,0,1.4,1.4,0.1
+212,3,I,12740,E Cherry St & Martin L King Jr Way,5,PM,0.3,0,1.6,4.3,0.4
+212,3,I,12760,E Cherry St & 24th Ave,6,PM,0.3,0,2,4.7,0
+212,3,I,13005,21st Ave & E James St,7,PM,0.7,0,0.6,3.9,0
+212,3,I,12770,23rd Ave & E Cherry St,8,PM,0.6,0,2.1,11.3,0.6
+212,3,I,12780,E Jefferson St & 23rd Ave,9,PM,1.4,0.1,3.4,28.7,2.6
+212,3,I,12790,E Jefferson St & 21st Ave,10,PM,0.2,0,3.6,4.7,0.2
+212,3,I,12805,E Jefferson St & 18th Ave,11,PM,1.8,0.2,5.3,36.7,3.4
+212,3,I,12820,E Jefferson St & 15th Ave,12,PM,0.6,0.1,5.8,11.5,1.3
+212,3,I,12840,E Jefferson St & 12th Ave,13,PM,0.8,0.3,6.3,15.5,5.4
+212,3,I,12860,Jefferson St & Broadway,14,PM,1.9,0.7,7.8,38.7,14.3
+212,3,I,12880,Jefferson St & 9th Ave,15,PM,5.1,0.6,12.2,101.8,12.6
+212,3,I,12890,James St & 8th Ave,16,PM,0.9,0.1,13.1,18.8,2.1
+212,3,I,1540,James St & 5th Ave,17,PM,0.2,1.3,12,4.4,26.3
+212,3,I,1550,James St & 4th Ave,18,PM,0.5,4.1,8.4,10.5,82.1
+212,3,I,538,3rd Ave & Columbia St,22,PM,0.7,2.3,6.8,13.4,45.7
+212,3,I,558,3rd Ave & Seneca St,23,PM,0.8,1,6.6,17.7,20.8
+212,3,I,575,3rd Ave & Pike St,24,PM,2.2,2.9,5.9,46.7,61.9
+212,3,I,600,3rd Ave & Virginia St,25,PM,1.5,2.2,5.2,33.5,48.9
+212,3,I,605,3rd Ave & Bell St,26,PM,0.8,1,8,11,13.5
+212,3,I,1690,3rd Ave & Vine St,27,PM,0.4,1.2,7.2,5.4,17.2
+212,3,I,4200,Cedar St & Denny Way,28,PM,0.4,0.6,7,5.2,7.7
+212,3,I,4220,5th Ave N & Broad St,29,PM,0.3,0.7,6.6,4.4,9.8
+212,3,I,4230,5th Ave N & Republican St,30,PM,0.4,1,6,6.2,13.9
+212,3,I,4245,Valley St & Taylor Ave N,31,PM,0.6,1.1,5.5,8,14.9
+212,3,I,4265,Taylor Ave N & Prospect St,32,PM,0.1,0.5,5.1,0.9,6.8
+212,3,I,4280,Taylor Ave N & Lee St,33,PM,0,0.5,4.7,0.6,6.9
+212,3,I,4290,Taylor Ave N & Galer St,34,PM,0.1,0.3,4.5,1.8,4.8
+212,3,I,4300,Taylor Ave N & 5th Ave N,35,PM,0,0.2,4.4,0,2.7
+212,3,I,4325,5th Ave N & Newton St,36,PM,0,0.3,4,0.4,4.8
+212,3,I,4340,Boston St & 4th Ave N,37,PM,0,0.4,3.7,0.1,4.9
+212,3,I,4355,Boston St & 2nd Ave N,38,PM,0,0.3,3.4,0.1,4.7
+212,3,I,4370,Boston St & 1st Ave N,39,PM,0.2,2.1,1.5,3,29.7
+212,3,I,41340,W Mcgraw St & Queen Anne Ave N,40,PM,0.1,0.2,1.4,1.9,3
+212,3,I,41350,W Mcgraw St & 3rd Ave W,41,PM,0,0.3,1.2,0.4,4
+212,3,I,41360,3rd Ave W & W Smith St,42,PM,0,0.1,1.1,0,0.8
+212,3,I,41370,3rd Ave W & W Raye St,43,PM,0,0.2,1,0,2.5
+212,3,I,41380,3rd Ave W & W Armour St,44,PM,0,0.2,0.8,0.1,3.2
+212,3,I,41390,3rd Ave W & W Dravus St,45,PM,0,0.4,0.4,0.2,6.1
+212,3,I,18220,W Nickerson St & 3rd Ave W,46,PM,1.7,2.1,0,25,30.9
+212,3,O,41255,3rd Ave W & W Cremona St,1,PM,1.7,0,1.8,18.5,0
+212,3,O,41270,3rd Ave W & W Fulton St,2,PM,0.2,0,1.9,1.9,0.3
+212,3,O,41280,3rd Ave W & W Raye St,3,PM,0.1,0,2,0.9,0.1
+212,3,O,41290,3rd Ave W & W Smith St,4,PM,0,0,2,0.1,0.2
+212,3,O,41300,3rd Ave W & W Mcgraw St,5,PM,0.1,0.2,1.8,0.6,2.7
+212,3,O,3910,W Mcgraw St & 2nd Ave W,6,PM,0.1,0,1.8,0.7,0.4
+212,3,O,3920,Queen Anne Ave N & W Mcgraw St,7,PM,0.2,0.1,1.9,2.2,1.2
+212,3,O,3930,Boston St & Queen Anne Ave N,8,PM,1.4,0.4,2.9,15.3,4.8
+212,3,O,3940,Boston St & Warren Ave N,9,PM,0.3,0,3.1,3.1,0.3
+212,3,O,3950,Boston St & Nob Hill Ave N,10,PM,0.1,0,3.2,1.1,0.4
+212,3,O,3960,Boston St & Bigelow Ave N,11,PM,0.1,0,3.3,1.4,0.3
+212,3,O,3980,5th Ave N & Newton St,12,PM,0.1,0.1,3.3,1.2,1
+212,3,O,3990,Taylor Ave N & 5th Ave N,13,PM,0.1,0,3.4,0.8,0.2
+212,3,O,4000,Taylor Ave N & Garfield St,14,PM,0.1,0.2,3.3,1.6,2.5
+212,3,O,4010,Taylor Ave N & Lee St,15,PM,0.2,0.1,3.4,2.4,0.9
+212,3,O,4020,Taylor Ave N & Prospect St,16,PM,0.2,0.1,3.5,1.8,1.2
+212,3,O,4040,5th Ave N & Valley St,17,PM,1.4,0.4,4.5,15.6,4
+212,3,O,4050,5th Ave N & Republican St,18,PM,1.3,0.1,5.8,15.2,0.6
+212,3,O,4070,5th Ave N & Broad St,19,PM,2.6,0.2,8.2,31.3,2
+212,3,O,4080,5th Ave N & Denny Way,20,PM,0.7,0.5,8.5,8.1,5.4
+212,3,O,2220,3rd Ave & Cedar St,21,PM,2.2,0.5,10.1,25.8,6.3
+212,3,O,400,3rd Ave & Bell St,22,PM,1.7,0.9,10.9,20,10.7
+212,3,O,420,3rd Ave & Virginia St,23,PM,1.5,1.6,10.8,18.1,19.2
+212,3,O,430,3rd Ave & Pine St,24,PM,2.3,3.2,7.2,36.3,51.1
+212,3,O,450,3rd Ave & Union St,25,PM,2.6,1.2,8.5,41,19.6
+212,3,O,480,3rd Ave & Marion St,26,PM,1.3,0.8,9.2,22.8,14.3
+212,3,O,1560,James St & 3rd Ave,27,PM,3.5,1.1,11.7,55.6,17.6
+212,3,O,1570,James St & 5th Ave,28,PM,0.6,0.2,12,8.8,3.8
+212,3,O,12900,James St & 8th Ave,29,PM,0.1,1.4,10.8,1.8,22.3
+212,3,O,12910,9th Ave & Jefferson St,30,PM,1.1,4,7.9,18.1,64.4
+212,3,O,12930,E Jefferson St & Broadway,31,PM,0.7,1.9,6.7,11.7,30.5
+212,3,O,12950,E Jefferson St & 12th Ave,32,PM,0.3,0.8,6.2,4.7,13.2
+212,3,O,12960,E Jefferson St & 14th Ave,33,PM,0.1,0.3,6,2,5
+212,3,O,12980,E Jefferson St & 17th Ave,34,PM,0.3,1.3,4.9,4.4,21.4
+212,3,O,12991,E Jefferson St & 20th Ave,35,PM,0,1.3,3.7,0.6,20.6
+212,3,O,13005,21st Ave & E James St,36,PM,0.1,0.5,3.2,1,8.6
+212,3,O,13020,E Cherry St & 23rd Ave,37,PM,0.3,0.7,3,4.1,10.1
+212,3,O,13030,E Cherry St & 25th Ave,38,PM,0,0.3,2.7,0.1,4.5
+212,3,O,13040,E Cherry St & Martin L King Jr Way,39,PM,0,0.6,2.2,0.3,8.3
+212,3,O,13060,E Cherry St & 31st Ave,40,PM,0,0.3,1.9,0.2,4.2
+212,3,O,13070,E Cherry St & 33rd Ave,41,PM,0,0.2,1.8,0,2.5
+212,3,O,13080,34th Ave & E Columbia St,42,PM,0,0.2,1.6,0,2.6
+212,3,O,13090,E Spring St & 34th Ave,43,PM,0,0.5,1.1,0.3,6.9
+212,3,O,12690,34th Ave & E Union St,44,PM,0,1.1,0,0.5,16.7
+212,3,I,12690,34th Ave & E Union St,1,XEV,1.1,0,1.1,6.8,0
+212,3,I,12700,34th Ave & E Marion St,2,XEV,0,0,1.2,0.2,0
+212,3,I,12712,34th Ave & E Cherry St,3,XEV,0,0,1.2,0,0
+212,3,I,12720,E Cherry St & 32nd Ave,4,XEV,0,0,1.2,0.1,0
+212,3,I,12740,E Cherry St & Martin L King Jr Way,5,XEV,0.5,0,1.7,3.1,0
+212,3,I,12760,E Cherry St & 24th Ave,6,XEV,0.2,0,1.9,1,0
+212,3,I,13005,21st Ave & E James St,7,XEV,0.8,0,0.8,1.6,0
+212,3,I,12770,23rd Ave & E Cherry St,8,XEV,0.3,0,1.9,2.4,0.3
+212,3,I,12780,E Jefferson St & 23rd Ave,9,XEV,0.6,0.1,2.4,4.8,0.6
+212,3,I,12790,E Jefferson St & 21st Ave,10,XEV,0.1,0,2.5,1,0
+212,3,I,12805,E Jefferson St & 18th Ave,11,XEV,0.5,0.1,2.9,3.9,0.8
+212,3,I,12820,E Jefferson St & 15th Ave,12,XEV,0.2,0.2,3,1.4,1.4
+212,3,I,12840,E Jefferson St & 12th Ave,13,XEV,0.5,0.1,3.4,3.2,0.8
+212,3,I,12860,Jefferson St & Broadway,14,XEV,0.8,0.4,3.7,6,3
+212,3,I,12880,Jefferson St & 9th Ave,15,XEV,2.5,0.3,6,19.7,2
+212,3,I,12890,James St & 8th Ave,16,XEV,0.4,0.1,6.3,3.4,0.5
+212,3,I,1540,James St & 5th Ave,17,XEV,0.1,0.2,6.2,0.8,1.4
+212,3,I,1550,James St & 4th Ave,18,XEV,0.1,2,4.3,0.8,16.1
+212,3,I,538,3rd Ave & Columbia St,22,XEV,0.4,1.4,3.3,2.9,11.1
+212,3,I,558,3rd Ave & Seneca St,23,XEV,0.2,0.5,2.9,1.4,4.3
+212,3,I,575,3rd Ave & Pike St,24,XEV,0.6,1.5,2,4.6,12
+212,3,I,600,3rd Ave & Virginia St,25,XEV,0.7,2.7,0,5.6,21.6
+212,3,O,41255,3rd Ave W & W Cremona St,1,XEV,0.7,0,0.7,0.7,0
+212,3,O,41270,3rd Ave W & W Fulton St,2,XEV,0.3,0,1,0.3,0
+212,3,O,41280,3rd Ave W & W Raye St,3,XEV,0,0,1,0,0
+212,3,O,41290,3rd Ave W & W Smith St,4,XEV,0,0,1,0,0
+212,3,O,41300,3rd Ave W & W Mcgraw St,5,XEV,0,0,0.9,0,0
+212,3,O,3910,W Mcgraw St & 2nd Ave W,6,XEV,0,0,0.9,0,0
+212,3,O,3920,Queen Anne Ave N & W Mcgraw St,7,XEV,0.1,0.1,1,0.1,0.1
+212,3,O,3930,Boston St & Queen Anne Ave N,8,XEV,1.6,0.2,2.4,1.6,0.2
+212,3,O,3940,Boston St & Warren Ave N,9,XEV,0.4,0,2.8,0.4,0
+212,3,O,3950,Boston St & Nob Hill Ave N,10,XEV,0.1,0,2.8,0.1,0
+212,3,O,3960,Boston St & Bigelow Ave N,11,XEV,0.1,0,2.9,0.1,0
+212,3,O,3980,5th Ave N & Newton St,12,XEV,0.3,0.1,3.1,0.3,0.1
+212,3,O,3990,Taylor Ave N & 5th Ave N,13,XEV,0.2,0.1,3.2,0.2,0.1
+212,3,O,4000,Taylor Ave N & Garfield St,14,XEV,0.1,0.4,3,0.1,0.4
+212,3,O,4010,Taylor Ave N & Lee St,15,XEV,0.2,0.1,3.1,0.2,0.1
+212,3,O,4020,Taylor Ave N & Prospect St,16,XEV,0.2,0.1,3.2,0.2,0.1
+212,3,O,4040,5th Ave N & Valley St,17,XEV,1.4,0.4,4.2,1.4,0.4
+212,3,O,4050,5th Ave N & Republican St,18,XEV,1.1,0.1,5.2,1.1,0.1
+212,3,O,4070,5th Ave N & Broad St,19,XEV,2.9,0.2,7.9,2.9,0.2
+212,3,O,4080,5th Ave N & Denny Way,20,XEV,1.1,0.4,8.6,1.1,0.4
+212,3,O,2220,3rd Ave & Cedar St,21,XEV,1.8,0.7,9.7,1.8,0.7
+212,3,O,400,3rd Ave & Bell St,22,XEV,2,1.2,10.5,2,1.2
+212,3,O,420,3rd Ave & Virginia St,23,XEV,1.4,1.7,10.3,1.4,1.7
+212,3,O,430,3rd Ave & Pine St,24,XEV,1.8,0.4,2.5,16.2,4
+212,3,O,450,3rd Ave & Union St,25,XEV,2,0.3,4.2,17.6,2.3
+212,3,O,480,3rd Ave & Marion St,26,XEV,1,0.2,5,8.6,2.1
+212,3,O,1560,James St & 3rd Ave,27,XEV,2.5,0.5,7.3,24.9,4.6
+212,3,O,1570,James St & 5th Ave,28,XEV,0.3,0.2,7.4,2.5,1.5
+212,3,O,12900,James St & 8th Ave,29,XEV,0.1,1,6.4,1.1,10.2
+212,3,O,12910,9th Ave & Jefferson St,30,XEV,0.6,2.3,4.7,5.9,22.9
+212,3,O,12930,E Jefferson St & Broadway,31,XEV,0.4,1.3,3.9,3.8,12.6
+212,3,O,12950,E Jefferson St & 12th Ave,32,XEV,0.2,0.5,3.6,1.9,4.8
+212,3,O,12960,E Jefferson St & 14th Ave,33,XEV,0.1,0.2,3.4,0.5,1.4
+212,3,O,12980,E Jefferson St & 17th Ave,34,XEV,0,0.7,2.8,0.4,5.9
+212,3,O,12991,E Jefferson St & 20th Ave,35,XEV,0,0.6,2.2,0.1,5.6
+212,3,O,13005,21st Ave & E James St,36,XEV,0.1,0.6,1.7,1,5.5
+212,3,O,13020,E Cherry St & 23rd Ave,37,XEV,0.1,0.6,2.1,0.8,3.6
+212,3,O,13030,E Cherry St & 25th Ave,38,XEV,0,0.3,1.7,0,1.9
+212,3,O,13040,E Cherry St & Martin L King Jr Way,39,XEV,0,0.4,1.4,0.1,2.3
+212,3,O,13060,E Cherry St & 31st Ave,40,XEV,0,0.2,1.3,0,1.1
+212,3,O,13070,E Cherry St & 33rd Ave,41,XEV,0,0.1,1.2,0,0.6
+212,3,O,13080,34th Ave & E Columbia St,42,XEV,0,0.2,1.1,0,1.2
+212,3,O,13090,E Spring St & 34th Ave,43,XEV,0,0.2,0.9,0.2,1.7
+212,3,O,12690,34th Ave & E Union St,44,XEV,0,0.9,0,0.2,6.4
+212,3,I,12690,34th Ave & E Union St,1,XNT,0.6,0,0.6,4.1,0
+212,3,I,12700,34th Ave & E Marion St,2,XNT,0,0,0.6,0.1,0
+212,3,I,12712,34th Ave & E Cherry St,3,XNT,0,0,0.6,0.1,0
+212,3,I,12720,E Cherry St & 32nd Ave,4,XNT,0,0,0.6,0,0
+212,3,I,12740,E Cherry St & Martin L King Jr Way,5,XNT,0.2,0,0.8,1.6,0
+212,3,I,12760,E Cherry St & 24th Ave,6,XNT,0.1,0,0.9,0.4,0
+212,3,I,12770,23rd Ave & E Cherry St,8,XNT,0.3,0,1.2,2.2,0.1
+212,3,I,12780,E Jefferson St & 23rd Ave,9,XNT,0.2,0,1.3,1.7,0.1
+212,3,I,12790,E Jefferson St & 21st Ave,10,XNT,0.2,0,1.5,1.2,0
+212,3,I,12805,E Jefferson St & 18th Ave,11,XNT,0.2,0,1.7,1.3,0.3
+212,3,I,12820,E Jefferson St & 15th Ave,12,XNT,0.1,0,1.8,0.7,0.1
+212,3,I,12840,E Jefferson St & 12th Ave,13,XNT,0.5,0.1,2.3,4.1,0.6
+212,3,I,12860,Jefferson St & Broadway,14,XNT,0.3,0.1,2.4,2.1,1.1
+212,3,I,12880,Jefferson St & 9th Ave,15,XNT,0.4,0.3,2.6,3.5,2
+212,3,I,12890,James St & 8th Ave,16,XNT,0.5,0.1,2.2,2,0.2
+212,3,I,1540,James St & 5th Ave,17,XNT,0.1,0.1,2.2,0.2,0.2
+212,3,I,1550,James St & 4th Ave,18,XNT,0.1,0.8,1.5,0.3,3.3
+212,3,I,1530,S Jackson St & 5th Ave S,19,XNT,0.1,0,0.1,0.1,0
+212,3,I,1610,Prefontaine Pl S & Yesler Way,20,XNT,1,0.5,0.6,1,0.5
+212,3,I,531,3rd Ave & James St,21,XNT,0.2,0.1,0.8,0.2,0.1
+212,3,I,538,3rd Ave & Columbia St,22,XNT,0.3,0.3,1.3,1.7,1.6
+212,3,I,558,3rd Ave & Seneca St,23,XNT,0.1,0.2,1.3,0.4,0.9
+212,3,I,575,3rd Ave & Pike St,24,XNT,0.4,0.5,1.1,1.8,2.5
+212,3,I,600,3rd Ave & Virginia St,25,XNT,0.3,1.1,0.3,1.7,5.7
+212,3,I,605,3rd Ave & Bell St,26,XNT,0.3,0.4,1.4,0.3,0.4
+212,3,I,1690,3rd Ave & Vine St,27,XNT,0,0.3,1.1,0,0.3
+212,3,I,4200,Cedar St & Denny Way,28,XNT,0.1,0.1,1,0.1,0.1
+212,3,I,4220,5th Ave N & Broad St,29,XNT,0,0.6,0.5,0,0.6
+212,3,I,4230,5th Ave N & Republican St,30,XNT,0,0.1,0.3,0,0.1
+212,3,I,4245,Valley St & Taylor Ave N,31,XNT,0,0.1,0.3,0,0.1
+212,3,I,4265,Taylor Ave N & Prospect St,32,XNT,0,0,0.3,0,0
+212,3,I,4280,Taylor Ave N & Lee St,33,XNT,0,0,0.2,0,0
+212,3,I,4290,Taylor Ave N & Galer St,34,XNT,0,0,0.2,0,0
+212,3,I,4300,Taylor Ave N & 5th Ave N,35,XNT,0,0,0.2,0,0
+212,3,I,4325,5th Ave N & Newton St,36,XNT,0,0,0.2,0,0
+212,3,I,4340,Boston St & 4th Ave N,37,XNT,0,0,0.2,0,0
+212,3,I,4355,Boston St & 2nd Ave N,38,XNT,0,0,0.2,0,0
+212,3,I,4370,Boston St & 1st Ave N,39,XNT,0,0.1,0.1,0,0.1
+212,3,I,41340,W Mcgraw St & Queen Anne Ave N,40,XNT,0,0,0.1,0,0
+212,3,I,41350,W Mcgraw St & 3rd Ave W,41,XNT,0,0,0.1,0,0
+212,3,I,41360,3rd Ave W & W Smith St,42,XNT,0,0,0.1,0,0
+212,3,I,41370,3rd Ave W & W Raye St,43,XNT,0,0,0.1,0,0
+212,3,I,41380,3rd Ave W & W Armour St,44,XNT,0,0,0.1,0,0
+212,3,I,41390,3rd Ave W & W Dravus St,45,XNT,0,0,0.1,0,0
+212,3,I,18220,W Nickerson St & 3rd Ave W,46,XNT,0.3,0.3,0,0.3,0.3
+212,3,O,41255,3rd Ave W & W Cremona St,1,XNT,1.2,0,1.2,1.2,0
+212,3,O,41270,3rd Ave W & W Fulton St,2,XNT,0,0,1.2,0,0
+212,3,O,41280,3rd Ave W & W Raye St,3,XNT,0,0,1.2,0,0
+212,3,O,41290,3rd Ave W & W Smith St,4,XNT,0,0,1.2,0,0
+212,3,O,41300,3rd Ave W & W Mcgraw St,5,XNT,0,0,1.2,0,0
+212,3,O,3910,W Mcgraw St & 2nd Ave W,6,XNT,0,0,1.2,0,0
+212,3,O,3920,Queen Anne Ave N & W Mcgraw St,7,XNT,0,0,1.3,0,0
+212,3,O,3930,Boston St & Queen Anne Ave N,8,XNT,0.6,0,1.9,0.6,0
+212,3,O,3940,Boston St & Warren Ave N,9,XNT,0.5,0,2.4,0.5,0
+212,3,O,3950,Boston St & Nob Hill Ave N,10,XNT,0,0,2.4,0,0
+212,3,O,3960,Boston St & Bigelow Ave N,11,XNT,0,0,2.4,0,0
+212,3,O,3980,5th Ave N & Newton St,12,XNT,0,0,2.4,0,0
+212,3,O,3990,Taylor Ave N & 5th Ave N,13,XNT,0.1,0,2.6,0.1,0
+212,3,O,4000,Taylor Ave N & Garfield St,14,XNT,0,0,2.6,0,0
+212,3,O,4010,Taylor Ave N & Lee St,15,XNT,0.6,0,3.2,0.6,0
+212,3,O,4020,Taylor Ave N & Prospect St,16,XNT,0,0,3.2,0,0
+212,3,O,4040,5th Ave N & Valley St,17,XNT,0.3,0.1,3.4,0.3,0.1
+212,3,O,4050,5th Ave N & Republican St,18,XNT,0.8,0,4.1,0.8,0
+212,3,O,4070,5th Ave N & Broad St,19,XNT,0.1,0.1,4.2,0.1,0.1
+212,3,O,4080,5th Ave N & Denny Way,20,XNT,0,0.2,4,0,0.2
+212,3,O,2220,3rd Ave & Cedar St,21,XNT,1.3,0,4.6,5.3,0
+212,3,O,400,3rd Ave & Bell St,22,XNT,1.2,0.7,4.9,4.6,2.9
+212,3,O,420,3rd Ave & Virginia St,23,XNT,0.5,0.6,4.8,2,2.3
+212,3,O,430,3rd Ave & Pine St,24,XNT,1.2,0.5,3.9,7.3,3.2
+212,3,O,450,3rd Ave & Union St,25,XNT,1.2,0.6,3.4,5.8,2.9
+212,3,O,480,3rd Ave & Marion St,26,XNT,0.6,0.3,3.8,3.1,1.5
+212,3,O,1560,James St & 3rd Ave,27,XNT,2,0.4,5.3,10.2,2.2
+212,3,O,1570,James St & 5th Ave,28,XNT,0.1,0.1,5.3,0.7,0.7
+212,3,O,12900,James St & 8th Ave,29,XNT,0.1,1,4.4,0.3,5.2
+212,3,O,12910,9th Ave & Jefferson St,30,XNT,0.3,1.4,3.3,1.7,7.2
+212,3,O,12930,E Jefferson St & Broadway,31,XNT,0.1,0.7,2.8,0.7,3.3
+212,3,O,12950,E Jefferson St & 12th Ave,32,XNT,0.1,0.5,2.4,0.5,2.4
+212,3,O,12960,E Jefferson St & 14th Ave,33,XNT,0,0,2.6,0.1,0.2
+212,3,O,12980,E Jefferson St & 17th Ave,34,XNT,0.1,0.5,2.2,0.3,2.7
+212,3,O,12991,E Jefferson St & 20th Ave,35,XNT,0,0.5,1.7,0,3
+212,3,O,13005,21st Ave & E James St,36,XNT,0,0.3,1.5,0.1,1.9
+212,3,O,13020,E Cherry St & 23rd Ave,37,XNT,0.1,0.3,1.2,0.4,2
+212,3,O,13030,E Cherry St & 25th Ave,38,XNT,0,0.1,1,0.1,0.8
+212,3,O,13040,E Cherry St & Martin L King Jr Way,39,XNT,0,0.1,0.9,0,0.8
+212,3,O,13060,E Cherry St & 31st Ave,40,XNT,0,0,0.9,0,0.2
+212,3,O,13070,E Cherry St & 33rd Ave,41,XNT,0,0.1,0.8,0,0.5
+212,3,O,13080,34th Ave & E Columbia St,42,XNT,0.1,0.1,0.7,0.3,0.8
+212,3,O,13090,E Spring St & 34th Ave,43,XNT,0,0.1,0.7,0,0.4
+212,3,O,12690,34th Ave & E Union St,44,XNT,0.1,0.8,0,0.7,4.6

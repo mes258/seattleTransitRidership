@@ -1,0 +1,301 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+222,48,I,9135,University Way NE & NE 52nd St,1,AM,0.8,0,1.1,11.9,0
+222,48,I,35801,15th Ave NE & NE 47th St,2,AM,0.5,0.1,1.4,7.5,1.6
+222,48,I,35820,15th Ave NE & NE 45th St,3,AM,0.4,0,1.7,5.6,0.1
+222,48,I,10912,15th Ave NE & NE 43rd St,6,AM,1.5,0.2,2.9,20.6,2.9
+222,48,I,10914,15th Ave NE & NE Campus Pkwy,7,AM,0.5,0.1,3.3,6.9,0.7
+222,48,I,10917,15th Ave NE & NE 40th St,8,AM,0.9,0.1,4.1,12.4,2
+222,48,I,29240,NE Pacific St & 15th Ave NE,9,AM,0.5,0.1,4.4,6.4,1.5
+222,48,I,29247,NE Pacific St & Montlake Blvd NE - Bay 1,10,AM,1.4,0.3,5.4,19.2,4.5
+222,48,I,29245,East Montlake Pl E & E Roanoke St,11,AM,0.1,0.1,5.4,1.3,1.5
+222,48,I,29244,24th Ave E & E Mcgraw St,12,AM,0.3,0.4,5.3,3.7,5.3
+222,48,I,29248,24th Ave E & E Newton St,13,AM,0.1,0,5.4,2,0.2
+222,48,I,29249,24th Ave E & Boyer Ave E,14,AM,0.2,0.1,5.5,2.1,1.3
+222,48,I,29251,24th Ave E & E Galer St,15,AM,0.1,0.3,5.3,1.9,4.8
+222,48,I,29253,24th Ave E & E Prospect St,16,AM,0,0,5.3,0.3,0.6
+222,48,I,29254,23rd Ave E & E Aloha St,17,AM,0.2,0.1,5.3,3.2,1.8
+222,48,I,29255,23rd Ave E & E Roy St,18,AM,0.1,0.1,5.3,1.5,1.7
+222,48,I,29256,23rd Ave E & E Republican St,19,AM,0.2,0.1,5.4,3.1,1.9
+222,48,I,29257,23rd Ave E & E Thomas St,20,AM,0.2,0.2,5.4,2.3,2.9
+222,48,I,35821,23rd Ave E & E John St,21,AM,0.8,0.6,5.6,10.4,8.1
+222,48,I,35850,23rd Ave & E Pine St,22,AM,0.7,0.3,6,9,3.7
+222,48,I,35860,23rd Ave & E Union St,23,AM,0.8,0.8,6,11,9.9
+222,48,I,12770,23rd Ave & E Cherry St,24,AM,0.4,0.8,5.6,5,10.5
+222,48,I,12600,23rd Ave & E Jefferson St,25,AM,0.2,1.4,4.5,3.1,18.1
+222,48,I,12630,23rd Ave S & E Yesler Way,26,AM,0.2,0.6,4,2.2,8.3
+222,48,I,12640,23rd Ave S & S Jackson St,27,AM,0.4,1.1,3.3,4.6,14.6
+222,48,I,35890,23rd Ave S & S Dearborn St,28,AM,0.1,0.2,3.2,1.3,2.8
+222,48,I,35910,23rd Ave S & S Judkins St,29,AM,0.1,0.1,3.2,0.9,1.2
+222,48,I,35940,23rd Ave S & S Massachusetts St,30,AM,0.1,0.4,2.8,0.7,5.7
+222,48,I,8641,Rainier Ave S & S Walker St,31,AM,0.1,0.8,2.1,1.1,10.5
+222,48,I,8660,Rainier Ave S & S Bayview St,32,AM,0,0.5,1.7,0.3,6.3
+222,48,I,8402,Mount Baker Transit Center - Bay 2,33,AM,0,1.8,0,0.5,23
+222,48,O,8402,Mount Baker Transit Center - Bay 2,1,AM,4.2,0,4.7,59.4,0.1
+222,48,O,8429,Rainier Ave S & S Bayview St,2,AM,0.4,0,5,5.3,0.4
+222,48,O,8440,Rainier Ave S & S Walker St,3,AM,0.6,0.1,5.6,8.8,0.8
+222,48,O,36730,23rd Ave S & S Plum St,4,AM,0.4,0,5.9,5.5,0.1
+222,48,O,36750,23rd Ave S & S Massachusetts St,5,AM,0.7,0.1,6.5,9.4,1
+222,48,O,36774,23rd Ave S & S Judkins St,6,AM,0.5,0.1,6.9,7.1,1.3
+222,48,O,12532,23rd Ave S & S Lane St,7,AM,0.6,0.4,7.1,7.8,5.2
+222,48,O,12550,23rd Ave S & S Jackson St,8,AM,1.8,0.6,8.4,25.5,8.2
+222,48,O,12560,23rd Ave & E Yesler Way,9,AM,1.3,0.2,9.5,18.5,2.8
+222,48,O,36791,23rd Ave & E Jefferson St,10,AM,1.1,1.2,9.3,14.7,16.4
+222,48,O,36800,23rd Ave & E Cherry St,11,AM,1.1,0.4,10,14.9,6.2
+222,48,O,36830,23rd Ave & E Union St,12,AM,2,1.2,10.7,26.6,15.8
+222,48,O,36845,23rd Ave & E Olive St,13,AM,1.2,0.5,11.5,16.2,6.7
+222,48,O,35825,23rd Ave E & E John St,14,AM,1.4,0.5,12.4,18.8,5.9
+222,48,O,29278,23rd Ave E & E Republican St,15,AM,0.4,0.1,12.7,5,1.8
+222,48,O,29279,23rd Ave E & E Roy St,16,AM,0.6,0.1,13.1,7.5,1.7
+222,48,O,29280,23rd Ave E & E Aloha St,17,AM,0.6,0.1,13.7,8.2,0.7
+222,48,O,29300,24th Ave E & E Prospect St,18,AM,0,0,13.7,0.5,0
+222,48,O,29320,24th Ave E & E Galer St,19,AM,0.3,0,14,4,0.6
+222,48,O,29340,24th Ave E & Boyer Ave E,20,AM,0.5,0,14.5,6.7,0.5
+222,48,O,29350,24th Ave E & E Newton St,21,AM,0.1,0,14.6,0.8,0.2
+222,48,O,29361,24th Ave E & E Mcgraw St,22,AM,0.3,0.2,14.6,3.6,3
+222,48,O,29380,East Montlake Pl E & E Roanoke St,23,AM,0.1,0.1,14.6,0.9,0.8
+222,48,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,24,AM,0.2,9,5.8,2.4,116.5
+222,48,O,29420,NE Pacific St & 15th Ave NE,25,AM,0,1.2,4.3,0.5,14.4
+222,48,O,29440,15th Ave NE & NE Campus Pkwy,26,AM,0,1.8,2.5,0,21.8
+222,48,O,11352,15th Ave NE & NE 42nd St,27,AM,0,1.9,0.7,0.2,22.8
+222,48,O,36860,15th Ave NE & NE 45th St,28,AM,0.2,0.5,0.4,1.9,6.4
+222,48,O,9586,NE 50th St & University Way NE,29,AM,0.2,0.7,0,2.1,8.2
+222,48,I,9135,University Way NE & NE 52nd St,1,MID,0.6,0,0.9,14.5,0
+222,48,I,35801,15th Ave NE & NE 47th St,2,MID,0.4,0,1.2,9.4,0.6
+222,48,I,35820,15th Ave NE & NE 45th St,3,MID,0.4,0,1.5,8.9,0.9
+222,48,I,10912,15th Ave NE & NE 43rd St,6,MID,1.5,0.3,2.7,36.7,6
+222,48,I,10914,15th Ave NE & NE Campus Pkwy,7,MID,1,0.1,3.6,23.2,1.9
+222,48,I,10917,15th Ave NE & NE 40th St,8,MID,1,0.1,4.5,23.2,1.3
+222,48,I,29240,NE Pacific St & 15th Ave NE,9,MID,0.7,0.2,5,15.9,3.9
+222,48,I,29247,NE Pacific St & Montlake Blvd NE - Bay 1,10,MID,2.4,0.3,7.1,57.7,7.8
+222,48,I,29245,East Montlake Pl E & E Roanoke St,11,MID,0.2,0.1,7.2,5.7,3.4
+222,48,I,29244,24th Ave E & E Mcgraw St,12,MID,0.4,0.6,6.9,8.7,15.4
+222,48,I,29248,24th Ave E & E Newton St,13,MID,0.2,0.1,7,4.8,2.5
+222,48,I,29249,24th Ave E & Boyer Ave E,14,MID,0.2,0.3,6.7,4.1,6
+222,48,I,29251,24th Ave E & E Galer St,15,MID,0.1,0.1,6.7,2.6,2.5
+222,48,I,29253,24th Ave E & E Prospect St,16,MID,0,0,6.7,0.4,0.5
+222,48,I,29254,23rd Ave E & E Aloha St,17,MID,0.3,0.3,6.7,7.8,6.4
+222,48,I,29255,23rd Ave E & E Roy St,18,MID,0.1,0.3,6.6,3.5,6.7
+222,48,I,29256,23rd Ave E & E Republican St,19,MID,0.1,0.3,6.4,2.8,6.1
+222,48,I,29257,23rd Ave E & E Thomas St,20,MID,0.1,0.3,6.3,2.8,7
+222,48,I,35821,23rd Ave E & E John St,21,MID,0.8,1,6.1,18.7,23.7
+222,48,I,35850,23rd Ave & E Pine St,22,MID,0.8,0.5,6.4,19.7,11.2
+222,48,I,35860,23rd Ave & E Union St,23,MID,1.6,1,7,37.8,24.1
+222,48,I,12770,23rd Ave & E Cherry St,24,MID,0.8,0.8,7,20.2,20.2
+222,48,I,12600,23rd Ave & E Jefferson St,25,MID,0.9,0.8,7.2,22.7,18.5
+222,48,I,12630,23rd Ave S & E Yesler Way,26,MID,0.5,1.5,6.2,10.8,36.1
+222,48,I,12640,23rd Ave S & S Jackson St,27,MID,0.9,1.9,5,21.3,44.1
+222,48,I,35890,23rd Ave S & S Dearborn St,28,MID,0.3,0.4,4.9,6.1,9.4
+222,48,I,35910,23rd Ave S & S Judkins St,29,MID,0.2,0.3,4.8,3.8,5.9
+222,48,I,35940,23rd Ave S & S Massachusetts St,30,MID,0.2,0.6,4.4,5,14
+222,48,I,8641,Rainier Ave S & S Walker St,31,MID,0.2,1.3,3.1,3.7,32.2
+222,48,I,8660,Rainier Ave S & S Bayview St,32,MID,0.1,0.9,2.3,2.1,22.2
+222,48,I,8402,Mount Baker Transit Center - Bay 2,33,MID,0.2,2.5,0,4.7,60.7
+222,48,O,8402,Mount Baker Transit Center - Bay 2,1,MID,3.7,0,4.3,88.7,0.2
+222,48,O,8429,Rainier Ave S & S Bayview St,2,MID,0.7,0,5,17.5,0.6
+222,48,O,8440,Rainier Ave S & S Walker St,3,MID,0.8,0.1,5.7,19.2,2.1
+222,48,O,36730,23rd Ave S & S Plum St,4,MID,0.2,0,5.9,4.9,0.3
+222,48,O,36750,23rd Ave S & S Massachusetts St,5,MID,0.5,0.2,6.1,11.3,5.1
+222,48,O,36774,23rd Ave S & S Judkins St,6,MID,0.5,0.1,6.4,11,3.2
+222,48,O,12532,23rd Ave S & S Lane St,7,MID,0.5,0.3,6.6,13,8
+222,48,O,12550,23rd Ave S & S Jackson St,8,MID,2,1.1,7.5,47.3,26.4
+222,48,O,12560,23rd Ave & E Yesler Way,9,MID,1.2,0.6,8.2,29.6,14.3
+222,48,O,36791,23rd Ave & E Jefferson St,10,MID,1.1,1.3,7.8,24.2,30.1
+222,48,O,36800,23rd Ave & E Cherry St,11,MID,1,0.6,8.2,23.2,13.2
+222,48,O,36830,23rd Ave & E Union St,12,MID,1.4,1.9,7.8,33,45.6
+222,48,O,36845,23rd Ave & E Olive St,13,MID,0.9,1.2,7.5,21.2,28.7
+222,48,O,35825,23rd Ave E & E John St,14,MID,1.1,0.6,8,26.6,13.9
+222,48,O,29278,23rd Ave E & E Republican St,15,MID,0.3,0.2,8.2,7.8,4.6
+222,48,O,29279,23rd Ave E & E Roy St,16,MID,0.2,0.1,8.3,5.3,2.5
+222,48,O,29280,23rd Ave E & E Aloha St,17,MID,0.4,0.2,8.5,9.2,4.7
+222,48,O,29300,24th Ave E & E Prospect St,18,MID,0,0,8.5,0.2,0.7
+222,48,O,29320,24th Ave E & E Galer St,19,MID,0.1,0.1,8.5,2.9,1.4
+222,48,O,29340,24th Ave E & Boyer Ave E,20,MID,0.2,0.2,8.6,5.7,3.9
+222,48,O,29350,24th Ave E & E Newton St,21,MID,0.1,0.1,8.6,2.5,2.3
+222,48,O,29361,24th Ave E & E Mcgraw St,22,MID,0.5,0.5,8.6,12.1,10.9
+222,48,O,29380,East Montlake Pl E & E Roanoke St,23,MID,0.1,0.2,8.6,2.6,4.4
+222,48,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,24,MID,0.4,3.6,5.4,9.2,85.6
+222,48,O,29420,NE Pacific St & 15th Ave NE,25,MID,0.2,1.2,4.6,5.4,30
+222,48,O,29440,15th Ave NE & NE Campus Pkwy,26,MID,0.1,1.4,3.2,1.6,35.5
+222,48,O,11352,15th Ave NE & NE 42nd St,27,MID,0.1,2,1.4,2.8,50.7
+222,48,O,36860,15th Ave NE & NE 45th St,28,MID,0,0.8,0.6,1,19.4
+222,48,O,9586,NE 50th St & University Way NE,29,MID,0.2,0.9,0,4.1,20.9
+222,48,I,9135,University Way NE & NE 52nd St,1,PM,0.5,0,0.8,8.5,0
+222,48,I,35801,15th Ave NE & NE 47th St,2,PM,0.4,0.1,1.1,7.1,1.7
+222,48,I,35820,15th Ave NE & NE 45th St,3,PM,0.6,0,1.6,9.5,0.3
+222,48,I,10912,15th Ave NE & NE 43rd St,6,PM,2.7,0.2,4,42.9,3
+222,48,I,10914,15th Ave NE & NE Campus Pkwy,7,PM,1.9,0.1,5.8,30.8,1.2
+222,48,I,10917,15th Ave NE & NE 40th St,8,PM,1.8,0,7.6,28.6,0.5
+222,48,I,29240,NE Pacific St & 15th Ave NE,9,PM,2.2,0,9.7,35,0.7
+222,48,I,29247,NE Pacific St & Montlake Blvd NE - Bay 1,10,PM,7.9,0.3,17.3,126,4.3
+222,48,I,29245,East Montlake Pl E & E Roanoke St,11,PM,0.3,0.2,17.4,5.1,3.6
+222,48,I,29244,24th Ave E & E Mcgraw St,12,PM,0.6,0.6,17.3,9.1,9.9
+222,48,I,29248,24th Ave E & E Newton St,13,PM,0.3,0.2,17.4,4.4,3
+222,48,I,29249,24th Ave E & Boyer Ave E,14,PM,0.2,0.6,16.6,2.8,10.7
+222,48,I,29251,24th Ave E & E Galer St,15,PM,0.1,0.4,16.3,2.3,6.2
+222,48,I,29253,24th Ave E & E Prospect St,16,PM,0,0.1,16.7,0,2.3
+222,48,I,29254,23rd Ave E & E Aloha St,17,PM,0.3,0.9,16.1,4.7,14
+222,48,I,29255,23rd Ave E & E Roy St,18,PM,0.1,0.8,15.4,1.6,12.3
+222,48,I,29256,23rd Ave E & E Republican St,19,PM,0.1,0.8,14.8,1.8,12.1
+222,48,I,29257,23rd Ave E & E Thomas St,20,PM,0.1,0.9,14,2.3,13.8
+222,48,I,35821,23rd Ave E & E John St,21,PM,1,2.8,12.2,15.5,44.3
+222,48,I,35850,23rd Ave & E Pine St,22,PM,1.1,1.3,12,17.1,20.3
+222,48,I,35860,23rd Ave & E Union St,23,PM,1.9,2.5,11.4,29.7,40.4
+222,48,I,12770,23rd Ave & E Cherry St,24,PM,0.8,1.4,10.8,13.1,21.9
+222,48,I,12600,23rd Ave & E Jefferson St,25,PM,1.3,1.3,10.7,20,21.5
+222,48,I,12630,23rd Ave S & E Yesler Way,26,PM,0.6,2.2,9.2,9.7,35.1
+222,48,I,12640,23rd Ave S & S Jackson St,27,PM,1.3,2.5,8,22.6,41.7
+222,48,I,35890,23rd Ave S & S Dearborn St,28,PM,0.2,1,7.3,3.5,16.3
+222,48,I,35910,23rd Ave S & S Judkins St,29,PM,0.1,0.7,6.7,2.1,11.8
+222,48,I,35940,23rd Ave S & S Massachusetts St,30,PM,0.1,0.9,6,2.4,15.4
+222,48,I,8641,Rainier Ave S & S Walker St,31,PM,0.2,2.2,4.3,3.1,35.1
+222,48,I,8660,Rainier Ave S & S Bayview St,32,PM,0.1,1.2,3.2,1,18.8
+222,48,I,8402,Mount Baker Transit Center - Bay 2,33,PM,0.2,3.4,0,3.8,54.5
+222,48,O,8402,Mount Baker Transit Center - Bay 2,1,PM,3.3,0.1,3.9,55.6,0.9
+222,48,O,8429,Rainier Ave S & S Bayview St,2,PM,0.8,0.1,4.7,13.9,1.1
+222,48,O,8440,Rainier Ave S & S Walker St,3,PM,0.6,0,5.2,10.1,0.8
+222,48,O,36730,23rd Ave S & S Plum St,4,PM,0.3,0.1,5.4,4.5,1.3
+222,48,O,36750,23rd Ave S & S Massachusetts St,5,PM,0.5,0.3,5.7,9,4.4
+222,48,O,36774,23rd Ave S & S Judkins St,6,PM,0.3,0.2,5.7,5.4,4.2
+222,48,O,12532,23rd Ave S & S Lane St,7,PM,0.6,0.3,6.1,9.7,4.5
+222,48,O,12550,23rd Ave S & S Jackson St,8,PM,1.9,0.9,7,32.1,16
+222,48,O,12560,23rd Ave & E Yesler Way,9,PM,1.3,0.5,7.7,21.9,9.3
+222,48,O,36791,23rd Ave & E Jefferson St,10,PM,1.6,1,8.5,28.1,17.6
+222,48,O,36800,23rd Ave & E Cherry St,11,PM,0.9,0.4,8.9,16.8,8
+222,48,O,36830,23rd Ave & E Union St,12,PM,1.3,2.2,8.1,24.2,39
+222,48,O,36845,23rd Ave & E Olive St,13,PM,0.9,1.5,7.6,14.9,25.6
+222,48,O,35825,23rd Ave E & E John St,14,PM,1.1,0.9,7.8,18.3,14.7
+222,48,O,29278,23rd Ave E & E Republican St,15,PM,0.2,0.3,7.8,4.1,4.7
+222,48,O,29279,23rd Ave E & E Roy St,16,PM,0.3,0.2,7.9,4.6,2.8
+222,48,O,29280,23rd Ave E & E Aloha St,17,PM,0.2,0.4,7.7,3.7,6.5
+222,48,O,29300,24th Ave E & E Prospect St,18,PM,0,0,7.7,0.1,0.6
+222,48,O,29320,24th Ave E & E Galer St,19,PM,0.3,0.2,7.9,5.6,2.6
+222,48,O,29340,24th Ave E & Boyer Ave E,20,PM,0.3,0.3,7.9,4.3,4.5
+222,48,O,29350,24th Ave E & E Newton St,21,PM,0.1,0.2,7.8,1.2,2.8
+222,48,O,29361,24th Ave E & E Mcgraw St,22,PM,0.7,0.5,8,12.1,7.9
+222,48,O,29380,East Montlake Pl E & E Roanoke St,23,PM,0.2,0.2,8.1,3.6,2.6
+222,48,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,24,PM,0.5,2.9,5.6,8.1,50
+222,48,O,29420,NE Pacific St & 15th Ave NE,25,PM,0.3,0.6,5.3,4.9,10.4
+222,48,O,29440,15th Ave NE & NE Campus Pkwy,26,PM,0.2,1.1,4.4,2.6,18.7
+222,48,O,11352,15th Ave NE & NE 42nd St,27,PM,0.1,2,2.6,2.4,34.4
+222,48,O,36860,15th Ave NE & NE 45th St,28,PM,0.1,1.2,1.4,1.6,22.4
+222,48,O,9586,NE 50th St & University Way NE,29,PM,0.2,1.7,0,3,29.5
+222,48,I,9135,University Way NE & NE 52nd St,1,XEV,0.3,0,0.5,3.1,0
+222,48,I,35801,15th Ave NE & NE 47th St,2,XEV,0.2,0,0.7,1.8,0.3
+222,48,I,35820,15th Ave NE & NE 45th St,3,XEV,0.4,0,1.1,3.8,0.1
+222,48,I,10912,15th Ave NE & NE 43rd St,6,XEV,1.4,0.1,2.3,13.8,1
+222,48,I,10914,15th Ave NE & NE Campus Pkwy,7,XEV,0.9,0,3.1,9.1,0.3
+222,48,I,10917,15th Ave NE & NE 40th St,8,XEV,0.7,0,3.7,6.7,0.4
+222,48,I,29240,NE Pacific St & 15th Ave NE,9,XEV,0.7,0,4.4,7.2,0.1
+222,48,I,29247,NE Pacific St & Montlake Blvd NE - Bay 1,10,XEV,2.8,0.1,7.1,27.7,1
+222,48,I,29245,East Montlake Pl E & E Roanoke St,11,XEV,0.2,0.1,7.2,1.7,0.7
+222,48,I,29244,24th Ave E & E Mcgraw St,12,XEV,0.2,0.2,7.2,2.4,2.1
+222,48,I,29248,24th Ave E & E Newton St,13,XEV,0.1,0.1,7.2,0.9,0.5
+222,48,I,29249,24th Ave E & Boyer Ave E,14,XEV,0.1,0.1,7.2,0.7,0.9
+222,48,I,29251,24th Ave E & E Galer St,15,XEV,0.1,0.1,7.2,0.6,1
+222,48,I,29253,24th Ave E & E Prospect St,16,XEV,0,0,7.3,0,0.5
+222,48,I,29254,23rd Ave E & E Aloha St,17,XEV,0.1,0.3,7.1,1.2,2.9
+222,48,I,29255,23rd Ave E & E Roy St,18,XEV,0,0.2,7,0.4,2.4
+222,48,I,29256,23rd Ave E & E Republican St,19,XEV,0.1,0.2,6.8,1,2.4
+222,48,I,29257,23rd Ave E & E Thomas St,20,XEV,0.1,0.3,6.6,1,3.3
+222,48,I,35821,23rd Ave E & E John St,21,XEV,0.6,0.9,6.3,7.1,10.3
+222,48,I,35850,23rd Ave & E Pine St,22,XEV,0.6,0.6,6.3,6.4,6.2
+222,48,I,35860,23rd Ave & E Union St,23,XEV,1.1,1.3,6.2,12.4,14.3
+222,48,I,12770,23rd Ave & E Cherry St,24,XEV,0.6,0.7,6.1,6.9,7.9
+222,48,I,12600,23rd Ave & E Jefferson St,25,XEV,0.6,0.7,6,6.4,7.2
+222,48,I,12630,23rd Ave S & E Yesler Way,26,XEV,0.2,1.5,4.8,2.1,16.1
+222,48,I,12640,23rd Ave S & S Jackson St,27,XEV,0.5,1.6,3.7,5.8,17.1
+222,48,I,35890,23rd Ave S & S Dearborn St,28,XEV,0.1,0.4,3.4,1.1,4.1
+222,48,I,35910,23rd Ave S & S Judkins St,29,XEV,0.1,0.3,3.3,1.1,2.9
+222,48,I,35940,23rd Ave S & S Massachusetts St,30,XEV,0,0.3,3,0.2,3.8
+222,48,I,8641,Rainier Ave S & S Walker St,31,XEV,0.2,0.7,2.5,2.5,8.3
+222,48,I,8660,Rainier Ave S & S Bayview St,32,XEV,0,0.5,2.1,0.5,5.7
+222,48,I,8402,Mount Baker Transit Center - Bay 2,33,XEV,0.2,2.3,0,1.9,27.4
+222,48,O,8402,Mount Baker Transit Center - Bay 2,1,XEV,2.4,0,3.1,23.7,0
+222,48,O,8429,Rainier Ave S & S Bayview St,2,XEV,0.5,0.1,3.5,5,0.5
+222,48,O,8440,Rainier Ave S & S Walker St,3,XEV,0.3,0.1,3.8,3.3,0.7
+222,48,O,36730,23rd Ave S & S Plum St,4,XEV,0.3,0.1,3.9,2.5,0.8
+222,48,O,36750,23rd Ave S & S Massachusetts St,5,XEV,0.2,0.2,4,2.1,1.5
+222,48,O,36774,23rd Ave S & S Judkins St,6,XEV,0.3,0.2,4.1,3.3,2.2
+222,48,O,12532,23rd Ave S & S Lane St,7,XEV,0.5,0.2,4.4,5,2.1
+222,48,O,12550,23rd Ave S & S Jackson St,8,XEV,1.1,0.8,4.7,11,8.1
+222,48,O,12560,23rd Ave & E Yesler Way,9,XEV,0.7,0.4,5,7,3.9
+222,48,O,36791,23rd Ave & E Jefferson St,10,XEV,0.6,0.6,5,5.6,5.6
+222,48,O,36800,23rd Ave & E Cherry St,11,XEV,0.7,0.4,5.3,7,4.2
+222,48,O,36830,23rd Ave & E Union St,12,XEV,0.8,1.5,4.6,7.6,14.7
+222,48,O,36845,23rd Ave & E Olive St,13,XEV,0.5,0.9,4.3,5.4,10.3
+222,48,O,35825,23rd Ave E & E John St,14,XEV,0.6,0.5,4.4,7,5.5
+222,48,O,29278,23rd Ave E & E Republican St,15,XEV,0.1,0.1,4.4,1.2,0.9
+222,48,O,29279,23rd Ave E & E Roy St,16,XEV,0.1,0.1,4.5,1.4,0.6
+222,48,O,29280,23rd Ave E & E Aloha St,17,XEV,0.1,0.2,4.4,0.9,2.1
+222,48,O,29300,24th Ave E & E Prospect St,18,XEV,0,0,4.4,0,0.2
+222,48,O,29320,24th Ave E & E Galer St,19,XEV,0,0.1,4.4,0.1,0.6
+222,48,O,29340,24th Ave E & Boyer Ave E,20,XEV,0.1,0.1,4.3,0.8,1.4
+222,48,O,29350,24th Ave E & E Newton St,21,XEV,0,0.1,4.3,0,1.1
+222,48,O,29361,24th Ave E & E Mcgraw St,22,XEV,0.3,0.2,4.3,3.1,2.7
+222,48,O,29380,East Montlake Pl E & E Roanoke St,23,XEV,0,0.1,4.2,0.5,1.1
+222,48,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,24,XEV,0.2,1.3,3.1,2.3,14.5
+222,48,O,29420,NE Pacific St & 15th Ave NE,25,XEV,0.1,0.3,2.9,0.9,3
+222,48,O,29440,15th Ave NE & NE Campus Pkwy,26,XEV,0.1,0.6,2.4,0.7,6.9
+222,48,O,11352,15th Ave NE & NE 42nd St,27,XEV,0.1,0.9,1.6,0.9,10.3
+222,48,O,36860,15th Ave NE & NE 45th St,28,XEV,0,0.7,0.9,0.2,8.1
+222,48,O,9586,NE 50th St & University Way NE,29,XEV,0.1,0.9,0,0.7,10.4
+222,48,I,9135,University Way NE & NE 52nd St,1,XNT,0.2,0,0.2,2,0.1
+222,48,I,35801,15th Ave NE & NE 47th St,2,XNT,0.2,0,0.4,1.6,0.2
+222,48,I,35820,15th Ave NE & NE 45th St,3,XNT,0.2,0,0.6,1.9,0
+222,48,I,10912,15th Ave NE & NE 43rd St,6,XNT,0.9,0.1,1.3,9.2,0.8
+222,48,I,10914,15th Ave NE & NE Campus Pkwy,7,XNT,0.7,0,2,6.9,0.2
+222,48,I,10917,15th Ave NE & NE 40th St,8,XNT,0.3,0,2.3,3.1,0
+222,48,I,29240,NE Pacific St & 15th Ave NE,9,XNT,0.2,0,2.5,2.4,0.3
+222,48,I,29247,NE Pacific St & Montlake Blvd NE - Bay 1,10,XNT,1.2,0.1,3.7,11.8,0.6
+222,48,I,29245,East Montlake Pl E & E Roanoke St,11,XNT,0,0.1,3.6,0.3,0.6
+222,48,I,29244,24th Ave E & E Mcgraw St,12,XNT,0.1,0.1,3.6,0.8,0.8
+222,48,I,29248,24th Ave E & E Newton St,13,XNT,0,0,3.6,0.3,0.4
+222,48,I,29249,24th Ave E & Boyer Ave E,14,XNT,0,0.1,3.6,0.4,1.4
+222,48,I,29251,24th Ave E & E Galer St,15,XNT,0,0,3.6,0.3,0.3
+222,48,I,29253,24th Ave E & E Prospect St,16,XNT,0,0,3.6,0,0.1
+222,48,I,29254,23rd Ave E & E Aloha St,17,XNT,0,0.1,3.5,0.4,0.7
+222,48,I,29255,23rd Ave E & E Roy St,18,XNT,0,0.1,3.5,0.1,0.6
+222,48,I,29256,23rd Ave E & E Republican St,19,XNT,0,0.1,3.4,0.3,0.8
+222,48,I,29257,23rd Ave E & E Thomas St,20,XNT,0,0.1,3.4,0.1,0.8
+222,48,I,35821,23rd Ave E & E John St,21,XNT,0.3,0.4,3.3,2.5,3.5
+222,48,I,35850,23rd Ave & E Pine St,22,XNT,0.2,0.1,3.3,1.9,1.2
+222,48,I,35860,23rd Ave & E Union St,23,XNT,0.6,0.5,3.4,6,5.4
+222,48,I,12770,23rd Ave & E Cherry St,24,XNT,0.6,0.4,3.5,5.5,4.2
+222,48,I,12600,23rd Ave & E Jefferson St,25,XNT,0.2,0.3,3.4,1.8,3.4
+222,48,I,12630,23rd Ave S & E Yesler Way,26,XNT,0.1,0.7,2.8,1.3,7.4
+222,48,I,12640,23rd Ave S & S Jackson St,27,XNT,0.6,0.9,2.4,6,9.3
+222,48,I,35890,23rd Ave S & S Dearborn St,28,XNT,0,0.1,2.3,0.4,1.4
+222,48,I,35910,23rd Ave S & S Judkins St,29,XNT,0.1,0.1,2.3,0.6,0.8
+222,48,I,35940,23rd Ave S & S Massachusetts St,30,XNT,0,0.2,2.1,0.1,1.6
+222,48,I,8641,Rainier Ave S & S Walker St,31,XNT,0.1,0.5,1.8,0.8,4.2
+222,48,I,8660,Rainier Ave S & S Bayview St,32,XNT,0,0.2,1.6,0.1,1.5
+222,48,I,8402,Mount Baker Transit Center - Bay 2,33,XNT,0.2,1.8,0,1.6,16.2
+222,48,O,8402,Mount Baker Transit Center - Bay 2,1,XNT,1.8,0,2.1,16.2,0
+222,48,O,8429,Rainier Ave S & S Bayview St,2,XNT,0.3,0.1,2.4,2.7,0.5
+222,48,O,8440,Rainier Ave S & S Walker St,3,XNT,0.3,0.1,2.6,2.8,0.6
+222,48,O,36730,23rd Ave S & S Plum St,4,XNT,0.1,0.1,2.6,1.2,0.8
+222,48,O,36750,23rd Ave S & S Massachusetts St,5,XNT,0,0.1,2.6,0.3,0.5
+222,48,O,36774,23rd Ave S & S Judkins St,6,XNT,0.1,0.1,2.7,1.1,0.6
+222,48,O,12532,23rd Ave S & S Lane St,7,XNT,0.3,0.1,2.9,2.5,1.1
+222,48,O,12550,23rd Ave S & S Jackson St,8,XNT,0.9,0.4,3.4,8.3,3.7
+222,48,O,12560,23rd Ave & E Yesler Way,9,XNT,0.4,0.2,3.5,3.4,2
+222,48,O,36791,23rd Ave & E Jefferson St,10,XNT,0.2,0.3,3.4,2.1,3
+222,48,O,36800,23rd Ave & E Cherry St,11,XNT,0.3,0.6,3.2,3.1,5.1
+222,48,O,36830,23rd Ave & E Union St,12,XNT,0.3,0.7,2.8,2.6,6
+222,48,O,36845,23rd Ave & E Olive St,13,XNT,0.2,0.5,2.4,1.5,4.9
+222,48,O,35825,23rd Ave E & E John St,14,XNT,0.3,0.3,2.4,3.1,3
+222,48,O,29278,23rd Ave E & E Republican St,15,XNT,0.1,0,2.5,0.9,0.2
+222,48,O,29279,23rd Ave E & E Roy St,16,XNT,0.2,0,2.7,1.5,0.2
+222,48,O,29280,23rd Ave E & E Aloha St,17,XNT,0,0.1,2.6,0.2,0.7
+222,48,O,29300,24th Ave E & E Prospect St,18,XNT,0,0,2.6,0.1,0.1
+222,48,O,29320,24th Ave E & E Galer St,19,XNT,0,0,2.6,0.1,0.2
+222,48,O,29340,24th Ave E & Boyer Ave E,20,XNT,0,0,2.6,0,0.4
+222,48,O,29350,24th Ave E & E Newton St,21,XNT,0,0.1,2.4,0,1.1
+222,48,O,29361,24th Ave E & E Mcgraw St,22,XNT,0.1,0.2,2.3,0.5,1.6
+222,48,O,29380,East Montlake Pl E & E Roanoke St,23,XNT,0,0,2.3,0.1,0.4
+222,48,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,24,XNT,0.1,0.5,1.9,1.2,4.5
+222,48,O,29420,NE Pacific St & 15th Ave NE,25,XNT,0,0.1,1.9,0,0.6
+222,48,O,29440,15th Ave NE & NE Campus Pkwy,26,XNT,0,0.3,1.6,0.2,2.9
+222,48,O,11352,15th Ave NE & NE 42nd St,27,XNT,0,0.7,1,0.3,6
+222,48,O,36860,15th Ave NE & NE 45th St,28,XNT,0,0.5,0.5,0.2,4.5
+222,48,O,9586,NE 50th St & University Way NE,29,XNT,0,0.7,0,0.3,6.7

@@ -1,0 +1,431 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+213,120,I,52303,Burien Transit Center - Bay 3,1,AM,2.8,0,3.3,85,1.3
+213,120,I,51401,SW 148th St & 6th Ave SW,2,AM,0.2,0,3.4,7.2,0.4
+213,120,I,51403,Ambaum Blvd SW & SW 148th St,3,AM,0.4,0.1,3.7,11.1,3.6
+213,120,I,51450,Ambaum Blvd SW & SW 144th St,4,AM,0.2,0.1,3.7,6.1,4.3
+213,120,I,51470,Ambaum Blvd SW & SW 139th St,5,AM,0.8,0.1,4.5,24.6,3.5
+213,120,I,51480,Ambaum Blvd SW & SW 136th St,6,AM,0.7,0.1,5,20.1,3.3
+213,120,I,51500,Ambaum Blvd SW & SW 132nd St,7,AM,0.6,0.1,5.6,18.8,3.5
+213,120,I,51520,Ambaum Blvd SW & SW 128th St,8,AM,0.7,0.1,6.1,19,3.2
+213,120,I,51540,Ambaum Blvd SW & SW 124th St,9,AM,1.3,0.1,7.3,38.2,2.5
+213,120,I,51550,Ambaum Blvd SW & SW 122nd St,10,AM,0.5,0.1,7.6,14.9,2.9
+213,120,I,51580,Ambaum Blvd SW & SW 116th St,11,AM,0.5,0.1,8,14.8,2.6
+213,120,I,51600,16th Ave SW & SW 112th St,12,AM,0.5,0.2,8.3,13.6,5.3
+213,120,I,51610,16th Ave SW & SW 110th St,13,AM,0.7,0.1,8.9,20.9,2.8
+213,120,I,51615,15th Ave SW & SW 107th St,14,AM,0.3,0.2,9.1,9.7,6.5
+213,120,I,51640,15th Ave SW & SW 104th St,15,AM,1.1,0.1,10,30.9,4.2
+213,120,I,51660,15th Ave SW & SW 100th St,16,AM,0.8,0.8,9.9,21.8,23.9
+213,120,I,39431,15th Ave SW & SW Roxbury St - Bay 2,17,AM,0,0,9.9,0,0.6
+213,120,I,22255,SW Roxbury St & 16th Ave SW - Bay 6,18,AM,0,0,9.9,0.6,1.1
+213,120,I,22256,SW Roxbury St & 20th Ave SW,19,AM,0.7,0.2,10.4,19,5.4
+213,120,I,22259,SW Roxbury St & 26th Ave SW,20,AM,0.4,0.8,10.1,12.3,21.3
+213,120,I,31731,26th Ave SW & SW Barton St - Bay 2,21,AM,0.7,0.8,10,19.5,21.1
+213,120,I,31736,SW Barton Pl & 22nd Ave SW,22,AM,0.3,0,10.2,7.4,1.1
+213,120,I,22184,Delridge Way SW & SW Henderson St,23,AM,1.4,0.1,11.5,37.9,1.5
+213,120,I,22195,Delridge Way SW & SW Thistle St,24,AM,1.3,0.2,12.6,38,6.4
+213,120,I,22193,Delridge Way SW & SW Kenyon St,25,AM,0,0,12.6,0.1,0.1
+213,120,I,36300,Delridge Way SW & SW Holden St,26,AM,1.2,0.2,13.6,34.3,5.7
+213,120,I,21450,Delridge Way SW & SW Myrtle St,27,AM,0.8,0.1,14.5,22.6,2.7
+213,120,I,21460,Delridge Way SW & Croft Pl SW,28,AM,0,0,14.5,0,0
+213,120,I,21480,Delridge Way SW & SW Holly St,29,AM,0.4,0,14.9,11.5,0.2
+213,120,I,21500,Delridge Way SW & SW Graham St,30,AM,0.7,0.1,15.6,20.3,2.7
+213,120,I,21520,Delridge Way SW & SW Juneau St,31,AM,1.5,0.1,16.9,41.3,3.8
+213,120,I,21540,Delridge Way SW & SW Brandon St,32,AM,0,0,16.9,0.8,0.1
+213,120,I,21560,Delridge Way SW & SW Hudson St,33,AM,0.8,0,17.7,23.2,1.3
+213,120,I,21570,Delridge Way SW & SW Edmunds St,34,AM,0,0,18,0.1,0
+213,120,I,21590,Delridge Way SW & SW Oregon St,35,AM,0.3,0,18.3,8.4,0.9
+213,120,I,21600,Delridge Way SW & SW Genesee St,36,AM,0.3,0.2,18.4,9.3,6.1
+213,120,I,21620,Delridge Way SW & SW Andover St,37,AM,1.1,0.5,19,29.5,12.7
+213,120,I,15432,SW Spokane St & 11th Ave SW,38,AM,0.1,0.3,18.8,2.4,6.9
+213,120,I,1561,Alaskan Way S & S Jackson St,39,AM,0,0.1,18.7,0,2.5
+213,120,I,1565,Columbia St & Western Ave,40,AM,0.6,1.8,18.3,16,45.4
+213,120,I,548,3rd Ave & Madison St,41,AM,0.1,6.1,12.6,3.6,152.6
+213,120,I,570,3rd Ave & Union St,42,AM,0,5.6,7,1,140.9
+213,120,I,590,3rd Ave & Pine St,43,AM,0.1,2.9,4.4,1.6,71.9
+213,120,I,600,3rd Ave & Virginia St,44,AM,0.4,5,0,9.4,123.8
+213,120,O,420,3rd Ave & Virginia St,1,AM,1.5,0,1.6,30.2,0
+213,120,O,433,3rd Ave & Pike St,2,AM,1.1,0.1,2.5,21.3,1.8
+213,120,O,468,3rd Ave & Seneca St,3,AM,1.5,0.1,3.9,29.2,1.5
+213,120,O,481,3rd Ave & Columbia St,4,AM,1,0.1,4.8,19,1.7
+213,120,O,1558,Columbia St & Alaskan Way,5,AM,0.5,0.1,5.2,10.4,1.5
+213,120,O,1562,Alaskan Way S & S Jackson St,6,AM,0,0,4.4,0.7,0
+213,120,O,15431,SW Spokane St & 11th Ave SW,7,AM,0.1,0.3,5,1.3,4.8
+213,120,O,21990,Delridge Way SW & SW Andover St,8,AM,0.4,0.5,5,6.3,8.6
+213,120,O,22010,Delridge Way SW & SW Genesee St,9,AM,0.3,0.2,5.1,4.7,3.1
+213,120,O,22030,Delridge Way SW & SW Alaska St,10,AM,0,0,5.1,0,0
+213,120,O,22050,Delridge Way SW & SW Hudson St,11,AM,0.2,0.1,5.3,3.8,1.1
+213,120,O,22070,Delridge Way SW & SW Brandon St,12,AM,0.5,0.7,5.1,8.8,12
+213,120,O,22090,Delridge Way SW & SW Juneau St,13,AM,0,0,5.1,0.1,0
+213,120,O,22099,Delridge Way SW & SW Graham St,14,AM,0.2,0.2,5.1,4.1,4.2
+213,120,O,22120,Delridge Way SW & SW Holly St,15,AM,0.4,0.1,5.3,6.3,1.7
+213,120,O,22140,Delridge Way SW & Croft Pl SW,16,AM,0,0,5.4,0,0
+213,120,O,22152,Delridge Way SW & SW Myrtle St,17,AM,0.4,0.3,5.4,7.2,5.7
+213,120,O,36210,Delridge Way SW & SW Webster St,18,AM,0.4,0.5,5.4,6.5,8.5
+213,120,O,22157,Delridge Way SW & SW Kenyon St,19,AM,0,0,5.4,0,0
+213,120,O,22165,Delridge Way SW & SW Thistle St,20,AM,0.2,0.7,4.9,2.6,11.6
+213,120,O,22174,Delridge Way SW & SW Henderson St,21,AM,0.1,0.3,4.7,2.3,4.3
+213,120,O,39983,SW Barton St & 25th Ave SW - Bay 3,22,AM,0.6,1.1,4.3,10.3,18.3
+213,120,O,21250,SW Roxbury St & 26th Ave SW,23,AM,0.3,0.4,4.2,5.7,6.3
+213,120,O,21280,SW Roxbury St & 20th Ave SW,24,AM,0.1,0.1,4.2,1.4,2
+213,120,O,21290,SW Roxbury St & 17th Ave SW,25,AM,0.1,0.2,4.1,1.6,2.6
+213,120,O,52030,15th Ave SW & SW Roxbury St - Bay 1,26,AM,0.6,0.6,4.1,8.9,9.3
+213,120,O,52050,15th Ave SW & SW 100th St,27,AM,0.3,0.3,4.1,4.2,4.8
+213,120,O,52070,15th Ave SW & SW 104th St,28,AM,0.1,0.2,4.1,2.2,2.6
+213,120,O,52080,15th Ave SW & SW 106th St,29,AM,0.2,0.4,3.9,2.6,5.8
+213,120,O,52100,16th Ave SW & SW 107th St,30,AM,0.6,0.2,4.3,9.9,2.6
+213,120,O,52120,16th Ave SW & SW 112th St,31,AM,0.1,0.2,4.3,2,2.9
+213,120,O,52140,16th Ave SW & SW 116th St,32,AM,0.2,0.2,4.2,3.4,3.4
+213,120,O,52170,Ambaum Blvd SW & SW 122nd St,33,AM,0,0.1,4.2,0,0.8
+213,120,O,52180,Ambaum Blvd SW & SW 124th St,34,AM,0.9,0.6,4.5,14.6,9.2
+213,120,O,52200,Ambaum Blvd SW & SW 128th St,35,AM,0.1,0.1,4.6,1.5,0.8
+213,120,O,52220,Ambaum Blvd SW & SW 132nd St,36,AM,0.5,0.1,5,7.5,1.3
+213,120,O,52240,Ambaum Blvd SW & SW 136th St,37,AM,0.5,0.2,5.1,7.2,3.7
+213,120,O,52250,Ambaum Blvd SW & SW 139th St,38,AM,0.5,0.2,5.5,7.1,2.3
+213,120,O,52271,Ambaum Blvd SW & SW 144th St,39,AM,0.1,0.2,5.3,0.8,2.9
+213,120,O,52290,SW 148th St & Ambaum Blvd SW,40,AM,0.1,0.5,4.9,1,7.1
+213,120,O,52310,SW 148th St & 6th Ave SW,41,AM,0,0.2,4.7,0,2.8
+213,120,O,52305,Burien Transit Center - Bay 5,42,AM,0.1,4.8,0,1.9,72.5
+213,120,I,52303,Burien Transit Center - Bay 3,1,MID,5.9,0,6.2,211.1,0.1
+213,120,I,51401,SW 148th St & 6th Ave SW,2,MID,0.3,0,6.3,10.5,1.5
+213,120,I,51403,Ambaum Blvd SW & SW 148th St,3,MID,0.7,0.3,6.6,24.2,10.2
+213,120,I,51450,Ambaum Blvd SW & SW 144th St,4,MID,0.4,0.2,6.8,15.1,6.7
+213,120,I,51470,Ambaum Blvd SW & SW 139th St,5,MID,0.7,0.4,7.1,25.2,14
+213,120,I,51480,Ambaum Blvd SW & SW 136th St,6,MID,0.9,0.5,7.4,30.6,18.8
+213,120,I,51500,Ambaum Blvd SW & SW 132nd St,7,MID,0.6,0.4,7.6,20.4,14.6
+213,120,I,51520,Ambaum Blvd SW & SW 128th St,8,MID,0.6,0.5,7.7,23.1,18.4
+213,120,I,51540,Ambaum Blvd SW & SW 124th St,9,MID,1.2,0.3,8.6,43.5,12.3
+213,120,I,51550,Ambaum Blvd SW & SW 122nd St,10,MID,0.3,0.1,8.8,11.6,5
+213,120,I,51580,Ambaum Blvd SW & SW 116th St,11,MID,0.4,0.2,8.9,13.6,6.4
+213,120,I,51600,16th Ave SW & SW 112th St,12,MID,0.5,0.2,9.1,17,7.1
+213,120,I,51610,16th Ave SW & SW 110th St,13,MID,0.5,0.2,9.4,17.4,8.5
+213,120,I,51615,15th Ave SW & SW 107th St,14,MID,0.5,0.7,9.2,18,23.6
+213,120,I,51640,15th Ave SW & SW 104th St,15,MID,1,0.3,10,35.6,9.4
+213,120,I,51660,15th Ave SW & SW 100th St,16,MID,1.6,2,9.5,57.1,72.5
+213,120,I,39431,15th Ave SW & SW Roxbury St - Bay 2,17,MID,0,0,9.5,0,1.3
+213,120,I,22255,SW Roxbury St & 16th Ave SW - Bay 6,18,MID,0.1,0.1,9.4,2,4.6
+213,120,I,22256,SW Roxbury St & 20th Ave SW,19,MID,0.6,0.3,9.8,22.3,11.5
+213,120,I,22259,SW Roxbury St & 26th Ave SW,20,MID,0.4,1,9.1,14.3,34.4
+213,120,I,31731,26th Ave SW & SW Barton St - Bay 2,21,MID,0.9,1.6,8.4,31.5,56
+213,120,I,31736,SW Barton Pl & 22nd Ave SW,22,MID,0.2,0.1,8.5,6.4,3.4
+213,120,I,22184,Delridge Way SW & SW Henderson St,23,MID,0.7,0.1,9,25.4,5.2
+213,120,I,22195,Delridge Way SW & SW Thistle St,24,MID,0.6,0.2,9.4,22.6,8.3
+213,120,I,22193,Delridge Way SW & SW Kenyon St,25,MID,0,0,9.4,0,0.3
+213,120,I,36300,Delridge Way SW & SW Holden St,26,MID,0.7,0.5,9.7,25.7,16.2
+213,120,I,21450,Delridge Way SW & SW Myrtle St,27,MID,0.5,0.2,9.9,18.7,8.8
+213,120,I,21460,Delridge Way SW & Croft Pl SW,28,MID,0,0,9.9,0,0
+213,120,I,21480,Delridge Way SW & SW Holly St,29,MID,0.2,0.1,10,6.8,3.4
+213,120,I,21500,Delridge Way SW & SW Graham St,30,MID,0.3,0.2,10.1,11.2,6.6
+213,120,I,21520,Delridge Way SW & SW Juneau St,31,MID,0.9,0.5,10.5,33.3,18.3
+213,120,I,21540,Delridge Way SW & SW Brandon St,32,MID,0,0,10.6,0.9,0.6
+213,120,I,21560,Delridge Way SW & SW Hudson St,33,MID,0.3,0.1,10.7,10.6,3.6
+213,120,I,21570,Delridge Way SW & SW Edmunds St,34,MID,0,0,10.7,0,0.1
+213,120,I,21590,Delridge Way SW & SW Oregon St,35,MID,0.3,0.2,10.8,9.4,5.6
+213,120,I,21600,Delridge Way SW & SW Genesee St,36,MID,0.1,0.2,10.8,5.2,6.7
+213,120,I,21620,Delridge Way SW & SW Andover St,37,MID,0.5,0.2,11,17.6,9
+213,120,I,15432,SW Spokane St & 11th Ave SW,38,MID,0.1,0.2,10.9,4.3,7.6
+213,120,I,1561,Alaskan Way S & S Jackson St,39,MID,0.1,0.3,9,2,10.6
+213,120,I,1565,Columbia St & Western Ave,40,MID,0.3,1,10,12.3,39
+213,120,I,548,3rd Ave & Madison St,41,MID,0.4,2.8,7.8,14,106.1
+213,120,I,570,3rd Ave & Union St,42,MID,0.1,4.1,3.9,5,155.4
+213,120,I,590,3rd Ave & Pine St,43,MID,0.1,2.2,2,4.3,83.4
+213,120,I,600,3rd Ave & Virginia St,44,MID,0.6,2.7,0,25,103.4
+213,120,O,420,3rd Ave & Virginia St,1,MID,2,0,2.2,72.6,0.5
+213,120,O,433,3rd Ave & Pike St,2,MID,2.7,0.2,4.6,96.7,7.9
+213,120,O,468,3rd Ave & Seneca St,3,MID,2.1,0.2,6.5,75,6
+213,120,O,481,3rd Ave & Columbia St,4,MID,1.5,0.3,7.7,53.7,9.3
+213,120,O,1558,Columbia St & Alaskan Way,5,MID,0.7,0.2,7.8,24.1,8
+213,120,O,1562,Alaskan Way S & S Jackson St,6,MID,0,0,7.2,0.8,0.2
+213,120,O,15431,SW Spokane St & 11th Ave SW,7,MID,0.1,0.1,7.8,3.2,3.6
+213,120,O,21990,Delridge Way SW & SW Andover St,8,MID,0.4,0.4,7.4,13.3,15.5
+213,120,O,22010,Delridge Way SW & SW Genesee St,9,MID,0.3,0.2,7.5,12.5,7.4
+213,120,O,22030,Delridge Way SW & SW Alaska St,10,MID,0,0,7.5,0,0.1
+213,120,O,22050,Delridge Way SW & SW Hudson St,11,MID,0.1,0.2,7.5,5.1,5.8
+213,120,O,22070,Delridge Way SW & SW Brandon St,12,MID,0.6,0.8,7.3,21.2,27.1
+213,120,O,22090,Delridge Way SW & SW Juneau St,13,MID,0,0,7.3,0.5,0.5
+213,120,O,22099,Delridge Way SW & SW Graham St,14,MID,0.2,0.2,7.4,8.5,7
+213,120,O,22120,Delridge Way SW & SW Holly St,15,MID,0.1,0.1,7.4,4.4,4.6
+213,120,O,22140,Delridge Way SW & Croft Pl SW,16,MID,0,0,7.4,0.1,0.1
+213,120,O,22152,Delridge Way SW & SW Myrtle St,17,MID,0.4,0.4,7.5,15.5,12.6
+213,120,O,36210,Delridge Way SW & SW Webster St,18,MID,0.5,0.3,7.6,19.1,12.4
+213,120,O,22157,Delridge Way SW & SW Kenyon St,19,MID,0,0,7.4,0.1,0.1
+213,120,O,22165,Delridge Way SW & SW Thistle St,20,MID,0.3,0.4,7.4,11,14.8
+213,120,O,22174,Delridge Way SW & SW Henderson St,21,MID,0.2,0.4,7.1,6.6,13.6
+213,120,O,39983,SW Barton St & 25th Ave SW - Bay 3,22,MID,1.7,1.4,7.5,61.9,50.3
+213,120,O,21250,SW Roxbury St & 26th Ave SW,23,MID,0.5,0.4,7.6,17.2,14.1
+213,120,O,21280,SW Roxbury St & 20th Ave SW,24,MID,0.1,0.1,7.4,4.2,5.3
+213,120,O,21290,SW Roxbury St & 17th Ave SW,25,MID,0.1,0.4,7.1,3.7,15.1
+213,120,O,52030,15th Ave SW & SW Roxbury St - Bay 1,26,MID,1.1,1,7,39.8,37.2
+213,120,O,52050,15th Ave SW & SW 100th St,27,MID,1.2,1,7.2,41.7,34.7
+213,120,O,52070,15th Ave SW & SW 104th St,28,MID,0.1,0.3,7.1,5.1,9.7
+213,120,O,52080,15th Ave SW & SW 106th St,29,MID,0.3,0.7,6.7,10.6,25.6
+213,120,O,52100,16th Ave SW & SW 107th St,30,MID,0.8,0.4,7.1,27,15
+213,120,O,52120,16th Ave SW & SW 112th St,31,MID,0.3,0.4,6.9,10.6,13.7
+213,120,O,52140,16th Ave SW & SW 116th St,32,MID,0.2,0.2,6.8,7.9,8.7
+213,120,O,52170,Ambaum Blvd SW & SW 122nd St,33,MID,0,0.1,6.8,0.7,2.1
+213,120,O,52180,Ambaum Blvd SW & SW 124th St,34,MID,0.9,0.9,6.8,33.1,32.2
+213,120,O,52200,Ambaum Blvd SW & SW 128th St,35,MID,0.2,0.3,6.7,6.8,11.7
+213,120,O,52220,Ambaum Blvd SW & SW 132nd St,36,MID,0.6,0.3,6.9,19.5,9.9
+213,120,O,52240,Ambaum Blvd SW & SW 136th St,37,MID,0.7,0.7,6.9,24.2,25.4
+213,120,O,52250,Ambaum Blvd SW & SW 139th St,38,MID,0.4,0.2,7,14,8.7
+213,120,O,52271,Ambaum Blvd SW & SW 144th St,39,MID,0.2,0.3,6.9,6.2,11.4
+213,120,O,52290,SW 148th St & Ambaum Blvd SW,40,MID,0.1,0.8,6.2,5.2,29.3
+213,120,O,52310,SW 148th St & 6th Ave SW,41,MID,0,0.5,5.8,0.8,18.7
+213,120,O,52305,Burien Transit Center - Bay 5,42,MID,0.2,5.9,0,6,212.7
+213,120,I,52303,Burien Transit Center - Bay 3,1,PM,7.8,0,7.9,187.8,0
+213,120,I,51401,SW 148th St & 6th Ave SW,2,PM,0.5,0.1,8.3,11.7,3.5
+213,120,I,51403,Ambaum Blvd SW & SW 148th St,3,PM,0.8,0.4,8.8,18.1,8.4
+213,120,I,51450,Ambaum Blvd SW & SW 144th St,4,PM,0.4,0.2,9,10.3,5.5
+213,120,I,51470,Ambaum Blvd SW & SW 139th St,5,PM,0.4,0.8,8.6,10.5,20.1
+213,120,I,51480,Ambaum Blvd SW & SW 136th St,6,PM,0.7,0.5,8.7,16.1,12.9
+213,120,I,51500,Ambaum Blvd SW & SW 132nd St,7,PM,0.3,0.6,8.4,6.7,14.5
+213,120,I,51520,Ambaum Blvd SW & SW 128th St,8,PM,0.7,0.6,8.5,17.3,14.7
+213,120,I,51540,Ambaum Blvd SW & SW 124th St,9,PM,0.6,1,8.1,15.3,23.8
+213,120,I,51550,Ambaum Blvd SW & SW 122nd St,10,PM,0.1,0.2,8.1,2.7,4.5
+213,120,I,51580,Ambaum Blvd SW & SW 116th St,11,PM,0.2,0.2,8,4.7,5.3
+213,120,I,51600,16th Ave SW & SW 112th St,12,PM,0.4,0.4,8.2,10.6,9.7
+213,120,I,51610,16th Ave SW & SW 110th St,13,PM,0.3,0.5,8,6.3,12.7
+213,120,I,51615,15th Ave SW & SW 107th St,14,PM,0.5,0.8,7.8,10.9,19.3
+213,120,I,51640,15th Ave SW & SW 104th St,15,PM,0.6,0.3,8,14.5,8.2
+213,120,I,51660,15th Ave SW & SW 100th St,16,PM,1.3,1.6,7.8,32.1,37.9
+213,120,I,39431,15th Ave SW & SW Roxbury St - Bay 2,17,PM,0,0,7.6,0.1,0.9
+213,120,I,22255,SW Roxbury St & 16th Ave SW - Bay 6,18,PM,0,0.1,7.7,0.6,3
+213,120,I,22256,SW Roxbury St & 20th Ave SW,19,PM,0.6,0.4,7.9,13.7,10.5
+213,120,I,22259,SW Roxbury St & 26th Ave SW,20,PM,0.4,0.9,7.6,11.1,23.5
+213,120,I,31731,26th Ave SW & SW Barton St - Bay 2,21,PM,1.3,1.6,7.3,32.4,40
+213,120,I,31736,SW Barton Pl & 22nd Ave SW,22,PM,0.2,0.2,7.4,4.4,3.9
+213,120,I,22184,Delridge Way SW & SW Henderson St,23,PM,0.6,0.3,7.5,13.6,7.8
+213,120,I,22195,Delridge Way SW & SW Thistle St,24,PM,0.6,0.3,8,15.1,6.2
+213,120,I,22193,Delridge Way SW & SW Kenyon St,25,PM,0,0,8,0.1,0.6
+213,120,I,36300,Delridge Way SW & SW Holden St,26,PM,0.7,0.6,8,15.9,15.3
+213,120,I,21450,Delridge Way SW & SW Myrtle St,27,PM,0.5,0.5,8,10.9,11.5
+213,120,I,21460,Delridge Way SW & Croft Pl SW,28,PM,0,0,8,0,0
+213,120,I,21480,Delridge Way SW & SW Holly St,29,PM,0.1,0.2,7.9,1.9,5
+213,120,I,21500,Delridge Way SW & SW Graham St,30,PM,0.2,0.3,7.8,5.7,7.8
+213,120,I,21520,Delridge Way SW & SW Juneau St,31,PM,0.8,0.8,7.8,19,18.9
+213,120,I,21540,Delridge Way SW & SW Brandon St,32,PM,0,0,8,0.8,0.6
+213,120,I,21560,Delridge Way SW & SW Hudson St,33,PM,0.3,0.3,8,6.6,6.9
+213,120,I,21570,Delridge Way SW & SW Edmunds St,34,PM,0,0,8,0,0
+213,120,I,21590,Delridge Way SW & SW Oregon St,35,PM,0.2,0.2,8,5.4,5.1
+213,120,I,21600,Delridge Way SW & SW Genesee St,36,PM,0.1,0.2,7.9,3.4,4.7
+213,120,I,21620,Delridge Way SW & SW Andover St,37,PM,0.7,0.4,8.2,16.8,9.8
+213,120,I,15432,SW Spokane St & 11th Ave SW,38,PM,0.2,0.1,8.3,4.1,3.2
+213,120,I,1561,Alaskan Way S & S Jackson St,39,PM,0,0.2,7.8,0.3,4.5
+213,120,I,1565,Columbia St & Western Ave,40,PM,0.2,0.7,8,5.8,17.9
+213,120,I,548,3rd Ave & Madison St,41,PM,0.3,2.1,6.3,6.8,50.3
+213,120,I,570,3rd Ave & Union St,42,PM,0.1,2.7,3.8,2.9,65
+213,120,I,590,3rd Ave & Pine St,43,PM,0.1,1.9,2.1,2.5,44.5
+213,120,I,600,3rd Ave & Virginia St,44,PM,0.4,2.5,0,9.5,60
+213,120,O,420,3rd Ave & Virginia St,1,PM,5.5,0,5.9,153.5,0
+213,120,O,433,3rd Ave & Pike St,2,PM,5.5,0.3,10.9,152.6,8.4
+213,120,O,468,3rd Ave & Seneca St,3,PM,5.2,0.2,15.9,145.4,5.5
+213,120,O,481,3rd Ave & Columbia St,4,PM,3.5,0.3,19.1,98.7,7.5
+213,120,O,1558,Columbia St & Alaskan Way,5,PM,1.5,0.4,20.2,43.7,11.6
+213,120,O,1562,Alaskan Way S & S Jackson St,6,PM,0.1,0,17.9,2,0.3
+213,120,O,15431,SW Spokane St & 11th Ave SW,7,PM,0.1,0,20.2,3.6,0.9
+213,120,O,21990,Delridge Way SW & SW Andover St,8,PM,0.5,1.2,19.4,15.4,35.7
+213,120,O,22010,Delridge Way SW & SW Genesee St,9,PM,0.8,0.6,19.5,23.1,18.8
+213,120,O,22030,Delridge Way SW & SW Alaska St,10,PM,0,0,19.5,0,0.2
+213,120,O,22050,Delridge Way SW & SW Hudson St,11,PM,0.2,1,18.8,4.8,27.6
+213,120,O,22070,Delridge Way SW & SW Brandon St,12,PM,0.6,1.6,17.8,17.8,45.1
+213,120,O,22090,Delridge Way SW & SW Juneau St,13,PM,0,0,17.8,0,0.2
+213,120,O,22099,Delridge Way SW & SW Graham St,14,PM,0.3,0.6,17.5,7.1,16
+213,120,O,22120,Delridge Way SW & SW Holly St,15,PM,0.1,0.6,17,1.7,16.2
+213,120,O,22140,Delridge Way SW & Croft Pl SW,16,PM,0,0,17,0,0
+213,120,O,22152,Delridge Way SW & SW Myrtle St,17,PM,0.3,0.8,16.5,9.3,21.8
+213,120,O,36210,Delridge Way SW & SW Webster St,18,PM,0.3,1.2,15.6,8.3,34.5
+213,120,O,22157,Delridge Way SW & SW Kenyon St,19,PM,0,0,15.4,0.1,0.5
+213,120,O,22165,Delridge Way SW & SW Thistle St,20,PM,0.5,1.3,14.6,14.4,38.7
+213,120,O,22174,Delridge Way SW & SW Henderson St,21,PM,0.1,1.4,13.4,3.9,41.1
+213,120,O,39983,SW Barton St & 25th Ave SW - Bay 3,22,PM,1.9,2.2,13,53.9,63
+213,120,O,21250,SW Roxbury St & 26th Ave SW,23,PM,0.6,0.8,12.8,18.8,23.2
+213,120,O,21280,SW Roxbury St & 20th Ave SW,24,PM,0.1,0.4,12.7,3.9,10.3
+213,120,O,21290,SW Roxbury St & 17th Ave SW,25,PM,0.2,0.6,12.3,6,17.7
+213,120,O,52030,15th Ave SW & SW Roxbury St - Bay 1,26,PM,0.9,1.6,11.7,27.5,47.2
+213,120,O,52050,15th Ave SW & SW 100th St,27,PM,1.1,1.2,11.7,32.4,36.2
+213,120,O,52070,15th Ave SW & SW 104th St,28,PM,0.2,0.5,11.3,4.7,14.9
+213,120,O,52080,15th Ave SW & SW 106th St,29,PM,0.3,1,10.6,10.1,29.1
+213,120,O,52100,16th Ave SW & SW 107th St,30,PM,0.7,0.7,10.6,20.4,20.3
+213,120,O,52120,16th Ave SW & SW 112th St,31,PM,0.2,0.5,10.3,6.3,15.9
+213,120,O,52140,16th Ave SW & SW 116th St,32,PM,0.1,0.6,9.8,4.1,16.7
+213,120,O,52170,Ambaum Blvd SW & SW 122nd St,33,PM,0,0.2,9.6,0.1,5.8
+213,120,O,52180,Ambaum Blvd SW & SW 124th St,34,PM,0.7,1.9,8.4,19.2,53.2
+213,120,O,52200,Ambaum Blvd SW & SW 128th St,35,PM,0.2,0.5,8.2,5.9,13
+213,120,O,52220,Ambaum Blvd SW & SW 132nd St,36,PM,0.4,0.8,7.8,11,23.5
+213,120,O,52240,Ambaum Blvd SW & SW 136th St,37,PM,0.5,1.1,7.1,13.7,33
+213,120,O,52250,Ambaum Blvd SW & SW 139th St,38,PM,0.2,0.6,6.8,6.5,16.7
+213,120,O,52271,Ambaum Blvd SW & SW 144th St,39,PM,0.1,0.4,6.5,3.6,11.7
+213,120,O,52290,SW 148th St & Ambaum Blvd SW,40,PM,0.1,0.8,5.8,3.7,24.2
+213,120,O,52310,SW 148th St & 6th Ave SW,41,PM,0,0.5,5.3,0.1,14.5
+213,120,O,52305,Burien Transit Center - Bay 5,42,PM,0.2,5.5,0,6.5,160.6
+213,120,I,52303,Burien Transit Center - Bay 3,1,XEV,5.8,0,6,69.6,0.1
+213,120,I,51401,SW 148th St & 6th Ave SW,2,XEV,0.3,0,6.3,3.2,0.1
+213,120,I,51403,Ambaum Blvd SW & SW 148th St,3,XEV,0.4,0.1,6.6,5,1.6
+213,120,I,51450,Ambaum Blvd SW & SW 144th St,4,XEV,0.3,0.1,6.9,4,1.2
+213,120,I,51470,Ambaum Blvd SW & SW 139th St,5,XEV,0.2,0.6,6.5,1.8,6.8
+213,120,I,51480,Ambaum Blvd SW & SW 136th St,6,XEV,0.2,0.4,6.3,2.9,4.6
+213,120,I,51500,Ambaum Blvd SW & SW 132nd St,7,XEV,0.2,0.3,6.1,1.8,4.1
+213,120,I,51520,Ambaum Blvd SW & SW 128th St,8,XEV,0.3,0.3,6.1,3.9,3.5
+213,120,I,51540,Ambaum Blvd SW & SW 124th St,9,XEV,0.4,0.6,6,5.2,6.7
+213,120,I,51550,Ambaum Blvd SW & SW 122nd St,10,XEV,0.1,0.2,5.9,0.8,2.3
+213,120,I,51580,Ambaum Blvd SW & SW 116th St,11,XEV,0.1,0.2,5.8,1.2,2
+213,120,I,51600,16th Ave SW & SW 112th St,12,XEV,0.2,0.3,5.7,2.1,3.3
+213,120,I,51610,16th Ave SW & SW 110th St,13,XEV,0.1,0.4,5.4,1.2,5.1
+213,120,I,51615,15th Ave SW & SW 107th St,14,XEV,0.2,0.6,5,3.1,7.3
+213,120,I,51640,15th Ave SW & SW 104th St,15,XEV,0.4,0.2,5.1,4.6,3.2
+213,120,I,51660,15th Ave SW & SW 100th St,16,XEV,0.9,0.9,5.1,11.1,11.2
+213,120,I,39431,15th Ave SW & SW Roxbury St - Bay 2,17,XEV,0,0.1,5.1,0.1,0.7
+213,120,I,22255,SW Roxbury St & 16th Ave SW - Bay 6,18,XEV,0.1,0,5.3,0.6,0.4
+213,120,I,22256,SW Roxbury St & 20th Ave SW,19,XEV,0.4,0.3,5.3,4.6,3.4
+213,120,I,22259,SW Roxbury St & 26th Ave SW,20,XEV,0.3,0.4,5.2,3.4,4.2
+213,120,I,31731,26th Ave SW & SW Barton St - Bay 2,21,XEV,0.9,1,5.1,10.4,11.6
+213,120,I,31736,SW Barton Pl & 22nd Ave SW,22,XEV,0,0.1,5,0.6,1
+213,120,I,22184,Delridge Way SW & SW Henderson St,23,XEV,0.3,0.2,4.9,3.7,2.9
+213,120,I,22195,Delridge Way SW & SW Thistle St,24,XEV,0.2,0.3,5,2.1,3.3
+213,120,I,22193,Delridge Way SW & SW Kenyon St,25,XEV,0,0,5,0,0
+213,120,I,36300,Delridge Way SW & SW Holden St,26,XEV,0.2,0.3,4.8,2.1,4.1
+213,120,I,21450,Delridge Way SW & SW Myrtle St,27,XEV,0.3,0.3,4.9,3.9,3.4
+213,120,I,21460,Delridge Way SW & Croft Pl SW,28,XEV,0,0,4.9,0,0
+213,120,I,21480,Delridge Way SW & SW Holly St,29,XEV,0.1,0.1,4.9,0.9,1
+213,120,I,21500,Delridge Way SW & SW Graham St,30,XEV,0.1,0.3,4.8,1.9,3.5
+213,120,I,21520,Delridge Way SW & SW Juneau St,31,XEV,0.4,0.6,4.6,5.6,8.2
+213,120,I,21540,Delridge Way SW & SW Brandon St,32,XEV,0,0,4.5,0.1,0.3
+213,120,I,21560,Delridge Way SW & SW Hudson St,33,XEV,0.1,0.1,4.5,1.3,1.7
+213,120,I,21570,Delridge Way SW & SW Edmunds St,34,XEV,0,0,4.5,0,0
+213,120,I,21590,Delridge Way SW & SW Oregon St,35,XEV,0.1,0.1,4.5,0.8,1.4
+213,120,I,21600,Delridge Way SW & SW Genesee St,36,XEV,0.1,0.1,4.4,1.3,2
+213,120,I,21620,Delridge Way SW & SW Andover St,37,XEV,0.4,0.3,4.5,5.2,3.6
+213,120,I,15432,SW Spokane St & 11th Ave SW,38,XEV,0.1,0,4.5,0.7,0.5
+213,120,I,1561,Alaskan Way S & S Jackson St,39,XEV,0,0.3,4.5,0,3.1
+213,120,I,1565,Columbia St & Western Ave,40,XEV,0.2,0.3,4.7,3.3,4.5
+213,120,I,548,3rd Ave & Madison St,41,XEV,0.2,1.2,3.7,2.6,16.4
+213,120,I,570,3rd Ave & Union St,42,XEV,0.1,1.5,2.4,1.9,20.9
+213,120,I,590,3rd Ave & Pine St,43,XEV,0.1,0.7,1.7,0.7,10.4
+213,120,I,600,3rd Ave & Virginia St,44,XEV,0.2,1.9,0,3.2,27.2
+213,120,O,420,3rd Ave & Virginia St,1,XEV,3.4,0,3.5,40.9,0
+213,120,O,433,3rd Ave & Pike St,2,XEV,3.5,0.2,6.8,42.4,2
+213,120,O,468,3rd Ave & Seneca St,3,XEV,3,0.1,9.7,35.8,1.5
+213,120,O,481,3rd Ave & Columbia St,4,XEV,1.6,0.4,10.9,18.9,4.2
+213,120,O,1558,Columbia St & Alaskan Way,5,XEV,1.4,0.2,12.1,15,2.6
+213,120,O,1562,Alaskan Way S & S Jackson St,6,XEV,0.3,0,14.3,2.9,0.5
+213,120,O,15431,SW Spokane St & 11th Ave SW,7,XEV,0.1,0.1,12.4,0.9,1.2
+213,120,O,21990,Delridge Way SW & SW Andover St,8,XEV,0.5,0.6,12.3,5.5,6.8
+213,120,O,22010,Delridge Way SW & SW Genesee St,9,XEV,0.3,0.5,12.1,3.6,5.6
+213,120,O,22030,Delridge Way SW & SW Alaska St,10,XEV,0,0,12.1,0.1,0
+213,120,O,22050,Delridge Way SW & SW Hudson St,11,XEV,0.1,0.5,12,0.9,6.1
+213,120,O,22070,Delridge Way SW & SW Brandon St,12,XEV,0.5,1.2,11.2,6.2,16.1
+213,120,O,22090,Delridge Way SW & SW Juneau St,13,XEV,0,0,11.2,0.1,0.1
+213,120,O,22099,Delridge Way SW & SW Graham St,14,XEV,0.1,0.2,11.1,1.1,3.2
+213,120,O,22120,Delridge Way SW & SW Holly St,15,XEV,0.1,0.4,10.7,1,5.4
+213,120,O,22140,Delridge Way SW & Croft Pl SW,16,XEV,0,0,10.7,0,0
+213,120,O,22152,Delridge Way SW & SW Myrtle St,17,XEV,0.3,0.6,10.4,3.7,6.6
+213,120,O,36210,Delridge Way SW & SW Webster St,18,XEV,0.2,0.9,9.7,2.3,10.4
+213,120,O,22157,Delridge Way SW & SW Kenyon St,19,XEV,0,0,9.8,0.1,0
+213,120,O,22165,Delridge Way SW & SW Thistle St,20,XEV,0.2,0.9,9,2.4,10.8
+213,120,O,22174,Delridge Way SW & SW Henderson St,21,XEV,0.1,0.8,8.2,1.4,9.5
+213,120,O,39983,SW Barton St & 25th Ave SW - Bay 3,22,XEV,1.3,1.1,8.6,15.5,12.9
+213,120,O,21250,SW Roxbury St & 26th Ave SW,23,XEV,0.3,0.6,8.3,3.6,7.2
+213,120,O,21280,SW Roxbury St & 20th Ave SW,24,XEV,0.1,0.1,8.3,1,1.8
+213,120,O,21290,SW Roxbury St & 17th Ave SW,25,XEV,0.1,0.5,7.9,1.9,6.1
+213,120,O,52030,15th Ave SW & SW Roxbury St - Bay 1,26,XEV,0.5,0.8,7.6,6.5,10
+213,120,O,52050,15th Ave SW & SW 100th St,27,XEV,0.6,0.6,7.7,7.7,8
+213,120,O,52070,15th Ave SW & SW 104th St,28,XEV,0.1,0.2,7.5,1.4,2.5
+213,120,O,52080,15th Ave SW & SW 106th St,29,XEV,0.2,0.7,7,2.6,7.9
+213,120,O,52100,16th Ave SW & SW 107th St,30,XEV,0.4,0.6,6.8,4.9,7.1
+213,120,O,52120,16th Ave SW & SW 112th St,31,XEV,0.2,0.5,6.5,1.9,5.9
+213,120,O,52140,16th Ave SW & SW 116th St,32,XEV,0.1,0.4,6.2,0.8,4.7
+213,120,O,52170,Ambaum Blvd SW & SW 122nd St,33,XEV,0,0.2,6.2,0,2.6
+213,120,O,52180,Ambaum Blvd SW & SW 124th St,34,XEV,0.3,1.4,5.1,4.2,17.9
+213,120,O,52200,Ambaum Blvd SW & SW 128th St,35,XEV,0.1,0.3,5,1.8,3.4
+213,120,O,52220,Ambaum Blvd SW & SW 132nd St,36,XEV,0.2,0.5,4.7,2.7,6.5
+213,120,O,52240,Ambaum Blvd SW & SW 136th St,37,XEV,0.2,0.7,4.2,2.7,9.7
+213,120,O,52250,Ambaum Blvd SW & SW 139th St,38,XEV,0.2,0.3,4,2,3.9
+213,120,O,52271,Ambaum Blvd SW & SW 144th St,39,XEV,0,0.3,3.8,0.3,3.3
+213,120,O,52290,SW 148th St & Ambaum Blvd SW,40,XEV,0.1,0.4,3.4,0.7,5.7
+213,120,O,52310,SW 148th St & 6th Ave SW,41,XEV,0,0.2,3.2,0,2.4
+213,120,O,52305,Burien Transit Center - Bay 5,42,XEV,0.2,3.5,0,2.8,45.2
+213,120,I,52303,Burien Transit Center - Bay 3,1,XNT,4.6,0,5.5,36.4,0
+213,120,I,51401,SW 148th St & 6th Ave SW,2,XNT,0.3,0,5.6,2.6,0.3
+213,120,I,51403,Ambaum Blvd SW & SW 148th St,3,XNT,0.4,0,6,3.9,0.3
+213,120,I,51450,Ambaum Blvd SW & SW 144th St,4,XNT,0.1,0.1,6.1,1.1,0.5
+213,120,I,51470,Ambaum Blvd SW & SW 139th St,5,XNT,0.3,0.3,6.2,2.8,2.3
+213,120,I,51480,Ambaum Blvd SW & SW 136th St,6,XNT,0.2,0.2,6.2,2.2,1.8
+213,120,I,51500,Ambaum Blvd SW & SW 132nd St,7,XNT,0.3,0.3,6.2,2.8,3
+213,120,I,51520,Ambaum Blvd SW & SW 128th St,8,XNT,0.7,0.3,6.6,6.2,2.5
+213,120,I,51540,Ambaum Blvd SW & SW 124th St,9,XNT,0.4,0.5,6.7,2.8,3.7
+213,120,I,51550,Ambaum Blvd SW & SW 122nd St,10,XNT,0.2,0.1,6.8,1.4,0.6
+213,120,I,51580,Ambaum Blvd SW & SW 116th St,11,XNT,0.2,0.1,6.8,1.3,1.1
+213,120,I,51600,16th Ave SW & SW 112th St,12,XNT,0.3,0.1,7,2.1,1.1
+213,120,I,51610,16th Ave SW & SW 110th St,13,XNT,0.6,0.2,7.3,4.5,1.5
+213,120,I,51615,15th Ave SW & SW 107th St,14,XNT,0.2,0.4,7.2,1.7,2.8
+213,120,I,51640,15th Ave SW & SW 104th St,15,XNT,0.4,0.1,7.5,3.4,0.7
+213,120,I,51660,15th Ave SW & SW 100th St,16,XNT,0.6,0.6,7.5,5,4.9
+213,120,I,39431,15th Ave SW & SW Roxbury St - Bay 2,17,XNT,0,0,7.5,0,0.2
+213,120,I,22255,SW Roxbury St & 16th Ave SW - Bay 6,18,XNT,0,0.1,7,0.2,1.2
+213,120,I,22256,SW Roxbury St & 20th Ave SW,19,XNT,0.3,0.2,7.1,2.5,2
+213,120,I,22259,SW Roxbury St & 26th Ave SW,20,XNT,0.2,0.5,6.7,1.5,4.2
+213,120,I,31731,26th Ave SW & SW Barton St - Bay 2,21,XNT,0.4,0.2,6.9,3.7,2.1
+213,120,I,31736,SW Barton Pl & 22nd Ave SW,22,XNT,0.1,0,6.9,1.2,0.4
+213,120,I,22184,Delridge Way SW & SW Henderson St,23,XNT,0.7,0.1,7.5,6.3,1.1
+213,120,I,22195,Delridge Way SW & SW Thistle St,24,XNT,0.2,0.2,6.9,1.6,1.5
+213,120,I,22193,Delridge Way SW & SW Kenyon St,25,XNT,0,0,6.9,0,0
+213,120,I,36300,Delridge Way SW & SW Holden St,26,XNT,0.3,0.3,6.9,2.5,2.6
+213,120,I,21450,Delridge Way SW & SW Myrtle St,27,XNT,0.2,0.1,7,1.9,1.1
+213,120,I,21460,Delridge Way SW & Croft Pl SW,28,XNT,0,0,7,0,0
+213,120,I,21480,Delridge Way SW & SW Holly St,29,XNT,0.2,0,7.2,1.5,0.1
+213,120,I,21500,Delridge Way SW & SW Graham St,30,XNT,0,0.2,7,0.2,1.2
+213,120,I,21520,Delridge Way SW & SW Juneau St,31,XNT,0.6,0.6,7.1,5,4.6
+213,120,I,21540,Delridge Way SW & SW Brandon St,32,XNT,0,0,7.1,0.2,0
+213,120,I,21560,Delridge Way SW & SW Hudson St,33,XNT,0.1,0.1,7.2,0.9,0.7
+213,120,I,21570,Delridge Way SW & SW Edmunds St,34,XNT,0,0,7.1,0,0.2
+213,120,I,21590,Delridge Way SW & SW Oregon St,35,XNT,0.1,0.1,7.2,0.9,0.6
+213,120,I,21600,Delridge Way SW & SW Genesee St,36,XNT,0.1,0.1,7.1,0.4,0.9
+213,120,I,21620,Delridge Way SW & SW Andover St,37,XNT,0.3,0.3,7.1,2.2,2.1
+213,120,I,15432,SW Spokane St & 11th Ave SW,38,XNT,0.2,0.1,7.3,1.7,0.7
+213,120,I,1561,Alaskan Way S & S Jackson St,39,XNT,0,0.1,6.7,0,0.8
+213,120,I,1565,Columbia St & Western Ave,40,XNT,0.2,0.3,6.7,1.7,3
+213,120,I,548,3rd Ave & Madison St,41,XNT,0.1,1.2,5.6,1.3,10.9
+213,120,I,570,3rd Ave & Union St,42,XNT,0.1,1.7,4,0.9,15.7
+213,120,I,590,3rd Ave & Pine St,43,XNT,0.1,1.2,2.9,0.7,10.8
+213,120,I,600,3rd Ave & Virginia St,44,XNT,0.2,2.6,0,1.5,20.5
+213,120,O,420,3rd Ave & Virginia St,1,XNT,5.4,0,5.4,53.6,0
+213,120,O,433,3rd Ave & Pike St,2,XNT,3.1,0.2,8.3,31.3,1.8
+213,120,O,468,3rd Ave & Seneca St,3,XNT,2.9,0.2,11,28.6,2
+213,120,O,481,3rd Ave & Columbia St,4,XNT,0.9,0.3,11.7,9.4,2.6
+213,120,O,1558,Columbia St & Alaskan Way,5,XNT,1.1,0.2,12.5,12.6,1.8
+213,120,O,1562,Alaskan Way S & S Jackson St,6,XNT,0,0,12.9,0,0.3
+213,120,O,15431,SW Spokane St & 11th Ave SW,7,XNT,0.2,0,12.6,1.7,0.4
+213,120,O,21990,Delridge Way SW & SW Andover St,8,XNT,0.2,0.6,12.2,2.1,6.4
+213,120,O,22010,Delridge Way SW & SW Genesee St,9,XNT,0.2,0.4,11.9,2,4.7
+213,120,O,22030,Delridge Way SW & SW Alaska St,10,XNT,0,0,11.9,0,0
+213,120,O,22050,Delridge Way SW & SW Hudson St,11,XNT,0,0.3,11.7,0.2,2.9
+213,120,O,22070,Delridge Way SW & SW Brandon St,12,XNT,0.3,0.6,11.3,2.8,7.1
+213,120,O,22090,Delridge Way SW & SW Juneau St,13,XNT,0,0,11.2,0.2,0.4
+213,120,O,22099,Delridge Way SW & SW Graham St,14,XNT,0,0.3,11,0.5,3.3
+213,120,O,22120,Delridge Way SW & SW Holly St,15,XNT,0,0.2,10.8,0.2,1.7
+213,120,O,22140,Delridge Way SW & Croft Pl SW,16,XNT,0,0,10.8,0,0.1
+213,120,O,22152,Delridge Way SW & SW Myrtle St,17,XNT,0.2,0.5,10.6,1.8,5.7
+213,120,O,36210,Delridge Way SW & SW Webster St,18,XNT,0.1,0.5,10.2,1,6.2
+213,120,O,22157,Delridge Way SW & SW Kenyon St,19,XNT,0,0,10.2,0,0
+213,120,O,22165,Delridge Way SW & SW Thistle St,20,XNT,0.1,0.4,9.8,0.7,4.7
+213,120,O,22174,Delridge Way SW & SW Henderson St,21,XNT,0.1,1.2,9,1.4,13.8
+213,120,O,39983,SW Barton St & 25th Ave SW - Bay 3,22,XNT,0.6,0.4,9,6.7,4.9
+213,120,O,21250,SW Roxbury St & 26th Ave SW,23,XNT,0.2,0.5,8.7,2,5.5
+213,120,O,21280,SW Roxbury St & 20th Ave SW,24,XNT,0,0.1,8.7,0.1,0.7
+213,120,O,21290,SW Roxbury St & 17th Ave SW,25,XNT,0.1,0.4,8.4,1,4.4
+213,120,O,52030,15th Ave SW & SW Roxbury St - Bay 1,26,XNT,0.4,0.7,8.2,5,7.8
+213,120,O,52050,15th Ave SW & SW 100th St,27,XNT,0.2,0.4,8,2.5,5.1
+213,120,O,52070,15th Ave SW & SW 104th St,28,XNT,0.1,0.2,7.8,0.8,2.9
+213,120,O,52080,15th Ave SW & SW 106th St,29,XNT,0.1,0.5,7.5,1.7,6.2
+213,120,O,52100,16th Ave SW & SW 107th St,30,XNT,0.2,0.3,7.3,2.6,4.5
+213,120,O,52120,16th Ave SW & SW 112th St,31,XNT,0.1,0.4,7,1,5.8
+213,120,O,52140,16th Ave SW & SW 116th St,32,XNT,0.1,0.3,6.7,0.7,4.5
+213,120,O,52170,Ambaum Blvd SW & SW 122nd St,33,XNT,0,0.2,6.5,0,2.7
+213,120,O,52180,Ambaum Blvd SW & SW 124th St,34,XNT,0.1,1.7,5,1.3,21.8
+213,120,O,52200,Ambaum Blvd SW & SW 128th St,35,XNT,0,0.2,4.8,0.2,2.2
+213,120,O,52220,Ambaum Blvd SW & SW 132nd St,36,XNT,0.1,0.6,4.3,1.1,7.7
+213,120,O,52240,Ambaum Blvd SW & SW 136th St,37,XNT,0.1,0.7,3.7,1,8.9
+213,120,O,52250,Ambaum Blvd SW & SW 139th St,38,XNT,0.1,0.6,3.2,0.7,7.8
+213,120,O,52271,Ambaum Blvd SW & SW 144th St,39,XNT,0,0.2,3,0.4,2.3
+213,120,O,52290,SW 148th St & Ambaum Blvd SW,40,XNT,0,0.4,2.6,0,4.9
+213,120,O,52310,SW 148th St & 6th Ave SW,41,XNT,0,0.1,2.6,0,0.7
+213,120,O,52305,Burien Transit Center - Bay 5,42,XNT,0.3,2.9,0,3.9,37.7

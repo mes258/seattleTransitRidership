@@ -1,0 +1,167 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+191,10,I,11370,15th Ave E & E Galer St,1,AM,1.9,0,2,37,0
+191,10,I,11390,15th Ave E & E Prospect St,2,AM,1.2,0,3.1,22.1,0.4
+191,10,I,11400,15th Ave E & E Aloha St,3,AM,0.9,0,4,17.9,0
+191,10,I,11410,15th Ave E & E Roy St,4,AM,1.1,0,5.1,20.6,0
+191,10,I,11420,15th Ave E & E Mercer St,5,AM,2,0,7.1,38.8,0.1
+191,10,I,11430,15th Ave E & E Republican St,6,AM,3,0.1,10,56.8,1.6
+191,10,I,29261,E John St & 15th Ave E,7,AM,3.3,0.7,12.6,62.2,13.3
+191,10,I,29301,E John St & 12th Ave E,8,AM,0.7,0.2,13.1,13.3,3.9
+191,10,I,29264,E Olive Way & Broadway E,9,AM,0.8,2.4,11.4,14.3,46.5
+191,10,I,29266,E Olive Way & Summit Ave E,10,AM,1.6,0.5,12.2,28.4,9.2
+191,10,I,13441,Bellevue Ave & E Olive Way,11,AM,1.1,0.8,12.5,19.2,13.8
+191,10,I,11100,E Pine St & Bellevue Ave,12,AM,1.5,0.3,13.6,26.8,6.2
+191,10,I,1085,Pine St & 9th Ave,13,AM,0,2.9,10.7,0,52.8
+191,10,O,1085,Pine St & 9th Ave,1,AM,0.2,0,10.8,2.8,0
+191,10,O,1110,Pine St & 5th Ave,2,AM,0.3,4.5,6.5,4.7,81.6
+191,10,O,1120,Pine St & 4th Ave,3,AM,1.2,5.3,2.5,21.6,94.8
+191,10,O,1180,Pike St & 4th Ave,4,AM,7.1,0.3,9.3,120,5.1
+191,10,O,11130,Pike St & Convention Pl,5,AM,1.5,0.7,10.1,25.4,11.3
+191,10,O,11132,Pike St & Boren Ave,6,AM,0.7,1.6,9.3,11.7,26.5
+191,10,O,13460,Bellevue Ave & E Olive St,7,AM,0.5,0.9,8.9,8.1,14.7
+191,10,O,29268,E Olive Way & Summit Ave E,8,AM,1.2,0.5,9.6,19,8.5
+191,10,O,29270,E John St & Broadway  E - Bay 1,9,AM,3.2,1.7,11.1,51.8,27.4
+191,10,O,29277,E John St & 12th Ave E,10,AM,0,0.2,11,0.5,3.2
+191,10,O,29273,E John St & 15th Ave E,11,AM,0.2,7.5,3.7,3.7,119.9
+191,10,O,11570,15th Ave E & E Republican St,12,AM,0.1,1.2,2.2,2.2,22
+191,10,O,11590,15th Ave E & E Roy St,13,AM,0,0.2,2,0,2.8
+191,10,O,11600,15th Ave E & E Aloha St,14,AM,0,0.3,1.7,0.2,4.5
+191,10,O,11610,15th Ave E & E Prospect St,15,AM,0,0.1,1.6,0,1.4
+191,10,O,11620,15th Ave E & E Highland Dr,16,AM,0,0.2,1.3,0,4.1
+191,10,O,11630,Grandview Pl E & E Galer St,17,AM,0,0.3,1,0,5
+191,10,O,11640,Grandview Pl E & E Garfield St,18,AM,0,0.1,1,0.1,1.4
+191,10,O,11370,15th Ave E & E Galer St,19,AM,0,0.6,0.4,0,9.9
+191,10,I,11370,15th Ave E & E Galer St,1,MID,2,0,2,48.9,0
+191,10,I,11390,15th Ave E & E Prospect St,2,MID,0.7,0,2.7,17.6,0
+191,10,I,11400,15th Ave E & E Aloha St,3,MID,0.4,0,3.1,10.1,0
+191,10,I,11410,15th Ave E & E Roy St,4,MID,0.6,0,3.6,13.9,0.7
+191,10,I,11420,15th Ave E & E Mercer St,5,MID,1.1,0,4.6,27.3,0.7
+191,10,I,11430,15th Ave E & E Republican St,6,MID,2.4,0.1,7,61,1.9
+191,10,I,29261,E John St & 15th Ave E,7,MID,6.1,0.5,12.6,152.5,13.6
+191,10,I,29301,E John St & 12th Ave E,8,MID,0.6,0.3,12.8,13.8,6.8
+191,10,I,29264,E Olive Way & Broadway E,9,MID,1.5,2.9,11.3,37.1,70.4
+191,10,I,29266,E Olive Way & Summit Ave E,10,MID,1.8,0.9,12.3,44.2,21.7
+191,10,I,13441,Bellevue Ave & E Olive Way,11,MID,0.8,0.6,12.5,20.8,16.2
+191,10,I,11100,E Pine St & Bellevue Ave,12,MID,1.5,0.7,13.3,36.8,16.8
+191,10,I,1085,Pine St & 9th Ave,13,MID,0,1.7,11.6,0.3,43.1
+191,10,I,1110,Pine St & 5th Ave,14,MID,0.5,7.9,3.1,0.5,7.9
+191,10,I,450,3rd Ave & Union St,15,MID,0.2,2,1.3,0.2,2
+191,10,I,480,3rd Ave & Marion St,16,MID,0,0.6,0.6,0,0.6
+191,10,I,500,3rd Ave & James St,17,MID,0,0.2,0.5,0,0.2
+191,10,I,515,3rd Ave S & S Main St,18,MID,0,0.1,0.4,0,0.1
+191,10,I,1471,S Jackson St & 5th Ave S,19,MID,0,0.4,0,0,0.4
+191,10,O,1085,Pine St & 9th Ave,1,MID,0.5,0,12.2,12,0
+191,10,O,1110,Pine St & 5th Ave,2,MID,0.5,4.1,8.5,10.8,99
+191,10,O,1120,Pine St & 4th Ave,3,MID,1.4,6.8,3.1,34.2,163.6
+191,10,O,1180,Pike St & 4th Ave,4,MID,11.1,0.9,13.1,287.8,23.5
+191,10,O,11130,Pike St & Convention Pl,5,MID,1.5,0.5,14,36.5,12.5
+191,10,O,11132,Pike St & Boren Ave,6,MID,1.2,2.4,12.7,29.2,61.1
+191,10,O,13460,Bellevue Ave & E Olive St,7,MID,0.8,1.1,12.3,21.5,28.7
+191,10,O,29268,E Olive Way & Summit Ave E,8,MID,1.2,1.4,12.1,30.3,35.9
+191,10,O,29270,E John St & Broadway  E - Bay 1,9,MID,4.4,2.6,13.9,114.1,66.4
+191,10,O,29277,E John St & 12th Ave E,10,MID,0.1,0.4,13.6,3.5,10.1
+191,10,O,29273,E John St & 15th Ave E,11,MID,0.5,7,7.1,11.7,173.9
+191,10,O,11570,15th Ave E & E Republican St,12,MID,0.1,3.7,3.6,3.7,91.8
+191,10,O,11590,15th Ave E & E Roy St,13,MID,0,0.7,2.9,0.5,19.4
+191,10,O,11600,15th Ave E & E Aloha St,14,MID,0,0.4,2.6,0.5,9.6
+191,10,O,11610,15th Ave E & E Prospect St,15,MID,0,0.4,2.2,0,10
+191,10,O,11620,15th Ave E & E Highland Dr,16,MID,0,0.3,1.9,0.1,7.5
+191,10,O,11630,Grandview Pl E & E Galer St,17,MID,0,0.4,1.5,0,10.5
+191,10,O,11640,Grandview Pl E & E Garfield St,18,MID,0,0.3,1.3,0.3,7
+191,10,O,11370,15th Ave E & E Galer St,19,MID,0,1,0.3,0,25.5
+191,10,I,11370,15th Ave E & E Galer St,1,PM,1.6,0,1.6,43.8,0
+191,10,I,11390,15th Ave E & E Prospect St,2,PM,0.5,0,2.1,12.5,0.1
+191,10,I,11400,15th Ave E & E Aloha St,3,PM,0.3,0,2.4,7.7,0.1
+191,10,I,11410,15th Ave E & E Roy St,4,PM,0.3,0,2.6,7.3,0.1
+191,10,I,11420,15th Ave E & E Mercer St,5,PM,0.5,0,3.1,13.8,0.7
+191,10,I,11430,15th Ave E & E Republican St,6,PM,1.8,0.2,4.7,48,6.1
+191,10,I,29261,E John St & 15th Ave E,7,PM,7.2,0.4,12.2,165.4,10
+191,10,I,29301,E John St & 12th Ave E,8,PM,0.3,0.3,12.3,7.4,6.6
+191,10,I,29264,E Olive Way & Broadway E,9,PM,1.7,3.7,10.5,41,89.8
+191,10,I,29266,E Olive Way & Summit Ave E,10,PM,1.2,1.2,10.6,27.9,27.1
+191,10,I,13441,Bellevue Ave & E Olive Way,11,PM,0.5,0.6,10.6,12.6,12.7
+191,10,I,11100,E Pine St & Bellevue Ave,12,PM,1.4,0.7,11.3,31.8,15.6
+191,10,I,1085,Pine St & 9th Ave,13,PM,0,1.4,9.9,0,32.4
+191,10,O,1085,Pine St & 9th Ave,1,PM,0.6,0,10.7,13.9,0
+191,10,O,1110,Pine St & 5th Ave,2,PM,0.8,3.1,8.4,18.8,74
+191,10,O,1120,Pine St & 4th Ave,3,PM,1.6,6.4,3.6,39.1,154.1
+191,10,O,1180,Pike St & 4th Ave,4,PM,14.1,0.6,16.7,366.9,16.2
+191,10,O,11130,Pike St & Convention Pl,5,PM,3.1,0.5,19.1,83,14.4
+191,10,O,11132,Pike St & Boren Ave,6,PM,0.9,2.3,17.7,22.1,59.7
+191,10,O,13460,Bellevue Ave & E Olive St,7,PM,0.9,2.3,16.3,22.1,59.4
+191,10,O,29268,E Olive Way & Summit Ave E,8,PM,1.2,2.3,15.2,30.4,60.4
+191,10,O,29270,E John St & Broadway  E - Bay 1,9,PM,6.9,2.6,19.4,179.2,67.7
+191,10,O,29277,E John St & 12th Ave E,10,PM,0.2,0.8,18.7,4.6,20.4
+191,10,O,29273,E John St & 15th Ave E,11,PM,0.6,7.2,12,16.1,195.6
+191,10,O,11570,15th Ave E & E Republican St,12,PM,0.2,6.1,5.7,6.2,165.2
+191,10,O,11590,15th Ave E & E Roy St,13,PM,0,1.3,4.5,0.8,35.3
+191,10,O,11600,15th Ave E & E Aloha St,14,PM,0,0.8,3.6,0.2,22.9
+191,10,O,11610,15th Ave E & E Prospect St,15,PM,0,0.9,2.8,0.2,23.9
+191,10,O,11620,15th Ave E & E Highland Dr,16,PM,0,0.7,2.1,0,19.5
+191,10,O,11630,Grandview Pl E & E Galer St,17,PM,0,0.7,1.4,0,18.3
+191,10,O,11640,Grandview Pl E & E Garfield St,18,PM,0,0.3,1.1,0.3,7.9
+191,10,O,11370,15th Ave E & E Galer St,19,PM,0,1,0.1,0.8,27.7
+191,10,I,11370,15th Ave E & E Galer St,1,XEV,1.5,0,1.5,17.7,0
+191,10,I,11390,15th Ave E & E Prospect St,2,XEV,0.2,0,1.7,2.9,0
+191,10,I,11400,15th Ave E & E Aloha St,3,XEV,0.2,0,1.9,2.2,0
+191,10,I,11410,15th Ave E & E Roy St,4,XEV,0.1,0,2,1.4,0
+191,10,I,11420,15th Ave E & E Mercer St,5,XEV,0.5,0,2.5,6.1,0.4
+191,10,I,11430,15th Ave E & E Republican St,6,XEV,1.7,0.1,4.1,20.2,0.9
+191,10,I,29261,E John St & 15th Ave E,7,XEV,3.1,0.2,6.9,36.8,2.4
+191,10,I,29301,E John St & 12th Ave E,8,XEV,0.3,0.1,7.1,3.2,1.4
+191,10,I,29264,E Olive Way & Broadway E,9,XEV,1.2,1.7,6.6,14.7,20.6
+191,10,I,29266,E Olive Way & Summit Ave E,10,XEV,1,0.9,6.7,12.5,12.1
+191,10,I,13441,Bellevue Ave & E Olive Way,11,XEV,0.3,0.6,6.7,3.9,6.6
+191,10,I,11100,E Pine St & Bellevue Ave,12,XEV,1.1,0.5,7.3,12.8,5.8
+191,10,I,1085,Pine St & 9th Ave,13,XEV,0,0.8,6.5,0,9.8
+191,10,O,1085,Pine St & 9th Ave,1,XEV,0.3,0,6.9,4,0
+191,10,O,1110,Pine St & 5th Ave,2,XEV,0.8,1.5,6.2,9.2,17.4
+191,10,O,1120,Pine St & 4th Ave,3,XEV,1,3.6,3.6,12.4,43.5
+191,10,O,1180,Pike St & 4th Ave,4,XEV,10.3,0.7,13.1,123.5,8.9
+191,10,O,11130,Pike St & Convention Pl,5,XEV,1.8,0.5,14.5,21.5,5.5
+191,10,O,11132,Pike St & Boren Ave,6,XEV,0.7,2.3,13.5,8.5,27.2
+191,10,O,13460,Bellevue Ave & E Olive St,7,XEV,0.7,1.8,12.4,8.8,22
+191,10,O,29268,E Olive Way & Summit Ave E,8,XEV,1,1.9,11.4,11.9,23.3
+191,10,O,29270,E John St & Broadway  E - Bay 1,9,XEV,4.3,2.1,13.6,51.4,25.6
+191,10,O,29277,E John St & 12th Ave E,10,XEV,0.2,0.7,13,1.8,8.7
+191,10,O,29273,E John St & 15th Ave E,11,XEV,0.3,5.1,8.3,3.6,60.6
+191,10,O,11570,15th Ave E & E Republican St,12,XEV,0.2,4.5,4.1,2.2,57.9
+191,10,O,11590,15th Ave E & E Roy St,13,XEV,0,1,3.2,0.1,12.9
+191,10,O,11600,15th Ave E & E Aloha St,14,XEV,0,0.5,2.7,0,6.7
+191,10,O,11610,15th Ave E & E Prospect St,15,XEV,0,0.4,2.2,0,5.6
+191,10,O,11620,15th Ave E & E Highland Dr,16,XEV,0,0.4,1.8,0,5.4
+191,10,O,11630,Grandview Pl E & E Galer St,17,XEV,0,0.3,1.5,0,3.7
+191,10,O,11640,Grandview Pl E & E Garfield St,18,XEV,0,0.2,1.3,0,3.2
+191,10,O,11370,15th Ave E & E Galer St,19,XEV,0,1.2,0.1,0,16
+191,10,I,11370,15th Ave E & E Galer St,1,XNT,1.2,0,1.2,11.6,0
+191,10,I,11390,15th Ave E & E Prospect St,2,XNT,0.1,0,1.3,0.9,0
+191,10,I,11400,15th Ave E & E Aloha St,3,XNT,0,0,1.3,0.1,0
+191,10,I,11410,15th Ave E & E Roy St,4,XNT,0,0,1.3,0.2,0
+191,10,I,11420,15th Ave E & E Mercer St,5,XNT,0.2,0,1.5,2.2,0
+191,10,I,11430,15th Ave E & E Republican St,6,XNT,0.9,0,2.4,8.8,0
+191,10,I,29261,E John St & 15th Ave E,7,XNT,1.6,0.1,4.2,14.7,1.3
+191,10,I,29301,E John St & 12th Ave E,8,XNT,0.1,0,4.2,0.7,0.4
+191,10,I,29264,E Olive Way & Broadway E,9,XNT,0.8,0.8,4.2,6.9,6.9
+191,10,I,29266,E Olive Way & Summit Ave E,10,XNT,0.5,0.4,4.3,4.3,3.4
+191,10,I,13441,Bellevue Ave & E Olive Way,11,XNT,0.2,0.3,4.2,1.8,3.1
+191,10,I,11100,E Pine St & Bellevue Ave,12,XNT,0.6,0.2,4.5,6.4,2.4
+191,10,I,1085,Pine St & 9th Ave,13,XNT,0,0.2,4.3,0,2.3
+191,10,O,1085,Pine St & 9th Ave,1,XNT,0.2,0,4.5,2.4,0
+191,10,O,1110,Pine St & 5th Ave,2,XNT,0.5,0.8,4.2,4.7,8.1
+191,10,O,1120,Pine St & 4th Ave,3,XNT,0.8,2.3,2.7,7.8,23.2
+191,10,O,1180,Pike St & 4th Ave,4,XNT,4.9,0.4,7.2,49.2,3.8
+191,10,O,11130,Pike St & Convention Pl,5,XNT,1,0.2,8.1,10.4,1.7
+191,10,O,11132,Pike St & Boren Ave,6,XNT,0.4,1,7.7,4.8,10.8
+191,10,O,13460,Bellevue Ave & E Olive St,7,XNT,0.2,1.1,6.9,2.4,12.5
+191,10,O,29268,E Olive Way & Summit Ave E,8,XNT,0.4,1.3,5.9,4.4,14.3
+191,10,O,29270,E John St & Broadway  E - Bay 1,9,XNT,1.9,1.1,6.8,21.4,11.8
+191,10,O,29277,E John St & 12th Ave E,10,XNT,0.1,0.5,6.4,0.6,5.5
+191,10,O,29273,E John St & 15th Ave E,11,XNT,0.1,2.7,3.8,1.2,29.9
+191,10,O,11570,15th Ave E & E Republican St,12,XNT,0.1,1.8,2,1.2,20.1
+191,10,O,11590,15th Ave E & E Roy St,13,XNT,0,0.5,1.6,0.1,5
+191,10,O,11600,15th Ave E & E Aloha St,14,XNT,0,0.2,1.3,0,2.6
+191,10,O,11610,15th Ave E & E Prospect St,15,XNT,0,0.2,1.2,0,1.7
+191,10,O,11620,15th Ave E & E Highland Dr,16,XNT,0,0.1,1,0,1.6
+191,10,O,11630,Grandview Pl E & E Galer St,17,XNT,0,0.2,0.8,0.1,1.9
+191,10,O,11640,Grandview Pl E & E Garfield St,18,XNT,0,0.1,0.8,0,0.8
+191,10,O,11370,15th Ave E & E Galer St,19,XNT,0.1,0.8,0.1,1,8.7

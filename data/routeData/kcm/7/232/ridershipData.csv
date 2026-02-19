@@ -1,0 +1,489 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+232,7,I,31137,S Henderson St & Rainier Ave S,14,AM,1.5,0,1.5,34.6,0.1
+232,7,I,31136,S Henderson St & 53rd Ave S,15,AM,0.6,0.2,2,13,3.6
+232,7,I,30122,Seward Park Ave S & S Fisher Pl,16,AM,0.8,0,2.6,17.9,0.2
+232,7,I,8050,Rainier Ave S & Seward Park Ave S,17,AM,1.1,0,3.6,24.3,0.4
+232,7,I,8070,Rainier Ave S & 52nd Ave S,18,AM,0.9,0,4.4,20.4,0.7
+232,7,I,8080,Rainier Ave S & S Fisher Pl,19,AM,1.5,0.1,5.8,33.6,2.3
+232,7,I,8090,Rainier Ave S & S Henderson St,20,AM,1,0.2,6.6,22.2,3.6
+232,7,I,8100,Rainier Ave S & Cloverdale Pl S,21,AM,0.4,0,7,10.1,1.1
+232,7,I,8110,Rainier Ave S & S Rose St,22,AM,3.8,0.1,10.7,82.5,2.9
+232,7,I,8140,Rainier Ave S & S Holden St,23,AM,1.4,0.1,11.9,29.8,2.6
+232,7,I,8160,Rainier Ave S & S Othello St,24,AM,1.2,0.5,12.6,25.5,10.2
+232,7,I,8175,Rainier Ave S & S Frontenac St,25,AM,1.1,0,13.6,24.2,1
+232,7,I,8190,Rainier Ave S & S Holly St,26,AM,1.4,0.2,14.9,31.8,3.3
+232,7,I,8210,Rainier Ave S & S Graham St,27,AM,1.8,0.5,16.3,40.4,9.9
+232,7,I,8231,Rainier Ave S & S Kenny St,28,AM,0.9,0.2,17.1,18.7,3.2
+232,7,I,8250,Rainier Ave S & S Orcas St,29,AM,1.1,0.1,18.1,23.5,1.8
+232,7,I,8270,Rainier Ave S & S Brandon St,30,AM,0.9,0.3,18.8,20.3,5.6
+232,7,I,8285,Rainier Ave S & 39th Ave S,31,AM,0.5,0.2,19.1,11.5,3.6
+232,7,I,8300,Rainier Ave S & S Edmunds St,32,AM,1.2,0.6,19.7,25.7,12.4
+232,7,I,8310,Rainier Ave S & S Alaska St,33,AM,0.4,0.3,19.9,9.6,6
+232,7,I,8330,Rainier Ave S & S Genesee St,34,AM,1.3,0.6,20.6,28.6,12.7
+232,7,I,8350,Rainier Ave S & S Andover St,35,AM,1.2,0.5,21.3,26.7,11.9
+232,7,I,8360,Rainier Ave S & 33rd Ave S,36,AM,3.1,0.1,24.2,68.6,3.2
+232,7,I,8380,Rainier Ave S & S Walden St,37,AM,0.9,0.6,24.5,20.4,13.3
+232,7,I,8400,Rainier Ave S & S Mount Baker Blvd,38,AM,0.3,1.1,24.3,6.8,22.7
+232,7,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,39,AM,1.4,4,21.8,30.4,83.9
+232,7,I,8429,Rainier Ave S & S Bayview St,40,AM,0.5,0.6,21.7,11.4,12.1
+232,7,I,8440,Rainier Ave S & S Walker St,41,AM,0.8,1,21.5,17.1,21.8
+232,7,I,8450,Rainier Ave S & S Plum St,42,AM,1.1,0.3,22.5,21.3,6
+232,7,I,8460,Rainier Ave S & S Grand St,43,AM,0.9,0.1,23.3,18.1,2.3
+232,7,I,8485,Rainier Ave S & I-90,44,AM,1,0.1,24.3,20.7,1.4
+232,7,I,8494,Rainier Ave S & S Charles St,45,AM,0.9,0.9,24.3,17.9,17.8
+232,7,I,8510,Rainier Ave S & S Dearborn St,46,AM,1,1.4,23.8,19.9,28.7
+232,7,I,8530,S Jackson St & Boren Ave S,47,AM,1.2,2.2,23.2,23.5,42
+232,7,I,3600,S Jackson St & 12th Ave S,48,AM,2,1.7,23.5,37.9,31.8
+232,7,I,1500,S Jackson St & 8th Ave S,49,AM,0.4,0.3,24.2,6.1,5.1
+232,7,I,1510,S Jackson St & Maynard Ave S,50,AM,0.8,1,24,12.1,15.2
+232,7,I,1530,S Jackson St & 5th Ave S,51,AM,1.3,5.2,20.1,20.2,78.3
+232,7,I,1610,Prefontaine Pl S & Yesler Way,52,AM,0.4,3.3,17.3,6,49.2
+232,7,I,538,3rd Ave & Columbia St,53,AM,0.2,3.6,14.1,3,50.4
+232,7,I,558,3rd Ave & Seneca St,54,AM,0,3.5,10.7,0.6,49.6
+232,7,I,575,3rd Ave & Pike St,55,AM,0.1,7.1,3.8,2,98.8
+232,7,I,98105,Virginia St & 4th Ave,56,AM,0.6,4.6,0,7.6,59.6
+232,7,O,880,Virginia St & 6th Ave,1,AM,0.4,0,0.5,6,0
+232,7,O,430,3rd Ave & Pine St,2,AM,2.1,0.2,2.4,33.2,2.4
+232,7,O,1085,Pine St & 9th Ave,3,AM,0.2,0,6.1,0.6,0
+232,7,O,1110,Pine St & 5th Ave,4,AM,0.2,2.8,3.6,0.6,8.5
+232,7,O,450,3rd Ave & Union St,5,AM,1.8,0.4,4.1,34.5,7.1
+232,7,O,480,3rd Ave & Marion St,6,AM,1.8,0.3,5.5,32.9,4.8
+232,7,O,500,3rd Ave & James St,7,AM,0.5,0.2,5.8,8.9,3.6
+232,7,O,515,3rd Ave S & S Main St,8,AM,2.2,0.4,7.5,39.2,7.2
+232,7,O,1471,S Jackson St & 5th Ave S,9,AM,5.6,0.7,12.4,100.1,12.6
+232,7,O,1480,S Jackson St & Maynard Ave S,10,AM,0.9,0.3,8.3,26.8,8.3
+232,7,O,1490,S Jackson St & 8th Ave S,11,AM,0.3,0.2,7.9,7.1,6.2
+232,7,O,8541,S Jackson St & 12th Ave S,12,AM,1,1.4,7.5,28.8,40.2
+232,7,O,8550,Rainier Ave S & S King St,13,AM,0.9,1.2,7.2,23.9,33.9
+232,7,O,8590,Rainier Ave S & S Charles St,14,AM,0.5,0.6,6.9,14.4,16.7
+232,7,O,8608,Rainier Ave S & I-90,15,AM,0.1,0.2,6.8,2.7,6.1
+232,7,O,8620,Rainier Ave S & S State St,16,AM,0.2,0.6,6.4,4.8,17
+232,7,O,8641,Rainier Ave S & S Walker St,17,AM,0.7,0.7,6.4,19.5,20.5
+232,7,O,8660,Rainier Ave S & S Bayview St,18,AM,0.3,0.8,5.6,7.7,22.1
+232,7,O,8681,Rainier Ave S & S Forest St - Bay 4,19,AM,1.2,0.6,6.2,34.6,18
+232,7,O,8690,Rainier Ave S & Martin Luther King Jr Way S,20,AM,0.1,0.1,6.3,3.8,2.4
+232,7,O,8710,Rainier Ave S & S Walden St,21,AM,0.3,0.3,6.2,8.3,9.2
+232,7,O,8730,Rainier Ave S & Letitia Ave S,22,AM,0.3,0.9,5.7,8.5,24.3
+232,7,O,8740,Rainier Ave S & S Andover St,23,AM,0.2,0.4,5.6,6.3,10.1
+232,7,O,8760,Rainier Ave S & S Genesee St,24,AM,0.3,0.6,5.3,9.4,17.6
+232,7,O,8780,Rainier Ave S & S Alaska St,25,AM,0.2,0.1,5.3,4.8,3.4
+232,7,O,8790,Rainier Ave S & S Edmunds St,26,AM,0.1,0.2,5.2,3.1,6.7
+232,7,O,8810,Rainier Ave S & S Dawson St,27,AM,0.1,0.1,5,2,3.8
+232,7,O,8820,Rainier Ave S & S Brandon St,28,AM,0.1,0.5,4.5,2.2,13.4
+232,7,O,8840,Rainier Ave S & S Orcas St,29,AM,0.1,0.3,4.4,3.9,6.8
+232,7,O,8850,Rainier Ave S & S Kenny St,30,AM,0.1,0.1,4.5,3.8,2.7
+232,7,O,8870,Rainier Ave S & S Graham St,31,AM,0.3,0.2,4.5,7.5,6.5
+232,7,O,8890,Rainier Ave S & S Holly St,32,AM,0.3,0.3,4.5,7.2,8.1
+232,7,O,8905,Rainier Ave S & S Frontenac St,33,AM,0.2,0.1,4.5,5.6,2.4
+232,7,O,8920,Rainier Ave S & S Othello St,34,AM,0.3,0.3,4.6,7.9,7.6
+232,7,O,8940,Rainier Ave S & S Holden St,35,AM,0.2,0.3,4.4,5.6,9.2
+232,7,O,8970,Rainier Ave S & S Rose St,36,AM,0.1,0.4,4.2,2.9,10.1
+232,7,O,8990,Rainier Ave S & S Cloverdale St,37,AM,0,0.3,3.9,0.2,7.1
+232,7,O,9000,Rainier Ave S & S Henderson St,38,AM,0.1,2.6,2.7,0.6,15.5
+232,7,O,9010,Rainier Ave S & 51st Ave S,39,AM,0.1,0.7,2.1,0.5,4
+232,7,O,9030,Rainier Ave S & 54th Ave S,40,AM,0,0.3,1.8,0,1.8
+232,7,O,9050,Waters Ave S & S Fletcher St,41,AM,0,0.1,1.7,0.1,0.8
+232,7,O,9060,Waters Ave S & S Carver St,42,AM,0,0,1.7,0.1,0.2
+232,7,O,9080,Waters Ave S & 61st Ave S,43,AM,0,0.1,1.6,0.2,0.5
+232,7,O,9090,Waters Ave S & 62nd Ave S,44,AM,0,0,1.6,0.1,0.1
+232,7,O,9110,62nd Ave S & S Cooper St,45,AM,0,0,1.6,0.2,0.1
+232,7,O,7950,62nd Ave S & S Prentice St,46,AM,0,0,1.6,0.2,0.1
+232,7,O,7960,S Prentice St & 64th Ave S,47,AM,0,0.1,1.6,0.2,0.3
+232,7,O,7970,64th Ave S & S Ryan St,48,AM,0,0,1.6,0.2,0.1
+232,7,O,7980,64th Ave S & S Cooper St,49,AM,0,0,1.6,0,0
+232,7,O,8000,Waters Ave S & S Norfolk St,50,AM,0.2,0,1.8,1.1,0.1
+232,7,O,8010,Waters Ave S & S Pilgrim St,51,AM,0.1,0,1.9,0.5,0
+232,7,O,8030,Waters Ave S & S Carver St,52,AM,0.1,0,1.9,0.4,0
+232,7,O,8040,57th Ave S & Waters Ave S,53,AM,0,0,1.9,0,0.1
+232,7,O,8050,Rainier Ave S & Seward Park Ave S,54,AM,0.2,0.1,2,0.9,0.6
+232,7,O,8070,Rainier Ave S & 52nd Ave S,55,AM,0.1,0.1,2,0.7,0.6
+232,7,O,8080,Rainier Ave S & S Fisher Pl,56,AM,0.1,0.3,1.8,0.4,1.3
+232,7,O,8090,Rainier Ave S & S Henderson St,57,AM,0,0.3,1.5,0.1,1.3
+232,7,O,31137,S Henderson St & Rainier Ave S,58,AM,0,3.2,0,0,82.9
+232,7,I,31137,S Henderson St & Rainier Ave S,14,MID,2.1,0,2.1,101.9,0
+232,7,I,31136,S Henderson St & 53rd Ave S,15,MID,1.1,0,3.2,52.3,1.7
+232,7,I,30122,Seward Park Ave S & S Fisher Pl,16,MID,0.4,0,3.3,19.4,2.2
+232,7,I,8050,Rainier Ave S & Seward Park Ave S,17,MID,0.6,0.2,3.6,27.4,7.7
+232,7,I,8070,Rainier Ave S & 52nd Ave S,18,MID,0.8,0.3,4.1,39,15
+232,7,I,8080,Rainier Ave S & S Fisher Pl,19,MID,1.7,0.1,5.6,83.5,6.9
+232,7,I,8090,Rainier Ave S & S Henderson St,20,MID,2.8,0.2,8.2,135,11
+232,7,I,8100,Rainier Ave S & Cloverdale Pl S,21,MID,0.4,0.1,8.5,19.5,6.6
+232,7,I,8110,Rainier Ave S & S Rose St,22,MID,1.8,0.6,9.6,89.3,29.9
+232,7,I,8140,Rainier Ave S & S Holden St,23,MID,1.1,0.4,10.3,54,19.4
+232,7,I,8160,Rainier Ave S & S Othello St,24,MID,0.9,0.6,10.7,44.7,27.2
+232,7,I,8175,Rainier Ave S & S Frontenac St,25,MID,0.6,0.2,11.1,29.9,8.8
+232,7,I,8190,Rainier Ave S & S Holly St,26,MID,1.2,0.5,11.8,58.3,25.6
+232,7,I,8210,Rainier Ave S & S Graham St,27,MID,1,0.5,12.2,47.8,25.8
+232,7,I,8231,Rainier Ave S & S Kenny St,28,MID,0.4,0.3,12.4,20.9,15
+232,7,I,8250,Rainier Ave S & S Orcas St,29,MID,0.8,0.3,12.8,37.2,15.6
+232,7,I,8270,Rainier Ave S & S Brandon St,30,MID,0.7,0.3,13.3,34.4,12.8
+232,7,I,8285,Rainier Ave S & 39th Ave S,31,MID,0.5,0.4,13.4,22.3,17.8
+232,7,I,8300,Rainier Ave S & S Edmunds St,32,MID,1,0.6,13.8,49,31
+232,7,I,8310,Rainier Ave S & S Alaska St,33,MID,0.5,0.3,14,25.6,15.9
+232,7,I,8330,Rainier Ave S & S Genesee St,34,MID,1.5,0.7,14.8,72.1,32.1
+232,7,I,8350,Rainier Ave S & S Andover St,35,MID,2.2,1.4,15.7,107.5,67.1
+232,7,I,8360,Rainier Ave S & 33rd Ave S,36,MID,1.9,0.5,17.1,92.1,22.9
+232,7,I,8380,Rainier Ave S & S Walden St,37,MID,0.9,0.7,17.3,43.5,33.7
+232,7,I,8400,Rainier Ave S & S Mount Baker Blvd,38,MID,0.9,1.4,16.7,42.8,69.2
+232,7,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,39,MID,1.3,3.1,14.9,63.5,149.1
+232,7,I,8429,Rainier Ave S & S Bayview St,40,MID,1.4,1.3,15,67.5,61.4
+232,7,I,8440,Rainier Ave S & S Walker St,41,MID,1,0.8,15.2,49.6,37.2
+232,7,I,8450,Rainier Ave S & S Plum St,42,MID,1.2,0.5,16,59.3,23.2
+232,7,I,8460,Rainier Ave S & S Grand St,43,MID,0.7,0.2,16.5,32.7,9.9
+232,7,I,8485,Rainier Ave S & I-90,44,MID,0.7,0.2,16.9,33.2,10.1
+232,7,I,8494,Rainier Ave S & S Charles St,45,MID,0.9,0.8,17,42,36
+232,7,I,8510,Rainier Ave S & S Dearborn St,46,MID,2.2,1,18.2,107.8,48.5
+232,7,I,8530,S Jackson St & Boren Ave S,47,MID,1.1,2.1,17.2,51.8,101.1
+232,7,I,3600,S Jackson St & 12th Ave S,48,MID,2.9,2.6,17.6,143.2,125.7
+232,7,I,1500,S Jackson St & 8th Ave S,49,MID,0.7,1,17.2,32.7,49.7
+232,7,I,1510,S Jackson St & Maynard Ave S,50,MID,1,2.2,15.9,48.3,110
+232,7,I,1530,S Jackson St & 5th Ave S,51,MID,2,4.4,13.6,98.2,211.4
+232,7,I,1610,Prefontaine Pl S & Yesler Way,52,MID,0.5,2.3,11.9,23.2,108.6
+232,7,I,538,3rd Ave & Columbia St,53,MID,0.3,2,10.2,15.6,98.8
+232,7,I,558,3rd Ave & Seneca St,54,MID,0.1,1.8,8.6,6.2,85.6
+232,7,I,575,3rd Ave & Pike St,55,MID,0.2,7,1.8,10.8,335.7
+232,7,I,98105,Virginia St & 4th Ave,56,MID,0.8,2.8,0,40.2,132
+232,7,O,880,Virginia St & 6th Ave,1,MID,0.6,0,0.9,30.4,0.4
+232,7,O,430,3rd Ave & Pine St,2,MID,3.9,0.1,4.6,181.5,5.4
+232,7,O,450,3rd Ave & Union St,5,MID,4,0.2,8.4,184.3,7.8
+232,7,O,480,3rd Ave & Marion St,6,MID,2.1,0.4,10,96.9,17.9
+232,7,O,500,3rd Ave & James St,7,MID,1.1,0.6,10.5,51.6,26.6
+232,7,O,515,3rd Ave S & S Main St,8,MID,2.3,0.8,12,105.1,35.5
+232,7,O,1471,S Jackson St & 5th Ave S,9,MID,5.4,1.8,15.6,250.6,81.4
+232,7,O,1480,S Jackson St & Maynard Ave S,10,MID,2,1.3,15,98.6,65
+232,7,O,1490,S Jackson St & 8th Ave S,11,MID,0.7,0.7,15,33.8,36.4
+232,7,O,8541,S Jackson St & 12th Ave S,12,MID,2.5,3.9,13.5,126.2,197
+232,7,O,8550,Rainier Ave S & S King St,13,MID,1.7,1.6,13.6,84.2,80.1
+232,7,O,8590,Rainier Ave S & S Charles St,14,MID,1.2,0.9,13.9,62.3,47.2
+232,7,O,8608,Rainier Ave S & I-90,15,MID,0.3,0.5,13.5,15.4,26.3
+232,7,O,8620,Rainier Ave S & S State St,16,MID,0.4,1.1,12.8,17.6,52.8
+232,7,O,8641,Rainier Ave S & S Walker St,17,MID,1.3,1,13.1,64.3,50.1
+232,7,O,8660,Rainier Ave S & S Bayview St,18,MID,1.1,1.5,12.7,56.2,75.7
+232,7,O,8681,Rainier Ave S & S Forest St - Bay 4,19,MID,2.7,1.5,13.8,133.1,75
+232,7,O,8690,Rainier Ave S & Martin Luther King Jr Way S,20,MID,0.7,0.5,14,34.4,23.1
+232,7,O,8710,Rainier Ave S & S Walden St,21,MID,0.7,0.8,13.9,34.5,40.1
+232,7,O,8730,Rainier Ave S & Letitia Ave S,22,MID,0.6,2.1,12.4,28.3,103.8
+232,7,O,8740,Rainier Ave S & S Andover St,23,MID,1.2,1.2,12.4,60.6,59.7
+232,7,O,8760,Rainier Ave S & S Genesee St,24,MID,0.7,1.3,11.8,32.6,63.3
+232,7,O,8780,Rainier Ave S & S Alaska St,25,MID,0.4,0.5,11.6,17.6,23.1
+232,7,O,8790,Rainier Ave S & S Edmunds St,26,MID,0.6,1,11.2,27.9,49.9
+232,7,O,8810,Rainier Ave S & S Dawson St,27,MID,0.3,0.4,11.1,14.8,19.4
+232,7,O,8820,Rainier Ave S & S Brandon St,28,MID,0.3,0.6,10.6,12.4,28.9
+232,7,O,8840,Rainier Ave S & S Orcas St,29,MID,0.3,0.9,10,15.3,43.7
+232,7,O,8850,Rainier Ave S & S Kenny St,30,MID,0.2,0.3,9.9,9.3,14.2
+232,7,O,8870,Rainier Ave S & S Graham St,31,MID,0.5,0.7,9.7,24.8,35.5
+232,7,O,8890,Rainier Ave S & S Holly St,32,MID,0.6,0.9,9.5,30.9,41.7
+232,7,O,8905,Rainier Ave S & S Frontenac St,33,MID,0.2,0.3,9.4,10.3,16.3
+232,7,O,8920,Rainier Ave S & S Othello St,34,MID,0.6,0.8,9.2,28.8,36.9
+232,7,O,8940,Rainier Ave S & S Holden St,35,MID,0.4,0.8,8.8,18.3,37.3
+232,7,O,8970,Rainier Ave S & S Rose St,36,MID,0.3,1.2,8,15.2,58.1
+232,7,O,8990,Rainier Ave S & S Cloverdale St,37,MID,0,0.5,7.5,2.3,23.8
+232,7,O,9000,Rainier Ave S & S Henderson St,38,MID,0.4,3.8,5.4,4.7,45.7
+232,7,O,9010,Rainier Ave S & 51st Ave S,39,MID,0.3,1.5,4.2,3.5,17.7
+232,7,O,9030,Rainier Ave S & 54th Ave S,40,MID,0.1,0.6,3.6,0.7,7.6
+232,7,O,9050,Waters Ave S & S Fletcher St,41,MID,0,0.3,3.4,0.5,3.3
+232,7,O,9060,Waters Ave S & S Carver St,42,MID,0,0.1,3.3,0,1.2
+232,7,O,9080,Waters Ave S & 61st Ave S,43,MID,0,0.2,3.2,0.5,1.9
+232,7,O,9090,Waters Ave S & 62nd Ave S,44,MID,0,0.1,3.1,0.1,1.2
+232,7,O,9110,62nd Ave S & S Cooper St,45,MID,0,0.1,3,0.3,1.5
+232,7,O,7950,62nd Ave S & S Prentice St,46,MID,0,0.2,2.9,0.4,1.7
+232,7,O,7960,S Prentice St & 64th Ave S,47,MID,0.1,0.1,2.9,0.7,1.2
+232,7,O,7970,64th Ave S & S Ryan St,48,MID,0,0,2.9,0.2,0.4
+232,7,O,7980,64th Ave S & S Cooper St,49,MID,0,0,2.9,0.3,0.3
+232,7,O,8000,Waters Ave S & S Norfolk St,50,MID,0.1,0,2.9,0.9,0.1
+232,7,O,8010,Waters Ave S & S Pilgrim St,51,MID,0.1,0,3,1.2,0.1
+232,7,O,8030,Waters Ave S & S Carver St,52,MID,0.1,0,3.1,0.9,0
+232,7,O,8040,57th Ave S & Waters Ave S,53,MID,0,0,3.1,0.2,0.1
+232,7,O,8050,Rainier Ave S & Seward Park Ave S,54,MID,0.2,0.1,3.1,1.8,1.3
+232,7,O,8070,Rainier Ave S & 52nd Ave S,55,MID,0.2,0.3,3,2.3,3.8
+232,7,O,8080,Rainier Ave S & S Fisher Pl,56,MID,0.1,0.2,3,1.3,2.2
+232,7,O,8090,Rainier Ave S & S Henderson St,57,MID,0.1,0.3,2.8,1.2,3.7
+232,7,O,31137,S Henderson St & Rainier Ave S,58,MID,0,6,0,0,289.4
+232,7,I,31137,S Henderson St & Rainier Ave S,14,PM,2.1,0,2.1,66.2,0
+232,7,I,31136,S Henderson St & 53rd Ave S,15,PM,0.8,0,2.8,24.4,1.2
+232,7,I,30122,Seward Park Ave S & S Fisher Pl,16,PM,0.2,0,2.9,6.2,1.3
+232,7,I,8050,Rainier Ave S & Seward Park Ave S,17,PM,0.4,0.1,3.2,14,2.8
+232,7,I,8070,Rainier Ave S & 52nd Ave S,18,PM,0.7,0.1,3.7,23,3.6
+232,7,I,8080,Rainier Ave S & S Fisher Pl,19,PM,1.8,0.1,5.3,57.4,4.1
+232,7,I,8090,Rainier Ave S & S Henderson St,20,PM,2.6,0.2,7.8,87.4,7.1
+232,7,I,8100,Rainier Ave S & Cloverdale Pl S,21,PM,0.5,0.1,8.1,15.2,4.4
+232,7,I,8110,Rainier Ave S & S Rose St,22,PM,1.5,0.7,8.9,49.4,24.4
+232,7,I,8140,Rainier Ave S & S Holden St,23,PM,0.8,0.5,9.3,24.7,15.8
+232,7,I,8160,Rainier Ave S & S Othello St,24,PM,0.9,0.7,9.4,27.4,23
+232,7,I,8175,Rainier Ave S & S Frontenac St,25,PM,0.4,0.3,9.5,11.3,9.7
+232,7,I,8190,Rainier Ave S & S Holly St,26,PM,0.7,0.5,9.8,24.2,16.3
+232,7,I,8210,Rainier Ave S & S Graham St,27,PM,0.8,0.6,10,26.9,21.4
+232,7,I,8231,Rainier Ave S & S Kenny St,28,PM,0.4,0.4,10.1,12.6,11.3
+232,7,I,8250,Rainier Ave S & S Orcas St,29,PM,0.8,0.4,10.5,25.6,12.1
+232,7,I,8270,Rainier Ave S & S Brandon St,30,PM,0.7,0.2,10.9,20.8,7.3
+232,7,I,8285,Rainier Ave S & 39th Ave S,31,PM,0.5,0.4,11,16.4,11.9
+232,7,I,8300,Rainier Ave S & S Edmunds St,32,PM,1.1,0.7,11.4,35.1,22.4
+232,7,I,8310,Rainier Ave S & S Alaska St,33,PM,0.6,0.5,11.5,17.7,15.8
+232,7,I,8330,Rainier Ave S & S Genesee St,34,PM,1.5,0.7,12.3,47.4,21.6
+232,7,I,8350,Rainier Ave S & S Andover St,35,PM,2.3,1.4,13.2,76.7,46.8
+232,7,I,8360,Rainier Ave S & 33rd Ave S,36,PM,1.5,0.7,14,48.9,22.4
+232,7,I,8380,Rainier Ave S & S Walden St,37,PM,0.8,0.6,14.4,25.2,19.8
+232,7,I,8400,Rainier Ave S & S Mount Baker Blvd,38,PM,0.6,1.3,13.7,20,41.3
+232,7,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,39,PM,1.1,3.1,11.9,35.8,100.8
+232,7,I,8429,Rainier Ave S & S Bayview St,40,PM,1.3,0.9,12.2,41.3,30.3
+232,7,I,8440,Rainier Ave S & S Walker St,41,PM,0.9,0.8,12.4,30.6,25.1
+232,7,I,8450,Rainier Ave S & S Plum St,42,PM,0.9,0.4,12.9,29.2,12.7
+232,7,I,8460,Rainier Ave S & S Grand St,43,PM,0.4,0.2,13.1,12.6,7.5
+232,7,I,8485,Rainier Ave S & I-90,44,PM,0.4,0.2,13.8,13.9,5.3
+232,7,I,8494,Rainier Ave S & S Charles St,45,PM,1,0.8,14.4,33.1,26.3
+232,7,I,8510,Rainier Ave S & S Dearborn St,46,PM,2,0.8,15.8,63.2,24
+232,7,I,8530,S Jackson St & Boren Ave S,47,PM,0.9,2.1,14.7,27.8,64.3
+232,7,I,3600,S Jackson St & 12th Ave S,48,PM,1.9,2.2,14.3,57.4,68.1
+232,7,I,1500,S Jackson St & 8th Ave S,49,PM,0.4,0.7,14.3,12.1,19.7
+232,7,I,1510,S Jackson St & Maynard Ave S,50,PM,0.6,1.6,14.6,14,39.5
+232,7,I,1530,S Jackson St & 5th Ave S,51,PM,1.7,4.7,11.6,45,121.7
+232,7,I,1610,Prefontaine Pl S & Yesler Way,52,PM,0.5,1.9,10.1,11.9,50.3
+232,7,I,538,3rd Ave & Columbia St,53,PM,0.3,1.7,8.7,8,45
+232,7,I,558,3rd Ave & Seneca St,54,PM,0.1,1.4,7.5,2.5,37.6
+232,7,I,575,3rd Ave & Pike St,55,PM,0.2,6.4,1.4,5.8,171.7
+232,7,I,98105,Virginia St & 4th Ave,56,PM,1.1,2.7,0,26.7,63.7
+232,7,I,844,5th Ave S & S Weller St,57,PM,0.5,3.9,0,1,7.7
+232,7,O,880,Virginia St & 6th Ave,1,PM,1.4,0,1.6,36.3,0
+232,7,O,430,3rd Ave & Pine St,2,PM,6.3,0.2,7.6,162.8,4.3
+232,7,O,1085,Pine St & 9th Ave,3,PM,0.4,0,5.7,0.7,0
+232,7,O,1110,Pine St & 5th Ave,4,PM,0.6,2.8,3.6,1.1,5.5
+232,7,O,450,3rd Ave & Union St,5,PM,6.3,0.3,13.4,177.7,8.2
+232,7,O,480,3rd Ave & Marion St,6,PM,3.5,0.3,16.6,97.9,9.5
+232,7,O,500,3rd Ave & James St,7,PM,1.1,0.5,17.2,31.3,13.6
+232,7,O,515,3rd Ave S & S Main St,8,PM,2.1,1.2,18.1,61.3,35.1
+232,7,O,1471,S Jackson St & 5th Ave S,9,PM,6,1.9,22.1,172.7,54.5
+232,7,O,1480,S Jackson St & Maynard Ave S,10,PM,1.7,1.3,21.8,49.7,38.8
+232,7,O,1490,S Jackson St & 8th Ave S,11,PM,0.5,0.7,21.6,16.2,21.1
+232,7,O,8541,S Jackson St & 12th Ave S,12,PM,3.1,4.4,20.4,92.7,130.5
+232,7,O,8550,Rainier Ave S & S King St,13,PM,2.3,1.9,20.8,68.6,58.1
+232,7,O,8590,Rainier Ave S & S Charles St,14,PM,1.7,1.5,21.2,50.2,43.9
+232,7,O,8608,Rainier Ave S & I-90,15,PM,0.2,0.8,20.7,6.8,24.6
+232,7,O,8620,Rainier Ave S & S State St,16,PM,0.4,1.2,19.8,11.3,37.2
+232,7,O,8641,Rainier Ave S & S Walker St,17,PM,2,1.2,20.7,60.4,34.7
+232,7,O,8660,Rainier Ave S & S Bayview St,18,PM,1.4,1.6,20.6,41.7,46.6
+232,7,O,8681,Rainier Ave S & S Forest St - Bay 4,19,PM,4.5,2,23.1,135.9,59.9
+232,7,O,8690,Rainier Ave S & Martin Luther King Jr Way S,20,PM,1,0.5,23.5,28.7,15.9
+232,7,O,8710,Rainier Ave S & S Walden St,21,PM,0.9,1.3,23.1,25.9,39.4
+232,7,O,8730,Rainier Ave S & Letitia Ave S,22,PM,0.6,3.7,19.9,17.6,111.9
+232,7,O,8740,Rainier Ave S & S Andover St,23,PM,1.6,1.7,19.8,48.8,52.3
+232,7,O,8760,Rainier Ave S & S Genesee St,24,PM,0.8,1.7,18.7,25.6,53.5
+232,7,O,8780,Rainier Ave S & S Alaska St,25,PM,0.5,0.6,18.6,15.5,18.9
+232,7,O,8790,Rainier Ave S & S Edmunds St,26,PM,1,1.6,18.1,31,48.3
+232,7,O,8810,Rainier Ave S & S Dawson St,27,PM,0.4,0.8,17.7,12.1,22.5
+232,7,O,8820,Rainier Ave S & S Brandon St,28,PM,0.2,1,17,7,29.5
+232,7,O,8840,Rainier Ave S & S Orcas St,29,PM,0.4,1.8,15.6,10.9,56
+232,7,O,8850,Rainier Ave S & S Kenny St,30,PM,0.3,0.8,15,9.5,25.1
+232,7,O,8870,Rainier Ave S & S Graham St,31,PM,0.7,1.5,14.3,21.6,45.8
+232,7,O,8890,Rainier Ave S & S Holly St,32,PM,0.4,1.6,13.1,13.6,48.6
+232,7,O,8905,Rainier Ave S & S Frontenac St,33,PM,0.2,0.7,12.6,7,22.4
+232,7,O,8920,Rainier Ave S & S Othello St,34,PM,0.7,1.6,11.7,21.5,48.4
+232,7,O,8940,Rainier Ave S & S Holden St,35,PM,0.3,1.5,10.6,8.9,44.9
+232,7,O,8970,Rainier Ave S & S Rose St,36,PM,0.4,2.5,8.5,11.1,75.1
+232,7,O,8990,Rainier Ave S & S Cloverdale St,37,PM,0.1,0.6,7.9,1.5,17.3
+232,7,O,9000,Rainier Ave S & S Henderson St,38,PM,0.7,3.4,6.2,7.2,37.9
+232,7,O,9010,Rainier Ave S & 51st Ave S,39,PM,0.5,1.8,5,5.9,19.3
+232,7,O,9030,Rainier Ave S & 54th Ave S,40,PM,0.1,1.1,4,1.6,12.4
+232,7,O,9050,Waters Ave S & S Fletcher St,41,PM,0,0.3,3.8,0.2,3
+232,7,O,9060,Waters Ave S & S Carver St,42,PM,0,0.3,3.5,0.2,3.1
+232,7,O,9080,Waters Ave S & 61st Ave S,43,PM,0,0.2,3.3,0,2.2
+232,7,O,9090,Waters Ave S & 62nd Ave S,44,PM,0,0.1,3.2,0,1.7
+232,7,O,9110,62nd Ave S & S Cooper St,45,PM,0,0.4,2.8,0.1,4.7
+232,7,O,7950,62nd Ave S & S Prentice St,46,PM,0,0.2,2.6,0.2,2.4
+232,7,O,7960,S Prentice St & 64th Ave S,47,PM,0.1,0.2,2.5,0.6,2.2
+232,7,O,7970,64th Ave S & S Ryan St,48,PM,0,0,2.5,0.1,0.5
+232,7,O,7980,64th Ave S & S Cooper St,49,PM,0,0,2.4,0.2,0.5
+232,7,O,8000,Waters Ave S & S Norfolk St,50,PM,0.1,0.1,2.4,0.7,0.7
+232,7,O,8010,Waters Ave S & S Pilgrim St,51,PM,0.1,0,2.4,0.7,0
+232,7,O,8030,Waters Ave S & S Carver St,52,PM,0,0,2.5,0.5,0
+232,7,O,8040,57th Ave S & Waters Ave S,53,PM,0,0,2.5,0,0.2
+232,7,O,8050,Rainier Ave S & Seward Park Ave S,54,PM,0.1,0.1,2.5,1.2,1
+232,7,O,8070,Rainier Ave S & 52nd Ave S,55,PM,0.2,0.3,2.4,2.3,3.2
+232,7,O,8080,Rainier Ave S & S Fisher Pl,56,PM,0.1,0.2,2.5,1.4,1.9
+232,7,O,8090,Rainier Ave S & S Henderson St,57,PM,0.1,0.4,2.3,1,3.9
+232,7,O,31137,S Henderson St & Rainier Ave S,58,PM,0,5.6,0,0.2,172.1
+232,7,I,31137,S Henderson St & Rainier Ave S,14,XEV,2.1,0,2.1,33.2,0
+232,7,I,31136,S Henderson St & 53rd Ave S,15,XEV,0.4,0.1,2.5,5.9,1
+232,7,I,30122,Seward Park Ave S & S Fisher Pl,16,XEV,0.1,0,2.6,2.3,0.5
+232,7,I,8050,Rainier Ave S & Seward Park Ave S,17,XEV,0.4,0.1,2.8,6.2,1.2
+232,7,I,8070,Rainier Ave S & 52nd Ave S,18,XEV,0.6,0.1,3.3,9.2,1.6
+232,7,I,8080,Rainier Ave S & S Fisher Pl,19,XEV,1.5,0.1,4.7,23.8,1.6
+232,7,I,8090,Rainier Ave S & S Henderson St,20,XEV,2.4,0.2,6.9,37.8,2.7
+232,7,I,8100,Rainier Ave S & Cloverdale Pl S,21,XEV,0.4,0.1,7.1,6.1,2.2
+232,7,I,8110,Rainier Ave S & S Rose St,22,XEV,1.6,0.5,8.3,25.6,7.7
+232,7,I,8140,Rainier Ave S & S Holden St,23,XEV,0.7,0.4,8.4,11.3,6.4
+232,7,I,8160,Rainier Ave S & S Othello St,24,XEV,0.8,0.8,8.4,12.8,12.9
+232,7,I,8175,Rainier Ave S & S Frontenac St,25,XEV,0.4,0.3,8.6,6.7,5.2
+232,7,I,8190,Rainier Ave S & S Holly St,26,XEV,0.4,0.5,8.5,5.8,7.9
+232,7,I,8210,Rainier Ave S & S Graham St,27,XEV,0.5,0.6,8.5,8.5,8.8
+232,7,I,8231,Rainier Ave S & S Kenny St,28,XEV,0.3,0.4,8.4,5,6.7
+232,7,I,8250,Rainier Ave S & S Orcas St,29,XEV,0.4,0.3,8.5,6.5,4.3
+232,7,I,8270,Rainier Ave S & S Brandon St,30,XEV,0.3,0.2,8.6,4.3,2.7
+232,7,I,8285,Rainier Ave S & 39th Ave S,31,XEV,0.4,0.2,8.8,6.2,4.2
+232,7,I,8300,Rainier Ave S & S Edmunds St,32,XEV,0.7,0.4,9.1,11.5,6.5
+232,7,I,8310,Rainier Ave S & S Alaska St,33,XEV,0.3,0.3,9.1,5.5,4.5
+232,7,I,8330,Rainier Ave S & S Genesee St,34,XEV,1.1,0.5,9.7,18.2,8.5
+232,7,I,8350,Rainier Ave S & S Andover St,35,XEV,1.8,0.9,10.5,29.8,15.6
+232,7,I,8360,Rainier Ave S & 33rd Ave S,36,XEV,1.3,0.5,11.3,22.3,8.8
+232,7,I,8380,Rainier Ave S & S Walden St,37,XEV,0.5,0.5,11.1,8.9,8.8
+232,7,I,8400,Rainier Ave S & S Mount Baker Blvd,38,XEV,0.5,0.8,10.7,8.2,15.1
+232,7,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,39,XEV,1.1,2.3,9.5,20.3,41.6
+232,7,I,8429,Rainier Ave S & S Bayview St,40,XEV,1.3,0.6,10.1,21.6,9.6
+232,7,I,8440,Rainier Ave S & S Walker St,41,XEV,0.4,0.5,10,6,9.2
+232,7,I,8450,Rainier Ave S & S Plum St,42,XEV,0.5,0.5,10,9.1,9.1
+232,7,I,8460,Rainier Ave S & S Grand St,43,XEV,0.2,0.2,10,3.2,2.9
+232,7,I,8485,Rainier Ave S & I-90,44,XEV,0.2,0.1,9.8,4,2.5
+232,7,I,8494,Rainier Ave S & S Charles St,45,XEV,1.2,0.8,9.8,22.4,15.1
+232,7,I,8510,Rainier Ave S & S Dearborn St,46,XEV,1.1,0.4,10.5,21.6,7.5
+232,7,I,8530,S Jackson St & Boren Ave S,47,XEV,0.8,1.9,9.4,15.7,37.4
+232,7,I,3600,S Jackson St & 12th Ave S,48,XEV,0.6,1.9,8.2,12.1,37.8
+232,7,I,1500,S Jackson St & 8th Ave S,49,XEV,0.2,1.5,5.2,2.4,15
+232,7,I,1510,S Jackson St & Maynard Ave S,50,XEV,0.2,0.8,12.2,0.4,1.6
+232,7,I,1530,S Jackson St & 5th Ave S,51,XEV,0.9,3.4,9.8,1.8,6.7
+232,7,I,1610,Prefontaine Pl S & Yesler Way,52,XEV,0.4,1.9,8.3,0.7,3.8
+232,7,I,538,3rd Ave & Columbia St,53,XEV,0.3,1.9,6.6,0.5,3.7
+232,7,I,558,3rd Ave & Seneca St,54,XEV,0.1,1.6,5.1,0.2,3.2
+232,7,I,575,3rd Ave & Pike St,55,XEV,0.2,4,1.4,0.4,8
+232,7,I,98105,Virginia St & 4th Ave,56,XEV,0.6,1.8,0,0.6,1.8
+232,7,I,844,5th Ave S & S Weller St,57,XEV,0.3,3.7,0,2.3,33.7
+232,7,O,880,Virginia St & 6th Ave,1,XEV,0.5,0,0.8,0.9,0
+232,7,O,430,3rd Ave & Pine St,2,XEV,3.5,0.2,4.2,7,0.3
+232,7,O,1085,Pine St & 9th Ave,3,XEV,0.4,0,5.3,4.6,0
+232,7,O,1110,Pine St & 5th Ave,4,XEV,0.8,2,4.1,8.4,22.2
+232,7,O,450,3rd Ave & Union St,5,XEV,5.9,1.6,8.4,82.9,21.7
+232,7,O,480,3rd Ave & Marion St,6,XEV,1.9,0.5,9.8,26.1,6.5
+232,7,O,500,3rd Ave & James St,7,XEV,0.8,0.5,10.2,11.2,6.3
+232,7,O,515,3rd Ave S & S Main St,8,XEV,1.9,0.5,11.6,25.9,6.3
+232,7,O,1471,S Jackson St & 5th Ave S,9,XEV,6.6,1.5,16.7,85.7,19.8
+232,7,O,1480,S Jackson St & Maynard Ave S,10,XEV,1.2,0.7,17.2,15.1,9.2
+232,7,O,1490,S Jackson St & 8th Ave S,11,XEV,0.5,0.6,17.1,6.8,8.2
+232,7,O,8541,S Jackson St & 12th Ave S,12,XEV,2.7,4.5,15.3,38.2,62.3
+232,7,O,8550,Rainier Ave S & S King St,13,XEV,2.2,1.7,15.8,31,23.6
+232,7,O,8590,Rainier Ave S & S Charles St,14,XEV,2.1,1.5,16.3,30.9,22.1
+232,7,O,8608,Rainier Ave S & I-90,15,XEV,0.2,0.5,16,3.1,7.7
+232,7,O,8620,Rainier Ave S & S State St,16,XEV,0.3,1.1,15.2,4.3,16.8
+232,7,O,8641,Rainier Ave S & S Walker St,17,XEV,1.1,0.9,15.3,15.8,13.9
+232,7,O,8660,Rainier Ave S & S Bayview St,18,XEV,1.1,1.7,14.7,15.3,24.1
+232,7,O,8681,Rainier Ave S & S Forest St - Bay 4,19,XEV,3.7,1.7,16.8,52.2,23.1
+232,7,O,8690,Rainier Ave S & Martin Luther King Jr Way S,20,XEV,0.6,0.4,17,8.3,5
+232,7,O,8710,Rainier Ave S & S Walden St,21,XEV,0.6,1.1,16.5,8.1,15.4
+232,7,O,8730,Rainier Ave S & Letitia Ave S,22,XEV,0.4,3,13.9,6.1,42.3
+232,7,O,8740,Rainier Ave S & S Andover St,23,XEV,1.6,1.4,14.1,22.1,19.6
+232,7,O,8760,Rainier Ave S & S Genesee St,24,XEV,0.7,1.2,13.6,10.1,17.3
+232,7,O,8780,Rainier Ave S & S Alaska St,25,XEV,0.5,0.4,13.9,6.9,5.4
+232,7,O,8790,Rainier Ave S & S Edmunds St,26,XEV,0.8,0.7,14,11.5,10.8
+232,7,O,8810,Rainier Ave S & S Dawson St,27,XEV,0.4,0.5,13.9,6,7.5
+232,7,O,8820,Rainier Ave S & S Brandon St,28,XEV,0.2,0.7,13.4,2.6,10
+232,7,O,8840,Rainier Ave S & S Orcas St,29,XEV,0.3,1.1,12.6,4.5,15.9
+232,7,O,8850,Rainier Ave S & S Kenny St,30,XEV,0.2,0.4,12.4,3.6,6.5
+232,7,O,8870,Rainier Ave S & S Graham St,31,XEV,0.6,1.2,11.8,9.6,17.8
+232,7,O,8890,Rainier Ave S & S Holly St,32,XEV,0.2,1.3,10.8,3.2,18.6
+232,7,O,8905,Rainier Ave S & S Frontenac St,33,XEV,0.2,0.7,10.3,2.1,9.5
+232,7,O,8920,Rainier Ave S & S Othello St,34,XEV,0.6,1,9.9,8.9,14.5
+232,7,O,8940,Rainier Ave S & S Holden St,35,XEV,0.3,1,9.1,4,15
+232,7,O,8970,Rainier Ave S & S Rose St,36,XEV,0.2,2.2,7.2,3.4,32.3
+232,7,O,8990,Rainier Ave S & S Cloverdale St,37,XEV,0,0.5,6.8,0.4,7
+232,7,O,9000,Rainier Ave S & S Henderson St,38,XEV,0.4,2.2,5.1,2.1,13.4
+232,7,O,9010,Rainier Ave S & 51st Ave S,39,XEV,0.3,1.3,4.1,1.8,7.5
+232,7,O,9030,Rainier Ave S & 54th Ave S,40,XEV,0.1,0.8,3.5,0.7,4.8
+232,7,O,9050,Waters Ave S & S Fletcher St,41,XEV,0,0.2,3.2,0.1,1.3
+232,7,O,9060,Waters Ave S & S Carver St,42,XEV,0,0.2,3,0,1.3
+232,7,O,9080,Waters Ave S & 61st Ave S,43,XEV,0,0.2,2.9,0,1
+232,7,O,9090,Waters Ave S & 62nd Ave S,44,XEV,0,0.1,2.8,0,0.6
+232,7,O,9110,62nd Ave S & S Cooper St,45,XEV,0,0.2,2.7,0,1.1
+232,7,O,7950,62nd Ave S & S Prentice St,46,XEV,0,0.2,2.5,0.1,1.3
+232,7,O,7960,S Prentice St & 64th Ave S,47,XEV,0,0.2,2.4,0.3,1.1
+232,7,O,7970,64th Ave S & S Ryan St,48,XEV,0,0,2.4,0.1,0.2
+232,7,O,7980,64th Ave S & S Cooper St,49,XEV,0,0,2.3,0,0.1
+232,7,O,8000,Waters Ave S & S Norfolk St,50,XEV,0,0.1,2.3,0.3,0.4
+232,7,O,8010,Waters Ave S & S Pilgrim St,51,XEV,0,0,2.4,0.1,0
+232,7,O,8030,Waters Ave S & S Carver St,52,XEV,0,0,2.4,0,0
+232,7,O,8040,57th Ave S & Waters Ave S,53,XEV,0,0,2.4,0,0
+232,7,O,8050,Rainier Ave S & Seward Park Ave S,54,XEV,0.1,0.1,2.5,0.9,0.5
+232,7,O,8070,Rainier Ave S & 52nd Ave S,55,XEV,0.2,0.2,2.5,1.1,1.1
+232,7,O,8080,Rainier Ave S & S Fisher Pl,56,XEV,0.2,0.2,2.5,1.1,1.1
+232,7,O,8090,Rainier Ave S & S Henderson St,57,XEV,0.1,0.1,2.4,0.4,0.7
+232,7,O,31137,S Henderson St & Rainier Ave S,58,XEV,0,4.9,0.1,0.2,73.1
+232,7,I,31137,S Henderson St & Rainier Ave S,14,XNT,2.1,0,2.1,37.3,0
+232,7,I,31136,S Henderson St & 53rd Ave S,15,XNT,0.3,0.1,2.4,4.7,1
+232,7,I,30122,Seward Park Ave S & S Fisher Pl,16,XNT,0.2,0,2.4,3.5,0.6
+232,7,I,8050,Rainier Ave S & Seward Park Ave S,17,XNT,0.4,0,2.8,7.6,0.7
+232,7,I,8070,Rainier Ave S & 52nd Ave S,18,XNT,0.4,0,3.1,7.5,0.2
+232,7,I,8080,Rainier Ave S & S Fisher Pl,19,XNT,0.7,0,3.8,13.2,0.4
+232,7,I,8090,Rainier Ave S & S Henderson St,20,XNT,1.1,0.1,4.8,19.7,1.7
+232,7,I,8100,Rainier Ave S & Cloverdale Pl S,21,XNT,0.1,0,4.9,1.6,0.7
+232,7,I,8110,Rainier Ave S & S Rose St,22,XNT,0.6,0.3,5.2,11,4.5
+232,7,I,8140,Rainier Ave S & S Holden St,23,XNT,0.4,0.2,5.5,7.2,2.7
+232,7,I,8160,Rainier Ave S & S Othello St,24,XNT,0.4,0.2,5.7,8,3.6
+232,7,I,8175,Rainier Ave S & S Frontenac St,25,XNT,0.2,0.1,5.9,3.4,1.1
+232,7,I,8190,Rainier Ave S & S Holly St,26,XNT,0.2,0.1,6,4.5,1.8
+232,7,I,8210,Rainier Ave S & S Graham St,27,XNT,0.3,0.2,6.1,6.5,4.6
+232,7,I,8231,Rainier Ave S & S Kenny St,28,XNT,0.2,0.1,6.2,3.1,2.2
+232,7,I,8250,Rainier Ave S & S Orcas St,29,XNT,0.2,0,5.7,4.4,0.7
+232,7,I,8270,Rainier Ave S & S Brandon St,30,XNT,0.2,0.1,5.8,3,1.7
+232,7,I,8285,Rainier Ave S & 39th Ave S,31,XNT,0.2,0.1,5.9,4.2,0.9
+232,7,I,8300,Rainier Ave S & S Edmunds St,32,XNT,0.5,0.2,6.2,8.6,3.7
+232,7,I,8310,Rainier Ave S & S Alaska St,33,XNT,0.2,0.1,6.2,2.7,1.3
+232,7,I,8330,Rainier Ave S & S Genesee St,34,XNT,0.6,0.4,6.5,11.5,6.4
+232,7,I,8350,Rainier Ave S & S Andover St,35,XNT,0.6,0.4,6.8,11.6,6.8
+232,7,I,8360,Rainier Ave S & 33rd Ave S,36,XNT,0.8,0.3,7.3,14.5,4.8
+232,7,I,8380,Rainier Ave S & S Walden St,37,XNT,0.3,0.2,7.5,5.8,3.3
+232,7,I,8400,Rainier Ave S & S Mount Baker Blvd,38,XNT,0.3,0.4,7.4,4.8,7.4
+232,7,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,39,XNT,1.3,1.2,7.4,22.6,21.3
+232,7,I,8429,Rainier Ave S & S Bayview St,40,XNT,0.9,0.3,8.2,17.2,5.8
+232,7,I,8440,Rainier Ave S & S Walker St,41,XNT,0.3,0.3,8.2,6.2,5.7
+232,7,I,8450,Rainier Ave S & S Plum St,42,XNT,0.4,0.3,8.2,7.6,6.5
+232,7,I,8460,Rainier Ave S & S Grand St,43,XNT,0.2,0.1,8.3,3.2,2.8
+232,7,I,8485,Rainier Ave S & I-90,44,XNT,0.2,0.1,8.4,4,1.9
+232,7,I,8494,Rainier Ave S & S Charles St,45,XNT,0.5,0.4,8.5,10.1,7.7
+232,7,I,8510,Rainier Ave S & S Dearborn St,46,XNT,0.3,0.3,8.5,5.1,5.7
+232,7,I,8530,S Jackson St & Boren Ave S,47,XNT,0.5,1.1,7.9,9.9,21.6
+232,7,I,3600,S Jackson St & 12th Ave S,48,XNT,1,1.3,7.5,18.2,24.6
+232,7,I,1500,S Jackson St & 8th Ave S,49,XNT,0.4,0.3,8.5,3.5,2.9
+232,7,I,1510,S Jackson St & Maynard Ave S,50,XNT,0.2,0.4,8.3,2,4
+232,7,I,1530,S Jackson St & 5th Ave S,51,XNT,0.8,1.7,7.4,7.7,16.8
+232,7,I,1610,Prefontaine Pl S & Yesler Way,52,XNT,0.5,1.4,6.6,4.7,14.3
+232,7,I,538,3rd Ave & Columbia St,53,XNT,0.3,1.1,5.8,2.8,11.3
+232,7,I,558,3rd Ave & Seneca St,54,XNT,0.1,0.8,5.1,0.7,8.4
+232,7,I,575,3rd Ave & Pike St,55,XNT,0.9,5.6,0.3,9.3,56.3
+232,7,I,98105,Virginia St & 4th Ave,56,XNT,1.5,3.1,0,4.4,9.3
+232,7,O,880,Virginia St & 6th Ave,1,XNT,0.9,0,0.9,2.6,0
+232,7,O,430,3rd Ave & Pine St,2,XNT,3.3,0,4.1,9.9,0.1
+232,7,O,1085,Pine St & 9th Ave,3,XNT,0.2,0,6.3,2.2,0
+232,7,O,1110,Pine St & 5th Ave,4,XNT,0.6,1.4,5.4,5.4,13
+232,7,O,450,3rd Ave & Union St,5,XNT,7.3,1.2,11.1,87,14.9
+232,7,O,480,3rd Ave & Marion St,6,XNT,1.9,0.4,12.5,23,4.9
+232,7,O,500,3rd Ave & James St,7,XNT,0.5,0.4,12.7,6.1,4.7
+232,7,O,515,3rd Ave S & S Main St,8,XNT,1.8,0.6,13.8,21.2,6.9
+232,7,O,1471,S Jackson St & 5th Ave S,9,XNT,4.3,0.7,17.1,55.3,9.2
+232,7,O,1480,S Jackson St & Maynard Ave S,10,XNT,0.8,0.5,14.3,13.5,7.8
+232,7,O,1490,S Jackson St & 8th Ave S,11,XNT,0.2,0.3,14.1,3.9,5
+232,7,O,8541,S Jackson St & 12th Ave S,12,XNT,1.5,3.1,12.6,24.3,49
+232,7,O,8550,Rainier Ave S & S King St,13,XNT,1.1,0.8,12.9,17.7,13.2
+232,7,O,8590,Rainier Ave S & S Charles St,14,XNT,0.7,0.6,13.7,11,9.1
+232,7,O,8608,Rainier Ave S & I-90,15,XNT,0.1,0.3,13.5,1.3,4.6
+232,7,O,8620,Rainier Ave S & S State St,16,XNT,0.1,0.6,13,1.4,9.5
+232,7,O,8641,Rainier Ave S & S Walker St,17,XNT,0.6,1.1,12.5,9.7,16.8
+232,7,O,8660,Rainier Ave S & S Bayview St,18,XNT,0.4,0.8,12.3,6.5,12.7
+232,7,O,8681,Rainier Ave S & S Forest St - Bay 4,19,XNT,2.2,1.2,13.3,35.4,18.7
+232,7,O,8690,Rainier Ave S & Martin Luther King Jr Way S,20,XNT,0.2,0.3,13.2,2.9,4
+232,7,O,8710,Rainier Ave S & S Walden St,21,XNT,0.3,0.9,12.7,4.8,13.7
+232,7,O,8730,Rainier Ave S & Letitia Ave S,22,XNT,0.2,1.2,11.6,2.8,19.8
+232,7,O,8740,Rainier Ave S & S Andover St,23,XNT,0.3,0.6,11.3,4.6,9.9
+232,7,O,8760,Rainier Ave S & S Genesee St,24,XNT,0.4,1,10.7,6.5,15.3
+232,7,O,8780,Rainier Ave S & S Alaska St,25,XNT,0.1,0.2,10.7,2.3,2.9
+232,7,O,8790,Rainier Ave S & S Edmunds St,26,XNT,0.3,0.5,10.6,5.4,8
+232,7,O,8810,Rainier Ave S & S Dawson St,27,XNT,0.2,0.3,10.4,3.3,5
+232,7,O,8820,Rainier Ave S & S Brandon St,28,XNT,0,0.4,10.1,0.6,6.7
+232,7,O,8840,Rainier Ave S & S Orcas St,29,XNT,0.2,0.4,9.9,2.4,5.7
+232,7,O,8850,Rainier Ave S & S Kenny St,30,XNT,0.1,0.2,9.7,0.9,3.1
+232,7,O,8870,Rainier Ave S & S Graham St,31,XNT,0.2,0.8,9.1,2.8,12.3
+232,7,O,8890,Rainier Ave S & S Holly St,32,XNT,0.1,0.8,8.5,0.9,14.1
+232,7,O,8905,Rainier Ave S & S Frontenac St,33,XNT,0,0.6,7.9,0.6,10.6
+232,7,O,8920,Rainier Ave S & S Othello St,34,XNT,0.2,0.8,7.3,3.7,14.1
+232,7,O,8940,Rainier Ave S & S Holden St,35,XNT,0.1,0.7,6.7,1.1,11.7
+232,7,O,8970,Rainier Ave S & S Rose St,36,XNT,0.1,2.2,4.6,1.2,36.9
+232,7,O,8990,Rainier Ave S & S Cloverdale St,37,XNT,0,0.2,4.4,0.2,3.8
+232,7,O,8070,Rainier Ave S & 52nd Ave S,55,XNT,0.2,0.2,2.5,0.2,0.2
+232,7,O,8080,Rainier Ave S & S Fisher Pl,56,XNT,0.2,0,2.8,0.2,0
+232,7,O,8090,Rainier Ave S & S Henderson St,57,XNT,0,0.1,2.7,0,0.1
+232,7,O,31137,S Henderson St & Rainier Ave S,58,XNT,0,4.3,0,0.3,77.3

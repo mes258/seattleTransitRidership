@@ -1,0 +1,30 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+202,9,I,55583,Martin L King Jr Way S & S Henderson St,1,AM,0,0,0,0,0
+202,9,I,31134,S Henderson St & 48th Ave S,2,AM,0,0,0,0,0
+202,9,I,8100,Rainier Ave S & Cloverdale Pl S,3,AM,0,0,0,0,0
+202,9,I,8110,Rainier Ave S & S Rose St,4,AM,0.5,0,0.5,0.5,0
+202,9,I,8140,Rainier Ave S & S Holden St,5,AM,0,0,0.5,0,0
+202,9,I,8160,Rainier Ave S & S Othello St,6,AM,0,0,0.5,0,0
+202,9,I,8175,Rainier Ave S & S Frontenac St,7,AM,0,0,0.5,0,0
+202,9,I,8190,Rainier Ave S & S Holly St,8,AM,1.5,0,2,1.5,0
+202,9,I,8210,Rainier Ave S & S Graham St,9,AM,0.5,0,2.5,0.5,0
+202,9,I,8250,Rainier Ave S & S Orcas St,10,AM,0.5,0,3,0.5,0
+202,9,I,8300,Rainier Ave S & S Edmunds St,11,AM,0,0,3,0,0
+202,9,I,8330,Rainier Ave S & S Genesee St,12,AM,1,1,3,1,1
+202,9,I,8350,Rainier Ave S & S Andover St,13,AM,0,0.5,2.5,0,0.5
+202,9,I,8401,Rainier Ave S & Mount Baker Transit Center - Bay 1,14,AM,0,0.5,2,0,0.5
+202,9,I,8440,Rainier Ave S & S Walker St,15,AM,0,0,2,0,0
+202,9,I,8485,Rainier Ave S & I-90,16,AM,0,0,2,0,0
+202,9,I,8494,Rainier Ave S & S Charles St,17,AM,0,0.5,1.5,0,0.5
+202,9,I,8510,Rainier Ave S & S Dearborn St,18,AM,0,0.5,1,0,0.5
+202,9,I,41900,12th Ave S & S Jackson St,19,AM,0.5,1,0.5,0.5,1
+202,9,I,41902,Boren Ave & E Yesler Way,20,AM,0,0,0.5,0,0
+202,9,I,41904,Broadway & Terrace St,21,AM,0,0,0.5,0,0
+202,9,I,41908,Broadway & Marion,22,AM,0,0,0.5,0,0
+202,9,I,41965,Broadway & E Union St,23,AM,0,0.5,0,0,0.5
+202,9,I,41970,Broadway & Pike-Pine,24,AM,0,0,0,0,0
+202,9,I,11180,Broadway  E & E John St - Bay 3,25,AM,0,0,0,0,0
+202,9,I,11190,Broadway  E & E Harrison St,26,AM,0,0,0,0,0
+202,9,I,11200,Broadway  E & E Mercer St,27,AM,0,0,0,0,0
+202,9,I,11011,Broadway  E & E Roy St,28,AM,0,0,0,0,0
+202,9,I,11012,E Aloha St & Broadway  E,29,AM,0,0,0,0,0

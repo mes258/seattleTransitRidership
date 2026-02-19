@@ -1,0 +1,585 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+193,5,I,6652,NW 90th St & 1st Ave NW,1,AM,2.4,0,2.4,31.7,0.1
+193,5,I,5492,Shoreline Community College,1,AM,1.1,0,1.1,20.8,0
+193,5,I,5502,N Innis Arden Way & Greenwood Ave N,2,AM,0.3,0,1.4,5.2,0.2
+193,5,I,6653,3rd Ave NW & NW 89th St,2,AM,1.5,0.1,3.7,19.1,0.7
+193,5,I,35670,N 85th St & 1st Ave NW,3,AM,2.2,0.1,5.8,29.1,0.8
+193,5,I,75110,Dayton Ave N & N 160th St,3,AM,0.3,0,1.7,6.6,0.1
+193,5,I,5790,Greenwood Ave N & N 85th St,4,AM,5.1,0.1,10.7,65.7,1.8
+193,5,I,75120,Dayton Ave N & N 155th St,4,AM,0.2,0,1.9,3.9,0.1
+193,5,I,5810,Greenwood Ave N & N 80th St,5,AM,3.7,0.1,14.3,48.6,0.8
+193,5,I,75140,Dayton Ave N & N 150th St,5,AM,0.1,0,2,2.6,0
+193,5,I,5550,Greenwood Ave N & N 145th St,6,AM,0.9,0,3,16.6,0.7
+193,5,I,5820,Greenwood Ave N & N 78th St,6,AM,1.9,0,16.2,25.3,0.5
+193,5,I,5830,Greenwood Ave N & N 76th St,7,AM,2,0,18.2,26.6,0.5
+193,5,I,5560,Greenwood Ave N & N 143rd St,7,AM,0,0,3,0,0
+193,5,I,5840,Greenwood Ave N & N 74th St,8,AM,3.3,0.1,21.4,42.8,1.9
+193,5,I,5580,Greenwood Ave N & N 137th St,8,AM,0.9,0,3.8,15.7,0.2
+193,5,I,5860,Greenwood Ave N & N 70th St,9,AM,2.6,0.1,23.9,34.3,1.7
+193,5,I,5590,Greenwood Ave N & N 134th St,9,AM,1.5,0,5.2,26.3,0.7
+193,5,I,5875,Phinney Ave N & N 67th St,10,AM,2.9,0.1,26.7,37.8,1.1
+193,5,I,5610,Greenwood Ave N & N 130th St,10,AM,1.6,0,6.7,27.9,0.8
+193,5,I,5880,Phinney Ave N & N 65th St,11,AM,4.2,0.1,30.7,54.3,1.7
+193,5,I,5630,Greenwood Ave N & N 125th St,11,AM,1.3,0.1,7.9,22.5,1.7
+193,5,I,5930,Phinney Ave N & N 55th St,12,AM,3.6,0.2,34.1,46.7,2.4
+193,5,I,5640,Greenwood Ave N & N 122nd St,12,AM,0.2,0,8.1,3.9,0
+193,5,I,5660,Greenwood Ave N & N 117th St,13,AM,1.7,0.1,9.7,29.9,1.7
+193,5,I,29225,N 46th St & Phinney Ave N,13,AM,9.6,1.8,42,125.3,23.7
+193,5,I,5670,Greenwood Ave N & N 115th St,14,AM,0.9,0,10.6,16.5,0.3
+193,5,I,7430,Wall St & 5th Ave,14,AM,1.5,11.5,32.8,18.5,137.7
+193,5,I,5690,Greenwood Ave N & N 110th St,15,AM,2.2,0.2,12.6,40.3,3.8
+193,5,I,400,3rd Ave & Bell St,15,AM,0.7,1.3,32.2,8.9,15.2
+193,5,I,420,3rd Ave & Virginia St,16,AM,0.4,4.4,28.3,5.1,52.8
+193,5,I,5710,Greenwood Ave N & Holman Rd N,16,AM,3.2,0.7,15,54,12
+193,5,I,431,3rd Ave & Pike St,17,AM,0.5,9.6,19.7,5.3,105.7
+193,5,I,5730,Greenwood Ave N & N 100th St,17,AM,0.7,0,15.6,11.1,0.7
+193,5,I,468,3rd Ave & Seneca St,18,AM,0.3,10.7,9.3,3.1,117.9
+193,5,I,5740,Greenwood Ave N & N 97th St,18,AM,1.2,0.1,16.7,19.9,1.5
+193,5,I,490,3rd Ave & Cherry St,19,AM,0.2,6.6,2.9,1.7,72.1
+193,5,I,5765,Greenwood Ave N & N 92nd St,19,AM,1.6,0,18.2,26.6,0.7
+193,5,I,5770,Greenwood Ave N & N 90th St,20,AM,1.1,0.1,19.1,18.3,2.2
+193,5,I,515,3rd Ave S & S Main St,20,AM,0.2,3.7,0,2.4,36.6
+193,5,I,5771,Greenwood Ave N & N 87th St,21,AM,1.4,0.3,20.2,24.1,5.2
+193,5,I,5790,Greenwood Ave N & N 85th St,22,AM,2.1,1.2,21.2,36.2,20.3
+193,5,I,5810,Greenwood Ave N & N 80th St,23,AM,1.1,0.2,22.1,19.9,3.4
+193,5,I,5820,Greenwood Ave N & N 78th St,24,AM,0.8,0,22.8,14.6,0.8
+193,5,I,5830,Greenwood Ave N & N 76th St,25,AM,0.7,0.1,23.3,11.9,2.5
+193,5,I,5840,Greenwood Ave N & N 74th St,26,AM,1.2,0.4,24.1,20.7,7.7
+193,5,I,5860,Greenwood Ave N & N 70th St,27,AM,0.8,0.1,24,13.8,1.7
+193,5,I,5875,Phinney Ave N & N 67th St,28,AM,0.8,0.1,24.7,13.2,2.5
+193,5,I,5880,Phinney Ave N & N 65th St,29,AM,1,0.1,25.6,17.1,2
+193,5,I,5900,Phinney Ave N & N 61st St,30,AM,1.2,0.1,26.7,21.1,1.9
+193,5,I,5910,Phinney Ave N & N 59th St,31,AM,0.8,0.1,27.5,14.2,0.9
+193,5,I,5930,Phinney Ave N & N 55th St,32,AM,1,0.2,28.3,17.7,3.3
+193,5,I,5940,Phinney Ave N & N 54th St,33,AM,0.2,0.1,28.4,4.1,2.4
+193,5,I,5960,Phinney Ave N & N 50th St,34,AM,1,0.1,29.3,17,1.7
+193,5,I,5980,Phinney Ave N & N 46th St,35,AM,2.2,2.4,29.1,37,40.2
+193,5,I,5990,Phinney Ave N & N 44th St,36,AM,1,0,30,16.7,0.8
+193,5,I,6000,N 43rd St & Phinney Ave N,37,AM,3,0.2,32.8,51,4.2
+193,5,I,6020,N 43rd St & Fremont Ave N,38,AM,3.8,0.2,36.4,65.4,4
+193,5,I,6030,Fremont Ave N & N 41st St,39,AM,2,0.4,37.8,32,6.2
+193,5,I,6040,Fremont Ave N & N 39th St,40,AM,0.8,0.5,38.1,12.7,8.4
+193,5,I,6050,Aurora Ave N & N 38th St,41,AM,4.6,1.7,41,73.4,27.4
+193,5,I,6060,Aurora Ave N & Halladay St,42,AM,0.6,0.2,41.4,9.2,2.6
+193,5,I,6070,Aurora Ave N & Lynn St,43,AM,0.6,0.1,41.9,10.3,1.2
+193,5,I,6080,Aurora Ave N & Crockett St,44,AM,0.5,0.2,42.1,7.5,3.6
+193,5,I,6100,Aurora Ave N & Galer St,45,AM,1.5,1.2,42.4,23.9,19.6
+193,5,I,6120,Aurora Ave N & Prospect St,46,AM,0.9,0.5,42.9,15,7.3
+193,5,I,7430,Wall St & 5th Ave,47,AM,0.3,9.6,33.8,4.5,144.1
+193,5,I,400,3rd Ave & Bell St,48,AM,0.9,1.5,27.7,1.8,2.9
+193,5,I,420,3rd Ave & Virginia St,49,AM,0.5,4.9,22.6,1,9.8
+193,5,I,431,3rd Ave & Pike St,50,AM,0.2,7.8,15,0.4,15.6
+193,5,I,468,3rd Ave & Seneca St,51,AM,0.1,8.1,7,0.2,16.1
+193,5,I,490,3rd Ave & Cherry St,52,AM,0,4.2,2.9,0,8.3
+193,5,I,515,3rd Ave S & S Main St,53,AM,0.3,3.6,0,0.6,7.1
+193,5,O,30635,4th Ave S & S Royal Brougham Way,1,AM,0.6,0,21.9,7.7,0
+193,5,O,619,4th Ave S & S Jackson St,2,AM,6,4.1,23.9,84.6,57.2
+193,5,O,531,3rd Ave & James St,3,AM,1.8,5,20.6,25.4,70.1
+193,5,O,548,3rd Ave & Madison St,4,AM,1.7,4.8,17.6,21.9,62.4
+193,5,O,570,3rd Ave & Union St,5,AM,1.9,4,15.4,24.2,51.9
+193,5,O,590,3rd Ave & Pine St,6,AM,4.6,3.5,16.6,59.9,45.3
+193,5,O,600,3rd Ave & Virginia St,7,AM,0.9,2.5,15,11.9,31.9
+193,5,O,605,3rd Ave & Bell St,8,AM,1.1,2.1,14,13.7,26.9
+193,5,O,6236,7th Ave N & Denny Way,9,AM,0.8,1.5,13.1,10.7,19.4
+193,5,O,6290,Aurora Ave N & Prospect St,10,AM,0.1,1.3,12.1,1,16.9
+193,5,O,6300,Aurora Ave N & Galer St,11,AM,0.3,0.5,11.9,4.1,6.7
+193,5,O,6310,Aurora Ave N & Crockett St,12,AM,0,0.1,11.9,0.1,0.8
+193,5,O,6320,Aurora Ave N & Lynn St,13,AM,0.1,0.1,11.9,1.1,0.8
+193,5,O,6330,Aurora Ave N & Halladay St,14,AM,0,0.1,11.9,0.5,1.6
+193,5,O,6340,Aurora Ave N & N 38th St,15,AM,0.5,1.8,10.6,6.2,21.3
+193,5,O,6360,Fremont Ave N & N 39th St,16,AM,0.3,0.5,10.4,4.1,6.2
+193,5,O,6380,Fremont Ave N & N 41st St,17,AM,0.1,0.2,10.3,1.4,2.7
+193,5,O,6400,N 43rd St & Fremont Ave N,18,AM,0.2,0.7,9.8,2.3,8
+193,5,O,6420,Phinney Ave N & N 43rd St,19,AM,0.3,0.2,10,3.3,2.1
+193,5,O,6440,Phinney Ave N & N 46th St,20,AM,1.2,0.5,10.7,14.9,5.7
+193,5,O,6460,Phinney Ave N & N 50th St,21,AM,0.3,0.3,10.7,3.2,3.8
+193,5,O,6480,Phinney Ave N & N 53rd St,22,AM,0,0.1,10.6,0.2,1.3
+193,5,O,6490,Phinney Ave N & N 55th St,23,AM,0.4,0.3,10.7,5.3,3.4
+193,5,O,6510,Phinney Ave N & N 58th St,24,AM,0.1,0.2,10.6,1.2,2.4
+193,5,O,6520,Phinney Ave N & N 60th St,25,AM,0.3,0.2,10.7,3.3,2.2
+193,5,O,6540,Phinney Ave N & N 64th St,26,AM,0.1,0.1,10.7,0.6,1.6
+193,5,O,6550,Phinney Ave N & N 67th St,27,AM,0.2,0.2,10.6,1.8,2.6
+193,5,O,6565,Greenwood Ave N & N 68th St,28,AM,0.1,0.3,10.5,1.2,3
+193,5,O,6580,Greenwood Ave N & N 72nd St,29,AM,0.2,0.6,10.1,2.1,7
+193,5,O,6590,Greenwood Ave N & N 75th St,30,AM,0.2,0.2,10,2.1,2.7
+193,5,O,6600,Greenwood Ave N & N 77th St,31,AM,0.1,0,9.5,1.6,0.4
+193,5,O,6615,Greenwood Ave N & N 80th St,32,AM,0.2,0.4,9.3,2.4,3.9
+193,5,O,6640,Greenwood Ave N & N 85th St,33,AM,1.3,1.8,8.8,14.1,19.6
+193,5,O,6650,Greenwood Ave N & N 87th St,34,AM,0.7,0.2,9.3,7.4,1.7
+193,5,O,6660,Greenwood Ave N & N 90th St,35,AM,0.4,0.1,9.6,3.9,1.4
+193,5,O,6670,Greenwood Ave N & N 92nd St,36,AM,0.2,0.3,9.5,2.6,3.4
+193,5,O,6685,Greenwood Ave N & N 97th St,37,AM,0.5,0.3,9.7,5.9,3.4
+193,5,O,6693,Greenwood Ave N & N 100th St,38,AM,0.3,0.1,10,3.6,0.6
+193,5,O,6710,Greenwood Ave N & N 103rd St,39,AM,0.7,1.1,9.6,8,11.9
+193,5,O,6730,Greenwood Ave N & N 107th St,40,AM,0.3,0.1,9.8,3.2,1.3
+193,5,O,6740,Greenwood Ave N & N 110th St,41,AM,0.2,0.3,9.7,2.5,3.5
+193,5,O,6750,Greenwood Ave N & N 112th St,42,AM,0.2,0.2,9.8,2.3,1.9
+193,5,O,6770,Greenwood Ave N & N 117th St,43,AM,0.5,0.2,10.1,5.6,1.7
+193,5,O,6790,Greenwood Ave N & N 122nd St,44,AM,0,0.1,9.9,0.2,1.5
+193,5,O,6800,Greenwood Ave N & N 125th St,45,AM,0.1,0.7,9.4,1.3,7.9
+193,5,O,6820,Greenwood Ave N & N 130th St,46,AM,0.2,2.5,7.1,2.1,27.5
+193,5,O,6840,Greenwood Ave N & N 134th St,47,AM,0.1,0.1,7,1.2,1.6
+193,5,O,6850,Greenwood Ave N & N 137th St,48,AM,0.1,0.1,7.1,1.6,0.8
+193,5,O,6870,Greenwood Ave N & N 143rd St,49,AM,0.1,0.4,6.9,1.3,4.2
+193,5,O,6880,Greenwood Ave N & N 145th St,50,AM,0.1,0.2,6.7,0.7,2.6
+193,5,O,75430,Dayton Ave N & N 150th St,51,AM,0,0.2,6.5,0.3,2.7
+193,5,O,75450,Dayton Ave N & N 155th St,52,AM,0,0.2,6.3,0.1,1.9
+193,5,O,75460,Dayton Ave N & N 160th St,53,AM,0,0.6,5.7,0.1,6.8
+193,5,O,6940,N Innis Arden Way & Greenwood Ave N,54,AM,0,0.3,5.2,0.3,3.4
+193,5,O,5492,Shoreline Community College,55,AM,0,5.2,0.1,0,51.7
+193,5,I,5492,Shoreline Community College,1,MID,5.8,0,5.8,151.8,0.2
+193,5,I,5502,N Innis Arden Way & Greenwood Ave N,2,MID,0.3,0,5.8,7.5,0.8
+193,5,I,75110,Dayton Ave N & N 160th St,3,MID,0.4,0,6.2,9.1,1
+193,5,I,75120,Dayton Ave N & N 155th St,4,MID,0.1,0,6.2,2.2,0.3
+193,5,I,75140,Dayton Ave N & N 150th St,5,MID,0.2,0.1,6.3,5,1.9
+193,5,I,5550,Greenwood Ave N & N 145th St,6,MID,1.5,0.3,7.3,39.7,9
+193,5,I,5560,Greenwood Ave N & N 143rd St,7,MID,0,0,7.3,0.2,0.1
+193,5,I,5580,Greenwood Ave N & N 137th St,8,MID,0.4,0.1,7.5,10.1,3.8
+193,5,I,5590,Greenwood Ave N & N 134th St,9,MID,1.1,0.1,8.5,28.2,2.8
+193,5,I,5610,Greenwood Ave N & N 130th St,10,MID,1.9,0.3,10.1,49.7,7
+193,5,I,5630,Greenwood Ave N & N 125th St,11,MID,1.2,0.2,11.1,30.4,4.4
+193,5,I,5640,Greenwood Ave N & N 122nd St,12,MID,0.2,0,11.3,3.9,0.4
+193,5,I,5660,Greenwood Ave N & N 117th St,13,MID,1.1,0.2,12.2,29.1,5.8
+193,5,I,5670,Greenwood Ave N & N 115th St,14,MID,0.4,0,12.5,9.1,1.2
+193,5,I,7430,Wall St & 5th Ave,14,MID,2.1,10.4,24,2.1,10.4
+193,5,I,5690,Greenwood Ave N & N 110th St,15,MID,1.3,0.3,13.5,35,7.5
+193,5,I,400,3rd Ave & Bell St,15,MID,0.3,1,23.3,0.3,1
+193,5,I,420,3rd Ave & Virginia St,16,MID,0.5,5.1,18.8,0.5,5.1
+193,5,I,5710,Greenwood Ave N & Holman Rd N,16,MID,2.9,1.6,14.8,77.7,43.3
+193,5,I,431,3rd Ave & Pike St,17,MID,0.4,8.7,12.5,0.7,17.4
+193,5,I,5730,Greenwood Ave N & N 100th St,17,MID,0.2,0.1,15,6.1,2.1
+193,5,I,468,3rd Ave & Seneca St,18,MID,0.2,6.7,5.9,0.3,13.4
+193,5,I,5740,Greenwood Ave N & N 97th St,18,MID,0.8,0.3,15.5,21.6,7.3
+193,5,I,490,3rd Ave & Cherry St,19,MID,0.2,4.4,1.7,0.3,8.7
+193,5,I,5765,Greenwood Ave N & N 92nd St,19,MID,0.6,0.1,15.8,16.6,3
+193,5,I,5770,Greenwood Ave N & N 90th St,20,MID,0.8,0.2,16.4,20.1,5.8
+193,5,I,515,3rd Ave S & S Main St,20,MID,0.6,2.4,0,1.7,7.2
+193,5,I,5771,Greenwood Ave N & N 87th St,21,MID,1,1.1,16.2,24.7,28
+193,5,I,5790,Greenwood Ave N & N 85th St,22,MID,3.1,2.5,16.8,79.7,64.6
+193,5,I,5810,Greenwood Ave N & N 80th St,23,MID,1.1,0.5,17.5,28.8,12.3
+193,5,I,5820,Greenwood Ave N & N 78th St,24,MID,0.3,0.1,17.7,8.8,2.2
+193,5,I,5830,Greenwood Ave N & N 76th St,25,MID,0.7,0.2,18.1,17.3,6.4
+193,5,I,5840,Greenwood Ave N & N 74th St,26,MID,1,0.4,18.7,27.1,11.5
+193,5,I,5860,Greenwood Ave N & N 70th St,27,MID,0.5,0.2,19.7,14.3,5
+193,5,I,5875,Phinney Ave N & N 67th St,28,MID,0.7,0.4,20,19.3,12
+193,5,I,5880,Phinney Ave N & N 65th St,29,MID,0.9,0.3,20.6,24.7,7.6
+193,5,I,5900,Phinney Ave N & N 61st St,30,MID,0.7,0.3,21.1,19.4,6.8
+193,5,I,5910,Phinney Ave N & N 59th St,31,MID,0.4,0.2,21.3,10.9,5
+193,5,I,5930,Phinney Ave N & N 55th St,32,MID,0.9,0.5,21.7,23.9,13.5
+193,5,I,5940,Phinney Ave N & N 54th St,33,MID,0.3,0.1,21.8,6.8,3.6
+193,5,I,5960,Phinney Ave N & N 50th St,34,MID,0.6,0.3,22.1,17.5,9.3
+193,5,I,5980,Phinney Ave N & N 46th St,35,MID,1.9,2.5,21.5,50.2,67.4
+193,5,I,5990,Phinney Ave N & N 44th St,36,MID,0.5,0.1,21.9,13.3,2
+193,5,I,6000,N 43rd St & Phinney Ave N,37,MID,1,0.2,22.6,25.7,5.7
+193,5,I,6020,N 43rd St & Fremont Ave N,38,MID,1.6,0.3,23.9,44,8.6
+193,5,I,6030,Fremont Ave N & N 41st St,39,MID,0.8,0.2,25.3,22.7,5
+193,5,I,6040,Fremont Ave N & N 39th St,40,MID,0.4,0.4,25.3,10.9,11.7
+193,5,I,6050,Aurora Ave N & N 38th St,41,MID,2,1.3,26,53,33.9
+193,5,I,6060,Aurora Ave N & Halladay St,42,MID,0.2,0.1,26.1,4.9,2.1
+193,5,I,6070,Aurora Ave N & Lynn St,43,MID,0.4,0.1,26.4,10.7,2.5
+193,5,I,6080,Aurora Ave N & Crockett St,44,MID,0.6,0.2,26.8,15.7,5.4
+193,5,I,6100,Aurora Ave N & Galer St,45,MID,0.9,0.7,27,23.8,19.6
+193,5,I,6120,Aurora Ave N & Prospect St,46,MID,0.4,0.4,27,11.4,11
+193,5,I,7430,Wall St & 5th Ave,47,MID,0.2,6.6,21.1,6.4,185.2
+193,5,I,400,3rd Ave & Bell St,48,MID,1,1.7,29.1,3.1,5
+193,5,I,420,3rd Ave & Virginia St,49,MID,0.6,5.1,24.6,1.8,15.2
+193,5,I,431,3rd Ave & Pike St,50,MID,0.4,11.9,13.1,1.2,35.6
+193,5,I,468,3rd Ave & Seneca St,51,MID,0.1,5.6,7.7,0.3,16.7
+193,5,I,490,3rd Ave & Cherry St,52,MID,0.2,4.5,3.3,0.5,13.5
+193,5,I,515,3rd Ave S & S Main St,53,MID,0.4,4.2,0,1.3,12.5
+193,5,O,30635,4th Ave S & S Royal Brougham Way,1,MID,1.6,0,16.9,38.7,0
+193,5,O,619,4th Ave S & S Jackson St,2,MID,2.7,3.3,16.3,64.4,79.5
+193,5,O,531,3rd Ave & James St,3,MID,3.2,2.7,16.7,76,64.9
+193,5,O,548,3rd Ave & Madison St,4,MID,3.3,2.8,17.4,82.8,69.7
+193,5,O,570,3rd Ave & Union St,5,MID,2.9,3.8,16.4,68.9,91.1
+193,5,O,590,3rd Ave & Pine St,6,MID,5.9,3.6,18.7,142.1,86.2
+193,5,O,600,3rd Ave & Virginia St,7,MID,1.8,2.3,18.1,42,54.7
+193,5,O,605,3rd Ave & Bell St,8,MID,1.6,2.1,17.7,39.4,49.5
+193,5,O,6236,7th Ave N & Denny Way,9,MID,1.9,0.7,18.7,45.2,17.8
+193,5,O,6290,Aurora Ave N & Prospect St,10,MID,0.2,0.4,18.7,5.6,9.9
+193,5,O,6300,Aurora Ave N & Galer St,11,MID,0.3,0.3,18.7,7.8,7.6
+193,5,O,6310,Aurora Ave N & Crockett St,12,MID,0,0.1,18.6,0.3,2.9
+193,5,O,6320,Aurora Ave N & Lynn St,13,MID,0.1,0.2,18.4,1.8,5.8
+193,5,O,6330,Aurora Ave N & Halladay St,14,MID,0.1,0.3,17.3,2.1,6.6
+193,5,O,6340,Aurora Ave N & N 38th St,15,MID,0.7,1.2,16.8,15.8,29.7
+193,5,O,6360,Fremont Ave N & N 39th St,16,MID,0.6,0.5,16.8,13.2,13
+193,5,O,6380,Fremont Ave N & N 41st St,17,MID,0.2,0.3,16.7,3.9,6.8
+193,5,O,6400,N 43rd St & Fremont Ave N,18,MID,0.3,1.2,15.8,8,28.6
+193,5,O,6420,Phinney Ave N & N 43rd St,19,MID,0.2,0.6,15.5,5.6,13.9
+193,5,O,6440,Phinney Ave N & N 46th St,20,MID,2.3,1,16.8,55.1,24
+193,5,O,6460,Phinney Ave N & N 50th St,21,MID,0.2,0.3,16.7,4.7,7.9
+193,5,O,6480,Phinney Ave N & N 53rd St,22,MID,0.1,0.2,16.5,2,5.6
+193,5,O,6490,Phinney Ave N & N 55th St,23,MID,0.4,1.1,15.8,9.4,26
+193,5,O,6510,Phinney Ave N & N 58th St,24,MID,0.2,0.4,15.6,3.9,9.8
+193,5,O,6520,Phinney Ave N & N 60th St,25,MID,0.2,0.5,15.3,5.3,11.5
+193,5,O,6540,Phinney Ave N & N 64th St,26,MID,0.2,0.6,14.9,4.1,14.1
+193,5,O,6550,Phinney Ave N & N 67th St,27,MID,0.4,0.6,14.7,9.8,15.2
+193,5,O,6565,Greenwood Ave N & N 68th St,28,MID,0.2,0.4,14.5,4.5,9.6
+193,5,O,6580,Greenwood Ave N & N 72nd St,29,MID,0.3,0.9,13.2,6.8,20.6
+193,5,O,6590,Greenwood Ave N & N 75th St,30,MID,0.2,0.4,13.1,5.7,9.7
+193,5,O,6600,Greenwood Ave N & N 77th St,31,MID,0.1,0.3,13,1.6,6.9
+193,5,O,6615,Greenwood Ave N & N 80th St,32,MID,0.4,1.3,12,8.4,31.7
+193,5,O,6640,Greenwood Ave N & N 85th St,33,MID,2.4,2.9,11.5,56.8,69.1
+193,5,O,6650,Greenwood Ave N & N 87th St,34,MID,0.5,0.3,11.7,11.7,7.9
+193,5,O,6660,Greenwood Ave N & N 90th St,35,MID,0.2,0.4,11.5,5.8,10.1
+193,5,O,6670,Greenwood Ave N & N 92nd St,36,MID,0.2,0.3,11.4,4.4,6.5
+193,5,O,6685,Greenwood Ave N & N 97th St,37,MID,0.2,0.4,11.3,5.5,9.7
+193,5,O,6693,Greenwood Ave N & N 100th St,38,MID,0.1,0.2,11.2,3.3,4.9
+193,5,O,6710,Greenwood Ave N & N 103rd St,39,MID,0.9,1.8,10.3,22.6,43.6
+193,5,O,6730,Greenwood Ave N & N 107th St,40,MID,0.3,0.3,10.3,7.9,7.7
+193,5,O,6740,Greenwood Ave N & N 110th St,41,MID,0.2,0.6,9.9,4.6,15
+193,5,O,6750,Greenwood Ave N & N 112th St,42,MID,0.1,0.3,9.7,1.2,6.3
+193,5,O,6770,Greenwood Ave N & N 117th St,43,MID,0.3,0.7,9.3,7.7,16.8
+193,5,O,6790,Greenwood Ave N & N 122nd St,44,MID,0,0.2,9.2,0.1,4.2
+193,5,O,6800,Greenwood Ave N & N 125th St,45,MID,0.2,0.8,8.5,3.6,19.9
+193,5,O,6820,Greenwood Ave N & N 130th St,46,MID,0.2,1.7,7,4.9,40
+193,5,O,6840,Greenwood Ave N & N 134th St,47,MID,0.1,0.4,6.8,3,9
+193,5,O,6850,Greenwood Ave N & N 137th St,48,MID,0.1,0.3,6.6,2.9,6.1
+193,5,O,6870,Greenwood Ave N & N 143rd St,49,MID,0.1,0.6,6.1,2.8,14.4
+193,5,O,6880,Greenwood Ave N & N 145th St,50,MID,0.2,0.3,6,4.8,8.1
+193,5,O,75430,Dayton Ave N & N 150th St,51,MID,0.1,0.3,5.9,1.7,6.9
+193,5,O,75450,Dayton Ave N & N 155th St,52,MID,0,0.1,5.8,0.2,1.4
+193,5,O,75460,Dayton Ave N & N 160th St,53,MID,0,0.3,5.5,0.2,7.5
+193,5,O,6940,N Innis Arden Way & Greenwood Ave N,54,MID,0.1,0.6,5.1,2.6,14.5
+193,5,O,5492,Shoreline Community College,55,MID,0,5.2,0,0.5,123.9
+193,5,I,5492,Shoreline Community College,1,PM,4.6,0,4.6,68.6,0
+193,5,I,5502,N Innis Arden Way & Greenwood Ave N,2,PM,0.2,0,5.3,3.7,0
+193,5,I,75110,Dayton Ave N & N 160th St,3,PM,0.6,0,5.8,9.3,0.6
+193,5,I,75120,Dayton Ave N & N 155th St,4,PM,0.2,0,5.9,2.5,0.3
+193,5,I,75140,Dayton Ave N & N 150th St,5,PM,0.2,0.1,6,3.3,1.1
+193,5,I,5550,Greenwood Ave N & N 145th St,6,PM,1.2,0.3,6.9,18.4,5.2
+193,5,I,5560,Greenwood Ave N & N 143rd St,7,PM,0,0,6.9,0.1,0.1
+193,5,I,5580,Greenwood Ave N & N 137th St,8,PM,0.3,0.1,7,4.5,2.3
+193,5,I,5590,Greenwood Ave N & N 134th St,9,PM,0.6,0.1,7.5,9.6,1.8
+193,5,I,5610,Greenwood Ave N & N 130th St,10,PM,2.6,0.2,9.9,42,3.4
+193,5,I,5630,Greenwood Ave N & N 125th St,11,PM,0.8,0.3,10.4,13.2,4.7
+193,5,I,5640,Greenwood Ave N & N 122nd St,12,PM,0.1,0,10.5,2.3,0.5
+193,5,I,5660,Greenwood Ave N & N 117th St,13,PM,0.8,0.6,11.2,11.4,8.3
+193,5,I,5670,Greenwood Ave N & N 115th St,14,PM,0.3,0.1,11.4,4.2,1.4
+193,5,I,5690,Greenwood Ave N & N 110th St,15,PM,0.9,0.4,11.9,13.1,6.1
+193,5,I,5710,Greenwood Ave N & Holman Rd N,16,PM,2.7,1.4,13.3,41,20.4
+193,5,I,5730,Greenwood Ave N & N 100th St,17,PM,0.2,0.1,13.3,3.1,2.1
+193,5,I,5740,Greenwood Ave N & N 97th St,18,PM,0.5,0.4,13.5,8,5.4
+193,5,I,5765,Greenwood Ave N & N 92nd St,19,PM,0.4,0.3,14.1,6.6,4.7
+193,5,I,5770,Greenwood Ave N & N 90th St,20,PM,0.4,0.4,14.1,5.9,5.6
+193,5,I,5771,Greenwood Ave N & N 87th St,21,PM,1,1.2,13.9,15.3,18.5
+193,5,I,5790,Greenwood Ave N & N 85th St,22,PM,4.1,2.5,15.5,65.1,39.7
+193,5,I,5810,Greenwood Ave N & N 80th St,23,PM,1.2,0.5,16.1,18.9,8.4
+193,5,I,5820,Greenwood Ave N & N 78th St,24,PM,0.3,0.2,16.2,4.2,3.7
+193,5,I,5830,Greenwood Ave N & N 76th St,25,PM,0.5,0.3,16.3,7.7,5.4
+193,5,I,5840,Greenwood Ave N & N 74th St,26,PM,0.9,0.6,16.6,14.9,9.7
+193,5,I,5860,Greenwood Ave N & N 70th St,27,PM,0.5,0.4,16.7,7.9,6.6
+193,5,I,5875,Phinney Ave N & N 67th St,28,PM,0.6,0.6,16.7,8.8,9.6
+193,5,I,5880,Phinney Ave N & N 65th St,29,PM,0.6,0.5,17.3,9.3,6.8
+193,5,I,5900,Phinney Ave N & N 61st St,30,PM,0.4,0.4,17.4,6.2,5.8
+193,5,I,5910,Phinney Ave N & N 59th St,31,PM,0.3,0.2,17.5,5.1,3
+193,5,I,5930,Phinney Ave N & N 55th St,32,PM,1.2,0.4,18.3,18.7,5.9
+193,5,I,5940,Phinney Ave N & N 54th St,33,PM,0.2,0.1,18.4,3.3,2
+193,5,I,5960,Phinney Ave N & N 50th St,34,PM,0.6,0.5,18.5,8.7,7.8
+193,5,I,5980,Phinney Ave N & N 46th St,35,PM,1.3,2.2,17.6,19,32.6
+193,5,I,5990,Phinney Ave N & N 44th St,36,PM,0.2,0.1,17.7,3.2,1.8
+193,5,I,6000,N 43rd St & Phinney Ave N,37,PM,0.4,0.2,17.8,6,3.5
+193,5,I,6020,N 43rd St & Fremont Ave N,38,PM,1.2,0.5,18.6,18.7,7.2
+193,5,I,6030,Fremont Ave N & N 41st St,39,PM,0.5,0.2,18.9,8.1,3.8
+193,5,I,6040,Fremont Ave N & N 39th St,40,PM,0.3,0.5,18.7,4.9,7.2
+193,5,I,6050,Aurora Ave N & N 38th St,41,PM,2.2,1.2,19.8,35.8,19.3
+193,5,I,6060,Aurora Ave N & Halladay St,42,PM,0.1,0.2,19.7,2.3,3.4
+193,5,I,6070,Aurora Ave N & Lynn St,43,PM,0.5,0.2,20,7.5,2.6
+193,5,I,6080,Aurora Ave N & Crockett St,44,PM,0.3,0.1,20.1,4.3,2.1
+193,5,I,6100,Aurora Ave N & Galer St,45,PM,0.7,0.4,20.5,10.9,5.6
+193,5,I,6120,Aurora Ave N & Prospect St,46,PM,0.1,0.4,20.1,2.1,7.1
+193,5,I,7430,Wall St & 5th Ave,47,PM,0,2.8,17.8,0,42.6
+193,5,O,30635,4th Ave S & S Royal Brougham Way,1,PM,0.6,0,0.7,8.3,0
+193,5,O,30635,4th Ave S & S Royal Brougham Way,1,PM,1,0,20.9,17.6,0.1
+193,5,O,619,4th Ave S & S Jackson St,2,PM,3.4,0.2,3.9,44.3,3.1
+193,5,O,619,4th Ave S & S Jackson St,2,PM,4,5.5,19.4,71.8,99.3
+193,5,O,531,3rd Ave & James St,3,PM,4.1,0.2,7.7,53.6,2.4
+193,5,O,531,3rd Ave & James St,3,PM,3.5,3,19.9,62.4,53.2
+193,5,O,548,3rd Ave & Madison St,4,PM,9.5,0.5,16.7,123,6.3
+193,5,O,548,3rd Ave & Madison St,4,PM,8,2.2,26.3,136.7,37.4
+193,5,O,570,3rd Ave & Union St,5,PM,8.4,0.7,24.3,108.6,9.1
+193,5,O,570,3rd Ave & Union St,5,PM,7.6,3.5,29.9,136.9,63.4
+193,5,O,590,3rd Ave & Pine St,6,PM,7.7,0.9,31.1,100,11.1
+193,5,O,590,3rd Ave & Pine St,6,PM,10.2,3.1,37,182.8,55.5
+193,5,O,600,3rd Ave & Virginia St,7,PM,3.2,0.8,33.5,41.4,10.6
+193,5,O,600,3rd Ave & Virginia St,7,PM,3.6,2.3,38.4,65.4,40.7
+193,5,O,605,3rd Ave & Bell St,8,PM,2.7,1.2,35,35,15.3
+193,5,O,605,3rd Ave & Bell St,8,PM,3.6,2.7,39.2,64,48.1
+193,5,O,6236,7th Ave N & Denny Way,9,PM,6.6,0.7,40,86.2,9.3
+193,5,O,6236,7th Ave N & Denny Way,9,PM,7,1.4,45,119.8,24.4
+193,5,O,6440,Phinney Ave N & N 46th St,10,PM,3.3,10.9,33.4,42.3,142
+193,5,O,6290,Aurora Ave N & Prospect St,10,PM,1.3,0.7,46.1,22.8,11.5
+193,5,O,6490,Phinney Ave N & N 55th St,11,PM,0.5,3.8,30.1,6.4,48.8
+193,5,O,6300,Aurora Ave N & Galer St,11,PM,1.1,1.1,46.1,18,18.9
+193,5,O,6310,Aurora Ave N & Crockett St,12,PM,0.2,0.7,45.6,3.6,12.5
+193,5,O,6540,Phinney Ave N & N 64th St,12,PM,0.3,4.4,26,3.5,57.8
+193,5,O,6550,Phinney Ave N & N 67th St,13,PM,0.2,1.9,24.2,2.5,25.3
+193,5,O,6320,Aurora Ave N & Lynn St,13,PM,0.1,0.4,45.3,2.5,6.8
+193,5,O,6330,Aurora Ave N & Halladay St,14,PM,0.4,1.5,43.5,6.4,27
+193,5,O,6565,Greenwood Ave N & N 68th St,14,PM,0.1,2.2,22.2,1.7,28.5
+193,5,O,6340,Aurora Ave N & N 38th St,15,PM,1.8,5.3,40,32.8,95
+193,5,O,6580,Greenwood Ave N & N 72nd St,15,PM,0.2,4.3,18.1,2.7,55.3
+193,5,O,6590,Greenwood Ave N & N 75th St,16,PM,0.2,1.7,16.5,2,22.3
+193,5,O,6360,Fremont Ave N & N 39th St,16,PM,1.4,2.1,39.3,24.4,37.3
+193,5,O,6600,Greenwood Ave N & N 77th St,17,PM,0.1,1.8,14.9,1.2,23.5
+193,5,O,6380,Fremont Ave N & N 41st St,17,PM,0.3,1.9,38.5,5.6,31.9
+193,5,O,6615,Greenwood Ave N & N 80th St,18,PM,0.2,3.3,11.7,2.5,43.2
+193,5,O,6400,N 43rd St & Fremont Ave N,18,PM,0.7,4.3,34.9,11.2,73.5
+193,5,O,6640,Greenwood Ave N & N 85th St,19,PM,0.3,7,5,4.3,91.6
+193,5,O,6420,Phinney Ave N & N 43rd St,19,PM,0.3,2.6,32.5,4.6,44.7
+193,5,O,6440,Phinney Ave N & N 46th St,20,PM,3.8,2.3,33.8,61,36.8
+193,5,O,6650,Greenwood Ave N & N 87th St,20,PM,0.1,1.4,3.7,0.8,18.3
+193,5,O,6651,N 90th St & Greenwood Ave N,21,PM,0,2,1.7,0.4,26.2
+193,5,O,6460,Phinney Ave N & N 50th St,21,PM,0.3,1.2,33,5.3,18.5
+193,5,O,6480,Phinney Ave N & N 53rd St,22,PM,0.1,0.5,32.7,2.2,7.5
+193,5,O,6652,NW 90th St & 1st Ave NW,22,PM,0.2,1.8,0,2,23.9
+193,5,O,6490,Phinney Ave N & N 55th St,23,PM,0.5,1.1,32.1,7.8,17.9
+193,5,O,6510,Phinney Ave N & N 58th St,24,PM,0.2,1.2,31.1,3.3,18.5
+193,5,O,6520,Phinney Ave N & N 60th St,25,PM,0.3,1.6,29.7,4.2,26.3
+193,5,O,6540,Phinney Ave N & N 64th St,26,PM,0.3,1.7,28.3,4.6,27.1
+193,5,O,6550,Phinney Ave N & N 67th St,27,PM,0.4,1.3,27.4,6.9,20.4
+193,5,O,6565,Greenwood Ave N & N 68th St,28,PM,0.1,1,26.6,2.3,16.1
+193,5,O,6580,Greenwood Ave N & N 72nd St,29,PM,0.4,2.6,24.6,6.3,43.4
+193,5,O,6590,Greenwood Ave N & N 75th St,30,PM,0.3,1.2,23.7,4.7,19.8
+193,5,O,6600,Greenwood Ave N & N 77th St,31,PM,0.1,0.9,22.9,1.8,15.1
+193,5,O,6615,Greenwood Ave N & N 80th St,32,PM,0.5,2,21.3,7.9,34.4
+193,5,O,6640,Greenwood Ave N & N 85th St,33,PM,3.9,5.2,20.1,66.2,88.1
+193,5,O,6650,Greenwood Ave N & N 87th St,34,PM,0.7,0.7,20,11.3,11.7
+193,5,O,6660,Greenwood Ave N & N 90th St,35,PM,0.4,1,19.4,6.2,16.7
+193,5,O,6670,Greenwood Ave N & N 92nd St,36,PM,0.2,0.8,18.8,3.1,13.1
+193,5,O,6685,Greenwood Ave N & N 97th St,37,PM,0.2,0.9,18.1,3.7,15.7
+193,5,O,6693,Greenwood Ave N & N 100th St,38,PM,0.1,0.7,17.5,1.1,12.2
+193,5,O,6710,Greenwood Ave N & N 103rd St,39,PM,0.8,3.3,14.9,13.3,56.8
+193,5,O,6730,Greenwood Ave N & N 107th St,40,PM,0.4,0.8,14.5,6.4,13.7
+193,5,O,6740,Greenwood Ave N & N 110th St,41,PM,0.2,1.3,13.4,2.7,21.8
+193,5,O,6750,Greenwood Ave N & N 112th St,42,PM,0.1,0.9,12.8,1,14.4
+193,5,O,6770,Greenwood Ave N & N 117th St,43,PM,0.2,2.3,10.8,2.9,36.6
+193,5,O,6790,Greenwood Ave N & N 122nd St,44,PM,0,0.4,10.4,0.2,5.9
+193,5,O,6800,Greenwood Ave N & N 125th St,45,PM,0.2,1.9,8.7,2.9,30.3
+193,5,O,6820,Greenwood Ave N & N 130th St,46,PM,0.2,2.7,6.2,2.8,42.6
+193,5,O,6840,Greenwood Ave N & N 134th St,47,PM,0,1,5.2,0.6,16.7
+193,5,O,6850,Greenwood Ave N & N 137th St,48,PM,0,0.4,4.8,0.1,7.1
+193,5,O,6870,Greenwood Ave N & N 143rd St,49,PM,0,1.3,3.5,0.7,21.5
+193,5,O,6880,Greenwood Ave N & N 145th St,50,PM,0.1,0.6,3,1.8,9.7
+193,5,O,75430,Dayton Ave N & N 150th St,51,PM,0,0.3,2.9,0.3,4.8
+193,5,O,75450,Dayton Ave N & N 155th St,52,PM,0,0.1,2.8,0,2.3
+193,5,O,75460,Dayton Ave N & N 160th St,53,PM,0,0.4,2.4,0.1,6.3
+193,5,O,6940,N Innis Arden Way & Greenwood Ave N,54,PM,0.1,0.4,2,0.8,6.2
+193,5,O,5492,Shoreline Community College,55,PM,0,2,0,0.2,30.4
+193,5,I,5492,Shoreline Community College,1,XEV,1.7,0,1.8,20,0
+193,5,I,5502,N Innis Arden Way & Greenwood Ave N,2,XEV,0.1,0,1.9,0.7,0
+193,5,I,75110,Dayton Ave N & N 160th St,3,XEV,0.2,0,2.1,2,0
+193,5,I,75120,Dayton Ave N & N 155th St,4,XEV,0,0,2.1,0.4,0.2
+193,5,I,75140,Dayton Ave N & N 150th St,5,XEV,0.1,0,2.2,0.9,0
+193,5,I,5550,Greenwood Ave N & N 145th St,6,XEV,0.5,0.1,2.6,5.4,1
+193,5,I,5560,Greenwood Ave N & N 143rd St,7,XEV,0,0,2.6,0.1,0
+193,5,I,5580,Greenwood Ave N & N 137th St,8,XEV,0.1,0,2.6,0.8,0.2
+193,5,I,5590,Greenwood Ave N & N 134th St,9,XEV,0.3,0.1,2.8,3,0.6
+193,5,I,5610,Greenwood Ave N & N 130th St,10,XEV,0.8,0,3.6,8.4,0.1
+193,5,I,5630,Greenwood Ave N & N 125th St,11,XEV,0.5,0,4,5.1,0.5
+193,5,I,5640,Greenwood Ave N & N 122nd St,12,XEV,0.1,0,4.1,1.2,0.1
+193,5,I,5660,Greenwood Ave N & N 117th St,13,XEV,0.2,0.1,4,2.7,1.7
+193,5,I,5670,Greenwood Ave N & N 115th St,14,XEV,0.1,0.1,4,1,0.8
+193,5,I,5690,Greenwood Ave N & N 110th St,15,XEV,0.4,0.2,4.2,4.2,1.8
+193,5,I,5710,Greenwood Ave N & Holman Rd N,16,XEV,1.1,0.4,4.9,12.9,4.6
+193,5,I,5730,Greenwood Ave N & N 100th St,17,XEV,0.1,0.1,4.9,0.7,0.7
+193,5,I,5740,Greenwood Ave N & N 97th St,18,XEV,0.2,0,5.1,2.8,0.5
+193,5,I,5765,Greenwood Ave N & N 92nd St,19,XEV,0.1,0,5.2,1.7,0.2
+193,5,I,5770,Greenwood Ave N & N 90th St,20,XEV,0.1,0.1,5.2,1.6,1.2
+193,5,I,5771,Greenwood Ave N & N 87th St,21,XEV,0.4,0.4,5.2,4.2,5
+193,5,I,5790,Greenwood Ave N & N 85th St,22,XEV,2,0.9,6.3,24.4,10.4
+193,5,I,5810,Greenwood Ave N & N 80th St,23,XEV,0.6,0.1,6.8,6.6,1
+193,5,I,5820,Greenwood Ave N & N 78th St,24,XEV,0.1,0.1,6.8,1.6,0.7
+193,5,I,5830,Greenwood Ave N & N 76th St,25,XEV,0.4,0.1,7.2,5.2,1.5
+193,5,I,5840,Greenwood Ave N & N 74th St,26,XEV,0.6,0.2,7.6,7.1,2.1
+193,5,I,5860,Greenwood Ave N & N 70th St,27,XEV,0.3,0.2,7.7,3.4,1.8
+193,5,I,5875,Phinney Ave N & N 67th St,28,XEV,0.3,0.2,7.9,4,2.4
+193,5,I,5880,Phinney Ave N & N 65th St,29,XEV,0.3,0.2,8.1,3.8,3.2
+193,5,I,5900,Phinney Ave N & N 61st St,30,XEV,0.2,0.2,8.2,3.2,2.2
+193,5,I,5910,Phinney Ave N & N 59th St,31,XEV,0.2,0.2,8.5,2.5,2.4
+193,5,I,5930,Phinney Ave N & N 55th St,32,XEV,0.3,0.2,8.5,3.1,2.3
+193,5,I,5940,Phinney Ave N & N 54th St,33,XEV,0.1,0.3,8.4,1.3,3.3
+193,5,I,5960,Phinney Ave N & N 50th St,34,XEV,0.1,0.4,8.1,1.4,4.7
+193,5,I,5980,Phinney Ave N & N 46th St,35,XEV,0.5,1.1,7.5,6,12.8
+193,5,I,5990,Phinney Ave N & N 44th St,36,XEV,0,0.1,7.5,0.3,0.9
+193,5,I,6000,N 43rd St & Phinney Ave N,37,XEV,0.2,0.2,7.5,2,2
+193,5,I,6020,N 43rd St & Fremont Ave N,38,XEV,0.9,0.3,8.1,11,3.9
+193,5,I,6030,Fremont Ave N & N 41st St,39,XEV,0.2,0.1,8.2,2.2,1.1
+193,5,I,6040,Fremont Ave N & N 39th St,40,XEV,0.1,0.2,8,0.7,2.4
+193,5,I,6050,Aurora Ave N & N 38th St,41,XEV,0.6,0.5,8.1,6.7,6
+193,5,I,6060,Aurora Ave N & Halladay St,42,XEV,0.1,0.1,8,1,1.4
+193,5,I,6070,Aurora Ave N & Lynn St,43,XEV,0.3,0.1,8.3,3.9,0.7
+193,5,I,6080,Aurora Ave N & Crockett St,44,XEV,0.1,0.1,8.3,1.6,1.5
+193,5,I,6100,Aurora Ave N & Galer St,45,XEV,0.2,0.2,8.3,1.9,2.1
+193,5,I,6120,Aurora Ave N & Prospect St,46,XEV,0,0.2,8.1,0.5,2.5
+193,5,I,7430,Wall St & 5th Ave,47,XEV,0.1,1.2,7.4,1.1,15.2
+193,5,I,400,3rd Ave & Bell St,48,XEV,0.5,1.1,4.9,2.1,4.2
+193,5,I,420,3rd Ave & Virginia St,49,XEV,0.2,0.9,4.3,0.9,3.4
+193,5,I,431,3rd Ave & Pike St,50,XEV,0.3,2.4,2.2,1.2,9.5
+193,5,I,468,3rd Ave & Seneca St,51,XEV,0.1,0.6,1.7,0.2,2.3
+193,5,I,490,3rd Ave & Cherry St,52,XEV,0.1,0.9,0.9,0.2,3.6
+193,5,I,515,3rd Ave S & S Main St,53,XEV,0,1,0,0,3.9
+193,5,O,30635,4th Ave S & S Royal Brougham Way,1,XEV,0.5,0,5.7,5.5,0
+193,5,O,619,4th Ave S & S Jackson St,2,XEV,1.9,1.4,6.1,22.7,17
+193,5,O,531,3rd Ave & James St,3,XEV,1.4,0.7,6.8,16.8,8.5
+193,5,O,548,3rd Ave & Madison St,4,XEV,2.8,0.5,9.4,36.2,6.7
+193,5,O,570,3rd Ave & Union St,5,XEV,4,1.2,12.2,51.7,15.8
+193,5,O,590,3rd Ave & Pine St,6,XEV,7.3,1.1,18.7,87.8,13
+193,5,O,600,3rd Ave & Virginia St,7,XEV,2.1,0.8,20,25,10.1
+193,5,O,605,3rd Ave & Bell St,8,XEV,2,1.4,20.6,24.4,16.8
+193,5,O,6236,7th Ave N & Denny Way,9,XEV,3.4,0.7,23.7,44.2,9.4
+193,5,O,6290,Aurora Ave N & Prospect St,10,XEV,0.6,0.3,24.6,7.9,3.5
+193,5,O,6300,Aurora Ave N & Galer St,11,XEV,0.3,0.6,24.2,3.8,8.1
+193,5,O,6310,Aurora Ave N & Crockett St,12,XEV,0.1,0.3,24,0.9,3.7
+193,5,O,6320,Aurora Ave N & Lynn St,13,XEV,0.1,0.3,23.8,1,3.4
+193,5,O,6330,Aurora Ave N & Halladay St,14,XEV,0.1,0.6,23.3,0.9,7.9
+193,5,O,6340,Aurora Ave N & N 38th St,15,XEV,0.6,1.7,22.2,7.6,21.6
+193,5,O,6360,Fremont Ave N & N 39th St,16,XEV,0.8,0.8,22.9,9.7,9.2
+193,5,O,6380,Fremont Ave N & N 41st St,17,XEV,0.1,0.7,22.5,1.2,9.3
+193,5,O,6400,N 43rd St & Fremont Ave N,18,XEV,0.4,2,20.9,5.2,25.7
+193,5,O,6420,Phinney Ave N & N 43rd St,19,XEV,0.1,1.3,19.8,1.7,16.5
+193,5,O,6440,Phinney Ave N & N 46th St,20,XEV,1.6,1.3,21.3,23,18.5
+193,5,O,6460,Phinney Ave N & N 50th St,21,XEV,0.2,0.9,20.5,2.6,13
+193,5,O,6480,Phinney Ave N & N 53rd St,22,XEV,0,0.5,20,0.3,7.4
+193,5,O,6490,Phinney Ave N & N 55th St,23,XEV,0.3,0.7,19.7,3.8,9.1
+193,5,O,6510,Phinney Ave N & N 58th St,24,XEV,0,0.5,19.2,0.5,6.9
+193,5,O,6520,Phinney Ave N & N 60th St,25,XEV,0.2,0.9,18.5,2.8,12.1
+193,5,O,6540,Phinney Ave N & N 64th St,26,XEV,0.1,1,17.7,1.9,13.5
+193,5,O,6550,Phinney Ave N & N 67th St,27,XEV,0.3,0.8,17.2,3.8,11
+193,5,O,6565,Greenwood Ave N & N 68th St,28,XEV,0.1,0.5,16.8,1.8,7.6
+193,5,O,6580,Greenwood Ave N & N 72nd St,29,XEV,0.2,1.2,15.8,3.3,17.1
+193,5,O,6590,Greenwood Ave N & N 75th St,30,XEV,0.3,0.8,15.3,3.6,10.7
+193,5,O,6600,Greenwood Ave N & N 77th St,31,XEV,0.1,1.3,14,1.1,18.4
+193,5,O,6615,Greenwood Ave N & N 80th St,32,XEV,0.2,1,13.2,2.7,14.5
+193,5,O,6640,Greenwood Ave N & N 85th St,33,XEV,2.4,3,12.5,33.4,42.4
+193,5,O,6650,Greenwood Ave N & N 87th St,34,XEV,0.5,0.6,12.4,6.5,9
+193,5,O,6660,Greenwood Ave N & N 90th St,35,XEV,0.1,0.8,11.7,0.8,10.6
+193,5,O,6670,Greenwood Ave N & N 92nd St,36,XEV,0.1,0.5,11.2,0.9,6.5
+193,5,O,6685,Greenwood Ave N & N 97th St,37,XEV,0.1,0.5,11.1,0.8,6.9
+193,5,O,6693,Greenwood Ave N & N 100th St,38,XEV,0,0.3,10.7,0.3,4.5
+193,5,O,6710,Greenwood Ave N & N 103rd St,39,XEV,0.5,1.8,9.5,6.9,23.4
+193,5,O,6730,Greenwood Ave N & N 107th St,40,XEV,0.2,0.7,9.1,3.2,8.8
+193,5,O,6740,Greenwood Ave N & N 110th St,41,XEV,0.1,0.6,8.6,1.4,7.2
+193,5,O,6750,Greenwood Ave N & N 112th St,42,XEV,0,0.5,8.1,0.1,6.7
+193,5,O,6770,Greenwood Ave N & N 117th St,43,XEV,0,1.1,7.1,0.5,14.7
+193,5,O,6790,Greenwood Ave N & N 122nd St,44,XEV,0,0.3,6.9,0.1,3.9
+193,5,O,6800,Greenwood Ave N & N 125th St,45,XEV,0.1,1.2,5.8,1.5,16.6
+193,5,O,6820,Greenwood Ave N & N 130th St,46,XEV,0.1,1.5,4.3,0.9,21.5
+193,5,O,6840,Greenwood Ave N & N 134th St,47,XEV,0,0.9,3.5,0.4,12
+193,5,O,6850,Greenwood Ave N & N 137th St,48,XEV,0,0.3,3.2,0.1,4.7
+193,5,O,6870,Greenwood Ave N & N 143rd St,49,XEV,0,1.1,2.1,0.3,14.7
+193,5,O,6880,Greenwood Ave N & N 145th St,50,XEV,0.1,0.5,1.8,1.3,6.7
+193,5,O,75430,Dayton Ave N & N 150th St,51,XEV,0,0.2,1.6,0.1,2.3
+193,5,O,75450,Dayton Ave N & N 155th St,52,XEV,0,0.1,1.4,0,1.6
+193,5,O,75460,Dayton Ave N & N 160th St,53,XEV,0,0.4,1.1,0,5.4
+193,5,O,6940,N Innis Arden Way & Greenwood Ave N,54,XEV,0.1,0.3,1.1,1,3.9
+193,5,O,5492,Shoreline Community College,55,XEV,0.1,1,0.1,1.4,15.5
+193,5,I,5492,Shoreline Community College,1,XNT,1.1,0,1.1,10.7,0
+193,5,I,5502,N Innis Arden Way & Greenwood Ave N,2,XNT,0.1,0,1.2,0.9,0
+193,5,I,75110,Dayton Ave N & N 160th St,3,XNT,0,0,1.2,0.4,0.2
+193,5,I,75120,Dayton Ave N & N 155th St,4,XNT,0,0,1.2,0.3,0
+193,5,I,75140,Dayton Ave N & N 150th St,5,XNT,0,0,1.2,0.1,0.1
+193,5,I,5550,Greenwood Ave N & N 145th St,6,XNT,0.5,0.1,1.7,5.3,0.6
+193,5,I,5560,Greenwood Ave N & N 143rd St,7,XNT,0,0,1.7,0,0
+193,5,I,5580,Greenwood Ave N & N 137th St,8,XNT,0.2,0,1.8,1.9,0.1
+193,5,I,5590,Greenwood Ave N & N 134th St,9,XNT,0.2,0,2.1,2.7,0.1
+193,5,I,5610,Greenwood Ave N & N 130th St,10,XNT,0.2,0,2.2,2.2,0
+193,5,I,5630,Greenwood Ave N & N 125th St,11,XNT,0.4,0.1,2.6,4.4,0.7
+193,5,I,5640,Greenwood Ave N & N 122nd St,12,XNT,0.1,0,2.7,1,0
+193,5,I,5660,Greenwood Ave N & N 117th St,13,XNT,0.4,0,3,4.5,0.1
+193,5,I,5670,Greenwood Ave N & N 115th St,14,XNT,0.2,0,3.2,2.1,0.2
+193,5,I,5690,Greenwood Ave N & N 110th St,15,XNT,0.3,0.1,3.4,2.9,0.7
+193,5,I,5710,Greenwood Ave N & Holman Rd N,16,XNT,0.7,0.3,3.9,8.1,3.1
+193,5,I,5730,Greenwood Ave N & N 100th St,17,XNT,0,0,3.9,0.5,0.4
+193,5,I,5740,Greenwood Ave N & N 97th St,18,XNT,0.1,0,4,1.3,0
+193,5,I,5765,Greenwood Ave N & N 92nd St,19,XNT,0.1,0,4,0.6,0.4
+193,5,I,5770,Greenwood Ave N & N 90th St,20,XNT,0.1,0,4.1,1.1,0.3
+193,5,I,5771,Greenwood Ave N & N 87th St,21,XNT,0.5,0.2,4.4,5.6,2.6
+193,5,I,5790,Greenwood Ave N & N 85th St,22,XNT,1.4,0.3,5.5,15.1,2.9
+193,5,I,5810,Greenwood Ave N & N 80th St,23,XNT,0.2,0,4.1,1.9,0.2
+193,5,I,5820,Greenwood Ave N & N 78th St,24,XNT,0,0,4.1,0.1,0.1
+193,5,I,5830,Greenwood Ave N & N 76th St,25,XNT,0.1,0.1,4.2,0.7,0.5
+193,5,I,5840,Greenwood Ave N & N 74th St,26,XNT,0.3,0.1,4.3,2.5,0.7
+193,5,I,5860,Greenwood Ave N & N 70th St,27,XNT,0.1,0.1,4.3,0.8,0.8
+193,5,I,5875,Phinney Ave N & N 67th St,28,XNT,0.1,0,4.4,0.8,0.3
+193,5,I,5880,Phinney Ave N & N 65th St,29,XNT,0.2,0.1,4.5,1.8,1.2
+193,5,I,5900,Phinney Ave N & N 61st St,30,XNT,0.1,0,4.5,1,0.2
+193,5,I,5910,Phinney Ave N & N 59th St,31,XNT,0.1,0.1,4.5,1,0.7
+193,5,I,5930,Phinney Ave N & N 55th St,32,XNT,0.1,0,4.7,1.4,0
+193,5,I,5940,Phinney Ave N & N 54th St,33,XNT,0,0,4.7,0,0
+193,5,I,5960,Phinney Ave N & N 50th St,34,XNT,0,0.1,4.6,0.1,1.1
+193,5,I,5980,Phinney Ave N & N 46th St,35,XNT,0.2,0.5,4.3,2.5,5.6
+193,5,I,5990,Phinney Ave N & N 44th St,36,XNT,0,0,4.3,0.2,0.1
+193,5,I,6000,N 43rd St & Phinney Ave N,37,XNT,0,0,4.3,0.4,0.5
+193,5,I,6020,N 43rd St & Fremont Ave N,38,XNT,0.4,0.1,4.6,4.6,1.5
+193,5,I,6030,Fremont Ave N & N 41st St,39,XNT,0,0.1,4.5,0.2,1.2
+193,5,I,6040,Fremont Ave N & N 39th St,40,XNT,0,0.1,4.4,0.1,0.7
+193,5,I,6050,Aurora Ave N & N 38th St,41,XNT,0.3,0.2,4.6,3.7,2
+193,5,I,6060,Aurora Ave N & Halladay St,42,XNT,0.2,0.1,4.7,2.5,1
+193,5,I,6070,Aurora Ave N & Lynn St,43,XNT,0.6,0,5.3,6.3,0.5
+193,5,I,6080,Aurora Ave N & Crockett St,44,XNT,0.1,0,5.4,1.5,0.3
+193,5,I,6100,Aurora Ave N & Galer St,45,XNT,0.2,0.2,5.4,2.1,1.8
+193,5,I,6120,Aurora Ave N & Prospect St,46,XNT,0,0.2,5.3,0.5,2.1
+193,5,I,7430,Wall St & 5th Ave,47,XNT,0.1,0.9,4.5,0.8,9.5
+193,5,I,400,3rd Ave & Bell St,48,XNT,0.5,0.6,4.4,2.3,3.2
+193,5,I,420,3rd Ave & Virginia St,49,XNT,0.3,1,3.7,1.7,4.8
+193,5,I,431,3rd Ave & Pike St,50,XNT,0.2,1.3,2.7,1.2,6.3
+193,5,I,468,3rd Ave & Seneca St,51,XNT,0.1,0.8,2,0.3,3.9
+193,5,I,490,3rd Ave & Cherry St,52,XNT,0.1,0.9,1.2,0.6,4.3
+193,5,I,515,3rd Ave S & S Main St,53,XNT,0.2,0.9,0.6,0.9,4.6
+193,5,I,99271,SODO Busway & S Royal Brougham Way,54,XNT,0.2,3.2,0,0.2,3.2
+193,5,O,30635,4th Ave S & S Royal Brougham Way,1,XNT,0.5,0,3.2,5.1,0
+193,5,O,619,4th Ave S & S Jackson St,2,XNT,1.1,0.5,3.8,12,5.5
+193,5,O,531,3rd Ave & James St,3,XNT,0.9,0.4,4.3,9.9,4.4
+193,5,O,548,3rd Ave & Madison St,4,XNT,0.8,0.2,4.9,8.7,2.4
+193,5,O,570,3rd Ave & Union St,5,XNT,2.1,0.4,6.6,23.2,4.2
+193,5,O,590,3rd Ave & Pine St,6,XNT,3.7,0.6,9.8,44.7,7.3
+193,5,O,600,3rd Ave & Virginia St,7,XNT,1.3,0.6,10.6,16,6.9
+193,5,O,605,3rd Ave & Bell St,8,XNT,1.6,1,11.2,18.6,11.5
+193,5,O,6236,7th Ave N & Denny Way,9,XNT,1.4,0.4,11.6,17.1,4.7
+193,5,O,6290,Aurora Ave N & Prospect St,10,XNT,0.1,0.1,12.2,1.6,1.3
+193,5,O,6300,Aurora Ave N & Galer St,11,XNT,0.1,0.2,12.1,1.4,2.8
+193,5,O,6310,Aurora Ave N & Crockett St,12,XNT,0,0.1,11.9,0.2,1.7
+193,5,O,6320,Aurora Ave N & Lynn St,13,XNT,0.1,0.3,11.8,1.3,3.3
+193,5,O,6330,Aurora Ave N & Halladay St,14,XNT,0.1,0.3,11.5,1.1,4
+193,5,O,6340,Aurora Ave N & N 38th St,15,XNT,0.2,0.5,11.2,2.5,6.5
+193,5,O,6360,Fremont Ave N & N 39th St,16,XNT,0.4,0.4,11.4,4.8,5.2
+193,5,O,6380,Fremont Ave N & N 41st St,17,XNT,0,0.3,11.2,0.2,3.4
+193,5,O,6400,N 43rd St & Fremont Ave N,18,XNT,0.3,0.8,10.6,3.4,11
+193,5,O,6420,Phinney Ave N & N 43rd St,19,XNT,0,0.4,10.2,0.6,5.3
+193,5,O,6440,Phinney Ave N & N 46th St,20,XNT,0.7,0.6,10.4,9.4,7.8
+193,5,O,6460,Phinney Ave N & N 50th St,21,XNT,0,0.2,10.2,0.4,2.6
+193,5,O,6480,Phinney Ave N & N 53rd St,22,XNT,0,0,10.2,0.3,0.5
+193,5,O,6490,Phinney Ave N & N 55th St,23,XNT,0,0.1,10.1,0.4,1.3
+193,5,O,6510,Phinney Ave N & N 58th St,24,XNT,0,0.2,9.9,0.1,2.6
+193,5,O,6520,Phinney Ave N & N 60th St,25,XNT,0.1,0.3,9.8,1,3.3
+193,5,O,6540,Phinney Ave N & N 64th St,26,XNT,0,0.3,9.5,0.6,4.5
+193,5,O,6550,Phinney Ave N & N 67th St,27,XNT,0,0.2,9.4,0.5,2
+193,5,O,6565,Greenwood Ave N & N 68th St,28,XNT,0,0.2,9.2,0.4,3.2
+193,5,O,6580,Greenwood Ave N & N 72nd St,29,XNT,0.1,0.4,8.9,0.8,4.8
+193,5,O,6590,Greenwood Ave N & N 75th St,30,XNT,0,0.4,8.5,0.2,5.2
+193,5,O,6600,Greenwood Ave N & N 77th St,31,XNT,0,0.1,8.3,0.1,1.6
+193,5,O,6615,Greenwood Ave N & N 80th St,32,XNT,0,0.4,8,0.6,5.2
+193,5,O,6640,Greenwood Ave N & N 85th St,33,XNT,0.9,1.4,7.5,11.9,18.4
+193,5,O,6650,Greenwood Ave N & N 87th St,34,XNT,0.2,0.3,7.5,3.2,4.1
+193,5,O,6660,Greenwood Ave N & N 90th St,35,XNT,0,0.2,7.3,0.6,2.8
+193,5,O,6670,Greenwood Ave N & N 92nd St,36,XNT,0,0.2,7.1,0.3,2.6
+193,5,O,6685,Greenwood Ave N & N 97th St,37,XNT,0,0.2,7,0.3,2.6
+193,5,O,6693,Greenwood Ave N & N 100th St,38,XNT,0,0.2,6.9,0.1,2.6
+193,5,O,6710,Greenwood Ave N & N 103rd St,39,XNT,0.4,1,6.3,5.4,14.3
+193,5,O,6730,Greenwood Ave N & N 107th St,40,XNT,0.1,0.4,6,1.6,4.9
+193,5,O,6740,Greenwood Ave N & N 110th St,41,XNT,0,0.3,5.7,0.3,4.5
+193,5,O,6750,Greenwood Ave N & N 112th St,42,XNT,0,0.4,5.4,0.1,5
+193,5,O,6770,Greenwood Ave N & N 117th St,43,XNT,0,0.6,4.8,0.1,8.6
+193,5,O,6790,Greenwood Ave N & N 122nd St,44,XNT,0,0.2,4.6,0,2.6
+193,5,O,6800,Greenwood Ave N & N 125th St,45,XNT,0.1,0.6,4,0.8,8.9
+193,5,O,6820,Greenwood Ave N & N 130th St,46,XNT,0,0.7,3.4,0.6,9.8
+193,5,O,6840,Greenwood Ave N & N 134th St,47,XNT,0,0.6,2.8,0.4,8.1
+193,5,O,6850,Greenwood Ave N & N 137th St,48,XNT,0,0.2,2.6,0.2,3.1
+193,5,O,6870,Greenwood Ave N & N 143rd St,49,XNT,0,0.8,1.8,0.2,11.5
+193,5,O,6880,Greenwood Ave N & N 145th St,50,XNT,0,0.3,1.6,0.6,3.8
+193,5,O,75430,Dayton Ave N & N 150th St,51,XNT,0,0.1,1.6,0.1,0.8
+193,5,O,75450,Dayton Ave N & N 155th St,52,XNT,0,0.1,1.5,0.1,0.7
+193,5,O,75460,Dayton Ave N & N 160th St,53,XNT,0,0.3,1.2,0.3,4.7
+193,5,O,6940,N Innis Arden Way & Greenwood Ave N,54,XNT,0.1,0.2,1.2,1.5,3
+193,5,O,5492,Shoreline Community College,55,XNT,0.1,1.2,0.1,1.5,18

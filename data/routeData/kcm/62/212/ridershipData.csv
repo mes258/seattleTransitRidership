@@ -1,0 +1,579 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+212,62,I,10640,Sand Point Way NE & NE 74th St,1,AM,1.1,0,1.1,13.1,0
+212,62,I,9901,62nd Ave NE & NE 65th St,2,AM,0.4,0,1.4,4.5,0.1
+212,62,I,37849,NE 65th St & Sand Point Way NE,3,AM,1.2,0.2,2.2,14,2.8
+212,62,I,37850,NE 65th St & 55th Ave NE,4,AM,0.9,0.1,2.8,10.2,1
+212,62,I,37860,NE 65th St & 52nd Ave NE,5,AM,0.7,0.3,2.9,8.6,3
+212,62,I,37870,NE Princeton Way & Princeton Ave NE,6,AM,0.1,0,2.9,0.9,0
+212,62,I,37880,NE 65th St & 49th Ave NE,7,AM,0.3,0,3.2,3.2,0
+212,62,I,37890,NE 65th St & 47th Ave NE,8,AM,0.2,0,3.4,2.6,0
+212,62,I,37900,NE 65th St & 44th Ave NE,9,AM,0.6,0,4,7,0.1
+212,62,I,37910,NE 65th St & 42nd Ave NE,10,AM,0.3,0,4.3,3.5,0.2
+212,62,I,37920,NE 65th St & 39th Ave NE,11,AM,0.6,0,4.8,6.7,0
+212,62,I,37930,NE 65th St & 37th Ave NE,12,AM,0.2,0,5.1,2.8,0.1
+212,62,I,37940,NE 65th St & 35th Ave NE,13,AM,1.2,0.2,6,14.2,2.6
+212,62,I,37950,NE 65th St & 32nd Ave NE,14,AM,0.3,0.1,6.3,4,1.1
+212,62,I,37960,NE 65th St & 30th Ave NE,15,AM,0.2,0,6.4,2.2,0.4
+212,62,I,37970,NE 65th St & 28th Ave NE,16,AM,0.1,0,6.5,1,0
+212,62,I,37980,NE 65th St & 26th Ave NE,17,AM,0.2,0,6.7,2.2,0.2
+212,62,I,37990,NE 65th St & 25th Ave NE,18,AM,0.7,0.1,7.3,8.5,1.6
+212,62,I,38000,NE 65th St & Ravenna Ave NE,19,AM,0.2,0,7.5,2.6,0.3
+212,62,I,38020,NE 65th St & 18th Ave NE,20,AM,0.2,0,7.6,2.1,0.5
+212,62,I,36931,NE 65th St & 14th Ave NE,21,AM,0.8,3.4,5.1,10.1,40.3
+212,62,I,36950,NE 65th St & Roosevelt Way NE,22,AM,1.6,0.3,6.3,18.6,3.1
+212,62,I,36960,NE 65th St & Oswego Pl NE,23,AM,0.7,0.2,6.8,8,2
+212,62,I,16509,NE Ravenna Blvd & NE 65th St,24,AM,0.3,0,0.5,3,0
+212,62,I,16515,NE Ravenna Blvd & NE 68th St,25,AM,0,0,3.8,0.2,0.3
+212,62,I,16520,NE Ravenna Blvd & Woodlawn Ave NE,26,AM,0.5,0.3,4,12.2,7.6
+212,62,I,17170,Woodlawn Ave NE & 5th Ave NE,27,AM,0.3,0.1,4.2,7.2,1.5
+212,62,I,17180,Woodlawn Ave NE & 1st Ave NE,28,AM,0.1,0,4.1,1.7,0.3
+212,62,I,17209,Woodlawn Ave N & N 63rd St,29,AM,0.1,0.1,4.1,1.4,1.5
+212,62,I,17230,Kirkwood Pl N & N 59th St,30,AM,0.1,0,4.2,3.4,0
+212,62,I,17250,N 56th St & Keystone Pl N,31,AM,0.5,0.1,4.6,10.4,2.6
+212,62,I,17260,Meridian Ave N & N 54th St,32,AM,0.2,0,4.7,4.1,0.1
+212,62,I,17285,Meridian Ave N & N 48th St,33,AM,0.2,0.1,4.9,3.9,1.5
+212,62,I,17300,Meridian Ave N & N 46th St,34,AM,0.3,0.1,5.1,8,1.6
+212,62,I,17310,N 45th St & Wallingford Ave N,35,AM,0.6,0.6,5.2,13.9,13.2
+212,62,I,29530,N 45th St & Woodlawn Ave N,36,AM,0.3,0.6,4.7,6.1,12.3
+212,62,I,7350,Stone Way N & N 45th St,37,AM,0.4,0.2,5,9,3.8
+212,62,I,7360,Stone Way N & N 43rd St,38,AM,0.4,0.1,5.3,9.8,1.3
+212,62,I,7380,Stone Way N & N 40th St,39,AM,0.6,0.1,5.8,13.2,2.6
+212,62,I,7382,Stone Way N & N 38th St,40,AM,0.6,0.1,6.4,13.8,1.9
+212,62,I,26480,N 35th St & Stone Way N,41,AM,0.7,0.2,6.8,14.4,5.3
+212,62,I,26490,N 35th St & Troll Ave N,42,AM,0.1,0.1,6.8,2.3,2.3
+212,62,I,26510,Fremont Ave N & N 34th St,43,AM,0.8,0.6,7,16.7,12.4
+212,62,I,18260,Dexter Ave N & 4th Ave N,44,AM,0.3,0.1,7.2,6.9,1.9
+212,62,I,18270,Dexter Ave N & Wheeler St,45,AM,0,0.1,7.2,0.5,1.8
+212,62,I,18295,Dexter Ave N & 6th Ave N,46,AM,0.4,0,7.5,8.3,0.6
+212,62,I,18315,Dexter Ave N & Crockett St,47,AM,0.6,0,8.1,13.4,0.2
+212,62,I,18320,Dexter Ave N & Howe St,48,AM,0.3,0,8.3,5.5,0.4
+212,62,I,18340,Dexter Ave N & Galer St,49,AM,0.6,0.1,8.9,13.2,2.2
+212,62,I,18359,Dexter Ave N & Aloha St,50,AM,1,0.2,9.7,21.6,3.7
+212,62,I,18370,Dexter Ave N & Roy St,51,AM,0.3,0.6,9.5,6,12
+212,62,I,18390,Dexter Ave N & Harrison St,52,AM,0.2,0.9,8.8,3.1,17.9
+212,62,I,18402,Dexter Ave & Denny Way,53,AM,0.1,0.7,8.1,1.8,14.8
+212,62,I,6190,7th Ave & Blanchard St,54,AM,0.1,1.7,6.6,1.8,33.2
+212,62,I,420,3rd Ave & Virginia St,55,AM,0.1,1.1,5.6,2,21.5
+212,62,I,430,3rd Ave & Pine St,56,AM,0.2,1.4,4.3,3,28.2
+212,62,I,450,3rd Ave & Union St,57,AM,0.1,1.7,2.8,1.6,32
+212,62,I,480,3rd Ave & Marion St,58,AM,0,1.5,1.3,0.4,29.1
+212,62,I,500,3rd Ave & James St,59,AM,0,0.6,0.7,0.1,12.3
+212,62,I,625,S Washington St & 4th Ave S,60,AM,0.2,1,0,4.2,18.1
+212,62,O,1530,S Jackson St & 5th Ave S,1,AM,2.9,0,3.5,38.3,0.1
+212,62,O,531,3rd Ave & James St,2,AM,0.5,0.1,3.9,6.9,1.3
+212,62,O,548,3rd Ave & Madison St,3,AM,1.1,0.2,4.9,14,2
+212,62,O,570,3rd Ave & Union St,4,AM,0.9,0.2,5.6,12.3,3
+212,62,O,590,3rd Ave & Pine St,5,AM,1.9,0.3,7.2,24.1,3.3
+212,62,O,600,3rd Ave & Virginia St,6,AM,0.8,0.4,7.5,10,5.7
+212,62,O,6220,7th Ave & Blanchard St,7,AM,0.4,0.4,7.6,5,4.7
+212,62,O,6240,Dexter Ave N & Denny Way,8,AM,0.7,0.3,8,8,3
+212,62,O,18455,Dexter Ave N & Harrison St,9,AM,0.2,1,7.3,2.8,11.8
+212,62,O,18465,Dexter Ave N & Roy St,10,AM,0.4,0.4,7.3,4.6,4.7
+212,62,O,18480,Dexter Ave N & Aloha St,11,AM,0.3,0.7,6.8,3.5,8.4
+212,62,O,18505,Dexter Ave N & Galer St,12,AM,0.5,0.2,7.1,6.2,2.5
+212,62,O,18530,Dexter Ave N & Newton St,13,AM,0,0.1,7.1,0.1,1
+212,62,O,18540,Dexter Ave N & Crockett St,14,AM,0,0,7.1,0.5,0.4
+212,62,O,18550,Dexter Ave N & Wheeler St,15,AM,0.2,0.1,7.2,2.8,0.8
+212,62,O,18580,Dexter Ave N & 4th Ave N,16,AM,0.1,0.3,7.1,0.6,3
+212,62,O,18590,Dexter Ave N & 4th Ave N,17,AM,0.4,0.3,7.3,5.1,3.1
+212,62,O,26860,Fremont Ave N & N 34th St,18,AM,0.7,0.9,7,8.1,10.9
+212,62,O,26870,N 35th St & Troll Ave N,19,AM,0.1,0.1,7,0.9,0.6
+212,62,O,26885,N 35th St & Woodland Park Ave N,20,AM,0.2,1,6.2,2.1,10.8
+212,62,O,7498,Stone Way N & N 38th St,21,AM,0.3,0.1,6.4,2.8,1.5
+212,62,O,7500,Stone Way N & N 40th St,22,AM,0.2,0.2,6.4,2.5,2.5
+212,62,O,7520,Stone Way N & N 42nd St,23,AM,0,0.2,6.2,0.4,2.5
+212,62,O,7530,Stone Way N & N Allen Pl,24,AM,0.1,1.4,4.9,0.6,15.4
+212,62,O,29231,N 45th St & Stone Way N,25,AM,0.3,0.2,4.9,2.9,2.2
+212,62,O,29232,N 45th St & Woodlawn Ave N,26,AM,0.1,0.2,4.9,1.1,1.9
+212,62,O,17410,N 45th St & Wallingford Ave N,27,AM,0.3,0.6,4.5,3.6,7
+212,62,O,17420,Meridian Ave N & N 45th St,28,AM,0.2,0.1,4.7,2.7,1.6
+212,62,O,17440,Meridian Ave N & N 49th St,29,AM,0,0.1,4.6,0.2,1.2
+212,62,O,17460,Meridian Ave N & N 53rd St,30,AM,0.1,0.1,4.6,1,0.7
+212,62,O,17470,N 56th St & Keystone Pl N,31,AM,0.2,0.1,4.7,2,1.4
+212,62,O,17490,Kirkwood Pl N & N 59th St,32,AM,0,0.1,4.6,0.1,0.6
+212,62,O,17510,Woodlawn Ave N & N 63rd St,33,AM,0.1,0.1,4.6,1.2,1.1
+212,62,O,17530,Woodlawn Ave NE & Sunnyside Ave N,34,AM,0.1,0.4,4.3,0.7,4.1
+212,62,O,16390,NE Ravenna Blvd & Woodlawn Ave NE,35,AM,0.6,0.5,4.4,5.6,5.1
+212,62,O,16400,NE Ravenna Blvd & NE 68th St,36,AM,0.1,0.1,4.4,1,1
+212,62,O,16416,NE 65th St & 8th Ave NE,37,AM,0.6,0.4,4.6,5.6,3.7
+212,62,O,16430,Roosevelt Station - Bay 1,38,AM,0.5,0.7,4.4,5,7.3
+212,62,O,37360,NE 65th St & 16th Ave NE,39,AM,0.3,0.1,4.6,2.6,0.9
+212,62,O,37381,NE 65th St & 20th Ave NE,40,AM,0.2,0.2,4.6,1.6,1.8
+212,62,O,37400,NE 65th St & 23rd Ave NE,41,AM,0.1,0.2,4.4,0.6,1.6
+212,62,O,37410,NE 65th St & 25th Ave NE,42,AM,0.1,0.5,4,0.5,4.8
+212,62,O,37420,NE 65th St & 27th Ave NE,43,AM,0,0.2,3.9,0.3,1.8
+212,62,O,37430,NE 65th St & 29th Ave NE,44,AM,0,0.3,3.6,0.2,2.5
+212,62,O,37440,NE 65th St & 31st Ave NE,45,AM,0,0.2,3.4,0,2.2
+212,62,O,37450,NE 65th St & 33rd Ave NE,46,AM,0,0.2,3.3,0,1.6
+212,62,O,37460,NE 65th St & 35th Ave NE,47,AM,0.2,0.6,2.8,1.6,5.9
+212,62,O,37470,NE 65th St & 38th Ave NE,48,AM,0,0.1,2.8,0,0.6
+212,62,O,37480,NE 65th St & 40th Ave NE,49,AM,0,0.3,2.5,0.2,2.7
+212,62,O,37490,NE 65th St & 43rd Ave NE,50,AM,0,0.1,2.5,0,0.5
+212,62,O,37500,NE 65th St & 45th Ave NE,51,AM,0,0.1,2.4,0,0.6
+212,62,O,37510,NE 65th St & Wellesley Way NE,52,AM,0,0.2,2.2,0.1,2.1
+212,62,O,37841,NE 65th St & 52nd Ave NE,53,AM,0,0.1,3,0,1.1
+212,62,O,10620,Sand Point Way NE & NE 65th St,54,AM,0.1,0.5,2.6,0.5,4.2
+212,62,O,10630,Sand Point Way NE & NE 70th St,55,AM,0.1,0.6,2.2,1.2,5.5
+212,62,O,10640,Sand Point Way NE & NE 74th St,56,AM,0,2.2,0,0,20
+212,62,I,10640,Sand Point Way NE & NE 74th St,1,MID,1.8,0,1.9,45.2,0
+212,62,I,9901,62nd Ave NE & NE 65th St,2,MID,0.6,0,2.3,13.8,1.1
+212,62,I,37849,NE 65th St & Sand Point Way NE,3,MID,0.9,0.3,2.6,21.3,7.1
+212,62,I,37850,NE 65th St & 55th Ave NE,4,MID,0.3,0.1,2.7,6.7,2.4
+212,62,I,37860,NE 65th St & 52nd Ave NE,5,MID,0.5,0.3,2.5,12.7,7.5
+212,62,I,37870,NE Princeton Way & Princeton Ave NE,6,MID,0,0,2.5,0.7,0.2
+212,62,I,37880,NE 65th St & 49th Ave NE,7,MID,0,0,2.5,1.1,0.1
+212,62,I,37890,NE 65th St & 47th Ave NE,8,MID,0.1,0,2.6,2.1,0.1
+212,62,I,37900,NE 65th St & 44th Ave NE,9,MID,0.1,0,2.7,2.4,0
+212,62,I,37910,NE 65th St & 42nd Ave NE,10,MID,0.2,0.1,2.8,4,1.2
+212,62,I,37920,NE 65th St & 39th Ave NE,11,MID,0.2,0,3,4.8,0
+212,62,I,37930,NE 65th St & 37th Ave NE,12,MID,0.1,0,3,1.2,0.1
+212,62,I,37940,NE 65th St & 35th Ave NE,13,MID,1,0.2,3.8,24.5,5.7
+212,62,I,37950,NE 65th St & 32nd Ave NE,14,MID,0.1,0,3.9,3.5,0.5
+212,62,I,37960,NE 65th St & 30th Ave NE,15,MID,0.1,0,4,3.2,0.1
+212,62,I,37970,NE 65th St & 28th Ave NE,16,MID,0.1,0,4.1,2.8,0.1
+212,62,I,37980,NE 65th St & 26th Ave NE,17,MID,0.1,0,4.2,3.1,0.8
+212,62,I,37990,NE 65th St & 25th Ave NE,18,MID,0.7,0.1,4.9,17.4,2.2
+212,62,I,38000,NE 65th St & Ravenna Ave NE,19,MID,0.5,0.1,5.3,10.8,1.6
+212,62,I,38020,NE 65th St & 18th Ave NE,20,MID,0.2,0.1,5.4,4,1.6
+212,62,I,36931,NE 65th St & 14th Ave NE,21,MID,0.5,0.6,5.2,11.2,14.7
+212,62,I,36950,NE 65th St & Roosevelt Way NE,22,MID,1.2,0.7,5.7,28.3,17.2
+212,62,I,36960,NE 65th St & Oswego Pl NE,23,MID,0.6,0.2,6,13.6,5.2
+212,62,I,16509,NE Ravenna Blvd & NE 65th St,24,MID,0.1,0,0.4,0.1,0
+212,62,I,16515,NE Ravenna Blvd & NE 68th St,25,MID,0,0,5.8,0.1,0.6
+212,62,I,16520,NE Ravenna Blvd & Woodlawn Ave NE,26,MID,0.9,0.5,6.2,21.1,11.8
+212,62,I,17170,Woodlawn Ave NE & 5th Ave NE,27,MID,0.6,0.1,6.7,14.6,2.5
+212,62,I,17180,Woodlawn Ave NE & 1st Ave NE,28,MID,0.2,0.1,6.9,5.2,1.4
+212,62,I,17209,Woodlawn Ave N & N 63rd St,29,MID,0.2,0.1,7,5.3,1.8
+212,62,I,17230,Kirkwood Pl N & N 59th St,30,MID,0.1,0,7,3.1,0.6
+212,62,I,17250,N 56th St & Keystone Pl N,31,MID,0.3,0.2,7.1,7.7,5.4
+212,62,I,17260,Meridian Ave N & N 54th St,32,MID,0.2,0.1,7.3,5.9,1.3
+212,62,I,17285,Meridian Ave N & N 48th St,33,MID,0.2,0.1,7.3,3.9,2.3
+212,62,I,17300,Meridian Ave N & N 46th St,34,MID,0.3,0.3,7.4,7.5,6.6
+212,62,I,17310,N 45th St & Wallingford Ave N,35,MID,1.1,0.9,7.5,27,22.9
+212,62,I,29530,N 45th St & Woodlawn Ave N,36,MID,0.5,0.3,7.7,13.2,8.3
+212,62,I,7350,Stone Way N & N 45th St,37,MID,0.8,0.3,8.2,19.7,7.6
+212,62,I,7360,Stone Way N & N 43rd St,38,MID,0.5,0.1,8.6,14.1,3.6
+212,62,I,7380,Stone Way N & N 40th St,39,MID,0.6,0.3,8.8,15.2,7.9
+212,62,I,7382,Stone Way N & N 38th St,40,MID,0.5,0.3,9,11.6,6.4
+212,62,I,26480,N 35th St & Stone Way N,41,MID,1,0.5,9.5,24.8,13.5
+212,62,I,26490,N 35th St & Troll Ave N,42,MID,0.1,0.2,9.4,2.8,4.5
+212,62,I,26510,Fremont Ave N & N 34th St,43,MID,1.3,1,9.7,32.9,25
+212,62,I,18260,Dexter Ave N & 4th Ave N,44,MID,0.3,0.2,9.8,7.8,5.1
+212,62,I,18270,Dexter Ave N & Wheeler St,45,MID,0.2,0,10,4.3,0.7
+212,62,I,18295,Dexter Ave N & 6th Ave N,46,MID,0.4,0.1,10.2,9.2,2.6
+212,62,I,18315,Dexter Ave N & Crockett St,47,MID,0.3,0.1,10.4,7.1,2
+212,62,I,18320,Dexter Ave N & Howe St,48,MID,0.2,0.1,10.5,4.3,2.1
+212,62,I,18340,Dexter Ave N & Galer St,49,MID,0.8,0.2,11,20.8,5.9
+212,62,I,18359,Dexter Ave N & Aloha St,50,MID,1.1,0.3,11.8,29.3,8.2
+212,62,I,18370,Dexter Ave N & Roy St,51,MID,0.4,0.9,11.3,10.2,24.2
+212,62,I,18390,Dexter Ave N & Harrison St,52,MID,0.2,1,10.4,6.6,26.9
+212,62,I,18402,Dexter Ave & Denny Way,53,MID,0.2,1,9.6,5.2,26.3
+212,62,I,6190,7th Ave & Blanchard St,54,MID,0.2,1.6,8.1,5.8,42.7
+212,62,I,420,3rd Ave & Virginia St,55,MID,0.3,1.7,6.7,7.7,43.7
+212,62,I,430,3rd Ave & Pine St,56,MID,0.2,3,4,5.6,77.4
+212,62,I,450,3rd Ave & Union St,57,MID,0.1,1.3,2.8,3.6,35.2
+212,62,I,480,3rd Ave & Marion St,58,MID,0,0.9,1.9,1.2,24.5
+212,62,I,500,3rd Ave & James St,59,MID,0,0.7,1.2,0.5,19.2
+212,62,I,625,S Washington St & 4th Ave S,60,MID,0.3,1.6,0,9.2,43.8
+212,62,O,1530,S Jackson St & 5th Ave S,1,MID,2.7,0,3.1,64.1,0.3
+212,62,O,531,3rd Ave & James St,2,MID,0.9,0.2,3.8,21.3,4
+212,62,O,548,3rd Ave & Madison St,3,MID,1.2,0.2,4.8,29.1,5
+212,62,O,570,3rd Ave & Union St,4,MID,1.3,0.6,5.5,31.6,13.8
+212,62,O,590,3rd Ave & Pine St,5,MID,2.3,0.5,7.3,55.9,12.2
+212,62,O,600,3rd Ave & Virginia St,6,MID,0.9,0.5,7.6,21.6,12.4
+212,62,O,6220,7th Ave & Blanchard St,7,MID,0.8,0.4,8,18.8,8.7
+212,62,O,6240,Dexter Ave N & Denny Way,8,MID,1,0.3,8.8,25.1,6
+212,62,O,18455,Dexter Ave N & Harrison St,9,MID,0.5,0.3,8.9,11.2,7.9
+212,62,O,18465,Dexter Ave N & Roy St,10,MID,0.4,0.3,9.1,9.8,6.2
+212,62,O,18480,Dexter Ave N & Aloha St,11,MID,0.3,0.6,8.7,6.8,14.6
+212,62,O,18505,Dexter Ave N & Galer St,12,MID,0.3,0.3,8.8,7.1,6.7
+212,62,O,18530,Dexter Ave N & Newton St,13,MID,0,0.2,8.6,0.9,4.7
+212,62,O,18540,Dexter Ave N & Crockett St,14,MID,0.1,0.2,8.5,2.4,4.3
+212,62,O,18550,Dexter Ave N & Wheeler St,15,MID,0.1,0.1,8.6,3.1,2.4
+212,62,O,18580,Dexter Ave N & 4th Ave N,16,MID,0.1,0.2,8.5,2.1,4
+212,62,O,18590,Dexter Ave N & 4th Ave N,17,MID,0.1,0.1,8.5,3.3,3.5
+212,62,O,26860,Fremont Ave N & N 34th St,18,MID,1.2,1.2,8.4,26.5,26.9
+212,62,O,26870,N 35th St & Troll Ave N,19,MID,0.2,0.2,8.4,5.3,4.8
+212,62,O,26885,N 35th St & Woodland Park Ave N,20,MID,0.7,0.9,8.2,16.4,20.8
+212,62,O,7498,Stone Way N & N 38th St,21,MID,0.3,0.4,8.2,7.8,8.6
+212,62,O,7500,Stone Way N & N 40th St,22,MID,0.4,0.4,8.3,10.7,9
+212,62,O,7520,Stone Way N & N 42nd St,23,MID,0.1,0.3,8.1,3.5,6
+212,62,O,7530,Stone Way N & N Allen Pl,24,MID,0.1,0.5,7.8,2.6,11.3
+212,62,O,29231,N 45th St & Stone Way N,25,MID,0.4,0.7,7.6,10.1,15.7
+212,62,O,29232,N 45th St & Woodlawn Ave N,26,MID,0.3,0.5,7.4,7.6,11.3
+212,62,O,17410,N 45th St & Wallingford Ave N,27,MID,0.8,1.3,6.9,18.9,31.7
+212,62,O,17420,Meridian Ave N & N 45th St,28,MID,0.2,0.4,6.5,5.6,8.6
+212,62,O,17440,Meridian Ave N & N 49th St,29,MID,0,0.2,6.4,1.1,4.3
+212,62,O,17460,Meridian Ave N & N 53rd St,30,MID,0,0.1,6.3,1,3.4
+212,62,O,17470,N 56th St & Keystone Pl N,31,MID,0.2,0.3,6.2,3.7,6.2
+212,62,O,17490,Kirkwood Pl N & N 59th St,32,MID,0,0.1,6.1,0.5,2.2
+212,62,O,17510,Woodlawn Ave N & N 63rd St,33,MID,0.1,0.2,6,1.8,4
+212,62,O,17530,Woodlawn Ave NE & Sunnyside Ave N,34,MID,0,0.3,5.8,0.7,6.9
+212,62,O,16390,NE Ravenna Blvd & Woodlawn Ave NE,35,MID,0.5,1.3,4.9,12.8,31.8
+212,62,O,16400,NE Ravenna Blvd & NE 68th St,36,MID,0.1,0.1,4.9,1.8,2.1
+212,62,O,16416,NE 65th St & 8th Ave NE,37,MID,0.3,0.5,4.6,6.1,12.5
+212,62,O,16430,Roosevelt Station - Bay 1,38,MID,0.8,1.2,4.2,19.2,28.5
+212,62,O,37360,NE 65th St & 16th Ave NE,39,MID,0.8,0.3,4.8,18.6,6.2
+212,62,O,37381,NE 65th St & 20th Ave NE,40,MID,0.1,0.2,4.6,1.9,5.9
+212,62,O,37400,NE 65th St & 23rd Ave NE,41,MID,0.1,0.2,4.4,2,5.3
+212,62,O,37410,NE 65th St & 25th Ave NE,42,MID,0.1,0.5,4,2.6,11.9
+212,62,O,37420,NE 65th St & 27th Ave NE,43,MID,0,0.1,4,0.6,2.1
+212,62,O,37430,NE 65th St & 29th Ave NE,44,MID,0,0.1,3.9,0.3,3.5
+212,62,O,37440,NE 65th St & 31st Ave NE,45,MID,0,0.1,3.8,0.3,2.9
+212,62,O,37450,NE 65th St & 33rd Ave NE,46,MID,0,0.3,3.6,0.1,6
+212,62,O,37460,NE 65th St & 35th Ave NE,47,MID,0.2,0.7,3,5.1,16.6
+212,62,O,37470,NE 65th St & 38th Ave NE,48,MID,0,0.1,2.9,0.1,2.7
+212,62,O,37480,NE 65th St & 40th Ave NE,49,MID,0.1,0.3,2.6,1.6,7.9
+212,62,O,37490,NE 65th St & 43rd Ave NE,50,MID,0,0.1,2.5,0.1,1.7
+212,62,O,37500,NE 65th St & 45th Ave NE,51,MID,0,0.1,2.4,0,1.9
+212,62,O,37510,NE 65th St & Wellesley Way NE,52,MID,0,0.2,2.2,0.3,5.2
+212,62,O,37841,NE 65th St & 52nd Ave NE,53,MID,0,0.3,3,0.2,6.7
+212,62,O,10620,Sand Point Way NE & NE 65th St,54,MID,0.1,0.5,2.5,1.7,12.1
+212,62,O,10630,Sand Point Way NE & NE 70th St,55,MID,0,0.5,2.1,0.6,12.1
+212,62,O,10640,Sand Point Way NE & NE 74th St,56,MID,0,2.1,0,0.2,51.4
+212,62,I,10640,Sand Point Way NE & NE 74th St,1,PM,2.3,0,2.3,34.8,0
+212,62,I,9901,62nd Ave NE & NE 65th St,2,PM,0.6,0,2.8,9,0.5
+212,62,I,37849,NE 65th St & Sand Point Way NE,3,PM,1.5,0.5,3.3,22.1,7.2
+212,62,I,37850,NE 65th St & 55th Ave NE,4,PM,0.2,0.1,3.4,3.4,1.6
+212,62,I,37860,NE 65th St & 52nd Ave NE,5,PM,0.6,0.4,3.1,9.7,6.3
+212,62,I,37870,NE Princeton Way & Princeton Ave NE,6,PM,0,0,3,0.5,0.4
+212,62,I,37880,NE 65th St & 49th Ave NE,7,PM,0.1,0,3.1,0.8,0
+212,62,I,37890,NE 65th St & 47th Ave NE,8,PM,0.1,0,3.2,1.4,0.1
+212,62,I,37900,NE 65th St & 44th Ave NE,9,PM,0.1,0,3.3,1.7,0
+212,62,I,37910,NE 65th St & 42nd Ave NE,10,PM,0.2,0,3.4,2.6,0.5
+212,62,I,37920,NE 65th St & 39th Ave NE,11,PM,0.3,0,3.7,5.5,0.7
+212,62,I,37930,NE 65th St & 37th Ave NE,12,PM,0.1,0,3.7,0.9,0.1
+212,62,I,37940,NE 65th St & 35th Ave NE,13,PM,1.2,0.3,4.7,19.9,4.1
+212,62,I,37950,NE 65th St & 32nd Ave NE,14,PM,0.2,0.1,4.8,3.1,1.1
+212,62,I,37960,NE 65th St & 30th Ave NE,15,PM,0.2,0,5.1,3.9,0.3
+212,62,I,37970,NE 65th St & 28th Ave NE,16,PM,0.2,0,5.2,3.2,0.3
+212,62,I,37980,NE 65th St & 26th Ave NE,17,PM,0.1,0.1,5.3,1.9,1
+212,62,I,37990,NE 65th St & 25th Ave NE,18,PM,1,0.1,6.2,16,1.6
+212,62,I,38000,NE 65th St & Ravenna Ave NE,19,PM,0.4,0.1,6.4,7,2.1
+212,62,I,38020,NE 65th St & 18th Ave NE,20,PM,0.2,0.2,6.5,2.6,2.4
+212,62,I,36931,NE 65th St & 14th Ave NE,21,PM,0.6,0.7,6.5,8.5,10.1
+212,62,I,36950,NE 65th St & Roosevelt Way NE,22,PM,1.4,1.1,6.8,21.3,16.9
+212,62,I,36960,NE 65th St & Oswego Pl NE,23,PM,0.5,0.3,7,8.2,4.9
+212,62,I,16515,NE Ravenna Blvd & NE 68th St,25,PM,0,0.1,6.9,0.1,1.6
+212,62,I,16520,NE Ravenna Blvd & Woodlawn Ave NE,26,PM,0.9,0.9,6.8,14.3,13.7
+212,62,I,17170,Woodlawn Ave NE & 5th Ave NE,27,PM,0.7,0.2,7.4,11.1,2.7
+212,62,I,17180,Woodlawn Ave NE & 1st Ave NE,28,PM,0.4,0.1,7.7,6,1.2
+212,62,I,17209,Woodlawn Ave N & N 63rd St,29,PM,0.2,0.2,7.7,2.7,2.4
+212,62,I,17230,Kirkwood Pl N & N 59th St,30,PM,0.1,0.1,7.7,1.6,1.1
+212,62,I,17250,N 56th St & Keystone Pl N,31,PM,0.2,0.4,7.6,3.9,5.6
+212,62,I,17260,Meridian Ave N & N 54th St,32,PM,0.2,0.1,7.7,3.2,1.7
+212,62,I,17285,Meridian Ave N & N 48th St,33,PM,0.2,0.2,7.7,2.5,2.6
+212,62,I,17300,Meridian Ave N & N 46th St,34,PM,0.3,0.5,7.6,5.3,7.2
+212,62,I,17310,N 45th St & Wallingford Ave N,35,PM,1.5,0.9,8.1,24,14.9
+212,62,I,29530,N 45th St & Woodlawn Ave N,36,PM,0.9,0.3,8.6,13.6,5.3
+212,62,I,7350,Stone Way N & N 45th St,37,PM,1.2,0.5,9.4,19.8,7.5
+212,62,I,7360,Stone Way N & N 43rd St,38,PM,1,0.2,10.2,15.9,2.5
+212,62,I,7380,Stone Way N & N 40th St,39,PM,0.6,0.5,10.4,10.5,7.9
+212,62,I,7382,Stone Way N & N 38th St,40,PM,0.4,0.4,10.4,7.3,7.3
+212,62,I,26480,N 35th St & Stone Way N,41,PM,1.8,0.9,11.6,29.3,13.9
+212,62,I,26490,N 35th St & Troll Ave N,42,PM,0.2,0.4,11.4,2.9,6.7
+212,62,I,26510,Fremont Ave N & N 34th St,43,PM,2.2,1.8,11.8,35.5,28.4
+212,62,I,18260,Dexter Ave N & 4th Ave N,44,PM,0.4,0.5,11.7,6,7.6
+212,62,I,18270,Dexter Ave N & Wheeler St,45,PM,0.1,0.1,11.8,2.3,0.9
+212,62,I,18295,Dexter Ave N & 6th Ave N,46,PM,0.2,0.3,11.7,3.5,4.8
+212,62,I,18315,Dexter Ave N & Crockett St,47,PM,0.3,0.2,11.8,4.6,3.1
+212,62,I,18320,Dexter Ave N & Howe St,48,PM,0.3,0.1,12,4,1.5
+212,62,I,18340,Dexter Ave N & Galer St,49,PM,0.8,0.5,12.2,12,8.7
+212,62,I,18359,Dexter Ave N & Aloha St,50,PM,1.6,0.5,13.3,25.7,7.6
+212,62,I,18370,Dexter Ave N & Roy St,51,PM,0.4,0.7,13.1,7.1,11.5
+212,62,I,18390,Dexter Ave N & Harrison St,52,PM,0.5,0.7,13.2,8.2,10.8
+212,62,I,18402,Dexter Ave & Denny Way,53,PM,0.2,1.7,11.7,3.3,25.8
+212,62,I,6190,7th Ave & Blanchard St,54,PM,0.5,1.5,10.8,7.7,24
+212,62,I,420,3rd Ave & Virginia St,55,PM,0.3,2.8,8.3,5,44
+212,62,I,430,3rd Ave & Pine St,56,PM,0.2,3.8,4.7,3.2,61.5
+212,62,I,450,3rd Ave & Union St,57,PM,0.2,1.5,3.4,2.7,23.3
+212,62,I,480,3rd Ave & Marion St,58,PM,0.1,1,2.5,1.7,15.6
+212,62,I,500,3rd Ave & James St,59,PM,0,0.8,1.8,0.4,12.2
+212,62,I,625,S Washington St & 4th Ave S,60,PM,0.2,2,0,3.1,30.2
+212,62,O,1530,S Jackson St & 5th Ave S,1,PM,2.2,0,2.8,49.1,0.1
+212,62,O,531,3rd Ave & James St,2,PM,1,0.2,3.6,21.8,4.5
+212,62,O,548,3rd Ave & Madison St,3,PM,2,0.2,5.3,43,4.6
+212,62,O,570,3rd Ave & Union St,4,PM,2.1,0.4,6.9,45.2,9.1
+212,62,O,590,3rd Ave & Pine St,5,PM,2.8,0.4,9.4,57.9,8.4
+212,62,O,600,3rd Ave & Virginia St,6,PM,1.1,0.5,10.1,24.3,10.6
+212,62,O,6220,7th Ave & Blanchard St,7,PM,2.5,0.3,12.2,54,7.6
+212,62,O,6240,Dexter Ave N & Denny Way,8,PM,1.4,0.3,13.2,30.3,7.3
+212,62,O,18455,Dexter Ave N & Harrison St,9,PM,1.4,0.3,14.3,30.1,5.5
+212,62,O,18465,Dexter Ave N & Roy St,10,PM,1.1,0.4,15,23.3,9
+212,62,O,18480,Dexter Ave N & Aloha St,11,PM,0.7,1.3,14.4,14.4,27.6
+212,62,O,18505,Dexter Ave N & Galer St,12,PM,0.3,0.7,14,7.4,14.7
+212,62,O,18530,Dexter Ave N & Newton St,13,PM,0.1,0.4,13.9,2.2,7.7
+212,62,O,18540,Dexter Ave N & Crockett St,14,PM,0.1,0.6,13.4,2.9,13.3
+212,62,O,18550,Dexter Ave N & Wheeler St,15,PM,0.1,0.3,13.2,1.9,6.3
+212,62,O,18580,Dexter Ave N & 4th Ave N,16,PM,0,0.1,13.1,0.9,2.3
+212,62,O,18590,Dexter Ave N & 4th Ave N,17,PM,0.2,0.3,13,3.2,6.6
+212,62,O,26860,Fremont Ave N & N 34th St,18,PM,1.7,1.6,12.9,36.3,34.7
+212,62,O,26870,N 35th St & Troll Ave N,19,PM,0.3,0.3,12.9,6.7,7.3
+212,62,O,26885,N 35th St & Woodland Park Ave N,20,PM,0.7,1.5,12.2,16.4,32.3
+212,62,O,7498,Stone Way N & N 38th St,21,PM,0.5,0.8,11.9,9.9,16.7
+212,62,O,7500,Stone Way N & N 40th St,22,PM,0.4,0.6,11.6,8.8,14.1
+212,62,O,7520,Stone Way N & N 42nd St,23,PM,0.1,0.5,11.2,2.2,10.1
+212,62,O,7530,Stone Way N & N Allen Pl,24,PM,0.2,0.5,10.8,3.3,11.9
+212,62,O,29231,N 45th St & Stone Way N,25,PM,0.8,0.9,10.7,17.3,19.8
+212,62,O,29232,N 45th St & Woodlawn Ave N,26,PM,0.6,0.4,11,11.9,9.2
+212,62,O,17410,N 45th St & Wallingford Ave N,27,PM,1,1.8,10.2,21.2,38.2
+212,62,O,17420,Meridian Ave N & N 45th St,28,PM,0.4,0.7,9.9,7.8,14.5
+212,62,O,17440,Meridian Ave N & N 49th St,29,PM,0.2,0.4,9.7,3.3,7.9
+212,62,O,17460,Meridian Ave N & N 53rd St,30,PM,0.1,0.4,9.4,1.1,8.1
+212,62,O,17470,N 56th St & Keystone Pl N,31,PM,0.2,0.6,9,4.9,14.1
+212,62,O,17490,Kirkwood Pl N & N 59th St,32,PM,0,0.2,8.8,0.5,4.4
+212,62,O,17510,Woodlawn Ave N & N 63rd St,33,PM,0.1,0.2,8.8,2.5,4.1
+212,62,O,17530,Woodlawn Ave NE & Sunnyside Ave N,34,PM,0.1,0.6,8.3,1.4,12.1
+212,62,O,16390,NE Ravenna Blvd & Woodlawn Ave NE,35,PM,0.7,1.9,7,14.6,41.5
+212,62,O,16400,NE Ravenna Blvd & NE 68th St,36,PM,0.1,0.1,7.1,1.2,2.4
+212,62,O,16416,NE 65th St & 8th Ave NE,37,PM,0.4,0.8,6.7,7.5,16
+212,62,O,16430,Roosevelt Station - Bay 1,38,PM,1.3,1.9,6.1,27.6,40
+212,62,O,37360,NE 65th St & 16th Ave NE,39,PM,1.5,0.5,7.1,31.1,10.4
+212,62,O,37381,NE 65th St & 20th Ave NE,40,PM,0.1,0.4,6.7,1.4,9.4
+212,62,O,37400,NE 65th St & 23rd Ave NE,41,PM,0.1,0.4,6.4,1.1,7.5
+212,62,O,37410,NE 65th St & 25th Ave NE,42,PM,0.2,0.9,5.6,3.5,19.9
+212,62,O,37420,NE 65th St & 27th Ave NE,43,PM,0,0.2,5.5,0.2,3.5
+212,62,O,37430,NE 65th St & 29th Ave NE,44,PM,0,0.2,5.3,0.4,4.5
+212,62,O,37440,NE 65th St & 31st Ave NE,45,PM,0,0.3,5.1,0.4,5.5
+212,62,O,37450,NE 65th St & 33rd Ave NE,46,PM,0,0.4,4.6,0.5,9.4
+212,62,O,37460,NE 65th St & 35th Ave NE,47,PM,0.3,1.2,3.8,5.2,23.9
+212,62,O,37470,NE 65th St & 38th Ave NE,48,PM,0,0.2,3.6,0.1,4.5
+212,62,O,37480,NE 65th St & 40th Ave NE,49,PM,0,0.4,3.3,1,9.1
+212,62,O,37490,NE 65th St & 43rd Ave NE,50,PM,0,0.3,3,0.2,6
+212,62,O,37500,NE 65th St & 45th Ave NE,51,PM,0,0.3,2.7,0,5.5
+212,62,O,37510,NE 65th St & Wellesley Way NE,52,PM,0,0.5,2.3,0.4,9.6
+212,62,O,37841,NE 65th St & 52nd Ave NE,53,PM,0,0.4,2.8,0.3,7.9
+212,62,O,10620,Sand Point Way NE & NE 65th St,54,PM,0.1,0.8,2.1,1.2,16.5
+212,62,O,10630,Sand Point Way NE & NE 70th St,55,PM,0,0.6,1.7,0.5,12.4
+212,62,O,10640,Sand Point Way NE & NE 74th St,56,PM,0,1.9,0,0.9,38.9
+212,62,I,10640,Sand Point Way NE & NE 74th St,1,XEV,1.3,0,1.3,14.5,0
+212,62,I,9901,62nd Ave NE & NE 65th St,2,XEV,0.2,0,1.5,2.3,0.2
+212,62,I,37849,NE 65th St & Sand Point Way NE,3,XEV,0.7,0.3,1.7,7.8,3.2
+212,62,I,37850,NE 65th St & 55th Ave NE,4,XEV,0.2,0,1.8,1.6,0.3
+212,62,I,37860,NE 65th St & 52nd Ave NE,5,XEV,0.3,0.2,1.7,3,2.3
+212,62,I,37870,NE Princeton Way & Princeton Ave NE,6,XEV,0,0,1.6,0.2,0
+212,62,I,37880,NE 65th St & 49th Ave NE,7,XEV,0,0,1.6,0.1,0.1
+212,62,I,37890,NE 65th St & 47th Ave NE,8,XEV,0,0,1.6,0.2,0
+212,62,I,37900,NE 65th St & 44th Ave NE,9,XEV,0,0,1.6,0.3,0.1
+212,62,I,37910,NE 65th St & 42nd Ave NE,10,XEV,0.1,0,1.7,1.1,0.4
+212,62,I,37920,NE 65th St & 39th Ave NE,11,XEV,0.2,0,1.9,1.9,0.2
+212,62,I,37930,NE 65th St & 37th Ave NE,12,XEV,0.1,0,1.9,0.7,0
+212,62,I,37940,NE 65th St & 35th Ave NE,13,XEV,0.4,0.1,2.2,4.3,1.3
+212,62,I,37950,NE 65th St & 32nd Ave NE,14,XEV,0.1,0,2.3,0.8,0.2
+212,62,I,37960,NE 65th St & 30th Ave NE,15,XEV,0,0,2.3,0.2,0
+212,62,I,37970,NE 65th St & 28th Ave NE,16,XEV,0,0,2.3,0,0.1
+212,62,I,37980,NE 65th St & 26th Ave NE,17,XEV,0.1,0,2.4,0.8,0
+212,62,I,37990,NE 65th St & 25th Ave NE,18,XEV,0.3,0,2.7,3.2,0.4
+212,62,I,38000,NE 65th St & Ravenna Ave NE,19,XEV,0.2,0,2.8,1.9,0.2
+212,62,I,38020,NE 65th St & 18th Ave NE,20,XEV,0.1,0.1,2.8,1,0.7
+212,62,I,36931,NE 65th St & 14th Ave NE,21,XEV,0.2,0.2,3,2.7,2.2
+212,62,I,36950,NE 65th St & Roosevelt Way NE,22,XEV,1.1,0.5,3.5,11.6,5.6
+212,62,I,36960,NE 65th St & Oswego Pl NE,23,XEV,0.2,0.1,3.6,2.6,1.5
+212,62,I,16515,NE Ravenna Blvd & NE 68th St,25,XEV,0,0,3.6,0,0.2
+212,62,I,16520,NE Ravenna Blvd & Woodlawn Ave NE,26,XEV,0.6,0.3,3.8,6.2,3.7
+212,62,I,17170,Woodlawn Ave NE & 5th Ave NE,27,XEV,0.5,0.1,4.3,5.2,0.7
+212,62,I,17180,Woodlawn Ave NE & 1st Ave NE,28,XEV,0.4,0,4.6,4.3,0.1
+212,62,I,17209,Woodlawn Ave N & N 63rd St,29,XEV,0.1,0.1,4.6,1.1,1
+212,62,I,17230,Kirkwood Pl N & N 59th St,30,XEV,0,0,4.6,0.5,0.2
+212,62,I,17250,N 56th St & Keystone Pl N,31,XEV,0.1,0.1,4.6,1.1,1.6
+212,62,I,17260,Meridian Ave N & N 54th St,32,XEV,0.1,0.1,4.6,1,0.6
+212,62,I,17285,Meridian Ave N & N 48th St,33,XEV,0.1,0.1,4.6,0.7,0.7
+212,62,I,17300,Meridian Ave N & N 46th St,34,XEV,0.2,0.3,4.5,2,3.2
+212,62,I,17310,N 45th St & Wallingford Ave N,35,XEV,1,0.5,5,10.8,5.2
+212,62,I,29530,N 45th St & Woodlawn Ave N,36,XEV,0.3,0.1,5.2,3.2,1.2
+212,62,I,7350,Stone Way N & N 45th St,37,XEV,0.6,0.2,5.5,6.1,2.5
+212,62,I,7360,Stone Way N & N 43rd St,38,XEV,0.2,0.1,5.5,1.8,1.1
+212,62,I,7380,Stone Way N & N 40th St,39,XEV,0.5,0.3,5.7,5.5,3.5
+212,62,I,7382,Stone Way N & N 38th St,40,XEV,0.3,0.2,5.8,2.9,2.2
+212,62,I,26480,N 35th St & Stone Way N,41,XEV,1.2,0.4,6.6,13.9,4.7
+212,62,I,26490,N 35th St & Troll Ave N,42,XEV,0.1,0.2,6.5,1.1,2
+212,62,I,26510,Fremont Ave N & N 34th St,43,XEV,1.6,0.7,7.3,18.1,8.2
+212,62,I,18260,Dexter Ave N & 4th Ave N,44,XEV,0.2,0.2,7.3,2.1,2.1
+212,62,I,18270,Dexter Ave N & Wheeler St,45,XEV,0.1,0,7.4,1.1,0.4
+212,62,I,18295,Dexter Ave N & 6th Ave N,46,XEV,0.1,0.2,7.3,1.3,2.4
+212,62,I,18315,Dexter Ave N & Crockett St,47,XEV,0.1,0.1,7.3,1.6,1.6
+212,62,I,18320,Dexter Ave N & Howe St,48,XEV,0.1,0,7.3,0.9,0.5
+212,62,I,18340,Dexter Ave N & Galer St,49,XEV,0.4,0.3,7.4,4.2,3.5
+212,62,I,18359,Dexter Ave N & Aloha St,50,XEV,0.8,0.5,7.7,8.4,5.1
+212,62,I,18370,Dexter Ave N & Roy St,51,XEV,0.2,0.5,7.4,1.8,5.2
+212,62,I,18390,Dexter Ave N & Harrison St,52,XEV,0.1,0.6,6.9,1.1,6.6
+212,62,I,18402,Dexter Ave & Denny Way,53,XEV,0.1,1.3,5.7,1.4,15.7
+212,62,I,6190,7th Ave & Blanchard St,54,XEV,0.2,0.9,5,1.8,10.2
+212,62,I,420,3rd Ave & Virginia St,55,XEV,0.2,1.4,3.8,2.4,17.2
+212,62,I,430,3rd Ave & Pine St,56,XEV,0.2,1.9,2.1,2,22.4
+212,62,I,450,3rd Ave & Union St,57,XEV,0.1,0.8,1.5,1.7,9.6
+212,62,I,480,3rd Ave & Marion St,58,XEV,0,0.5,1,0.3,5.8
+212,62,I,500,3rd Ave & James St,59,XEV,0,0.4,0.6,0.2,5.6
+212,62,I,625,S Washington St & 4th Ave S,60,XEV,0.1,0.8,0,1.4,9
+212,62,O,1530,S Jackson St & 5th Ave S,1,XEV,1.9,0,2.4,20.7,0.5
+212,62,O,531,3rd Ave & James St,2,XEV,0.6,0.2,2.8,6.1,2
+212,62,O,548,3rd Ave & Madison St,3,XEV,0.8,0.2,3.4,9.2,2.3
+212,62,O,570,3rd Ave & Union St,4,XEV,1.1,0.3,4.2,12.2,3.6
+212,62,O,590,3rd Ave & Pine St,5,XEV,2.3,0.3,6.1,28,3.9
+212,62,O,600,3rd Ave & Virginia St,6,XEV,0.9,0.4,6.6,10.2,5
+212,62,O,6220,7th Ave & Blanchard St,7,XEV,1.4,0.2,7.7,16.4,2.4
+212,62,O,6240,Dexter Ave N & Denny Way,8,XEV,0.7,0.3,8.1,7.6,3
+212,62,O,18455,Dexter Ave N & Harrison St,9,XEV,0.7,0.2,8.5,7.6,2.1
+212,62,O,18465,Dexter Ave N & Roy St,10,XEV,0.6,0.4,8.7,6.8,4.6
+212,62,O,18480,Dexter Ave N & Aloha St,11,XEV,0.6,1,8.3,6.4,10.8
+212,62,O,18505,Dexter Ave N & Galer St,12,XEV,0.2,0.5,8,2,5.5
+212,62,O,18530,Dexter Ave N & Newton St,13,XEV,0.1,0.2,8.2,0.7,2.5
+212,62,O,18540,Dexter Ave N & Crockett St,14,XEV,0.1,0.4,7.9,1,4.2
+212,62,O,18550,Dexter Ave N & Wheeler St,15,XEV,0.1,0.3,7.7,1,3.2
+212,62,O,18580,Dexter Ave N & 4th Ave N,16,XEV,0,0.1,7.6,0.2,1.7
+212,62,O,18590,Dexter Ave N & 4th Ave N,17,XEV,0.1,0.2,7.5,0.7,2
+212,62,O,26860,Fremont Ave N & N 34th St,18,XEV,1.3,1.1,7.7,15.9,13
+212,62,O,26870,N 35th St & Troll Ave N,19,XEV,0.2,0.1,7.8,2.2,1.7
+212,62,O,26885,N 35th St & Woodland Park Ave N,20,XEV,0.7,0.7,7.8,8.4,8.5
+212,62,O,7498,Stone Way N & N 38th St,21,XEV,0.3,0.4,7.7,4.1,4.5
+212,62,O,7500,Stone Way N & N 40th St,22,XEV,0.3,0.5,7.5,3.4,5.7
+212,62,O,7520,Stone Way N & N 42nd St,23,XEV,0.1,0.2,7.3,0.6,2.8
+212,62,O,7530,Stone Way N & N Allen Pl,24,XEV,0.1,0.3,7.2,0.9,3
+212,62,O,29231,N 45th St & Stone Way N,25,XEV,0.3,0.4,7,3.2,4.8
+212,62,O,29232,N 45th St & Woodlawn Ave N,26,XEV,0.1,0.2,6.9,1.5,3.2
+212,62,O,17410,N 45th St & Wallingford Ave N,27,XEV,0.6,1.2,6.3,8.1,15.7
+212,62,O,17420,Meridian Ave N & N 45th St,28,XEV,0.3,0.5,6.1,4,6.9
+212,62,O,17440,Meridian Ave N & N 49th St,29,XEV,0.1,0.2,5.9,0.9,2.9
+212,62,O,17460,Meridian Ave N & N 53rd St,30,XEV,0,0.2,5.8,0.4,2.1
+212,62,O,17470,N 56th St & Keystone Pl N,31,XEV,0.2,0.4,5.8,2.7,4.2
+212,62,O,17490,Kirkwood Pl N & N 59th St,32,XEV,0,0.1,5.7,0.1,1.5
+212,62,O,17510,Woodlawn Ave N & N 63rd St,33,XEV,0.1,0.1,5.6,0.6,1.7
+212,62,O,17530,Woodlawn Ave NE & Sunnyside Ave N,34,XEV,0,0.2,5.4,0.5,2.4
+212,62,O,16390,NE Ravenna Blvd & Woodlawn Ave NE,35,XEV,0.5,1.1,4.9,6.1,13.1
+212,62,O,16400,NE Ravenna Blvd & NE 68th St,36,XEV,0,0.1,4.8,0.2,1
+212,62,O,16416,NE 65th St & 8th Ave NE,37,XEV,0.2,0.7,4.3,2.2,8.6
+212,62,O,16430,Roosevelt Station - Bay 1,38,XEV,0.6,1.2,3.6,7.3,15.5
+212,62,O,37360,NE 65th St & 16th Ave NE,39,XEV,0.2,0.3,3.5,2.7,4.2
+212,62,O,37381,NE 65th St & 20th Ave NE,40,XEV,0,0.2,3.4,0.4,2.8
+212,62,O,37400,NE 65th St & 23rd Ave NE,41,XEV,0,0.2,3.2,0.1,2.3
+212,62,O,37410,NE 65th St & 25th Ave NE,42,XEV,0.1,0.6,2.7,0.7,7.2
+212,62,O,37420,NE 65th St & 27th Ave NE,43,XEV,0,0.1,2.6,0,1.2
+212,62,O,37430,NE 65th St & 29th Ave NE,44,XEV,0,0.1,2.5,0.1,1.4
+212,62,O,37440,NE 65th St & 31st Ave NE,45,XEV,0,0.1,2.5,0,1.5
+212,62,O,37450,NE 65th St & 33rd Ave NE,46,XEV,0,0.2,2.3,0,2.2
+212,62,O,37460,NE 65th St & 35th Ave NE,47,XEV,0.1,0.5,1.9,1.6,6.9
+212,62,O,37470,NE 65th St & 38th Ave NE,48,XEV,0,0.1,1.8,0,1.4
+212,62,O,37480,NE 65th St & 40th Ave NE,49,XEV,0.1,0.2,1.7,0.7,2.2
+212,62,O,37490,NE 65th St & 43rd Ave NE,50,XEV,0,0.1,1.7,0,0.7
+212,62,O,37500,NE 65th St & 45th Ave NE,51,XEV,0,0,1.6,0,0.4
+212,62,O,37510,NE 65th St & Wellesley Way NE,52,XEV,0,0.2,1.5,0.1,2.3
+212,62,O,37841,NE 65th St & 52nd Ave NE,53,XEV,0,0.2,1.8,0.2,2.2
+212,62,O,10620,Sand Point Way NE & NE 65th St,54,XEV,0.1,0.5,1.4,1.3,6.5
+212,62,O,10630,Sand Point Way NE & NE 70th St,55,XEV,0,0.4,1.2,0.1,4.7
+212,62,O,10640,Sand Point Way NE & NE 74th St,56,XEV,0,1.3,0,0.1,16.5
+212,62,I,10640,Sand Point Way NE & NE 74th St,1,XNT,1.1,0,1.1,5.4,0
+212,62,I,9901,62nd Ave NE & NE 65th St,2,XNT,0.1,0,1.2,0.6,0.1
+212,62,I,37849,NE 65th St & Sand Point Way NE,3,XNT,0.5,0.2,1.3,2.3,0.9
+212,62,I,37850,NE 65th St & 55th Ave NE,4,XNT,0,0,1.4,0.2,0.1
+212,62,I,37860,NE 65th St & 52nd Ave NE,5,XNT,0.3,0.2,1.2,1.8,1.3
+212,62,I,37870,NE Princeton Way & Princeton Ave NE,6,XNT,0,0,1.2,0.1,0.1
+212,62,I,37880,NE 65th St & 49th Ave NE,7,XNT,0,0,1.2,0.1,0
+212,62,I,37890,NE 65th St & 47th Ave NE,8,XNT,0,0,1.2,0,0.1
+212,62,I,37900,NE 65th St & 44th Ave NE,9,XNT,0.1,0,1.2,0.3,0.2
+212,62,I,37910,NE 65th St & 42nd Ave NE,10,XNT,0.1,0,1.3,0.3,0
+212,62,I,37920,NE 65th St & 39th Ave NE,11,XNT,0.1,0,1.4,0.5,0
+212,62,I,37930,NE 65th St & 37th Ave NE,12,XNT,0,0,1.4,0.1,0
+212,62,I,37940,NE 65th St & 35th Ave NE,13,XNT,0.2,0.1,1.5,0.9,0.3
+212,62,I,37950,NE 65th St & 32nd Ave NE,14,XNT,0,0,1.5,0.2,0
+212,62,I,37960,NE 65th St & 30th Ave NE,15,XNT,0,0,1.6,0,0
+212,62,I,37970,NE 65th St & 28th Ave NE,16,XNT,0,0,1.6,0,0
+212,62,I,37980,NE 65th St & 26th Ave NE,17,XNT,0,0,1.6,0,0
+212,62,I,37990,NE 65th St & 25th Ave NE,18,XNT,0.2,0,1.7,1,0.1
+212,62,I,38000,NE 65th St & Ravenna Ave NE,19,XNT,0.1,0,1.8,0.3,0
+212,62,I,38020,NE 65th St & 18th Ave NE,20,XNT,0,0.1,1.7,0,0.4
+212,62,I,36931,NE 65th St & 14th Ave NE,21,XNT,0.1,0.1,1.7,0.3,0.3
+212,62,I,36950,NE 65th St & Roosevelt Way NE,22,XNT,0.5,0.2,2,3,1
+212,62,I,36960,NE 65th St & Oswego Pl NE,23,XNT,0.3,0.1,2.3,1.7,0.3
+212,62,I,16509,NE Ravenna Blvd & NE 65th St,24,XNT,0.3,0,0.3,0.3,0
+212,62,I,16515,NE Ravenna Blvd & NE 68th St,25,XNT,0,0,2,0,0
+212,62,I,16520,NE Ravenna Blvd & Woodlawn Ave NE,26,XNT,0.4,0.1,2.3,2.8,0.7
+212,62,I,17170,Woodlawn Ave NE & 5th Ave NE,27,XNT,0.2,0.1,2.4,1.1,0.4
+212,62,I,17180,Woodlawn Ave NE & 1st Ave NE,28,XNT,0,0,2.7,0.2,0.2
+212,62,I,17209,Woodlawn Ave N & N 63rd St,29,XNT,0,0,2.7,0.2,0
+212,62,I,17230,Kirkwood Pl N & N 59th St,30,XNT,0,0,2.7,0,0
+212,62,I,17250,N 56th St & Keystone Pl N,31,XNT,0,0,2.7,0.2,0.1
+212,62,I,17260,Meridian Ave N & N 54th St,32,XNT,0,0,2.7,0.2,0.2
+212,62,I,17285,Meridian Ave N & N 48th St,33,XNT,0,0,2.7,0.1,0.1
+212,62,I,17300,Meridian Ave N & N 46th St,34,XNT,0.2,0.1,2.7,0.9,0.7
+212,62,I,17310,N 45th St & Wallingford Ave N,35,XNT,0.6,0.4,2.9,3.3,2.2
+212,62,I,29530,N 45th St & Woodlawn Ave N,36,XNT,0.2,0.1,3.1,1.1,0.3
+212,62,I,7350,Stone Way N & N 45th St,37,XNT,0.3,0.1,3.3,1.9,0.5
+212,62,I,7360,Stone Way N & N 43rd St,38,XNT,0.1,0.1,3.3,0.3,0.4
+212,62,I,7380,Stone Way N & N 40th St,39,XNT,0.3,0.2,3.3,1.5,1.2
+212,62,I,7382,Stone Way N & N 38th St,40,XNT,0.1,0.1,3.3,0.6,0.7
+212,62,I,26480,N 35th St & Stone Way N,41,XNT,0.6,0.2,3.6,3.3,1.3
+212,62,I,26490,N 35th St & Troll Ave N,42,XNT,0,0.2,4,0.2,1.5
+212,62,I,26510,Fremont Ave N & N 34th St,43,XNT,0.8,0.3,4.4,5.6,2.3
+212,62,I,18260,Dexter Ave N & 4th Ave N,44,XNT,0.2,0.1,4.5,1.4,0.7
+212,62,I,18270,Dexter Ave N & Wheeler St,45,XNT,0,0,4.6,0.3,0
+212,62,I,18295,Dexter Ave N & 6th Ave N,46,XNT,0,0.2,4.5,0.3,1.1
+212,62,I,18315,Dexter Ave N & Crockett St,47,XNT,0.1,0.1,4.5,0.6,0.9
+212,62,I,18320,Dexter Ave N & Howe St,48,XNT,0,0,4.5,0.1,0.1
+212,62,I,18340,Dexter Ave N & Galer St,49,XNT,0.1,0.1,4.5,0.9,0.7
+212,62,I,18359,Dexter Ave N & Aloha St,50,XNT,0.2,0.2,4.5,1.5,1.4
+212,62,I,18370,Dexter Ave N & Roy St,51,XNT,0.2,0.2,4.5,1.2,1.5
+212,62,I,18390,Dexter Ave N & Harrison St,52,XNT,0.1,0.2,4.3,0.4,1.5
+212,62,I,18402,Dexter Ave & Denny Way,53,XNT,0,0.7,3.7,0.3,4.6
+212,62,I,6190,7th Ave & Blanchard St,54,XNT,0.1,0.4,3.5,0.8,2.7
+212,62,I,420,3rd Ave & Virginia St,55,XNT,0.2,0.9,2.8,1.6,6.2
+212,62,I,430,3rd Ave & Pine St,56,XNT,0.2,0.9,2,1.2,6.6
+212,62,I,450,3rd Ave & Union St,57,XNT,0.1,0.6,1.5,0.8,4.1
+212,62,I,480,3rd Ave & Marion St,58,XNT,0,0.4,1.2,0.1,2.5
+212,62,I,500,3rd Ave & James St,59,XNT,0,0.4,0.8,0,2.7
+212,62,I,625,S Washington St & 4th Ave S,60,XNT,0.1,0.9,0,0.4,7.1
+212,62,O,1530,S Jackson St & 5th Ave S,1,XNT,1.2,0,1.4,9.4,0.3
+212,62,O,531,3rd Ave & James St,2,XNT,0.5,0.2,1.7,4.1,1.4
+212,62,O,548,3rd Ave & Madison St,3,XNT,0.6,0.2,2.2,5.1,1.4
+212,62,O,570,3rd Ave & Union St,4,XNT,0.5,0.2,2.4,3.6,1.9
+212,62,O,590,3rd Ave & Pine St,5,XNT,1.2,0.2,3.4,9.9,1.5
+212,62,O,600,3rd Ave & Virginia St,6,XNT,0.6,0.5,3.5,5.1,4.3
+212,62,O,6220,7th Ave & Blanchard St,7,XNT,0.5,0.1,3.9,4.1,0.8
+212,62,O,6240,Dexter Ave N & Denny Way,8,XNT,0.4,0.3,4.5,3.9,2.5
+212,62,O,18455,Dexter Ave N & Harrison St,9,XNT,0.4,0.1,4.7,3.5,1.2
+212,62,O,18465,Dexter Ave N & Roy St,10,XNT,0.3,0.3,4.7,2.8,2.6
+212,62,O,18480,Dexter Ave N & Aloha St,11,XNT,0.2,0.4,4.5,1.6,3.9
+212,62,O,18505,Dexter Ave N & Galer St,12,XNT,0,0.2,4.3,0.4,2
+212,62,O,18530,Dexter Ave N & Newton St,13,XNT,0,0.1,4.3,0.1,0.9
+212,62,O,18540,Dexter Ave N & Crockett St,14,XNT,0,0.1,4.2,0.2,1.1
+212,62,O,18550,Dexter Ave N & Wheeler St,15,XNT,0,0.1,4.1,0.2,1.2
+212,62,O,18580,Dexter Ave N & 4th Ave N,16,XNT,0,0,4.1,0,0.2
+212,62,O,18590,Dexter Ave N & 4th Ave N,17,XNT,0,0.1,4,0.2,0.6
+212,62,O,26860,Fremont Ave N & N 34th St,18,XNT,0.7,0.3,4.5,6.5,2.4
+212,62,O,26870,N 35th St & Troll Ave N,19,XNT,0.1,0,4.5,0.5,0.4
+212,62,O,26885,N 35th St & Woodland Park Ave N,20,XNT,0.2,0.2,4.5,2,1.8
+212,62,O,7498,Stone Way N & N 38th St,21,XNT,0.2,0.1,4.6,1.7,0.8
+212,62,O,7500,Stone Way N & N 40th St,22,XNT,0.2,0.2,4.6,1.9,1.8
+212,62,O,7520,Stone Way N & N 42nd St,23,XNT,0,0.1,4.5,0,0.9
+212,62,O,7530,Stone Way N & N Allen Pl,24,XNT,0,0.1,4.4,0,1.2
+212,62,O,29231,N 45th St & Stone Way N,25,XNT,0.2,0.1,4.4,1.7,1.3
+212,62,O,29232,N 45th St & Woodlawn Ave N,26,XNT,0,0.1,4.3,0.4,1.3
+212,62,O,17410,N 45th St & Wallingford Ave N,27,XNT,0.3,0.4,4.2,2.9,3.9
+212,62,O,17420,Meridian Ave N & N 45th St,28,XNT,0.2,0.4,4,1.8,3.3
+212,62,O,17440,Meridian Ave N & N 49th St,29,XNT,0,0.2,3.9,0.2,1.5
+212,62,O,17460,Meridian Ave N & N 53rd St,30,XNT,0,0.1,3.8,0,1.1
+212,62,O,17470,N 56th St & Keystone Pl N,31,XNT,0.1,0.1,3.9,0.6,1.1
+212,62,O,17490,Kirkwood Pl N & N 59th St,32,XNT,0,0.1,3.8,0,0.6
+212,62,O,17510,Woodlawn Ave N & N 63rd St,33,XNT,0,0.1,3.8,0.3,0.7
+212,62,O,17530,Woodlawn Ave NE & Sunnyside Ave N,34,XNT,0,0.1,3.7,0.2,0.7
+212,62,O,16390,NE Ravenna Blvd & Woodlawn Ave NE,35,XNT,0.3,0.4,3.5,2.5,4.2
+212,62,O,16400,NE Ravenna Blvd & NE 68th St,36,XNT,0,0,3.5,0,0.4
+212,62,O,16416,NE 65th St & 8th Ave NE,37,XNT,0.1,0.5,3.2,1,4.6
+212,62,O,16430,Roosevelt Station - Bay 1,38,XNT,0.2,0.8,2.6,2,7.8
+212,62,O,37360,NE 65th St & 16th Ave NE,39,XNT,0.1,0.3,2.4,0.8,2.9
+212,62,O,37381,NE 65th St & 20th Ave NE,40,XNT,0,0.2,2.2,0,2.2
+212,62,O,37400,NE 65th St & 23rd Ave NE,41,XNT,0.1,0.1,2.1,0.5,1
+212,62,O,37410,NE 65th St & 25th Ave NE,42,XNT,0,0.2,1.9,0.1,2.4
+212,62,O,37420,NE 65th St & 27th Ave NE,43,XNT,0,0.1,1.8,0,0.6
+212,62,O,37430,NE 65th St & 29th Ave NE,44,XNT,0,0.1,1.8,0,0.8
+212,62,O,37440,NE 65th St & 31st Ave NE,45,XNT,0,0,1.8,0,0.2
+212,62,O,37450,NE 65th St & 33rd Ave NE,46,XNT,0,0.1,1.7,0,0.9
+212,62,O,37460,NE 65th St & 35th Ave NE,47,XNT,0.1,0.3,1.4,0.8,3.3
+212,62,O,37470,NE 65th St & 38th Ave NE,48,XNT,0,0.1,1.4,0,0.6
+212,62,O,37480,NE 65th St & 40th Ave NE,49,XNT,0,0.1,1.3,0.1,0.8
+212,62,O,37490,NE 65th St & 43rd Ave NE,50,XNT,0,0,1.3,0,0.1
+212,62,O,37500,NE 65th St & 45th Ave NE,51,XNT,0,0,1.2,0,0.3
+212,62,O,37510,NE 65th St & Wellesley Way NE,52,XNT,0,0.2,1.1,0.2,2.3
+212,62,O,37841,NE 65th St & 52nd Ave NE,53,XNT,0,0.2,1.2,0.1,1.6
+212,62,O,10620,Sand Point Way NE & NE 65th St,54,XNT,0,0.3,1,0.2,3.6
+212,62,O,10630,Sand Point Way NE & NE 70th St,55,XNT,0,0.4,0.8,0,3.9
+212,62,O,10640,Sand Point Way NE & NE 74th St,56,XNT,0,0.9,0,0.4,9.9

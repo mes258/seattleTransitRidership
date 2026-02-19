@@ -1,0 +1,241 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+192,673,I,22557,SW Barton St & 26th Ave SW - Bay 1,1,AM,2.3,0,2.3,89.8,0.1
+192,673,I,22260,SW Roxbury St & 28th Ave SW,2,AM,1,0.1,3.2,40.6,4.7
+192,673,I,22560,35th Ave SW & SW Roxbury St,3,AM,0.7,0.3,3.5,27.2,12
+192,673,I,31765,SW Barton St & 35th Ave SW,4,AM,1.8,0.2,5.1,69.7,5.9
+192,673,I,31791,California Ave SW & SW Barton St,5,AM,0.7,0.1,5.6,26,5.6
+192,673,I,19650,SW Wildwood Pl & 45th Ave SW,6,AM,1.2,0.1,6.7,45,4.1
+192,673,I,19670,Fauntleroy Way SW & SW Barton St,7,AM,2.5,0.2,9,97.1,7.3
+192,673,I,19700,Fauntleroy Way SW & SW Rose St,8,AM,0.7,0.1,9.6,27.7,2.3
+192,673,I,19740,Fauntleroy Way SW & SW Webster St,9,AM,1,0.1,10.5,38,3.1
+192,673,I,19750,Fauntleroy Way SW & SW Myrtle St,10,AM,2.3,0.1,12.7,90,4.8
+192,673,I,19790,California Ave SW & Fauntleroy Way SW,11,AM,5.3,0.3,17.7,205.5,12.1
+192,673,I,19830,California Ave SW & SW Findlay St,12,AM,5.4,0.2,22.8,203.6,8.2
+192,673,I,19862,SW Alaska St & California Ave SW - Bay 1,13,AM,12.8,1.7,34,487,64.2
+192,673,I,33220,SW Alaska St & Fauntleroy Way SW,14,AM,7.2,0.5,40.6,266.1,19.8
+192,673,I,22820,35th Ave SW & SW Avalon Way,15,AM,5.1,0.5,45.3,188.4,17.2
+192,673,I,19930,SW Avalon Way & SW Yancy St,16,AM,4.1,0.3,48.9,146.1,10.5
+192,673,I,1556,1st Ave S & S King St,17,AM,2.4,8.5,42.7,81.7,287.4
+192,673,I,558,3rd Ave & Seneca St,18,AM,4.5,19.8,28.3,144.8,632.5
+192,673,I,578,3rd Ave & Pike St,19,AM,5.4,10.4,22.8,177.8,342.6
+192,673,I,600,3rd Ave & Virginia St,20,AM,2.7,4.4,21.2,88.8,143.9
+192,673,I,18440,Blanchard St & 6th Ave,21,AM,0.5,2.3,19.4,14.8,73.6
+192,673,I,26690,Westlake & 9th-Denny,22,AM,1.8,3.9,17.1,57.1,120.8
+192,673,I,26715,Westlake Ave N & Harrison St,23,AM,0.1,9.1,8.2,4.1,281.6
+192,673,I,26730,Westlake Ave N & Mercer St,24,AM,0,2.1,6.2,1.3,64.4
+192,673,I,10325,Fairview Ave N & Valley St,25,AM,0,6.2,0,0.2,186.8
+192,673,O,10328,Valley St & Fairview Ave N,1,AM,1.3,0.2,1.1,33.1,4.8
+192,673,O,26641,Westlake & Mercer,2,AM,1.6,0,2.7,39.3,1.1
+192,673,O,26645,Westlake & Thomas,3,AM,1.7,0,4.4,41.9,1
+192,673,O,26665,Westlake & 9th-Denny,4,AM,2,0.6,5.8,48.1,14.1
+192,673,O,420,3rd Ave & Virginia St,5,AM,2,0.6,7.2,45.9,14.4
+192,673,O,431,3rd Ave & Pike St,6,AM,2.9,1.4,8.7,66.4,32.2
+192,673,O,468,3rd Ave & Seneca St,7,AM,1.9,1.7,8.9,44.8,38.7
+192,673,O,481,3rd Ave & Columbia St,8,AM,1.7,1.4,9.2,40,32.6
+192,673,O,1554,1st Ave S & S King St,9,AM,0.7,1.6,8.5,15,36.2
+192,673,O,19898,SW Avalon Way & SW Bradford St,10,AM,0.4,0.7,8.3,7.5,13.6
+192,673,O,22830,35th Ave SW & SW Avalon Way,11,AM,0.3,0.6,8,6.2,12.7
+192,673,O,32364,SW Alaska St & Fauntleroy Way SW,12,AM,0.4,1.1,7.2,7.8,22
+192,673,O,20041,SW Alaska St & California Ave SW - Bay 3,13,AM,1,3.2,4.7,21.7,67.1
+192,673,O,20090,California Ave SW & SW Findlay St,14,AM,0.3,0.6,4.4,5.9,11.9
+192,673,O,20130,Fauntleroy Way SW & California Ave SW,15,AM,0.3,0.6,4.2,6.9,12.1
+192,673,O,20170,Fauntleroy Way SW & SW Myrtle St,16,AM,0.1,0.3,4,2.8,5.8
+192,673,O,20190,Fauntleroy Way SW & SW Webster St,17,AM,0.1,0.2,3.9,1.4,4.3
+192,673,O,20220,Fauntleroy Way SW & SW Rose St,18,AM,0.1,0.1,3.9,1.3,2.2
+192,673,O,20250,Fauntleroy Way SW & SW Barton St,19,AM,0.7,0.5,4,13.7,9.9
+192,673,O,20270,SW Wildwood Pl & 46th Ave SW,20,AM,0.1,0.2,3.9,2.3,4
+192,673,O,32030,California Ave SW & SW Barton St,21,AM,0.1,0.1,3.9,1.2,1.1
+192,673,O,22553,SW Barton St & 35th Ave SW,22,AM,0.1,0.6,3.5,2.6,12.4
+192,673,O,22557,SW Barton St & 26th Ave SW - Bay 1,23,AM,0,3.5,0,0,66.3
+192,673,I,22557,SW Barton St & 26th Ave SW - Bay 1,1,MID,5.2,0,5.2,167.5,0
+192,673,I,22260,SW Roxbury St & 28th Ave SW,2,MID,1.4,0.3,6.3,42.6,10.1
+192,673,I,22560,35th Ave SW & SW Roxbury St,3,MID,0.8,0.4,6.7,25.2,11.1
+192,673,I,31765,SW Barton St & 35th Ave SW,4,MID,1.6,0.4,8,49.7,11.7
+192,673,I,31791,California Ave SW & SW Barton St,5,MID,0.6,0.2,8.3,17.7,6.1
+192,673,I,19650,SW Wildwood Pl & 45th Ave SW,6,MID,0.9,0.3,8.9,28,9.8
+192,673,I,19670,Fauntleroy Way SW & SW Barton St,7,MID,3.2,0.3,11.9,103.6,9.1
+192,673,I,19700,Fauntleroy Way SW & SW Rose St,8,MID,0.7,0.4,12.1,21,11.9
+192,673,I,19740,Fauntleroy Way SW & SW Webster St,9,MID,0.9,0.2,13,28.9,6.7
+192,673,I,19750,Fauntleroy Way SW & SW Myrtle St,10,MID,1.5,0.3,14.2,46.6,7.9
+192,673,I,19790,California Ave SW & Fauntleroy Way SW,11,MID,3.7,1,17,116.2,30.3
+192,673,I,19830,California Ave SW & SW Findlay St,12,MID,2.7,0.6,19.1,85.6,19.1
+192,673,I,19862,SW Alaska St & California Ave SW - Bay 1,13,MID,11.3,4.6,25.8,360.9,146.4
+192,673,I,33220,SW Alaska St & Fauntleroy Way SW,14,MID,4.5,1,29.9,145,30.8
+192,673,I,22820,35th Ave SW & SW Avalon Way,15,MID,3,0.9,32,97.2,29.6
+192,673,I,19930,SW Avalon Way & SW Yancy St,16,MID,2.6,0.9,34.3,86.7,31.2
+192,673,I,1556,1st Ave S & S King St,17,MID,1.1,6.7,30.1,38.1,226.8
+192,673,I,558,3rd Ave & Seneca St,18,MID,2.6,12.8,21.3,92.1,447.1
+192,673,I,578,3rd Ave & Pike St,19,MID,3.2,11.7,12.9,113.4,408.7
+192,673,I,600,3rd Ave & Virginia St,20,MID,1.3,4.1,10.1,44.2,142.5
+192,673,I,18440,Blanchard St & 6th Ave,21,MID,0.4,1.6,9.2,15.9,57.1
+192,673,I,26690,Westlake & 9th-Denny,22,MID,1.2,2.5,8.3,44.6,92.1
+192,673,I,26715,Westlake Ave N & Harrison St,23,MID,0.1,5.2,3.3,5.2,192.5
+192,673,I,26730,Westlake Ave N & Mercer St,24,MID,0.1,1.5,1.9,1.9,53
+192,673,I,10325,Fairview Ave N & Valley St,25,MID,0,2,0,0,73
+192,673,O,10328,Valley St & Fairview Ave N,1,MID,2.3,0.1,2.2,74.1,2.2
+192,673,O,26641,Westlake & Mercer,2,MID,3.2,0.1,5.3,105.4,2.8
+192,673,O,26645,Westlake & Thomas,3,MID,3.8,0.2,8.9,124.9,6.5
+192,673,O,26665,Westlake & 9th-Denny,4,MID,3.3,1.6,10.3,106.8,50.6
+192,673,O,420,3rd Ave & Virginia St,5,MID,3.5,2,11.7,115.2,67.4
+192,673,O,431,3rd Ave & Pike St,6,MID,8.3,3.2,16.8,272.6,104.7
+192,673,O,468,3rd Ave & Seneca St,7,MID,4.7,2,18.9,151.6,62.5
+192,673,O,481,3rd Ave & Columbia St,8,MID,4.5,2.1,21.4,143.8,65.8
+192,673,O,1554,1st Ave S & S King St,9,MID,2,1.4,21.1,64.4,46.2
+192,673,O,19898,SW Avalon Way & SW Bradford St,10,MID,1.1,1.4,19.8,35.9,48.1
+192,673,O,22830,35th Ave SW & SW Avalon Way,11,MID,0.7,1.7,18.2,22.1,55.5
+192,673,O,32364,SW Alaska St & Fauntleroy Way SW,12,MID,1,2.4,16.8,34.2,80.6
+192,673,O,20041,SW Alaska St & California Ave SW - Bay 3,13,MID,3.4,8.2,12,113.1,269.8
+192,673,O,20090,California Ave SW & SW Findlay St,14,MID,0.6,1.5,10.8,18.1,46.8
+192,673,O,20130,Fauntleroy Way SW & California Ave SW,15,MID,0.9,2,9.8,28.9,63.8
+192,673,O,20170,Fauntleroy Way SW & SW Myrtle St,16,MID,0.3,0.7,9.2,8.6,23.2
+192,673,O,20190,Fauntleroy Way SW & SW Webster St,17,MID,0.2,0.7,8.6,6.8,23.8
+192,673,O,20220,Fauntleroy Way SW & SW Rose St,18,MID,0.2,0.7,8.1,5,21.9
+192,673,O,20250,Fauntleroy Way SW & SW Barton St,19,MID,0.7,2.1,6.7,21.8,69.1
+192,673,O,20270,SW Wildwood Pl & 46th Ave SW,20,MID,0.3,0.4,6.3,8.2,14
+192,673,O,32030,California Ave SW & SW Barton St,21,MID,0.2,0.4,6.2,7.2,11.3
+192,673,O,22553,SW Barton St & 35th Ave SW,22,MID,0.3,1.3,5.2,8.5,40.9
+192,673,O,22557,SW Barton St & 26th Ave SW - Bay 1,23,MID,0,5.1,0,0,168.8
+192,673,I,22557,SW Barton St & 26th Ave SW - Bay 1,1,PM,5.1,0,5.1,143.3,0
+192,673,I,22260,SW Roxbury St & 28th Ave SW,2,PM,1.2,0.4,6,34.7,10.5
+192,673,I,22560,35th Ave SW & SW Roxbury St,3,PM,0.5,0.5,5.9,15.3,13.6
+192,673,I,31765,SW Barton St & 35th Ave SW,4,PM,1.1,0.6,6.4,30.6,15.6
+192,673,I,31791,California Ave SW & SW Barton St,5,PM,0.3,0.1,6.5,7.5,3.6
+192,673,I,19650,SW Wildwood Pl & 45th Ave SW,6,PM,0.3,0.2,6.7,9.7,6
+192,673,I,19670,Fauntleroy Way SW & SW Barton St,7,PM,1.6,0.7,7.5,43.5,19.2
+192,673,I,19700,Fauntleroy Way SW & SW Rose St,8,PM,0.5,0.2,7.8,14.8,6.5
+192,673,I,19740,Fauntleroy Way SW & SW Webster St,9,PM,0.7,0.3,8.3,20.5,7.6
+192,673,I,19750,Fauntleroy Way SW & SW Myrtle St,10,PM,0.5,0.2,8.6,14.8,6.4
+192,673,I,19790,California Ave SW & Fauntleroy Way SW,11,PM,2,0.8,9.8,55.4,23.5
+192,673,I,19830,California Ave SW & SW Findlay St,12,PM,1.4,0.7,10.6,40,18.9
+192,673,I,19862,SW Alaska St & California Ave SW - Bay 1,13,PM,6.4,3.7,13.3,180,104
+192,673,I,33220,SW Alaska St & Fauntleroy Way SW,14,PM,2.5,0.7,15.1,72.5,21.7
+192,673,I,22820,35th Ave SW & SW Avalon Way,15,PM,1.5,0.8,15.9,41.6,23.2
+192,673,I,19930,SW Avalon Way & SW Yancy St,16,PM,1.3,0.7,16.4,35,20.7
+192,673,I,1556,1st Ave S & S King St,17,PM,1.9,3.2,15.3,53.9,93.3
+192,673,I,558,3rd Ave & Seneca St,18,PM,1.6,5.8,11.4,45.7,168.9
+192,673,I,578,3rd Ave & Pike St,19,PM,1.9,6,7.3,55,174.5
+192,673,I,600,3rd Ave & Virginia St,20,PM,0.6,2.8,5.1,16,79.6
+192,673,I,18440,Blanchard St & 6th Ave,21,PM,0.2,0.8,4.5,5.7,23.5
+192,673,I,26690,Westlake & 9th-Denny,22,PM,1.1,1.7,3.9,31.8,46.8
+192,673,I,26715,Westlake Ave N & Harrison St,23,PM,0.1,1.8,2.2,4.1,51.1
+192,673,I,26730,Westlake Ave N & Mercer St,24,PM,0,1.4,0.9,1.2,40.9
+192,673,I,10325,Fairview Ave N & Valley St,25,PM,0,0.9,0,0.2,25.4
+192,673,O,10328,Valley St & Fairview Ave N,1,PM,8,0,8,295.4,0.3
+192,673,O,26641,Westlake & Mercer,2,PM,10.2,0.2,18,378.7,6.5
+192,673,O,26645,Westlake & Thomas,3,PM,12.6,0.3,30.3,467.1,11.2
+192,673,O,26665,Westlake & 9th-Denny,4,PM,7.7,3.1,34.6,291.6,118
+192,673,O,420,3rd Ave & Virginia St,5,PM,6.9,8.9,33,253.6,328.1
+192,673,O,431,3rd Ave & Pike St,6,PM,14,10.1,36.9,517.8,372.8
+192,673,O,468,3rd Ave & Seneca St,7,PM,10.2,4.2,42.9,389.3,159.7
+192,673,O,481,3rd Ave & Columbia St,8,PM,8.7,4.3,47.8,322.8,157.8
+192,673,O,1554,1st Ave S & S King St,9,PM,6.5,2.6,51.3,240.1,95.3
+192,673,O,19898,SW Avalon Way & SW Bradford St,10,PM,1.7,5.5,47.5,60.8,196.6
+192,673,O,22830,35th Ave SW & SW Avalon Way,11,PM,1.6,7.2,41.5,57.9,267.6
+192,673,O,32364,SW Alaska St & Fauntleroy Way SW,12,PM,1.5,8.6,34.5,56,317.6
+192,673,O,20041,SW Alaska St & California Ave SW - Bay 3,13,PM,4.1,16.3,22.4,146.9,588.4
+192,673,O,20090,California Ave SW & SW Findlay St,14,PM,0.6,5,17.9,21.2,186.1
+192,673,O,20130,Fauntleroy Way SW & California Ave SW,15,PM,0.9,4.8,14.2,31.5,171.4
+192,673,O,20170,Fauntleroy Way SW & SW Myrtle St,16,PM,0.2,1.8,12.5,5.3,64.3
+192,673,O,20190,Fauntleroy Way SW & SW Webster St,17,PM,0.2,1,11.7,6.1,34.2
+192,673,O,20220,Fauntleroy Way SW & SW Rose St,18,PM,0.1,0.9,10.9,4.8,31.1
+192,673,O,20250,Fauntleroy Way SW & SW Barton St,19,PM,0.4,3.5,7.8,15.2,122.5
+192,673,O,20270,SW Wildwood Pl & 46th Ave SW,20,PM,0.2,1.2,6.9,5.7,42.9
+192,673,O,32030,California Ave SW & SW Barton St,21,PM,0.1,0.7,6.4,4.5,23.4
+192,673,O,22553,SW Barton St & 35th Ave SW,22,PM,0.3,2.1,4.6,11.4,76.9
+192,673,O,22557,SW Barton St & 26th Ave SW - Bay 1,23,PM,0.1,4.7,0,4.4,166
+192,673,I,22557,SW Barton St & 26th Ave SW - Bay 1,1,XEV,4.7,0,4.7,56,0
+192,673,I,22260,SW Roxbury St & 28th Ave SW,2,XEV,1.1,0.4,5.7,13.3,4.3
+192,673,I,22560,35th Ave SW & SW Roxbury St,3,XEV,0.2,0.5,5.4,2.3,5.8
+192,673,I,31765,SW Barton St & 35th Ave SW,4,XEV,0.7,0.5,5.6,8.4,5.6
+192,673,I,31791,California Ave SW & SW Barton St,5,XEV,0.1,0.1,5.6,1.6,1
+192,673,I,19650,SW Wildwood Pl & 45th Ave SW,6,XEV,0.2,0.2,5.7,2.3,2.2
+192,673,I,19670,Fauntleroy Way SW & SW Barton St,7,XEV,1.1,0.4,6.4,13.4,4.7
+192,673,I,19700,Fauntleroy Way SW & SW Rose St,8,XEV,0.4,0.2,6.5,4.2,2.5
+192,673,I,19740,Fauntleroy Way SW & SW Webster St,9,XEV,0.6,0.2,7,7.7,2.6
+192,673,I,19750,Fauntleroy Way SW & SW Myrtle St,10,XEV,0.2,0.2,7.1,2.9,1.8
+192,673,I,19790,California Ave SW & Fauntleroy Way SW,11,XEV,1.4,0.7,7.7,18.4,9.4
+192,673,I,19830,California Ave SW & SW Findlay St,12,XEV,0.6,0.6,7.8,8.3,7.6
+192,673,I,19862,SW Alaska St & California Ave SW - Bay 1,13,XEV,4.6,2.7,9.6,59.5,34.7
+192,673,I,33220,SW Alaska St & Fauntleroy Way SW,14,XEV,1.8,0.7,11,21.3,7.8
+192,673,I,22820,35th Ave SW & SW Avalon Way,15,XEV,0.8,0.8,11.1,10.4,10.2
+192,673,I,19930,SW Avalon Way & SW Yancy St,16,XEV,0.7,0.9,10.9,9.2,11.9
+192,673,I,1556,1st Ave S & S King St,17,XEV,0.5,1.8,9.5,6,23.5
+192,673,I,558,3rd Ave & Seneca St,18,XEV,0.8,3.9,6.8,11,50.5
+192,673,I,578,3rd Ave & Pike St,19,XEV,1.5,3.9,4.4,19.9,50.6
+192,673,I,600,3rd Ave & Virginia St,20,XEV,0.5,2.2,2.8,6.8,30.2
+192,673,I,18440,Blanchard St & 6th Ave,21,XEV,0.1,0.4,2.5,2,6
+192,673,I,26690,Westlake & 9th-Denny,22,XEV,0.6,0.9,2.1,7.7,12.9
+192,673,I,26715,Westlake Ave N & Harrison St,23,XEV,0.1,0.8,1.4,0.8,11.1
+192,673,I,26730,Westlake Ave N & Mercer St,24,XEV,0,0.8,0.7,0.1,11.3
+192,673,I,10325,Fairview Ave N & Valley St,25,XEV,0,0.7,0,0.3,9.4
+192,673,O,10328,Valley St & Fairview Ave N,1,XEV,1.4,0,1.4,18.5,0.2
+192,673,O,26641,Westlake & Mercer,2,XEV,2.9,0,4.2,37.2,0.3
+192,673,O,26645,Westlake & Thomas,3,XEV,3.2,0.1,7.4,42,0.8
+192,673,O,26665,Westlake & 9th-Denny,4,XEV,3.7,0.5,10.6,48.6,6.6
+192,673,O,420,3rd Ave & Virginia St,5,XEV,4.6,2.4,13.8,59.7,31.4
+192,673,O,431,3rd Ave & Pike St,6,XEV,11.5,2.5,22.8,149.3,32
+192,673,O,468,3rd Ave & Seneca St,7,XEV,7.7,1,29.5,99.9,13.3
+192,673,O,481,3rd Ave & Columbia St,8,XEV,4.8,1.3,32.9,66.8,18.4
+192,673,O,1554,1st Ave S & S King St,9,XEV,4.6,1.1,36.6,68.8,16.3
+192,673,O,19898,SW Avalon Way & SW Bradford St,10,XEV,0.9,3.4,34.7,14,50.7
+192,673,O,22830,35th Ave SW & SW Avalon Way,11,XEV,0.8,4.7,30.8,11.5,69.8
+192,673,O,32364,SW Alaska St & Fauntleroy Way SW,12,XEV,1,5.5,26.5,15.3,81.8
+192,673,O,20041,SW Alaska St & California Ave SW - Bay 3,13,XEV,2.9,12.9,17.2,44.2,193.5
+192,673,O,20090,California Ave SW & SW Findlay St,14,XEV,0.4,3.5,14.1,6.5,53
+192,673,O,20130,Fauntleroy Way SW & California Ave SW,15,XEV,0.7,3.4,11.4,10.7,53.6
+192,673,O,20170,Fauntleroy Way SW & SW Myrtle St,16,XEV,0.1,1.3,10.4,2.1,21.4
+192,673,O,20190,Fauntleroy Way SW & SW Webster St,17,XEV,0.2,0.8,9.8,3.4,14.2
+192,673,O,20220,Fauntleroy Way SW & SW Rose St,18,XEV,0.1,0.6,9.4,1.7,9.9
+192,673,O,20250,Fauntleroy Way SW & SW Barton St,19,XEV,0.3,2.3,7.4,5.3,38.5
+192,673,O,20270,SW Wildwood Pl & 46th Ave SW,20,XEV,0.1,1.1,6.4,2.3,17.9
+192,673,O,32030,California Ave SW & SW Barton St,21,XEV,0.1,0.4,6.1,1.1,6.9
+192,673,O,22553,SW Barton St & 35th Ave SW,22,XEV,0.2,2.1,4.2,2.9,35.5
+192,673,O,22557,SW Barton St & 26th Ave SW - Bay 1,23,XEV,0.1,4.1,0,2,69.3
+192,673,I,22557,SW Barton St & 26th Ave SW - Bay 1,1,XNT,3.3,0,3.3,36.1,0
+192,673,I,22260,SW Roxbury St & 28th Ave SW,2,XNT,0.8,0.3,3.9,10,3.4
+192,673,I,22560,35th Ave SW & SW Roxbury St,3,XNT,0.1,0.1,3.8,1.2,1.2
+192,673,I,31765,SW Barton St & 35th Ave SW,4,XNT,0.8,0.2,4.4,9.4,1.8
+192,673,I,31791,California Ave SW & SW Barton St,5,XNT,0,0,4.2,0.3,0.3
+192,673,I,19650,SW Wildwood Pl & 45th Ave SW,6,XNT,0.1,0.1,4.2,1.2,0.8
+192,673,I,19670,Fauntleroy Way SW & SW Barton St,7,XNT,0.5,0.1,4.6,5.8,1.1
+192,673,I,19700,Fauntleroy Way SW & SW Rose St,8,XNT,0.2,0.1,4.7,1.8,0.9
+192,673,I,19740,Fauntleroy Way SW & SW Webster St,9,XNT,0.2,0.1,4.8,2,0.8
+192,673,I,19750,Fauntleroy Way SW & SW Myrtle St,10,XNT,0.3,0,5.1,2.9,0.4
+192,673,I,19790,California Ave SW & Fauntleroy Way SW,11,XNT,1.1,0.3,5.8,12.5,3.8
+192,673,I,19830,California Ave SW & SW Findlay St,12,XNT,0.4,0.1,6.1,4.6,1.3
+192,673,I,19862,SW Alaska St & California Ave SW - Bay 1,13,XNT,2.9,1.3,7.7,32.1,14.5
+192,673,I,33220,SW Alaska St & Fauntleroy Way SW,14,XNT,1,0.3,8.4,11.5,3.2
+192,673,I,22820,35th Ave SW & SW Avalon Way,15,XNT,0.7,0.5,8.6,8.6,5.6
+192,673,I,19930,SW Avalon Way & SW Yancy St,16,XNT,0.7,0.5,8.8,8.3,6.4
+192,673,I,1556,1st Ave S & S King St,17,XNT,0.7,1.1,8.4,7.9,13
+192,673,I,558,3rd Ave & Seneca St,18,XNT,0.5,3.1,5.7,6.9,40.2
+192,673,I,578,3rd Ave & Pike St,19,XNT,0.7,2.1,3.5,8.2,25.7
+192,673,I,600,3rd Ave & Virginia St,20,XNT,0.3,1.4,2.4,3.3,16.8
+192,673,I,18440,Blanchard St & 6th Ave,21,XNT,0.1,0.3,2.1,0.7,3.6
+192,673,I,26690,Westlake & 9th-Denny,22,XNT,0.1,0.4,1.8,1.7,5.3
+192,673,I,26715,Westlake Ave N & Harrison St,23,XNT,0,0.4,1.5,0.2,4.2
+192,673,I,26730,Westlake Ave N & Mercer St,24,XNT,0,0.5,1,0.2,6.1
+192,673,I,10325,Fairview Ave N & Valley St,25,XNT,0,1,0,0.2,12.9
+192,673,O,10328,Valley St & Fairview Ave N,1,XNT,0.8,0,0.8,10.7,0
+192,673,O,26641,Westlake & Mercer,2,XNT,0.9,0,1.7,11.4,0.2
+192,673,O,26645,Westlake & Thomas,3,XNT,1,0,2.7,13.2,0.3
+192,673,O,26665,Westlake & 9th-Denny,4,XNT,1.5,0.1,4,19.2,1.5
+192,673,O,420,3rd Ave & Virginia St,5,XNT,2.8,0.6,6.3,38.7,7.9
+192,673,O,431,3rd Ave & Pike St,6,XNT,4.5,1,9.8,62.9,13.9
+192,673,O,468,3rd Ave & Seneca St,7,XNT,3.8,0.4,13.2,53.5,6.1
+192,673,O,481,3rd Ave & Columbia St,8,XNT,1.9,0.6,14.5,26.9,8.5
+192,673,O,1554,1st Ave S & S King St,9,XNT,2.6,0.2,16.9,36.1,3.3
+192,673,O,19898,SW Avalon Way & SW Bradford St,10,XNT,0.4,1.5,16,5.4,22.9
+192,673,O,22830,35th Ave SW & SW Avalon Way,11,XNT,0.3,1.9,14.3,4,28.5
+192,673,O,32364,SW Alaska St & Fauntleroy Way SW,12,XNT,0.3,2,12.7,5,30
+192,673,O,20041,SW Alaska St & California Ave SW - Bay 3,13,XNT,1.7,5.5,9.3,26.9,87.9
+192,673,O,20090,California Ave SW & SW Findlay St,14,XNT,0.2,1.5,8,3.7,24.2
+192,673,O,20130,Fauntleroy Way SW & California Ave SW,15,XNT,0.4,1.7,6.7,5.9,26.4
+192,673,O,20170,Fauntleroy Way SW & SW Myrtle St,16,XNT,0,0.6,6.1,0.3,9.2
+192,673,O,20190,Fauntleroy Way SW & SW Webster St,17,XNT,0,0.3,5.9,0.7,4.6
+192,673,O,20220,Fauntleroy Way SW & SW Rose St,18,XNT,0.1,0.1,5.8,1.1,2.1
+192,673,O,20250,Fauntleroy Way SW & SW Barton St,19,XNT,0.1,1,5,2.3,15.5
+192,673,O,20270,SW Wildwood Pl & 46th Ave SW,20,XNT,0.1,0.3,4.8,1.3,5.1
+192,673,O,32030,California Ave SW & SW Barton St,21,XNT,0,0.1,4.7,0.2,1.9
+192,673,O,22553,SW Barton St & 35th Ave SW,22,XNT,0.1,1.4,3.4,1.6,21.6
+192,673,O,22557,SW Barton St & 26th Ave SW - Bay 1,23,XNT,0.2,3.8,0,3.2,64.4

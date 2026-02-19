@@ -1,0 +1,541 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+223,40,I,35318,Northgate Station - Bay 4,1,AM,3.3,0,3.5,66.8,0
+223,40,I,17697,1st Ave NE & NE 95th St,2,AM,0.2,0,3.6,3.2,0.2
+223,40,I,17698,N 92nd St & Corliss Ave N,3,AM,0.2,0,3.8,4.6,0.3
+223,40,I,17710,College Way N & N 97th St,4,AM,0.2,0.1,3.9,3.7,2.5
+223,40,I,17730,College Way N & N 103rd St,5,AM,0.2,0,4,3.8,0.1
+223,40,I,17740,Meridian Ave N & N 105th St,6,AM,0.8,0.2,4.6,16.9,4.8
+223,40,I,17755,N Northgate Way & Meridian Ave N,7,AM,1.1,0.3,5.5,22.3,5.7
+223,40,I,40030,N Northgate Way & Stone Ave N,8,AM,0.1,0.2,5.5,2.9,3.4
+223,40,I,40032,N 105th St & Aurora Ave N,9,AM,1.7,0.7,6.5,34,13.3
+223,40,I,40035,N 105th St & Fremont Ave N,10,AM,0.6,0,7.1,12.3,0.7
+223,40,I,40038,N 105th St & Greenwood Ave N,11,AM,1,0.4,7.8,19.3,7.5
+223,40,I,40040,Holman Rd NW & 3rd Ave NW,12,AM,0.2,0.3,7.6,4.5,5.9
+223,40,I,40042,Holman Rd NW & 7th Ave NW,13,AM,0.1,0.2,7.6,2.4,4.3
+223,40,I,40044,Holman Rd NW & 9th Ave NW,14,AM,0.1,0,7.6,1.6,0
+223,40,I,40046,Holman Rd NW & 13th Ave NW,15,AM,0.2,0.4,7.5,3.9,7.3
+223,40,I,40049,Holman Rd NW & Mary Ave NW,16,AM,0.4,1.1,6.7,7.6,21.8
+223,40,I,13585,15th Ave NW & NW 87th St,17,AM,0.1,0.1,6.7,1.5,1.7
+223,40,I,37081,NW 85th St & 15th Ave NW,18,AM,0.8,0.6,6.9,14.9,11.5
+223,40,I,37083,NW 85th St & 19th Ave NW,19,AM,0.2,0,7.1,4.4,0.3
+223,40,I,37078,NW 85th St & 22nd Ave NW,20,AM,0.2,0,7.2,3.7,0.9
+223,40,I,19240,24th Ave NW & NW 85th St,21,AM,0.7,0.1,7.9,12,0.9
+223,40,I,19250,24th Ave NW & NW 83rd St,22,AM,0,0,8,0.8,0.1
+223,40,I,19260,24th Ave NW & NW 80th St,23,AM,0.8,0.2,8.6,14.7,3.2
+223,40,I,19270,24th Ave NW & NW 77th St,24,AM,0.8,0,9.4,14.5,0.7
+223,40,I,19280,24th Ave NW & NW 75th St,25,AM,0.5,0,9.8,8.9,0
+223,40,I,19300,24th Ave NW & NW 70th St,26,AM,0.9,0.1,10.7,17,1.5
+223,40,I,19320,24th Ave NW & NW 65th St,27,AM,1.6,0.3,12,28.8,5.5
+223,40,I,19340,24th Ave NW & NW 61st St,28,AM,1.7,0.3,13.4,30,4.5
+223,40,I,19360,24th Ave NW & NW 57th St,29,AM,3.9,0.8,16.5,70.9,14.4
+223,40,I,18120,NW Market St & Ballard Ave NW,30,AM,2.5,1.3,17.8,44.7,22.8
+223,40,I,18145,Leary Ave NW & NW Vernon Pl,31,AM,1.2,0.5,18.5,22.2,8.4
+223,40,I,18150,Leary Ave NW & NW Ione Pl,32,AM,1.2,0.5,19.6,21.2,8.8
+223,40,I,18165,NW Leary Way & 15th Ave NW,33,AM,1,1.4,19.3,17.8,23.3
+223,40,I,28255,NW Leary Way & 11th Ave NW,34,AM,0.5,0.5,19.3,7.8,8
+223,40,I,28265,Leary Way NW & 8th Ave NW,35,AM,0.3,0.3,19.4,5.6,4.8
+223,40,I,28260,Leary Way NW & NW 43rd St,36,AM,0.7,0.2,19.8,11.8,3.8
+223,40,I,28280,Leary Way NW & 3rd Ave NW,37,AM,0.2,0.1,19.9,2.7,1.3
+223,40,I,28300,N 36th St & 1st Ave NW,38,AM,0.6,0.3,20.2,8.9,5.3
+223,40,I,28310,N 36th St & Phinney Ave N,39,AM,0.6,0.3,20.5,10,5.3
+223,40,I,26510,Fremont Ave N & N 34th St,40,AM,2.3,2.5,20.3,36,39.3
+223,40,I,26520,Westlake Ave N & Dexter Ave N,41,AM,0.9,0.2,21,13.9,2.8
+223,40,I,26560,Westlake Ave N & Crockett St,42,AM,0.3,0.2,21.1,5,2.7
+223,40,I,26580,Westlake Ave N & 8th Ave N,43,AM,0,0.1,21.1,0.7,1
+223,40,I,26590,Westlake Ave N & Galer St,44,AM,0.8,0.3,21.6,12,4.3
+223,40,I,26600,Westlake Ave N & Highland Dr,45,AM,0.8,1,21.4,12.8,16.3
+223,40,I,26641,Westlake & Mercer,46,AM,0.4,3.9,17.7,6.6,58.8
+223,40,I,26645,Westlake & Thomas,47,AM,0.5,2.1,16.2,7.8,31.1
+223,40,I,26665,Westlake & 9th-Denny,48,AM,0.6,3.7,13.1,8.3,54.9
+223,40,I,420,3rd Ave & Virginia St,49,AM,0.3,2.1,11.3,4,31.1
+223,40,I,430,3rd Ave & Pine St,50,AM,0.1,2.6,8.9,2.1,38.8
+223,40,I,450,3rd Ave & Union St,51,AM,0.2,3.5,5.4,2.1,49.5
+223,40,I,480,3rd Ave & Marion St,52,AM,0.1,3.5,2,1.9,49.4
+223,40,I,500,3rd Ave & James St,53,AM,0,0.4,1.7,0.1,5.1
+223,40,I,515,3rd Ave S & S Main St,54,AM,0.4,2.1,0,5,28.9
+223,40,O,619,4th Ave S & S Jackson St,1,AM,6.6,0,6.8,124.5,0.5
+223,40,O,531,3rd Ave & James St,2,AM,1,0.3,7.4,18.2,5.5
+223,40,O,548,3rd Ave & Madison St,3,AM,1.7,0.7,8.3,31.1,11.7
+223,40,O,570,3rd Ave & Union St,4,AM,1.6,0.4,9.5,27.9,6.9
+223,40,O,590,3rd Ave & Pine St,5,AM,3.2,0.3,12.3,56.8,5.6
+223,40,O,600,3rd Ave & Virginia St,6,AM,2,0.8,13.6,36.8,13.6
+223,40,O,18440,Blanchard St & 6th Ave,7,AM,0.5,0.7,13.4,8.7,12.7
+223,40,O,26690,Westlake & 9th-Denny,8,AM,2,0.9,14.5,35.8,16.3
+223,40,O,26715,Westlake Ave N & Harrison St,9,AM,0.6,3,12,10.3,53.4
+223,40,O,26730,Westlake Ave N & Mercer St,10,AM,0.6,1.6,11,9.5,27
+223,40,O,26760,Westlake Ave N & Highland Dr,11,AM,0.2,0.7,10.6,3.3,11.1
+223,40,O,26770,Westlake Ave N & Galer St,12,AM,0.2,0.6,10.1,2.7,9.5
+223,40,O,26780,Westlake Ave N & 8th Ave N,13,AM,0,0.1,10,0,2.2
+223,40,O,26800,Westlake Ave N & Crockett St,14,AM,0.1,0,10.1,2.2,0.4
+223,40,O,26840,Westlake Ave N & Westlake Ave N,15,AM,0.1,0.2,10,1.4,2.8
+223,40,O,26850,Westlake Ave N & Westlake Aly,16,AM,0,0.3,9.8,0.7,4.9
+223,40,O,26860,Fremont Ave N & N 34th St,17,AM,0.9,2.7,8,15.9,46.7
+223,40,O,28350,N 36th St & Dayton Ave N,18,AM,0.2,0.3,7.9,3.8,5.2
+223,40,O,28370,NW 36th St & 1st Ave NW,19,AM,0.2,0.4,7.7,3.1,6.8
+223,40,O,28390,Leary Way NW & 3rd Ave NW,20,AM,0.1,0.3,7.5,1.3,4.9
+223,40,O,28410,Leary Way NW & NW 43rd St,21,AM,0.2,0.7,7,3.3,11.1
+223,40,O,28415,Leary Way NW & 8th Ave NW,22,AM,0.1,0.4,6.7,1.2,5.6
+223,40,O,28416,NW Leary Way & 11th Ave NW,23,AM,0.2,0.8,6.1,2.6,13
+223,40,O,18696,NW Leary Way & 15th Ave NW,24,AM,0.2,0.7,5.6,3,11.5
+223,40,O,18706,Leary Ave NW & NW Ione Pl,25,AM,0.4,0.8,5.1,5.6,12.9
+223,40,O,18720,Leary Ave NW & NW Vernon Pl,26,AM,0.2,0.6,4.7,2.9,9.9
+223,40,O,18740,NW Market St & Ballard Ave NW,27,AM,0.5,1.2,4,7.4,18.6
+223,40,O,19510,24th Ave NW & NW 57th St,28,AM,1,0.7,4.4,16.7,10.7
+223,40,O,19530,24th Ave NW & NW 61st St,29,AM,0.6,0.1,4.8,9.2,2.2
+223,40,O,19550,24th Ave NW & NW 65th St,30,AM,0.6,0.2,5.2,9.6,2.8
+223,40,O,19570,24th Ave NW & NW 70th St,31,AM,0.8,0.1,6,12.3,2
+223,40,O,19590,24th Ave NW & NW 75th St,32,AM,0.3,0.1,6.3,4.4,1.2
+223,40,O,19600,24th Ave NW & NW 77th St,33,AM,0.2,0.2,6.2,2.4,2.3
+223,40,O,19610,24th Ave NW & NW 80th St,34,AM,0.4,0.2,6.4,5.6,3.1
+223,40,O,19620,24th Ave NW & NW 83rd St,35,AM,0.1,0,6.5,0.9,0.6
+223,40,O,35570,NW 85th St & 22nd Ave NW,36,AM,0.1,0.1,6.5,2.1,2.2
+223,40,O,35580,NW 85th St & 20th Ave NW,37,AM,0.1,0.1,6.5,1.5,1.2
+223,40,O,14360,15th Ave NW & NW 85th St,38,AM,1.1,0.5,7.1,16.9,8.2
+223,40,O,40050,Holman Rd NW & Mary Ave NW,39,AM,0.8,1.5,6.3,10.7,21.3
+223,40,O,40052,Holman Rd NW & 13th Ave NW,40,AM,0.4,0,6.6,5.7,0.6
+223,40,O,40054,Holman Rd NW & 9th Ave NW,41,AM,0,0,6.6,0.4,0
+223,40,O,40056,Holman Rd NW & 7th Ave NW,42,AM,0.5,0.1,7,7.5,2
+223,40,O,40058,Holman Rd NW & 3rd Ave NW,43,AM,0.4,0.1,7.3,5.8,1.4
+223,40,O,40060,Holman Rd N & Greenwood Ave N,44,AM,1.4,0.4,8.3,19.9,5.8
+223,40,O,40065,N 105th St & Fremont Ave N,45,AM,0.5,0.2,8.6,6.5,2.4
+223,40,O,40068,N Northgate Way & Aurora Ave N,46,AM,1.7,1.5,8.9,23.5,20.3
+223,40,O,40070,N Northgate Way & Stone Ave N,47,AM,0.3,0,9.2,4.6,0.5
+223,40,O,16960,Meridian Ave N & N Northgate Way,48,AM,0.8,1.8,7.9,10.3,24
+223,40,O,16980,Meridian Ave N & N 105th St,49,AM,0.6,0.3,8.2,7.8,3.6
+223,40,O,16990,College Way N & N 103rd St,50,AM,0.1,0.1,8.3,1.5,1.4
+223,40,O,17010,College Way N & N 97th St,51,AM,0.2,0.9,7.5,2.6,12
+223,40,O,17022,N 92nd St & Corliss Ave N,52,AM,0.1,0.2,7.4,1.1,3.2
+223,40,O,17024,1st Ave NE & NE 95th St,53,AM,0.1,0.7,6.8,1.6,8.9
+223,40,O,35317,Northgate Station - Bay 1,54,AM,0.1,6.9,0,1.7,90.3
+223,40,I,35318,Northgate Station - Bay 4,1,MID,6.5,0,6.5,167.9,0
+223,40,I,17697,1st Ave NE & NE 95th St,2,MID,0.3,0,6.8,7.9,1.1
+223,40,I,17698,N 92nd St & Corliss Ave N,3,MID,0.2,0.1,6.9,6.1,1.3
+223,40,I,17710,College Way N & N 97th St,4,MID,1.4,0.2,8,35,5.5
+223,40,I,17730,College Way N & N 103rd St,5,MID,0.2,0.1,8.2,5.7,1.3
+223,40,I,17740,Meridian Ave N & N 105th St,6,MID,0.9,0.4,8.7,23.2,8.9
+223,40,I,17755,N Northgate Way & Meridian Ave N,7,MID,1.8,0.4,10.1,45.2,10.8
+223,40,I,40030,N Northgate Way & Stone Ave N,8,MID,0.3,0.7,9.7,7.8,17.8
+223,40,I,40032,N 105th St & Aurora Ave N,9,MID,2.2,1.7,10.2,55.2,43.6
+223,40,I,40035,N 105th St & Fremont Ave N,10,MID,0.4,0.3,10.3,10.1,7.6
+223,40,I,40038,N 105th St & Greenwood Ave N,11,MID,1.1,1.4,9.9,29.7,36.7
+223,40,I,40040,Holman Rd NW & 3rd Ave NW,12,MID,0.2,0.5,9.6,5.6,13.2
+223,40,I,40042,Holman Rd NW & 7th Ave NW,13,MID,0.4,0.4,9.5,10.1,10.3
+223,40,I,40044,Holman Rd NW & 9th Ave NW,14,MID,0,0,9.5,1.2,0.4
+223,40,I,40046,Holman Rd NW & 13th Ave NW,15,MID,0.2,0.4,9.3,5.3,9.6
+223,40,I,40049,Holman Rd NW & Mary Ave NW,16,MID,0.4,0.9,8.9,11.1,22.7
+223,40,I,13585,15th Ave NW & NW 87th St,17,MID,0.2,0.3,8.7,4.7,8.6
+223,40,I,37081,NW 85th St & 15th Ave NW,18,MID,0.8,1.1,8.4,19.8,28.7
+223,40,I,37083,NW 85th St & 19th Ave NW,19,MID,0.1,0.1,8.4,2.5,1.6
+223,40,I,37078,NW 85th St & 22nd Ave NW,20,MID,0.1,0.1,8.4,1.9,1.4
+223,40,I,19240,24th Ave NW & NW 85th St,21,MID,0.4,0.1,8.5,10.2,3.8
+223,40,I,19250,24th Ave NW & NW 83rd St,22,MID,0,0,8.6,0.7,0.2
+223,40,I,19260,24th Ave NW & NW 80th St,23,MID,0.4,0.3,8.7,11.5,7.3
+223,40,I,19270,24th Ave NW & NW 77th St,24,MID,0.5,0.2,9,13.7,5.5
+223,40,I,19280,24th Ave NW & NW 75th St,25,MID,0.2,0.1,9.2,6.4,1.9
+223,40,I,19300,24th Ave NW & NW 70th St,26,MID,0.4,0.2,9.4,10.5,5.2
+223,40,I,19320,24th Ave NW & NW 65th St,27,MID,0.7,0.2,9.9,18.7,6.2
+223,40,I,19340,24th Ave NW & NW 61st St,28,MID,0.8,0.4,10.3,19.6,10
+223,40,I,19360,24th Ave NW & NW 57th St,29,MID,1.8,1.4,10.6,46.2,37.2
+223,40,I,18120,NW Market St & Ballard Ave NW,30,MID,2.4,1.8,11.2,63.5,47.2
+223,40,I,18145,Leary Ave NW & NW Vernon Pl,31,MID,0.9,0.4,11.7,23.5,10.9
+223,40,I,18150,Leary Ave NW & NW Ione Pl,32,MID,0.8,0.4,12.1,20.3,9.8
+223,40,I,18165,NW Leary Way & 15th Ave NW,33,MID,1.6,1.7,11.9,40.4,45.4
+223,40,I,28255,NW Leary Way & 11th Ave NW,34,MID,0.7,0.4,12.2,18.3,10.9
+223,40,I,28265,Leary Way NW & 8th Ave NW,35,MID,0.6,0.5,12.3,15.4,12.5
+223,40,I,28260,Leary Way NW & NW 43rd St,36,MID,0.7,0.2,12.8,17.6,5.2
+223,40,I,28280,Leary Way NW & 3rd Ave NW,37,MID,0.3,0.1,12.9,6.5,3.1
+223,40,I,28300,N 36th St & 1st Ave NW,38,MID,0.4,0.3,13.2,10.2,8.1
+223,40,I,28310,N 36th St & Phinney Ave N,39,MID,0.6,0.5,13.3,15.6,14
+223,40,I,26510,Fremont Ave N & N 34th St,40,MID,1.9,2.6,12.6,52.5,70.3
+223,40,I,26520,Westlake Ave N & Dexter Ave N,41,MID,0.4,0.2,12.8,11,4.9
+223,40,I,26560,Westlake Ave N & Crockett St,42,MID,0.3,0.1,13,7.5,2.8
+223,40,I,26580,Westlake Ave N & 8th Ave N,43,MID,0.1,0,13.1,2.3,0.6
+223,40,I,26590,Westlake Ave N & Galer St,44,MID,0.6,0.2,13.5,15.8,4.2
+223,40,I,26600,Westlake Ave N & Highland Dr,45,MID,0.8,0.6,13.6,20.2,14.6
+223,40,I,26641,Westlake & Mercer,46,MID,0.7,2.6,12.1,18.7,69.8
+223,40,I,26645,Westlake & Thomas,47,MID,0.8,1.5,11.5,22.4,39.7
+223,40,I,26665,Westlake & 9th-Denny,48,MID,0.8,2.7,9.6,22.7,71.7
+223,40,I,420,3rd Ave & Virginia St,49,MID,0.6,2.2,8.1,16.1,59
+223,40,I,430,3rd Ave & Pine St,50,MID,0.3,3,5.4,8.3,80.7
+223,40,I,450,3rd Ave & Union St,51,MID,0.2,1.9,3.7,6.4,52
+223,40,I,480,3rd Ave & Marion St,52,MID,0.2,1.4,2.4,5,38.6
+223,40,I,500,3rd Ave & James St,53,MID,0.1,0.5,2.1,1.5,12.2
+223,40,I,515,3rd Ave S & S Main St,54,MID,0.6,2.6,0,15.5,70.8
+223,40,O,619,4th Ave S & S Jackson St,1,MID,3.5,0,4.5,83.9,0.1
+223,40,O,531,3rd Ave & James St,2,MID,1.2,0.1,5.5,27.9,3.5
+223,40,O,548,3rd Ave & Madison St,3,MID,2,0.4,7.3,49.2,9.9
+223,40,O,570,3rd Ave & Union St,4,MID,1.9,0.6,8.6,47.3,15
+223,40,O,590,3rd Ave & Pine St,5,MID,3.4,0.7,11.2,83.8,16.5
+223,40,O,600,3rd Ave & Virginia St,6,MID,1.7,1,11.9,42.5,25
+223,40,O,18440,Blanchard St & 6th Ave,7,MID,0.7,0.4,12.2,17.4,9.6
+223,40,O,26690,Westlake & 9th-Denny,8,MID,2.7,0.8,13.9,64.7,19.9
+223,40,O,26715,Westlake Ave N & Harrison St,9,MID,1.1,1.3,13.7,25.5,31.1
+223,40,O,26730,Westlake Ave N & Mercer St,10,MID,1.1,0.8,13.9,26.6,19.4
+223,40,O,26760,Westlake Ave N & Highland Dr,11,MID,0.3,0.5,13.7,7.5,12.6
+223,40,O,26770,Westlake Ave N & Galer St,12,MID,0.2,0.3,13.7,6.1,6.7
+223,40,O,26780,Westlake Ave N & 8th Ave N,13,MID,0,0.1,13.6,0.4,2.9
+223,40,O,26800,Westlake Ave N & Crockett St,14,MID,0.2,0.1,13.6,3.8,3.6
+223,40,O,26840,Westlake Ave N & Westlake Ave N,15,MID,0.1,0.1,13.6,2.8,2.3
+223,40,O,26850,Westlake Ave N & Westlake Aly,16,MID,0.1,0.3,13.4,2.6,8.1
+223,40,O,26860,Fremont Ave N & N 34th St,17,MID,1.6,2.9,12,39.4,73.2
+223,40,O,28350,N 36th St & Dayton Ave N,18,MID,0.5,0.7,11.9,13.3,16.9
+223,40,O,28370,NW 36th St & 1st Ave NW,19,MID,0.2,0.3,11.8,5.7,7.7
+223,40,O,28390,Leary Way NW & 3rd Ave NW,20,MID,0.1,0.2,11.7,3.5,5.9
+223,40,O,28410,Leary Way NW & NW 43rd St,21,MID,0.3,0.6,11,7.4,14.4
+223,40,O,28415,Leary Way NW & 8th Ave NW,22,MID,0.2,0.6,10.7,5.9,14.4
+223,40,O,28416,NW Leary Way & 11th Ave NW,23,MID,0.8,1.6,9.9,19.1,40.2
+223,40,O,18696,NW Leary Way & 15th Ave NW,24,MID,0.9,0.9,9.9,23.1,22.5
+223,40,O,18706,Leary Ave NW & NW Ione Pl,25,MID,0.2,0.7,9.4,5.3,17.6
+223,40,O,18720,Leary Ave NW & NW Vernon Pl,26,MID,0.2,1.1,8.6,5.9,26.6
+223,40,O,18740,NW Market St & Ballard Ave NW,27,MID,1.2,2.2,7.6,30.3,55
+223,40,O,19510,24th Ave NW & NW 57th St,28,MID,1.6,1.3,7.8,40.1,33.6
+223,40,O,19530,24th Ave NW & NW 61st St,29,MID,0.3,0.3,7.8,7.5,8.2
+223,40,O,19550,24th Ave NW & NW 65th St,30,MID,0.3,0.4,7.7,7.7,9.3
+223,40,O,19570,24th Ave NW & NW 70th St,31,MID,0.2,0.3,7.4,3.9,7.2
+223,40,O,19590,24th Ave NW & NW 75th St,32,MID,0.1,0.2,7.2,2.4,4.1
+223,40,O,19600,24th Ave NW & NW 77th St,33,MID,0.2,0.4,6.9,4.3,10.3
+223,40,O,19610,24th Ave NW & NW 80th St,34,MID,0.3,0.4,6.8,7.6,11.2
+223,40,O,19620,24th Ave NW & NW 83rd St,35,MID,0,0.2,6.6,0.7,5.3
+223,40,O,35570,NW 85th St & 22nd Ave NW,36,MID,0.1,0.2,6.5,2.4,4.8
+223,40,O,35580,NW 85th St & 20th Ave NW,37,MID,0.1,0.1,6.5,1.7,3.4
+223,40,O,14360,15th Ave NW & NW 85th St,38,MID,1.4,0.9,6.9,34,23.5
+223,40,O,40050,Holman Rd NW & Mary Ave NW,39,MID,0.8,0.3,7.4,20.5,7.4
+223,40,O,40052,Holman Rd NW & 13th Ave NW,40,MID,0.3,0.1,7.6,8.1,3.2
+223,40,O,40054,Holman Rd NW & 9th Ave NW,41,MID,0.1,0,7.6,1.5,1.2
+223,40,O,40056,Holman Rd NW & 7th Ave NW,42,MID,0.7,0.3,8,17.8,7.8
+223,40,O,40058,Holman Rd NW & 3rd Ave NW,43,MID,0.3,0.1,8.2,8.6,3.8
+223,40,O,40060,Holman Rd N & Greenwood Ave N,44,MID,1.4,0.9,8.7,35.4,23.4
+223,40,O,40065,N 105th St & Fremont Ave N,45,MID,0.4,0.4,8.7,9.9,9.2
+223,40,O,40068,N Northgate Way & Aurora Ave N,46,MID,2.2,2,8.8,53.9,48.8
+223,40,O,40070,N Northgate Way & Stone Ave N,47,MID,0.3,0.1,9,8.1,2.5
+223,40,O,16960,Meridian Ave N & N Northgate Way,48,MID,0.6,1.7,8,16.2,44.3
+223,40,O,16980,Meridian Ave N & N 105th St,49,MID,0.7,0.7,8,17.6,18.6
+223,40,O,16990,College Way N & N 103rd St,50,MID,0.2,0.2,8,4.7,5.3
+223,40,O,17010,College Way N & N 97th St,51,MID,0.2,1.1,7.1,5.7,29.4
+223,40,O,17022,N 92nd St & Corliss Ave N,52,MID,0.1,0.2,6.9,1.6,5.1
+223,40,O,17024,1st Ave NE & NE 95th St,53,MID,0.1,0.3,6.7,2.3,7.6
+223,40,O,35317,Northgate Station - Bay 1,54,MID,0.2,6.9,0,4.2,179
+223,40,I,35318,Northgate Station - Bay 4,1,PM,8.9,0,8.9,186.4,0
+223,40,I,17697,1st Ave NE & NE 95th St,2,PM,0.4,0.1,9.1,7.7,2.2
+223,40,I,17698,N 92nd St & Corliss Ave N,3,PM,0.1,0.1,9.2,3.1,2.7
+223,40,I,17710,College Way N & N 97th St,4,PM,0.7,0.2,9.7,15.3,4.1
+223,40,I,17730,College Way N & N 103rd St,5,PM,0.2,0.2,9.7,4.3,4.5
+223,40,I,17740,Meridian Ave N & N 105th St,6,PM,0.6,0.6,9.6,12.6,14
+223,40,I,17755,N Northgate Way & Meridian Ave N,7,PM,2,0.8,10.8,44,16.9
+223,40,I,40030,N Northgate Way & Stone Ave N,8,PM,0.2,1.1,9.9,4.4,24.2
+223,40,I,40032,N 105th St & Aurora Ave N,9,PM,2.5,1.8,10.9,51.9,37.4
+223,40,I,40035,N 105th St & Fremont Ave N,10,PM,0.3,0.7,10.4,6.4,15.4
+223,40,I,40038,N 105th St & Greenwood Ave N,11,PM,0.9,2.2,9.1,18,46.7
+223,40,I,40040,Holman Rd NW & 3rd Ave NW,12,PM,0.2,0.8,8.5,4.9,17.3
+223,40,I,40042,Holman Rd NW & 7th Ave NW,13,PM,0.3,0.5,8.5,7.6,10.3
+223,40,I,40044,Holman Rd NW & 9th Ave NW,14,PM,0,0.1,8.5,0.7,1.4
+223,40,I,40046,Holman Rd NW & 13th Ave NW,15,PM,0.2,0.7,7.9,4.3,15.6
+223,40,I,40049,Holman Rd NW & Mary Ave NW,16,PM,1.2,1,8.2,25.6,20.2
+223,40,I,13585,15th Ave NW & NW 87th St,17,PM,0.4,0.3,8.2,7.6,7.2
+223,40,I,37081,NW 85th St & 15th Ave NW,18,PM,1,1.2,8,21.3,26
+223,40,I,37083,NW 85th St & 19th Ave NW,19,PM,0.1,0.1,8,2.6,2.5
+223,40,I,37078,NW 85th St & 22nd Ave NW,20,PM,0.1,0.2,7.9,1.9,3.2
+223,40,I,19240,24th Ave NW & NW 85th St,21,PM,0.3,0.3,7.9,6.1,7
+223,40,I,19250,24th Ave NW & NW 83rd St,22,PM,0,0,7.9,0.7,0.9
+223,40,I,19260,24th Ave NW & NW 80th St,23,PM,0.5,0.4,7.9,9.5,8.6
+223,40,I,19270,24th Ave NW & NW 77th St,24,PM,0.2,0.4,7.8,5.2,8
+223,40,I,19280,24th Ave NW & NW 75th St,25,PM,0.2,0.2,7.8,4.2,4.5
+223,40,I,19300,24th Ave NW & NW 70th St,26,PM,0.3,0.5,7.5,6.7,11.1
+223,40,I,19320,24th Ave NW & NW 65th St,27,PM,0.5,0.6,7.5,11.4,11.9
+223,40,I,19340,24th Ave NW & NW 61st St,28,PM,0.4,0.6,7.4,8,11.6
+223,40,I,19360,24th Ave NW & NW 57th St,29,PM,1.3,1.2,7.4,27.3,26.2
+223,40,I,18120,NW Market St & Ballard Ave NW,30,PM,2.3,1.3,8.4,48.2,28.1
+223,40,I,18145,Leary Ave NW & NW Vernon Pl,31,PM,1,0.4,9.1,19.4,8.6
+223,40,I,18150,Leary Ave NW & NW Ione Pl,32,PM,1,0.3,9.7,19.1,6.5
+223,40,I,18165,NW Leary Way & 15th Ave NW,33,PM,1.8,1.1,10.4,37,23.9
+223,40,I,28255,NW Leary Way & 11th Ave NW,34,PM,1,0.4,11.1,21.3,8.7
+223,40,I,28265,Leary Way NW & 8th Ave NW,35,PM,0.7,0.4,11.3,15,9.3
+223,40,I,28260,Leary Way NW & NW 43rd St,36,PM,0.9,0.3,11.9,18,5.6
+223,40,I,28280,Leary Way NW & 3rd Ave NW,37,PM,0.4,0.2,12.1,7.8,3.7
+223,40,I,28300,N 36th St & 1st Ave NW,38,PM,0.6,0.4,12.6,11.1,7.8
+223,40,I,28310,N 36th St & Phinney Ave N,39,PM,0.7,0.7,12.6,13.7,14.4
+223,40,I,26510,Fremont Ave N & N 34th St,40,PM,3.5,2.6,13.6,70.9,51.1
+223,40,I,26520,Westlake Ave N & Dexter Ave N,41,PM,0.3,0.2,13.7,6.7,4.7
+223,40,I,26560,Westlake Ave N & Crockett St,42,PM,0.3,0.2,13.8,6.5,4.8
+223,40,I,26580,Westlake Ave N & 8th Ave N,43,PM,0.1,0,14.2,2.7,0.2
+223,40,I,26590,Westlake Ave N & Galer St,44,PM,0.6,0.3,14.5,12,5.1
+223,40,I,26600,Westlake Ave N & Highland Dr,45,PM,1.1,0.4,15.2,22,8.6
+223,40,I,26641,Westlake & Mercer,46,PM,2.2,1.5,15.8,43.1,29.6
+223,40,I,26645,Westlake & Thomas,47,PM,2.2,1.1,16.9,43.8,22.8
+223,40,I,26665,Westlake & 9th-Denny,48,PM,1.2,3.5,14.6,24.2,69.8
+223,40,I,420,3rd Ave & Virginia St,49,PM,0.6,3.7,11.8,11,70.8
+223,40,I,430,3rd Ave & Pine St,50,PM,0.3,4.9,7.2,6.1,94
+223,40,I,450,3rd Ave & Union St,51,PM,0.3,2.2,5.3,5,44.5
+223,40,I,480,3rd Ave & Marion St,52,PM,0.3,1.5,4.1,5.4,29.6
+223,40,I,500,3rd Ave & James St,53,PM,0,0.5,3.7,0.9,10.2
+223,40,I,515,3rd Ave S & S Main St,54,PM,0.6,4.3,0,12.1,85.1
+223,40,O,619,4th Ave S & S Jackson St,1,PM,3,0,3.3,71.3,0.2
+223,40,O,531,3rd Ave & James St,2,PM,1.1,0.1,4.4,26.8,2.2
+223,40,O,548,3rd Ave & Madison St,3,PM,3.3,0.2,7.4,78.4,5.9
+223,40,O,570,3rd Ave & Union St,4,PM,3.2,0.5,10.1,77.5,11.2
+223,40,O,590,3rd Ave & Pine St,5,PM,3.6,0.5,13.2,86.3,11.9
+223,40,O,600,3rd Ave & Virginia St,6,PM,1.7,0.7,14.2,40.8,17
+223,40,O,18440,Blanchard St & 6th Ave,7,PM,1.2,0.4,15.3,26.8,8.8
+223,40,O,26690,Westlake & 9th-Denny,8,PM,5,0.9,19.4,120.9,21.4
+223,40,O,26715,Westlake Ave N & Harrison St,9,PM,3.2,0.9,21.7,77.1,22.5
+223,40,O,26730,Westlake Ave N & Mercer St,10,PM,4.4,0.8,25.3,104.6,18.4
+223,40,O,26760,Westlake Ave N & Highland Dr,11,PM,0.8,0.9,25.7,18.7,20.6
+223,40,O,26770,Westlake Ave N & Galer St,12,PM,0.5,0.8,25.4,11.5,17.9
+223,40,O,26780,Westlake Ave N & 8th Ave N,13,PM,0.1,0.1,25.4,3.2,2.6
+223,40,O,26800,Westlake Ave N & Crockett St,14,PM,0.3,0.3,25.4,5.8,6.1
+223,40,O,26840,Westlake Ave N & Westlake Ave N,15,PM,0.1,0.2,25.3,1.8,3.9
+223,40,O,26850,Westlake Ave N & Westlake Aly,16,PM,0.2,0.8,24.7,4,18
+223,40,O,26860,Fremont Ave N & N 34th St,17,PM,3.5,4.4,23.8,81.1,101.8
+223,40,O,28350,N 36th St & Dayton Ave N,18,PM,1,1.3,23.5,22.2,29.1
+223,40,O,28370,NW 36th St & 1st Ave NW,19,PM,0.5,0.8,23.6,11,17.1
+223,40,O,28390,Leary Way NW & 3rd Ave NW,20,PM,0.2,0.5,23.3,4.4,10.4
+223,40,O,28410,Leary Way NW & NW 43rd St,21,PM,0.4,1,22.4,8.3,23.9
+223,40,O,28415,Leary Way NW & 8th Ave NW,22,PM,0.4,0.7,22,8.4,16.7
+223,40,O,28416,NW Leary Way & 11th Ave NW,23,PM,0.8,1.8,21.1,18.2,40.5
+223,40,O,18696,NW Leary Way & 15th Ave NW,24,PM,1.2,1.7,20.6,28.1,39.7
+223,40,O,18706,Leary Ave NW & NW Ione Pl,25,PM,0.4,1.6,19.4,9.2,36.8
+223,40,O,18720,Leary Ave NW & NW Vernon Pl,26,PM,0.6,2.3,17.7,14.7,52.2
+223,40,O,18740,NW Market St & Ballard Ave NW,27,PM,2.4,3.7,16.7,51.8,81.9
+223,40,O,19510,24th Ave NW & NW 57th St,28,PM,1.7,3.5,14.9,38,77.4
+223,40,O,19530,24th Ave NW & NW 61st St,29,PM,0.3,1.3,13.9,6.9,28.2
+223,40,O,19550,24th Ave NW & NW 65th St,30,PM,0.4,1.4,12.9,7.8,30.5
+223,40,O,19570,24th Ave NW & NW 70th St,31,PM,0.2,1,12,3.5,22.7
+223,40,O,19590,24th Ave NW & NW 75th St,32,PM,0.1,0.7,11.4,1.4,16
+223,40,O,19600,24th Ave NW & NW 77th St,33,PM,0.2,0.8,10.7,3.8,18.5
+223,40,O,19610,24th Ave NW & NW 80th St,34,PM,0.3,1,10.1,6,21.7
+223,40,O,19620,24th Ave NW & NW 83rd St,35,PM,0,0.6,9.6,0.5,12.9
+223,40,O,35570,NW 85th St & 22nd Ave NW,36,PM,0.1,0.4,9.2,1.5,9.2
+223,40,O,35580,NW 85th St & 20th Ave NW,37,PM,0.1,0.3,9,1.1,6.3
+223,40,O,14360,15th Ave NW & NW 85th St,38,PM,1.8,1.4,9.4,38.9,31.1
+223,40,O,40050,Holman Rd NW & Mary Ave NW,39,PM,1.1,0.6,9.9,23.5,12.6
+223,40,O,40052,Holman Rd NW & 13th Ave NW,40,PM,0.5,0.3,10.1,10.8,6.9
+223,40,O,40054,Holman Rd NW & 9th Ave NW,41,PM,0,0.1,10,0.4,1.7
+223,40,O,40056,Holman Rd NW & 7th Ave NW,42,PM,0.7,0.5,10.2,14.9,10.8
+223,40,O,40058,Holman Rd NW & 3rd Ave NW,43,PM,0.3,0.4,10.1,6.7,8.1
+223,40,O,40060,Holman Rd N & Greenwood Ave N,44,PM,0.9,1.5,9.4,19,33.6
+223,40,O,40065,N 105th St & Fremont Ave N,45,PM,0.2,0.8,8.9,5.3,18.3
+223,40,O,40068,N Northgate Way & Aurora Ave N,46,PM,2,2.4,8.8,44.4,52.5
+223,40,O,40070,N Northgate Way & Stone Ave N,47,PM,0.2,0.2,8.7,3.8,3.9
+223,40,O,16960,Meridian Ave N & N Northgate Way,48,PM,0.4,1.8,7.4,9.5,39.3
+223,40,O,16980,Meridian Ave N & N 105th St,49,PM,0.4,0.7,7.1,8.7,16
+223,40,O,16990,College Way N & N 103rd St,50,PM,0.1,0.2,6.9,2,4.5
+223,40,O,17010,College Way N & N 97th St,51,PM,0.1,0.3,6.8,3,6.7
+223,40,O,17022,N 92nd St & Corliss Ave N,52,PM,0.1,0.3,6.5,1.1,6.9
+223,40,O,17024,1st Ave NE & NE 95th St,53,PM,0,0.2,6.5,0.7,4.2
+223,40,O,35317,Northgate Station - Bay 1,54,PM,0.1,6.7,0,2.2,139.8
+223,40,I,35318,Northgate Station - Bay 4,1,XEV,5.4,0,5.4,70,0
+223,40,I,17697,1st Ave NE & NE 95th St,2,XEV,0.1,0.1,5.4,1.3,1
+223,40,I,17698,N 92nd St & Corliss Ave N,3,XEV,0.1,0.1,5.5,1,0.9
+223,40,I,17710,College Way N & N 97th St,4,XEV,0.2,0.1,5.7,2.9,0.7
+223,40,I,17730,College Way N & N 103rd St,5,XEV,0.1,0.1,5.6,0.7,1
+223,40,I,17740,Meridian Ave N & N 105th St,6,XEV,0.2,0.2,5.6,2,2.9
+223,40,I,17755,N Northgate Way & Meridian Ave N,7,XEV,0.9,0.4,6,10.9,5.1
+223,40,I,40030,N Northgate Way & Stone Ave N,8,XEV,0.1,0.6,5.5,1,7.4
+223,40,I,40032,N 105th St & Aurora Ave N,9,XEV,1,1.2,5.3,13.2,15
+223,40,I,40035,N 105th St & Fremont Ave N,10,XEV,0.1,0.3,5.2,1.9,3.3
+223,40,I,40038,N 105th St & Greenwood Ave N,11,XEV,0.3,1,4.6,4.1,12.4
+223,40,I,40040,Holman Rd NW & 3rd Ave NW,12,XEV,0.1,0.4,4.2,1.5,5.7
+223,40,I,40042,Holman Rd NW & 7th Ave NW,13,XEV,0.2,0.2,4.3,3,2.9
+223,40,I,40044,Holman Rd NW & 9th Ave NW,14,XEV,0,0.1,4.2,0.1,0.7
+223,40,I,40046,Holman Rd NW & 13th Ave NW,15,XEV,0.1,0.3,4.3,1.3,4.5
+223,40,I,40049,Holman Rd NW & Mary Ave NW,16,XEV,0.2,0.3,4.1,2.2,4.5
+223,40,I,13585,15th Ave NW & NW 87th St,17,XEV,0.1,0.1,4.1,1,1.7
+223,40,I,37081,NW 85th St & 15th Ave NW,18,XEV,0.4,0.7,3.8,6.1,9.3
+223,40,I,37083,NW 85th St & 19th Ave NW,19,XEV,0.1,0.1,3.8,0.7,0.8
+223,40,I,37078,NW 85th St & 22nd Ave NW,20,XEV,0,0,3.8,0.2,0.2
+223,40,I,19240,24th Ave NW & NW 85th St,21,XEV,0.2,0.1,3.9,2.1,1.3
+223,40,I,19250,24th Ave NW & NW 83rd St,22,XEV,0,0,3.9,0.3,0.2
+223,40,I,19260,24th Ave NW & NW 80th St,23,XEV,0.2,0.1,4.1,2.5,0.9
+223,40,I,19270,24th Ave NW & NW 77th St,24,XEV,0.1,0.1,4.1,1.1,0.9
+223,40,I,19280,24th Ave NW & NW 75th St,25,XEV,0.1,0.1,4.1,1,0.7
+223,40,I,19300,24th Ave NW & NW 70th St,26,XEV,0.1,0.1,4.1,1.3,1.6
+223,40,I,19320,24th Ave NW & NW 65th St,27,XEV,0.2,0.2,4.1,2.1,2.1
+223,40,I,19340,24th Ave NW & NW 61st St,28,XEV,0.2,0.3,4.1,2.6,3.6
+223,40,I,19360,24th Ave NW & NW 57th St,29,XEV,0.6,0.5,4.2,7.7,6.2
+223,40,I,18120,NW Market St & Ballard Ave NW,30,XEV,1.8,0.7,5.3,23.1,8.7
+223,40,I,18145,Leary Ave NW & NW Vernon Pl,31,XEV,0.8,0.3,5.8,11.4,4
+223,40,I,18150,Leary Ave NW & NW Ione Pl,32,XEV,0.5,0.3,6,7.5,3.8
+223,40,I,18165,NW Leary Way & 15th Ave NW,33,XEV,1,0.3,6.7,13.5,4.3
+223,40,I,28255,NW Leary Way & 11th Ave NW,34,XEV,0.5,0.2,7,7.1,2.8
+223,40,I,28265,Leary Way NW & 8th Ave NW,35,XEV,0.5,0.3,7.2,7.5,4.1
+223,40,I,28260,Leary Way NW & NW 43rd St,36,XEV,0.6,0.2,7.6,8.1,3
+223,40,I,28280,Leary Way NW & 3rd Ave NW,37,XEV,0.1,0.1,7.6,1.4,1.4
+223,40,I,28300,N 36th St & 1st Ave NW,38,XEV,0.2,0.3,7.4,2.7,3.9
+223,40,I,28310,N 36th St & Phinney Ave N,39,XEV,0.6,0.7,7.3,7.9,10.2
+223,40,I,26510,Fremont Ave N & N 34th St,40,XEV,2.1,1.2,8.2,29.1,16.3
+223,40,I,26520,Westlake Ave N & Dexter Ave N,41,XEV,0.2,0.1,8.2,2.4,1.8
+223,40,I,26560,Westlake Ave N & Crockett St,42,XEV,0.1,0.1,8.2,1.8,1.8
+223,40,I,26580,Westlake Ave N & 8th Ave N,43,XEV,0,0,8.3,0.2,0.2
+223,40,I,26590,Westlake Ave N & Galer St,44,XEV,0.2,0.3,8.2,3,4
+223,40,I,26600,Westlake Ave N & Highland Dr,45,XEV,0.4,0.4,8.2,5.3,5.6
+223,40,I,26641,Westlake & Mercer,46,XEV,0.9,0.7,8.3,12.8,11.1
+223,40,I,26645,Westlake & Thomas,47,XEV,0.7,0.6,8.5,10.2,8.4
+223,40,I,26665,Westlake & 9th-Denny,48,XEV,0.8,1.9,7.3,11.3,28.4
+223,40,I,420,3rd Ave & Virginia St,49,XEV,0.3,2,5.4,4.9,30.1
+223,40,I,430,3rd Ave & Pine St,50,XEV,0.2,2.3,3.3,2.9,35.1
+223,40,I,450,3rd Ave & Union St,51,XEV,0.2,1.3,2.2,2.6,19.2
+223,40,I,480,3rd Ave & Marion St,52,XEV,0.1,0.6,1.6,0.8,9.3
+223,40,I,500,3rd Ave & James St,53,XEV,0,0.3,1.4,0.2,4.1
+223,40,I,515,3rd Ave S & S Main St,54,XEV,0.4,1.8,0,6.6,27.4
+223,40,O,619,4th Ave S & S Jackson St,1,XEV,1.5,0,1.7,20.9,0.1
+223,40,O,531,3rd Ave & James St,2,XEV,0.6,0.1,2.3,8.2,0.8
+223,40,O,548,3rd Ave & Madison St,3,XEV,0.9,0.2,3,12.5,2.2
+223,40,O,570,3rd Ave & Union St,4,XEV,1.5,0.3,4.3,21.4,3.7
+223,40,O,590,3rd Ave & Pine St,5,XEV,2.2,0.2,6.3,31.4,3.1
+223,40,O,600,3rd Ave & Virginia St,6,XEV,1.1,0.6,6.8,14.1,7.8
+223,40,O,18440,Blanchard St & 6th Ave,7,XEV,0.5,0.2,7.2,7.3,3
+223,40,O,26690,Westlake & 9th-Denny,8,XEV,2.1,0.4,8.8,29.1,5.9
+223,40,O,26715,Westlake Ave N & Harrison St,9,XEV,1.3,0.5,9.7,18.5,6.8
+223,40,O,26730,Westlake Ave N & Mercer St,10,XEV,1.3,0.3,10.6,17.5,4.5
+223,40,O,26760,Westlake Ave N & Highland Dr,11,XEV,0.3,0.6,10.4,4,9.2
+223,40,O,26770,Westlake Ave N & Galer St,12,XEV,0.2,0.4,10.3,2.7,5.5
+223,40,O,26780,Westlake Ave N & 8th Ave N,13,XEV,0,0,10.3,0.4,0.2
+223,40,O,26800,Westlake Ave N & Crockett St,14,XEV,0.1,0.1,10.2,1.5,2.1
+223,40,O,26840,Westlake Ave N & Westlake Ave N,15,XEV,0,0,10.2,0.1,0.3
+223,40,O,26850,Westlake Ave N & Westlake Aly,16,XEV,0.1,0.3,10,1.1,4
+223,40,O,26860,Fremont Ave N & N 34th St,17,XEV,1.8,1.7,10.1,27.1,25.7
+223,40,O,28350,N 36th St & Dayton Ave N,18,XEV,0.7,0.8,10.3,9.9,10.9
+223,40,O,28370,NW 36th St & 1st Ave NW,19,XEV,0.3,0.4,10.5,4,6.2
+223,40,O,28390,Leary Way NW & 3rd Ave NW,20,XEV,0.1,0.2,10.4,1.2,2.9
+223,40,O,28410,Leary Way NW & NW 43rd St,21,XEV,0.3,0.6,10.1,4.4,8.7
+223,40,O,28415,Leary Way NW & 8th Ave NW,22,XEV,0.4,0.4,10.1,5.3,6
+223,40,O,28416,NW Leary Way & 11th Ave NW,23,XEV,0.3,0.6,9.8,4.8,9.1
+223,40,O,18696,NW Leary Way & 15th Ave NW,24,XEV,0.6,0.6,9.8,8.8,8.8
+223,40,O,18706,Leary Ave NW & NW Ione Pl,25,XEV,0.3,0.7,9.4,4.2,10
+223,40,O,18720,Leary Ave NW & NW Vernon Pl,26,XEV,0.4,1,8.8,6.4,15.2
+223,40,O,18740,NW Market St & Ballard Ave NW,27,XEV,1.2,1.6,8.6,19.7,25.7
+223,40,O,19510,24th Ave NW & NW 57th St,28,XEV,0.9,1.6,7.8,13.8,25.9
+223,40,O,19530,24th Ave NW & NW 61st St,29,XEV,0.2,0.7,7.4,2.6,10.6
+223,40,O,19550,24th Ave NW & NW 65th St,30,XEV,0.1,0.7,6.8,1.9,10.9
+223,40,O,19570,24th Ave NW & NW 70th St,31,XEV,0,0.4,6.2,0.5,6.3
+223,40,O,19590,24th Ave NW & NW 75th St,32,XEV,0,0.3,6,0.3,4.4
+223,40,O,19600,24th Ave NW & NW 77th St,33,XEV,0.1,0.3,5.7,1,5.2
+223,40,O,19610,24th Ave NW & NW 80th St,34,XEV,0.1,0.3,5.6,0.9,4.8
+223,40,O,19620,24th Ave NW & NW 83rd St,35,XEV,0,0.3,5.3,0,4.5
+223,40,O,35570,NW 85th St & 22nd Ave NW,36,XEV,0,0.2,5.2,0.2,2.6
+223,40,O,35580,NW 85th St & 20th Ave NW,37,XEV,0,0.1,5.1,0,2.3
+223,40,O,14360,15th Ave NW & NW 85th St,38,XEV,0.8,0.9,5,13.3,13.8
+223,40,O,40050,Holman Rd NW & Mary Ave NW,39,XEV,0.3,0.3,5,4.7,4.4
+223,40,O,40052,Holman Rd NW & 13th Ave NW,40,XEV,0.2,0.2,5,2.4,3.7
+223,40,O,40054,Holman Rd NW & 9th Ave NW,41,XEV,0,0,4.9,0.2,0.6
+223,40,O,40056,Holman Rd NW & 7th Ave NW,42,XEV,0.3,0.3,4.9,4.9,4.9
+223,40,O,40058,Holman Rd NW & 3rd Ave NW,43,XEV,0.1,0.2,4.9,2.3,2.4
+223,40,O,40060,Holman Rd N & Greenwood Ave N,44,XEV,0.3,0.7,4.5,5.2,11.1
+223,40,O,40065,N 105th St & Fremont Ave N,45,XEV,0.1,0.3,4.3,1.2,5.3
+223,40,O,40068,N Northgate Way & Aurora Ave N,46,XEV,1,1,4.4,17.7,16.5
+223,40,O,40070,N Northgate Way & Stone Ave N,47,XEV,0.1,0.2,4.2,1.3,3.1
+223,40,O,16960,Meridian Ave N & N Northgate Way,48,XEV,0.2,0.9,3.5,3.6,16.1
+223,40,O,16980,Meridian Ave N & N 105th St,49,XEV,0,0.3,3.2,0.8,5.9
+223,40,O,16990,College Way N & N 103rd St,50,XEV,0,0.1,3.2,0.3,1.3
+223,40,O,17010,College Way N & N 97th St,51,XEV,0,0.2,3.1,0.5,2.7
+223,40,O,17022,N 92nd St & Corliss Ave N,52,XEV,0,0.1,2.9,0.2,2.3
+223,40,O,17024,1st Ave NE & NE 95th St,53,XEV,0,0.2,2.8,0.2,3.1
+223,40,O,35317,Northgate Station - Bay 1,54,XEV,0.1,2.9,0,1,51.6
+223,40,I,35318,Northgate Station - Bay 4,1,XNT,4.7,0,4.8,33.1,0
+223,40,I,17697,1st Ave NE & NE 95th St,2,XNT,0,0.1,4.7,0.2,0.6
+223,40,I,17698,N 92nd St & Corliss Ave N,3,XNT,0,0.1,4.7,0.3,0.5
+223,40,I,17710,College Way N & N 97th St,4,XNT,0,0.1,4.7,0.3,0.5
+223,40,I,17730,College Way N & N 103rd St,5,XNT,0,0,4.7,0.3,0.3
+223,40,I,17740,Meridian Ave N & N 105th St,6,XNT,0.1,0.2,4.6,0.8,1.4
+223,40,I,17755,N Northgate Way & Meridian Ave N,7,XNT,0.6,0.4,4.8,5.1,3.2
+223,40,I,40030,N Northgate Way & Stone Ave N,8,XNT,0.1,0.3,4.6,0.6,2.2
+223,40,I,40032,N 105th St & Aurora Ave N,9,XNT,0.9,1.1,4.3,6.8,9
+223,40,I,40035,N 105th St & Fremont Ave N,10,XNT,0.2,0.2,4.4,1.2,1.2
+223,40,I,40038,N 105th St & Greenwood Ave N,11,XNT,0.3,0.7,4,2.2,5.4
+223,40,I,40040,Holman Rd NW & 3rd Ave NW,12,XNT,0.1,0.4,3.7,1,2.8
+223,40,I,40042,Holman Rd NW & 7th Ave NW,13,XNT,0.1,0.2,3.7,1.1,1.3
+223,40,I,40044,Holman Rd NW & 9th Ave NW,14,XNT,0,0,3.6,0,0.1
+223,40,I,40046,Holman Rd NW & 13th Ave NW,15,XNT,0.1,0.3,3.5,0.5,2
+223,40,I,40049,Holman Rd NW & Mary Ave NW,16,XNT,0.1,0.1,3.4,0.6,0.7
+223,40,I,13585,15th Ave NW & NW 87th St,17,XNT,0,0,3.4,0,0.2
+223,40,I,37081,NW 85th St & 15th Ave NW,18,XNT,0.4,0.4,3.4,3,3.1
+223,40,I,37083,NW 85th St & 19th Ave NW,19,XNT,0,0,3.4,0.2,0.3
+223,40,I,37078,NW 85th St & 22nd Ave NW,20,XNT,0,0,3.4,0,0.1
+223,40,I,19240,24th Ave NW & NW 85th St,21,XNT,0.2,0.1,3.4,1.5,0.8
+223,40,I,19250,24th Ave NW & NW 83rd St,22,XNT,0,0,3.4,0,0
+223,40,I,19260,24th Ave NW & NW 80th St,23,XNT,0.1,0,3.5,0.5,0.1
+223,40,I,19270,24th Ave NW & NW 77th St,24,XNT,0,0,3.5,0.2,0.1
+223,40,I,19280,24th Ave NW & NW 75th St,25,XNT,0,0,3.5,0.2,0.1
+223,40,I,19300,24th Ave NW & NW 70th St,26,XNT,0,0.1,3.4,0,1.3
+223,40,I,19320,24th Ave NW & NW 65th St,27,XNT,0.1,0.2,3.3,0.9,1.5
+223,40,I,19340,24th Ave NW & NW 61st St,28,XNT,0.1,0.2,3.3,1.3,1.5
+223,40,I,19360,24th Ave NW & NW 57th St,29,XNT,0.2,0.3,3.2,1.7,2.4
+223,40,I,18120,NW Market St & Ballard Ave NW,30,XNT,0.9,0.3,3.8,7.8,2.5
+223,40,I,18145,Leary Ave NW & NW Vernon Pl,31,XNT,0.4,0.1,4.2,3.9,0.5
+223,40,I,18150,Leary Ave NW & NW Ione Pl,32,XNT,0.6,0.3,4.5,5.6,2.5
+223,40,I,18165,NW Leary Way & 15th Ave NW,33,XNT,0.4,0.1,4.7,3.2,1.2
+223,40,I,28255,NW Leary Way & 11th Ave NW,34,XNT,0.2,0.1,4.8,1.7,1.1
+223,40,I,28265,Leary Way NW & 8th Ave NW,35,XNT,0.5,0.1,5.1,4.2,1.3
+223,40,I,28260,Leary Way NW & NW 43rd St,36,XNT,0.5,0.1,5.4,4.2,1.2
+223,40,I,28280,Leary Way NW & 3rd Ave NW,37,XNT,0.1,0.1,5.5,1.3,0.9
+223,40,I,28300,N 36th St & 1st Ave NW,38,XNT,0.2,0.1,5.7,1.6,1.4
+223,40,I,28310,N 36th St & Phinney Ave N,39,XNT,0.8,0.4,6.1,7.6,3.5
+223,40,I,26510,Fremont Ave N & N 34th St,40,XNT,1.3,0.5,6.9,12.5,4.9
+223,40,I,26520,Westlake Ave N & Dexter Ave N,41,XNT,0.1,0.1,6.8,0.8,1.3
+223,40,I,26560,Westlake Ave N & Crockett St,42,XNT,0,0.1,6.8,0.3,0.8
+223,40,I,26580,Westlake Ave N & 8th Ave N,43,XNT,0.1,0,6.8,0.5,0.1
+223,40,I,26590,Westlake Ave N & Galer St,44,XNT,0,0.2,6.7,0.3,1.9
+223,40,I,26600,Westlake Ave N & Highland Dr,45,XNT,0.1,0.2,6.6,1.3,2.2
+223,40,I,26641,Westlake & Mercer,46,XNT,0.9,0.5,7.1,9.4,4.7
+223,40,I,26645,Westlake & Thomas,47,XNT,0.8,0.4,7.5,7.7,3.8
+223,40,I,26665,Westlake & 9th-Denny,48,XNT,0.5,1,7,4.7,9.8
+223,40,I,420,3rd Ave & Virginia St,49,XNT,0.3,1.7,5.9,3.3,18.7
+223,40,I,430,3rd Ave & Pine St,50,XNT,0.2,2.3,3.8,2.3,25.3
+223,40,I,450,3rd Ave & Union St,51,XNT,0.3,1.3,2.7,3.2,14.3
+223,40,I,480,3rd Ave & Marion St,52,XNT,0.1,0.6,2.2,0.8,6.5
+223,40,I,500,3rd Ave & James St,53,XNT,0,0.4,1.9,0.4,4.2
+223,40,I,515,3rd Ave S & S Main St,54,XNT,1.1,3,0,12.2,32.8
+223,40,O,619,4th Ave S & S Jackson St,1,XNT,0.9,0,1,7.8,0
+223,40,O,531,3rd Ave & James St,2,XNT,0.6,0,1.6,5.7,0.2
+223,40,O,548,3rd Ave & Madison St,3,XNT,0.7,0.1,2.2,6,1.1
+223,40,O,570,3rd Ave & Union St,4,XNT,0.9,0.2,2.9,8.1,1.8
+223,40,O,590,3rd Ave & Pine St,5,XNT,1.3,0.2,4,11.9,1.5
+223,40,O,600,3rd Ave & Virginia St,6,XNT,1,0.4,4.8,9.8,3.9
+223,40,O,18440,Blanchard St & 6th Ave,7,XNT,0.3,0.1,4.9,3.1,1.3
+223,40,O,26690,Westlake & 9th-Denny,8,XNT,1.1,0.2,5.8,10.6,2
+223,40,O,26715,Westlake Ave N & Harrison St,9,XNT,0.6,0.2,6.1,6,2.1
+223,40,O,26730,Westlake Ave N & Mercer St,10,XNT,0.4,0.3,6.3,4.3,2.5
+223,40,O,26760,Westlake Ave N & Highland Dr,11,XNT,0.1,0.2,6.3,0.8,1.6
+223,40,O,26770,Westlake Ave N & Galer St,12,XNT,0.1,0.1,6.2,0.6,1
+223,40,O,26780,Westlake Ave N & 8th Ave N,13,XNT,0,0,6.2,0,0.2
+223,40,O,26800,Westlake Ave N & Crockett St,14,XNT,0,0.1,6.1,0.2,1
+223,40,O,26840,Westlake Ave N & Westlake Ave N,15,XNT,0,0,6.1,0,0.1
+223,40,O,26850,Westlake Ave N & Westlake Aly,16,XNT,0,0.2,5.9,0,2
+223,40,O,26860,Fremont Ave N & N 34th St,17,XNT,0.8,0.6,6.1,8.1,6.4
+223,40,O,28350,N 36th St & Dayton Ave N,18,XNT,0.6,0.4,6.4,7.1,4.2
+223,40,O,28370,NW 36th St & 1st Ave NW,19,XNT,0.2,0.2,6.5,2.6,2.2
+223,40,O,28390,Leary Way NW & 3rd Ave NW,20,XNT,0.1,0.1,6.5,0.8,0.7
+223,40,O,28410,Leary Way NW & NW 43rd St,21,XNT,0.3,0.3,6.4,2.9,3.4
+223,40,O,28415,Leary Way NW & 8th Ave NW,22,XNT,0.2,0.1,6.5,2,1.2
+223,40,O,28416,NW Leary Way & 11th Ave NW,23,XNT,0.2,0.3,6.4,2.4,3.1
+223,40,O,18696,NW Leary Way & 15th Ave NW,24,XNT,0.2,0.3,6.4,2.7,2.9
+223,40,O,18706,Leary Ave NW & NW Ione Pl,25,XNT,0.6,0.5,6.5,6.3,6
+223,40,O,18720,Leary Ave NW & NW Vernon Pl,26,XNT,0.4,0.3,6.6,4.5,3.1
+223,40,O,18740,NW Market St & Ballard Ave NW,27,XNT,0.8,0.7,6.7,9.1,7.5
+223,40,O,19510,24th Ave NW & NW 57th St,28,XNT,0.5,0.8,6.5,6,8.6
+223,40,O,19530,24th Ave NW & NW 61st St,29,XNT,0.2,0.3,6.3,1.8,3.4
+223,40,O,19550,24th Ave NW & NW 65th St,30,XNT,0,0.3,6.1,0.5,3.6
+223,40,O,19570,24th Ave NW & NW 70th St,31,XNT,0,0.2,6.1,0.4,2.6
+223,40,O,19590,24th Ave NW & NW 75th St,32,XNT,0,0.1,6,0,1.5
+223,40,O,19600,24th Ave NW & NW 77th St,33,XNT,0,0.1,5.9,0,1.7
+223,40,O,19610,24th Ave NW & NW 80th St,34,XNT,0,0.2,5.7,0,2.1
+223,40,O,19620,24th Ave NW & NW 83rd St,35,XNT,0,0.1,5.6,0,1.7
+223,40,O,35570,NW 85th St & 22nd Ave NW,36,XNT,0,0.1,5.5,0,0.9
+223,40,O,35580,NW 85th St & 20th Ave NW,37,XNT,0,0.1,5.4,0.1,1.2
+223,40,O,14360,15th Ave NW & NW 85th St,38,XNT,0.6,0.7,5.3,6.7,8.6
+223,40,O,40050,Holman Rd NW & Mary Ave NW,39,XNT,0.2,0.2,5.3,1.9,2.4
+223,40,O,40052,Holman Rd NW & 13th Ave NW,40,XNT,0.1,0.2,5.2,1.5,2.7
+223,40,O,40054,Holman Rd NW & 9th Ave NW,41,XNT,0,0.1,5.1,0,1.1
+223,40,O,40056,Holman Rd NW & 7th Ave NW,42,XNT,0.2,0.2,5.1,2.4,1.9
+223,40,O,40058,Holman Rd NW & 3rd Ave NW,43,XNT,0.1,0.1,5.1,1.3,1.6
+223,40,O,40060,Holman Rd N & Greenwood Ave N,44,XNT,0.2,0.9,4.4,2.8,10.4
+223,40,O,40065,N 105th St & Fremont Ave N,45,XNT,0,0.3,4.2,0.4,3.8
+223,40,O,40068,N Northgate Way & Aurora Ave N,46,XNT,0.7,1.1,3.8,8.2,12.9
+223,40,O,40070,N Northgate Way & Stone Ave N,47,XNT,0.1,0.1,3.7,0.9,1.2
+223,40,O,16960,Meridian Ave N & N Northgate Way,48,XNT,0.2,0.7,3.2,2.2,8.4
+223,40,O,16980,Meridian Ave N & N 105th St,49,XNT,0,0.4,2.8,0,4.7
+223,40,O,16990,College Way N & N 103rd St,50,XNT,0,0.1,2.8,0,1.2
+223,40,O,17010,College Way N & N 97th St,51,XNT,0,0.2,2.5,0.1,2.9
+223,40,O,17022,N 92nd St & Corliss Ave N,52,XNT,0,0.2,2.4,0,2.3
+223,40,O,17024,1st Ave NE & NE 95th St,53,XNT,0,0.2,2.2,0.3,2.4
+223,40,O,35317,Northgate Station - Bay 1,54,XNT,0.2,2.4,0,2.6,28.9

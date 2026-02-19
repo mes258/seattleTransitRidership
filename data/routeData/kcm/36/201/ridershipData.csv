@@ -1,0 +1,362 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+201,36,I,56151,Martin L King Jr Way S & S Myrtle St,1,AM,0.5,0,0.6,8.9,0
+201,36,I,45651,S Othello St & Martin L King Jr Way S,2,AM,1,0,1.5,18.2,0.6
+201,36,I,45670,S Myrtle Pl & S Holly Park Dr,3,AM,0.1,0,1.5,1.4,0.4
+201,36,I,45680,S Myrtle St & 32nd Ave S,4,AM,0.3,0,1.7,4.8,0.9
+201,36,I,30340,Beacon Ave S & S Myrtle St,5,AM,0.4,0,2.1,6.9,0.3
+201,36,I,30360,Beacon Ave S & S Holly St,6,AM,0.8,0,2.9,16.8,0.3
+201,36,I,30380,Beacon Ave S & S Graham St,7,AM,0.8,0,3.7,16.1,0.5
+201,36,I,30390,Beacon Ave S & S Spencer St,8,AM,0.2,0,3.9,3.9,0
+201,36,I,30410,Beacon Ave S & S Orcas St,9,AM,0.6,0,4.5,12,0.2
+201,36,I,30430,Beacon Ave S & S Brandon St,10,AM,0.4,0,4.9,7.2,0
+201,36,I,30440,Beacon Ave S & S Dawson St,11,AM,0.4,0,5.3,7.9,0.6
+201,36,I,3380,Beacon Ave S & S Columbian Way,12,AM,0.3,0.3,5.3,5.6,5
+201,36,I,3400,Beacon Ave S & Veterans Administration Hospital,13,AM,0.5,0.5,5.3,8.8,9.2
+201,36,I,3410,Beacon Ave S & Jefferson Golf Course,14,AM,0,0,5.3,0.7,0.1
+201,36,I,3420,Beacon Ave S & Jefferson Community Center,15,AM,0,0,5.3,0.4,0.1
+201,36,I,3430,Beacon Ave S & S Spokane St,16,AM,0.3,0,5.6,6,0.1
+201,36,I,3450,Beacon Ave S & S Hanford St,17,AM,0.4,0,6,7.1,0.7
+201,36,I,3460,Beacon Ave S & S Stevens St,18,AM,0.1,0,6,1.3,0.3
+201,36,I,3470,Beacon Ave S & S Lander St,19,AM,1,0.9,6.1,18.6,16.7
+201,36,I,3484,Beacon Ave S & 15th Ave S,20,AM,1,0.2,6.9,17.1,2.8
+201,36,I,3500,14th Ave S & S Hill St,21,AM,0.1,0,7,2,0.8
+201,36,I,3515,14th Ave S & S Holgate St,22,AM,0.2,0,7.1,2.9,0.7
+201,36,I,3530,S Massachusetts St & 14th Ave S,23,AM,0.4,0.2,7.3,6.7,3.8
+201,36,I,3541,12th Ave S & S Massachusetts St,24,AM,0.5,0,7.7,8.8,0.7
+201,36,I,3550,12th Ave S & S Atlantic St,25,AM,0.3,0,8,5.2,0.3
+201,36,I,3570,12th Ave S & S Judkins St,26,AM,0.1,0.1,7.9,1.4,2
+201,36,I,3580,S Charles St & Golf Dr S,27,AM,0.1,0,8,2.3,0.4
+201,36,I,3589,12th Ave S & S Weller St,28,AM,0.3,0.7,7.6,5.5,13.4
+201,36,I,3600,S Jackson St & 12th Ave S,29,AM,1.1,0.9,7.8,19.3,15.8
+201,36,I,1500,S Jackson St & 8th Ave S,30,AM,0.2,0.2,7.8,3.3,3.3
+201,36,I,1510,S Jackson St & Maynard Ave S,31,AM,0.3,0.4,7.7,4.6,7.4
+201,36,I,1530,S Jackson St & 5th Ave S,32,AM,0.8,2.1,6.5,15.2,37.2
+201,36,I,1610,Prefontaine Pl S & Yesler Way,33,AM,0.4,1.4,5.5,7.1,25.1
+201,36,I,538,3rd Ave & Columbia St,34,AM,0.2,1.2,4.5,4.2,21.8
+201,36,I,558,3rd Ave & Seneca St,35,AM,0.1,0.9,3.7,1,16.2
+201,36,I,575,3rd Ave & Pike St,36,AM,0.4,4.2,0,7.1,70.8
+201,36,O,430,3rd Ave & Pine St,4,AM,1.6,0,1.6,22.5,0
+201,36,O,450,3rd Ave & Union St,5,AM,1.5,0.1,3.1,21.5,1.1
+201,36,O,480,3rd Ave & Marion St,6,AM,0.8,0.1,3.7,11.3,1.9
+201,36,O,500,3rd Ave & James St,7,AM,0.6,0.3,4,7.8,4
+201,36,O,515,3rd Ave S & S Main St,8,AM,1.3,0.3,5.1,16.8,3.8
+201,36,O,1471,S Jackson St & 5th Ave S,9,AM,3.4,0.7,7.8,44.8,9.7
+201,36,O,1480,S Jackson St & Maynard Ave S,10,AM,0.9,0.2,5.5,18.3,3.2
+201,36,O,1490,S Jackson St & 8th Ave S,11,AM,0.1,0.1,5.3,2.1,2.8
+201,36,O,3700,12th Ave S & S Jackson St,12,AM,0.6,1,5,12.9,20
+201,36,O,3710,12th Ave S & S Weller St,13,AM,0.1,0.5,4.6,2.7,10.1
+201,36,O,3730,Golf Dr S & 14th Ave S,14,AM,0,0.6,4.1,0.6,12.8
+201,36,O,3740,14th Ave S & S Judkins St,15,AM,0,0.1,4,0.2,2
+201,36,O,3760,14th Ave S & S Massachusetts St,16,AM,0.3,0.1,4.1,5.3,2.7
+201,36,O,3770,14th Ave S & S Holgate St,17,AM,0.1,0,4.1,1.2,0.6
+201,36,O,3778,14th Ave S & S Hill St,18,AM,0,0.1,4,0.1,1.6
+201,36,O,3800,Beacon Ave S & S Bayview St,19,AM,0.1,0.3,3.8,1.5,6
+201,36,O,3810,Beacon Ave S & S Lander St,20,AM,1.1,0.5,4.4,22.3,9.3
+201,36,O,3820,Beacon Ave S & S Stevens St,21,AM,0.1,0,4.4,1,0.9
+201,36,O,3830,Beacon Ave S & S Hanford St,22,AM,0,0.1,4.4,0.2,1.2
+201,36,O,3860,Beacon Ave S & S Spokane St,23,AM,0.1,0.1,4.4,1,1.1
+201,36,O,3870,Beacon Ave S & Jefferson Community Center,24,AM,0,0,4.4,0.2,0.1
+201,36,O,3880,Beacon Ave S & Jefferson Golf Course,25,AM,0,0.1,4.3,0,2.3
+201,36,O,3881,Beacon Ave S & Veterans Administration Hospital,26,AM,0.1,3,1.4,1.6,59
+201,36,O,3883,Beacon Ave S & S Columbian Way,27,AM,0.1,0.2,1.3,2.9,4.5
+201,36,O,30855,Beacon Ave S & S Dawson St,28,AM,0,0.1,1.3,0,1.1
+201,36,O,30870,Beacon Ave S & S Brandon St,29,AM,0,0.1,1.2,0.1,1.2
+201,36,O,30890,Beacon Ave S & S Orcas St,30,AM,0,0.1,1.2,0.4,1.5
+201,36,O,30910,Beacon Ave S & S Raymond St,31,AM,0,0,1.2,0,0
+201,36,O,30930,Beacon Ave S & S Graham St,32,AM,0,0.1,1.1,0.4,2.5
+201,36,O,30950,Beacon Ave S & S Holly St,33,AM,0.1,0.1,1.1,1.6,1.1
+201,36,O,30960,Beacon Ave S & 27th Ave S,34,AM,0,0,1.1,0.4,0.7
+201,36,O,46092,S Myrtle St & Beacon Ave S,35,AM,0,0.1,1.1,0.8,1.7
+201,36,O,46101,S Myrtle Pl & 32nd Ave S,36,AM,0.1,0,1.1,1.8,0.7
+201,36,O,46110,S Myrtle Pl & S Holly Park Dr,37,AM,0,0.1,1.1,0.2,1.2
+201,36,O,45649,S Myrtle St & 39th Ave S,38,AM,1,2,0,20,42
+201,36,I,56151,Martin L King Jr Way S & S Myrtle St,1,MID,0.8,0,0.9,28.6,0
+201,36,I,45651,S Othello St & Martin L King Jr Way S,2,MID,1.4,0,2.3,53.1,1.1
+201,36,I,45670,S Myrtle Pl & S Holly Park Dr,3,MID,0.1,0,2.3,2.9,0.7
+201,36,I,45680,S Myrtle St & 32nd Ave S,4,MID,0.2,0.1,2.4,6.8,5.5
+201,36,I,30340,Beacon Ave S & S Myrtle St,5,MID,0.3,0.2,2.5,11.5,5.8
+201,36,I,30360,Beacon Ave S & S Holly St,6,MID,0.6,0.1,3,20.9,4
+201,36,I,30380,Beacon Ave S & S Graham St,7,MID,0.6,0.1,3.5,22.4,5.4
+201,36,I,30390,Beacon Ave S & S Spencer St,8,MID,0.1,0,3.6,4.3,0.3
+201,36,I,30410,Beacon Ave S & S Orcas St,9,MID,0.4,0.1,3.9,14.7,2.8
+201,36,I,30430,Beacon Ave S & S Brandon St,10,MID,0.2,0,4.1,8.6,0.7
+201,36,I,30440,Beacon Ave S & S Dawson St,11,MID,0.2,0.1,4.2,6.4,3.7
+201,36,I,3380,Beacon Ave S & S Columbian Way,12,MID,0.8,0.4,4.6,30.4,13.9
+201,36,I,3400,Beacon Ave S & Veterans Administration Hospital,13,MID,1.1,0.2,5.5,41,8.2
+201,36,I,3410,Beacon Ave S & Jefferson Golf Course,14,MID,0.1,0,5.6,3.3,0.9
+201,36,I,3420,Beacon Ave S & Jefferson Community Center,15,MID,0,0,5.6,1.7,1.1
+201,36,I,3430,Beacon Ave S & S Spokane St,16,MID,0.3,0.1,5.8,10.5,2.6
+201,36,I,3450,Beacon Ave S & S Hanford St,17,MID,0.2,0.1,5.9,7.2,3
+201,36,I,3460,Beacon Ave S & S Stevens St,18,MID,0.1,0.1,5.9,2.4,4.3
+201,36,I,3470,Beacon Ave S & S Lander St,19,MID,1.5,1.3,6.1,57.3,48.7
+201,36,I,3484,Beacon Ave S & 15th Ave S,20,MID,1,0.3,6.8,36.7,10.7
+201,36,I,3500,14th Ave S & S Hill St,21,MID,0.3,0.1,7,12.2,4.4
+201,36,I,3515,14th Ave S & S Holgate St,22,MID,0.2,0.1,7.1,7.4,4.5
+201,36,I,3530,S Massachusetts St & 14th Ave S,23,MID,0.6,0.3,7.4,20.8,11.4
+201,36,I,3541,12th Ave S & S Massachusetts St,24,MID,0.3,0.1,7.6,12.8,3.9
+201,36,I,3550,12th Ave S & S Atlantic St,25,MID,0.1,0,7.7,4.8,1.8
+201,36,I,3570,12th Ave S & S Judkins St,26,MID,0.2,0.1,7.7,8.2,5.2
+201,36,I,3580,S Charles St & Golf Dr S,27,MID,0.2,0,7.9,7.4,1.3
+201,36,I,3589,12th Ave S & S Weller St,28,MID,0.7,0.7,7.9,25.3,24.6
+201,36,I,3600,S Jackson St & 12th Ave S,29,MID,2.2,1.2,8.9,80.7,44.8
+201,36,I,1500,S Jackson St & 8th Ave S,30,MID,0.3,0.4,8.8,11,14.2
+201,36,I,1510,S Jackson St & Maynard Ave S,31,MID,0.4,1.2,8.1,14.8,43
+201,36,I,1530,S Jackson St & 5th Ave S,32,MID,1.8,2.7,7.2,65.8,98.6
+201,36,I,1610,Prefontaine Pl S & Yesler Way,33,MID,0.6,1.5,6.3,22.2,56.1
+201,36,I,538,3rd Ave & Columbia St,34,MID,0.3,1,5.6,12.3,36
+201,36,I,558,3rd Ave & Seneca St,35,MID,0.1,0.7,5.1,4.3,26.4
+201,36,I,575,3rd Ave & Pike St,36,MID,0.5,5.4,0,16.7,201.2
+201,36,O,430,3rd Ave & Pine St,4,MID,2.6,0,2.7,107.5,0
+201,36,O,450,3rd Ave & Union St,5,MID,2.7,0.1,5.2,109.3,4.7
+201,36,O,480,3rd Ave & Marion St,6,MID,0.7,0.3,5.7,29.8,10.2
+201,36,O,500,3rd Ave & James St,7,MID,0.9,0.7,5.9,34.1,26.6
+201,36,O,515,3rd Ave S & S Main St,8,MID,1.9,0.7,7,76.2,27.9
+201,36,O,1471,S Jackson St & 5th Ave S,9,MID,3,1.7,8.4,120.4,67
+201,36,O,1480,S Jackson St & Maynard Ave S,10,MID,1.1,0.6,8.6,43.5,25.2
+201,36,O,1490,S Jackson St & 8th Ave S,11,MID,0.3,0.3,8.5,12,13.1
+201,36,O,3700,12th Ave S & S Jackson St,12,MID,2,2.6,7.9,82.4,106.7
+201,36,O,3710,12th Ave S & S Weller St,13,MID,0.3,0.9,7.3,12.7,37
+201,36,O,3730,Golf Dr S & 14th Ave S,14,MID,0.1,0.4,7,3.9,16.9
+201,36,O,3740,14th Ave S & S Judkins St,15,MID,0.1,0.1,6.9,2.5,5.5
+201,36,O,3760,14th Ave S & S Massachusetts St,16,MID,0.4,0.6,6.6,14.7,25.6
+201,36,O,3770,14th Ave S & S Holgate St,17,MID,0.1,0.2,6.6,3.8,6.6
+201,36,O,3778,14th Ave S & S Hill St,18,MID,0.1,0.4,6.2,2.8,16.7
+201,36,O,3800,Beacon Ave S & S Bayview St,19,MID,0.2,1,5.4,9,40.2
+201,36,O,3810,Beacon Ave S & S Lander St,20,MID,1.4,1.5,5.3,58.6,62.5
+201,36,O,3820,Beacon Ave S & S Stevens St,21,MID,0.1,0.1,5.3,4.5,4.1
+201,36,O,3830,Beacon Ave S & S Hanford St,22,MID,0,0.2,5.1,1.7,9.3
+201,36,O,3860,Beacon Ave S & S Spokane St,23,MID,0.1,0.2,4.9,2.5,9.2
+201,36,O,3870,Beacon Ave S & Jefferson Community Center,24,MID,0,0.1,4.9,1,2.2
+201,36,O,3880,Beacon Ave S & Jefferson Golf Course,25,MID,0,0.1,4.8,0,5.2
+201,36,O,3881,Beacon Ave S & Veterans Administration Hospital,26,MID,0.2,1,4,6.8,38
+201,36,O,3883,Beacon Ave S & S Columbian Way,27,MID,0.5,0.9,3.6,18.4,35.9
+201,36,O,30855,Beacon Ave S & S Dawson St,28,MID,0,0.1,3.5,0.9,5.2
+201,36,O,30870,Beacon Ave S & S Brandon St,29,MID,0,0.2,3.3,0.4,6.8
+201,36,O,30890,Beacon Ave S & S Orcas St,30,MID,0.1,0.3,3,3.2,13.3
+201,36,O,30910,Beacon Ave S & S Raymond St,31,MID,0,0.1,3,0.1,3
+201,36,O,30930,Beacon Ave S & S Graham St,32,MID,0.1,0.5,2.6,4.6,18.6
+201,36,O,30950,Beacon Ave S & S Holly St,33,MID,0.1,0.2,2.4,3.9,8.8
+201,36,O,30960,Beacon Ave S & 27th Ave S,34,MID,0,0.1,2.4,0.6,2.3
+201,36,O,46092,S Myrtle St & Beacon Ave S,35,MID,0.1,0.2,2.3,2.7,6.7
+201,36,O,46101,S Myrtle Pl & 32nd Ave S,36,MID,0.1,0.1,2.2,2.5,4.8
+201,36,O,46110,S Myrtle Pl & S Holly Park Dr,37,MID,0,0.2,2,0.2,8.3
+201,36,O,45649,S Myrtle St & 39th Ave S,38,MID,1.2,3.3,0,45.6,121.7
+201,36,I,56151,Martin L King Jr Way S & S Myrtle St,1,PM,0.6,0,0.9,17.8,0
+201,36,I,45651,S Othello St & Martin L King Jr Way S,2,PM,1.3,0,2.2,42.5,1.1
+201,36,I,45670,S Myrtle Pl & S Holly Park Dr,3,PM,0,0,2.2,0.9,1.2
+201,36,I,45680,S Myrtle St & 32nd Ave S,4,PM,0.1,0.2,2.1,2.1,5.8
+201,36,I,30340,Beacon Ave S & S Myrtle St,5,PM,0.2,0.1,2.1,5.4,4.7
+201,36,I,30360,Beacon Ave S & S Holly St,6,PM,0.3,0.2,2.2,9.9,6.4
+201,36,I,30380,Beacon Ave S & S Graham St,7,PM,0.3,0.2,2.4,9.4,5.8
+201,36,I,30390,Beacon Ave S & S Spencer St,8,PM,0,0,2.4,0.8,0.6
+201,36,I,30410,Beacon Ave S & S Orcas St,9,PM,0.2,0.1,2.5,5.4,3
+201,36,I,30430,Beacon Ave S & S Brandon St,10,PM,0.1,0,2.5,2.7,0.7
+201,36,I,30440,Beacon Ave S & S Dawson St,11,PM,0.1,0.1,2.6,3.4,2.3
+201,36,I,3380,Beacon Ave S & S Columbian Way,12,PM,0.5,0.2,2.8,14.5,7.9
+201,36,I,3400,Beacon Ave S & Veterans Administration Hospital,13,PM,1.6,0.2,4.2,49.8,5.8
+201,36,I,3410,Beacon Ave S & Jefferson Golf Course,14,PM,0.1,0.1,4.2,2.1,1.9
+201,36,I,3420,Beacon Ave S & Jefferson Community Center,15,PM,0.1,0.1,4.3,2.2,2.1
+201,36,I,3430,Beacon Ave S & S Spokane St,16,PM,0.2,0.1,4.4,6.9,1.6
+201,36,I,3450,Beacon Ave S & S Hanford St,17,PM,0.1,0.1,4.5,4.1,2.2
+201,36,I,3460,Beacon Ave S & S Stevens St,18,PM,0.1,0.1,4.5,1.6,1.9
+201,36,I,3470,Beacon Ave S & S Lander St,19,PM,1.1,1.2,4.4,35.4,37.2
+201,36,I,3484,Beacon Ave S & 15th Ave S,20,PM,0.8,0.3,5.1,25.4,8
+201,36,I,3500,14th Ave S & S Hill St,21,PM,0.2,0.1,5.2,6.9,2.7
+201,36,I,3515,14th Ave S & S Holgate St,22,PM,0.1,0.1,5.2,3.5,3.4
+201,36,I,3530,S Massachusetts St & 14th Ave S,23,PM,0.2,0.3,5.1,7.2,10.6
+201,36,I,3541,12th Ave S & S Massachusetts St,24,PM,0.2,0.2,5.1,5.7,4.9
+201,36,I,3550,12th Ave S & S Atlantic St,25,PM,0.1,0.1,5.1,2,1.6
+201,36,I,3570,12th Ave S & S Judkins St,26,PM,0.4,0.1,5.4,12.5,3.3
+201,36,I,3580,S Charles St & Golf Dr S,27,PM,0.2,0,5.6,7.6,0.9
+201,36,I,3589,12th Ave S & S Weller St,28,PM,0.6,0.4,5.8,17.2,12.6
+201,36,I,3600,S Jackson St & 12th Ave S,29,PM,1.9,0.9,6.9,59,28.5
+201,36,I,1500,S Jackson St & 8th Ave S,30,PM,0.3,0.2,6.9,8.7,6.1
+201,36,I,1510,S Jackson St & Maynard Ave S,31,PM,0.4,0.7,6.7,13.4,22
+201,36,I,1530,S Jackson St & 5th Ave S,32,PM,1.9,2.9,6.2,52.7,81.1
+201,36,I,1610,Prefontaine Pl S & Yesler Way,33,PM,0.5,1.4,5.2,14.5,39.9
+201,36,I,538,3rd Ave & Columbia St,34,PM,0.2,0.9,4.6,6.8,25.7
+201,36,I,558,3rd Ave & Seneca St,35,PM,0.1,0.6,4,1.6,17.8
+201,36,I,575,3rd Ave & Pike St,36,PM,0.5,4.5,0,14.5,130.8
+201,36,I,844,5th Ave S & S Weller St,37,PM,0.1,2.3,0,0.4,7
+201,36,O,430,3rd Ave & Pine St,4,PM,3.6,0,3.7,97.8,0
+201,36,O,450,3rd Ave & Union St,5,PM,3.4,0.1,7,95.4,3.5
+201,36,O,480,3rd Ave & Marion St,6,PM,1,0.3,7.7,27.1,8.1
+201,36,O,500,3rd Ave & James St,7,PM,0.9,0.7,7.8,25.5,20.3
+201,36,O,515,3rd Ave S & S Main St,8,PM,1.5,0.7,8.6,40.8,19.1
+201,36,O,1471,S Jackson St & 5th Ave S,9,PM,2.9,1.6,10,81.7,43.9
+201,36,O,1480,S Jackson St & Maynard Ave S,10,PM,0.8,0.6,10.2,21.7,16.8
+201,36,O,1490,S Jackson St & 8th Ave S,11,PM,0.3,0.3,10.2,7.8,9.7
+201,36,O,3700,12th Ave S & S Jackson St,12,PM,1.9,2.7,9.4,54.4,74.3
+201,36,O,3710,12th Ave S & S Weller St,13,PM,0.4,0.6,9.2,10.1,18.1
+201,36,O,3730,Golf Dr S & 14th Ave S,14,PM,0.1,0.4,8.9,3.7,12.1
+201,36,O,3740,14th Ave S & S Judkins St,15,PM,0,0.4,8.6,1.3,10.9
+201,36,O,3760,14th Ave S & S Massachusetts St,16,PM,0.2,1.1,7.7,6.6,32.2
+201,36,O,3770,14th Ave S & S Holgate St,17,PM,0.1,0.2,7.5,2,7.2
+201,36,O,3778,14th Ave S & S Hill St,18,PM,0,0.4,7.1,0.9,11.2
+201,36,O,3800,Beacon Ave S & S Bayview St,19,PM,0.4,1.5,6.1,10.7,42.1
+201,36,O,3810,Beacon Ave S & S Lander St,20,PM,1.7,1.7,6.1,48.7,48.8
+201,36,O,3820,Beacon Ave S & S Stevens St,21,PM,0,0.2,6,1.4,4.6
+201,36,O,3830,Beacon Ave S & S Hanford St,22,PM,0.1,0.4,5.6,1.7,12.8
+201,36,O,3860,Beacon Ave S & S Spokane St,23,PM,0.1,0.4,5.2,2.7,12.2
+201,36,O,3870,Beacon Ave S & Jefferson Community Center,24,PM,0.1,0.1,5.2,1.7,3
+201,36,O,3880,Beacon Ave S & Jefferson Golf Course,25,PM,0,0.2,5,0.6,5.6
+201,36,O,3881,Beacon Ave S & Veterans Administration Hospital,26,PM,0.2,0.3,4.9,6.6,10.1
+201,36,O,3883,Beacon Ave S & S Columbian Way,27,PM,0.5,0.9,4.6,15.1,25.2
+201,36,O,30855,Beacon Ave S & S Dawson St,28,PM,0.1,0.3,4.4,2,8.6
+201,36,O,30870,Beacon Ave S & S Brandon St,29,PM,0,0.2,4.1,0.1,6.6
+201,36,O,30890,Beacon Ave S & S Orcas St,30,PM,0,0.5,3.7,1.4,15.9
+201,36,O,30910,Beacon Ave S & S Raymond St,31,PM,0,0.1,3.5,0,4
+201,36,O,30930,Beacon Ave S & S Graham St,32,PM,0.1,0.7,3,2.2,20.2
+201,36,O,30950,Beacon Ave S & S Holly St,33,PM,0,0.5,2.5,1.2,15
+201,36,O,30960,Beacon Ave S & 27th Ave S,34,PM,0,0.2,2.4,0.1,5.4
+201,36,O,46092,S Myrtle St & Beacon Ave S,35,PM,0.1,0.2,2.3,2.8,6.1
+201,36,O,46101,S Myrtle Pl & 32nd Ave S,36,PM,0.1,0.2,2.2,1.6,5.3
+201,36,O,46110,S Myrtle Pl & S Holly Park Dr,37,PM,0,0.2,2,0.2,5.1
+201,36,O,45649,S Myrtle St & 39th Ave S,38,PM,1.3,3.3,0,40.7,104.6
+201,36,I,56151,Martin L King Jr Way S & S Myrtle St,1,XEV,0.5,0,0.8,6.4,0
+201,36,I,45651,S Othello St & Martin L King Jr Way S,2,XEV,1.1,0,1.9,13.3,0.4
+201,36,I,45670,S Myrtle Pl & S Holly Park Dr,3,XEV,0.1,0,1.9,0.6,0.1
+201,36,I,45680,S Myrtle St & 32nd Ave S,4,XEV,0.1,0.2,1.7,0.8,2.8
+201,36,I,30340,Beacon Ave S & S Myrtle St,5,XEV,0.2,0.1,1.8,2,1.5
+201,36,I,30360,Beacon Ave S & S Holly St,6,XEV,0.1,0.2,1.7,1.4,2.4
+201,36,I,30380,Beacon Ave S & S Graham St,7,XEV,0.2,0.1,1.7,2.1,1.9
+201,36,I,30390,Beacon Ave S & S Spencer St,8,XEV,0,0,1.7,0.1,0.1
+201,36,I,30410,Beacon Ave S & S Orcas St,9,XEV,0.1,0.1,1.7,1.2,0.9
+201,36,I,30430,Beacon Ave S & S Brandon St,10,XEV,0.1,0,1.7,1.5,0.3
+201,36,I,30440,Beacon Ave S & S Dawson St,11,XEV,0.1,0,1.8,0.7,0.3
+201,36,I,3380,Beacon Ave S & S Columbian Way,12,XEV,0.2,0.2,1.8,2.9,2.2
+201,36,I,3400,Beacon Ave S & Veterans Administration Hospital,13,XEV,0.6,0.1,2.4,8.3,1.3
+201,36,I,3410,Beacon Ave S & Jefferson Golf Course,14,XEV,0.1,0,2.4,0.8,0.3
+201,36,I,3420,Beacon Ave S & Jefferson Community Center,15,XEV,0,0,2.4,0.6,0.3
+201,36,I,3430,Beacon Ave S & S Spokane St,16,XEV,0.1,0,2.5,1.7,0.3
+201,36,I,3450,Beacon Ave S & S Hanford St,17,XEV,0.1,0,2.6,1.1,0.3
+201,36,I,3460,Beacon Ave S & S Stevens St,18,XEV,0,0,2.6,0.3,0.2
+201,36,I,3470,Beacon Ave S & S Lander St,19,XEV,0.9,0.5,2.9,12.1,7.3
+201,36,I,3484,Beacon Ave S & 15th Ave S,20,XEV,0.7,0.2,3.4,11.2,3
+201,36,I,3500,14th Ave S & S Hill St,21,XEV,0.2,0.1,3.6,3.1,0.8
+201,36,I,3515,14th Ave S & S Holgate St,22,XEV,0.1,0.1,3.6,1.4,1.4
+201,36,I,3530,S Massachusetts St & 14th Ave S,23,XEV,0.1,0.3,3.4,1.9,3.9
+201,36,I,3541,12th Ave S & S Massachusetts St,24,XEV,0.1,0.1,3.4,1.3,1.7
+201,36,I,3550,12th Ave S & S Atlantic St,25,XEV,0,0,3.4,0.1,0.5
+201,36,I,3570,12th Ave S & S Judkins St,26,XEV,0.2,0.1,3.4,2.6,1.5
+201,36,I,3580,S Charles St & Golf Dr S,27,XEV,0.2,0,3.6,2.3,0.5
+201,36,I,3589,12th Ave S & S Weller St,28,XEV,0.5,0.4,3.7,7,5
+201,36,I,3600,S Jackson St & 12th Ave S,29,XEV,1.7,0.8,4.6,25.8,12.4
+201,36,I,1500,S Jackson St & 8th Ave S,30,XEV,0.2,0.1,4.7,2.8,1.7
+201,36,I,1510,S Jackson St & Maynard Ave S,31,XEV,0.2,0.4,4.5,3,6.1
+201,36,I,1530,S Jackson St & 5th Ave S,32,XEV,1.1,1.6,5,11.7,17.4
+201,36,I,1610,Prefontaine Pl S & Yesler Way,33,XEV,0.5,1.4,4.1,5.7,15.8
+201,36,I,538,3rd Ave & Columbia St,34,XEV,0.3,0.8,3.6,2.5,7.6
+201,36,I,558,3rd Ave & Seneca St,35,XEV,0.1,0.6,3.1,0.7,5.8
+201,36,I,575,3rd Ave & Pike St,36,XEV,0.4,3.5,0,3.8,34.6
+201,36,I,844,5th Ave S & S Weller St,37,XEV,0.1,1.7,0,0.5,6.9
+201,36,O,430,3rd Ave & Pine St,4,XEV,2.7,0,2.9,27.2,0
+201,36,O,450,3rd Ave & Union St,5,XEV,3,0.1,5.7,32.6,1
+201,36,O,480,3rd Ave & Marion St,6,XEV,0.7,0.2,6.2,7.6,2.5
+201,36,O,500,3rd Ave & James St,7,XEV,0.9,0.5,6.5,9.5,5.7
+201,36,O,515,3rd Ave S & S Main St,8,XEV,1.5,0.4,7.7,16.8,4.2
+201,36,O,1471,S Jackson St & 5th Ave S,9,XEV,3.1,1,9.6,36.7,11.5
+201,36,O,1480,S Jackson St & Maynard Ave S,10,XEV,0.6,0.5,9.8,7.4,5.4
+201,36,O,1490,S Jackson St & 8th Ave S,11,XEV,0.2,0.4,9.6,2.7,4.4
+201,36,O,3700,12th Ave S & S Jackson St,12,XEV,1.9,2.7,8.8,22.3,32
+201,36,O,3710,12th Ave S & S Weller St,13,XEV,0.4,0.8,8.5,4.1,8.8
+201,36,O,3730,Golf Dr S & 14th Ave S,14,XEV,0.1,0.4,8.2,1.1,4.6
+201,36,O,3740,14th Ave S & S Judkins St,15,XEV,0,0.3,7.9,0.5,3.6
+201,36,O,3760,14th Ave S & S Massachusetts St,16,XEV,0.4,0.9,7.3,4.3,10
+201,36,O,3770,14th Ave S & S Holgate St,17,XEV,0.1,0.3,7.1,0.6,2.8
+201,36,O,3778,14th Ave S & S Hill St,18,XEV,0.1,0.3,6.9,0.6,3
+201,36,O,3800,Beacon Ave S & S Bayview St,19,XEV,0.2,1.4,5.7,2.6,15.9
+201,36,O,3810,Beacon Ave S & S Lander St,20,XEV,1.6,1.3,6,17.4,14.5
+201,36,O,3820,Beacon Ave S & S Stevens St,21,XEV,0.1,0.2,5.8,1,1.9
+201,36,O,3830,Beacon Ave S & S Hanford St,22,XEV,0.1,0.3,5.6,0.7,3.6
+201,36,O,3860,Beacon Ave S & S Spokane St,23,XEV,0.1,0.3,5.4,0.7,3.4
+201,36,O,3870,Beacon Ave S & Jefferson Community Center,24,XEV,0.1,0.1,5.4,1,0.9
+201,36,O,3880,Beacon Ave S & Jefferson Golf Course,25,XEV,0,0.2,5.4,0.5,1.8
+201,36,O,3881,Beacon Ave S & Veterans Administration Hospital,26,XEV,0.2,0.3,5.3,2.8,3.6
+201,36,O,3883,Beacon Ave S & S Columbian Way,27,XEV,0.4,0.5,5.2,4.2,5.4
+201,36,O,30855,Beacon Ave S & S Dawson St,28,XEV,0,0.4,4.9,0.3,4.2
+201,36,O,30870,Beacon Ave S & S Brandon St,29,XEV,0,0.3,4.5,0,4.1
+201,36,O,30890,Beacon Ave S & S Orcas St,30,XEV,0,0.4,4.2,0.4,4.3
+201,36,O,30910,Beacon Ave S & S Raymond St,31,XEV,0,0.2,4,0,2.4
+201,36,O,30930,Beacon Ave S & S Graham St,32,XEV,0,0.9,3.1,0.3,11.1
+201,36,O,30950,Beacon Ave S & S Holly St,33,XEV,0.1,0.6,2.6,0.7,7.2
+201,36,O,30960,Beacon Ave S & 27th Ave S,34,XEV,0,0.3,2.2,0.1,4
+201,36,O,46092,S Myrtle St & Beacon Ave S,35,XEV,0.1,0.3,2,0.9,3.6
+201,36,O,46101,S Myrtle Pl & 32nd Ave S,36,XEV,0,0.1,2,0.5,1.4
+201,36,O,46110,S Myrtle Pl & S Holly Park Dr,37,XEV,0,0.2,1.8,0.1,2
+201,36,O,45649,S Myrtle St & 39th Ave S,38,XEV,1,2.8,0,10.9,30.8
+201,36,I,56151,Martin L King Jr Way S & S Myrtle St,1,XNT,0.4,0,0.6,4.9,0
+201,36,I,45651,S Othello St & Martin L King Jr Way S,2,XNT,0.7,0,1.3,9.7,0.3
+201,36,I,45670,S Myrtle Pl & S Holly Park Dr,3,XNT,0,0,1.3,0.3,0.2
+201,36,I,45680,S Myrtle St & 32nd Ave S,4,XNT,0.1,0.1,1.2,0.7,0.9
+201,36,I,30340,Beacon Ave S & S Myrtle St,5,XNT,0.2,0.1,1.4,3,0.7
+201,36,I,30360,Beacon Ave S & S Holly St,6,XNT,0.2,0.1,1.5,2.3,0.8
+201,36,I,30380,Beacon Ave S & S Graham St,7,XNT,0.1,0,1.6,1.9,0.6
+201,36,I,30390,Beacon Ave S & S Spencer St,8,XNT,0,0,1.6,0.1,0
+201,36,I,30410,Beacon Ave S & S Orcas St,9,XNT,0,0,1.5,0.1,0.5
+201,36,I,30430,Beacon Ave S & S Brandon St,10,XNT,0.1,0,1.6,1.1,0
+201,36,I,30440,Beacon Ave S & S Dawson St,11,XNT,0.1,0.1,1.7,0.7,0.7
+201,36,I,3380,Beacon Ave S & S Columbian Way,12,XNT,0.1,0,1.7,1.5,0.5
+201,36,I,3400,Beacon Ave S & Veterans Administration Hospital,13,XNT,0.3,0.1,2,4.1,0.8
+201,36,I,3410,Beacon Ave S & Jefferson Golf Course,14,XNT,0,0,2,0,0
+201,36,I,3420,Beacon Ave S & Jefferson Community Center,15,XNT,0,0,1.9,0,0.1
+201,36,I,3430,Beacon Ave S & S Spokane St,16,XNT,0,0,2,0.3,0.1
+201,36,I,3450,Beacon Ave S & S Hanford St,17,XNT,0.1,0,2.1,1.1,0
+201,36,I,3460,Beacon Ave S & S Stevens St,18,XNT,0,0,2,0.1,0.2
+201,36,I,3470,Beacon Ave S & S Lander St,19,XNT,0.9,0.2,2.7,11.4,2.9
+201,36,I,3484,Beacon Ave S & 15th Ave S,20,XNT,0.5,0.1,3.1,6.6,1.2
+201,36,I,3500,14th Ave S & S Hill St,21,XNT,0.1,0,3.2,1.6,0.2
+201,36,I,3515,14th Ave S & S Holgate St,22,XNT,0,0,3.2,0.3,0.2
+201,36,I,3530,S Massachusetts St & 14th Ave S,23,XNT,0.2,0.1,3.3,2.6,1.8
+201,36,I,3541,12th Ave S & S Massachusetts St,24,XNT,0,0.1,3.2,0.3,1
+201,36,I,3550,12th Ave S & S Atlantic St,25,XNT,0,0,3.3,0,0
+201,36,I,3570,12th Ave S & S Judkins St,26,XNT,0.1,0,3.3,0.8,0.4
+201,36,I,3580,S Charles St & Golf Dr S,27,XNT,0.1,0.1,3.4,1.8,0.8
+201,36,I,3589,12th Ave S & S Weller St,28,XNT,0.4,0.4,3.4,6.1,5.1
+201,36,I,3600,S Jackson St & 12th Ave S,29,XNT,0.6,0.5,3.5,8.1,7.1
+201,36,I,1500,S Jackson St & 8th Ave S,30,XNT,0.1,0.1,3.7,1.1,1
+201,36,I,1510,S Jackson St & Maynard Ave S,31,XNT,0.1,0.3,2.9,1.3,2.8
+201,36,I,1530,S Jackson St & 5th Ave S,32,XNT,0.5,0.9,3,3.2,5.6
+201,36,I,1610,Prefontaine Pl S & Yesler Way,33,XNT,0.3,1,2.3,1.8,5.8
+201,36,I,538,3rd Ave & Columbia St,34,XNT,0.2,0.5,2.2,1.3,3.7
+201,36,I,558,3rd Ave & Seneca St,35,XNT,0,0.4,1.9,0.3,2.5
+201,36,I,575,3rd Ave & Pike St,36,XNT,0.4,2.3,0,3,15.9
+201,36,I,844,5th Ave S & S Weller St,37,XNT,0.2,2.1,0,0.7,6.2
+201,36,O,2220,3rd Ave & Cedar St,1,XNT,1.1,0,1.5,1.1,0
+201,36,O,400,3rd Ave & Bell St,2,XNT,0.8,0.4,1.9,0.8,0.4
+201,36,O,420,3rd Ave & Virginia St,3,XNT,0.5,0.2,2.2,0.5,0.2
+201,36,O,430,3rd Ave & Pine St,4,XNT,1.6,0.1,1.9,9.5,0.4
+201,36,O,450,3rd Ave & Union St,5,XNT,2,0,3.6,18,0.4
+201,36,O,480,3rd Ave & Marion St,6,XNT,0.7,0.2,4.1,6,1.8
+201,36,O,500,3rd Ave & James St,7,XNT,0.7,0.4,4.4,6.6,3.7
+201,36,O,515,3rd Ave S & S Main St,8,XNT,0.9,0.2,5,8.2,2.2
+201,36,O,1471,S Jackson St & 5th Ave S,9,XNT,2.2,0.4,6.8,19.8,3.8
+201,36,O,1480,S Jackson St & Maynard Ave S,10,XNT,0.6,0.4,5.3,6.7,4.6
+201,36,O,1490,S Jackson St & 8th Ave S,11,XNT,0.2,0.1,5.1,1.8,1.5
+201,36,O,3700,12th Ave S & S Jackson St,12,XNT,0.7,1.1,4.8,8.7,13.3
+201,36,O,3710,12th Ave S & S Weller St,13,XNT,0.3,0.6,4.7,3.5,7.9
+201,36,O,3730,Golf Dr S & 14th Ave S,14,XNT,0,0.2,4.5,0.5,2.7
+201,36,O,3740,14th Ave S & S Judkins St,15,XNT,0,0.2,4.3,0,2.4
+201,36,O,3760,14th Ave S & S Massachusetts St,16,XNT,0.1,0.5,3.9,1,6.1
+201,36,O,3770,14th Ave S & S Holgate St,17,XNT,0,0.1,3.9,0.2,1.2
+201,36,O,3778,14th Ave S & S Hill St,18,XNT,0,0.1,3.8,0.2,0.9
+201,36,O,3800,Beacon Ave S & S Bayview St,19,XNT,0.1,0.8,3.1,1.4,10.4
+201,36,O,3810,Beacon Ave S & S Lander St,20,XNT,0.6,0.4,3.3,7.7,4.7
+201,36,O,3820,Beacon Ave S & S Stevens St,21,XNT,0,0,3.3,0.1,0.6
+201,36,O,3830,Beacon Ave S & S Hanford St,22,XNT,0,0,3.3,0,0.4
+201,36,O,3860,Beacon Ave S & S Spokane St,23,XNT,0,0.2,3,0.1,3.2
+201,36,O,3870,Beacon Ave S & Jefferson Community Center,24,XNT,0,0,3,0.2,0.4
+201,36,O,3880,Beacon Ave S & Jefferson Golf Course,25,XNT,0,0.1,3,0,0.9
+201,36,O,3881,Beacon Ave S & Veterans Administration Hospital,26,XNT,0.1,0.3,2.8,1.4,3.8
+201,36,O,3883,Beacon Ave S & S Columbian Way,27,XNT,0.1,0.2,2.7,0.8,2.3
+201,36,O,30855,Beacon Ave S & S Dawson St,28,XNT,0,0.1,2.6,0,1.5
+201,36,O,30870,Beacon Ave S & S Brandon St,29,XNT,0,0.2,2.4,0,2.2
+201,36,O,30890,Beacon Ave S & S Orcas St,30,XNT,0,0.1,2.3,0,1.5
+201,36,O,30910,Beacon Ave S & S Raymond St,31,XNT,0,0.1,2.2,0,1.6
+201,36,O,30930,Beacon Ave S & S Graham St,32,XNT,0,0.3,1.9,0,3.6
+201,36,O,30950,Beacon Ave S & S Holly St,33,XNT,0,0.2,1.7,0.1,3.2
+201,36,O,30960,Beacon Ave S & 27th Ave S,34,XNT,0,0.2,1.5,0.2,2.4
+201,36,O,46092,S Myrtle St & Beacon Ave S,35,XNT,0,0.2,1.4,0.2,2.6
+201,36,O,46101,S Myrtle Pl & 32nd Ave S,36,XNT,0,0,1.3,0.2,0.6
+201,36,O,46110,S Myrtle Pl & S Holly Park Dr,37,XNT,0,0.1,1.3,0,1
+201,36,O,45649,S Myrtle St & 39th Ave S,38,XNT,0.8,2.1,0,10.3,27.4

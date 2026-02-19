@@ -1,0 +1,363 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+223,675,I,16100,Aurora Village Transit Center - Bay 10,1,AM,5.3,0,5.3,181.2,0.8
+223,675,I,75700,Aurora Ave N & N 200th St,2,AM,1.5,0,6.8,51.5,0.9
+223,675,I,75730,Aurora Ave N & N 192nd St,3,AM,1.3,0.1,8,43,3.3
+223,675,I,75740,Aurora Ave N & N 185th St,4,AM,1.5,0.6,8.8,47.9,19.2
+223,675,I,75750,Aurora Ave N & N 180th St,5,AM,0.4,0.1,9.1,13.9,3.9
+223,675,I,75760,Aurora Ave N & N 175th St,6,AM,0.9,0.6,9.5,29.5,18.3
+223,675,I,75770,Aurora Ave N & N 170th St,7,AM,1,0.4,10.1,33.2,12.6
+223,675,I,75780,Aurora Ave N & N 165th St,8,AM,0.6,0.2,10.5,21.2,5.3
+223,675,I,75790,Aurora Ave N & N 160th St,9,AM,0.5,0.3,10.8,14.5,9.1
+223,675,I,75800,Aurora Ave N & N 155th St,10,AM,0.9,0.3,11.3,27.4,10.5
+223,675,I,75810,Aurora Ave N & N 152nd St,11,AM,0.6,0.3,11.7,19.8,8.3
+223,675,I,6950,Aurora Ave N & N 145th St,12,AM,2.8,0.6,13.9,90.3,18.8
+223,675,I,6990,Aurora Ave N & N 135th St,13,AM,1.9,0.6,15.3,63.6,19.8
+223,675,I,7000,Aurora Ave N & N 130th St,14,AM,1,0.4,15.9,34.4,12.6
+223,675,I,7010,Aurora Ave N & N 125th St,15,AM,0.9,0.5,16.5,29,15
+223,675,I,7040,Aurora Ave N & N 115th St,16,AM,0.8,0.4,16.8,25.7,13.5
+223,675,I,7080,Aurora Ave N & N 105th St,17,AM,2.4,1.6,17.6,76,51.5
+223,675,I,7100,Aurora Ave N & N 100th St,18,AM,1.1,0.3,18.5,33.7,9.2
+223,675,I,7120,Aurora Ave N & N 95th St,19,AM,1.4,0.3,19.6,44.8,9.6
+223,675,I,7140,Aurora Ave N & N 90th St,20,AM,1.4,0.7,20.3,44.2,22.9
+223,675,I,7160,Aurora Ave N & N 85th St,21,AM,2.1,1.1,21.3,64.7,35.6
+223,675,I,7180,Aurora Ave N & N 80th St,22,AM,0.9,0.2,22,28,6.2
+223,675,I,7200,Aurora Ave N & N 76th St,23,AM,1.3,0.3,23,39.1,8.7
+223,675,I,7210,Aurora Ave N & N 65th St,24,AM,1.3,0.1,24.1,37.9,3.9
+223,675,I,75408,Aurora Ave N & N 46th St,25,AM,2.7,1.7,25.1,81.3,52.3
+223,675,I,6070,Aurora Ave N & Lynn St,26,AM,0.2,0.1,25.2,4.4,4.1
+223,675,I,6100,Aurora Ave N & Galer St,27,AM,0.5,0.4,25.4,15.2,11.8
+223,675,I,6176,7th Ave N & Thomas St,28,AM,0.5,3.7,21.7,13.3,108.3
+223,675,I,7430,Wall St & 5th Ave,29,AM,0.5,2.3,19.9,15.1,66.1
+223,675,I,400,3rd Ave & Bell St,30,AM,0.8,1.9,18.8,22.4,54.2
+223,675,I,420,3rd Ave & Virginia St,31,AM,0.3,3.1,16,8.2,90.1
+223,675,I,431,3rd Ave & Pike St,32,AM,0.2,5.3,10.9,7,153.7
+223,675,I,468,3rd Ave & Seneca St,33,AM,0.1,5.5,5.6,2.3,158.5
+223,675,I,490,3rd Ave & Cherry St,34,AM,0,2.7,3,1.1,75.1
+223,675,I,510,S Washington St & 3rd Ave S,35,AM,0.4,3.6,0,9.5,82
+223,675,I,1404,S Washington St & 3rd Ave S,36,AM,1.4,3.6,0,5.7,14.3
+223,675,O,1610,Prefontaine Pl S & Yesler Way,2,AM,4.3,0,4.3,86.8,0.2
+223,675,O,538,3rd Ave & Columbia St,3,AM,1.8,0.2,6,35.9,3.1
+223,675,O,558,3rd Ave & Seneca St,4,AM,2.3,0.2,8.1,46.4,3.7
+223,675,O,575,3rd Ave & Pike St,5,AM,3,0.5,10.7,60.8,9.1
+223,675,O,600,3rd Ave & Virginia St,6,AM,2,0.7,12.1,42.7,14.1
+223,675,O,605,3rd Ave & Bell St,7,AM,1.6,1,12.7,34,20
+223,675,O,6236,7th Ave N & Denny Way,8,AM,0.9,0.9,12.8,17.4,17.1
+223,675,O,6237,7th Ave N & Harrison St,9,AM,0.9,0.7,13,18.5,14.8
+223,675,O,6300,Aurora Ave N & Galer St,10,AM,0.5,0.3,13.2,10.6,5.4
+223,675,O,6320,Aurora Ave N & Lynn St,11,AM,0.1,0.1,13.3,2.3,1.6
+223,675,O,75409,Aurora Ave N & N 46th St,12,AM,1.5,1.1,13.7,28.6,21.2
+223,675,O,7630,Woodland Pl N & N 65th St,13,AM,0.3,0.1,13.8,4.8,2.6
+223,675,O,7670,Linden Ave N & N 72nd St,14,AM,0.4,0.1,14.1,8.5,2.5
+223,675,O,7690,Aurora Ave N & N 76th St,15,AM,0.8,0.4,14.5,14.9,7.1
+223,675,O,7710,Aurora Ave N & N 80th St,16,AM,0.6,0.2,14.9,10.9,4.4
+223,675,O,7730,Aurora Ave N & N 85th St,17,AM,2.4,0.7,16.6,45.5,12.9
+223,675,O,7750,Aurora Ave N & N 91st St,18,AM,1,0.7,17,19.4,12.6
+223,675,O,7770,Aurora Ave N & N 95th St,19,AM,0.5,0.7,16.8,9.6,13.2
+223,675,O,7790,Aurora Ave N & N 100th St,20,AM,0.8,0.6,17,15.6,10.7
+223,675,O,7810,Aurora Ave N & N Northgate Way,21,AM,2.9,1.4,18.5,54.9,27.3
+223,675,O,7850,Aurora Ave N & N 115th St,22,AM,0.7,1.5,18.2,13.1,27.7
+223,675,O,7880,Aurora Ave N & N 125th St,23,AM,0.7,1.2,17.7,12.5,22.4
+223,675,O,7900,Aurora Ave N & N 130th St,24,AM,0.7,5.5,13,12.6,94.3
+223,675,O,7912,Aurora Ave N & N 135th St,25,AM,0.9,0.9,12.9,15.2,15.8
+223,675,O,75820,Aurora Ave N & N 145th St,26,AM,1.8,1.7,13,29.8,29.1
+223,675,O,75830,Aurora Ave N & N 152nd St,27,AM,0.3,0.6,12.6,4.5,10.1
+223,675,O,75840,Aurora Ave N & N 155th St,28,AM,0.7,0.8,12.6,11.4,12.9
+223,675,O,75850,Aurora Ave N & N 160th St,29,AM,0.3,0.3,12.5,4.7,5.2
+223,675,O,75860,Aurora Ave N & N 165th St,30,AM,0.3,0.6,12.2,4.3,9.7
+223,675,O,75870,Aurora Ave N & N 170th St,31,AM,0.4,1.2,11.5,7.4,19.8
+223,675,O,75881,Aurora Ave N & N 175th St,32,AM,0.3,1.5,10.3,4.7,24.9
+223,675,O,75890,Aurora Ave N & N 180th St,33,AM,0.2,1.2,9.2,3.1,21.2
+223,675,O,75901,Aurora Ave N & N 185th St,34,AM,0.4,1,8.6,6.9,17.7
+223,675,O,75910,Aurora Ave N & N 192nd St,35,AM,0.2,0.6,8.1,2.8,10.3
+223,675,O,75932,Aurora Ave N & N 200th St,36,AM,0,1.1,7,0.1,19.3
+223,675,O,16103,Aurora Village Transit Center - Bay 3,37,AM,0.6,7.6,0,9.8,129.8
+223,675,I,16100,Aurora Village Transit Center - Bay 10,1,MID,5.6,0,5.6,268.2,0.2
+223,675,I,75700,Aurora Ave N & N 200th St,2,MID,1.2,0.1,6.6,57.1,4.5
+223,675,I,75730,Aurora Ave N & N 192nd St,3,MID,1,0.1,7.2,47.7,6.9
+223,675,I,75740,Aurora Ave N & N 185th St,4,MID,2.1,1,8.2,101.1,50.8
+223,675,I,75750,Aurora Ave N & N 180th St,5,MID,1,0.3,9,51,15.9
+223,675,I,75760,Aurora Ave N & N 175th St,6,MID,1.4,0.4,10,68.1,19.4
+223,675,I,75770,Aurora Ave N & N 170th St,7,MID,1.1,0.5,10.6,52.8,23.3
+223,675,I,75780,Aurora Ave N & N 165th St,8,MID,0.6,0.3,10.9,27.9,13.6
+223,675,I,75790,Aurora Ave N & N 160th St,9,MID,0.8,0.6,11,39.1,27.9
+223,675,I,75800,Aurora Ave N & N 155th St,10,MID,1.7,0.9,11.9,85.1,44.3
+223,675,I,75810,Aurora Ave N & N 152nd St,11,MID,0.7,0.5,12.1,34.3,24.2
+223,675,I,6950,Aurora Ave N & N 145th St,12,MID,2.9,1.5,13.3,136.9,73.3
+223,675,I,6990,Aurora Ave N & N 135th St,13,MID,2.2,1.9,13.6,103.8,90.3
+223,675,I,7000,Aurora Ave N & N 130th St,14,MID,1.8,0.8,14.7,88.5,37.1
+223,675,I,7010,Aurora Ave N & N 125th St,15,MID,1,0.7,14.9,50.7,34
+223,675,I,7040,Aurora Ave N & N 115th St,16,MID,1,0.5,15.4,49.3,25.8
+223,675,I,7080,Aurora Ave N & N 105th St,17,MID,2,2.4,14.9,94.8,115.2
+223,675,I,7100,Aurora Ave N & N 100th St,18,MID,1.1,0.7,15.3,51.7,32.2
+223,675,I,7120,Aurora Ave N & N 95th St,19,MID,1,0.4,15.9,47.5,21.6
+223,675,I,7140,Aurora Ave N & N 90th St,20,MID,1.1,1,15.9,51.7,49.9
+223,675,I,7160,Aurora Ave N & N 85th St,21,MID,1.2,1.5,15.6,59.5,72.9
+223,675,I,7180,Aurora Ave N & N 80th St,22,MID,0.7,0.6,15.8,34.1,29.6
+223,675,I,7200,Aurora Ave N & N 76th St,23,MID,0.7,0.4,16.2,35.6,19.8
+223,675,I,7210,Aurora Ave N & N 65th St,24,MID,0.5,0.2,16.5,26,10.5
+223,675,I,75408,Aurora Ave N & N 46th St,25,MID,1.6,1.5,16.6,76.7,71.4
+223,675,I,6070,Aurora Ave N & Lynn St,26,MID,0.1,0.2,16.6,4.7,8.1
+223,675,I,6100,Aurora Ave N & Galer St,27,MID,0.3,0.3,16.5,14,15.4
+223,675,I,6176,7th Ave N & Thomas St,28,MID,0.5,2.2,15.1,24.3,111.2
+223,675,I,7430,Wall St & 5th Ave,29,MID,0.5,1.5,14.2,26.5,72.9
+223,675,I,400,3rd Ave & Bell St,30,MID,1.4,2,13.6,68.1,98.9
+223,675,I,420,3rd Ave & Virginia St,31,MID,0.6,2.3,11.9,31.8,116
+223,675,I,431,3rd Ave & Pike St,32,MID,0.6,5.6,6.9,27.7,275.1
+223,675,I,468,3rd Ave & Seneca St,33,MID,0.1,2.2,4.8,5.9,107.8
+223,675,I,490,3rd Ave & Cherry St,34,MID,0.1,1.9,3,4.2,91.4
+223,675,I,510,S Washington St & 3rd Ave S,35,MID,0.4,3.4,0,14.9,117.4
+223,675,I,1404,S Washington St & 3rd Ave S,36,MID,1.1,4.3,0,16.6,64.7
+223,675,O,1610,Prefontaine Pl S & Yesler Way,2,MID,3.7,0,3.7,169.7,0.2
+223,675,O,538,3rd Ave & Columbia St,3,MID,1.9,0.2,5.4,89,8.6
+223,675,O,558,3rd Ave & Seneca St,4,MID,2.2,0.2,7.4,101.9,11.4
+223,675,O,575,3rd Ave & Pike St,5,MID,4.7,1.1,10.9,214.1,51.6
+223,675,O,600,3rd Ave & Virginia St,6,MID,2.4,1.2,12.1,108.1,51.9
+223,675,O,605,3rd Ave & Bell St,7,MID,1.7,1.4,12.4,75.3,61.8
+223,675,O,6236,7th Ave N & Denny Way,8,MID,1.2,0.8,12.8,57.3,36
+223,675,O,6237,7th Ave N & Harrison St,9,MID,1.2,0.4,13.6,54.2,19.3
+223,675,O,6300,Aurora Ave N & Galer St,10,MID,0.3,0.3,13.5,13,12.1
+223,675,O,6320,Aurora Ave N & Lynn St,11,MID,0.1,0.1,13.5,5.9,6.4
+223,675,O,75409,Aurora Ave N & N 46th St,12,MID,1.3,1.1,13.7,61.9,50.8
+223,675,O,7630,Woodland Pl N & N 65th St,13,MID,0.2,0.3,13.5,8.9,13.1
+223,675,O,7670,Linden Ave N & N 72nd St,14,MID,0,0.2,13.3,2.2,10.4
+223,675,O,7690,Aurora Ave N & N 76th St,15,MID,0.4,0.4,13.3,18.4,19.8
+223,675,O,7710,Aurora Ave N & N 80th St,16,MID,0.6,0.8,13,27,38.1
+223,675,O,7730,Aurora Ave N & N 85th St,17,MID,1.8,0.8,14,79.7,35
+223,675,O,7750,Aurora Ave N & N 91st St,18,MID,1.2,0.9,14.2,50.9,38.6
+223,675,O,7770,Aurora Ave N & N 95th St,19,MID,0.5,0.8,13.9,20.3,34.4
+223,675,O,7790,Aurora Ave N & N 100th St,20,MID,0.7,0.9,13.7,31.4,40.8
+223,675,O,7810,Aurora Ave N & N Northgate Way,21,MID,2.5,1.6,14.6,109.1,69.2
+223,675,O,7850,Aurora Ave N & N 115th St,22,MID,0.5,1,14,23.6,42.8
+223,675,O,7880,Aurora Ave N & N 125th St,23,MID,0.6,1,13.5,26,43.2
+223,675,O,7900,Aurora Ave N & N 130th St,24,MID,1.2,2,12.8,55.1,90.1
+223,675,O,7912,Aurora Ave N & N 135th St,25,MID,1.4,1.7,12.5,63.8,75.8
+223,675,O,75820,Aurora Ave N & N 145th St,26,MID,1.5,2.2,11.8,67.7,101
+223,675,O,75830,Aurora Ave N & N 152nd St,27,MID,0.4,1.2,10.9,19.3,56.1
+223,675,O,75840,Aurora Ave N & N 155th St,28,MID,0.8,1.2,10.5,35.5,53.5
+223,675,O,75850,Aurora Ave N & N 160th St,29,MID,0.5,0.6,10.4,20.9,27.5
+223,675,O,75860,Aurora Ave N & N 165th St,30,MID,0.3,0.8,9.9,12.9,35.9
+223,675,O,75870,Aurora Ave N & N 170th St,31,MID,0.5,1.1,9.2,24.1,50.1
+223,675,O,75881,Aurora Ave N & N 175th St,32,MID,1,0.8,9.4,44.8,35
+223,675,O,75890,Aurora Ave N & N 180th St,33,MID,0.3,1.8,8,13.9,78.7
+223,675,O,75901,Aurora Ave N & N 185th St,34,MID,1,1.5,7.5,43.5,64.5
+223,675,O,75910,Aurora Ave N & N 192nd St,35,MID,0.2,0.8,7,10.5,34.8
+223,675,O,75932,Aurora Ave N & N 200th St,36,MID,0,1.7,5.2,0.7,72.5
+223,675,O,16103,Aurora Village Transit Center - Bay 3,37,MID,0.9,6.1,0,38.3,260.5
+223,675,I,16100,Aurora Village Transit Center - Bay 10,1,PM,7.3,0,7.4,190.6,0
+223,675,I,75700,Aurora Ave N & N 200th St,2,PM,1.4,0.2,8.5,36.2,4
+223,675,I,75730,Aurora Ave N & N 192nd St,3,PM,0.9,0.3,9.1,22.7,6.8
+223,675,I,75740,Aurora Ave N & N 185th St,4,PM,2.4,1.3,10.2,61.9,32.7
+223,675,I,75750,Aurora Ave N & N 180th St,5,PM,1.5,0.3,11.3,38.6,9
+223,675,I,75760,Aurora Ave N & N 175th St,6,PM,1.2,0.5,12,30,13.4
+223,675,I,75770,Aurora Ave N & N 170th St,7,PM,0.8,0.3,12.4,20.5,8.2
+223,675,I,75780,Aurora Ave N & N 165th St,8,PM,0.6,0.4,12.6,16.9,11.7
+223,675,I,75790,Aurora Ave N & N 160th St,9,PM,1,0.6,13.1,27.1,15.7
+223,675,I,75800,Aurora Ave N & N 155th St,10,PM,2.6,1,14.8,68.6,26.3
+223,675,I,75810,Aurora Ave N & N 152nd St,11,PM,1.1,0.6,15.3,28.3,15.3
+223,675,I,6950,Aurora Ave N & N 145th St,12,PM,2.8,2.4,15.7,74.6,65.3
+223,675,I,6990,Aurora Ave N & N 135th St,13,PM,2.3,2.2,15.8,63,58.1
+223,675,I,7000,Aurora Ave N & N 130th St,14,PM,4.1,1,19,106.8,27
+223,675,I,7010,Aurora Ave N & N 125th St,15,PM,1.7,0.9,19.8,43.8,24.1
+223,675,I,7040,Aurora Ave N & N 115th St,16,PM,1.2,0.8,20.2,32,20.5
+223,675,I,7080,Aurora Ave N & N 105th St,17,PM,1.9,3.8,18.3,51.6,102.2
+223,675,I,7100,Aurora Ave N & N 100th St,18,PM,1.3,1.3,18.3,36.3,34.7
+223,675,I,7120,Aurora Ave N & N 95th St,19,PM,1,0.8,18.5,26.5,21.9
+223,675,I,7140,Aurora Ave N & N 90th St,20,PM,0.9,1.2,18.3,25.3,31.3
+223,675,I,7160,Aurora Ave N & N 85th St,21,PM,1.4,2.5,17.1,36.8,66.8
+223,675,I,7180,Aurora Ave N & N 80th St,22,PM,1,1,17.1,26.7,27.6
+223,675,I,7200,Aurora Ave N & N 76th St,23,PM,0.9,0.7,17.4,24.5,19.2
+223,675,I,7210,Aurora Ave N & N 65th St,24,PM,0.5,0.4,17.6,14.6,9.9
+223,675,I,75408,Aurora Ave N & N 46th St,25,PM,1.8,1.9,17.4,47.6,52.4
+223,675,I,6070,Aurora Ave N & Lynn St,26,PM,0.1,0.3,17.2,3,8.1
+223,675,I,6100,Aurora Ave N & Galer St,27,PM,0.2,0.4,17.1,6.8,12.4
+223,675,I,6176,7th Ave N & Thomas St,28,PM,1,1.9,16.3,26.9,51.4
+223,675,I,7430,Wall St & 5th Ave,29,PM,0.7,1.5,15.5,19.5,41
+223,675,I,400,3rd Ave & Bell St,30,PM,1.3,2.4,14.4,36.1,64.8
+223,675,I,420,3rd Ave & Virginia St,31,PM,0.6,2.5,12.5,15.5,66.8
+223,675,I,431,3rd Ave & Pike St,32,PM,0.6,6.2,6.8,16,173.3
+223,675,I,468,3rd Ave & Seneca St,33,PM,0.1,1.9,5.1,3.3,51.6
+223,675,I,490,3rd Ave & Cherry St,34,PM,0.1,1.8,3.4,2.5,49.3
+223,675,I,510,S Washington St & 3rd Ave S,35,PM,0.3,3.7,0,5.7,69.4
+223,675,I,1404,S Washington St & 3rd Ave S,36,PM,1.1,4.8,0,10.2,43
+223,675,O,1610,Prefontaine Pl S & Yesler Way,2,PM,4,0,4,147.2,0.1
+223,675,O,538,3rd Ave & Columbia St,3,PM,3.2,0.2,7,118.3,6.1
+223,675,O,558,3rd Ave & Seneca St,4,PM,5.3,0.2,12.1,196.3,7.8
+223,675,O,575,3rd Ave & Pike St,5,PM,6.2,1.1,17.2,231.2,41.6
+223,675,O,600,3rd Ave & Virginia St,6,PM,3.6,1,19.6,136,39.3
+223,675,O,605,3rd Ave & Bell St,7,PM,2.4,1.7,20.6,88.5,61.3
+223,675,O,6236,7th Ave N & Denny Way,8,PM,2.8,1.1,22.3,102.9,39.7
+223,675,O,6237,7th Ave N & Harrison St,9,PM,3.6,0.5,25.4,134.5,17.7
+223,675,O,6300,Aurora Ave N & Galer St,10,PM,0.5,0.7,25.2,18.8,27.7
+223,675,O,6320,Aurora Ave N & Lynn St,11,PM,0.2,0.3,25.1,8.3,12.3
+223,675,O,75409,Aurora Ave N & N 46th St,12,PM,2,3,24.1,73.8,109.6
+223,675,O,7630,Woodland Pl N & N 65th St,13,PM,0.2,0.9,23.6,9,34.3
+223,675,O,7670,Linden Ave N & N 72nd St,14,PM,0.1,1,22.6,1.9,38.8
+223,675,O,7690,Aurora Ave N & N 76th St,15,PM,0.5,1,22.1,18.3,37.3
+223,675,O,7710,Aurora Ave N & N 80th St,16,PM,0.7,1.4,21.4,25,52.3
+223,675,O,7730,Aurora Ave N & N 85th St,17,PM,2.1,2,21.4,75.9,75.3
+223,675,O,7750,Aurora Ave N & N 91st St,18,PM,1.1,1.5,20.9,41.7,57.9
+223,675,O,7770,Aurora Ave N & N 95th St,19,PM,0.5,1.4,20,20.4,53.3
+223,675,O,7790,Aurora Ave N & N 100th St,20,PM,0.8,1.8,19.1,31.3,67.4
+223,675,O,7810,Aurora Ave N & N Northgate Way,21,PM,2.7,2.4,19.5,99.2,90.3
+223,675,O,7850,Aurora Ave N & N 115th St,22,PM,0.5,1,19.2,19.6,35.6
+223,675,O,7880,Aurora Ave N & N 125th St,23,PM,0.7,1.5,18.4,24.9,54.2
+223,675,O,7900,Aurora Ave N & N 130th St,24,PM,1.3,2.3,17.4,48.8,86.3
+223,675,O,7912,Aurora Ave N & N 135th St,25,PM,1.4,2.3,16.6,52,83.4
+223,675,O,75820,Aurora Ave N & N 145th St,26,PM,1.4,3.5,14.5,51.8,129.6
+223,675,O,75830,Aurora Ave N & N 152nd St,27,PM,0.4,1.7,13.2,15.2,61.8
+223,675,O,75840,Aurora Ave N & N 155th St,28,PM,0.8,1.4,12.8,29.5,48.8
+223,675,O,75850,Aurora Ave N & N 160th St,29,PM,0.5,0.7,12.6,17.8,24.5
+223,675,O,75860,Aurora Ave N & N 165th St,30,PM,0.3,0.7,12.2,11.3,26.8
+223,675,O,75870,Aurora Ave N & N 170th St,31,PM,0.3,0.9,11.5,11,34.3
+223,675,O,75881,Aurora Ave N & N 175th St,32,PM,0.5,0.9,11.2,20,33.3
+223,675,O,75890,Aurora Ave N & N 180th St,33,PM,0.3,1.5,9.9,10.1,57.1
+223,675,O,75901,Aurora Ave N & N 185th St,34,PM,0.9,1.7,9.1,34.5,63.2
+223,675,O,75910,Aurora Ave N & N 192nd St,35,PM,0.2,1.3,8,6.7,48.5
+223,675,O,75932,Aurora Ave N & N 200th St,36,PM,0,2.1,6.2,1.3,78.1
+223,675,O,16103,Aurora Village Transit Center - Bay 3,37,PM,0.5,6.7,0,19.6,247.3
+223,675,I,16100,Aurora Village Transit Center - Bay 10,1,XEV,5.9,0,6,88.8,0
+223,675,I,75700,Aurora Ave N & N 200th St,2,XEV,1,0.1,6.9,15.2,1.9
+223,675,I,75730,Aurora Ave N & N 192nd St,3,XEV,0.5,0.1,7.2,7.8,2.1
+223,675,I,75740,Aurora Ave N & N 185th St,4,XEV,1.9,1,8,28.7,15.3
+223,675,I,75750,Aurora Ave N & N 180th St,5,XEV,0.8,0.2,8.6,12.5,3
+223,675,I,75760,Aurora Ave N & N 175th St,6,XEV,0.7,0.3,8.9,10.1,5
+223,675,I,75770,Aurora Ave N & N 170th St,7,XEV,0.4,0.1,9.2,5.7,2.1
+223,675,I,75780,Aurora Ave N & N 165th St,8,XEV,0.4,0.3,9.2,6.2,5.2
+223,675,I,75790,Aurora Ave N & N 160th St,9,XEV,0.6,0.3,9.6,9.4,4.9
+223,675,I,75800,Aurora Ave N & N 155th St,10,XEV,2.1,0.8,10.9,34.3,13.1
+223,675,I,75810,Aurora Ave N & N 152nd St,11,XEV,0.8,0.3,11.4,12.8,4.3
+223,675,I,6950,Aurora Ave N & N 145th St,12,XEV,1.8,1.8,11.6,26.4,27.2
+223,675,I,6990,Aurora Ave N & N 135th St,13,XEV,1.6,1.2,12,24.2,17.4
+223,675,I,7000,Aurora Ave N & N 130th St,14,XEV,1.6,0.6,13.1,24.9,9.4
+223,675,I,7010,Aurora Ave N & N 125th St,15,XEV,1.4,0.8,13.7,22.8,12.9
+223,675,I,7040,Aurora Ave N & N 115th St,16,XEV,0.7,0.5,13.8,10.4,8.7
+223,675,I,7080,Aurora Ave N & N 105th St,17,XEV,1.3,2.6,12.5,21.2,42
+223,675,I,7100,Aurora Ave N & N 100th St,18,XEV,0.8,0.6,12.6,12.3,9.9
+223,675,I,7120,Aurora Ave N & N 95th St,19,XEV,0.7,0.7,12.6,10.6,10.8
+223,675,I,7140,Aurora Ave N & N 90th St,20,XEV,0.4,0.7,12.3,6.5,11
+223,675,I,7160,Aurora Ave N & N 85th St,21,XEV,0.9,1.6,11.6,13.9,25.2
+223,675,I,7180,Aurora Ave N & N 80th St,22,XEV,0.3,0.2,11.7,5,3.4
+223,675,I,7200,Aurora Ave N & N 76th St,23,XEV,0.5,0.3,12,7.9,5.7
+223,675,I,7210,Aurora Ave N & N 65th St,24,XEV,0.3,0.2,12.2,5.4,2.9
+223,675,I,75408,Aurora Ave N & N 46th St,25,XEV,1.1,1.4,11.8,17,22.2
+223,675,I,6070,Aurora Ave N & Lynn St,26,XEV,0.1,0.2,11.7,1.1,3.5
+223,675,I,6100,Aurora Ave N & Galer St,27,XEV,0.1,0.3,11.5,2,5
+223,675,I,6176,7th Ave N & Thomas St,28,XEV,0.4,1.2,10.8,6.8,19.8
+223,675,I,7430,Wall St & 5th Ave,29,XEV,0.5,1.1,10.2,7.7,18.1
+223,675,I,400,3rd Ave & Bell St,30,XEV,1.1,1.7,9.6,18.2,28.7
+223,675,I,420,3rd Ave & Virginia St,31,XEV,0.4,1.6,8.3,5.8,25.2
+223,675,I,431,3rd Ave & Pike St,32,XEV,0.4,3.7,4.9,5.6,59.2
+223,675,I,468,3rd Ave & Seneca St,33,XEV,0.1,1.4,3.7,1.6,23.1
+223,675,I,490,3rd Ave & Cherry St,34,XEV,0.1,1.3,2.5,1.4,22.3
+223,675,I,510,S Washington St & 3rd Ave S,35,XEV,0.4,2.9,0,5.8,40.2
+223,675,I,1404,S Washington St & 3rd Ave S,36,XEV,1,3.5,0,2.9,10.5
+223,675,O,1610,Prefontaine Pl S & Yesler Way,2,XEV,2.7,0,2.7,45.3,0
+223,675,O,538,3rd Ave & Columbia St,3,XEV,1.6,0.2,4.1,26.8,2.6
+223,675,O,558,3rd Ave & Seneca St,4,XEV,2.9,0.2,6.8,45.7,2.4
+223,675,O,575,3rd Ave & Pike St,5,XEV,4.5,0.6,10.6,72,10.2
+223,675,O,600,3rd Ave & Virginia St,6,XEV,2.6,0.8,12.4,41,12.4
+223,675,O,605,3rd Ave & Bell St,7,XEV,1.8,1.3,12.9,30.4,21.8
+223,675,O,6236,7th Ave N & Denny Way,8,XEV,1.6,0.8,13.8,27.8,13.8
+223,675,O,6237,7th Ave N & Harrison St,9,XEV,2,0.4,15.3,34.4,6.8
+223,675,O,6300,Aurora Ave N & Galer St,10,XEV,0.3,0.5,15.3,5.5,8.1
+223,675,O,6320,Aurora Ave N & Lynn St,11,XEV,0.1,0.3,15.1,1.8,4.5
+223,675,O,75409,Aurora Ave N & N 46th St,12,XEV,1.2,1.7,14.3,20.4,28.2
+223,675,O,7630,Woodland Pl N & N 65th St,13,XEV,0.2,0.3,14.2,3.1,5.8
+223,675,O,7670,Linden Ave N & N 72nd St,14,XEV,0,0.3,13.9,0.5,5.9
+223,675,O,7690,Aurora Ave N & N 76th St,15,XEV,0.5,0.5,13.9,9.6,9.7
+223,675,O,7710,Aurora Ave N & N 80th St,16,XEV,0.3,0.5,13.7,4.7,8.5
+223,675,O,7730,Aurora Ave N & N 85th St,17,XEV,1.6,1.3,14,28.3,23.4
+223,675,O,7750,Aurora Ave N & N 91st St,18,XEV,0.4,1,13.5,7.6,17.3
+223,675,O,7770,Aurora Ave N & N 95th St,19,XEV,0.4,1,12.9,7.5,18.5
+223,675,O,7790,Aurora Ave N & N 100th St,20,XEV,0.6,0.8,12.6,10.5,15.2
+223,675,O,7810,Aurora Ave N & N Northgate Way,21,XEV,2,1.6,13.1,38.7,31.2
+223,675,O,7850,Aurora Ave N & N 115th St,22,XEV,0.3,0.7,12.8,5.7,13.7
+223,675,O,7880,Aurora Ave N & N 125th St,23,XEV,0.6,1.2,12,10.7,22
+223,675,O,7900,Aurora Ave N & N 130th St,24,XEV,1,1.3,11.6,18.9,25.4
+223,675,O,7912,Aurora Ave N & N 135th St,25,XEV,1,1.3,11.2,18.3,25.6
+223,675,O,75820,Aurora Ave N & N 145th St,26,XEV,1,2.4,9.8,18.3,46.2
+223,675,O,75830,Aurora Ave N & N 152nd St,27,XEV,0.3,1,9,5.2,19.3
+223,675,O,75840,Aurora Ave N & N 155th St,28,XEV,0.5,1,8.6,10.8,20.5
+223,675,O,75850,Aurora Ave N & N 160th St,29,XEV,0.3,0.4,8.5,5.4,7.5
+223,675,O,75860,Aurora Ave N & N 165th St,30,XEV,0.2,0.4,8.2,3.6,8.7
+223,675,O,75870,Aurora Ave N & N 170th St,31,XEV,0.2,0.5,7.8,3.1,9.6
+223,675,O,75881,Aurora Ave N & N 175th St,32,XEV,0.2,0.6,7.5,3.3,11.3
+223,675,O,75890,Aurora Ave N & N 180th St,33,XEV,0.1,1,6.6,1.8,19.3
+223,675,O,75901,Aurora Ave N & N 185th St,34,XEV,0.7,1.2,6,13.3,24.8
+223,675,O,75910,Aurora Ave N & N 192nd St,35,XEV,0.1,0.5,5.6,1.6,10.3
+223,675,O,75932,Aurora Ave N & N 200th St,36,XEV,0.1,1.3,4.3,1.2,27.7
+223,675,O,16103,Aurora Village Transit Center - Bay 3,37,XEV,0.4,4.7,0,9.1,99.4
+223,675,I,16100,Aurora Village Transit Center - Bay 10,1,XNT,6.8,0,6.9,95.4,0
+223,675,I,75700,Aurora Ave N & N 200th St,2,XNT,1,0.1,7.7,13.3,1.8
+223,675,I,75730,Aurora Ave N & N 192nd St,3,XNT,0.3,0.1,7.9,4.5,1
+223,675,I,75740,Aurora Ave N & N 185th St,4,XNT,0.8,0.3,8.4,11.7,4
+223,675,I,75750,Aurora Ave N & N 180th St,5,XNT,0.3,0.1,8.7,4.7,0.9
+223,675,I,75760,Aurora Ave N & N 175th St,6,XNT,0.3,0.1,8.8,4.3,1.9
+223,675,I,75770,Aurora Ave N & N 170th St,7,XNT,0.1,0.1,8.8,1.1,0.8
+223,675,I,75780,Aurora Ave N & N 165th St,8,XNT,0.3,0.1,9,4.1,1.4
+223,675,I,75790,Aurora Ave N & N 160th St,9,XNT,0.3,0.1,9.3,4.6,1.9
+223,675,I,75800,Aurora Ave N & N 155th St,10,XNT,1.5,0.4,10.3,20.5,5.9
+223,675,I,75810,Aurora Ave N & N 152nd St,11,XNT,0.6,0.1,10.7,7.9,1.5
+223,675,I,6950,Aurora Ave N & N 145th St,12,XNT,1.8,0.9,11.5,27,14.2
+223,675,I,6990,Aurora Ave N & N 135th St,13,XNT,1.5,0.6,12.1,20.5,8
+223,675,I,7000,Aurora Ave N & N 130th St,14,XNT,1,0.3,12.8,13.6,4.5
+223,675,I,7010,Aurora Ave N & N 125th St,15,XNT,1.3,0.6,13.4,17.6,8.3
+223,675,I,7040,Aurora Ave N & N 115th St,16,XNT,0.4,0.3,13.6,5.6,3.5
+223,675,I,7080,Aurora Ave N & N 105th St,17,XNT,1.9,1.9,13.6,26.5,26.1
+223,675,I,7100,Aurora Ave N & N 100th St,18,XNT,0.6,0.4,13.9,8.9,5.2
+223,675,I,7120,Aurora Ave N & N 95th St,19,XNT,0.7,0.5,14,9.1,6.9
+223,675,I,7140,Aurora Ave N & N 90th St,20,XNT,0.6,0.6,14,8,8
+223,675,I,7160,Aurora Ave N & N 85th St,21,XNT,1.2,1.2,14.1,16.8,16.1
+223,675,I,7180,Aurora Ave N & N 80th St,22,XNT,0.1,0.1,14.1,2,1.5
+223,675,I,7200,Aurora Ave N & N 76th St,23,XNT,0.4,0.2,14.3,4.9,2.5
+223,675,I,7210,Aurora Ave N & N 65th St,24,XNT,0.2,0.1,14.1,3.4,1.9
+223,675,I,75408,Aurora Ave N & N 46th St,25,XNT,0.9,1.1,13.9,12.9,16
+223,675,I,6070,Aurora Ave N & Lynn St,26,XNT,0.2,0.2,13.8,2.3,3.6
+223,675,I,6100,Aurora Ave N & Galer St,27,XNT,0.1,0.2,13.7,1.4,3.7
+223,675,I,6176,7th Ave N & Thomas St,28,XNT,0.4,0.8,12.8,5.9,11.6
+223,675,I,7430,Wall St & 5th Ave,29,XNT,0.3,0.8,12.3,4.4,11.2
+223,675,I,400,3rd Ave & Bell St,30,XNT,0.9,1.3,11.9,12.7,18.5
+223,675,I,420,3rd Ave & Virginia St,31,XNT,0.4,1.2,11.1,6.6,18.3
+223,675,I,431,3rd Ave & Pike St,32,XNT,0.2,3.1,8.2,3.7,46.6
+223,675,I,468,3rd Ave & Seneca St,33,XNT,0.1,1.9,6.5,1.8,28
+223,675,I,490,3rd Ave & Cherry St,34,XNT,0.2,1.7,4.9,2.6,25.6
+223,675,I,510,S Washington St & 3rd Ave S,35,XNT,1.8,6.2,0,24.9,87
+223,675,I,515,3rd Ave S & S Main St,37,XNT,2.9,11.5,5.4,2.9,11.5
+223,675,I,99271,SODO Busway & S Royal Brougham Way,38,XNT,1.2,7.6,0,1.2,7.6
+223,675,O,99267,SODO Busway & S Royal Brougham Way,1,XNT,6.5,0,6.6,32.7,0
+223,675,O,1610,Prefontaine Pl S & Yesler Way,2,XNT,4.1,0.2,6.2,57.3,2.5
+223,675,O,538,3rd Ave & Columbia St,3,XNT,1.9,0.3,7.7,26.5,4
+223,675,O,558,3rd Ave & Seneca St,4,XNT,2.5,0.3,9.7,38,4.1
+223,675,O,575,3rd Ave & Pike St,5,XNT,4.4,0.8,13.3,65.7,11.5
+223,675,O,600,3rd Ave & Virginia St,6,XNT,2.9,1,15.3,40.1,13.8
+223,675,O,605,3rd Ave & Bell St,7,XNT,2.5,1.2,16.6,34.7,16.8
+223,675,O,6236,7th Ave N & Denny Way,8,XNT,1.6,1,17.2,22.3,13.5
+223,675,O,6237,7th Ave N & Harrison St,9,XNT,2.1,0.6,18.7,29.2,9
+223,675,O,6300,Aurora Ave N & Galer St,10,XNT,0.3,0.4,18.5,3.6,5.3
+223,675,O,6320,Aurora Ave N & Lynn St,11,XNT,0.2,0.3,18.4,2.6,3.9
+223,675,O,75409,Aurora Ave N & N 46th St,12,XNT,1.2,1.8,18,17.4,27.1
+223,675,O,7630,Woodland Pl N & N 65th St,13,XNT,0.1,0.3,17.8,1.3,4.7
+223,675,O,7670,Linden Ave N & N 72nd St,14,XNT,0,0.3,17.5,0,3.9
+223,675,O,7690,Aurora Ave N & N 76th St,15,XNT,0.4,0.5,17.5,5.9,7.2
+223,675,O,7710,Aurora Ave N & N 80th St,16,XNT,0.1,0.3,17.2,1.1,4.4
+223,675,O,7730,Aurora Ave N & N 85th St,17,XNT,1.5,1.3,17.5,23.1,19.6
+223,675,O,7750,Aurora Ave N & N 91st St,18,XNT,0.5,0.8,17.1,7.3,12.5
+223,675,O,7770,Aurora Ave N & N 95th St,19,XNT,0.3,1,16.4,4.8,15.2
+223,675,O,7790,Aurora Ave N & N 100th St,20,XNT,0.5,0.7,16.3,7.7,10.1
+223,675,O,7810,Aurora Ave N & N Northgate Way,21,XNT,2.1,2.3,16,32.2,35.1
+223,675,O,7850,Aurora Ave N & N 115th St,22,XNT,0.2,0.6,15.7,3,8.5
+223,675,O,7880,Aurora Ave N & N 125th St,23,XNT,0.4,1.2,14.9,6.2,19.7
+223,675,O,7900,Aurora Ave N & N 130th St,24,XNT,0.4,1,14.2,6,16.1
+223,675,O,7912,Aurora Ave N & N 135th St,25,XNT,0.6,1.4,13.4,9,22.1
+223,675,O,75820,Aurora Ave N & N 145th St,26,XNT,0.5,2.5,11.5,7.8,39.3
+223,675,O,75830,Aurora Ave N & N 152nd St,27,XNT,0.1,0.5,11,1.5,8.7
+223,675,O,75840,Aurora Ave N & N 155th St,28,XNT,0.3,0.9,10.5,5.5,14
+223,675,O,75850,Aurora Ave N & N 160th St,29,XNT,0.1,0.3,10.3,1.2,4.3
+223,675,O,75860,Aurora Ave N & N 165th St,30,XNT,0.1,0.4,9.9,1.1,6.6
+223,675,O,75870,Aurora Ave N & N 170th St,31,XNT,0,0.2,9.8,0.1,3
+223,675,O,75881,Aurora Ave N & N 175th St,32,XNT,0.1,0.7,9.1,1.2,11.5
+223,675,O,75890,Aurora Ave N & N 180th St,33,XNT,0,0.4,8.8,0.3,5.9
+223,675,O,75901,Aurora Ave N & N 185th St,34,XNT,0.2,0.7,8.3,3.1,11.8
+223,675,O,75910,Aurora Ave N & N 192nd St,35,XNT,0.1,0.6,7.8,0.9,9.1
+223,675,O,75932,Aurora Ave N & N 200th St,36,XNT,0,1.2,6.6,0.5,19.8
+223,675,O,16103,Aurora Village Transit Center - Bay 3,37,XNT,1,7.6,0,16.2,121.7

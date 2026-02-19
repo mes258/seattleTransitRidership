@@ -749,3 +749,753 @@ serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripB
 191,50,O,45630,S Othello St & 46th Ave S,73,XNT,0,0,0.4,0,0.2
 191,50,O,45640,S Othello St & 44th Ave S,74,XNT,0,0,0.3,0,0.2
 191,50,O,45651,S Othello St & Martin L King Jr Way S,75,XNT,0.1,0.5,0,0.8,3.2
+191,50,I,56151,Martin L King Jr Way S & S Myrtle St,1,AM,0.5,0,0.5,5.7,0
+191,50,I,46130,S Othello St & 42nd Ave S,2,AM,0.9,0.1,1.2,9.5,1.2
+191,50,I,46140,S Othello St & 44th Ave S,3,AM,0,0,1.2,0.1,0
+191,50,I,46150,S Othello St & 46th Ave S,4,AM,0.2,0,1.5,2.7,0
+191,50,I,46160,S Othello St & 48th Ave S,5,AM,0.1,0.1,1.4,0.9,1.4
+191,50,I,46165,S Othello St & Rainier Ave S,6,AM,0.6,0.4,1.6,6.5,4
+191,50,I,34640,Seward Park Ave S & S Othello St,7,AM,0.1,0.1,1.6,0.7,1.2
+191,50,I,34650,Seward Park Ave S & S Myrtle St,8,AM,0.2,0,1.7,1.9,0.1
+191,50,I,34660,Seward Park Ave S & S Willow St,9,AM,0.1,0,1.8,0.7,0
+191,50,I,34680,Seward Park Ave S & S Holly St,10,AM,0.1,0,1.8,0.8,0
+191,50,I,34690,Seward Park Ave S & Wilson Ave S,11,AM,0,0,1.8,0.4,0.4
+191,50,I,34700,Seward Park Ave S & 57th Ave S,12,AM,0,0,1.9,0.1,0.2
+191,50,I,34710,Seward Park Ave S & S Hawthorne Rd,13,AM,0,0,1.9,0.1,0
+191,50,I,34720,Seward Park Ave S & Lakeshore Dr S,14,AM,0.3,0,2.1,3,0
+191,50,I,34730,Seward Park Ave S & S Juneau St,15,AM,0,0,2.2,0.4,0.2
+191,50,I,34740,Seward Park Ave S & S Orcas St,16,AM,0.4,0,2.5,4.4,0.1
+191,50,I,34750,Seward Park Ave S & 56th Ave S,17,AM,0.1,0,2.6,0.7,0
+191,50,I,34760,S Dawson St & 54th Ave S,18,AM,0.3,0,2.9,3.2,0
+191,50,I,34770,S Dawson St & 51st Ave S,19,AM,1.4,0.2,4.1,15.5,1.7
+191,50,I,34780,50th Ave S & S Hudson St,20,AM,0.2,0,4.3,2.2,0
+191,50,I,34790,50th Ave S & S Ferdinand St,21,AM,0.3,0,4.6,3.5,0
+191,50,I,34800,50th Ave S & S Alaska St,22,AM,1.1,0,5.7,11.8,0.1
+191,50,I,34810,50th Ave S & S Oregon St,23,AM,0.1,0,5.8,1.3,0
+191,50,I,34820,S Genesee St & 50th Ave S,24,AM,1.2,0.1,7,11.9,0.7
+191,50,I,34830,S Genesee St & 48th Ave S,25,AM,0.3,0,7.3,3.4,0
+191,50,I,34840,S Genesee St & 47th Ave S,26,AM,0.8,0,8.1,7.9,0
+191,50,I,34850,S Genesee St & 45th Ave S,27,AM,0.3,0,8.3,2.6,0.2
+191,50,I,34860,S Genesee St & 43rd Ave S,28,AM,0.2,0,8.5,1.9,0
+191,50,I,34870,S Genesee St & 41st Ave S,29,AM,1.7,0.1,10.2,17.2,0.5
+191,50,I,34880,S Genesee St & 39th Ave S,30,AM,0.2,0,10.4,1.9,0.4
+191,50,I,34881,S Genesee St & 37th Ave S,31,AM,0.6,1.2,9.9,6.3,11.7
+191,50,I,8760,Rainier Ave S & S Genesee St,32,AM,1.8,0.3,11.4,17.6,2.7
+191,50,I,35960,S Alaska St & 35th Ave S,33,AM,2.5,0.1,13.7,25.3,1.1
+191,50,I,35979,S Alaska St & Martin L King Jr Way S,34,AM,2.1,3.9,12,21.4,39.1
+191,50,I,35990,S Columbian Way & S Americus St,35,AM,0.1,0.1,12,1.4,1.1
+191,50,I,30460,S Columbian Way & Beacon Ave S,36,AM,1.5,0.4,13.1,14.5,4.4
+191,50,I,30470,S Columbian Way & S Angeline St,37,AM,0,0,13,0.2,0.4
+191,50,I,30453,Veterans Administration Hospital,38,AM,0.3,1.1,12.2,3,11
+191,50,I,30480,S Columbian Way & Veterans Administration Hospital Rd,39,AM,0.3,4,8.5,3,39.8
+191,50,I,30490,S Columbian Way & S Oregon St,40,AM,0.9,1.9,7.6,9.2,18.5
+191,50,I,30510,15th Ave S & S Dakota St,41,AM,1.6,0.1,9.1,16.3,0.5
+191,50,I,30520,S Columbian Way & 15th Ave S,42,AM,0.5,0,9.7,5.3,0.1
+191,50,I,30530,S Columbian Way & S Spokane St,43,AM,1.1,0,10.7,10.5,0.1
+191,50,I,99252,SODO Busway & S Spokane St,44,AM,0.9,2.8,9.2,8.3,25.6
+191,50,I,99254,SODO Busway & S Lander St,45,AM,2.9,3.2,9,26.4,28.5
+191,50,I,15380,1st Ave S & S Lander St,46,AM,0.3,1.2,8,2.5,11.2
+191,50,I,15395,1st Ave S & S Hanford St,47,AM,0.3,0.8,7.6,2.9,7
+191,50,I,21990,Delridge Way SW & SW Andover St,48,AM,0.8,1.5,6.9,7.4,13.4
+191,50,I,22009,Delridge Way SW & SW Genesee St,49,AM,1.4,0.4,7.9,12.6,3.4
+191,50,I,19978,SW Genesee St & 30th Ave SW,50,AM,0.4,0.1,8.3,3.2,0.8
+191,50,I,22830,35th Ave SW & SW Avalon Way,51,AM,1.3,0.4,9.1,10.4,3.5
+191,50,I,22850,SW Alaska St & 35th Ave SW,52,AM,0.2,0.4,8.9,1.8,3.2
+191,50,I,32364,SW Alaska St & Fauntleroy Way SW,53,AM,0.9,0.2,9.6,7.4,1.6
+191,50,I,20040,SW Alaska St & 42nd Ave SW,54,AM,0.5,0.9,9.2,4,7
+191,50,I,32011,SW Alaska St & 44th Ave SW - Bay 4,55,AM,5.7,0.4,14.5,45.9,3.5
+191,50,I,31818,SW Oregon St & California Ave SW,56,AM,0.1,0.1,14.5,0.4,0.6
+191,50,I,31830,California Ave SW & SW Genesee St,57,AM,0.2,0.2,14.5,1.5,1.3
+191,50,I,31840,California Ave SW & SW Dakota St,58,AM,0,0.2,14.4,0.2,1.2
+191,50,I,31850,California Ave SW & SW Andover St,59,AM,0,0.1,14.3,0.2,1
+191,50,I,31861,California Ave SW & SW Charlestown St,60,AM,0.1,0.3,14,0.5,2.6
+191,50,I,31871,California Ave SW & SW Spokane St,61,AM,0.1,2.3,11.9,1.1,18.7
+191,50,I,31890,California Ave SW & SW Hanford St,62,AM,0.2,5.4,6.6,1.4,43.3
+191,50,I,31900,California Ave SW & SW Stevens St,63,AM,0,0.5,6.2,0,3.9
+191,50,I,31910,California Ave SW & SW Lander St,64,AM,0,2.1,4.1,0.1,17
+191,50,I,15540,SW Admiral Way & California Ave SW,65,AM,0.3,1.5,2.9,2.1,12.2
+191,50,I,15560,SW Admiral Way & 46th Ave SW,66,AM,0,0.2,2.7,0,1.6
+191,50,I,15570,SW Admiral Way & SW Waite St,67,AM,0,0.1,2.6,0,0.9
+191,50,I,15580,SW Admiral Way & 49th Ave SW,68,AM,0,0,2.6,0,0
+191,50,I,15588,SW Admiral Way & 51st Ave SW,69,AM,0,0,2.6,0,0.1
+191,50,I,15610,SW Admiral Way & SW Lander St,70,AM,0,0,2.6,0,0
+191,50,I,15630,SW Admiral Way & 57th Ave SW,71,AM,0,0.3,2.3,0,2.3
+191,50,I,15650,SW Admiral Way & 61st Ave SW,72,AM,0,0.4,1.9,0,2.8
+191,50,I,15651,63rd Ave SW & SW Admiral Way,73,AM,0,0.1,1.9,0,0.5
+191,50,I,15652,63rd Ave SW & Alki Ave SW,74,AM,0,0.2,1.7,0,1.4
+191,50,I,14960,Alki Ave SW & 61st Ave SW,75,AM,0,1.7,0,0,11.7
+191,50,O,14960,Alki Ave SW & 61st Ave SW,1,AM,2.5,0,2.5,25.3,0
+191,50,O,14961,61st Ave SW & SW Stevens St,2,AM,0.4,0,2.9,4.2,0
+191,50,O,14962,61st Ave SW & SW Admiral Way,3,AM,1.1,0,4,10.6,0.2
+191,50,O,14963,SW Admiral Way & 60th Ave SW,4,AM,0.2,0,4.2,2.2,0
+191,50,O,14970,SW Admiral Way & 59th Ave SW,5,AM,1,0,5.1,9.8,0
+191,50,O,14980,SW Admiral Way & 57th Ave SW,6,AM,0.2,0,5.3,1.8,0
+191,50,O,15000,SW Admiral Way & SW Stevens St,7,AM,0.1,0,5.5,1.3,0
+191,50,O,15002,SW Admiral Way & 51st Ave SW,8,AM,0.1,0,5.5,0.6,0
+191,50,O,15030,SW Admiral Way & SW Lander St,9,AM,0.1,0,5.6,0.9,0.3
+191,50,O,15040,SW Admiral Way & 47th Ave SW,10,AM,0.5,0,6,4.7,0.3
+191,50,O,15050,SW Admiral Way & 45th Ave SW,11,AM,0.2,0,6.3,2.3,0.2
+191,50,O,31920,California Ave SW & SW Admiral Way,12,AM,1.1,0.3,7,10.9,3.1
+191,50,O,31930,California Ave SW & SW Lander St,13,AM,0.5,0.2,7.3,5.2,2.3
+191,50,O,31950,California Ave SW & SW Hanford St,14,AM,1.7,0.6,8.4,17.2,6.3
+191,50,O,31970,California Ave SW & SW Spokane St,15,AM,0.9,0.9,8.3,7.8,7.9
+191,50,O,31980,California Ave SW & SW Charlestown St,16,AM,1,0,9.2,8.9,0.2
+191,50,O,31990,California Ave SW & SW Andover St,17,AM,0.5,0,9.7,4.8,0
+191,50,O,32000,California Ave SW & SW Dakota St,18,AM,0.4,0,10,3.3,0.2
+191,50,O,32010,California Ave SW & SW Genesee St,19,AM,0.2,0.2,10.1,1.7,1.4
+191,50,O,37220,SW Oregon St & 44th Ave SW,20,AM,0.3,0.1,10.4,3.1,0.8
+191,50,O,31811,SW Alaska St & 44th Ave SW - Bay 2,21,AM,2.6,2.3,10.6,23.1,21
+191,50,O,19875,SW Alaska St & 42nd Ave SW,22,AM,1.9,0.2,12.3,17.1,2
+191,50,O,33220,SW Alaska St & Fauntleroy Way SW,23,AM,1.3,0.4,13.1,11.6,3.8
+191,50,O,33221,SW Alaska St & 36th Ave SW,24,AM,0.4,0,13.5,3.3,0.2
+191,50,O,22820,35th Ave SW & SW Avalon Way,25,AM,1.8,0.1,15.1,15.9,1.1
+191,50,O,19922,SW Genesee St & 30th Ave SW,26,AM,0.4,0,15.4,3.2,0.4
+191,50,O,21600,Delridge Way SW & SW Genesee St,27,AM,1,0.6,15.9,9.4,5.8
+191,50,O,21620,Delridge Way SW & SW Andover St,28,AM,1.8,0.1,17.5,15.8,1.2
+191,50,O,15190,1st Ave S & S Spokane St,29,AM,0.1,1.5,16.2,0.7,11.9
+191,50,O,15205,1st Ave S & S Hanford St,30,AM,0.1,0.2,16.1,1.1,1.8
+191,50,O,15230,1st Ave S & S Lander St,31,AM,0.2,7.8,8.4,1.3,62.5
+191,50,O,99263,SODO Busway & S Lander St,32,AM,0.9,4,5.2,7.1,32.2
+191,50,O,99253,SODO Busway & S Spokane St,33,AM,1.8,0.9,6.1,14,7.4
+191,50,O,30770,S Columbian Way & S Spokane St,34,AM,0.1,0.1,6,0.4,0.5
+191,50,O,30790,15th Ave S & S Dakota St,35,AM,0.1,0.5,5.6,0.5,3.9
+191,50,O,30800,15th Ave S & S Nevada St,36,AM,0.2,0.1,5.7,1.4,1.1
+191,50,O,30453,Veterans Administration Hospital,37,AM,0.2,3.2,2.7,1.8,25.3
+191,50,O,30820,S Columbian Way & S Snoqualmie St,38,AM,0.3,0.2,3,2.2,1.5
+191,50,O,30830,S Columbian Way & S Angeline St,39,AM,0.1,0,3.1,0.6,0
+191,50,O,36680,S Columbian Way & Beacon Ave S,40,AM,0.5,0.1,3.5,3.6,1
+191,50,O,36690,S Columbian Way & S Americus St,41,AM,0,0,3.5,0.2,0
+191,50,O,36700,S Alaska St & S Alaska Pl,42,AM,0,0.1,3.4,0.1,0.9
+191,50,O,36711,S Alaska St & Martin Luther King Jr Way S,43,AM,0.4,0.5,3.3,2.6,3.2
+191,50,O,36720,S Alaska St & 35th Ave S,44,AM,0,0.9,2.5,0.1,6
+191,50,O,8310,Rainier Ave S & S Alaska St,45,AM,0,0.4,2.1,0.3,2.8
+191,50,O,34910,S Genesee St & 36th Ave S,46,AM,0.3,0.6,1.9,2,4
+191,50,O,34920,S Genesee St & 38th Ave S,47,AM,0.1,0.1,1.8,0.4,0.6
+191,50,O,34930,S Genesee St & Cascadia Ave S,48,AM,0,0.1,1.8,0.1,0.6
+191,50,O,34940,S Genesee St & 42nd Ave S,49,AM,0,0,1.7,0.2,0.2
+191,50,O,34950,S Genesee St & 45th Ave S,50,AM,0,0,1.7,0,0.1
+191,50,O,34960,S Genesee St & 46th Ave S,51,AM,0,0,1.7,0,0.1
+191,50,O,34970,S Genesee St & 48th Ave S,52,AM,0,0.1,1.6,0,0.7
+191,50,O,34980,50th Ave S & S Genesee St,53,AM,0,0.2,1.5,0.1,1.2
+191,50,O,34990,50th Ave S & S Snoqualmie St,54,AM,0,0,1.4,0,0.1
+191,50,O,35000,50th Ave S & S Alaska St,55,AM,0,0.1,1.4,0.3,0.5
+191,50,O,35010,50th Ave S & S Angeline St,56,AM,0,0,1.4,0,0.1
+191,50,O,35020,Wilson Ave S & S Hudson St,57,AM,0,0.2,1.2,0.1,1.2
+191,50,O,35030,Wilson Ave S & S Dawson St,58,AM,0.2,0.5,0.9,1.4,3.6
+191,50,O,35040,Wilson Ave S & S Brandon St,59,AM,0.1,0,1,0.4,0
+191,50,O,35050,Wilson Ave S & S Findlay St,60,AM,0,0,1,0.2,0.1
+191,50,O,35060,S Orcas St & 55th Ave S,61,AM,0,0,1.1,0.3,0
+191,50,O,35070,Seward Park Ave S & S Orcas St,62,AM,0.3,0,1.3,2.3,0.1
+191,50,O,35080,Seward Park Ave S & S Juneau St,63,AM,0,0,1.3,0,0
+191,50,O,35090,Seward Park Ave S & S Hawthorne Rd,64,AM,0,0,1.4,0.3,0
+191,50,O,35100,Seward Park Ave S & Oakhurst Rd S,65,AM,0.1,0,1.5,0.8,0.3
+191,50,O,35110,Seward Park Ave S & S Morgan St,66,AM,0.2,0.1,1.6,1.4,0.6
+191,50,O,35120,Seward Park Ave S & S Holly St,67,AM,0.5,0,2,2.8,0
+191,50,O,35130,Seward Park Ave S & S Willow St,68,AM,0.3,0,2.3,1.6,0
+191,50,O,35140,Seward Park Ave S & S Myrtle St,69,AM,0.3,0,2.5,1.8,0.1
+191,50,O,35149,Seward Park Ave S & S Othello St,70,AM,0.4,0.1,2.8,2.3,0.4
+191,50,O,45610,S Othello St & Rainier Ave S,71,AM,0.9,0.1,3.6,5.6,0.7
+191,50,O,45620,S Othello St & 48th Ave S,72,AM,0.1,0,3.7,0.7,0
+191,50,O,45630,S Othello St & 46th Ave S,73,AM,0,0,3.7,0.1,0
+191,50,O,45640,S Othello St & 44th Ave S,74,AM,0,0.1,3.7,0,0.3
+191,50,O,45651,S Othello St & Martin L King Jr Way S,75,AM,0,3.7,0,0,22
+191,50,I,56151,Martin L King Jr Way S & S Myrtle St,1,MID,0.8,0,0.8,12.7,0.2
+191,50,I,46130,S Othello St & 42nd Ave S,2,MID,0.9,0.2,1.5,12.6,2.1
+191,50,I,46140,S Othello St & 44th Ave S,3,MID,0,0,1.5,0.3,0
+191,50,I,46150,S Othello St & 46th Ave S,4,MID,0,0,1.5,0.2,0.3
+191,50,I,46160,S Othello St & 48th Ave S,5,MID,0.1,0.1,1.5,1,1.6
+191,50,I,46165,S Othello St & Rainier Ave S,6,MID,0.2,0.4,1.3,3.2,6.1
+191,50,I,34640,Seward Park Ave S & S Othello St,7,MID,0.1,0.1,1.2,0.8,1.3
+191,50,I,34650,Seward Park Ave S & S Myrtle St,8,MID,0.1,0,1.2,0.9,0.1
+191,50,I,34660,Seward Park Ave S & S Willow St,9,MID,0,0,1.3,0.5,0.1
+191,50,I,34680,Seward Park Ave S & S Holly St,10,MID,0.1,0,1.3,0.8,0.5
+191,50,I,34690,Seward Park Ave S & Wilson Ave S,11,MID,0.1,0,1.3,1.1,0.3
+191,50,I,34700,Seward Park Ave S & 57th Ave S,12,MID,0,0,1.4,0.5,0.2
+191,50,I,34710,Seward Park Ave S & S Hawthorne Rd,13,MID,0,0,1.4,0,0.1
+191,50,I,34720,Seward Park Ave S & Lakeshore Dr S,14,MID,0.1,0,1.4,0.7,0.1
+191,50,I,34730,Seward Park Ave S & S Juneau St,15,MID,0.3,0.1,1.6,3.5,1.7
+191,50,I,34740,Seward Park Ave S & S Orcas St,16,MID,0.3,0,1.8,4.2,0.6
+191,50,I,34750,Seward Park Ave S & 56th Ave S,17,MID,0,0,1.8,0.6,0.1
+191,50,I,34760,S Dawson St & 54th Ave S,18,MID,0.1,0,1.9,1.4,0.1
+191,50,I,34770,S Dawson St & 51st Ave S,19,MID,0.7,0.1,2.5,9.2,1.4
+191,50,I,34780,50th Ave S & S Hudson St,20,MID,0.1,0,2.6,1.1,0.2
+191,50,I,34790,50th Ave S & S Ferdinand St,21,MID,0.1,0,2.7,1.4,0
+191,50,I,34800,50th Ave S & S Alaska St,22,MID,0.3,0,3,4.8,0.4
+191,50,I,34810,50th Ave S & S Oregon St,23,MID,0.1,0,3.1,1.3,0
+191,50,I,34820,S Genesee St & 50th Ave S,24,MID,0.6,0,3.7,8.9,0.5
+191,50,I,34830,S Genesee St & 48th Ave S,25,MID,0.1,0,3.8,1,0.1
+191,50,I,34840,S Genesee St & 47th Ave S,26,MID,0.1,0,3.9,1.1,0
+191,50,I,34850,S Genesee St & 45th Ave S,27,MID,0.1,0,3.9,0.9,0.4
+191,50,I,34860,S Genesee St & 43rd Ave S,28,MID,0.1,0,4,1.1,0
+191,50,I,34870,S Genesee St & 41st Ave S,29,MID,0.1,0,4.1,2,0.7
+191,50,I,34880,S Genesee St & 39th Ave S,30,MID,0.1,0.2,4,1.4,2.3
+191,50,I,34881,S Genesee St & 37th Ave S,31,MID,0.2,0.4,3.7,2.3,6.2
+191,50,I,8760,Rainier Ave S & S Genesee St,32,MID,1.6,0.5,4.8,23.4,7.1
+191,50,I,35960,S Alaska St & 35th Ave S,33,MID,0.7,0.2,5.3,10.9,3.5
+191,50,I,35979,S Alaska St & Martin L King Jr Way S,34,MID,0.7,1.6,4.5,10.7,23.8
+191,50,I,35990,S Columbian Way & S Americus St,35,MID,0.1,0,4.7,1.5,0.3
+191,50,I,30460,S Columbian Way & Beacon Ave S,36,MID,0.7,0.6,4.7,9.2,9
+191,50,I,30470,S Columbian Way & S Angeline St,37,MID,0,0,4.6,0.2,0.5
+191,50,I,30453,Veterans Administration Hospital,38,MID,1.5,0.5,5.6,21.3,7.6
+191,50,I,30480,S Columbian Way & Veterans Administration Hospital Rd,39,MID,0.3,0.2,5.7,4.2,2.7
+191,50,I,30490,S Columbian Way & S Oregon St,40,MID,0.4,0.4,5.7,5.6,5.6
+191,50,I,30510,15th Ave S & S Dakota St,41,MID,0.8,0.2,6.3,10.6,3
+191,50,I,30520,S Columbian Way & 15th Ave S,42,MID,0.2,0,6.4,2.6,0.6
+191,50,I,30530,S Columbian Way & S Spokane St,43,MID,0.4,0,6.8,5.8,0.4
+191,50,I,99252,SODO Busway & S Spokane St,44,MID,0.7,1.6,6,10.9,23.8
+191,50,I,99254,SODO Busway & S Lander St,45,MID,2.1,1.6,6.4,31.2,24.4
+191,50,I,15380,1st Ave S & S Lander St,46,MID,0.9,0.7,6.7,14,10
+191,50,I,15395,1st Ave S & S Hanford St,47,MID,0.4,0.2,6.7,5.3,2.1
+191,50,I,21990,Delridge Way SW & SW Andover St,48,MID,0.8,0.7,6.8,11.2,10.4
+191,50,I,22009,Delridge Way SW & SW Genesee St,49,MID,1.2,0.4,7.6,16.8,6
+191,50,I,19978,SW Genesee St & 30th Ave SW,50,MID,0.3,0.1,7.7,5.1,1.5
+191,50,I,22830,35th Ave SW & SW Avalon Way,51,MID,1.2,1,7.9,18.4,14.8
+191,50,I,22850,SW Alaska St & 35th Ave SW,52,MID,0.5,0.3,8.1,7.7,4.3
+191,50,I,32364,SW Alaska St & Fauntleroy Way SW,53,MID,0.8,0.6,8.3,11.4,8.4
+191,50,I,20040,SW Alaska St & 42nd Ave SW,54,MID,0.5,1.3,7.5,7.4,18.9
+191,50,I,32011,SW Alaska St & 44th Ave SW - Bay 4,55,MID,4.5,1.1,11,68.1,15.8
+191,50,I,31818,SW Oregon St & California Ave SW,56,MID,0.2,0.1,11.1,2.6,1.8
+191,50,I,31830,California Ave SW & SW Genesee St,57,MID,0.3,0.1,11.2,4.2,2
+191,50,I,31840,California Ave SW & SW Dakota St,58,MID,0.1,0.2,11.2,1.7,2.7
+191,50,I,31850,California Ave SW & SW Andover St,59,MID,0,0.1,11.1,0.5,1.8
+191,50,I,31861,California Ave SW & SW Charlestown St,60,MID,0,0.4,10.7,0.6,6.3
+191,50,I,31871,California Ave SW & SW Spokane St,61,MID,0.2,1,9.7,2.7,13.7
+191,50,I,31890,California Ave SW & SW Hanford St,62,MID,0.1,1.3,8.5,1.3,17.9
+191,50,I,31900,California Ave SW & SW Stevens St,63,MID,0.1,0.3,8.2,0.7,4.5
+191,50,I,31910,California Ave SW & SW Lander St,64,MID,0.1,1.5,6.9,1.6,20.6
+191,50,I,15540,SW Admiral Way & California Ave SW,65,MID,0.8,1.6,6.1,10.9,21.8
+191,50,I,15560,SW Admiral Way & 46th Ave SW,66,MID,0,0.2,5.9,0.2,3.1
+191,50,I,15570,SW Admiral Way & SW Waite St,67,MID,0,0.1,5.8,0,2
+191,50,I,15580,SW Admiral Way & 49th Ave SW,68,MID,0,0.1,5.7,0,0.7
+191,50,I,15588,SW Admiral Way & 51st Ave SW,69,MID,0,0.1,5.6,0,0.8
+191,50,I,15610,SW Admiral Way & SW Lander St,70,MID,0,0.2,5.5,0,2.1
+191,50,I,15630,SW Admiral Way & 57th Ave SW,71,MID,0,0.4,5.1,0,5.3
+191,50,I,15650,SW Admiral Way & 61st Ave SW,72,MID,0,1.3,3.8,0.4,18.6
+191,50,I,15651,63rd Ave SW & SW Admiral Way,73,MID,0,0.3,3.5,0,4.2
+191,50,I,15652,63rd Ave SW & Alki Ave SW,74,MID,0.1,0.8,2.8,0.7,10.6
+191,50,I,14960,Alki Ave SW & 61st Ave SW,75,MID,0,2.9,0,0,43.4
+191,50,O,14960,Alki Ave SW & 61st Ave SW,1,MID,3.9,0,3.9,54.1,0
+191,50,O,14961,61st Ave SW & SW Stevens St,2,MID,0.6,0.1,4.3,8,0.8
+191,50,O,14962,61st Ave SW & SW Admiral Way,3,MID,0.6,0,4.8,8,0
+191,50,O,14963,SW Admiral Way & 60th Ave SW,4,MID,0.3,0,5.1,4.1,0
+191,50,O,14970,SW Admiral Way & 59th Ave SW,5,MID,0.6,0,5.7,7.8,0
+191,50,O,14980,SW Admiral Way & 57th Ave SW,6,MID,0.1,0,5.8,1.4,0
+191,50,O,15000,SW Admiral Way & SW Stevens St,7,MID,0.1,0,5.9,1.9,0
+191,50,O,15002,SW Admiral Way & 51st Ave SW,8,MID,0.1,0,6,1.9,0.1
+191,50,O,15030,SW Admiral Way & SW Lander St,9,MID,0.2,0,6.2,2.4,0.1
+191,50,O,15040,SW Admiral Way & 47th Ave SW,10,MID,0.4,0,6.5,5.2,0.3
+191,50,O,15050,SW Admiral Way & 45th Ave SW,11,MID,0.2,0.1,6.6,2.5,1.1
+191,50,O,31920,California Ave SW & SW Admiral Way,12,MID,2.4,1,8,33.5,13.3
+191,50,O,31930,California Ave SW & SW Lander St,13,MID,1.2,0.2,9,16.7,2.6
+191,50,O,31950,California Ave SW & SW Hanford St,14,MID,1.6,0.3,10.3,21.8,3.8
+191,50,O,31970,California Ave SW & SW Spokane St,15,MID,1,0.1,11.1,14.7,1.8
+191,50,O,31980,California Ave SW & SW Charlestown St,16,MID,0.3,0.1,11.3,4.8,1.7
+191,50,O,31990,California Ave SW & SW Andover St,17,MID,0.2,0.1,11.5,3.1,1.4
+191,50,O,32000,California Ave SW & SW Dakota St,18,MID,0.2,0.1,11.5,2.4,2.1
+191,50,O,32010,California Ave SW & SW Genesee St,19,MID,0.1,0.3,11.3,0.9,4.5
+191,50,O,37220,SW Oregon St & 44th Ave SW,20,MID,0.1,0.4,11,1.6,6.1
+191,50,O,31811,SW Alaska St & 44th Ave SW - Bay 2,21,MID,1.8,5,7.7,26.3,75.3
+191,50,O,19875,SW Alaska St & 42nd Ave SW,22,MID,0.8,0.4,8.1,11.9,6.6
+191,50,O,33220,SW Alaska St & Fauntleroy Way SW,23,MID,0.9,0.7,8.2,13.1,11
+191,50,O,33221,SW Alaska St & 36th Ave SW,24,MID,0.7,0.4,8.5,10.8,6.7
+191,50,O,22820,35th Ave SW & SW Avalon Way,25,MID,0.6,0.9,8.1,8.6,12.1
+191,50,O,19922,SW Genesee St & 30th Ave SW,26,MID,0.1,0.3,8,1.8,3.9
+191,50,O,21600,Delridge Way SW & SW Genesee St,27,MID,0.5,1,7.7,6.9,13.3
+191,50,O,21620,Delridge Way SW & SW Andover St,28,MID,0.8,0.5,8,11.7,7.6
+191,50,O,15190,1st Ave S & S Spokane St,29,MID,0.1,0.5,8,1.4,7.5
+191,50,O,15205,1st Ave S & S Hanford St,30,MID,0.3,0.3,8,4.9,4.5
+191,50,O,15230,1st Ave S & S Lander St,31,MID,0.2,1.9,6.3,3.1,28.8
+191,50,O,99263,SODO Busway & S Lander St,32,MID,0.7,2.9,4.1,9.9,42.9
+191,50,O,99253,SODO Busway & S Spokane St,33,MID,1.1,0.4,4.8,17.2,5.7
+191,50,O,30770,S Columbian Way & S Spokane St,34,MID,0.1,0.2,4.7,1.2,2.3
+191,50,O,30790,15th Ave S & S Dakota St,35,MID,0.1,0.2,4.6,2,3.1
+191,50,O,30800,15th Ave S & S Nevada St,36,MID,0.3,0.2,4.7,4.5,3.1
+191,50,O,30453,Veterans Administration Hospital,37,MID,0.7,1.5,3.9,9.8,21.4
+191,50,O,30820,S Columbian Way & S Snoqualmie St,38,MID,0.7,0.1,4.3,10.8,1.2
+191,50,O,30830,S Columbian Way & S Angeline St,39,MID,0,0,4.3,0.2,0.5
+191,50,O,36680,S Columbian Way & Beacon Ave S,40,MID,0.5,0.4,4.4,7.3,6.6
+191,50,O,36690,S Columbian Way & S Americus St,41,MID,0.1,0,4.4,1.3,0.5
+191,50,O,36700,S Alaska St & S Alaska Pl,42,MID,0,0.4,4,0.2,6.1
+191,50,O,36711,S Alaska St & Martin Luther King Jr Way S,43,MID,0.7,0.7,4,9.8,10.6
+191,50,O,36720,S Alaska St & 35th Ave S,44,MID,0.1,0.6,3.5,1.8,9.4
+191,50,O,8310,Rainier Ave S & S Alaska St,45,MID,0.2,0.6,3.1,2.8,9
+191,50,O,34910,S Genesee St & 36th Ave S,46,MID,0.8,0.8,3,11.9,12.4
+191,50,O,34920,S Genesee St & 38th Ave S,47,MID,0.1,0.1,3,1,1.5
+191,50,O,34930,S Genesee St & Cascadia Ave S,48,MID,0.3,0.1,3.1,3.8,2.2
+191,50,O,34940,S Genesee St & 42nd Ave S,49,MID,0,0,3.1,0.4,0.4
+191,50,O,34950,S Genesee St & 45th Ave S,50,MID,0,0.1,3,0.1,0.8
+191,50,O,34960,S Genesee St & 46th Ave S,51,MID,0,0.1,3,0,0.9
+191,50,O,34970,S Genesee St & 48th Ave S,52,MID,0,0.1,2.9,0.1,1
+191,50,O,34980,50th Ave S & S Genesee St,53,MID,0,0.3,2.6,0.4,3.8
+191,50,O,34990,50th Ave S & S Snoqualmie St,54,MID,0,0,2.5,0,0.2
+191,50,O,35000,50th Ave S & S Alaska St,55,MID,0,0.2,2.4,0.2,2.3
+191,50,O,35010,50th Ave S & S Angeline St,56,MID,0,0,2.3,0.1,0.2
+191,50,O,35020,Wilson Ave S & S Hudson St,57,MID,0,0.2,2.2,0.1,2.4
+191,50,O,35030,Wilson Ave S & S Dawson St,58,MID,0.1,0.6,1.7,1.8,8.5
+191,50,O,35040,Wilson Ave S & S Brandon St,59,MID,0,0,1.7,0.1,0.6
+191,50,O,35050,Wilson Ave S & S Findlay St,60,MID,0,0.1,1.7,0.1,1
+191,50,O,35060,S Orcas St & 55th Ave S,61,MID,0,0.1,1.6,0.4,0.7
+191,50,O,35070,Seward Park Ave S & S Orcas St,62,MID,0.1,0.2,1.5,1.3,3
+191,50,O,35080,Seward Park Ave S & S Juneau St,63,MID,0.1,0.2,1.4,0.8,3.1
+191,50,O,35090,Seward Park Ave S & S Hawthorne Rd,64,MID,0,0,1.4,0.1,0
+191,50,O,35100,Seward Park Ave S & Oakhurst Rd S,65,MID,0,0,1.4,0.4,0.6
+191,50,O,35110,Seward Park Ave S & S Morgan St,66,MID,0.1,0.1,1.3,0.8,1.1
+191,50,O,35120,Seward Park Ave S & S Holly St,67,MID,0,0,1.3,0.3,0.2
+191,50,O,35130,Seward Park Ave S & S Willow St,68,MID,0,0,1.4,0.4,0.2
+191,50,O,35140,Seward Park Ave S & S Myrtle St,69,MID,0,0,1.3,0.2,0.4
+191,50,O,35149,Seward Park Ave S & S Othello St,70,MID,0.1,0.1,1.3,0.9,1.3
+191,50,O,45610,S Othello St & Rainier Ave S,71,MID,0.5,0.2,1.6,7.2,3.1
+191,50,O,45620,S Othello St & 48th Ave S,72,MID,0,0.1,1.6,0.6,0.9
+191,50,O,45630,S Othello St & 46th Ave S,73,MID,0,0,1.7,0.3,0.4
+191,50,O,45640,S Othello St & 44th Ave S,74,MID,0,0.2,1.6,0,2.7
+191,50,O,45651,S Othello St & Martin L King Jr Way S,75,MID,0,1.6,0,0.4,24.6
+191,50,I,56151,Martin L King Jr Way S & S Myrtle St,1,PM,1.2,0.1,1.1,11.6,0.7
+191,50,I,46130,S Othello St & 42nd Ave S,2,PM,3.1,0.3,3.8,30.5,3.1
+191,50,I,46140,S Othello St & 44th Ave S,3,PM,0.1,0,3.9,1.3,0.2
+191,50,I,46150,S Othello St & 46th Ave S,4,PM,0.1,0,4,0.5,0.3
+191,50,I,46160,S Othello St & 48th Ave S,5,PM,0,0.5,3.5,0.3,5.3
+191,50,I,46165,S Othello St & Rainier Ave S,6,PM,0.2,1.2,2.4,1.9,12.2
+191,50,I,34640,Seward Park Ave S & S Othello St,7,PM,0.1,0.3,2.2,0.7,3.1
+191,50,I,34650,Seward Park Ave S & S Myrtle St,8,PM,0.1,0.2,2.1,0.7,1.5
+191,50,I,34660,Seward Park Ave S & S Willow St,9,PM,0,0.1,2,0,1.4
+191,50,I,34680,Seward Park Ave S & S Holly St,10,PM,0,0.3,1.8,0.1,2.5
+191,50,I,34690,Seward Park Ave S & Wilson Ave S,11,PM,0,0.1,1.7,0.2,1
+191,50,I,34700,Seward Park Ave S & 57th Ave S,12,PM,0,0.1,1.6,0,0.6
+191,50,I,34710,Seward Park Ave S & S Hawthorne Rd,13,PM,0,0,1.6,0,0
+191,50,I,34720,Seward Park Ave S & Lakeshore Dr S,14,PM,0,0,1.6,0.1,0.3
+191,50,I,34730,Seward Park Ave S & S Juneau St,15,PM,0.2,0.1,1.7,2.1,1.3
+191,50,I,34740,Seward Park Ave S & S Orcas St,16,PM,0.1,0.1,1.7,1.4,1.3
+191,50,I,34750,Seward Park Ave S & 56th Ave S,17,PM,0,0,1.7,0,0
+191,50,I,34760,S Dawson St & 54th Ave S,18,PM,0,0,1.7,0.4,0.4
+191,50,I,34770,S Dawson St & 51st Ave S,19,PM,0.6,0.2,2.1,5.9,2.4
+191,50,I,34780,50th Ave S & S Hudson St,20,PM,0.1,0,2.2,1.4,0.2
+191,50,I,34790,50th Ave S & S Ferdinand St,21,PM,0.1,0,2.2,0.5,0.3
+191,50,I,34800,50th Ave S & S Alaska St,22,PM,0.2,0,2.4,1.8,0
+191,50,I,34810,50th Ave S & S Oregon St,23,PM,0,0,2.4,0.1,0
+191,50,I,34820,S Genesee St & 50th Ave S,24,PM,0.4,0.1,2.7,3.8,0.5
+191,50,I,34830,S Genesee St & 48th Ave S,25,PM,0,0.1,2.7,0.4,0.5
+191,50,I,34840,S Genesee St & 47th Ave S,26,PM,0,0,2.7,0.4,0
+191,50,I,34850,S Genesee St & 45th Ave S,27,PM,0.1,0,2.8,1.3,0.1
+191,50,I,34860,S Genesee St & 43rd Ave S,28,PM,0,0,2.9,0.3,0
+191,50,I,34870,S Genesee St & 41st Ave S,29,PM,0.1,0,2.9,0.5,0.2
+191,50,I,34880,S Genesee St & 39th Ave S,30,PM,0.2,0.1,3.1,2.1,0.5
+191,50,I,34881,S Genesee St & 37th Ave S,31,PM,0.2,0.3,3.1,2.2,2.6
+191,50,I,8760,Rainier Ave S & S Genesee St,32,PM,1.7,0.3,4.4,16.6,3.2
+191,50,I,35960,S Alaska St & 35th Ave S,33,PM,1.1,0.4,5.1,10.5,3.6
+191,50,I,35979,S Alaska St & Martin L King Jr Way S,34,PM,0.6,1.2,4.5,6,11.8
+191,50,I,35990,S Columbian Way & S Americus St,35,PM,0,0,4.3,0.1,0.4
+191,50,I,30460,S Columbian Way & Beacon Ave S,36,PM,0.5,0.6,4.2,5,6.7
+191,50,I,30470,S Columbian Way & S Angeline St,37,PM,0,0,4.2,0,0.1
+191,50,I,30453,Veterans Administration Hospital,38,PM,2.7,0.2,6.8,30.2,1.9
+191,50,I,30480,S Columbian Way & Veterans Administration Hospital Rd,39,PM,0.6,0.1,7.2,6.1,1.5
+191,50,I,30490,S Columbian Way & S Oregon St,40,PM,0.4,0.4,7.1,4.1,4.2
+191,50,I,30510,15th Ave S & S Dakota St,41,PM,0.7,0.3,7.5,7.2,2.9
+191,50,I,30520,S Columbian Way & 15th Ave S,42,PM,0.1,0.1,7.6,1.5,1.5
+191,50,I,30530,S Columbian Way & S Spokane St,43,PM,0.2,0,7.8,2.4,0.4
+191,50,I,99252,SODO Busway & S Spokane St,44,PM,2.1,2,7.8,23.2,22.1
+191,50,I,99254,SODO Busway & S Lander St,45,PM,4.4,1.9,10.8,44.3,19.3
+191,50,I,15380,1st Ave S & S Lander St,46,PM,5.7,0.4,16.2,57.3,3.7
+191,50,I,15395,1st Ave S & S Hanford St,47,PM,1.3,0.1,16.7,14.8,1.4
+191,50,I,21990,Delridge Way SW & SW Andover St,48,PM,0.9,2.1,15.5,10,23.2
+191,50,I,22009,Delridge Way SW & SW Genesee St,49,PM,1,0.7,15.9,10.5,7.9
+191,50,I,19978,SW Genesee St & 30th Ave SW,50,PM,0.2,0.4,15.7,2.5,4.8
+191,50,I,22830,35th Ave SW & SW Avalon Way,51,PM,1.2,2.1,14.6,12.7,23.4
+191,50,I,22850,SW Alaska St & 35th Ave SW,52,PM,0.2,0.4,14.5,1.9,3.9
+191,50,I,32364,SW Alaska St & Fauntleroy Way SW,53,PM,0.9,1.5,13.9,9.9,16.2
+191,50,I,20040,SW Alaska St & 42nd Ave SW,54,PM,0.6,3.5,11,6.3,38.7
+191,50,I,32011,SW Alaska St & 44th Ave SW - Bay 4,55,PM,4.8,2.2,13.6,52.9,23.7
+191,50,I,31818,SW Oregon St & California Ave SW,56,PM,0.2,0.3,13.6,2.7,2.9
+191,50,I,31830,California Ave SW & SW Genesee St,57,PM,0.4,0.3,13.7,3.9,2.8
+191,50,I,31840,California Ave SW & SW Dakota St,58,PM,0.1,0.4,13.4,0.9,4.8
+191,50,I,31850,California Ave SW & SW Andover St,59,PM,0.1,0.5,13,0.7,4.7
+191,50,I,31861,California Ave SW & SW Charlestown St,60,PM,0.1,1.2,11.9,0.9,11.7
+191,50,I,31871,California Ave SW & SW Spokane St,61,PM,0.4,0.8,11.8,4.3,8.6
+191,50,I,31890,California Ave SW & SW Hanford St,62,PM,0.2,1.5,10.5,2.2,16.2
+191,50,I,31900,California Ave SW & SW Stevens St,63,PM,0.2,0.3,10.4,2.1,3.7
+191,50,I,31910,California Ave SW & SW Lander St,64,PM,0.2,1.6,9.1,2.7,17.5
+191,50,I,15540,SW Admiral Way & California Ave SW,65,PM,1.2,1.9,8.4,13.6,20.7
+191,50,I,15560,SW Admiral Way & 46th Ave SW,66,PM,0,0.5,8,0.2,5
+191,50,I,15570,SW Admiral Way & SW Waite St,67,PM,0,0.2,7.8,0.3,2
+191,50,I,15580,SW Admiral Way & 49th Ave SW,68,PM,0,0.1,7.7,0.2,1.1
+191,50,I,15588,SW Admiral Way & 51st Ave SW,69,PM,0,0.1,7.6,0.1,1.2
+191,50,I,15610,SW Admiral Way & SW Lander St,70,PM,0,0.4,7.3,0,4.2
+191,50,I,15630,SW Admiral Way & 57th Ave SW,71,PM,0,0.6,6.7,0,6.4
+191,50,I,15650,SW Admiral Way & 61st Ave SW,72,PM,0,1.9,4.9,0.1,20.8
+191,50,I,15651,63rd Ave SW & SW Admiral Way,73,PM,0,0.6,4.2,0,6.7
+191,50,I,15652,63rd Ave SW & Alki Ave SW,74,PM,0,1,3.3,0,10.7
+191,50,I,14960,Alki Ave SW & 61st Ave SW,75,PM,0.1,3.4,0,0.9,37.2
+191,50,O,14960,Alki Ave SW & 61st Ave SW,1,PM,4.7,0,4.7,52,0
+191,50,O,14961,61st Ave SW & SW Stevens St,2,PM,0.4,0,5,4,0.5
+191,50,O,14962,61st Ave SW & SW Admiral Way,3,PM,0.3,0,5.3,2.9,0.2
+191,50,O,14963,SW Admiral Way & 60th Ave SW,4,PM,0.2,0,5.4,1.8,0
+191,50,O,14970,SW Admiral Way & 59th Ave SW,5,PM,0.4,0,5.8,4.4,0
+191,50,O,14980,SW Admiral Way & 57th Ave SW,6,PM,0.1,0,5.9,0.9,0
+191,50,O,15000,SW Admiral Way & SW Stevens St,7,PM,0.1,0,6,1.5,0
+191,50,O,15002,SW Admiral Way & 51st Ave SW,8,PM,0.1,0,6.1,1,0.1
+191,50,O,15030,SW Admiral Way & SW Lander St,9,PM,0.1,0,6.2,0.6,0.2
+191,50,O,15040,SW Admiral Way & 47th Ave SW,10,PM,0.3,0.1,6.5,3.8,0.7
+191,50,O,15050,SW Admiral Way & 45th Ave SW,11,PM,0.4,0.1,6.7,4.1,1.2
+191,50,O,31920,California Ave SW & SW Admiral Way,12,PM,3.1,0.7,9.1,34.3,8.2
+191,50,O,31930,California Ave SW & SW Lander St,13,PM,2.5,0.1,11.5,27.5,1.1
+191,50,O,31950,California Ave SW & SW Hanford St,14,PM,2.2,0.2,13.5,24.7,2.7
+191,50,O,31970,California Ave SW & SW Spokane St,15,PM,1.7,0.2,15,18.9,2.5
+191,50,O,31980,California Ave SW & SW Charlestown St,16,PM,0.5,0.3,15.3,5.6,2.9
+191,50,O,31990,California Ave SW & SW Andover St,17,PM,0.2,0.2,15.3,2.2,1.8
+191,50,O,32000,California Ave SW & SW Dakota St,18,PM,0.2,0.2,15.3,2.2,2.6
+191,50,O,32010,California Ave SW & SW Genesee St,19,PM,0.1,0.3,15.1,1.3,2.8
+191,50,O,37220,SW Oregon St & 44th Ave SW,20,PM,0.1,0.4,14.8,1.2,4.8
+191,50,O,31811,SW Alaska St & 44th Ave SW - Bay 2,21,PM,1.9,6.1,10.7,21.4,66.6
+191,50,O,19875,SW Alaska St & 42nd Ave SW,22,PM,1.6,0.8,11.4,17.4,9
+191,50,O,33220,SW Alaska St & Fauntleroy Way SW,23,PM,0.9,0.8,11.5,9.4,9.2
+191,50,O,33221,SW Alaska St & 36th Ave SW,24,PM,0.3,0.4,11.4,3,4.4
+191,50,O,22820,35th Ave SW & SW Avalon Way,25,PM,0.6,1.3,10.6,6.9,15.3
+191,50,O,19922,SW Genesee St & 30th Ave SW,26,PM,0.2,0.4,10.3,1.8,5.1
+191,50,O,21600,Delridge Way SW & SW Genesee St,27,PM,0.6,3.2,7.9,7.6,38.1
+191,50,O,21620,Delridge Way SW & SW Andover St,28,PM,1,0.7,8.2,12,7.9
+191,50,O,15190,1st Ave S & S Spokane St,29,PM,0.2,0.3,8.1,2.8,4.1
+191,50,O,15205,1st Ave S & S Hanford St,30,PM,0.5,0.2,8.3,5.4,2.6
+191,50,O,15230,1st Ave S & S Lander St,31,PM,0.8,0.8,8.4,9.3,9.4
+191,50,O,99263,SODO Busway & S Lander St,32,PM,1.4,3.5,6.4,15,38.7
+191,50,O,99253,SODO Busway & S Spokane St,33,PM,1.6,0.5,7.6,18.1,5
+191,50,O,30770,S Columbian Way & S Spokane St,34,PM,0.2,0.6,7.1,1.9,7.3
+191,50,O,30790,15th Ave S & S Dakota St,35,PM,0.3,0.5,6.8,3.2,6.5
+191,50,O,30800,15th Ave S & S Nevada St,36,PM,1.1,0.9,7.1,13.7,10.5
+191,50,O,30453,Veterans Administration Hospital,37,PM,0.8,0.3,7.7,10.1,3
+191,50,O,30820,S Columbian Way & S Snoqualmie St,38,PM,2.7,0.2,10.2,32.3,2
+191,50,O,30830,S Columbian Way & S Angeline St,39,PM,0,0.3,10,0.5,3.6
+191,50,O,36680,S Columbian Way & Beacon Ave S,40,PM,0.4,1,9.3,4.4,12.5
+191,50,O,36690,S Columbian Way & S Americus St,41,PM,0.1,0.1,9.2,0.7,1.3
+191,50,O,36700,S Alaska St & S Alaska Pl,42,PM,0.1,0.9,8.4,0.6,10.9
+191,50,O,36711,S Alaska St & Martin Luther King Jr Way S,43,PM,3,1.8,9.6,35.6,21.2
+191,50,O,36720,S Alaska St & 35th Ave S,44,PM,0.3,1.3,8.6,3.2,15.6
+191,50,O,8310,Rainier Ave S & S Alaska St,45,PM,0.6,1.3,7.9,7.2,15.2
+191,50,O,34910,S Genesee St & 36th Ave S,46,PM,1.8,1.3,8.4,21.6,15.4
+191,50,O,34920,S Genesee St & 38th Ave S,47,PM,0.2,0.3,8.3,1.9,3.4
+191,50,O,34930,S Genesee St & Cascadia Ave S,48,PM,0,0.5,7.9,0.4,6
+191,50,O,34940,S Genesee St & 42nd Ave S,49,PM,0,0.3,7.6,0.2,3.5
+191,50,O,34950,S Genesee St & 45th Ave S,50,PM,0,0.1,7.5,0.1,1.3
+191,50,O,34960,S Genesee St & 46th Ave S,51,PM,0,0.5,7.1,0.2,5.7
+191,50,O,34970,S Genesee St & 48th Ave S,52,PM,0,0.4,6.7,0,4.4
+191,50,O,34980,50th Ave S & S Genesee St,53,PM,0,0.9,5.7,0.6,11.1
+191,50,O,34990,50th Ave S & S Snoqualmie St,54,PM,0,0.1,5.6,0,1.5
+191,50,O,35000,50th Ave S & S Alaska St,55,PM,0,0.5,5.1,0.1,6.8
+191,50,O,35010,50th Ave S & S Angeline St,56,PM,0,0.1,4.9,0.1,1.9
+191,50,O,35020,Wilson Ave S & S Hudson St,57,PM,0,0.3,4.6,0.1,4.4
+191,50,O,35030,Wilson Ave S & S Dawson St,58,PM,0.1,1.3,3.4,1.1,16.3
+191,50,O,35040,Wilson Ave S & S Brandon St,59,PM,0,0.2,3.3,0.2,2.5
+191,50,O,35050,Wilson Ave S & S Findlay St,60,PM,0,0.2,3.1,0.1,2.3
+191,50,O,35060,S Orcas St & 55th Ave S,61,PM,0,0.2,3,0,2
+191,50,O,35070,Seward Park Ave S & S Orcas St,62,PM,0.1,0.5,2.5,0.7,7.1
+191,50,O,35080,Seward Park Ave S & S Juneau St,63,PM,0.2,0.2,2.6,2.1,2.9
+191,50,O,35090,Seward Park Ave S & S Hawthorne Rd,64,PM,0,0.1,2.4,0.1,1.7
+191,50,O,35100,Seward Park Ave S & Oakhurst Rd S,65,PM,0,0.1,2.3,0.2,1.3
+191,50,O,35110,Seward Park Ave S & S Morgan St,66,PM,0,0.2,2.1,0.1,2.7
+191,50,O,35120,Seward Park Ave S & S Holly St,67,PM,0,0.1,2,0.1,1.2
+191,50,O,35130,Seward Park Ave S & S Willow St,68,PM,0,0.1,2,0.1,0.8
+191,50,O,35140,Seward Park Ave S & S Myrtle St,69,PM,0,0.1,1.9,0.2,1.2
+191,50,O,35149,Seward Park Ave S & S Othello St,70,PM,0.1,0.1,1.9,1.2,1
+191,50,O,45610,S Othello St & Rainier Ave S,71,PM,0.6,0.6,1.9,7.7,6.8
+191,50,O,45620,S Othello St & 48th Ave S,72,PM,0,0.1,1.9,0.5,1.1
+191,50,O,45630,S Othello St & 46th Ave S,73,PM,0,0.2,1.8,0.1,2.2
+191,50,O,45640,S Othello St & 44th Ave S,74,PM,0,0.2,1.7,0,1.9
+191,50,O,45651,S Othello St & Martin L King Jr Way S,75,PM,0.1,1.8,0,0.9,21.5
+191,50,I,56151,Martin L King Jr Way S & S Myrtle St,1,XEV,0.4,0,0.4,2,0
+191,50,I,46130,S Othello St & 42nd Ave S,2,XEV,1.6,0,2,9.7,0
+191,50,I,46140,S Othello St & 44th Ave S,3,XEV,0,0,2,0.2,0
+191,50,I,46150,S Othello St & 46th Ave S,4,XEV,0,0,2.1,0.1,0
+191,50,I,46160,S Othello St & 48th Ave S,5,XEV,0,0.3,1.8,0.1,1.8
+191,50,I,46165,S Othello St & Rainier Ave S,6,XEV,0.1,0.7,1.3,0.7,3.9
+191,50,I,34640,Seward Park Ave S & S Othello St,7,XEV,0,0.1,1.2,0,0.6
+191,50,I,34650,Seward Park Ave S & S Myrtle St,8,XEV,0,0.1,1.2,0,0.3
+191,50,I,34660,Seward Park Ave S & S Willow St,9,XEV,0,0,1.2,0,0.1
+191,50,I,34680,Seward Park Ave S & S Holly St,10,XEV,0,0.1,1,0,0.6
+191,50,I,34690,Seward Park Ave S & Wilson Ave S,11,XEV,0,0.1,0.9,0,0.7
+191,50,I,34700,Seward Park Ave S & 57th Ave S,12,XEV,0,0,0.9,0.1,0.2
+191,50,I,34710,Seward Park Ave S & S Hawthorne Rd,13,XEV,0,0,0.9,0,0
+191,50,I,34720,Seward Park Ave S & Lakeshore Dr S,14,XEV,0,0,0.8,0,0.1
+191,50,I,34730,Seward Park Ave S & S Juneau St,15,XEV,0.2,0,1,1.3,0
+191,50,I,34740,Seward Park Ave S & S Orcas St,16,XEV,0.1,0.1,1,0.8,0.7
+191,50,I,34750,Seward Park Ave S & 56th Ave S,17,XEV,0,0,1.1,0.1,0
+191,50,I,34760,S Dawson St & 54th Ave S,18,XEV,0,0,1.1,0.2,0.1
+191,50,I,34770,S Dawson St & 51st Ave S,19,XEV,0.3,0.1,1.3,2,0.6
+191,50,I,34780,50th Ave S & S Hudson St,20,XEV,0.1,0,1.4,0.3,0
+191,50,I,34790,50th Ave S & S Ferdinand St,21,XEV,0,0,1.4,0.1,0
+191,50,I,34800,50th Ave S & S Alaska St,22,XEV,0.1,0,1.5,0.7,0
+191,50,I,34810,50th Ave S & S Oregon St,23,XEV,0,0,1.5,0,0
+191,50,I,34820,S Genesee St & 50th Ave S,24,XEV,0.1,0,1.5,0.5,0.2
+191,50,I,34830,S Genesee St & 48th Ave S,25,XEV,0,0,1.5,0,0
+191,50,I,34840,S Genesee St & 47th Ave S,26,XEV,0,0,1.6,0,0
+191,50,I,34850,S Genesee St & 45th Ave S,27,XEV,0,0,1.6,0.1,0
+191,50,I,34860,S Genesee St & 43rd Ave S,28,XEV,0,0,1.6,0.2,0.1
+191,50,I,34870,S Genesee St & 41st Ave S,29,XEV,0.1,0,1.7,0.6,0
+191,50,I,34880,S Genesee St & 39th Ave S,30,XEV,0,0,1.7,0,0
+191,50,I,34881,S Genesee St & 37th Ave S,31,XEV,0,0.1,1.6,0.2,0.7
+191,50,I,8760,Rainier Ave S & S Genesee St,32,XEV,0.8,0.2,2.2,4.5,1.1
+191,50,I,35960,S Alaska St & 35th Ave S,33,XEV,0.7,0.2,2.6,4,1
+191,50,I,35979,S Alaska St & Martin L King Jr Way S,34,XEV,0.4,0.6,2.5,2.4,3.3
+191,50,I,35990,S Columbian Way & S Americus St,35,XEV,0,0,2.5,0,0
+191,50,I,30460,S Columbian Way & Beacon Ave S,36,XEV,0.1,0.4,2.3,0.7,2.2
+191,50,I,30470,S Columbian Way & S Angeline St,37,XEV,0,0,2.3,0,0.1
+191,50,I,30453,Veterans Administration Hospital,38,XEV,0.3,0.1,2.5,1.8,0.6
+191,50,I,30480,S Columbian Way & Veterans Administration Hospital Rd,39,XEV,0.1,0,2.5,0.4,0.1
+191,50,I,30490,S Columbian Way & S Oregon St,40,XEV,0.1,0.2,2.4,0.6,1.4
+191,50,I,30510,15th Ave S & S Dakota St,41,XEV,0.1,0.2,2.4,0.8,1
+191,50,I,30520,S Columbian Way & 15th Ave S,42,XEV,0,0.1,2.3,0.2,0.6
+191,50,I,30530,S Columbian Way & S Spokane St,43,XEV,0.3,0,2.5,1.5,0.2
+191,50,I,99252,SODO Busway & S Spokane St,44,XEV,0.4,0.4,2.5,2.4,2.3
+191,50,I,99254,SODO Busway & S Lander St,45,XEV,2,0.4,4.1,14.1,3
+191,50,I,15380,1st Ave S & S Lander St,46,XEV,0.9,0.2,5.1,5.6,0.9
+191,50,I,15395,1st Ave S & S Hanford St,47,XEV,0.6,0.3,5.5,3.7,1.6
+191,50,I,21990,Delridge Way SW & SW Andover St,48,XEV,0.5,0.5,5.6,3.1,2.7
+191,50,I,22009,Delridge Way SW & SW Genesee St,49,XEV,0.4,0.4,5.6,2.3,2.2
+191,50,I,19978,SW Genesee St & 30th Ave SW,50,XEV,0.3,0.1,5.8,2,0.8
+191,50,I,22830,35th Ave SW & SW Avalon Way,51,XEV,0.8,0.5,6,4.5,3.2
+191,50,I,22850,SW Alaska St & 35th Ave SW,52,XEV,0.1,0.1,6,0.7,0.7
+191,50,I,32364,SW Alaska St & Fauntleroy Way SW,53,XEV,0.8,0.5,6.4,5,2.7
+191,50,I,20040,SW Alaska St & 42nd Ave SW,54,XEV,0.6,1.1,5.8,3.4,6.7
+191,50,I,32011,SW Alaska St & 44th Ave SW - Bay 4,55,XEV,4.6,0.9,9.5,27.7,5.3
+191,50,I,31818,SW Oregon St & California Ave SW,56,XEV,0.3,0.1,9.8,1.9,0.3
+191,50,I,31830,California Ave SW & SW Genesee St,57,XEV,0.2,0.1,9.9,1.4,0.4
+191,50,I,31840,California Ave SW & SW Dakota St,58,XEV,0.1,0.3,9.7,0.3,2
+191,50,I,31850,California Ave SW & SW Andover St,59,XEV,0,0.2,9.9,0.3,1.6
+191,50,I,31861,California Ave SW & SW Charlestown St,60,XEV,0.1,0.8,9.2,0.6,5.6
+191,50,I,31871,California Ave SW & SW Spokane St,61,XEV,0,0.4,8.9,0.1,2.7
+191,50,I,31890,California Ave SW & SW Hanford St,62,XEV,0,0.9,8,0.1,6.1
+191,50,I,31900,California Ave SW & SW Stevens St,63,XEV,0,0.2,7.9,0.1,1.5
+191,50,I,31910,California Ave SW & SW Lander St,64,XEV,0.1,0.9,7.1,0.5,6.1
+191,50,I,15540,SW Admiral Way & California Ave SW,65,XEV,0.6,2.2,5.5,4.3,15.4
+191,50,I,15560,SW Admiral Way & 46th Ave SW,66,XEV,0,0.2,5.3,0.1,1.2
+191,50,I,15570,SW Admiral Way & SW Waite St,67,XEV,0,0.3,5,0,1.9
+191,50,I,15580,SW Admiral Way & 49th Ave SW,68,XEV,0,0.1,4.9,0,1
+191,50,I,15588,SW Admiral Way & 51st Ave SW,69,XEV,0,0.2,4.8,0,1.2
+191,50,I,15610,SW Admiral Way & SW Lander St,70,XEV,0,0.2,4.6,0,1.2
+191,50,I,15630,SW Admiral Way & 57th Ave SW,71,XEV,0,0.3,4.3,0,1.8
+191,50,I,15650,SW Admiral Way & 61st Ave SW,72,XEV,0,1,3.3,0.1,6.2
+191,50,I,15651,63rd Ave SW & SW Admiral Way,73,XEV,0,0.2,3.1,0,1.3
+191,50,I,15652,63rd Ave SW & Alki Ave SW,74,XEV,0,0.6,2.4,0,3.8
+191,50,I,14960,Alki Ave SW & 61st Ave SW,75,XEV,0,2.4,0,0,14.6
+191,50,O,14960,Alki Ave SW & 61st Ave SW,1,XEV,4.2,0,4.2,25.2,0
+191,50,O,14961,61st Ave SW & SW Stevens St,2,XEV,0.2,0,4.4,1.1,0
+191,50,O,14962,61st Ave SW & SW Admiral Way,3,XEV,0.1,0,4.5,0.6,0
+191,50,O,14963,SW Admiral Way & 60th Ave SW,4,XEV,0.1,0,4.6,0.6,0
+191,50,O,14970,SW Admiral Way & 59th Ave SW,5,XEV,0.3,0,4.9,1.8,0
+191,50,O,14980,SW Admiral Way & 57th Ave SW,6,XEV,0.1,0,5.1,0.7,0
+191,50,O,15000,SW Admiral Way & SW Stevens St,7,XEV,0.1,0,5.1,0.3,0
+191,50,O,15002,SW Admiral Way & 51st Ave SW,8,XEV,0.1,0,5.2,0.3,0
+191,50,O,15030,SW Admiral Way & SW Lander St,9,XEV,0,0,5.2,0,0
+191,50,O,15040,SW Admiral Way & 47th Ave SW,10,XEV,0.2,0,5.3,1,0.2
+191,50,O,15050,SW Admiral Way & 45th Ave SW,11,XEV,0,0.1,5.3,0.1,0.3
+191,50,O,31920,California Ave SW & SW Admiral Way,12,XEV,1.8,0.6,6.5,10.9,3.6
+191,50,O,31930,California Ave SW & SW Lander St,13,XEV,0.6,0.1,7,3.3,0.3
+191,50,O,31950,California Ave SW & SW Hanford St,14,XEV,0.5,0.2,7.3,2.8,0.9
+191,50,O,31970,California Ave SW & SW Spokane St,15,XEV,0.2,0.1,7.4,1.2,0.5
+191,50,O,31980,California Ave SW & SW Charlestown St,16,XEV,0.2,0.1,7.4,0.9,0.7
+191,50,O,31990,California Ave SW & SW Andover St,17,XEV,0.1,0.2,7.4,0.8,1
+191,50,O,32000,California Ave SW & SW Dakota St,18,XEV,0,0.1,7.3,0,0.3
+191,50,O,32010,California Ave SW & SW Genesee St,19,XEV,0,0.1,7.2,0,0.5
+191,50,O,37220,SW Oregon St & 44th Ave SW,20,XEV,0.1,0.2,7.1,0.3,1
+191,50,O,31811,SW Alaska St & 44th Ave SW - Bay 2,21,XEV,1.2,2.5,5.8,7.3,15.2
+191,50,O,19875,SW Alaska St & 42nd Ave SW,22,XEV,1,0.3,6.5,6.2,1.6
+191,50,O,33220,SW Alaska St & Fauntleroy Way SW,23,XEV,0.8,0.5,6.7,4.6,3.1
+191,50,O,33221,SW Alaska St & 36th Ave SW,24,XEV,0.1,0.3,6.5,0.6,1.9
+191,50,O,22820,35th Ave SW & SW Avalon Way,25,XEV,0.5,0.7,6.3,3,4.1
+191,50,O,19922,SW Genesee St & 30th Ave SW,26,XEV,0.2,0.4,6.1,1.2,2.6
+191,50,O,21600,Delridge Way SW & SW Genesee St,27,XEV,0.2,1.1,5.2,1.2,6.7
+191,50,O,21620,Delridge Way SW & SW Andover St,28,XEV,0.6,0.4,5.4,3.5,2.1
+191,50,O,15190,1st Ave S & S Spokane St,29,XEV,0.1,0.6,5,0.8,3.5
+191,50,O,15205,1st Ave S & S Hanford St,30,XEV,0.1,0.1,5,0.5,0.7
+191,50,O,15230,1st Ave S & S Lander St,31,XEV,0.2,0.4,4.8,1.1,2.1
+191,50,O,99263,SODO Busway & S Lander St,32,XEV,0.7,1.9,3.8,5.2,13.6
+191,50,O,99253,SODO Busway & S Spokane St,33,XEV,0.6,0.5,4,3.7,3.2
+191,50,O,30770,S Columbian Way & S Spokane St,34,XEV,0,0.3,3.7,0.2,2
+191,50,O,30790,15th Ave S & S Dakota St,35,XEV,0,0.3,3.5,0.2,2
+191,50,O,30800,15th Ave S & S Nevada St,36,XEV,0,0.5,3,0.2,2.9
+191,50,O,30453,Veterans Administration Hospital,37,XEV,0.1,0.2,2.9,0.7,1.2
+191,50,O,30820,S Columbian Way & S Snoqualmie St,38,XEV,0.3,0.1,3.1,1.6,0.3
+191,50,O,30830,S Columbian Way & S Angeline St,39,XEV,0,0.1,3,0,0.5
+191,50,O,36680,S Columbian Way & Beacon Ave S,40,XEV,0.1,0.5,2.7,0.4,2.8
+191,50,O,36690,S Columbian Way & S Americus St,41,XEV,0,0,2.7,0,0
+191,50,O,36700,S Alaska St & S Alaska Pl,42,XEV,0,0.2,2.5,0,1.2
+191,50,O,36711,S Alaska St & Martin Luther King Jr Way S,43,XEV,1.2,0.4,3.3,7.2,2.6
+191,50,O,36720,S Alaska St & 35th Ave S,44,XEV,0.1,0.3,3,0.5,2
+191,50,O,8310,Rainier Ave S & S Alaska St,45,XEV,0.4,0.3,3.1,2.2,1.8
+191,50,O,34910,S Genesee St & 36th Ave S,46,XEV,0.6,0.3,3.4,3.5,1.9
+191,50,O,34920,S Genesee St & 38th Ave S,47,XEV,0,0.1,3.4,0.1,0.4
+191,50,O,34930,S Genesee St & Cascadia Ave S,48,XEV,0,0.1,3.2,0,0.8
+191,50,O,34940,S Genesee St & 42nd Ave S,49,XEV,0,0.1,3.1,0.1,0.8
+191,50,O,34950,S Genesee St & 45th Ave S,50,XEV,0,0,3.1,0,0.1
+191,50,O,34960,S Genesee St & 46th Ave S,51,XEV,0,0.2,2.9,0,1.1
+191,50,O,34970,S Genesee St & 48th Ave S,52,XEV,0,0.1,2.8,0,0.8
+191,50,O,34980,50th Ave S & S Genesee St,53,XEV,0,0.4,2.5,0,2.1
+191,50,O,34990,50th Ave S & S Snoqualmie St,54,XEV,0,0,2.5,0,0.1
+191,50,O,35000,50th Ave S & S Alaska St,55,XEV,0,0.2,2.2,0,1.4
+191,50,O,35010,50th Ave S & S Angeline St,56,XEV,0,0.1,2.1,0.1,0.6
+191,50,O,35020,Wilson Ave S & S Hudson St,57,XEV,0,0.1,2,0,0.6
+191,50,O,35030,Wilson Ave S & S Dawson St,58,XEV,0.1,0.7,1.5,0.3,3.9
+191,50,O,35040,Wilson Ave S & S Brandon St,59,XEV,0,0,1.4,0,0.1
+191,50,O,35050,Wilson Ave S & S Findlay St,60,XEV,0,0.1,1.3,0,0.5
+191,50,O,35060,S Orcas St & 55th Ave S,61,XEV,0,0,1.3,0,0
+191,50,O,35070,Seward Park Ave S & S Orcas St,62,XEV,0,0.3,1.1,0,1.5
+191,50,O,35080,Seward Park Ave S & S Juneau St,63,XEV,0.1,0,1.2,0.9,0.2
+191,50,O,35090,Seward Park Ave S & S Hawthorne Rd,64,XEV,0,0,1.1,0,0.2
+191,50,O,35100,Seward Park Ave S & Oakhurst Rd S,65,XEV,0,0,1.1,0,0
+191,50,O,35110,Seward Park Ave S & S Morgan St,66,XEV,0,0.2,1,0,1.1
+191,50,O,35120,Seward Park Ave S & S Holly St,67,XEV,0,0,1,0,0.1
+191,50,O,35130,Seward Park Ave S & S Willow St,68,XEV,0,0,0.9,0,0.2
+191,50,O,35140,Seward Park Ave S & S Myrtle St,69,XEV,0,0,0.9,0.1,0.2
+191,50,O,35149,Seward Park Ave S & S Othello St,70,XEV,0.1,0.1,0.9,0.4,0.4
+191,50,O,45610,S Othello St & Rainier Ave S,71,XEV,0.3,0.2,1,1.9,1.2
+191,50,O,45620,S Othello St & 48th Ave S,72,XEV,0,0,1,0,0.2
+191,50,O,45630,S Othello St & 46th Ave S,73,XEV,0,0,1,0,0.2
+191,50,O,45640,S Othello St & 44th Ave S,74,XEV,0,0.2,0.8,0,1
+191,50,O,45651,S Othello St & Martin L King Jr Way S,75,XEV,0,0.8,0,0,4.6
+191,50,I,56151,Martin L King Jr Way S & S Myrtle St,1,XNT,0.2,0,0.2,1,0
+191,50,I,46130,S Othello St & 42nd Ave S,2,XNT,0.5,0,0.7,2.7,0
+191,50,I,46140,S Othello St & 44th Ave S,3,XNT,0,0,0.7,0,0.2
+191,50,I,46150,S Othello St & 46th Ave S,4,XNT,0,0,0.7,0,0
+191,50,I,46160,S Othello St & 48th Ave S,5,XNT,0,0,0.7,0.1,0.1
+191,50,I,46165,S Othello St & Rainier Ave S,6,XNT,0,0.3,0.5,0.1,1.3
+191,50,I,34640,Seward Park Ave S & S Othello St,7,XNT,0,0,0.4,0.1,0.2
+191,50,I,34650,Seward Park Ave S & S Myrtle St,8,XNT,0,0,0.4,0.1,0
+191,50,I,34660,Seward Park Ave S & S Willow St,9,XNT,0,0,0.4,0,0
+191,50,I,34680,Seward Park Ave S & S Holly St,10,XNT,0,0,0.4,0,0
+191,50,I,34690,Seward Park Ave S & Wilson Ave S,11,XNT,0,0,0.4,0,0
+191,50,I,34700,Seward Park Ave S & 57th Ave S,12,XNT,0,0,0.4,0,0
+191,50,I,34710,Seward Park Ave S & S Hawthorne Rd,13,XNT,0,0,0.4,0,0
+191,50,I,34720,Seward Park Ave S & Lakeshore Dr S,14,XNT,0,0,0.4,0,0
+191,50,I,34730,Seward Park Ave S & S Juneau St,15,XNT,0,0,0.4,0.1,0.1
+191,50,I,34740,Seward Park Ave S & S Orcas St,16,XNT,0,0,0.4,0,0.1
+191,50,I,34750,Seward Park Ave S & 56th Ave S,17,XNT,0,0,0.4,0,0
+191,50,I,34760,S Dawson St & 54th Ave S,18,XNT,0,0,0.3,0,0
+191,50,I,34770,S Dawson St & 51st Ave S,19,XNT,0.1,0,0.4,0.3,0.1
+191,50,I,34780,50th Ave S & S Hudson St,20,XNT,0,0,0.4,0,0
+191,50,I,34790,50th Ave S & S Ferdinand St,21,XNT,0,0,0.4,0,0
+191,50,I,34800,50th Ave S & S Alaska St,22,XNT,0,0,0.4,0,0
+191,50,I,34810,50th Ave S & S Oregon St,23,XNT,0,0,0.4,0,0
+191,50,I,34820,S Genesee St & 50th Ave S,24,XNT,0,0,0.4,0,0
+191,50,I,34830,S Genesee St & 48th Ave S,25,XNT,0,0,0.4,0,0
+191,50,I,34840,S Genesee St & 47th Ave S,26,XNT,0,0,0.4,0,0
+191,50,I,34850,S Genesee St & 45th Ave S,27,XNT,0,0,0.4,0,0
+191,50,I,34860,S Genesee St & 43rd Ave S,28,XNT,0,0,0.4,0,0
+191,50,I,34870,S Genesee St & 41st Ave S,29,XNT,0,0,0.4,0,0
+191,50,I,34880,S Genesee St & 39th Ave S,30,XNT,0,0,0.5,0,0
+191,50,I,34881,S Genesee St & 37th Ave S,31,XNT,0,0,0.4,0,0
+191,50,I,8760,Rainier Ave S & S Genesee St,32,XNT,0.3,0,0.7,1.5,0.1
+191,50,I,35960,S Alaska St & 35th Ave S,33,XNT,0.3,0,1,1.3,0
+191,50,I,35979,S Alaska St & Martin L King Jr Way S,34,XNT,0.4,0.1,1.2,1.8,0.5
+191,50,I,35990,S Columbian Way & S Americus St,35,XNT,0,0,1.2,0,0
+191,50,I,30460,S Columbian Way & Beacon Ave S,36,XNT,0,0,1.2,0.2,0.2
+191,50,I,30470,S Columbian Way & S Angeline St,37,XNT,0,0,1.2,0,0
+191,50,I,30453,Veterans Administration Hospital,38,XNT,0.1,0.1,1.2,0.4,0.4
+191,50,I,30480,S Columbian Way & Veterans Administration Hospital Rd,39,XNT,0,0,1.2,0,0.1
+191,50,I,30490,S Columbian Way & S Oregon St,40,XNT,0,0.2,1,0,1.2
+191,50,I,30510,15th Ave S & S Dakota St,41,XNT,0,0.1,0.9,0.1,0.4
+191,50,I,30520,S Columbian Way & 15th Ave S,42,XNT,0,0,0.9,0,0.2
+191,50,I,30530,S Columbian Way & S Spokane St,43,XNT,0.1,0,1,0.6,0
+191,50,I,99252,SODO Busway & S Spokane St,44,XNT,0.3,0.1,1.2,1.6,0.7
+191,50,I,99254,SODO Busway & S Lander St,45,XNT,1.1,0.3,2,5.4,1.3
+191,50,I,15380,1st Ave S & S Lander St,46,XNT,0.6,0.1,2.6,3.4,0.7
+191,50,I,15395,1st Ave S & S Hanford St,47,XNT,0.3,0.2,2.7,1.9,1.4
+191,50,I,21990,Delridge Way SW & SW Andover St,48,XNT,0.2,0.3,2.5,0.9,1.8
+191,50,I,22009,Delridge Way SW & SW Genesee St,49,XNT,0.1,0.2,2.4,0.4,1.2
+191,50,I,19978,SW Genesee St & 30th Ave SW,50,XNT,0,0.1,2.4,0.2,0.5
+191,50,I,22830,35th Ave SW & SW Avalon Way,51,XNT,0.4,0.4,2.4,2.1,2.1
+191,50,I,22850,SW Alaska St & 35th Ave SW,52,XNT,0,0,2.3,0,0.1
+191,50,I,32364,SW Alaska St & Fauntleroy Way SW,53,XNT,0.2,0.1,2.3,1.1,0.8
+191,50,I,20040,SW Alaska St & 42nd Ave SW,54,XNT,0.1,0.4,2.1,0.7,2.2
+191,50,I,32011,SW Alaska St & 44th Ave SW - Bay 4,55,XNT,2,0.4,3.7,12.1,2.2
+191,50,I,31818,SW Oregon St & California Ave SW,56,XNT,0.2,0,3.9,0.9,0.1
+191,50,I,31830,California Ave SW & SW Genesee St,57,XNT,0.1,0,4,0.7,0.1
+191,50,I,31840,California Ave SW & SW Dakota St,58,XNT,0,0,3.9,0,0.1
+191,50,I,31850,California Ave SW & SW Andover St,59,XNT,0,0.1,3.9,0,0.4
+191,50,I,31861,California Ave SW & SW Charlestown St,60,XNT,0,0.2,3.7,0.1,0.9
+191,50,I,31871,California Ave SW & SW Spokane St,61,XNT,0,0,3.8,0.2,0.1
+191,50,I,31890,California Ave SW & SW Hanford St,62,XNT,0,0.4,3.3,0,2.6
+191,50,I,31900,California Ave SW & SW Stevens St,63,XNT,0,0,3.3,0.1,0.1
+191,50,I,31910,California Ave SW & SW Lander St,64,XNT,0,0.3,3,0.1,1.9
+191,50,I,15540,SW Admiral Way & California Ave SW,65,XNT,0.4,1.3,2,2.2,7.9
+191,50,I,15560,SW Admiral Way & 46th Ave SW,66,XNT,0,0,2,0,0.2
+191,50,I,15570,SW Admiral Way & SW Waite St,67,XNT,0,0,1.9,0,0.1
+191,50,I,15580,SW Admiral Way & 49th Ave SW,68,XNT,0,0,1.9,0,0.1
+191,50,I,15588,SW Admiral Way & 51st Ave SW,69,XNT,0,0.1,1.9,0,0.3
+191,50,I,15610,SW Admiral Way & SW Lander St,70,XNT,0,0,2.2,0,0.2
+191,50,I,15630,SW Admiral Way & 57th Ave SW,71,XNT,0,0.2,2.1,0,1.2
+191,50,I,15650,SW Admiral Way & 61st Ave SW,72,XNT,0,0.3,1.7,0,2.3
+191,50,I,15651,63rd Ave SW & SW Admiral Way,73,XNT,0,0.2,1.5,0,1.7
+191,50,I,15652,63rd Ave SW & Alki Ave SW,74,XNT,0.1,0.4,1.2,0.8,2.9
+191,50,I,14960,Alki Ave SW & 61st Ave SW,75,XNT,0.2,1.4,0,1.4,9.6
+191,50,O,14960,Alki Ave SW & 61st Ave SW,1,XNT,2.6,0,2.6,12.8,0
+191,50,O,14961,61st Ave SW & SW Stevens St,2,XNT,0.1,0,2.7,0.4,0
+191,50,O,14962,61st Ave SW & SW Admiral Way,3,XNT,0.1,0,2.7,0.3,0.1
+191,50,O,14963,SW Admiral Way & 60th Ave SW,4,XNT,0,0,2.8,0.2,0
+191,50,O,14970,SW Admiral Way & 59th Ave SW,5,XNT,0.1,0,2.9,0.3,0
+191,50,O,14980,SW Admiral Way & 57th Ave SW,6,XNT,0.1,0,3,0.5,0
+191,50,O,15000,SW Admiral Way & SW Stevens St,7,XNT,0,0,3,0,0
+191,50,O,15002,SW Admiral Way & 51st Ave SW,8,XNT,0,0,3,0,0
+191,50,O,15030,SW Admiral Way & SW Lander St,9,XNT,0,0,3,0,0
+191,50,O,15040,SW Admiral Way & 47th Ave SW,10,XNT,0,0,3,0.1,0
+191,50,O,15050,SW Admiral Way & 45th Ave SW,11,XNT,0,0,3,0.1,0.2
+191,50,O,31920,California Ave SW & SW Admiral Way,12,XNT,1.3,0.3,4,6.5,1.7
+191,50,O,31930,California Ave SW & SW Lander St,13,XNT,0.1,0,4.1,0.5,0.1
+191,50,O,31950,California Ave SW & SW Hanford St,14,XNT,0.2,0.1,4.1,0.9,0.4
+191,50,O,31970,California Ave SW & SW Spokane St,15,XNT,0,0,4.2,0.2,0
+191,50,O,31980,California Ave SW & SW Charlestown St,16,XNT,0.1,0,4.3,0.6,0.2
+191,50,O,31990,California Ave SW & SW Andover St,17,XNT,0,0,4.3,0.1,0
+191,50,O,32000,California Ave SW & SW Dakota St,18,XNT,0,0,4.3,0,0.1
+191,50,O,32010,California Ave SW & SW Genesee St,19,XNT,0,0,4.3,0,0
+191,50,O,37220,SW Oregon St & 44th Ave SW,20,XNT,0,0.1,4.2,0.2,0.5
+191,50,O,31811,SW Alaska St & 44th Ave SW - Bay 2,21,XNT,0.6,1.5,3.3,3.1,7.4
+191,50,O,19875,SW Alaska St & 42nd Ave SW,22,XNT,0.3,0.1,3.4,1.3,0.5
+191,50,O,33220,SW Alaska St & Fauntleroy Way SW,23,XNT,0.2,0.3,3.4,1.1,1.4
+191,50,O,33221,SW Alaska St & 36th Ave SW,24,XNT,0.1,0.1,3.3,0.3,0.6
+191,50,O,22820,35th Ave SW & SW Avalon Way,25,XNT,0.1,0.2,3.2,0.7,1
+191,50,O,19922,SW Genesee St & 30th Ave SW,26,XNT,0,0.2,3,0,1
+191,50,O,21600,Delridge Way SW & SW Genesee St,27,XNT,0,0.5,2.6,0.1,2.4
+191,50,O,21620,Delridge Way SW & SW Andover St,28,XNT,0.3,0.2,2.7,1.5,1.1
+191,50,O,15190,1st Ave S & S Spokane St,29,XNT,0,0.1,2.6,0.2,0.4
+191,50,O,15205,1st Ave S & S Hanford St,30,XNT,0.1,0,2.7,0.3,0.1
+191,50,O,15230,1st Ave S & S Lander St,31,XNT,0.2,0.1,2.9,1.2,0.4
+191,50,O,99263,SODO Busway & S Lander St,32,XNT,0.3,0.7,2.5,1.6,3.3
+191,50,O,99253,SODO Busway & S Spokane St,33,XNT,0.6,0.3,2.8,3.3,1.5
+191,50,O,30770,S Columbian Way & S Spokane St,34,XNT,0,0.4,2.5,0.1,2.1
+191,50,O,30790,15th Ave S & S Dakota St,35,XNT,0.1,0.2,2.4,0.3,1
+191,50,O,30800,15th Ave S & S Nevada St,36,XNT,0,0.3,2.1,0,1.8
+191,50,O,30453,Veterans Administration Hospital,37,XNT,0.1,0.2,2,0.4,1.3
+191,50,O,30820,S Columbian Way & S Snoqualmie St,38,XNT,0,0,1.9,0.1,0.2
+191,50,O,30830,S Columbian Way & S Angeline St,39,XNT,0,0,1.9,0,0.1
+191,50,O,36680,S Columbian Way & Beacon Ave S,40,XNT,0,0.2,1.7,0.2,1.1
+191,50,O,36690,S Columbian Way & S Americus St,41,XNT,0,0,1.7,0,0.2
+191,50,O,36700,S Alaska St & S Alaska Pl,42,XNT,0,0.1,1.7,0,0.4
+191,50,O,36711,S Alaska St & Martin Luther King Jr Way S,43,XNT,0.5,0.3,1.9,3,1.8
+191,50,O,36720,S Alaska St & 35th Ave S,44,XNT,0,0.1,1.8,0.2,0.8
+191,50,O,8310,Rainier Ave S & S Alaska St,45,XNT,0.1,0.2,1.6,0.3,1
+191,50,O,34910,S Genesee St & 36th Ave S,46,XNT,0.4,0.2,1.8,2.4,1.3
+191,50,O,34920,S Genesee St & 38th Ave S,47,XNT,0,0.2,1.6,0,1.3
+191,50,O,34930,S Genesee St & Cascadia Ave S,48,XNT,0,0,1.6,0.1,0
+191,50,O,34940,S Genesee St & 42nd Ave S,49,XNT,0,0,1.6,0.1,0.2
+191,50,O,34950,S Genesee St & 45th Ave S,50,XNT,0,0,1.6,0.1,0
+191,50,O,34960,S Genesee St & 46th Ave S,51,XNT,0,0.1,1.4,0,0.8
+191,50,O,34970,S Genesee St & 48th Ave S,52,XNT,0,0,1.4,0,0.1
+191,50,O,34980,50th Ave S & S Genesee St,53,XNT,0,0.1,1.3,0,0.3
+191,50,O,34990,50th Ave S & S Snoqualmie St,54,XNT,0,0,1.3,0,0
+191,50,O,35000,50th Ave S & S Alaska St,55,XNT,0,0.2,1.1,0,1.2
+191,50,O,35010,50th Ave S & S Angeline St,56,XNT,0,0,1.1,0,0.1
+191,50,O,35020,Wilson Ave S & S Hudson St,57,XNT,0,0.1,1,0,0.3
+191,50,O,35030,Wilson Ave S & S Dawson St,58,XNT,0,0.3,0.8,0,1.5
+191,50,O,35040,Wilson Ave S & S Brandon St,59,XNT,0,0,0.8,0,0.1
+191,50,O,35050,Wilson Ave S & S Findlay St,60,XNT,0,0.1,0.7,0,0.6
+191,50,O,35060,S Orcas St & 55th Ave S,61,XNT,0,0,0.7,0,0
+191,50,O,35070,Seward Park Ave S & S Orcas St,62,XNT,0,0.1,0.6,0,0.4
+191,50,O,35080,Seward Park Ave S & S Juneau St,63,XNT,0,0,0.6,0,0
+191,50,O,35090,Seward Park Ave S & S Hawthorne Rd,64,XNT,0,0,0.6,0,0.2
+191,50,O,35100,Seward Park Ave S & Oakhurst Rd S,65,XNT,0,0,0.5,0,0
+191,50,O,35110,Seward Park Ave S & S Morgan St,66,XNT,0,0.1,0.5,0.1,0.4
+191,50,O,35120,Seward Park Ave S & S Holly St,67,XNT,0,0,0.5,0,0
+191,50,O,35130,Seward Park Ave S & S Willow St,68,XNT,0,0,0.5,0,0
+191,50,O,35140,Seward Park Ave S & S Myrtle St,69,XNT,0,0.1,0.3,0,0.8
+191,50,O,35149,Seward Park Ave S & S Othello St,70,XNT,0,0,0.3,0.1,0
+191,50,O,45610,S Othello St & Rainier Ave S,71,XNT,0.1,0.1,0.3,0.6,0.5
+191,50,O,45620,S Othello St & 48th Ave S,72,XNT,0,0,0.4,0,0
+191,50,O,45630,S Othello St & 46th Ave S,73,XNT,0,0,0.4,0,0.2
+191,50,O,45640,S Othello St & 44th Ave S,74,XNT,0,0,0.3,0,0.2
+191,50,O,45651,S Othello St & Martin L King Jr Way S,75,XNT,0.1,0.5,0,0.8,3.2
