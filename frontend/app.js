@@ -84,6 +84,8 @@ document.addEventListener("DOMContentLoaded", () => {
   
       tripChartDiv.style.display = "block";
       dailyChartDiv.style.display = "block";
+      tripChartDiv.style.width = "100%"
+      dailyChartDiv.style.width = "100%"
     } else {
       staticTripChartDiv.style.display = "block";
       staticDailyChartDiv.style.display = "block";
