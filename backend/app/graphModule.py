@@ -208,7 +208,7 @@ def plotTripRidership(df, routeNum, timePeriod):
        routeName = f"Route {routeNum}"
 
     seasonYear = timePeriodNames[timePeriod]
-    title = f"Average Weekday Ridership per {routeName} Trip in {seasonYear}"
+    title = f"Average Weekday Ridership per {routeName} Trip between {seasonYear}"
     fig.update_layout(
         barmode="overlay",
         title=title,
@@ -339,7 +339,7 @@ def plotDailyRidership(df, routeNum, timePeriod):
         routeName = f"Route {routeNum}"
 
     seasonYear = timePeriodNames[timePeriod]
-    title = f"Average Daily Stop Ridership for {routeName} in {seasonYear}"
+    title = f"Average Daily Stop Ridership for {routeName} between {seasonYear}"
 
     fig.update_layout(
         barmode="relative",

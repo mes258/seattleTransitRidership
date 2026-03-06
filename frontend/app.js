@@ -43,10 +43,15 @@ document.addEventListener("DOMContentLoaded", () => {
   var serviceChangeSelect = document.getElementById("serviceChangeSelect");
   var submitBtn = document.getElementById("submitBtn");
 
+  var staticTripChartDiv = document.getElementById("staticTripChart")
+  var staticDailyChartDiv = document.getElementById("staticDailyChart")
+
   var tripChartDiv = document.getElementById("tripChart");
   var dailyChartDiv = document.getElementById("dailyChart");
 
   var routeDataDiv = document.getElementById("routeData");
+
+  var interactivePlotsToggle = document.getElementById("interactivePlotsToggle");
 
   function clearSelect(select, placeholder) {
     select.innerHTML = `<option value="">${placeholder}</option>`;
@@ -69,6 +74,28 @@ document.addEventListener("DOMContentLoaded", () => {
     });
     select.disabled = false;
   }
+
+  function updatePlotVisibility() {
+    const interactiveOn = interactivePlotsToggle.checked;
+  
+    if (interactiveOn) {
+      staticTripChartDiv.style.display = "none";
+      staticDailyChartDiv.style.display = "none";
+  
+      tripChartDiv.style.display = "block";
+      dailyChartDiv.style.display = "block";
+    } else {
+      staticTripChartDiv.style.display = "block";
+      staticDailyChartDiv.style.display = "block";
+  
+      tripChartDiv.style.display = "none";
+      dailyChartDiv.style.display = "none";
+    }
+  }
+
+  updatePlotVisibility();
+
+  interactivePlotsToggle.addEventListener("change", updatePlotVisibility);
 
   fetch("/api/agencies")
     .then(res => res.json())
@@ -149,6 +176,9 @@ document.addEventListener("DOMContentLoaded", () => {
         if(routeData["stbUrl"] != ""){
           routeDataDiv.innerHTML += `<p><a href="${routeData["stbUrl"]}">Seattle Transit Blog article on ${routeData["routeName"]} Ridership Patterns</a></p>`
         }
+
+        staticTripChartDiv.innerHTML = `<a href="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/TripRidership.png"><img src="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/TripRidership.png" class="chartImg"></a>`
+        staticDailyChartDiv.innerHTML = `<a href="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/DailyRidership.png"><img src="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/DailyRidership.png" class="chartImg"></a>`
       })
       .finally(() => {
         submitBtn.disabled = false;

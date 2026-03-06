@@ -21,9 +21,9 @@ def buildIndex():
           routeIndex = {}
           for period_dir in route_dir.iterdir():
               data = period_dir / "ridershipData.csv"
-
-              if data.exists():
-                  routeIndex[period_dir.name] = timePeriodNames[period_dir.name]
+              if period_dir.name == "241" or period_dir.name == "243":
+                if data.exists():
+                    routeIndex[period_dir.name] = timePeriodNames[period_dir.name]
           agencyIndex[route_dir.name] = routeIndex
       index[agency_dir.name] = agencyIndex
 

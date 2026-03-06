@@ -208,3 +208,7 @@ __marimo__/
 
 
 .vscode
+
+**/tripRidershipPlot.json
+**/dailyRidershipPlot.json
+**/routeData.json

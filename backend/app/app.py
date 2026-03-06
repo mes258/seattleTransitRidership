@@ -64,6 +64,7 @@ def getServiceChanges(agency: str, route: str):
 
 @app.get("/api/ridershipCharts")
 def getAllCharts(agency: str, route: str, serviceChange: str):
+    overwriteData = True
     if agency not in dataIndex or route not in dataIndex[agency] or serviceChange not in dataIndex[agency][route]:
       raise HTTPException(404, "Route or service period not found")
     
@@ -80,7 +81,7 @@ def getAllCharts(agency: str, route: str, serviceChange: str):
     # Trip Ridership: 
     # Check if the plot json is already stored for these parameters
     tripPlotJsonPath = serviceChangePath / "tripRidershipPlot.json"
-    if tripPlotJsonPath.exists():
+    if tripPlotJsonPath.exists() and not overwriteData:
       # Use the existing json data
       f = open(tripPlotJsonPath, "r")
       tripPlotJson = json.load(f)
@@ -96,7 +97,7 @@ def getAllCharts(agency: str, route: str, serviceChange: str):
     # Daily Ridership: 
     # Check if the plot json is already stored for these parameters
     dailyPlotJsonPath = serviceChangePath / "dailyRidershipPlot.json"
-    if dailyPlotJsonPath.exists():
+    if dailyPlotJsonPath.exists() and not overwriteData:
       # Use the existing json data
       f = open(dailyPlotJsonPath, "r")
       dailyPlotJson = json.load(f)
@@ -112,8 +113,7 @@ def getAllCharts(agency: str, route: str, serviceChange: str):
     # Route Metadata
     # Check if the route data json is already stored for these parameters
     routeDataJsonPath = serviceChangePath / "routeData.json"
-    overwriteRouteData = True
-    if routeDataJsonPath.exists() and not overwriteRouteData:
+    if routeDataJsonPath.exists() and not overwriteData:
       # Use the existing json data
       f = open(routeDataJsonPath, "r")
       routeDataJson = json.load(f)
