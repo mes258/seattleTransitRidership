@@ -161,11 +161,17 @@ routeIds = ["101"]
 years = ["2023", "2024", "2025"]
 months = ["10"]
 
-for routeId in routeIds:
-   for year in years:
+#for routeId in routeIds:
+for i in range(100, 1000):
+  routeId = str(i)
+  for year in years:
     for month in months:
+      try:
         print("{0} from {1}/{2}".format(routeId, month, year))
         runAggregationForRoute(routeId, month, year)
+      except:
+        print("route {0} from {1}/{2} DNE".format(routeId, month, year))
+        continue
 
 #outputRow = {"serviceChangeNum": row['SERVICE_CHANGE_NUM'],
                       #  "routeNum": row['SERVICE_RTE_NUM'],

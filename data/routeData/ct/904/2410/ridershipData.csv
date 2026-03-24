@@ -1,0 +1,37 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+2410,904,I,3310,Lynnwood City Center Station Bay A6,0,MID,1.667,0.000,1.667,0.435,0.000
+2410,904,I,3343,South Everett Fwy Station Bay 5,1,MID,0.348,0.478,2.652,0.348,0.478
+2410,904,I,2490,10th St & Ash Ave,4,PM,0.006,0.105,6.133,0.043,0.826
+2410,904,I,2517,Marysville Ash Ave Park & Ride Bay 1,5,PM,0.044,2.078,4.133,0.348,16.261
+2410,904,I,419,Marysville at Cedar and Grove Park & Ride Bay 4,6,PM,0.027,4.126,0.000,0.217,32.652
+2410,904,I,3310,Lynnwood City Center Station Bay A6,0,PM,6.468,0.000,6.468,13.217,0.000
+2410,904,I,3343,South Everett Fwy Station Bay 5,1,PM,0.641,1.304,6.276,5.043,10.261
+2410,904,I,2490,10th St & Ash Ave,4,XEV,0.000,0.088,1.735,0.000,0.261
+2410,904,I,2517,Marysville Ash Ave Park & Ride Bay 1,5,XEV,0.015,0.515,1.235,0.043,1.522
+2410,904,I,419,Marysville at Cedar and Grove Park & Ride Bay 4,6,XEV,0.000,1.235,0.000,0.000,3.652
+2410,904,I,3310,Lynnwood City Center Station Bay A6,0,XEV,0.917,0.000,0.917,0.478,0.000
+2410,904,I,3343,South Everett Fwy Station Bay 5,1,XEV,0.043,0.674,1.239,0.087,1.348
+2410,904,O,3001,Marysville at Cedar and Grove Park & Ride Bay 2,0,XNT,5.348,0.000,5.348,10.696,0.000
+2410,904,O,2490,10th St & Ash Ave,1,XNT,0.000,0.000,5.348,0.000,0.000
+2410,904,O,2517,Marysville Ash Ave Park & Ride Bay 1,2,XNT,2.239,0.022,7.565,4.478,0.043
+2410,904,O,2465,4th St & Beach Ave,3,XNT,0.217,0.000,7.783,0.435,0.000
+2410,904,O,1397,I-5 & Marine Dr NE Flyer Stop,4,XNT,0.304,0.000,8.087,0.609,0.000
+2410,904,O,2868,South Everett Fwy Station Bay 3,6,XNT,0.256,2.872,5.128,0.435,4.870
+2410,904,O,3311,Lynnwood City Center Station Bay A7,7,XNT,0.000,4.391,0.000,0.000,4.391
+2410,904,O,2868,South Everett Fwy Station Bay 3,6,AM,1.206,0.771,7.988,8.913,5.696
+2410,904,O,3311,Lynnwood City Center Station Bay A7,7,AM,0.000,8.011,0.000,0.000,63.043
+2410,904,O,3001,Marysville at Cedar and Grove Park & Ride Bay 2,0,AM,4.310,0.000,4.310,34.478,0.000
+2410,904,O,2490,10th St & Ash Ave,1,AM,0.038,0.000,4.372,0.304,0.000
+2410,904,O,2517,Marysville Ash Ave Park & Ride Bay 1,2,AM,2.197,0.016,6.552,17.478,0.130
+2410,904,O,2465,4th St & Beach Ave,3,AM,0.230,0.005,6.776,1.826,0.043
+2410,904,O,1397,I-5 & Marine Dr NE Flyer Stop,4,AM,0.179,0.000,6.918,1.435,0.000
+2410,904,O,3311,Lynnwood City Center Station Bay A7,7,MID,0.021,5.604,0.000,0.043,11.696
+2410,904,O,2868,South Everett Fwy Station Bay 3,6,MID,2.295,0.159,5.932,4.391,0.304
+2410,904,O,3001,Marysville at Cedar and Grove Park & Ride Bay 2,0,MID,3.565,0.000,3.565,3.565,0.000
+2410,904,O,2490,10th St & Ash Ave,1,MID,0.087,0.000,3.652,0.087,0.000
+2410,904,O,2517,Marysville Ash Ave Park & Ride Bay 1,2,MID,0.739,0.000,4.391,0.739,0.000
+2410,904,O,2465,4th St & Beach Ave,3,MID,0.130,0.000,4.522,0.130,0.000
+2410,904,O,1397,I-5 & Marine Dr NE Flyer Stop,4,MID,0.174,0.000,4.696,0.174,0.000
+2410,904,I,2114,Lynnwood City Center Station Bay D2,0,MID,3.176,0.000,3.176,2.348,0.000
+2410,904,I,2114,Lynnwood City Center Station Bay D2,0,PM,7.104,0.000,7.104,41.391,0.000
+2410,904,I,2114,Lynnwood City Center Station Bay D2,0,XEV,2.206,0.000,2.206,3.261,0.000
