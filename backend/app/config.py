@@ -4,6 +4,9 @@ projectRoot = Path(__file__).resolve().parent.parent.parent
 dataRoot = projectRoot / "data"
 
 timePeriodNames = {
+  "2310": "Oct 1, 2023 - Oct 31, 2023",
+  "2410": "Oct 1, 2024 - Oct 31, 2024",
+  "2510": "Oct 1, 2025 - Oct 31, 2025",
   "191": "Mar 23, 2019 - Jun 14, 2019",
   "192": "Jun 15, 2019 - Sep 20, 2019",
   "193": "Sep 21, 2019 - Mar 20, 2020",
@@ -34,6 +37,12 @@ rapidRideRouteMapping = {
   "676": 'f-Line',
   "677": 'g-Line',
   "678": 'h-Line'
+}
+
+swiftRouteMapping = {
+  "701": "Blue Line",
+  "702": "Green Line",
+  "703": "Orange Line"
 }
 
 stbKcmUrl = {

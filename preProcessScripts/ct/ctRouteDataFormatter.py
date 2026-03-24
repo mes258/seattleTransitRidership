@@ -43,11 +43,11 @@ def get_input_data(filePath:str):
       for row in reader:
           if row["ACT_DEPTIME"] and row["OPERATION_DATE"]:
               try:
-                  date_obj = datetime.strptime(row["OPERATION_DATE"], "%m/%d/%Y").date()
+                  date_obj = datetime.strptime(row["OPERATION_DATE"], "%Y-%m-%d").date()
                   row["DATE"] = date_obj
                   row["DAY_TYPE"] = get_day_type(date_obj)
-                  row["ALIGHTINGS"] = int(row["ALIGHTINGS"])
-                  row["BOARDINGS"] = int(row["BOARDINGS"])
+                  row["ALIGHTINGS"] = float(row["ALIGHTINGS"])
+                  row["BOARDINGS"] = float(row["BOARDINGS"])
                   row["TIME_PERIOD"] = get_time_period(row["ACT_DEPTIME"])
                   row["DIRECTION"] = get_direction_code(row["DIRECTION"], row["ROUTE_ID"])
                   data.append(row)
@@ -61,7 +61,7 @@ def populateDepartureLoad(data):
     boardings = int(row['BOARDINGS']) if row['BOARDINGS'] else 0
     alightings = int(row['ALIGHTINGS']) if row['ALIGHTINGS'] else 0
     
-    if int(row['STOP_ORDER_NUMBER']) == 0:
+    if int(row['STOP_ORDER_NBR']) == 0:
        departure_load = boardings
     else:
        departure_load += boardings - alightings
@@ -72,6 +72,100 @@ def populateDepartureLoad(data):
     #   writer.writerow(row)
 
   return data
+
+def aggregateBoardingAndAlightingData(serviceChange, data):
+  #dataSchema = OPERATION_DATE,ROUTE_ID,DIRECTION,TRIP_ID,VEHICLE_ID,SCHED_DEPTIME,ACT_ARRTIME,ACT_DEPTIME,STOP_ORDER_NBR,STOP_ID,STOP,BOARDINGS,ALIGHTINGS
+
+  # Aggregate data
+  aggregated_data = defaultdict(lambda: {"total_alightings": 0, "total_boardings": 0, "total_departure_load": 0, "trip_counts": [], "date_totals": defaultdict(int)})
+  unique_dates = {"Weekday": set(), "Saturday": set(), "Sunday": set()}
+
+  for row in data:
+      key = (row["ROUTE_ID"], row["DIRECTION"], row["TIME_PERIOD"], row["STOP_ID"], row["STOP"], row["DAY_TYPE"], row['STOP_ORDER_NBR'])
+      aggregated_data[key]["total_alightings"] += row["ALIGHTINGS"]
+      aggregated_data[key]["total_boardings"] += row["BOARDINGS"]
+      aggregated_data[key]["total_departure_load"] += row["DEPARTURE_LOAD"]
+      aggregated_data[key]["trip_counts"].append(row["TRIP_ID"])
+      aggregated_data[key]["date_totals"][row["DATE"]] += row["ALIGHTINGS"]
+      unique_dates[row["DAY_TYPE"]].add(row["DATE"])
+
+  # Compute averages and departing loads
+  output_data = []
+  trip_loads = defaultdict(lambda: defaultdict(int))  # { (route, direction, day_type, trip_id) -> { stop_id -> departing_load } }
+
+  for key, values in aggregated_data.items():
+      route, direction, time_period, stop_id, stop_name, day_type, stop_order_number = key
+      if day_type != "Weekday":
+        continue
+      num_days = len(unique_dates[day_type])
+      num_unique_trips = len(values["trip_counts"])
+      
+      if num_days > 0 and num_unique_trips > 0:
+          avg_total_alightings = values["total_alightings"] / num_days
+          avg_trip_alightings = values["total_alightings"] / (num_unique_trips)
+          avg_total_boardings = values["total_boardings"] / num_days
+          avg_trip_boardings = values["total_boardings"] / (num_unique_trips)
+          avg_trip_departing_load = values["total_departure_load"] / (num_unique_trips)
+
+          output_data.append({
+              "serviceChangeNum": serviceChange,
+              "routeNum": route,
+              "direction": direction,
+              "stopId": stop_id,
+              "stopName": stop_name,
+              "stopOrderNum": stop_order_number,
+              "timeOfDay": time_period,
+              "tripBoardings": f"{avg_trip_boardings:.3f}",
+              "tripAlightings": f"{avg_trip_alightings:.3f}",
+              "departingLoad": f"{avg_trip_departing_load:.3f}",
+              "dailyBoardings": f"{avg_total_boardings:.3f}",
+              "dailyAlightings": f"{avg_total_alightings:.3f}"
+          })
+  return output_data
+
+def writeOutput(outputData, routeId, serviceChange):
+  
+  directory = f"../../data/routeData/ct/{routeId}/{serviceChange}"
+  if routeId[0] == "5" and len(routeId) == 3:
+    print(f"st route: {routeId}")
+    directory = f"../../data/routeData/st/{routeId}/{serviceChange}"
+  
+  os.makedirs(directory, exist_ok=True)
+
+  # Write results to CSV, only weekday. 
+  fileName = os.path.join(directory, 'ridershipData.csv')
+
+  with open(fileName, "w", newline="") as file:
+      fieldnames = ['serviceChangeNum', 'routeNum', 'direction', 'stopId', 'stopName', 'stopOrderNum', 'timeOfDay', 'tripBoardings', 'tripAlightings', 'departingLoad', 'dailyBoardings', 'dailyAlightings']
+      writer = csv.DictWriter(file, fieldnames=fieldnames)
+      writer.writeheader()
+      writer.writerows(outputData)
+
+  print(f"Output written to {fileName}")
+
+def runAggregationForRoute(routeId, month, year):
+  serviceChange = year[2:]+month
+  print(serviceChange)
+  fullFilePath = "../../data/rawData/ct/ctDataByRoute/{0}/{1}/{2}/routeData.csv".format(routeId, year, month) 
+  print(fullFilePath)
+  inputData = get_input_data(fullFilePath)
+  print(inputData[1])
+  dataWithDepartureLoads = populateDepartureLoad(inputData)
+  print(dataWithDepartureLoads[1])
+  aggregatedData = aggregateBoardingAndAlightingData(serviceChange, dataWithDepartureLoads)
+  writeOutput(aggregatedData, routeId, serviceChange)
+
+
+#Edit these
+routeIds = ["101"]
+years = ["2023", "2024", "2025"]
+months = ["10"]
+
+for routeId in routeIds:
+   for year in years:
+    for month in months:
+        print("{0} from {1}/{2}".format(routeId, month, year))
+        runAggregationForRoute(routeId, month, year)
 
 #outputRow = {"serviceChangeNum": row['SERVICE_CHANGE_NUM'],
                       #  "routeNum": row['SERVICE_RTE_NUM'],
