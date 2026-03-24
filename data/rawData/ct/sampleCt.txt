@@ -1,0 +1,38 @@
+OPERATION_DATE    809245
+ROUTE_ID          809245
+DIRECTION         809245
+TRIP_ID           809245
+VEHICLE_ID        808971
+SCHED_DEPTIME     168546
+ACT_ARRTIME       800480
+ACT_DEPTIME       800480
+STOP_ORDER_NBR    809245
+STOP_ID           809245
+STOP              809245
+BOARDINGS         800480
+ALIGHTINGS        800480
+dtype: int64
+ OPERATION_DATE  ROUTE_ID DIRECTION  TRIP_ID  VEHICLE_ID SCHED_DEPTIME ACT_ARRTIME ACT_DEPTIME  STOP_ORDER_NBR  STOP_ID                                 STOP  BOARDINGS  ALIGHTINGS
+     2023-10-01       101     North    11001     15116.0      06:50:00    06:50:05    06:50:05               0     2876  Aurora Village Transit Center Bay 7        0.0         0.0
+     2023-10-01       101     North    11001     15116.0           NaN    06:51:41    06:51:41               1     2405                  Hwy 99 & N 200th St        0.0         0.0
+     2023-10-01       101     North    11001     15116.0           NaN    06:52:24    06:52:24               2     1017           Aurora Ave N & 244th St SW        0.0         0.0
+     2023-10-01       101     North    11001     15116.0           NaN    06:52:41    06:52:41               3     1023                 Hwy 99 & 240th St SW        0.0         0.0
+     2023-10-01       101     North    11001     15116.0           NaN    06:53:02    06:53:02               4     1016                 Hwy 99 & 238th St SW        0.0         0.0
+     2023-10-01       101     North    11001     15116.0           NaN    06:53:33    06:53:33               5     1015                 Hwy 99 & 234th St SW        0.0         0.0
+     2023-10-01       101     North    11001     15116.0           NaN    06:53:48    06:53:48               6     1014                 Hwy 99 & 230th St SW        0.0         0.0
+     2023-10-01       101     North    11001     15116.0           NaN    06:54:33    06:54:33               7     1022                  Hwy 99 & 76th Ave W        0.0         0.0
+     2023-10-01       101     North    11001     15116.0           NaN    06:55:24    06:55:24               8     2237                 Hwy 99 & 224th St SW        0.0         0.0
+     2023-10-01       101     North    11001     15116.0      06:54:00    06:55:57    06:55:57               9     1013                 Hwy 99 & 220th St SW        0.0         0.0
+OPERATION_DATE    datetime64[ns]
+ROUTE_ID                   int64
+DIRECTION                 object
+TRIP_ID                    int64
+VEHICLE_ID               float64
+SCHED_DEPTIME             object
+ACT_ARRTIME               object
+ACT_DEPTIME               object
+STOP_ORDER_NBR             int64
+STOP_ID                    int64
+STOP                      object
+BOARDINGS                float64
+ALIGHTINGS               float64
