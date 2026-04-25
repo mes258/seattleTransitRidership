@@ -1,0 +1,136 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+251,542,I,71960,Redmond Transit Center - Bay 5,1,AM,8.3,0,8.3,83.4,0.1
+251,542,I,73758,NE 85th St & 160th Ave NE,2,AM,2,0,10.3,20.2,0
+251,542,I,68496,154th Ave NE & NE 85th St,3,AM,0.2,0,10.5,1.6,0.4
+251,542,I,72456,West Lake Sammamish Pkwy NE & Leary Way,4,AM,1.7,0,12.2,17.2,0.1
+251,542,I,71341,Sr 520 & NE 51st St,5,AM,1.9,0.1,14,18.8,1
+251,542,I,71335,Sr 520 & NE 40th St,6,AM,4.3,0.2,18.1,43,1.7
+251,542,I,71356,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,7,AM,0.7,0.1,18.7,7.3,0.7
+251,542,I,71355,Sr 520 & Evergreen Point Rd,8,AM,0.9,0,19.5,8.5,0.4
+251,542,I,25753,Sr 520 & Montlake Blvd E,9,AM,0,0.4,18.6,0.1,3.3
+251,542,I,25755,Montlake Blvd NE & NE Pacific Pl - Bay 4,10,AM,0.1,7.1,11.6,1.3,64.1
+251,542,I,29420,NE Pacific St & 15th Ave NE,11,AM,0,3.9,7.7,0.1,35.5
+251,542,I,29440,15th Ave NE & NE Campus Pkwy,12,AM,0,4.6,3.1,0.1,41.3
+251,542,I,11352,15th Ave NE & NE 42nd St,13,AM,0,3.1,0,0,28
+251,542,O,10912,15th Ave NE & NE 43rd St,1,AM,15.6,0,15.6,124.5,0
+251,542,O,10914,15th Ave NE & NE Campus Pkwy,2,AM,2.8,0,18.3,22.4,0.3
+251,542,O,10917,15th Ave NE & NE 40th St,3,AM,2.1,0.1,20.3,16.8,0.4
+251,542,O,29240,NE Pacific St & 15th Ave NE,4,AM,0.7,0.2,20.8,5.4,1.6
+251,542,O,29247,NE Pacific St & Montlake Blvd NE - Bay 1,5,AM,2.7,0.2,23.2,21.5,1.9
+251,542,O,25754,Sr 520 & Montlake Blvd E,6,AM,1.4,0.1,25.6,11.3,0.4
+251,542,O,71348,Sr 520 & Evergreen Point Rd,7,AM,0.3,0.1,22.8,2.3,0.9
+251,542,O,71359,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,8,AM,0.2,0.2,22.8,1.1,1.5
+251,542,O,71336,State Route 520 & NE 40th St,9,AM,0.2,16.1,6.8,1.1,112.8
+251,542,O,71353,Sr 520 & NE 51st St,10,AM,0.1,1.9,5,0.5,13.1
+251,542,O,72458,West Lake Sammamish Pkwy NE & Leary Way,11,AM,0,1,4,0,7
+251,542,O,73848,NE 85th St & 154th Ave NE,12,AM,0,2.1,2,0,14.7
+251,542,O,73757,NE 85th St & 161st Ave NE,13,AM,0,0.3,1.7,0.1,2.2
+251,542,O,73227,Redmond Transit Center - Bay 1,14,AM,0,1.7,0,0,11.7
+251,542,I,71960,Redmond Transit Center - Bay 5,1,MID,6,0,6,77.8,0
+251,542,I,73758,NE 85th St & 160th Ave NE,2,MID,2,0,8.1,24,0.5
+251,542,I,68496,154th Ave NE & NE 85th St,3,MID,0.3,0,8.4,3.4,0.1
+251,542,I,72456,West Lake Sammamish Pkwy NE & Leary Way,4,MID,1,0,9.4,12.1,0
+251,542,I,71341,Sr 520 & NE 51st St,5,MID,1.8,0.1,11.1,21.5,1.7
+251,542,I,71335,Sr 520 & NE 40th St,6,MID,5.7,0.4,16.3,67.8,5.1
+251,542,I,71356,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,7,MID,0.5,0.1,16.7,5.4,0.9
+251,542,I,71355,Sr 520 & Evergreen Point Rd,8,MID,0.2,0.1,16.8,2.9,0.9
+251,542,I,25753,Sr 520 & Montlake Blvd E,9,MID,0,0.4,16.8,0.2,4.6
+251,542,I,25755,Montlake Blvd NE & NE Pacific Pl - Bay 4,10,MID,0.2,5.3,12.1,2.9,69.1
+251,542,I,29420,NE Pacific St & 15th Ave NE,11,MID,0.5,3.5,9.5,6.5,42.1
+251,542,I,29440,15th Ave NE & NE Campus Pkwy,12,MID,0.1,4.9,4.7,0.9,58.4
+251,542,I,11352,15th Ave NE & NE 42nd St,13,MID,0,4.7,0,0,56.5
+251,542,O,10912,15th Ave NE & NE 43rd St,1,MID,8.8,0,8.8,114.2,0
+251,542,O,10914,15th Ave NE & NE Campus Pkwy,2,MID,3.1,0,11.9,40.6,0.1
+251,542,O,10917,15th Ave NE & NE 40th St,3,MID,2.3,0.1,14.1,30,0.9
+251,542,O,29240,NE Pacific St & 15th Ave NE,4,MID,1.7,0.4,15.4,22.2,4.8
+251,542,O,29247,NE Pacific St & Montlake Blvd NE - Bay 1,5,MID,2.6,0.3,17.7,33.7,4.3
+251,542,O,25754,Sr 520 & Montlake Blvd E,6,MID,0.7,0,18.6,9.3,0.5
+251,542,O,71348,Sr 520 & Evergreen Point Rd,7,MID,0.3,0.2,19.8,4.4,2.1
+251,542,O,71359,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,8,MID,0.2,0.3,19.7,2.2,3.6
+251,542,O,71336,State Route 520 & NE 40th St,9,MID,0.2,11.2,7.8,2.8,145
+251,542,O,71353,Sr 520 & NE 51st St,10,MID,0.1,1.6,6.3,1.1,21.3
+251,542,O,72458,West Lake Sammamish Pkwy NE & Leary Way,11,MID,0,0.8,5.5,0.2,10.7
+251,542,O,73848,NE 85th St & 154th Ave NE,12,MID,0,0.6,4.9,0.1,8.4
+251,542,O,73757,NE 85th St & 161st Ave NE,13,MID,0,1.2,3.7,0.5,15.3
+251,542,O,73227,Redmond Transit Center - Bay 1,14,MID,0,3.8,0,0.1,48.8
+251,542,I,71960,Redmond Transit Center - Bay 5,1,PM,3.2,0,3.2,32.2,0.3
+251,542,I,73758,NE 85th St & 160th Ave NE,2,PM,1.3,0,4.5,14.2,0.3
+251,542,I,68496,154th Ave NE & NE 85th St,3,PM,1.6,0,6.1,18.1,0.2
+251,542,I,72456,West Lake Sammamish Pkwy NE & Leary Way,4,PM,1.5,0,7.5,16.5,0.1
+251,542,I,71341,Sr 520 & NE 51st St,5,PM,3.1,0.1,10.7,30.5,1.2
+251,542,I,71335,Sr 520 & NE 40th St,6,PM,16.9,0.2,27.4,168.9,2.3
+251,542,I,71356,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,7,PM,0.7,0.2,27.8,6.5,1.9
+251,542,I,71355,Sr 520 & Evergreen Point Rd,8,PM,0.4,0.1,28.1,3.8,1.2
+251,542,I,25753,Sr 520 & Montlake Blvd E,9,PM,0.1,1.9,27.2,0.7,19.4
+251,542,I,25755,Montlake Blvd NE & NE Pacific Pl - Bay 4,10,PM,0.6,9.4,17.6,5.5,93.5
+251,542,I,29420,NE Pacific St & 15th Ave NE,11,PM,0.5,1.3,16,5.9,14
+251,542,I,29440,15th Ave NE & NE Campus Pkwy,12,PM,0.1,3.1,13,1.4,34.6
+251,542,I,11352,15th Ave NE & NE 42nd St,13,PM,0,13,0,0,142.8
+251,542,O,10912,15th Ave NE & NE 43rd St,1,PM,6.6,0,6.5,72.2,0.2
+251,542,O,10914,15th Ave NE & NE Campus Pkwy,2,PM,4.7,0,11.1,51.2,0.3
+251,542,O,10917,15th Ave NE & NE 40th St,3,PM,4,0,15.1,44.3,0.3
+251,542,O,29240,NE Pacific St & 15th Ave NE,4,PM,4.6,0.1,19.6,50.9,1.6
+251,542,O,29247,NE Pacific St & Montlake Blvd NE - Bay 1,5,PM,6.4,0.4,25.6,70.8,4.4
+251,542,O,25754,Sr 520 & Montlake Blvd E,6,PM,0.6,0.1,25.8,6.3,0.8
+251,542,O,71348,Sr 520 & Evergreen Point Rd,7,PM,0.9,0.9,26.1,10.2,9.9
+251,542,O,71359,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,8,PM,0.2,0.4,25.9,2.7,4.3
+251,542,O,71336,State Route 520 & NE 40th St,9,PM,0.6,8,19.7,6.4,88.1
+251,542,O,71353,Sr 520 & NE 51st St,10,PM,0.2,2.6,17.4,2,28.1
+251,542,O,72458,West Lake Sammamish Pkwy NE & Leary Way,11,PM,0,1.8,15.6,0,19.5
+251,542,O,73848,NE 85th St & 154th Ave NE,12,PM,0,0.8,14.9,0,8.5
+251,542,O,73757,NE 85th St & 161st Ave NE,13,PM,0.1,2.9,12,0.7,31.8
+251,542,O,73227,Redmond Transit Center - Bay 1,14,PM,0,12,0,0.2,132.4
+251,542,I,71960,Redmond Transit Center - Bay 5,1,XEV,2.6,0,2.6,13,0
+251,542,I,73758,NE 85th St & 160th Ave NE,2,XEV,1,0,3.5,5,0
+251,542,I,68496,154th Ave NE & NE 85th St,3,XEV,0.4,0,3.9,2.1,0
+251,542,I,72456,West Lake Sammamish Pkwy NE & Leary Way,4,XEV,0.8,0,4.7,3.8,0
+251,542,I,71341,Sr 520 & NE 51st St,5,XEV,1.3,0.1,6,7.6,0.3
+251,542,I,71335,Sr 520 & NE 40th St,6,XEV,5.9,0.1,11.9,35.5,0.4
+251,542,I,71356,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,7,XEV,0.3,0.1,12.1,1.5,0.3
+251,542,I,71355,Sr 520 & Evergreen Point Rd,8,XEV,0.3,0.1,12.3,1.7,0.3
+251,542,I,25753,Sr 520 & Montlake Blvd E,9,XEV,0,0.6,12.2,0.2,3.7
+251,542,I,25755,Montlake Blvd NE & NE Pacific Pl - Bay 4,10,XEV,0.5,3.9,8.4,3.2,23.6
+251,542,I,29420,NE Pacific St & 15th Ave NE,11,XEV,0.2,0.5,8.1,0.9,3
+251,542,I,29440,15th Ave NE & NE Campus Pkwy,12,XEV,0.1,1.4,6.7,0.3,8.6
+251,542,I,11352,15th Ave NE & NE 42nd St,13,XEV,0,6.7,0,0,40.2
+251,542,O,10912,15th Ave NE & NE 43rd St,1,XEV,4.5,0,4.5,27.1,0
+251,542,O,10914,15th Ave NE & NE Campus Pkwy,2,XEV,2.2,0,6.7,13.3,0
+251,542,O,10917,15th Ave NE & NE 40th St,3,XEV,1.7,0,8.4,10.4,0
+251,542,O,29240,NE Pacific St & 15th Ave NE,4,XEV,1,0,9.4,6.2,0.2
+251,542,O,29247,NE Pacific St & Montlake Blvd NE - Bay 1,5,XEV,3.3,0.2,12.5,19.8,1.1
+251,542,O,25754,Sr 520 & Montlake Blvd E,6,XEV,0.4,0.1,12.7,2.1,0.3
+251,542,O,71348,Sr 520 & Evergreen Point Rd,7,XEV,0.2,0.5,12.4,1.1,3.2
+251,542,O,71359,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,8,XEV,0.1,0.5,12,0.6,2.8
+251,542,O,71336,State Route 520 & NE 40th St,9,XEV,0.2,4.4,9.5,1.4,26.1
+251,542,O,71353,Sr 520 & NE 51st St,10,XEV,0,1,8.5,0.1,5.8
+251,542,O,72458,West Lake Sammamish Pkwy NE & Leary Way,11,XEV,0,1,7.5,0.1,6.1
+251,542,O,73848,NE 85th St & 154th Ave NE,12,XEV,0,0.3,7.3,0,1.5
+251,542,O,73757,NE 85th St & 161st Ave NE,13,XEV,0,1.4,5.9,0,8.3
+251,542,O,73227,Redmond Transit Center - Bay 1,14,XEV,0,6,0,0,35.7
+251,542,I,71960,Redmond Transit Center - Bay 5,1,XNT,3.3,0,3.3,3.3,0
+251,542,I,73758,NE 85th St & 160th Ave NE,2,XNT,0.8,0,4.1,0.8,0
+251,542,I,68496,154th Ave NE & NE 85th St,3,XNT,0.4,0,4.5,0.4,0
+251,542,I,72456,West Lake Sammamish Pkwy NE & Leary Way,4,XNT,1.1,0,5.5,1.1,0
+251,542,I,71341,Sr 520 & NE 51st St,5,XNT,0.5,0.1,6,0.5,0.1
+251,542,I,71335,Sr 520 & NE 40th St,6,XNT,5.1,0.1,11,5.1,0.1
+251,542,I,71356,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,7,XNT,0.2,0,11.1,0.2,0
+251,542,I,71355,Sr 520 & Evergreen Point Rd,8,XNT,0.1,0,11.2,0.1,0
+251,542,I,25753,Sr 520 & Montlake Blvd E,9,XNT,0,0.4,11,0,0.4
+251,542,I,25755,Montlake Blvd NE & NE Pacific Pl - Bay 4,10,XNT,0.7,4.9,6.6,0.7,4.9
+251,542,I,29420,NE Pacific St & 15th Ave NE,11,XNT,0.1,0.4,6.3,0.1,0.4
+251,542,I,29440,15th Ave NE & NE Campus Pkwy,12,XNT,0.1,1.4,5,0.1,1.4
+251,542,I,11352,15th Ave NE & NE 42nd St,13,XNT,0,5,0,0,5
+251,542,O,10912,15th Ave NE & NE 43rd St,1,XNT,3,0,3,5.9,0
+251,542,O,10914,15th Ave NE & NE Campus Pkwy,2,XNT,0.9,0,3.7,1.8,0
+251,542,O,10917,15th Ave NE & NE 40th St,3,XNT,0.8,0,4.5,1.6,0
+251,542,O,29240,NE Pacific St & 15th Ave NE,4,XNT,0.3,0.1,4.6,0.5,0.1
+251,542,O,29247,NE Pacific St & Montlake Blvd NE - Bay 1,5,XNT,1.5,0.2,6,3,0.3
+251,542,O,25754,Sr 520 & Montlake Blvd E,6,XNT,0.1,0.1,6.2,0.2,0.1
+251,542,O,71348,Sr 520 & Evergreen Point Rd,7,XNT,0.2,0.2,6,0.3,0.3
+251,542,O,71359,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,8,XNT,0.1,0.3,5.8,0.1,0.5
+251,542,O,71336,State Route 520 & NE 40th St,9,XNT,0.1,2.3,4.6,0.4,6.8
+251,542,O,71353,Sr 520 & NE 51st St,10,XNT,0,0.4,4.3,0,1.1
+251,542,O,72458,West Lake Sammamish Pkwy NE & Leary Way,11,XNT,0.1,0.8,3.5,0.2,2.5
+251,542,O,73848,NE 85th St & 154th Ave NE,12,XNT,0,0.1,3.4,0,0.3
+251,542,O,73757,NE 85th St & 161st Ave NE,13,XNT,0,0.8,2.7,0,2.3
+251,542,O,73227,Redmond Transit Center - Bay 1,14,XNT,0.1,2.8,0,0.2,8.3

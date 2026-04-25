@@ -1,0 +1,456 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+251,331,I,76372,NE Bothell Way & Kenmore Park & Ride,1,AM,0.9,0,0.9,9.4,0
+251,331,I,76390,NE Bothell Way & 68th Ave NE,2,AM,0.7,0,1.6,6.9,0.1
+251,331,I,76420,NE Bothell Way & 61st Ave NE,3,AM,0.3,0,1.9,2.5,0
+251,331,I,82280,Ballinger Way NE & NE 175th St,4,AM,0.3,0,2.1,2.5,0.2
+251,331,I,82300,Ballinger Way NE & NE 184th St,5,AM,0.1,0,2.2,1.1,0
+251,331,I,82310,Ballinger Way NE & 40th Ave NE,6,AM,0,0,2.2,0.1,0
+251,331,I,82320,Ballinger Way NE & 37th Ave NE,7,AM,0,0,2.2,0,0
+251,331,I,76490,35th Ave NE & Ballinger Way NE,8,AM,0.1,0,2.4,1.1,0
+251,331,I,82330,35th Ave NE & NE 190th St,9,AM,0.2,0,2.6,2.4,0
+251,331,I,82332,NE 190th St & 33rd Ave NE,10,AM,0,0,2.6,0.1,0
+251,331,I,82334,NE 190th St & Ballinger Way NE,11,AM,0.1,0,2.7,0.6,0
+251,331,I,82335,Ballinger Way NE & NE 190th St,12,AM,0.1,0,2.8,1.3,0
+251,331,I,82324,Ballinger Way NE & 25th Ave NE,13,AM,0.8,0,3.5,7.8,0.2
+251,331,I,82326,Ballinger Way NE & 23rd Ave NE,14,AM,0.4,0,3.9,3.5,0
+251,331,I,77942,Ballinger Way NE & 19th Ave NE,15,AM,0.5,0.3,4,4.5,3.1
+251,331,I,82429,19th Ave NE & 244th St SW,16,AM,0.4,0,4.4,4.2,0
+251,331,I,82431,56th Ave W & 240th St SW,17,AM,0.3,0,4.6,2.5,0.2
+251,331,I,91699,236th St SW & 56th Ave W,18,AM,0.1,0.1,4.6,0.8,0.5
+251,331,I,85254,Mountlake Terrace Station - Bay 1,19,AM,0.7,2.5,2.9,6.5,24.6
+251,331,I,81982,Van Ry Blvd & Mountlake Terrace Station,20,AM,0.1,0.1,2.9,0.9,0.7
+251,331,I,81984,244th St SW & Van Ry Blvd,21,AM,0,0,2.6,0,0
+251,331,I,85800,N 205th St & 1st Ave NE,22,AM,0,0,2.9,0.3,0.1
+251,331,I,77391,Meridian Ave N & N 205th St,23,AM,0,0.1,2.8,0.1,0.5
+251,331,I,16140,Meridian Ave N & N 203rd St,24,AM,0,0,2.8,0,0
+251,331,I,16770,N 200th St & Burke Ave N,25,AM,0.1,0,2.9,1,0.1
+251,331,I,16100,Aurora Village Transit Center - Bay 10,26,AM,0.7,1.5,2.1,6.2,13.5
+251,331,I,77197,N 200th St & Whitman Ave N,27,AM,0.3,0.1,2.3,2.3,0.8
+251,331,I,77199,N 200th St & Fremont Ave N,28,AM,0.1,0,2.3,0.5,0.2
+251,331,I,74954,N 200th St & Dayton Ave N,29,AM,0.2,0,2.5,1.4,0
+251,331,I,74956,N 200th St & Greenwood Ave N,30,AM,0.1,0,2.5,0.6,0
+251,331,I,74960,3rd Ave NW & NW 200th St,31,AM,0.2,0.1,2.7,2.1,0.7
+251,331,I,74980,3rd Ave NW & NW 195th St,32,AM,0,0.5,2.2,0.3,4.7
+251,331,I,74990,3rd Ave NW & NW 191st St,33,AM,0.1,0,2.3,0.8,0.4
+251,331,I,75007,NW Richmond Beach Rd & 1st Ave NW,34,AM,0.4,0.2,2.5,3.5,1.5
+251,331,I,75020,Dayton Ave N & N 185th St,35,AM,0.1,0,2.6,1.1,0
+251,331,I,75030,Dayton Ave N & N 183rd St,36,AM,0,0,2.6,0.1,0
+251,331,I,75050,Dayton Ave N & N 179th Pl,37,AM,0.1,0,2.7,0.9,0
+251,331,I,75060,Dayton Ave N & St. Luke Pl N,38,AM,0,0,2.7,0,0
+251,331,I,75141,N 172nd St & Fremont Ave N,39,AM,0,0.8,1.9,0.2,7.6
+251,331,I,75139,Fremont Ave N & N 170th Pl,40,AM,0,0,1.9,0,0.1
+251,331,I,75145,Fremont Ave N & N 167th St,41,AM,0,0,1.9,0,0
+251,331,I,5488,Carlyle Hall Rd N & Dayton Ave N,42,AM,0,0,1.9,0.3,0.3
+251,331,I,5489,Greenwood Ave N & N Greenwood Dr,43,AM,0,0.1,1.9,0.3,0.6
+251,331,I,6940,N Innis Arden Way & Greenwood Ave N,44,AM,0.4,1.5,0.3,3.9,13.8
+251,331,I,5493,Shoreline Community College,45,AM,0,1.9,0,0.1,17.5
+251,331,O,5493,Shoreline Community College,1,AM,0.7,0,0.6,6.5,0.1
+251,331,O,5502,N Innis Arden Way & Greenwood Ave N,2,AM,0,0,0.7,0.1,0.1
+251,331,O,5486,Greenwood Ave N & N Greenwood Dr,3,AM,0.1,0,0.6,0.7,0.1
+251,331,O,5487,Carlyle Hall Rd N & Dayton Ave N,4,AM,0.2,0,0.7,1.5,0.3
+251,331,O,75144,Fremont Ave N & N 167th St,5,AM,0,0,0.8,0.2,0
+251,331,O,75143,Fremont Ave N & N 170th St,6,AM,0,0,0.8,0.2,0.1
+251,331,O,75142,N 172nd St & Dayton Ave N,7,AM,0,0,0.8,0.2,0
+251,331,O,75510,Dayton Ave N & St. Luke Pl N,8,AM,0,0,0.8,0,0
+251,331,O,75520,Dayton Ave N & N 179th Pl,9,AM,0.2,0,1,2.1,0
+251,331,O,75530,Dayton Ave N & N 183rd St,10,AM,0,0,1,0.1,0
+251,331,O,75540,Dayton Ave N & N 185th St,11,AM,0,0,1.1,0.2,0.1
+251,331,O,75549,NW Richmond Beach Rd & 2nd Ave NW,12,AM,0,0,1,0,0.1
+251,331,O,70702,3rd Ave NW & NW Richmond Beach Rd,13,AM,0.4,0,1.4,4.3,0.1
+251,331,O,70704,3rd Ave NW & NW 191st St,14,AM,0,0,1.4,0.1,0.3
+251,331,O,70706,3rd Ave NW & NW 195th St,15,AM,0,0.4,1.1,0.3,3.9
+251,331,O,70710,NW 200th St & 3rd Ave NW,16,AM,0.2,0,1.3,2.4,0.1
+251,331,O,70714,N 200th St & Greenwood Ave N,17,AM,0.1,0,1.4,0.9,0
+251,331,O,70716,N 200th St & Dayton Ave N,18,AM,0,0,1.4,0.3,0
+251,331,O,70718,N 200th St & Fremont Ave N,19,AM,0.1,0,1.5,1,0
+251,331,O,70720,N 200th St & Whitman Ave N,20,AM,0.2,0.1,1.6,1.8,1.2
+251,331,O,16103,Aurora Village Transit Center - Bay 3,21,AM,1.5,0.5,2.7,14.9,4.6
+251,331,O,89990,N 200th St & Burke Ave N,22,AM,0.1,0,2.7,0.8,0
+251,331,O,77390,Meridian Ave N & N 200th St,23,AM,0.1,0,2.8,1.1,0.2
+251,331,O,77392,Meridian Ave N & N 205th St,24,AM,0.1,0,2.9,0.6,0
+251,331,O,85810,NE 205th St & 6th Ave NE,25,AM,0,0,2.9,0.4,0
+251,331,O,81983,Van Ry Blvd & 244th St SW,26,AM,0,0,2.5,0,0.4
+251,331,O,81981,Van Ry Blvd & Mountlake Dr,27,AM,0.2,0.2,3,1.6,1.5
+251,331,O,85254,Mountlake Terrace Station - Bay 1,28,AM,1.3,0.8,3.4,11.4,7.4
+251,331,O,91710,236th St SW & 58th Ave W,29,AM,0,0,3.4,0.4,0.2
+251,331,O,82434,56th Ave W & 236th St SW,30,AM,0.2,0,3.5,1.5,0.3
+251,331,O,82432,56th Ave W & 240th St SW,31,AM,0.1,0,3.6,0.8,0
+251,331,O,82433,56th Ave W & 244th St SW,32,AM,0.1,0,3.7,1.1,0.4
+251,331,O,82772,Ballinger Way NE & 19th Ave NE,33,AM,0.6,0.6,3.8,5.5,5
+251,331,O,82775,Ballinger Way NE & 23rd Ave NE,34,AM,0.1,0,3.8,1.1,0.3
+251,331,O,82776,Ballinger Way NE & 25th Ave NE,35,AM,0.3,0.2,4,2.9,1.5
+251,331,O,82778,Ballinger Way NE & NE 190th St,36,AM,0.1,0,4,0.9,0.3
+251,331,O,82777,Ballinger Way NE & 35th Ave NE,37,AM,0.1,0.2,3.9,0.7,1.5
+251,331,O,82104,Ballinger Way NE & 37th Ave NE,38,AM,0,0,3.9,0.1,0.1
+251,331,O,82105,Ballinger Way NE & 40th Ave NE,39,AM,0,0,3.9,0,0.1
+251,331,O,82106,Ballinger Way NE & NE 184th St,40,AM,0,0,3.9,0,0
+251,331,O,82107,Ballinger Way NE & NE 175th St,41,AM,0,1.2,2.7,0.3,9.9
+251,331,O,76830,Bothell Way NE & Ballinger Way NE,42,AM,0,0.1,2.6,0,0.4
+251,331,O,76840,NE Bothell Way & 61st Ave NE,43,AM,0,0.7,2,0,5.4
+251,331,O,76870,NE Bothell Way & 68th Ave NE,44,AM,0,1,1,0.1,7.8
+251,331,O,76376,Kenmore Park & Ride & 73rd Ave NE,45,AM,0,0.2,0.8,0,1.8
+251,331,O,76374,Kenmore Park & Ride & NE Bothell Way,46,AM,0.5,1.2,0,3.6,9.9
+251,331,I,76372,NE Bothell Way & Kenmore Park & Ride,1,MID,1.3,0,1.3,16.3,0.1
+251,331,I,76390,NE Bothell Way & 68th Ave NE,2,MID,0.9,0,2.2,11.3,0.4
+251,331,I,76420,NE Bothell Way & 61st Ave NE,3,MID,0.4,0,2.6,5.1,0
+251,331,I,82280,Ballinger Way NE & NE 175th St,4,MID,1.1,0.1,3.6,13.4,1.1
+251,331,I,82300,Ballinger Way NE & NE 184th St,5,MID,0.1,0,3.6,0.7,0
+251,331,I,82310,Ballinger Way NE & 40th Ave NE,6,MID,0.1,0,3.7,1.3,0
+251,331,I,82320,Ballinger Way NE & 37th Ave NE,7,MID,0,0,3.8,0.4,0.1
+251,331,I,76490,35th Ave NE & Ballinger Way NE,8,MID,0.1,0,3.9,1.5,0.2
+251,331,I,82330,35th Ave NE & NE 190th St,9,MID,0.1,0.1,3.9,0.9,1
+251,331,I,82332,NE 190th St & 33rd Ave NE,10,MID,0.1,0,3.9,0.8,0
+251,331,I,82334,NE 190th St & Ballinger Way NE,11,MID,0.1,0,4,1,0
+251,331,I,82335,Ballinger Way NE & NE 190th St,12,MID,0.1,0,4,1,0.5
+251,331,I,82324,Ballinger Way NE & 25th Ave NE,13,MID,0.7,0.1,4.6,8.7,1.4
+251,331,I,82326,Ballinger Way NE & 23rd Ave NE,14,MID,0.6,0.1,5.1,7.1,1.5
+251,331,I,77942,Ballinger Way NE & 19th Ave NE,15,MID,0.7,0.3,5.4,8.4,3.9
+251,331,I,82429,19th Ave NE & 244th St SW,16,MID,0.6,0.1,6,7.2,0.8
+251,331,I,82431,56th Ave W & 240th St SW,17,MID,0.4,0.1,6.2,4.4,0.7
+251,331,I,91699,236th St SW & 56th Ave W,18,MID,0.2,0.2,6.2,2.3,2.8
+251,331,I,85254,Mountlake Terrace Station - Bay 1,19,MID,0.8,2.9,4.1,9.9,34.8
+251,331,I,81982,Van Ry Blvd & Mountlake Terrace Station,20,MID,0.2,0.2,4.1,2.3,2
+251,331,I,81984,244th St SW & Van Ry Blvd,21,MID,0,0,4,0.2,0
+251,331,I,85800,N 205th St & 1st Ave NE,22,MID,0,0.1,3.9,0.2,1.1
+251,331,I,77391,Meridian Ave N & N 205th St,23,MID,0.1,0.1,4,0.9,0.9
+251,331,I,16140,Meridian Ave N & N 203rd St,24,MID,0,0,4,0,0
+251,331,I,16770,N 200th St & Burke Ave N,25,MID,0.1,0.1,4,0.8,0.9
+251,331,I,16100,Aurora Village Transit Center - Bay 10,26,MID,1.3,2.5,2.7,15.4,30
+251,331,I,77197,N 200th St & Whitman Ave N,27,MID,0.4,0.2,3,5.2,1.9
+251,331,I,77199,N 200th St & Fremont Ave N,28,MID,0,0.1,2.9,0.2,0.9
+251,331,I,74954,N 200th St & Dayton Ave N,29,MID,0.1,0.1,2.9,0.7,1.5
+251,331,I,74956,N 200th St & Greenwood Ave N,30,MID,0,0,2.9,0.3,0.5
+251,331,I,74960,3rd Ave NW & NW 200th St,31,MID,0.2,0.2,2.9,2.8,2.3
+251,331,I,74980,3rd Ave NW & NW 195th St,32,MID,0.1,0.2,2.9,1.2,1.8
+251,331,I,74990,3rd Ave NW & NW 191st St,33,MID,0.1,0.1,2.8,1,1.5
+251,331,I,75007,NW Richmond Beach Rd & 1st Ave NW,34,MID,0.4,0.2,3,4.3,2.6
+251,331,I,75020,Dayton Ave N & N 185th St,35,MID,0.1,0.1,3.1,1.7,0.6
+251,331,I,75030,Dayton Ave N & N 183rd St,36,MID,0,0,3.1,0.2,0
+251,331,I,75050,Dayton Ave N & N 179th Pl,37,MID,0.1,0,3.1,0.9,0.4
+251,331,I,75060,Dayton Ave N & St. Luke Pl N,38,MID,0,0,3.1,0.1,0.4
+251,331,I,75141,N 172nd St & Fremont Ave N,39,MID,0,0.2,2.9,0.1,2.2
+251,331,I,75139,Fremont Ave N & N 170th Pl,40,MID,0,0,3,0.4,0.2
+251,331,I,75145,Fremont Ave N & N 167th St,41,MID,0,0.1,2.9,0.4,1.4
+251,331,I,5488,Carlyle Hall Rd N & Dayton Ave N,42,MID,0,0,2.9,0.5,0.4
+251,331,I,5489,Greenwood Ave N & N Greenwood Dr,43,MID,0,0.2,2.8,0.4,2.1
+251,331,I,6940,N Innis Arden Way & Greenwood Ave N,44,MID,0.2,1.4,0.4,2.8,16.3
+251,331,I,5493,Shoreline Community College,45,MID,0,2.9,0,0,34.5
+251,331,O,5493,Shoreline Community College,1,MID,2.8,0,2.8,33.4,0
+251,331,O,5502,N Innis Arden Way & Greenwood Ave N,2,MID,0.1,0,2.9,0.8,0
+251,331,O,5486,Greenwood Ave N & N Greenwood Dr,3,MID,0.3,0,2.9,4,0.4
+251,331,O,5487,Carlyle Hall Rd N & Dayton Ave N,4,MID,0.1,0,2.9,0.9,0.1
+251,331,O,75144,Fremont Ave N & N 167th St,5,MID,0.1,0,3,1.2,0.1
+251,331,O,75143,Fremont Ave N & N 170th St,6,MID,0.1,0,3,0.7,0.2
+251,331,O,75142,N 172nd St & Dayton Ave N,7,MID,0.7,0,3.6,7.9,0.1
+251,331,O,75510,Dayton Ave N & St. Luke Pl N,8,MID,0,0,3.6,0.1,0
+251,331,O,75520,Dayton Ave N & N 179th Pl,9,MID,0.1,0.1,3.6,0.8,1.1
+251,331,O,75530,Dayton Ave N & N 183rd St,10,MID,0,0.1,3.6,0.2,0.6
+251,331,O,75540,Dayton Ave N & N 185th St,11,MID,0,0.2,3.4,0.3,2.1
+251,331,O,75549,NW Richmond Beach Rd & 2nd Ave NW,12,MID,0,0.4,3.1,0.2,5
+251,331,O,70702,3rd Ave NW & NW Richmond Beach Rd,13,MID,0.3,0.1,3.3,4,1.2
+251,331,O,70704,3rd Ave NW & NW 191st St,14,MID,0,0,3.3,0.1,0.2
+251,331,O,70706,3rd Ave NW & NW 195th St,15,MID,0.2,0.1,3.4,2.4,1.3
+251,331,O,70710,NW 200th St & 3rd Ave NW,16,MID,0.3,0.2,3.5,4,2.6
+251,331,O,70714,N 200th St & Greenwood Ave N,17,MID,0,0.1,3.4,0.3,0.8
+251,331,O,70716,N 200th St & Dayton Ave N,18,MID,0.1,0.1,3.5,1.3,0.9
+251,331,O,70718,N 200th St & Fremont Ave N,19,MID,0.1,0.1,3.5,0.6,0.6
+251,331,O,70720,N 200th St & Whitman Ave N,20,MID,0.3,0.4,3.3,3.5,5.3
+251,331,O,16103,Aurora Village Transit Center - Bay 3,21,MID,3,1.8,4.5,36.4,21.9
+251,331,O,89990,N 200th St & Burke Ave N,22,MID,0.1,0,4.5,0.7,0.3
+251,331,O,77390,Meridian Ave N & N 200th St,23,MID,0.2,0.1,4.5,2.1,1.3
+251,331,O,77392,Meridian Ave N & N 205th St,24,MID,0.2,0.1,4.6,2.1,0.9
+251,331,O,85810,NE 205th St & 6th Ave NE,25,MID,0.1,0,4.6,0.9,0.4
+251,331,O,81983,Van Ry Blvd & 244th St SW,26,MID,0,0.2,4.3,0.3,2.1
+251,331,O,81981,Van Ry Blvd & Mountlake Dr,27,MID,0.2,0.4,4.4,2.6,5.1
+251,331,O,85254,Mountlake Terrace Station - Bay 1,28,MID,1.7,1,5,19.9,11.8
+251,331,O,91710,236th St SW & 58th Ave W,29,MID,0.1,0,5,0.7,0.4
+251,331,O,82434,56th Ave W & 236th St SW,30,MID,0.2,0.1,5.1,2.5,1.1
+251,331,O,82432,56th Ave W & 240th St SW,31,MID,0.1,0.1,5.1,0.7,0.9
+251,331,O,82433,56th Ave W & 244th St SW,32,MID,0,0.3,4.8,0.5,3.5
+251,331,O,82772,Ballinger Way NE & 19th Ave NE,33,MID,0.5,0.6,4.8,6.1,7.4
+251,331,O,82775,Ballinger Way NE & 23rd Ave NE,34,MID,0.2,0.2,4.8,2.7,2.2
+251,331,O,82776,Ballinger Way NE & 25th Ave NE,35,MID,0.2,0.5,4.5,2.4,5.9
+251,331,O,82778,Ballinger Way NE & NE 190th St,36,MID,0,0.1,4.4,0.5,1.1
+251,331,O,82777,Ballinger Way NE & 35th Ave NE,37,MID,0.1,0.1,4.4,1.7,1.7
+251,331,O,82104,Ballinger Way NE & 37th Ave NE,38,MID,0,0,4.4,0.4,0.1
+251,331,O,82105,Ballinger Way NE & 40th Ave NE,39,MID,0,0,4.4,0,0.3
+251,331,O,82106,Ballinger Way NE & NE 184th St,40,MID,0,0,4.4,0,0.2
+251,331,O,82107,Ballinger Way NE & NE 175th St,41,MID,0.1,1.5,3,1.6,19.8
+251,331,O,76830,Bothell Way NE & Ballinger Way NE,42,MID,0,0.1,2.9,0,1.3
+251,331,O,76840,NE Bothell Way & 61st Ave NE,43,MID,0,0.5,2.4,0.5,7.1
+251,331,O,76870,NE Bothell Way & 68th Ave NE,44,MID,0.1,1.4,1.1,1,18.1
+251,331,O,76376,Kenmore Park & Ride & 73rd Ave NE,45,MID,0,0.4,0.7,0,5.1
+251,331,O,76374,Kenmore Park & Ride & NE Bothell Way,46,MID,0.6,1.3,0,7.3,16.4
+251,331,I,76372,NE Bothell Way & Kenmore Park & Ride,1,PM,1.5,0,1.5,16.6,0
+251,331,I,76390,NE Bothell Way & 68th Ave NE,2,PM,1.3,0,2.8,13.9,0.3
+251,331,I,76420,NE Bothell Way & 61st Ave NE,3,PM,0.5,0.1,3.1,5,0.9
+251,331,I,82280,Ballinger Way NE & NE 175th St,4,PM,2.1,0.2,5,22.6,2
+251,331,I,82300,Ballinger Way NE & NE 184th St,5,PM,0.1,0,5,0.8,0.4
+251,331,I,82310,Ballinger Way NE & 40th Ave NE,6,PM,0,0,5.1,0.3,0
+251,331,I,82320,Ballinger Way NE & 37th Ave NE,7,PM,0,0,5.1,0.4,0.3
+251,331,I,76490,35th Ave NE & Ballinger Way NE,8,PM,0.1,0,5.1,1.2,0.3
+251,331,I,82330,35th Ave NE & NE 190th St,9,PM,0.1,0.1,5.2,1,1.4
+251,331,I,82332,NE 190th St & 33rd Ave NE,10,PM,0,0,5.1,0.2,0
+251,331,I,82334,NE 190th St & Ballinger Way NE,11,PM,0,0,5.1,0.3,0.4
+251,331,I,82335,Ballinger Way NE & NE 190th St,12,PM,0.1,0.1,5.1,0.7,1.2
+251,331,I,82324,Ballinger Way NE & 25th Ave NE,13,PM,0.5,0.3,5.3,5.2,2.9
+251,331,I,82326,Ballinger Way NE & 23rd Ave NE,14,PM,0.3,0.2,5.4,2.8,2.3
+251,331,I,77942,Ballinger Way NE & 19th Ave NE,15,PM,0.6,0.6,5.4,7,6.7
+251,331,I,82429,19th Ave NE & 244th St SW,16,PM,0.2,0.2,5.4,2.3,1.8
+251,331,I,82431,56th Ave W & 240th St SW,17,PM,0.1,0.1,5.4,0.9,0.6
+251,331,I,91699,236th St SW & 56th Ave W,18,PM,0.1,0.4,5.2,1.2,3.9
+251,331,I,85254,Mountlake Terrace Station - Bay 1,19,PM,1,2.1,4.1,10.9,22.7
+251,331,I,81982,Van Ry Blvd & Mountlake Terrace Station,20,PM,0.3,0.2,4.2,3.7,2.7
+251,331,I,81984,244th St SW & Van Ry Blvd,21,PM,0,0,4,0.1,0
+251,331,I,85800,N 205th St & 1st Ave NE,22,PM,0,0.1,4.1,0.2,1.7
+251,331,I,77391,Meridian Ave N & N 205th St,23,PM,0.1,0.1,4.1,0.6,0.7
+251,331,I,16140,Meridian Ave N & N 203rd St,24,PM,0,0,4.1,0,0
+251,331,I,16770,N 200th St & Burke Ave N,25,PM,0,0.2,3.9,0.4,2.8
+251,331,I,16100,Aurora Village Transit Center - Bay 10,26,PM,1.2,2.1,3.1,14.1,24.6
+251,331,I,77197,N 200th St & Whitman Ave N,27,PM,0.3,0.5,2.9,3.9,5.9
+251,331,I,77199,N 200th St & Fremont Ave N,28,PM,0,0.2,2.7,0,2.3
+251,331,I,74954,N 200th St & Dayton Ave N,29,PM,0,0.1,2.5,0.1,1.5
+251,331,I,74956,N 200th St & Greenwood Ave N,30,PM,0,0.1,2.5,0.1,0.8
+251,331,I,74960,3rd Ave NW & NW 200th St,31,PM,0.1,0.2,2.3,0.8,2.2
+251,331,I,74980,3rd Ave NW & NW 195th St,32,PM,0.3,0.1,2.5,2.9,1.3
+251,331,I,74990,3rd Ave NW & NW 191st St,33,PM,0.1,0.2,2.3,0.6,2.7
+251,331,I,75007,NW Richmond Beach Rd & 1st Ave NW,34,PM,0.2,0.1,2.4,1.9,1.6
+251,331,I,75020,Dayton Ave N & N 185th St,35,PM,0,0.1,2.3,0.5,0.8
+251,331,I,75030,Dayton Ave N & N 183rd St,36,PM,0,0,2.4,0.1,0.1
+251,331,I,75050,Dayton Ave N & N 179th Pl,37,PM,0,0.1,2.3,0.3,1.1
+251,331,I,75060,Dayton Ave N & St. Luke Pl N,38,PM,0,0,2.3,0.1,0
+251,331,I,75141,N 172nd St & Fremont Ave N,39,PM,0,0.2,2.1,0,1.7
+251,331,I,75139,Fremont Ave N & N 170th Pl,40,PM,0,0,2.1,0,0.5
+251,331,I,75145,Fremont Ave N & N 167th St,41,PM,0,0.1,2,0,1.6
+251,331,I,5488,Carlyle Hall Rd N & Dayton Ave N,42,PM,0,0.1,1.9,0.5,1.4
+251,331,I,5489,Greenwood Ave N & N Greenwood Dr,43,PM,0,0.3,1.7,0.2,3.2
+251,331,I,6940,N Innis Arden Way & Greenwood Ave N,44,PM,0.4,1.1,0.4,4.7,11.9
+251,331,I,5493,Shoreline Community College,45,PM,0,1.8,0,0,19.7
+251,331,O,5493,Shoreline Community College,1,PM,2.8,0,2.8,30.3,0
+251,331,O,5502,N Innis Arden Way & Greenwood Ave N,2,PM,0.2,0.1,2.8,1.9,0.7
+251,331,O,5486,Greenwood Ave N & N Greenwood Dr,3,PM,0.3,0,2.8,3.8,0
+251,331,O,5487,Carlyle Hall Rd N & Dayton Ave N,4,PM,0.1,0,2.8,0.8,0.5
+251,331,O,75144,Fremont Ave N & N 167th St,5,PM,0.1,0.1,3,1.5,0.6
+251,331,O,75143,Fremont Ave N & N 170th St,6,PM,0,0,2.9,0.2,0
+251,331,O,75142,N 172nd St & Dayton Ave N,7,PM,0.3,0,3.2,3.1,0.2
+251,331,O,75510,Dayton Ave N & St. Luke Pl N,8,PM,0,0,3.2,0.2,0.2
+251,331,O,75520,Dayton Ave N & N 179th Pl,9,PM,0,0.1,3.2,0.5,1.1
+251,331,O,75530,Dayton Ave N & N 183rd St,10,PM,0,0,3.1,0,0.1
+251,331,O,75540,Dayton Ave N & N 185th St,11,PM,0,0.1,3.1,0.4,0.9
+251,331,O,75549,NW Richmond Beach Rd & 2nd Ave NW,12,PM,0,0.2,2.9,0.3,2.3
+251,331,O,70702,3rd Ave NW & NW Richmond Beach Rd,13,PM,0.5,0.1,3.3,5.1,1.5
+251,331,O,70704,3rd Ave NW & NW 191st St,14,PM,0,0,3.2,0.1,0.1
+251,331,O,70706,3rd Ave NW & NW 195th St,15,PM,0.9,0.1,4,9.9,1
+251,331,O,70710,NW 200th St & 3rd Ave NW,16,PM,0.3,0.2,4.2,3.3,1.7
+251,331,O,70714,N 200th St & Greenwood Ave N,17,PM,0.1,0.1,4.1,0.7,1
+251,331,O,70716,N 200th St & Dayton Ave N,18,PM,0,0.2,4,0.5,2.2
+251,331,O,70718,N 200th St & Fremont Ave N,19,PM,0,0.1,4,0.5,0.6
+251,331,O,70720,N 200th St & Whitman Ave N,20,PM,0.2,0.8,3.4,1.7,8.6
+251,331,O,16103,Aurora Village Transit Center - Bay 3,21,PM,2.7,1.2,4.9,29.9,12.8
+251,331,O,89990,N 200th St & Burke Ave N,22,PM,0,0,4.9,0.2,0.5
+251,331,O,77390,Meridian Ave N & N 200th St,23,PM,0.1,0.2,4.9,1,1.7
+251,331,O,77392,Meridian Ave N & N 205th St,24,PM,0.1,0.1,4.9,1.2,0.8
+251,331,O,85810,NE 205th St & 6th Ave NE,25,PM,0,0,4.9,0.2,0.5
+251,331,O,81983,Van Ry Blvd & 244th St SW,26,PM,0,0.1,4.3,0.1,1.6
+251,331,O,81981,Van Ry Blvd & Mountlake Dr,27,PM,0.2,0.3,4.8,2.4,3.6
+251,331,O,85254,Mountlake Terrace Station - Bay 1,28,PM,3,1.2,6.6,35.5,13.8
+251,331,O,91710,236th St SW & 58th Ave W,29,PM,0.1,0,6.7,0.7,0.4
+251,331,O,82434,56th Ave W & 236th St SW,30,PM,0.3,0.2,6.8,2.8,2.2
+251,331,O,82432,56th Ave W & 240th St SW,31,PM,0,0.2,6.6,0.5,2.6
+251,331,O,82433,56th Ave W & 244th St SW,32,PM,0.1,0.5,6.2,1.1,5.6
+251,331,O,82772,Ballinger Way NE & 19th Ave NE,33,PM,0.6,0.8,6,6.3,8.3
+251,331,O,82775,Ballinger Way NE & 23rd Ave NE,34,PM,0.2,0.4,5.8,1.8,4
+251,331,O,82776,Ballinger Way NE & 25th Ave NE,35,PM,0.1,0.9,5,1.4,10.2
+251,331,O,82778,Ballinger Way NE & NE 190th St,36,PM,0,0.3,4.8,0.2,2.8
+251,331,O,82777,Ballinger Way NE & 35th Ave NE,37,PM,0,0.2,4.6,0.1,2
+251,331,O,82104,Ballinger Way NE & 37th Ave NE,38,PM,0,0,4.6,0.2,0.5
+251,331,O,82105,Ballinger Way NE & 40th Ave NE,39,PM,0,0.1,4.5,0,0.8
+251,331,O,82106,Ballinger Way NE & NE 184th St,40,PM,0,0,4.5,0,0.5
+251,331,O,82107,Ballinger Way NE & NE 175th St,41,PM,0.1,1.6,2.9,1,18
+251,331,O,76830,Bothell Way NE & Ballinger Way NE,42,PM,0,0.1,2.9,0.1,0.8
+251,331,O,76840,NE Bothell Way & 61st Ave NE,43,PM,0,0.4,2.5,0.5,4.6
+251,331,O,76870,NE Bothell Way & 68th Ave NE,44,PM,0,1.2,1.4,0.2,13
+251,331,O,76376,Kenmore Park & Ride & 73rd Ave NE,45,PM,0,0.6,0.8,0,6.2
+251,331,O,76374,Kenmore Park & Ride & NE Bothell Way,46,PM,0.8,1.7,0,9.1,18.2
+251,331,I,76372,NE Bothell Way & Kenmore Park & Ride,1,XEV,0.8,0,0.8,4,0
+251,331,I,76390,NE Bothell Way & 68th Ave NE,2,XEV,0.8,0,1.7,4.6,0.2
+251,331,I,76420,NE Bothell Way & 61st Ave NE,3,XEV,0.2,0,1.8,1.2,0
+251,331,I,82280,Ballinger Way NE & NE 175th St,4,XEV,1.5,0.1,3.2,8.8,0.4
+251,331,I,82300,Ballinger Way NE & NE 184th St,5,XEV,0,0,3.2,0,0.2
+251,331,I,82310,Ballinger Way NE & 40th Ave NE,6,XEV,0,0,3.2,0,0
+251,331,I,82320,Ballinger Way NE & 37th Ave NE,7,XEV,0,0,3.2,0,0
+251,331,I,76490,35th Ave NE & Ballinger Way NE,8,XEV,0.1,0,3.3,0.5,0
+251,331,I,82330,35th Ave NE & NE 190th St,9,XEV,0,0,3.3,0.2,0.2
+251,331,I,82332,NE 190th St & 33rd Ave NE,10,XEV,0,0,3.3,0,0
+251,331,I,82334,NE 190th St & Ballinger Way NE,11,XEV,0,0.1,3.3,0,0.3
+251,331,I,82335,Ballinger Way NE & NE 190th St,12,XEV,0,0,3.3,0.2,0.2
+251,331,I,82324,Ballinger Way NE & 25th Ave NE,13,XEV,0.2,0.1,3.4,1.1,0.6
+251,331,I,82326,Ballinger Way NE & 23rd Ave NE,14,XEV,0.1,0.3,3.1,0.8,2
+251,331,I,77942,Ballinger Way NE & 19th Ave NE,15,XEV,0.3,0.4,3,1.7,2.4
+251,331,I,82429,19th Ave NE & 244th St SW,16,XEV,0.2,0.1,3.1,1,0.5
+251,331,I,82431,56th Ave W & 240th St SW,17,XEV,0.1,0.1,3,0.3,0.6
+251,331,I,91699,236th St SW & 56th Ave W,18,XEV,0.2,0.2,3,1,1.3
+251,331,I,85254,Mountlake Terrace Station - Bay 1,19,XEV,1,1.2,2.8,6.1,6.9
+251,331,I,81982,Van Ry Blvd & Mountlake Terrace Station,20,XEV,0.2,0.2,2.9,1.3,0.9
+251,331,I,81984,244th St SW & Van Ry Blvd,21,XEV,0,0,3,0.1,0.1
+251,331,I,85800,N 205th St & 1st Ave NE,22,XEV,0,0.1,2.8,0.1,0.3
+251,331,I,77391,Meridian Ave N & N 205th St,23,XEV,0,0.1,2.8,0,0.6
+251,331,I,16140,Meridian Ave N & N 203rd St,24,XEV,0,0,2.8,0,0
+251,331,I,16770,N 200th St & Burke Ave N,25,XEV,0,0.1,2.7,0.1,0.5
+251,331,I,16100,Aurora Village Transit Center - Bay 10,26,XEV,0.7,1,2.4,4,5.8
+251,331,I,77197,N 200th St & Whitman Ave N,27,XEV,0.1,0.1,2.4,0.8,0.8
+251,331,I,77199,N 200th St & Fremont Ave N,28,XEV,0,0.1,2.3,0,0.6
+251,331,I,74954,N 200th St & Dayton Ave N,29,XEV,0,0,2.4,0.1,0.1
+251,331,I,74956,N 200th St & Greenwood Ave N,30,XEV,0,0,2.4,0,0.2
+251,331,I,74960,3rd Ave NW & NW 200th St,31,XEV,0,0.2,2.2,0,1.7
+251,331,I,74980,3rd Ave NW & NW 195th St,32,XEV,0,0.1,2.1,0,0.5
+251,331,I,74990,3rd Ave NW & NW 191st St,33,XEV,0,0.2,1.9,0.1,1.3
+251,331,I,75007,NW Richmond Beach Rd & 1st Ave NW,34,XEV,0.1,0.1,2,0.6,0.6
+251,331,I,75020,Dayton Ave N & N 185th St,35,XEV,0,0.1,1.9,0.1,0.3
+251,331,I,75030,Dayton Ave N & N 183rd St,36,XEV,0,0,1.9,0,0.1
+251,331,I,75050,Dayton Ave N & N 179th Pl,37,XEV,0,0.1,1.9,0,0.7
+251,331,I,75060,Dayton Ave N & St. Luke Pl N,38,XEV,0,0,1.9,0,0
+251,331,I,75141,N 172nd St & Fremont Ave N,39,XEV,0,0.2,1.7,0,0.9
+251,331,I,75139,Fremont Ave N & N 170th Pl,40,XEV,0,0.1,1.7,0,0.3
+251,331,I,75145,Fremont Ave N & N 167th St,41,XEV,0,0,1.7,0,0.1
+251,331,I,5488,Carlyle Hall Rd N & Dayton Ave N,42,XEV,0.1,0.1,1.7,0.4,0.6
+251,331,I,5489,Greenwood Ave N & N Greenwood Dr,43,XEV,0.1,0.2,1.6,0.4,1.3
+251,331,I,6940,N Innis Arden Way & Greenwood Ave N,44,XEV,0.5,1.1,0.5,2.5,5.6
+251,331,I,5493,Shoreline Community College,45,XEV,0,1.7,0,0,10
+251,331,O,5493,Shoreline Community College,1,XEV,1.9,0,1.9,11.3,0
+251,331,O,5502,N Innis Arden Way & Greenwood Ave N,2,XEV,0.1,0.1,1.9,0.4,0.3
+251,331,O,5486,Greenwood Ave N & N Greenwood Dr,3,XEV,0.2,0,1.8,0.9,0.1
+251,331,O,5487,Carlyle Hall Rd N & Dayton Ave N,4,XEV,0,0,1.9,0,0
+251,331,O,75144,Fremont Ave N & N 167th St,5,XEV,0,0,1.9,0,0.1
+251,331,O,75143,Fremont Ave N & N 170th St,6,XEV,0,0,1.8,0.1,0
+251,331,O,75142,N 172nd St & Dayton Ave N,7,XEV,0.1,0,1.9,0.4,0
+251,331,O,75510,Dayton Ave N & St. Luke Pl N,8,XEV,0,0,1.9,0.1,0
+251,331,O,75520,Dayton Ave N & N 179th Pl,9,XEV,0,0.1,1.9,0.2,0.3
+251,331,O,75530,Dayton Ave N & N 183rd St,10,XEV,0,0,1.9,0,0
+251,331,O,75540,Dayton Ave N & N 185th St,11,XEV,0,0,1.9,0,0.2
+251,331,O,75549,NW Richmond Beach Rd & 2nd Ave NW,12,XEV,0.1,0.1,1.9,0.3,0.5
+251,331,O,70702,3rd Ave NW & NW Richmond Beach Rd,13,XEV,0.2,0.1,2,1.3,0.4
+251,331,O,70704,3rd Ave NW & NW 191st St,14,XEV,0,0,2,0,0
+251,331,O,70706,3rd Ave NW & NW 195th St,15,XEV,0.1,0,2,0.3,0
+251,331,O,70710,NW 200th St & 3rd Ave NW,16,XEV,0.2,0.1,2.1,0.9,0.6
+251,331,O,70714,N 200th St & Greenwood Ave N,17,XEV,0,0,2.1,0,0
+251,331,O,70716,N 200th St & Dayton Ave N,18,XEV,0,0,2.1,0,0
+251,331,O,70718,N 200th St & Fremont Ave N,19,XEV,0,0,2.1,0.1,0
+251,331,O,70720,N 200th St & Whitman Ave N,20,XEV,0.1,0.3,1.9,0.5,2
+251,331,O,16103,Aurora Village Transit Center - Bay 3,21,XEV,1.7,0.4,3.1,10,2.4
+251,331,O,89990,N 200th St & Burke Ave N,22,XEV,0,0,3.1,0,0.2
+251,331,O,77390,Meridian Ave N & N 200th St,23,XEV,0.1,0.1,3.1,0.3,0.4
+251,331,O,77392,Meridian Ave N & N 205th St,24,XEV,0.1,0.1,3.1,0.6,0.6
+251,331,O,85810,NE 205th St & 6th Ave NE,25,XEV,0,0.1,3,0.1,0.5
+251,331,O,81983,Van Ry Blvd & 244th St SW,26,XEV,0,0.2,2.9,0.2,0.9
+251,331,O,81981,Van Ry Blvd & Mountlake Dr,27,XEV,0.1,0.3,2.8,0.5,2
+251,331,O,85254,Mountlake Terrace Station - Bay 1,28,XEV,1.5,0.6,3.7,9.2,3.5
+251,331,O,91710,236th St SW & 58th Ave W,29,XEV,0,0,4,0.2,0.1
+251,331,O,82434,56th Ave W & 236th St SW,30,XEV,0.1,0.3,3.9,0.8,2
+251,331,O,82432,56th Ave W & 240th St SW,31,XEV,0,0.1,3.8,0.2,0.9
+251,331,O,82433,56th Ave W & 244th St SW,32,XEV,0,0.5,3.6,0.2,2.7
+251,331,O,82772,Ballinger Way NE & 19th Ave NE,33,XEV,0.3,0.5,3.4,1.8,2.9
+251,331,O,82775,Ballinger Way NE & 23rd Ave NE,34,XEV,0.1,0.3,3.2,0.5,1.8
+251,331,O,82776,Ballinger Way NE & 25th Ave NE,35,XEV,0.1,0.3,3,0.4,1.6
+251,331,O,82778,Ballinger Way NE & NE 190th St,36,XEV,0,0.1,2.9,0.1,0.8
+251,331,O,82777,Ballinger Way NE & 35th Ave NE,37,XEV,0,0.1,2.8,0,0.5
+251,331,O,82104,Ballinger Way NE & 37th Ave NE,38,XEV,0,0.1,2.7,0,0.4
+251,331,O,82105,Ballinger Way NE & 40th Ave NE,39,XEV,0,0.1,2.6,0,0.6
+251,331,O,82106,Ballinger Way NE & NE 184th St,40,XEV,0,0,2.6,0,0.1
+251,331,O,82107,Ballinger Way NE & NE 175th St,41,XEV,0.1,0.7,1.9,0.4,4.4
+251,331,O,76830,Bothell Way NE & Ballinger Way NE,42,XEV,0,0.1,1.9,0.1,0.6
+251,331,O,76840,NE Bothell Way & 61st Ave NE,43,XEV,0,0.3,1.6,0.2,1.7
+251,331,O,76870,NE Bothell Way & 68th Ave NE,44,XEV,0,0.8,0.8,0.1,5
+251,331,O,76376,Kenmore Park & Ride & 73rd Ave NE,45,XEV,0,0.2,0.6,0,1.3
+251,331,O,76374,Kenmore Park & Ride & NE Bothell Way,46,XEV,0.4,1,0,2.5,5.9
+251,331,I,76372,NE Bothell Way & Kenmore Park & Ride,1,XNT,0.4,0,0.4,1.3,0
+251,331,I,76390,NE Bothell Way & 68th Ave NE,2,XNT,0.3,0,0.8,0.9,0
+251,331,I,76420,NE Bothell Way & 61st Ave NE,3,XNT,0.2,0,0.9,0.5,0.1
+251,331,I,82280,Ballinger Way NE & NE 175th St,4,XNT,0.5,0,1.3,1.4,0.1
+251,331,I,82300,Ballinger Way NE & NE 184th St,5,XNT,0,0,1.3,0,0
+251,331,I,82310,Ballinger Way NE & 40th Ave NE,6,XNT,0,0,1.3,0,0
+251,331,I,82320,Ballinger Way NE & 37th Ave NE,7,XNT,0,0,1.3,0,0
+251,331,I,76490,35th Ave NE & Ballinger Way NE,8,XNT,0,0,1.3,0,0
+251,331,I,82330,35th Ave NE & NE 190th St,9,XNT,0,0,1.3,0,0
+251,331,I,82332,NE 190th St & 33rd Ave NE,10,XNT,0,0,1.3,0,0
+251,331,I,82334,NE 190th St & Ballinger Way NE,11,XNT,0,0.1,1.2,0,0.3
+251,331,I,82335,Ballinger Way NE & NE 190th St,12,XNT,0,0,1.3,0.1,0
+251,331,I,82324,Ballinger Way NE & 25th Ave NE,13,XNT,0,0,1.3,0,0
+251,331,I,82326,Ballinger Way NE & 23rd Ave NE,14,XNT,0,0.1,1.3,0.1,0.3
+251,331,I,77942,Ballinger Way NE & 19th Ave NE,15,XNT,0.1,0.1,1.2,0.3,0.4
+251,331,I,82429,19th Ave NE & 244th St SW,16,XNT,0,0,1.3,0.1,0
+251,331,I,82431,56th Ave W & 240th St SW,17,XNT,0,0,1.2,0,0
+251,331,I,91699,236th St SW & 56th Ave W,18,XNT,0,0,1.3,0.1,0.1
+251,331,I,85254,Mountlake Terrace Station - Bay 1,19,XNT,0.8,0.4,1.7,2.4,1.2
+251,331,I,81982,Van Ry Blvd & Mountlake Terrace Station,20,XNT,0.1,0.1,1.6,0.3,0.4
+251,331,I,81984,244th St SW & Van Ry Blvd,21,XNT,0,0.1,1.6,0,0.4
+251,331,I,85800,N 205th St & 1st Ave NE,22,XNT,0,0,1.6,0,0
+251,331,I,77391,Meridian Ave N & N 205th St,23,XNT,0,0,1.5,0,0
+251,331,I,16140,Meridian Ave N & N 203rd St,24,XNT,0,0,1.5,0.1,0.1
+251,331,I,16770,N 200th St & Burke Ave N,25,XNT,0,0.1,1.4,0,0.2
+251,331,I,16100,Aurora Village Transit Center - Bay 10,26,XNT,0.4,0.4,1.4,1.2,1.3
+251,331,I,77197,N 200th St & Whitman Ave N,27,XNT,0.1,0.2,1.3,0.3,0.5
+251,331,I,77199,N 200th St & Fremont Ave N,28,XNT,0,0.1,1.2,0,0.2
+251,331,I,74954,N 200th St & Dayton Ave N,29,XNT,0,0,1.2,0,0.1
+251,331,I,74956,N 200th St & Greenwood Ave N,30,XNT,0,0,1.2,0,0
+251,331,I,74960,3rd Ave NW & NW 200th St,31,XNT,0,0.2,1.1,0,0.5
+251,331,I,74980,3rd Ave NW & NW 195th St,32,XNT,0,0.1,1,0,0.2
+251,331,I,74990,3rd Ave NW & NW 191st St,33,XNT,0,0.1,0.9,0,0.2
+251,331,I,75007,NW Richmond Beach Rd & 1st Ave NW,34,XNT,0,0.1,1,0.1,0.3
+251,331,I,75020,Dayton Ave N & N 185th St,35,XNT,0.1,0,1.1,0.3,0.1
+251,331,I,75030,Dayton Ave N & N 183rd St,36,XNT,0,0,1.1,0,0
+251,331,I,75050,Dayton Ave N & N 179th Pl,37,XNT,0,0.1,1,0,0.3
+251,331,I,75060,Dayton Ave N & St. Luke Pl N,38,XNT,0,0,1,0,0
+251,331,I,75141,N 172nd St & Fremont Ave N,39,XNT,0,0.1,1,0,0.2
+251,331,I,75139,Fremont Ave N & N 170th Pl,40,XNT,0,0,0.9,0,0.1
+251,331,I,75145,Fremont Ave N & N 167th St,41,XNT,0,0,0.9,0,0
+251,331,I,5488,Carlyle Hall Rd N & Dayton Ave N,42,XNT,0,0.1,0.9,0.1,0.2
+251,331,I,5489,Greenwood Ave N & N Greenwood Dr,43,XNT,0,0.2,0.8,0.1,0.6
+251,331,I,6940,N Innis Arden Way & Greenwood Ave N,44,XNT,0.2,1.2,0.1,1,5.9
+251,331,I,5493,Shoreline Community College,45,XNT,0,0.7,0,0,2.6
+251,331,O,5493,Shoreline Community College,1,XNT,1.1,0,1.1,3.3,0
+251,331,O,5502,N Innis Arden Way & Greenwood Ave N,2,XNT,0.1,0.1,1.2,0.3,0.3
+251,331,O,5486,Greenwood Ave N & N Greenwood Dr,3,XNT,0,0,1.2,0.1,0
+251,331,O,5487,Carlyle Hall Rd N & Dayton Ave N,4,XNT,0,0,1.1,0,0
+251,331,O,75144,Fremont Ave N & N 167th St,5,XNT,0,0,1.1,0,0
+251,331,O,75143,Fremont Ave N & N 170th St,6,XNT,0,0,1.1,0,0
+251,331,O,75142,N 172nd St & Dayton Ave N,7,XNT,0,0,1.1,0,0
+251,331,O,75510,Dayton Ave N & St. Luke Pl N,8,XNT,0,0,1.1,0,0
+251,331,O,75520,Dayton Ave N & N 179th Pl,9,XNT,0,0,1.1,0,0
+251,331,O,75530,Dayton Ave N & N 183rd St,10,XNT,0,0,1.1,0,0
+251,331,O,75540,Dayton Ave N & N 185th St,11,XNT,0,0,1.1,0,0
+251,331,O,75549,NW Richmond Beach Rd & 2nd Ave NW,12,XNT,0,0,1.1,0,0
+251,331,O,70702,3rd Ave NW & NW Richmond Beach Rd,13,XNT,0.1,0,1.1,0.2,0
+251,331,O,70704,3rd Ave NW & NW 191st St,14,XNT,0,0,1.1,0,0
+251,331,O,70706,3rd Ave NW & NW 195th St,15,XNT,0,0,1.1,0,0
+251,331,O,70710,NW 200th St & 3rd Ave NW,16,XNT,0.1,0,1.2,0.2,0
+251,331,O,70714,N 200th St & Greenwood Ave N,17,XNT,0,0,1.2,0,0
+251,331,O,70716,N 200th St & Dayton Ave N,18,XNT,0,0,1.2,0,0
+251,331,O,70718,N 200th St & Fremont Ave N,19,XNT,0,0,1.2,0,0
+251,331,O,70720,N 200th St & Whitman Ave N,20,XNT,0,0,1.1,0,0.1
+251,331,O,16103,Aurora Village Transit Center - Bay 3,21,XNT,0.7,0.1,1.7,2,0.3
+251,331,O,89990,N 200th St & Burke Ave N,22,XNT,0,0.1,1.7,0,0.2
+251,331,O,77390,Meridian Ave N & N 200th St,23,XNT,0,0,1.6,0,0
+251,331,O,77392,Meridian Ave N & N 205th St,24,XNT,0,0,1.6,0.1,0.1
+251,331,O,85810,NE 205th St & 6th Ave NE,25,XNT,0,0,1.6,0,0
+251,331,O,81983,Van Ry Blvd & 244th St SW,26,XNT,0,0,1.2,0,0
+251,331,O,81981,Van Ry Blvd & Mountlake Dr,27,XNT,0,0.1,1.5,0.1,0.4
+251,331,O,85254,Mountlake Terrace Station - Bay 1,28,XNT,0.8,0.2,2.1,2.4,0.7
+251,331,O,91710,236th St SW & 58th Ave W,29,XNT,0,0,2.4,0,0
+251,331,O,82434,56th Ave W & 236th St SW,30,XNT,0,0,2.1,0.1,0
+251,331,O,82432,56th Ave W & 240th St SW,31,XNT,0,0.1,2,0,0.3
+251,331,O,82433,56th Ave W & 244th St SW,32,XNT,0,0.1,2.1,0.1,0.2
+251,331,O,82772,Ballinger Way NE & 19th Ave NE,33,XNT,0.1,0.3,1.9,0.3,1
+251,331,O,82775,Ballinger Way NE & 23rd Ave NE,34,XNT,0,0.3,1.7,0,1
+251,331,O,82776,Ballinger Way NE & 25th Ave NE,35,XNT,0,0.3,1.4,0,1.1
+251,331,O,82778,Ballinger Way NE & NE 190th St,36,XNT,0,0.1,1.3,0.1,0.3
+251,331,O,82777,Ballinger Way NE & 35th Ave NE,37,XNT,0,0.1,1.3,0,0.3
+251,331,O,82104,Ballinger Way NE & 37th Ave NE,38,XNT,0,0,1.3,0,0
+251,331,O,82105,Ballinger Way NE & 40th Ave NE,39,XNT,0,0.2,1.1,0,0.8
+251,331,O,82106,Ballinger Way NE & NE 184th St,40,XNT,0,0,1,0,0.1
+251,331,O,82107,Ballinger Way NE & NE 175th St,41,XNT,0,0.2,0.9,0,0.7
+251,331,O,76830,Bothell Way NE & Ballinger Way NE,42,XNT,0,0,0.9,0,0
+251,331,O,76840,NE Bothell Way & 61st Ave NE,43,XNT,0,0.2,0.7,0,0.7
+251,331,O,76870,NE Bothell Way & 68th Ave NE,44,XNT,0,0.3,0.4,0,1.3
+251,331,O,76376,Kenmore Park & Ride & 73rd Ave NE,45,XNT,0,0.2,0.3,0,0.6
+251,331,O,76374,Kenmore Park & Ride & NE Bothell Way,46,XNT,0.4,0.7,0,1.4,2.7

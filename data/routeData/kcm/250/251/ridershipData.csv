@@ -1,0 +1,504 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+251,250,I,71828,Avondale Pl NE & Avondale Rd NE,1,AM,0.2,0,0.2,2.6,0
+251,250,I,71830,Avondale Pl NE & Avondale Rd NE,2,AM,0.4,0.2,0.3,5.3,3.5
+251,250,I,71850,Avondale Rd NE & NE 116th St,3,AM,0.6,0,0.9,8.8,0
+251,250,I,71864,Avondale Rd NE & 11000 Block,4,AM,0.3,0,1.1,3.6,0
+251,250,I,71870,Avondale Rd NE & NE 104th St,5,AM,0,0,1.1,0.2,0
+251,250,I,71876,Avondale Rd NE & NE Novelty Hill Rd,6,AM,0.8,0,1.9,10.8,0
+251,250,I,71880,Avondale Rd NE & NE 95th St,7,AM,1.4,0,3.2,19,0.2
+251,250,I,71890,Avondale Rd NE & 180th Ave NE,8,AM,0.9,0.1,3.9,11.9,1.1
+251,250,I,71910,Avondale Rd NE & NE 85th Pl,9,AM,0.2,0,4.1,3.4,0.5
+251,250,I,72307,NE Union Hill Rd & 178th Pl NE,10,AM,0,0.1,4.1,0,0.9
+251,250,I,81755,Bear Creek Park And Ride,11,AM,0.7,1,3.7,9.6,14.5
+251,250,I,72309,NE Union Hill Rd & Avondale Rd NE,12,AM,0.1,0,3.8,0.7,0.2
+251,250,I,80496,Avondale Way NE & 170th Pl NE,13,AM,0.4,0.2,4,6.1,3.2
+251,250,I,72477,Downtown Redmond Station - Bay 2,14,AM,0.4,1.1,3.2,5,15
+251,250,I,73637,164th Ave NE & NE 80th St,15,AM,0.2,0.1,3.5,3,2
+251,250,I,71961,Redmond Transit Center - Bay 4,16,AM,2.6,1,5.1,36.5,13.8
+251,250,I,71970,NE Redmond Way & 160th Ave NE,17,AM,0.4,0.1,5.5,5.7,1
+251,250,I,71971,NE Redmond Way & Bear Creek Pkwy,18,AM,0.4,0.1,5.8,5.4,1
+251,250,I,73095,NE Redmond Way & Willows Rd NE,19,AM,0.6,0,6.2,7.2,0.2
+251,250,I,73100,NE Redmond Way & 149th Pl NE,20,AM,0.9,0,7,11.7,0.5
+251,250,I,73106,NE Redmond Way & 145th Ave NE,21,AM,0.2,0,7.2,2.3,0
+251,250,I,73112,NE Redmond Way & 140th Ave NE,22,AM,0.3,0,7.5,3.3,0.3
+251,250,I,73950,NE 85th St & 132nd Ave NE,23,AM,0.5,0.2,7.8,7,2.6
+251,250,I,73951,NE 85th St & 128th Ave NE,24,AM,0.5,0.3,7.9,6,3.7
+251,250,I,73952,NE 85th St & 126th Ave NE,25,AM,0,0.1,7.8,0.6,1.9
+251,250,I,73953,NE 85th St & 124th Ave NE,26,AM,0.4,0.9,7.3,5,11.6
+251,250,I,70664,NE 85th St & 114th Ave NE,27,AM,0.2,0.3,7.2,2.2,3.3
+251,250,I,70665,Central Way & 5th St,28,AM,1.5,1.1,7.6,19.2,13.8
+251,250,I,73816,Kirkland Transit Center - Bay 3,29,AM,2.9,1.5,9,37.2,19.2
+251,250,I,72230,State St & 4th Ave S,30,AM,0.2,0,9.1,2.8,0.2
+251,250,I,72232,State St & 6th Ave S,31,AM,0.2,0.2,9.1,1.9,2.2
+251,250,I,72250,State St S & 10th Ave S,32,AM,0.4,0.2,9.3,4.8,2
+251,250,I,68875,Lakeview Dr NE & NE 64th St,33,AM,0.2,0,9.4,2,0.1
+251,250,I,68873,Lakeview Dr NE & NE 59th St,34,AM,0.1,0.1,9.4,0.8,0.9
+251,250,I,68871,Lake Washington Blvd NE & Lakeview Dr NE,35,AM,0.1,0.5,9,1.4,6.5
+251,250,I,68890,Lake Washington Blvd NE & NE 52nd St,36,AM,0,0,9.1,0.4,0
+251,250,I,68900,Lake Washington Blvd NE & NE 52nd St,37,AM,0,0,9.1,0,0
+251,250,I,68910,Lake Washington Blvd NE & NE 43rd St,38,AM,0.3,0,9.3,4,0.4
+251,250,I,68920,Lake Washington Blvd NE & NE 38th Pl,39,AM,0.1,0.2,9.2,0.8,2.2
+251,250,I,74450,South Kirkland Park & Ride,40,AM,2.5,0.6,11.1,29.9,7.4
+251,250,I,74448,Northup Way & NE 33rd Pl,41,AM,0,0.1,11,0.3,1.6
+251,250,I,74447,Northup Way & NE 30th St,42,AM,0,0.7,10.4,0.5,8.2
+251,250,I,74455,Northup Way & NE 28th St,43,AM,0,0.1,10.3,0,1.2
+251,250,I,68355,116th Ave NE & Northup Way,44,AM,0,0.3,10.1,0.5,3.4
+251,250,I,73047,116th Ave NE & NE 24th St,45,AM,0.1,0.1,10,0.7,1
+251,250,I,68348,116th Ave NE & NE 20th St,46,AM,0,0.2,9.8,0.2,2.8
+251,250,I,73051,116th Ave NE & NE 19th St,47,AM,0,0.5,9.2,0.2,5.7
+251,250,I,68353,116th Ave NE & NE 12th St,48,AM,0,1.1,8.2,0.5,11.9
+251,250,I,69028,NE 10th St & 116th Ave NE,49,AM,0.1,0.6,7.8,1.4,6.5
+251,250,I,67598,NE 10th St & 112th Ave NE,50,AM,0,1.1,6.7,0,12.3
+251,250,I,69021,Bellevue Transit Center - Bay 10,51,AM,0,6.7,0,0,73.8
+251,250,O,69021,Bellevue Transit Center - Bay 10,1,AM,6.2,0,6.2,80.2,0
+251,250,O,69026,NE 10th St & 110th Ave NE,2,AM,0.6,0.1,6.7,7.2,0.9
+251,250,O,67595,NE 10th St & 116th Ave NE,3,AM,0.3,0.7,6.3,3.9,8.7
+251,250,O,73055,116th Ave NE & NE 12th St,4,AM,0.2,0.7,5.8,3,8.6
+251,250,O,73054,116th Ave NE & NE 19th St,5,AM,0,0.4,5.5,0.3,5.3
+251,250,O,68349,116th Ave NE & NE 20th St,6,AM,0,0.2,5.3,0.3,2.4
+251,250,O,73056,116th Ave NE & NE 21st St,7,AM,0,0,5.3,0,0.5
+251,250,O,68354,116th Ave NE & Northup Way,8,AM,0,0.3,5,0.2,3.4
+251,250,O,74453,Northup Way & NE 28th St,9,AM,0,0.2,4.9,0,2
+251,250,O,74446,Northup Way & NE 30th St,10,AM,0,0.4,4.5,0.1,5.1
+251,250,O,74451,Northup Way & NE 33rd Pl,11,AM,0,0.2,4.3,0.2,2.2
+251,250,O,74450,South Kirkland Park & Ride,12,AM,1.3,0.5,5.1,15.1,6
+251,250,O,74437,NE 38th Pl & Lake Washington Blvd NE,13,AM,0,0.1,5.1,0.5,1.5
+251,250,O,69420,Lake Washington Blvd NE & NE 43rd St,14,AM,0.1,0,5.1,1.6,0.5
+251,250,O,69430,Lake Washington Blvd NE & NE 46th St,15,AM,0,0,5.1,0.1,0
+251,250,O,69440,Lake Washington Blvd NE & NE 52nd St,16,AM,0.1,0.3,4.9,0.7,3.2
+251,250,O,69465,Lakeview Dr NE & Lake Washington Blvd NE,17,AM,0,0.8,4.1,0,9.9
+251,250,O,69475,Lakeview Dr NE & NE 59th St,18,AM,0,0.1,4,0,1.6
+251,250,O,69485,Lakeview Dr NE & NE 64th St,19,AM,0,0.1,3.9,0.4,1.4
+251,250,O,72180,State St S & 10th Ave S,20,AM,0.1,0.1,3.9,1.5,1.5
+251,250,O,72190,State St & 7th Ave S,21,AM,0,0.2,3.7,0.3,2.7
+251,250,O,72200,State St & 3rd Ave S,22,AM,0.4,0.1,4,4.6,0.7
+251,250,O,73814,Kirkland Transit Center - Bay 2,23,AM,1.6,0.9,4.7,18.6,10.7
+251,250,O,70672,Central Way & 5th St,24,AM,0.9,0.7,4.8,10.5,8.6
+251,250,O,70666,NE 85th St & Kirkland Way,25,AM,0.2,0.2,4.8,2.1,2
+251,250,O,73840,NE 85th St & 120th Ave NE,26,AM,0.5,0.8,4.5,5,9
+251,250,O,73845,NE 85th St & 126th Ave NE,27,AM,0.3,0.5,4.3,3.8,5.4
+251,250,O,73847,NE 85th St & 128th Ave NE,28,AM,0.2,0,4.5,2.7,0.5
+251,250,O,73852,NE 85th St & 132nd Ave NE,29,AM,0.2,0.3,4.4,2.3,3.2
+251,250,O,73418,NE Redmond Way & 140th Ave NE,30,AM,0.4,0,4.8,4.1,0
+251,250,O,73945,NE Redmond Way & 145th Ave NE,31,AM,0,0,4.8,0,0.1
+251,250,O,73420,NE Redmond Way & 148th Ave NE,32,AM,0.2,0.2,4.8,2.2,2.1
+251,250,O,73425,NE Redmond Way & Willows Rd NE,33,AM,0.3,0.2,4.9,2.8,1.8
+251,250,O,73430,NE Redmond Way & West Lake Sammamish Pkwy NE,34,AM,0,0,4.8,0,0.5
+251,250,O,72452,NE Redmond Way & Bear Creek Pkwy,35,AM,0.1,0.5,4.5,1.1,5
+251,250,O,98750,Redmond Transit Center - Bay 2,36,AM,0.9,1.4,4,10.1,15.3
+251,250,O,73638,164th Ave NE & NE 83rd St,37,AM,0,0.2,3.8,0.3,2
+251,250,O,72479,Downtown Redmond Station - Bay 4,38,AM,0.1,0.5,3.4,1.2,5.4
+251,250,O,84014,Avondale Way NE & 170th Pl NE,39,AM,0.2,0.6,3,2.4,6.2
+251,250,O,72307,NE Union Hill Rd & 178th Pl NE,40,AM,0,0.4,2.6,0,3.9
+251,250,O,81755,Bear Creek Park And Ride,41,AM,0.3,1.6,1.3,3.4,16.3
+251,250,O,84015,Avondale Rd NE & NE Union Hill Rd,42,AM,0,0.1,1.2,0,0.8
+251,250,O,72520,Avondale Rd NE & NE 85th Pl,43,AM,0,0,1.2,0,0.1
+251,250,O,72540,Avondale Rd NE & 180th Ave NE,44,AM,0,0.1,1.1,0.1,1.2
+251,250,O,72550,Avondale Rd NE & NE 95th St,45,AM,0,0.2,0.9,0.2,1.7
+251,250,O,72552,Avondale Rd NE & NE Novelty Hill Rd,46,AM,0,0.1,0.9,0,0.8
+251,250,O,72560,Avondale Rd NE & NE 104th St,47,AM,0,0.1,0.8,0,1.1
+251,250,O,71868,Avondale Rd NE & Puget Power Trail Walk,48,AM,0,0.1,0.6,0,1.1
+251,250,O,72580,Avondale Rd NE & NE 116th St,49,AM,0,0.4,0.3,0.3,3.8
+251,250,O,71828,Avondale Pl NE & Avondale Rd NE,50,AM,0,0.3,0,0,3.2
+251,250,I,71828,Avondale Pl NE & Avondale Rd NE,1,MID,0.3,0,0.3,3.7,0
+251,250,I,71830,Avondale Pl NE & Avondale Rd NE,2,MID,0.5,0.3,0.5,6.5,4.1
+251,250,I,71850,Avondale Rd NE & NE 116th St,3,MID,0.8,0,1.3,9.3,0
+251,250,I,71864,Avondale Rd NE & 11000 Block,4,MID,0.4,0,1.7,5,0
+251,250,I,71870,Avondale Rd NE & NE 104th St,5,MID,0.3,0,2,4.3,0.1
+251,250,I,71876,Avondale Rd NE & NE Novelty Hill Rd,6,MID,0.9,0,2.9,11.9,0.2
+251,250,I,71880,Avondale Rd NE & NE 95th St,7,MID,1.6,0,4.5,20.8,0.4
+251,250,I,71890,Avondale Rd NE & 180th Ave NE,8,MID,1.5,0,5.9,19.9,0.4
+251,250,I,71910,Avondale Rd NE & NE 85th Pl,9,MID,0.3,0.1,6.1,3.5,1.1
+251,250,I,81755,Bear Creek Park And Ride,11,MID,1.5,0.1,1.4,17.7,0.6
+251,250,I,72309,NE Union Hill Rd & Avondale Rd NE,12,MID,0.3,0.1,1.6,3.3,0.8
+251,250,I,80496,Avondale Way NE & 170th Pl NE,13,MID,0.8,0.6,4,18.3,14.6
+251,250,I,72477,Downtown Redmond Station - Bay 2,14,MID,0.7,0.7,4,17.9,15.9
+251,250,I,73637,164th Ave NE & NE 80th St,15,MID,0.4,0.2,4.2,9.6,5.6
+251,250,I,71961,Redmond Transit Center - Bay 4,16,MID,2.3,1.3,5.2,54.2,31.1
+251,250,I,71970,NE Redmond Way & 160th Ave NE,17,MID,0.8,0.2,5.8,19,3.7
+251,250,I,71971,NE Redmond Way & Bear Creek Pkwy,18,MID,0.4,0.1,6.1,9.3,3
+251,250,I,73095,NE Redmond Way & Willows Rd NE,19,MID,0.4,0.1,6.4,9.2,3.7
+251,250,I,73100,NE Redmond Way & 149th Pl NE,20,MID,0.6,0.3,6.6,14.3,7.7
+251,250,I,73106,NE Redmond Way & 145th Ave NE,21,MID,0.1,0,6.7,2.7,0.4
+251,250,I,73112,NE Redmond Way & 140th Ave NE,22,MID,0.1,0.1,6.8,3.3,1.5
+251,250,I,73950,NE 85th St & 132nd Ave NE,23,MID,0.5,0.3,7.1,12.8,6.3
+251,250,I,73951,NE 85th St & 128th Ave NE,24,MID,0.3,0.3,7.1,6.4,6.8
+251,250,I,73952,NE 85th St & 126th Ave NE,25,MID,0.1,0.3,6.9,2.3,6.2
+251,250,I,73953,NE 85th St & 124th Ave NE,26,MID,1.1,0.8,7.1,25.3,20.3
+251,250,I,70664,NE 85th St & 114th Ave NE,27,MID,0.1,0.1,7.1,2.6,3.2
+251,250,I,70665,Central Way & 5th St,28,MID,0.7,1,6.8,17.9,24.4
+251,250,I,73816,Kirkland Transit Center - Bay 3,29,MID,2,2.1,6.7,47.5,50.4
+251,250,I,72230,State St & 4th Ave S,30,MID,0.2,0.1,6.8,3.8,3.1
+251,250,I,72232,State St & 6th Ave S,31,MID,0.1,0.2,6.8,2.7,4.6
+251,250,I,72250,State St S & 10th Ave S,32,MID,0.2,0.2,6.8,5.7,5.7
+251,250,I,68875,Lakeview Dr NE & NE 64th St,33,MID,0.1,0,6.8,2.5,1
+251,250,I,68873,Lakeview Dr NE & NE 59th St,34,MID,0.1,0.1,6.9,2.4,1.7
+251,250,I,68871,Lake Washington Blvd NE & Lakeview Dr NE,35,MID,0.1,0.3,6.8,3.5,6.6
+251,250,I,68890,Lake Washington Blvd NE & NE 52nd St,36,MID,0.1,0,6.8,1.7,0
+251,250,I,68900,Lake Washington Blvd NE & NE 52nd St,37,MID,0,0,6.9,0.2,0
+251,250,I,68910,Lake Washington Blvd NE & NE 43rd St,38,MID,0.1,0.1,6.9,2.7,2.1
+251,250,I,68920,Lake Washington Blvd NE & NE 38th Pl,39,MID,0.1,0.1,6.8,1.4,2.1
+251,250,I,74450,South Kirkland Park & Ride,40,MID,1.5,0.6,7.8,36.5,14
+251,250,I,74448,Northup Way & NE 33rd Pl,41,MID,0.1,0,7.8,2,0.5
+251,250,I,74447,Northup Way & NE 30th St,42,MID,0.2,0.1,8,5.3,2.3
+251,250,I,74455,Northup Way & NE 28th St,43,MID,0,0.1,7.9,0.9,1.8
+251,250,I,68355,116th Ave NE & Northup Way,44,MID,0.1,0.2,7.9,2.5,3.8
+251,250,I,73047,116th Ave NE & NE 24th St,45,MID,0,0.1,7.8,0.3,1.3
+251,250,I,68348,116th Ave NE & NE 20th St,46,MID,0.1,0,7.9,1.9,0.9
+251,250,I,73051,116th Ave NE & NE 19th St,47,MID,0.1,0.2,7.9,3.1,5.7
+251,250,I,68353,116th Ave NE & NE 12th St,48,MID,0.2,0.5,7.6,4.8,11.4
+251,250,I,69028,NE 10th St & 116th Ave NE,49,MID,0.2,0.4,7.5,5.3,9.1
+251,250,I,67598,NE 10th St & 112th Ave NE,50,MID,0.1,1,6.5,1.5,25.1
+251,250,I,69021,Bellevue Transit Center - Bay 10,51,MID,0,6.5,0,0,156.7
+251,250,O,69021,Bellevue Transit Center - Bay 10,1,MID,5.5,0,5.5,132.5,0
+251,250,O,69026,NE 10th St & 110th Ave NE,2,MID,0.7,0.2,6.1,17.2,4.2
+251,250,O,67595,NE 10th St & 116th Ave NE,3,MID,0.3,0.3,6.1,8.3,7.4
+251,250,O,73055,116th Ave NE & NE 12th St,4,MID,0.4,0.3,6.2,10.3,6.8
+251,250,O,73054,116th Ave NE & NE 19th St,5,MID,0.1,0.2,6,3.4,3.8
+251,250,O,68349,116th Ave NE & NE 20th St,6,MID,0.1,0.1,6,2.4,2.1
+251,250,O,73056,116th Ave NE & NE 21st St,7,MID,0,0,6,0.1,0.1
+251,250,O,68354,116th Ave NE & Northup Way,8,MID,0.1,0.1,6,1.9,2.7
+251,250,O,74453,Northup Way & NE 28th St,9,MID,0,0.1,5.9,0.6,2.6
+251,250,O,74446,Northup Way & NE 30th St,10,MID,0.1,0.2,5.8,2.2,3.7
+251,250,O,74451,Northup Way & NE 33rd Pl,11,MID,0,0,5.8,0.4,0.9
+251,250,O,74450,South Kirkland Park & Ride,12,MID,0.9,0.9,5.8,20.9,21.1
+251,250,O,74437,NE 38th Pl & Lake Washington Blvd NE,13,MID,0.1,0,5.8,1.3,1
+251,250,O,69420,Lake Washington Blvd NE & NE 43rd St,14,MID,0.1,0.1,5.8,2.2,2.2
+251,250,O,69430,Lake Washington Blvd NE & NE 46th St,15,MID,0,0,5.8,0,0
+251,250,O,69440,Lake Washington Blvd NE & NE 52nd St,16,MID,0,0.1,5.8,0.5,2.1
+251,250,O,69465,Lakeview Dr NE & Lake Washington Blvd NE,17,MID,0.1,0.3,5.6,2.5,7.1
+251,250,O,69475,Lakeview Dr NE & NE 59th St,18,MID,0.1,0.1,5.6,1.3,1.3
+251,250,O,69485,Lakeview Dr NE & NE 64th St,19,MID,0,0,5.6,0.9,1
+251,250,O,72180,State St S & 10th Ave S,20,MID,0.2,0.2,5.6,4.6,3.7
+251,250,O,72190,State St & 7th Ave S,21,MID,0.1,0.2,5.4,1.8,5.5
+251,250,O,72200,State St & 3rd Ave S,22,MID,0.1,0.1,5.4,1.6,2.9
+251,250,O,73814,Kirkland Transit Center - Bay 2,23,MID,1.7,1.6,5.5,40.6,38.2
+251,250,O,70672,Central Way & 5th St,24,MID,1,0.5,6,23.9,12
+251,250,O,70666,NE 85th St & Kirkland Way,25,MID,0.1,0.2,5.8,2.2,4.1
+251,250,O,73840,NE 85th St & 120th Ave NE,26,MID,0.9,0.9,5.8,21.8,20.6
+251,250,O,73845,NE 85th St & 126th Ave NE,27,MID,0.5,0.5,5.9,12.1,11.5
+251,250,O,73847,NE 85th St & 128th Ave NE,28,MID,0.2,0.2,5.9,5.5,3.9
+251,250,O,73852,NE 85th St & 132nd Ave NE,29,MID,0.4,0.4,5.9,8.5,9.1
+251,250,O,73418,NE Redmond Way & 140th Ave NE,30,MID,0.2,0.1,5.9,3.7,2.6
+251,250,O,73945,NE Redmond Way & 145th Ave NE,31,MID,0,0,5.9,0.2,0.5
+251,250,O,73420,NE Redmond Way & 148th Ave NE,32,MID,0.2,0.5,5.6,3.6,11.1
+251,250,O,73425,NE Redmond Way & Willows Rd NE,33,MID,0.2,0.3,5.6,5.6,6
+251,250,O,73430,NE Redmond Way & West Lake Sammamish Pkwy NE,34,MID,0,0.1,5.5,0.8,3.5
+251,250,O,72452,NE Redmond Way & Bear Creek Pkwy,35,MID,0.2,0.7,4.9,4.3,17.8
+251,250,O,98750,Redmond Transit Center - Bay 2,36,MID,1.3,2,4.2,30.2,47
+251,250,O,73638,164th Ave NE & NE 83rd St,37,MID,0.1,0.3,4,2.7,7.5
+251,250,O,72479,Downtown Redmond Station - Bay 4,38,MID,0.3,0.9,3.3,6.4,22.7
+251,250,O,84014,Avondale Way NE & 170th Pl NE,39,MID,0.6,1.3,2.6,13.2,31.7
+251,250,O,72307,NE Union Hill Rd & 178th Pl NE,40,MID,0,0.6,1.4,0.3,6.9
+251,250,O,81755,Bear Creek Park And Ride,41,MID,0.2,1.6,0,2.6,19.6
+251,250,O,72520,Avondale Rd NE & NE 85th Pl,43,MID,0.2,0.3,3.3,2.6,3.1
+251,250,O,72540,Avondale Rd NE & 180th Ave NE,44,MID,0,0.7,2.6,0.1,8.1
+251,250,O,72550,Avondale Rd NE & NE 95th St,45,MID,0.1,0.9,1.8,1.7,10.9
+251,250,O,72552,Avondale Rd NE & NE Novelty Hill Rd,46,MID,0.1,0.4,1.5,0.7,4.8
+251,250,O,72560,Avondale Rd NE & NE 104th St,47,MID,0,0.2,1.4,0.2,2.5
+251,250,O,71868,Avondale Rd NE & Puget Power Trail Walk,48,MID,0,0.2,1.1,0,2.8
+251,250,O,72580,Avondale Rd NE & NE 116th St,49,MID,0,0.8,0.4,0.4,9.7
+251,250,O,71828,Avondale Pl NE & Avondale Rd NE,50,MID,0,0.4,0,0,4.3
+251,250,I,71828,Avondale Pl NE & Avondale Rd NE,1,PM,0.2,0,0.2,3.1,0
+251,250,I,71830,Avondale Pl NE & Avondale Rd NE,2,PM,0.4,0.3,0.4,5.8,3.5
+251,250,I,71850,Avondale Rd NE & NE 116th St,3,PM,0.7,0,1.1,8.9,0.2
+251,250,I,71864,Avondale Rd NE & 11000 Block,4,PM,0.2,0,1.3,2.5,0
+251,250,I,71870,Avondale Rd NE & NE 104th St,5,PM,0.1,0,1.4,1.5,0
+251,250,I,71876,Avondale Rd NE & NE Novelty Hill Rd,6,PM,0.6,0,1.9,7.2,0.4
+251,250,I,71880,Avondale Rd NE & NE 95th St,7,PM,0.8,0,2.6,10.6,0.6
+251,250,I,71890,Avondale Rd NE & 180th Ave NE,8,PM,0.6,0,3.2,7.2,0.5
+251,250,I,71910,Avondale Rd NE & NE 85th Pl,9,PM,0.1,0,3.4,1.8,0.4
+251,250,I,72307,NE Union Hill Rd & 178th Pl NE,10,PM,0.1,0.3,2.9,1.4,2.5
+251,250,I,81755,Bear Creek Park And Ride,11,PM,1.6,0.3,3.5,21,4.3
+251,250,I,72309,NE Union Hill Rd & Avondale Rd NE,12,PM,0.2,0,3.8,3.2,0.5
+251,250,I,80496,Avondale Way NE & 170th Pl NE,13,PM,0.9,0.6,4.3,14.9,9.7
+251,250,I,72477,Downtown Redmond Station - Bay 2,14,PM,1.6,0.6,5.2,25.4,10.2
+251,250,I,73637,164th Ave NE & NE 80th St,15,PM,0.6,0.3,5.4,9.2,4.5
+251,250,I,71961,Redmond Transit Center - Bay 4,16,PM,2.5,1.5,6.4,37.3,21.9
+251,250,I,71970,NE Redmond Way & 160th Ave NE,17,PM,0.8,0.3,6.9,12.2,4
+251,250,I,71971,NE Redmond Way & Bear Creek Pkwy,18,PM,0.4,0.1,7.2,6.1,1.7
+251,250,I,73095,NE Redmond Way & Willows Rd NE,19,PM,0.2,0.4,7,3.1,5.4
+251,250,I,73100,NE Redmond Way & 149th Pl NE,20,PM,0.6,0.4,7.3,9.7,5.8
+251,250,I,73106,NE Redmond Way & 145th Ave NE,21,PM,0.1,0.1,7.3,1,1.4
+251,250,I,73112,NE Redmond Way & 140th Ave NE,22,PM,0.1,0.4,7,1.1,5.3
+251,250,I,73950,NE 85th St & 132nd Ave NE,23,PM,0.3,0.5,6.7,4.4,7.6
+251,250,I,73951,NE 85th St & 128th Ave NE,24,PM,0.2,0.4,6.5,2.4,6.7
+251,250,I,73952,NE 85th St & 126th Ave NE,25,PM,0.1,0.3,6.3,1.9,4.6
+251,250,I,73953,NE 85th St & 124th Ave NE,26,PM,1.6,0.8,7.1,26.3,13.1
+251,250,I,70664,NE 85th St & 114th Ave NE,27,PM,0.1,0.2,7.1,1.8,2.9
+251,250,I,70665,Central Way & 5th St,28,PM,0.7,1.1,6.6,10.8,17.7
+251,250,I,73816,Kirkland Transit Center - Bay 3,29,PM,2.1,2.7,6,33.5,43.3
+251,250,I,72230,State St & 4th Ave S,30,PM,0.1,0.4,6,2.1,6
+251,250,I,72232,State St & 6th Ave S,31,PM,0.2,0.1,6.1,3.1,1
+251,250,I,72250,State St S & 10th Ave S,32,PM,0.1,0.2,6,2.2,3.5
+251,250,I,68875,Lakeview Dr NE & NE 64th St,33,PM,0.1,0.1,6,1.2,1.6
+251,250,I,68873,Lakeview Dr NE & NE 59th St,34,PM,0.2,0.2,6,3.5,2.6
+251,250,I,68871,Lake Washington Blvd NE & Lakeview Dr NE,35,PM,0.9,0.1,6.8,14.9,2.1
+251,250,I,68890,Lake Washington Blvd NE & NE 52nd St,36,PM,0.2,0,7,2.5,0.5
+251,250,I,68900,Lake Washington Blvd NE & NE 52nd St,37,PM,0,0,6.9,0.1,0.4
+251,250,I,68910,Lake Washington Blvd NE & NE 43rd St,38,PM,0,0.1,6.8,0.7,2.3
+251,250,I,68920,Lake Washington Blvd NE & NE 38th Pl,39,PM,0.1,0.1,6.9,2.2,1.8
+251,250,I,74450,South Kirkland Park & Ride,40,PM,1,1.3,6.6,16,20.2
+251,250,I,74448,Northup Way & NE 33rd Pl,41,PM,0.3,0,6.8,4,0.5
+251,250,I,74447,Northup Way & NE 30th St,42,PM,0.3,0.1,7,5,1.6
+251,250,I,74455,Northup Way & NE 28th St,43,PM,0.2,0,7.2,2.6,0.6
+251,250,I,68355,116th Ave NE & Northup Way,44,PM,0.3,0.1,7.6,4.8,1.2
+251,250,I,73047,116th Ave NE & NE 24th St,45,PM,0.1,0,7.6,1,0
+251,250,I,68348,116th Ave NE & NE 20th St,46,PM,0.2,0.1,7.8,3.2,0.9
+251,250,I,73051,116th Ave NE & NE 19th St,47,PM,0.2,0.1,7.9,3.4,1.2
+251,250,I,68353,116th Ave NE & NE 12th St,48,PM,0.4,0.4,7.9,6.4,6
+251,250,I,69028,NE 10th St & 116th Ave NE,49,PM,0.5,0.4,8,7.7,5.8
+251,250,I,67598,NE 10th St & 112th Ave NE,50,PM,0.1,0.9,7.2,1.4,13.8
+251,250,I,69021,Bellevue Transit Center - Bay 10,51,PM,0,7.2,0,0,115.8
+251,250,O,69021,Bellevue Transit Center - Bay 10,1,PM,9.9,0,9.9,158.2,0
+251,250,O,69026,NE 10th St & 110th Ave NE,2,PM,1.5,0.2,11.2,24.6,3.2
+251,250,O,67595,NE 10th St & 116th Ave NE,3,PM,0.8,0.2,11.8,12.9,3.2
+251,250,O,73055,116th Ave NE & NE 12th St,4,PM,1.1,0.2,12.7,16.8,2.6
+251,250,O,73054,116th Ave NE & NE 19th St,5,PM,0.3,0.1,12.8,5.8,1.5
+251,250,O,68349,116th Ave NE & NE 20th St,6,PM,0.1,0.1,12.9,2,0.9
+251,250,O,73056,116th Ave NE & NE 21st St,7,PM,0.1,0,12.9,2,0
+251,250,O,68354,116th Ave NE & Northup Way,8,PM,0.3,0.1,13.1,5,2.3
+251,250,O,74453,Northup Way & NE 28th St,9,PM,0.2,0.1,13.6,2.6,1.1
+251,250,O,74446,Northup Way & NE 30th St,10,PM,0.5,0.1,14,7.5,1.5
+251,250,O,74451,Northup Way & NE 33rd Pl,11,PM,0.1,0.1,14,1.5,1.5
+251,250,O,74450,South Kirkland Park & Ride,12,PM,1.2,3,12.1,19.2,48.6
+251,250,O,74437,NE 38th Pl & Lake Washington Blvd NE,13,PM,0.1,0.1,12.1,2.3,2
+251,250,O,69420,Lake Washington Blvd NE & NE 43rd St,14,PM,0.2,0.3,12.1,3.6,4.4
+251,250,O,69430,Lake Washington Blvd NE & NE 46th St,15,PM,0,0,12.1,0,0.2
+251,250,O,69440,Lake Washington Blvd NE & NE 52nd St,16,PM,0.1,0.1,12,1,1.7
+251,250,O,69465,Lakeview Dr NE & Lake Washington Blvd NE,17,PM,0.5,0.2,12.3,7.8,3.7
+251,250,O,69475,Lakeview Dr NE & NE 59th St,18,PM,0.1,0.1,12.3,1.7,2.2
+251,250,O,69485,Lakeview Dr NE & NE 64th St,19,PM,0.1,0.1,12.2,0.8,2
+251,250,O,72180,State St S & 10th Ave S,20,PM,0.2,0.5,11.9,3.1,7.6
+251,250,O,72190,State St & 7th Ave S,21,PM,0.3,0.3,12,4.8,4
+251,250,O,72200,State St & 3rd Ave S,22,PM,0.1,0.6,11.5,1.6,9.3
+251,250,O,73814,Kirkland Transit Center - Bay 2,23,PM,2.3,3.5,10.3,37.5,56.7
+251,250,O,70672,Central Way & 5th St,24,PM,1.9,1.5,10.7,29.8,23.8
+251,250,O,70666,NE 85th St & Kirkland Way,25,PM,0.2,0.3,10.7,3.5,4.9
+251,250,O,73840,NE 85th St & 120th Ave NE,26,PM,1.7,1.2,11.1,26.5,19.5
+251,250,O,73845,NE 85th St & 126th Ave NE,27,PM,0.7,0.7,11.1,11.1,11.4
+251,250,O,73847,NE 85th St & 128th Ave NE,28,PM,0.2,0.5,10.8,3.2,8
+251,250,O,73852,NE 85th St & 132nd Ave NE,29,PM,0.4,0.9,10.3,6.5,13.9
+251,250,O,73418,NE Redmond Way & 140th Ave NE,30,PM,0.1,0.4,10.1,1.3,5.7
+251,250,O,73945,NE Redmond Way & 145th Ave NE,31,PM,0,0.1,10,0,0.9
+251,250,O,73420,NE Redmond Way & 148th Ave NE,32,PM,0.2,1.3,8.9,3.1,21.3
+251,250,O,73425,NE Redmond Way & Willows Rd NE,33,PM,0.2,0.8,8.4,3.5,12.2
+251,250,O,73430,NE Redmond Way & West Lake Sammamish Pkwy NE,34,PM,0,0.3,8.1,0.5,4.5
+251,250,O,72452,NE Redmond Way & Bear Creek Pkwy,35,PM,0.3,1,7.4,4,16
+251,250,O,98750,Redmond Transit Center - Bay 2,36,PM,2.2,3.3,6.5,32.6,49.5
+251,250,O,73638,164th Ave NE & NE 83rd St,37,PM,0.2,0.4,6.2,3.1,6
+251,250,O,72479,Downtown Redmond Station - Bay 4,38,PM,0.9,1,6.1,14.8,16.3
+251,250,O,84014,Avondale Way NE & 170th Pl NE,39,PM,1.1,1.5,5.7,16.9,23.5
+251,250,O,72307,NE Union Hill Rd & 178th Pl NE,40,PM,0.1,0.7,4.9,1.5,8.8
+251,250,O,81755,Bear Creek Park And Ride,41,PM,0.8,1.5,4.2,10.7,19.1
+251,250,O,84015,Avondale Rd NE & NE Union Hill Rd,42,PM,0.1,0,5.5,0.5,0.1
+251,250,O,72520,Avondale Rd NE & NE 85th Pl,43,PM,0.1,0.1,5.8,1.1,1.9
+251,250,O,72540,Avondale Rd NE & 180th Ave NE,44,PM,0,1.4,4.3,0.3,18.6
+251,250,O,72550,Avondale Rd NE & NE 95th St,45,PM,0,1.8,2.6,0.4,23.8
+251,250,O,72552,Avondale Rd NE & NE Novelty Hill Rd,46,PM,0,0.9,1.7,0.3,11.2
+251,250,O,72560,Avondale Rd NE & NE 104th St,47,PM,0,0.1,1.6,0,1.6
+251,250,O,71868,Avondale Rd NE & Puget Power Trail Walk,48,PM,0,0.6,1,0,6.8
+251,250,O,72580,Avondale Rd NE & NE 116th St,49,PM,0,0.8,0.3,0.5,9.2
+251,250,O,71828,Avondale Pl NE & Avondale Rd NE,50,PM,0,0.3,0,0.3,3.9
+251,250,I,71828,Avondale Pl NE & Avondale Rd NE,1,XEV,0.5,0,0.5,2.7,0
+251,250,I,71830,Avondale Pl NE & Avondale Rd NE,2,XEV,0.6,0.3,0.7,3.5,2
+251,250,I,71850,Avondale Rd NE & NE 116th St,3,XEV,0.7,0,1.3,4,0.1
+251,250,I,71864,Avondale Rd NE & 11000 Block,4,XEV,0.2,0,1.5,1.4,0
+251,250,I,71870,Avondale Rd NE & NE 104th St,5,XEV,0,0,1.6,0.2,0
+251,250,I,71876,Avondale Rd NE & NE Novelty Hill Rd,6,XEV,0.5,0.1,1.9,2.9,0.8
+251,250,I,71880,Avondale Rd NE & NE 95th St,7,XEV,0.4,0.1,2.3,2.6,0.5
+251,250,I,71890,Avondale Rd NE & 180th Ave NE,8,XEV,0.5,0,2.9,2.7,0.1
+251,250,I,71910,Avondale Rd NE & NE 85th Pl,9,XEV,0,0,2.9,0.2,0.1
+251,250,I,72307,NE Union Hill Rd & 178th Pl NE,10,XEV,0.1,0.2,2.7,0.7,1.1
+251,250,I,81755,Bear Creek Park And Ride,11,XEV,1.8,0.5,4,10.6,2.9
+251,250,I,72309,NE Union Hill Rd & Avondale Rd NE,12,XEV,0.1,0,4,0.6,0.2
+251,250,I,80496,Avondale Way NE & 170th Pl NE,13,XEV,1.2,0.4,4.8,7.2,2.4
+251,250,I,72477,Downtown Redmond Station - Bay 2,14,XEV,1.2,0.6,5.4,7.1,3.6
+251,250,I,73637,164th Ave NE & NE 80th St,15,XEV,0.5,0.3,5.3,3.4,2.1
+251,250,I,71961,Redmond Transit Center - Bay 4,16,XEV,1.8,1.2,5.9,12.8,8.3
+251,250,I,71970,NE Redmond Way & 160th Ave NE,17,XEV,0.9,0.2,6.6,6.1,1.6
+251,250,I,71971,NE Redmond Way & Bear Creek Pkwy,18,XEV,0.3,0.1,6.8,1.8,0.6
+251,250,I,73095,NE Redmond Way & Willows Rd NE,19,XEV,0.1,0.5,6.4,1,3.7
+251,250,I,73100,NE Redmond Way & 149th Pl NE,20,XEV,0.1,0.7,5.8,0.9,4.8
+251,250,I,73106,NE Redmond Way & 145th Ave NE,21,XEV,0,0.1,5.7,0,0.4
+251,250,I,73112,NE Redmond Way & 140th Ave NE,22,XEV,0,0.3,5.4,0.1,2.3
+251,250,I,73950,NE 85th St & 132nd Ave NE,23,XEV,0.2,0.3,5.3,1.6,2.3
+251,250,I,73951,NE 85th St & 128th Ave NE,24,XEV,0.1,0.2,5.1,0.5,1.7
+251,250,I,73952,NE 85th St & 126th Ave NE,25,XEV,0.1,0.3,4.9,0.8,2
+251,250,I,73953,NE 85th St & 124th Ave NE,26,XEV,0.8,0.8,5,5.6,5.3
+251,250,I,70664,NE 85th St & 114th Ave NE,27,XEV,0,0.1,4.9,0,0.9
+251,250,I,70665,Central Way & 5th St,28,XEV,0.5,0.9,4.5,3.2,6.1
+251,250,I,73816,Kirkland Transit Center - Bay 3,29,XEV,1.6,1.5,4.5,10.9,10.8
+251,250,I,72230,State St & 4th Ave S,30,XEV,0,0.1,4.4,0.2,0.9
+251,250,I,72232,State St & 6th Ave S,31,XEV,0.1,0.1,4.5,0.6,0.5
+251,250,I,72250,State St S & 10th Ave S,32,XEV,0.1,0.2,4.5,0.8,1.2
+251,250,I,68875,Lakeview Dr NE & NE 64th St,33,XEV,0.1,0.1,4.5,0.7,0.6
+251,250,I,68873,Lakeview Dr NE & NE 59th St,34,XEV,0.1,0,4.6,0.8,0.3
+251,250,I,68871,Lake Washington Blvd NE & Lakeview Dr NE,35,XEV,0.2,0.1,4.8,1.7,0.4
+251,250,I,68890,Lake Washington Blvd NE & NE 52nd St,36,XEV,0,0.1,4.7,0.1,0.5
+251,250,I,68900,Lake Washington Blvd NE & NE 52nd St,37,XEV,0,0,4.7,0,0
+251,250,I,68910,Lake Washington Blvd NE & NE 43rd St,38,XEV,0,0.1,4.7,0,0.4
+251,250,I,68920,Lake Washington Blvd NE & NE 38th Pl,39,XEV,0,0.1,4.6,0.2,0.7
+251,250,I,74450,South Kirkland Park & Ride,40,XEV,0.4,0.7,4.3,2.9,4.7
+251,250,I,74448,Northup Way & NE 33rd Pl,41,XEV,0.1,0,4.4,0.4,0
+251,250,I,74447,Northup Way & NE 30th St,42,XEV,0.1,0,4.5,0.7,0
+251,250,I,74455,Northup Way & NE 28th St,43,XEV,0,0,4.5,0.2,0
+251,250,I,68355,116th Ave NE & Northup Way,44,XEV,0.1,0,4.5,0.5,0.3
+251,250,I,73047,116th Ave NE & NE 24th St,45,XEV,0,0,4.6,0.1,0.1
+251,250,I,68348,116th Ave NE & NE 20th St,46,XEV,0,0,4.6,0.2,0.1
+251,250,I,73051,116th Ave NE & NE 19th St,47,XEV,0,0,4.6,0.1,0.1
+251,250,I,68353,116th Ave NE & NE 12th St,48,XEV,0.1,0.1,4.6,0.7,1.1
+251,250,I,69028,NE 10th St & 116th Ave NE,49,XEV,0.1,0.2,4.4,0.8,1.7
+251,250,I,67598,NE 10th St & 112th Ave NE,50,XEV,0,0.5,3.9,0,4.1
+251,250,I,69021,Bellevue Transit Center - Bay 10,51,XEV,0,3.9,0,0,31.5
+251,250,O,69021,Bellevue Transit Center - Bay 10,1,XEV,5.3,0,5.3,47.4,0.1
+251,250,O,69026,NE 10th St & 110th Ave NE,2,XEV,0.9,0.2,6,7.8,1.5
+251,250,O,67595,NE 10th St & 116th Ave NE,3,XEV,0.4,0.1,6.1,3,1.1
+251,250,O,73055,116th Ave NE & NE 12th St,4,XEV,0.3,0,6.3,2,0.2
+251,250,O,73054,116th Ave NE & NE 19th St,5,XEV,0,0,6.3,0.2,0.1
+251,250,O,68349,116th Ave NE & NE 20th St,6,XEV,0,0,6.3,0.1,0
+251,250,O,73056,116th Ave NE & NE 21st St,7,XEV,0.1,0,6.4,0.8,0
+251,250,O,68354,116th Ave NE & Northup Way,8,XEV,0,0,6.4,0.3,0.2
+251,250,O,74453,Northup Way & NE 28th St,9,XEV,0.1,0,6.5,0.6,0
+251,250,O,74446,Northup Way & NE 30th St,10,XEV,0,0,6.5,0.1,0
+251,250,O,74451,Northup Way & NE 33rd Pl,11,XEV,0,0,6.5,0,0.2
+251,250,O,74450,South Kirkland Park & Ride,12,XEV,0.4,0.9,6,3.3,7.8
+251,250,O,74437,NE 38th Pl & Lake Washington Blvd NE,13,XEV,0.1,0.1,6,1.2,0.9
+251,250,O,69420,Lake Washington Blvd NE & NE 43rd St,14,XEV,0,0,6,0.4,0.3
+251,250,O,69430,Lake Washington Blvd NE & NE 46th St,15,XEV,0,0,6,0,0.2
+251,250,O,69440,Lake Washington Blvd NE & NE 52nd St,16,XEV,0,0,6,0,0.1
+251,250,O,69465,Lakeview Dr NE & Lake Washington Blvd NE,17,XEV,0.2,0.1,6.1,1.7,0.8
+251,250,O,69475,Lakeview Dr NE & NE 59th St,18,XEV,0.1,0.1,6.1,1,0.7
+251,250,O,69485,Lakeview Dr NE & NE 64th St,19,XEV,0,0,6.1,0.3,0.2
+251,250,O,72180,State St S & 10th Ave S,20,XEV,0.1,0.2,6,1.3,2.1
+251,250,O,72190,State St & 7th Ave S,21,XEV,0.1,0.1,6.1,0.9,0.5
+251,250,O,72200,State St & 3rd Ave S,22,XEV,0,0.1,6,0.2,1
+251,250,O,73814,Kirkland Transit Center - Bay 2,23,XEV,2.1,1.8,6.2,18.7,16.5
+251,250,O,70672,Central Way & 5th St,24,XEV,1.1,0.7,6.7,10,6
+251,250,O,70666,NE 85th St & Kirkland Way,25,XEV,0,0.2,6.6,0.1,1.5
+251,250,O,73840,NE 85th St & 120th Ave NE,26,XEV,0.7,0.7,6.6,7.3,6.8
+251,250,O,73845,NE 85th St & 126th Ave NE,27,XEV,0.4,0.5,6.5,4.2,5.4
+251,250,O,73847,NE 85th St & 128th Ave NE,28,XEV,0,0.2,6.4,0.4,2.3
+251,250,O,73852,NE 85th St & 132nd Ave NE,29,XEV,0.2,0.5,6.1,2,4.7
+251,250,O,73418,NE Redmond Way & 140th Ave NE,30,XEV,0,0.1,6,0,1.3
+251,250,O,73945,NE Redmond Way & 145th Ave NE,31,XEV,0,0.1,5.9,0.2,0.5
+251,250,O,73420,NE Redmond Way & 148th Ave NE,32,XEV,0.1,1,5,0.6,9.7
+251,250,O,73425,NE Redmond Way & Willows Rd NE,33,XEV,0.2,0.3,4.8,1.5,3.3
+251,250,O,73430,NE Redmond Way & West Lake Sammamish Pkwy NE,34,XEV,0,0.1,4.8,0.2,1.2
+251,250,O,72452,NE Redmond Way & Bear Creek Pkwy,35,XEV,0.2,0.7,4.2,1.5,6.6
+251,250,O,98750,Redmond Transit Center - Bay 2,36,XEV,1.2,1.9,3.5,13.6,21
+251,250,O,73638,164th Ave NE & NE 83rd St,37,XEV,0,0.2,3.2,0.4,2.1
+251,250,O,72479,Downtown Redmond Station - Bay 4,38,XEV,0.4,0.4,3.2,4.4,4.2
+251,250,O,84014,Avondale Way NE & 170th Pl NE,39,XEV,0.8,0.9,3,7.6,9.1
+251,250,O,72307,NE Union Hill Rd & 178th Pl NE,40,XEV,0,0.4,1.7,0.2,2.1
+251,250,O,81755,Bear Creek Park And Ride,41,XEV,0.2,0.8,0.9,1,5
+251,250,O,84015,Avondale Rd NE & NE Union Hill Rd,42,XEV,0,0,5.6,0,0
+251,250,O,72520,Avondale Rd NE & NE 85th Pl,43,XEV,0.2,0.2,5,1.1,1
+251,250,O,72540,Avondale Rd NE & 180th Ave NE,44,XEV,0,1.2,3.8,0.1,5.9
+251,250,O,72550,Avondale Rd NE & NE 95th St,45,XEV,0,1.5,2.3,0.1,7.7
+251,250,O,72552,Avondale Rd NE & NE Novelty Hill Rd,46,XEV,0,0.7,1.7,0.1,3.3
+251,250,O,72560,Avondale Rd NE & NE 104th St,47,XEV,0,0.2,1.5,0,1
+251,250,O,71868,Avondale Rd NE & Puget Power Trail Walk,48,XEV,0,0.6,1.1,0,3.3
+251,250,O,72580,Avondale Rd NE & NE 116th St,49,XEV,0.1,0.7,0.5,0.7,4.4
+251,250,O,71828,Avondale Pl NE & Avondale Rd NE,50,XEV,0,0.5,0,0,3
+251,250,I,71828,Avondale Pl NE & Avondale Rd NE,1,XNT,0.4,0,0.4,1.1,0
+251,250,I,71830,Avondale Pl NE & Avondale Rd NE,2,XNT,0.1,0,0.5,0.3,0
+251,250,I,71850,Avondale Rd NE & NE 116th St,3,XNT,0.3,0,0.8,1,0
+251,250,I,71864,Avondale Rd NE & 11000 Block,4,XNT,0,0,0.8,0,0
+251,250,I,71870,Avondale Rd NE & NE 104th St,5,XNT,0,0,0.9,0,0
+251,250,I,71876,Avondale Rd NE & NE Novelty Hill Rd,6,XNT,0.2,0.1,1,0.5,0.2
+251,250,I,71880,Avondale Rd NE & NE 95th St,7,XNT,0.1,0,1.1,0.4,0
+251,250,I,71890,Avondale Rd NE & 180th Ave NE,8,XNT,0.1,0,1.3,0.5,0
+251,250,I,71910,Avondale Rd NE & NE 85th Pl,9,XNT,0,0,1.3,0,0
+251,250,I,72307,NE Union Hill Rd & 178th Pl NE,10,XNT,0.1,0,1.3,0.2,0
+251,250,I,81755,Bear Creek Park And Ride,11,XNT,0.8,0.1,2,3.3,0.5
+251,250,I,72309,NE Union Hill Rd & Avondale Rd NE,12,XNT,0,0,2,0,0
+251,250,I,80496,Avondale Way NE & 170th Pl NE,13,XNT,0.3,0.1,2.3,1.3,0.5
+251,250,I,72477,Downtown Redmond Station - Bay 2,14,XNT,0.7,0.1,2.8,2.9,0.5
+251,250,I,73637,164th Ave NE & NE 80th St,15,XNT,0.3,0.1,2.9,1.3,0.3
+251,250,I,71961,Redmond Transit Center - Bay 4,16,XNT,1.2,0.7,3.5,4.9,2.8
+251,250,I,71970,NE Redmond Way & 160th Ave NE,17,XNT,0.3,0.1,3.7,1.3,0.2
+251,250,I,71971,NE Redmond Way & Bear Creek Pkwy,18,XNT,0.1,0,3.8,0.3,0.1
+251,250,I,73095,NE Redmond Way & Willows Rd NE,19,XNT,0.1,0.2,3.7,0.2,0.6
+251,250,I,73100,NE Redmond Way & 149th Pl NE,20,XNT,0,0.4,3.2,0,1.7
+251,250,I,73106,NE Redmond Way & 145th Ave NE,21,XNT,0,0,3.2,0,0
+251,250,I,73112,NE Redmond Way & 140th Ave NE,22,XNT,0,0,3.2,0,0.1
+251,250,I,73950,NE 85th St & 132nd Ave NE,23,XNT,0.1,0,3.2,0.2,0.1
+251,250,I,73951,NE 85th St & 128th Ave NE,24,XNT,0,0.1,3.2,0,0.2
+251,250,I,73952,NE 85th St & 126th Ave NE,25,XNT,0.1,0.1,3.1,0.3,0.3
+251,250,I,73953,NE 85th St & 124th Ave NE,26,XNT,0.5,0.3,3.4,2.1,1.2
+251,250,I,70664,NE 85th St & 114th Ave NE,27,XNT,0,0,3.4,0,0.1
+251,250,I,70665,Central Way & 5th St,28,XNT,0.1,0.3,3.1,0.3,1.3
+251,250,I,73816,Kirkland Transit Center - Bay 3,29,XNT,0.9,0.9,3.1,3.6,3.7
+251,250,I,72230,State St & 4th Ave S,30,XNT,0,0,3.1,0,0.1
+251,250,I,72232,State St & 6th Ave S,31,XNT,0,0,3.1,0,0
+251,250,I,72250,State St S & 10th Ave S,32,XNT,0,0.1,3.1,0,0.5
+251,250,I,68875,Lakeview Dr NE & NE 64th St,33,XNT,0,0,3.1,0.1,0
+251,250,I,68873,Lakeview Dr NE & NE 59th St,34,XNT,0,0,3.1,0.2,0
+251,250,I,68871,Lake Washington Blvd NE & Lakeview Dr NE,35,XNT,0.3,0,3.4,1.5,0
+251,250,I,68890,Lake Washington Blvd NE & NE 52nd St,36,XNT,0,0,3.4,0,0
+251,250,I,68900,Lake Washington Blvd NE & NE 52nd St,37,XNT,0,0,3.4,0,0
+251,250,I,68910,Lake Washington Blvd NE & NE 43rd St,38,XNT,0,0.1,3.3,0,0.3
+251,250,I,68920,Lake Washington Blvd NE & NE 38th Pl,39,XNT,0,0,3.3,0,0.2
+251,250,I,74450,South Kirkland Park & Ride,40,XNT,0.3,0.4,3.2,1.4,1.9
+251,250,I,74448,Northup Way & NE 33rd Pl,41,XNT,0,0,3.2,0.1,0
+251,250,I,74447,Northup Way & NE 30th St,42,XNT,0,0,3.2,0,0
+251,250,I,74455,Northup Way & NE 28th St,43,XNT,0,0,3.2,0,0
+251,250,I,68355,116th Ave NE & Northup Way,44,XNT,0,0.2,3.1,0.1,0.8
+251,250,I,73047,116th Ave NE & NE 24th St,45,XNT,0,0,3.1,0,0
+251,250,I,68348,116th Ave NE & NE 20th St,46,XNT,0,0,3.1,0,0
+251,250,I,73051,116th Ave NE & NE 19th St,47,XNT,0,0,3.1,0,0
+251,250,I,68353,116th Ave NE & NE 12th St,48,XNT,0,0.1,3,0.1,0.4
+251,250,I,69028,NE 10th St & 116th Ave NE,49,XNT,0.2,0.1,3.1,0.9,0.5
+251,250,I,67598,NE 10th St & 112th Ave NE,50,XNT,0,0.3,2.8,0,1.7
+251,250,I,69021,Bellevue Transit Center - Bay 10,51,XNT,0,2.8,0,0,13.8
+251,250,O,69021,Bellevue Transit Center - Bay 10,1,XNT,3.4,0,3.4,17,0
+251,250,O,69026,NE 10th St & 110th Ave NE,2,XNT,0.4,0.1,3.6,2.1,0.7
+251,250,O,67595,NE 10th St & 116th Ave NE,3,XNT,0.2,0.1,4.3,1.4,0.6
+251,250,O,73055,116th Ave NE & NE 12th St,4,XNT,0.4,0,4.6,2.2,0.1
+251,250,O,73054,116th Ave NE & NE 19th St,5,XNT,0,0,4.6,0,0
+251,250,O,68349,116th Ave NE & NE 20th St,6,XNT,0,0,4.6,0,0
+251,250,O,73056,116th Ave NE & NE 21st St,7,XNT,0,0,4.6,0,0.1
+251,250,O,68354,116th Ave NE & Northup Way,8,XNT,0.1,0,4.6,0.3,0.2
+251,250,O,74453,Northup Way & NE 28th St,9,XNT,0,0,4.6,0.1,0
+251,250,O,74446,Northup Way & NE 30th St,10,XNT,0,0,4.6,0,0
+251,250,O,74451,Northup Way & NE 33rd Pl,11,XNT,0,0,4.6,0,0
+251,250,O,74450,South Kirkland Park & Ride,12,XNT,0.3,0.8,4.2,1.8,4.6
+251,250,O,74437,NE 38th Pl & Lake Washington Blvd NE,13,XNT,0,0.1,4.1,0,0.4
+251,250,O,69420,Lake Washington Blvd NE & NE 43rd St,14,XNT,0,0,4.1,0,0.2
+251,250,O,69430,Lake Washington Blvd NE & NE 46th St,15,XNT,0,0,4.1,0,0.1
+251,250,O,69440,Lake Washington Blvd NE & NE 52nd St,16,XNT,0,0,4.1,0,0
+251,250,O,69465,Lakeview Dr NE & Lake Washington Blvd NE,17,XNT,0.2,0,4.2,1.2,0.2
+251,250,O,69475,Lakeview Dr NE & NE 59th St,18,XNT,0,0,4.2,0,0.1
+251,250,O,69485,Lakeview Dr NE & NE 64th St,19,XNT,0,0,4.2,0,0.1
+251,250,O,72180,State St S & 10th Ave S,20,XNT,0.1,0.2,4.1,0.3,1
+251,250,O,72190,State St & 7th Ave S,21,XNT,0,0,4.1,0,0
+251,250,O,72200,State St & 3rd Ave S,22,XNT,0,0,4,0,0.2
+251,250,O,73814,Kirkland Transit Center - Bay 2,23,XNT,1.6,0.6,5,9.7,3.6
+251,250,O,70672,Central Way & 5th St,24,XNT,0.6,0.7,5,3.8,4.2
+251,250,O,70666,NE 85th St & Kirkland Way,25,XNT,0,0.1,4.9,0.1,0.8
+251,250,O,73840,NE 85th St & 120th Ave NE,26,XNT,0.1,0.3,4.6,0.5,1.8
+251,250,O,73845,NE 85th St & 126th Ave NE,27,XNT,0.4,0.2,4.8,2.2,1.2
+251,250,O,73847,NE 85th St & 128th Ave NE,28,XNT,0.1,0,4.9,0.8,0.2
+251,250,O,73852,NE 85th St & 132nd Ave NE,29,XNT,0.1,0.1,4.9,0.4,0.6
+251,250,O,73418,NE Redmond Way & 140th Ave NE,30,XNT,0,0.1,4.8,0,0.5
+251,250,O,73945,NE Redmond Way & 145th Ave NE,31,XNT,0,0,4.8,0,0.2
+251,250,O,73420,NE Redmond Way & 148th Ave NE,32,XNT,0,1.1,3.7,0.1,6.4
+251,250,O,73425,NE Redmond Way & Willows Rd NE,33,XNT,0,0.2,3.5,0,1.4
+251,250,O,73430,NE Redmond Way & West Lake Sammamish Pkwy NE,34,XNT,0,0,3.5,0,0.1
+251,250,O,72452,NE Redmond Way & Bear Creek Pkwy,35,XNT,0.1,0.3,3.3,0.6,2
+251,250,O,98750,Redmond Transit Center - Bay 2,36,XNT,0.7,1,2.9,4.2,6.2
+251,250,O,73638,164th Ave NE & NE 83rd St,37,XNT,0.1,0.2,3.3,0.7,1.2
+251,250,O,72479,Downtown Redmond Station - Bay 4,38,XNT,0.2,0.2,3.4,1.7,1.3
+251,250,O,84014,Avondale Way NE & 170th Pl NE,39,XNT,0.5,0.3,3.5,3.4,2.3
+251,250,O,72307,NE Union Hill Rd & 178th Pl NE,40,XNT,0,0.1,3.4,0,0.5
+251,250,O,81755,Bear Creek Park And Ride,41,XNT,0.2,0.4,3.2,1.2,3
+251,250,O,84015,Avondale Rd NE & NE Union Hill Rd,42,XNT,0,0,3.2,0,0
+251,250,O,72520,Avondale Rd NE & NE 85th Pl,43,XNT,0,0.2,3,0,1.6
+251,250,O,72540,Avondale Rd NE & 180th Ave NE,44,XNT,0,0.7,2.3,0.1,5
+251,250,O,72550,Avondale Rd NE & NE 95th St,45,XNT,0,1,1.3,0,7.1
+251,250,O,72552,Avondale Rd NE & NE Novelty Hill Rd,46,XNT,0,0.7,0.6,0.1,4.8
+251,250,O,72560,Avondale Rd NE & NE 104th St,47,XNT,0,0.1,0.5,0,0.7
+251,250,O,71868,Avondale Rd NE & Puget Power Trail Walk,48,XNT,0,0.1,0.4,0,1
+251,250,O,72580,Avondale Rd NE & NE 116th St,49,XNT,0.1,0.3,0.1,0.6,2.4
+251,250,O,71828,Avondale Pl NE & Avondale Rd NE,50,XNT,0,0.2,0,0.2,1.1

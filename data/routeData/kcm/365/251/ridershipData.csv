@@ -1,0 +1,376 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+251,365,I,81245,Shoreline North/185th Station - Bay 4,1,AM,0.8,0,0.8,9.3,0
+251,365,I,81242,5th Ave NE & NE 180th St,2,AM,0,0,0.8,0,0
+251,365,I,81246,5th Ave NE & NE 174th St,3,AM,0.2,0,0.9,2.2,0.1
+251,365,I,81248,5th Ave NE & NE 170th St,4,AM,0.1,0,1,1.3,0
+251,365,I,77560,5th Ave NE & NE 163rd St,5,AM,0.4,0.1,1.3,5.3,1.6
+251,365,I,77570,5th Ave NE & NE 161st St,6,AM,0.2,0,1.5,1.8,0
+251,365,I,77580,5th Ave NE & NE 158th St,7,AM,0,0,1.5,0.4,0
+251,365,I,81252,5th Ave NE & NE 155th St,8,AM,0.1,0,1.6,0.7,0
+251,365,I,81254,5th Ave NE & NE 152nd St,9,AM,0,0,1.6,0,0
+251,365,I,81301,Shoreline South/148th Station - Bay 2,10,AM,0.8,0.8,1.6,9.3,9.6
+251,365,I,81302,5th Ave NE & NE 152nd St,11,AM,0,0,1.6,0,0
+251,365,I,97137,NE 155th St & 5th Ave NE,12,AM,0,0,1.6,0.1,0.2
+251,365,I,77613,N 155th St & 1st Ave NE,13,AM,0,0,1.6,0.4,0.2
+251,365,I,16327,Meridian Ave N & N 155th St,14,AM,0.2,0,1.7,1.7,0.4
+251,365,I,16330,Meridian Ave N & N 150th St,15,AM,0,0,1.7,0,0.1
+251,365,I,16331,Meridian Ave N & N 148th St,16,AM,0,0,1.7,0.3,0
+251,365,I,16800,Meridian Ave N & N 145th St,17,AM,0.1,0,1.8,1,0
+251,365,I,16810,Meridian Ave N & N 143rd St,18,AM,0,0,1.8,0.1,0.1
+251,365,I,16830,Meridian Ave N & Roosevelt Way N,19,AM,0.3,0,2.1,3,0.4
+251,365,I,16840,Meridian Ave N & N 135th St,20,AM,0.2,0.1,2.1,2.5,1.5
+251,365,I,16850,Meridian Ave N & N 133rd St,21,AM,0.1,0.2,2,0.9,2.2
+251,365,I,16860,Meridian Ave N & N 130th St,22,AM,0.1,0,2.1,1.4,0.1
+251,365,I,16870,N 128th St & Meridian Ave N,23,AM,0,0,2.2,0.4,0
+251,365,I,16880,Densmore Ave N & N 128th St,24,AM,0.1,0,2.3,1.3,0.1
+251,365,I,16890,Densmore Ave N & N 125th St,25,AM,0.1,0,2.4,0.8,0.4
+251,365,I,16900,Densmore Ave N & N 122nd St,26,AM,0.1,0,2.5,1.6,0
+251,365,I,16920,Meridian Ave N & N 120th St,27,AM,0.2,0.1,2.6,2,1.2
+251,365,I,16914,Northwest Hospital,28,AM,0.5,0.5,2.6,5.7,5.8
+251,365,I,16940,Meridian Ave N & N 115th St,29,AM,0.3,0,2.9,3.1,0.3
+251,365,I,16960,Meridian Ave N & N Northgate Way,30,AM,0.7,0.4,3.1,7.2,4.3
+251,365,I,16980,Meridian Ave N & N 105th St,31,AM,1,0.2,3.9,11.3,2.4
+251,365,I,16990,College Way N & N 103rd St,32,AM,0.3,0,4.2,2.9,0
+251,365,I,17010,College Way N & N 97th St,33,AM,0.2,0.2,4.1,2,2.2
+251,365,I,17695,North Seattle College,34,AM,0,0.1,4.1,0.2,0.5
+251,365,I,17022,N 92nd St & Corliss Ave N,35,AM,0.1,0.1,4.2,1.4,0.9
+251,365,I,17024,1st Ave NE & NE 95th St,36,AM,0.1,0.1,4.2,1.3,1.2
+251,365,I,35317,Northgate Station - Bay 1,37,AM,1,5.1,0,9.5,51.1
+251,365,O,35318,Northgate Station - Bay 4,1,AM,4.8,0,4.8,43.6,0
+251,365,O,17697,1st Ave NE & NE 95th St,2,AM,0.2,0,4.9,1.7,0.2
+251,365,O,17698,N 92nd St & Corliss Ave N,3,AM,0.1,0,5.1,0.9,0.2
+251,365,O,17694,North Seattle College,4,AM,0.1,0.3,4.8,0.6,3.1
+251,365,O,17710,College Way N & N 97th St,5,AM,0.7,0.1,5.3,6.2,1.2
+251,365,O,17730,College Way N & N 103rd St,6,AM,0.2,0,5.5,1.9,0.2
+251,365,O,17740,Meridian Ave N & N 105th St,7,AM,0.6,0.4,5.6,5.1,4
+251,365,O,17760,Meridian Ave N & N Northgate Way,8,AM,0.7,0.6,5.7,6.5,5.7
+251,365,O,16914,Northwest Hospital,9,AM,0.2,2.6,3.3,1.5,23.3
+251,365,O,17780,Meridian Ave N & N 115th St,10,AM,0.1,0,3.4,1,0.3
+251,365,O,17800,Meridian Ave N & N 120th St,11,AM,0.1,0.1,3.4,1.2,0.9
+251,365,O,17820,N 122nd St & Burke Ave N,12,AM,0,0,3.4,0.2,0
+251,365,O,17830,Densmore Ave N & N 125th St,13,AM,0,0,3.4,0.2,0.2
+251,365,O,17840,Densmore Ave N & N 128th St,14,AM,0,0.1,3.4,0,0.4
+251,365,O,17850,N 128th St & Meridian Ave N,15,AM,0.1,0,3.4,0.5,0
+251,365,O,17860,Meridian Ave N & N 130th St,16,AM,0.1,0.1,3.5,0.6,0.5
+251,365,O,17870,Meridian Ave N & N 133rd St,17,AM,0.1,1.1,2.4,0.6,9.1
+251,365,O,17880,Meridian Ave N & N 135th St,18,AM,0.2,1.1,1.5,1.3,8.7
+251,365,O,17890,Meridian Ave N & Roosevelt Way N,19,AM,0.2,0,1.6,1.7,0.3
+251,365,O,17900,Meridian Ave N & N 140th St,20,AM,0,0,1.7,0.3,0.1
+251,365,O,16570,Meridian Ave N & N 145th St,21,AM,0.1,0.1,1.7,1,0.8
+251,365,O,16329,Meridian Ave N & N 150th St,22,AM,0,0.1,1.6,0.3,0.7
+251,365,O,77611,N 155th St & Meridian Ave N,23,AM,0.2,0.1,1.8,1.2,0.4
+251,365,O,77616,NE 155th St & 1st Ave NE,24,AM,0,0,1.8,0.2,0
+251,365,O,81252,5th Ave NE & NE 155th St,25,AM,0.1,0.1,1.8,0.4,0.6
+251,365,O,81254,5th Ave NE & NE 152nd St,26,AM,0,0,1.7,0,0.1
+251,365,O,81301,Shoreline South/148th Station - Bay 2,27,AM,0.5,1.1,1.1,3.7,8.9
+251,365,O,81302,5th Ave NE & NE 152nd St,28,AM,0,0,1.1,0,0
+251,365,O,77780,5th Ave NE & NE 155th St,29,AM,0,0,1.1,0.1,0.1
+251,365,O,77790,5th Ave NE & NE 158th St,30,AM,0,0,1.1,0.2,0
+251,365,O,77800,5th Ave NE & NE 160th St,31,AM,0,0,1.1,0,0.1
+251,365,O,77810,5th Ave NE & NE 163rd St,32,AM,0,0.1,1,0,0.8
+251,365,O,81249,5th Ave NE & NE 165th St,33,AM,0.2,0.3,0.9,1.4,2
+251,365,O,81305,5th Ave NE & NE 170th St,34,AM,0.1,0,1,0.5,0
+251,365,O,81309,5th Ave NE & NE 174th St,35,AM,0,0,1,0.1,0.1
+251,365,O,77732,5th Ave NE & NE 175th St,36,AM,0,0,0.9,0,0.3
+251,365,O,81316,5th Ave NE & NE 180th St,37,AM,0,0,0.9,0,0
+251,365,O,81245,Shoreline North/185th Station - Bay 4,38,AM,0,0.9,0,0,7.5
+251,365,I,81245,Shoreline North/185th Station - Bay 4,1,MID,1.3,0,1.3,16,0
+251,365,I,81242,5th Ave NE & NE 180th St,2,MID,0,0,1.4,0.2,0.1
+251,365,I,81246,5th Ave NE & NE 174th St,3,MID,0.3,0.2,1.5,3,1.8
+251,365,I,81248,5th Ave NE & NE 170th St,4,MID,0.1,0.1,1.5,1.4,0.6
+251,365,I,77560,5th Ave NE & NE 163rd St,5,MID,0.5,0.1,1.8,5.4,1.7
+251,365,I,77570,5th Ave NE & NE 161st St,6,MID,0.1,0,1.9,1,0.1
+251,365,I,77580,5th Ave NE & NE 158th St,7,MID,0.1,0,2,1.7,0.2
+251,365,I,81252,5th Ave NE & NE 155th St,8,MID,0,0,2,0.2,0.4
+251,365,I,81254,5th Ave NE & NE 152nd St,9,MID,0,0,2,0,0.2
+251,365,I,81301,Shoreline South/148th Station - Bay 2,10,MID,1,0.8,2.2,11.5,9.3
+251,365,I,81302,5th Ave NE & NE 152nd St,11,MID,0,0,2.1,0,0.1
+251,365,I,97137,NE 155th St & 5th Ave NE,12,MID,0,0,2.1,0.1,0.2
+251,365,I,77613,N 155th St & 1st Ave NE,13,MID,0.1,0,2.2,0.6,0.1
+251,365,I,16327,Meridian Ave N & N 155th St,14,MID,0.3,0,2.4,3.1,0.4
+251,365,I,16330,Meridian Ave N & N 150th St,15,MID,0,0,2.4,0,0.1
+251,365,I,16331,Meridian Ave N & N 148th St,16,MID,0.1,0,2.4,0.8,0.4
+251,365,I,16800,Meridian Ave N & N 145th St,17,MID,0.3,0.1,2.7,4,0.9
+251,365,I,16810,Meridian Ave N & N 143rd St,18,MID,0.1,0,2.7,0.6,0.5
+251,365,I,16830,Meridian Ave N & Roosevelt Way N,19,MID,0.4,0.1,3,4.4,1.3
+251,365,I,16840,Meridian Ave N & N 135th St,20,MID,0.6,0.2,3.4,6.8,2.4
+251,365,I,16850,Meridian Ave N & N 133rd St,21,MID,0.6,0.3,3.6,7.2,3.5
+251,365,I,16860,Meridian Ave N & N 130th St,22,MID,0.2,0,3.8,1.9,0.3
+251,365,I,16870,N 128th St & Meridian Ave N,23,MID,0.1,0,3.8,1,0.1
+251,365,I,16880,Densmore Ave N & N 128th St,24,MID,0.1,0,3.9,1.6,0.3
+251,365,I,16890,Densmore Ave N & N 125th St,25,MID,0.1,0.1,4,1.7,0.6
+251,365,I,16900,Densmore Ave N & N 122nd St,26,MID,0.1,0,4.1,1.1,0.4
+251,365,I,16920,Meridian Ave N & N 120th St,27,MID,0.5,0.2,4.4,5.5,2
+251,365,I,16914,Northwest Hospital,28,MID,1.1,0.3,5.2,13.3,3.7
+251,365,I,16940,Meridian Ave N & N 115th St,29,MID,0.4,0.1,5.5,4.3,0.8
+251,365,I,16960,Meridian Ave N & N Northgate Way,30,MID,0.9,0.7,5.7,11.3,8.7
+251,365,I,16980,Meridian Ave N & N 105th St,31,MID,1,0.4,6.2,12.3,5.1
+251,365,I,16990,College Way N & N 103rd St,32,MID,0.3,0.1,6.4,3.7,1.3
+251,365,I,17010,College Way N & N 97th St,33,MID,0.5,0.6,6.3,5.6,7.1
+251,365,I,17695,North Seattle College,34,MID,0.8,0.2,6.8,10.7,2.6
+251,365,I,17022,N 92nd St & Corliss Ave N,35,MID,0.2,0.2,6.8,2,2
+251,365,I,17024,1st Ave NE & NE 95th St,36,MID,0.2,0.3,6.7,2.7,4
+251,365,I,35317,Northgate Station - Bay 1,37,MID,1.3,8.1,0,17.2,105
+251,365,O,35318,Northgate Station - Bay 4,1,MID,4.7,0,4.7,56.8,0
+251,365,O,17697,1st Ave NE & NE 95th St,2,MID,0.3,0.1,4.9,3.1,1.5
+251,365,O,17698,N 92nd St & Corliss Ave N,3,MID,0.1,0.1,4.9,1.6,1.4
+251,365,O,17694,North Seattle College,4,MID,0.2,0.5,4.6,2.9,6.1
+251,365,O,17710,College Way N & N 97th St,5,MID,0.4,0.1,4.9,4.6,1.5
+251,365,O,17730,College Way N & N 103rd St,6,MID,0.1,0.1,4.9,1.2,1.1
+251,365,O,17740,Meridian Ave N & N 105th St,7,MID,0.6,0.6,4.8,6.6,7.4
+251,365,O,17760,Meridian Ave N & N Northgate Way,8,MID,0.6,0.9,4.6,7.5,10.5
+251,365,O,16914,Northwest Hospital,9,MID,0.4,1.4,3.6,4.6,16.5
+251,365,O,17780,Meridian Ave N & N 115th St,10,MID,0.2,0.1,3.7,2.1,0.9
+251,365,O,17800,Meridian Ave N & N 120th St,11,MID,0.2,0.4,3.5,1.9,4.4
+251,365,O,17820,N 122nd St & Burke Ave N,12,MID,0,0.1,3.4,0,0.8
+251,365,O,17830,Densmore Ave N & N 125th St,13,MID,0,0.1,3.3,0.1,1.2
+251,365,O,17840,Densmore Ave N & N 128th St,14,MID,0,0.1,3.2,0.4,1.7
+251,365,O,17850,N 128th St & Meridian Ave N,15,MID,0,0.1,3.2,0.6,0.9
+251,365,O,17860,Meridian Ave N & N 130th St,16,MID,0.1,0.1,3.2,1.4,1.7
+251,365,O,17870,Meridian Ave N & N 133rd St,17,MID,0.4,0.6,3,4.6,7.2
+251,365,O,17880,Meridian Ave N & N 135th St,18,MID,0.2,0.3,2.9,2.6,4.5
+251,365,O,17890,Meridian Ave N & Roosevelt Way N,19,MID,0.2,0.2,2.8,2.3,2.7
+251,365,O,17900,Meridian Ave N & N 140th St,20,MID,0.1,0.1,2.8,1.2,1.3
+251,365,O,16570,Meridian Ave N & N 145th St,21,MID,0.2,0.3,2.7,2.2,4.1
+251,365,O,16329,Meridian Ave N & N 150th St,22,MID,0,0,2.6,0.4,0.4
+251,365,O,77611,N 155th St & Meridian Ave N,23,MID,0.1,0.2,2.6,0.8,1.8
+251,365,O,77616,NE 155th St & 1st Ave NE,24,MID,0,0,2.6,0.1,0.2
+251,365,O,81252,5th Ave NE & NE 155th St,25,MID,0,0,2.5,0.1,0.3
+251,365,O,81254,5th Ave NE & NE 152nd St,26,MID,0,0,2.5,0,0
+251,365,O,81301,Shoreline South/148th Station - Bay 2,27,MID,0.5,1.4,1.7,6.3,16.4
+251,365,O,81302,5th Ave NE & NE 152nd St,28,MID,0,0,1.7,0.1,0.1
+251,365,O,77780,5th Ave NE & NE 155th St,29,MID,0,0,1.7,0.4,0.1
+251,365,O,77790,5th Ave NE & NE 158th St,30,MID,0,0,1.8,0,0
+251,365,O,77800,5th Ave NE & NE 160th St,31,MID,0,0.1,1.7,0.1,0.8
+251,365,O,77810,5th Ave NE & NE 163rd St,32,MID,0,0,1.7,0,0.4
+251,365,O,81249,5th Ave NE & NE 165th St,33,MID,0.2,0.3,1.5,2.1,3.4
+251,365,O,81305,5th Ave NE & NE 170th St,34,MID,0.1,0,1.6,0.6,0.3
+251,365,O,81309,5th Ave NE & NE 174th St,35,MID,0,0.2,1.4,0.4,1.9
+251,365,O,77732,5th Ave NE & NE 175th St,36,MID,0.1,0,1.4,0.6,0.4
+251,365,O,81316,5th Ave NE & NE 180th St,37,MID,0,0,1.4,0,0
+251,365,O,81245,Shoreline North/185th Station - Bay 4,38,MID,0.5,1.9,0,5.7,23
+251,365,I,81245,Shoreline North/185th Station - Bay 4,1,PM,1.6,0,1.6,17.1,0
+251,365,I,81242,5th Ave NE & NE 180th St,2,PM,0,0,1.6,0,0
+251,365,I,81246,5th Ave NE & NE 174th St,3,PM,0.3,0.2,1.7,3.2,2.1
+251,365,I,81248,5th Ave NE & NE 170th St,4,PM,0.1,0.1,1.6,0.6,0.9
+251,365,I,77560,5th Ave NE & NE 163rd St,5,PM,0.4,0.2,1.9,4.4,1.8
+251,365,I,77570,5th Ave NE & NE 161st St,6,PM,0.1,0,2,1.3,0
+251,365,I,77580,5th Ave NE & NE 158th St,7,PM,0,0.1,2,0.3,0.7
+251,365,I,81252,5th Ave NE & NE 155th St,8,PM,0,0,1.9,0.1,0.5
+251,365,I,81254,5th Ave NE & NE 152nd St,9,PM,0,0,1.9,0,0
+251,365,I,81301,Shoreline South/148th Station - Bay 2,10,PM,0.9,0.7,2.2,10.4,7.2
+251,365,I,81302,5th Ave NE & NE 152nd St,11,PM,0,0,2.2,0,0
+251,365,I,97137,NE 155th St & 5th Ave NE,12,PM,0.1,0.1,2.2,0.6,0.8
+251,365,I,77613,N 155th St & 1st Ave NE,13,PM,0,0.1,2.1,0.1,0.6
+251,365,I,16327,Meridian Ave N & N 155th St,14,PM,0.2,0.1,2.1,1.8,1.5
+251,365,I,16330,Meridian Ave N & N 150th St,15,PM,0,0,2.1,0.2,0.2
+251,365,I,16331,Meridian Ave N & N 148th St,16,PM,0.1,0,2.2,1.5,0.4
+251,365,I,16800,Meridian Ave N & N 145th St,17,PM,0.1,0.1,2.2,1,1.2
+251,365,I,16810,Meridian Ave N & N 143rd St,18,PM,0,0.1,2.1,0.2,1.1
+251,365,I,16830,Meridian Ave N & Roosevelt Way N,19,PM,0.3,0.2,2.1,3,2.9
+251,365,I,16840,Meridian Ave N & N 135th St,20,PM,1.2,0.2,3.1,13.2,2.5
+251,365,I,16850,Meridian Ave N & N 133rd St,21,PM,0.3,0.1,3.4,3.8,0.8
+251,365,I,16860,Meridian Ave N & N 130th St,22,PM,0.1,0.1,3.5,1.4,0.6
+251,365,I,16870,N 128th St & Meridian Ave N,23,PM,0,0.1,3.4,0.4,0.6
+251,365,I,16880,Densmore Ave N & N 128th St,24,PM,0.1,0,3.5,1.2,0.3
+251,365,I,16890,Densmore Ave N & N 125th St,25,PM,0.1,0,3.6,1.5,0.2
+251,365,I,16900,Densmore Ave N & N 122nd St,26,PM,0.1,0,3.7,1,0.2
+251,365,I,16920,Meridian Ave N & N 120th St,27,PM,0.3,0.2,3.8,2.9,1.7
+251,365,I,16914,Northwest Hospital,28,PM,2.2,0.3,5.8,24.2,2.9
+251,365,I,16940,Meridian Ave N & N 115th St,29,PM,0.4,0.1,6.1,4.4,0.8
+251,365,I,16960,Meridian Ave N & N Northgate Way,30,PM,0.9,0.9,6.1,9.6,9.5
+251,365,I,16980,Meridian Ave N & N 105th St,31,PM,1,0.4,6.6,10.9,4.7
+251,365,I,16990,College Way N & N 103rd St,32,PM,0.2,0.1,6.7,1.8,1.5
+251,365,I,17010,College Way N & N 97th St,33,PM,0.3,0.5,6.5,3.7,5.7
+251,365,I,17695,North Seattle College,34,PM,0.7,0.1,7,7.3,1.3
+251,365,I,17022,N 92nd St & Corliss Ave N,35,PM,0.1,0.3,6.9,1,3.1
+251,365,I,17024,1st Ave NE & NE 95th St,36,PM,0.1,0.3,6.7,1.3,2.8
+251,365,I,35317,Northgate Station - Bay 1,37,PM,1,7.7,0,11.2,85.2
+251,365,O,35318,Northgate Station - Bay 4,1,PM,4.7,0,4.7,51.6,0
+251,365,O,17697,1st Ave NE & NE 95th St,2,PM,0.2,0.2,4.7,2.1,2.3
+251,365,O,17698,N 92nd St & Corliss Ave N,3,PM,0.3,0.3,4.6,2.8,3.4
+251,365,O,17694,North Seattle College,4,PM,0.2,0.2,4.6,2.6,2.2
+251,365,O,17710,College Way N & N 97th St,5,PM,0.4,0.2,4.9,4.8,1.7
+251,365,O,17730,College Way N & N 103rd St,6,PM,0.1,0.2,4.8,0.9,2.4
+251,365,O,17740,Meridian Ave N & N 105th St,7,PM,0.4,0.9,4.2,3.9,10.4
+251,365,O,17760,Meridian Ave N & N Northgate Way,8,PM,0.6,0.9,4,6.9,9.9
+251,365,O,16914,Northwest Hospital,9,PM,0.5,0.5,4,5.9,5.9
+251,365,O,17780,Meridian Ave N & N 115th St,10,PM,0.1,0.1,3.9,1.2,1.6
+251,365,O,17800,Meridian Ave N & N 120th St,11,PM,0.2,0.3,3.8,1.7,3.7
+251,365,O,17820,N 122nd St & Burke Ave N,12,PM,0,0.1,3.7,0,1.2
+251,365,O,17830,Densmore Ave N & N 125th St,13,PM,0,0.1,3.6,0.2,1.3
+251,365,O,17840,Densmore Ave N & N 128th St,14,PM,0.1,0.2,3.5,0.6,1.8
+251,365,O,17850,N 128th St & Meridian Ave N,15,PM,0,0.1,3.4,0.2,1
+251,365,O,17860,Meridian Ave N & N 130th St,16,PM,0.1,0.2,3.3,0.9,2.4
+251,365,O,17870,Meridian Ave N & N 133rd St,17,PM,0.3,0.2,3.3,2.8,2.5
+251,365,O,17880,Meridian Ave N & N 135th St,18,PM,0.3,0.3,3.3,3.3,3.2
+251,365,O,17890,Meridian Ave N & Roosevelt Way N,19,PM,0.1,0.3,3.1,1,3.8
+251,365,O,17900,Meridian Ave N & N 140th St,20,PM,0,0,3.1,0.3,0.4
+251,365,O,16570,Meridian Ave N & N 145th St,21,PM,0.1,0.3,2.9,1.2,3.7
+251,365,O,16329,Meridian Ave N & N 150th St,22,PM,0.1,0,2.9,0.7,0.3
+251,365,O,77611,N 155th St & Meridian Ave N,23,PM,0.1,0.2,2.8,1.4,2.4
+251,365,O,77616,NE 155th St & 1st Ave NE,24,PM,0,0,2.8,0.5,0.3
+251,365,O,81252,5th Ave NE & NE 155th St,25,PM,0,0.1,2.8,0.1,0.7
+251,365,O,81254,5th Ave NE & NE 152nd St,26,PM,0,0,2.8,0,0
+251,365,O,81301,Shoreline South/148th Station - Bay 2,27,PM,1.4,1.3,2.9,15.1,14.7
+251,365,O,81302,5th Ave NE & NE 152nd St,28,PM,0,0,2.9,0.2,0.2
+251,365,O,77780,5th Ave NE & NE 155th St,29,PM,0,0.1,2.9,0.2,0.9
+251,365,O,77790,5th Ave NE & NE 158th St,30,PM,0,0.1,2.8,0.1,0.6
+251,365,O,77800,5th Ave NE & NE 160th St,31,PM,0,0.3,2.5,0,3.7
+251,365,O,77810,5th Ave NE & NE 163rd St,32,PM,0,0.1,2.4,0,1.3
+251,365,O,81249,5th Ave NE & NE 165th St,33,PM,0.2,0.5,2.1,1.8,5.6
+251,365,O,81305,5th Ave NE & NE 170th St,34,PM,0,0.2,1.9,0.4,1.8
+251,365,O,81309,5th Ave NE & NE 174th St,35,PM,0,0.2,1.8,0.2,2
+251,365,O,77732,5th Ave NE & NE 175th St,36,PM,0.1,0.1,1.8,0.9,0.6
+251,365,O,81316,5th Ave NE & NE 180th St,37,PM,0,0,1.8,0.1,0
+251,365,O,81245,Shoreline North/185th Station - Bay 4,38,PM,0,1.8,0,0.1,20.1
+251,365,I,81245,Shoreline North/185th Station - Bay 4,1,XEV,1.1,0,1.1,6.3,0
+251,365,I,81242,5th Ave NE & NE 180th St,2,XEV,0.1,0.1,1,0.3,0.4
+251,365,I,81246,5th Ave NE & NE 174th St,3,XEV,0.1,0.1,1.1,0.7,0.5
+251,365,I,81248,5th Ave NE & NE 170th St,4,XEV,0,0.1,1.1,0,0.3
+251,365,I,77560,5th Ave NE & NE 163rd St,5,XEV,0.3,0.1,1.2,1.6,0.5
+251,365,I,77570,5th Ave NE & NE 161st St,6,XEV,0,0,1.3,0.1,0
+251,365,I,77580,5th Ave NE & NE 158th St,7,XEV,0,0,1.2,0,0
+251,365,I,81252,5th Ave NE & NE 155th St,8,XEV,0,0,1.2,0.1,0
+251,365,I,81254,5th Ave NE & NE 152nd St,9,XEV,0,0,1.2,0,0
+251,365,I,81301,Shoreline South/148th Station - Bay 2,10,XEV,1,0.4,1.8,5.7,2.3
+251,365,I,81302,5th Ave NE & NE 152nd St,11,XEV,0,0,1.8,0,0
+251,365,I,97137,NE 155th St & 5th Ave NE,12,XEV,0,0.1,1.7,0,0.8
+251,365,I,77613,N 155th St & 1st Ave NE,13,XEV,0,0.1,1.7,0.1,0.3
+251,365,I,16327,Meridian Ave N & N 155th St,14,XEV,0.1,0.1,1.6,0.5,0.6
+251,365,I,16330,Meridian Ave N & N 150th St,15,XEV,0,0,1.6,0,0
+251,365,I,16331,Meridian Ave N & N 148th St,16,XEV,0,0,1.6,0,0
+251,365,I,16800,Meridian Ave N & N 145th St,17,XEV,0,0.1,1.5,0.1,0.5
+251,365,I,16810,Meridian Ave N & N 143rd St,18,XEV,0,0.1,1.5,0,0.3
+251,365,I,16830,Meridian Ave N & Roosevelt Way N,19,XEV,0,0.1,1.4,0.1,0.8
+251,365,I,16840,Meridian Ave N & N 135th St,20,XEV,0,0.1,1.4,0.3,0.9
+251,365,I,16850,Meridian Ave N & N 133rd St,21,XEV,0,0,1.4,0.2,0.1
+251,365,I,16860,Meridian Ave N & N 130th St,22,XEV,0,0.1,1.5,0.1,0.7
+251,365,I,16870,N 128th St & Meridian Ave N,23,XEV,0,0.1,1.4,0,0.4
+251,365,I,16880,Densmore Ave N & N 128th St,24,XEV,0.1,0,1.5,0.5,0.1
+251,365,I,16890,Densmore Ave N & N 125th St,25,XEV,0.1,0.1,1.5,0.5,0.6
+251,365,I,16900,Densmore Ave N & N 122nd St,26,XEV,0,0,1.5,0.1,0
+251,365,I,16920,Meridian Ave N & N 120th St,27,XEV,0.1,0.1,1.5,0.8,0.4
+251,365,I,16914,Northwest Hospital,28,XEV,0.7,0.1,2.1,4.3,0.6
+251,365,I,16940,Meridian Ave N & N 115th St,29,XEV,0.1,0.1,2.2,0.7,0.3
+251,365,I,16960,Meridian Ave N & N Northgate Way,30,XEV,0.3,0.2,2.3,1.9,1.3
+251,365,I,16980,Meridian Ave N & N 105th St,31,XEV,0.1,0.1,2.3,0.5,0.5
+251,365,I,16990,College Way N & N 103rd St,32,XEV,0,0,2.3,0.2,0.2
+251,365,I,17010,College Way N & N 97th St,33,XEV,0.2,0.1,2.4,1,0.3
+251,365,I,17695,North Seattle College,34,XEV,0.2,0,2.5,1.1,0
+251,365,I,17022,N 92nd St & Corliss Ave N,35,XEV,0,0.1,2.4,0.2,0.7
+251,365,I,17024,1st Ave NE & NE 95th St,36,XEV,0,0.1,2.4,0.2,0.6
+251,365,I,35317,Northgate Station - Bay 1,37,XEV,1.2,3.5,0,7,21.2
+251,365,O,35318,Northgate Station - Bay 4,1,XEV,3.1,0,3.1,18.6,0
+251,365,O,17697,1st Ave NE & NE 95th St,2,XEV,0.1,0.1,3.1,0.5,0.5
+251,365,O,17698,N 92nd St & Corliss Ave N,3,XEV,0.1,0.1,3.1,0.4,0.6
+251,365,O,17694,North Seattle College,4,XEV,0,0,3.1,0.1,0.2
+251,365,O,17710,College Way N & N 97th St,5,XEV,0.2,0.1,3.1,1.2,0.8
+251,365,O,17730,College Way N & N 103rd St,6,XEV,0.1,0.2,3,0.4,1
+251,365,O,17740,Meridian Ave N & N 105th St,7,XEV,0.1,0.5,2.6,0.7,2.9
+251,365,O,17760,Meridian Ave N & N Northgate Way,8,XEV,0.4,0.8,2.2,2.2,5
+251,365,O,16914,Northwest Hospital,9,XEV,0.2,0.4,2,1,2.1
+251,365,O,17780,Meridian Ave N & N 115th St,10,XEV,0,0.1,1.9,0.1,0.7
+251,365,O,17800,Meridian Ave N & N 120th St,11,XEV,0.1,0.2,1.8,0.4,1.3
+251,365,O,17820,N 122nd St & Burke Ave N,12,XEV,0,0.1,1.7,0,0.5
+251,365,O,17830,Densmore Ave N & N 125th St,13,XEV,0,0.1,1.6,0.1,0.7
+251,365,O,17840,Densmore Ave N & N 128th St,14,XEV,0,0.1,1.5,0,0.5
+251,365,O,17850,N 128th St & Meridian Ave N,15,XEV,0,0.1,1.5,0.2,0.4
+251,365,O,17860,Meridian Ave N & N 130th St,16,XEV,0,0.1,1.4,0,0.8
+251,365,O,17870,Meridian Ave N & N 133rd St,17,XEV,0.1,0.1,1.4,0.5,0.6
+251,365,O,17880,Meridian Ave N & N 135th St,18,XEV,0.2,0.2,1.4,1,0.9
+251,365,O,17890,Meridian Ave N & Roosevelt Way N,19,XEV,0,0.1,1.3,0,0.5
+251,365,O,17900,Meridian Ave N & N 140th St,20,XEV,0,0,1.3,0,0.1
+251,365,O,16570,Meridian Ave N & N 145th St,21,XEV,0,0.1,1.2,0,0.8
+251,365,O,16329,Meridian Ave N & N 150th St,22,XEV,0,0.1,1.2,0,0.3
+251,365,O,77611,N 155th St & Meridian Ave N,23,XEV,0,0.1,1.1,0.1,0.7
+251,365,O,77616,NE 155th St & 1st Ave NE,24,XEV,0,0,1.1,0,0.1
+251,365,O,81252,5th Ave NE & NE 155th St,25,XEV,0,0,1.1,0,0
+251,365,O,81254,5th Ave NE & NE 152nd St,26,XEV,0,0,1.1,0,0
+251,365,O,81301,Shoreline South/148th Station - Bay 2,27,XEV,0.6,0.4,1.4,3.4,2.2
+251,365,O,81302,5th Ave NE & NE 152nd St,28,XEV,0,0,1.4,0,0.1
+251,365,O,77780,5th Ave NE & NE 155th St,29,XEV,0,0,1.4,0,0.1
+251,365,O,77790,5th Ave NE & NE 158th St,30,XEV,0,0,1.4,0,0
+251,365,O,77800,5th Ave NE & NE 160th St,31,XEV,0,0.1,1.3,0,0.4
+251,365,O,77810,5th Ave NE & NE 163rd St,32,XEV,0,0.1,1.3,0,0.4
+251,365,O,81249,5th Ave NE & NE 165th St,33,XEV,0.2,0.4,1.1,1.2,2.4
+251,365,O,81305,5th Ave NE & NE 170th St,34,XEV,0,0.1,1,0,0.6
+251,365,O,81309,5th Ave NE & NE 174th St,35,XEV,0,0.1,0.9,0.1,0.6
+251,365,O,77732,5th Ave NE & NE 175th St,36,XEV,0,0,0.9,0.1,0.2
+251,365,O,81316,5th Ave NE & NE 180th St,37,XEV,0,0,0.9,0,0
+251,365,O,81245,Shoreline North/185th Station - Bay 4,38,XEV,0,0.9,0,0.1,5.5
+251,365,I,81245,Shoreline North/185th Station - Bay 4,1,XNT,0.4,0,0.4,1.7,0
+251,365,I,81242,5th Ave NE & NE 180th St,2,XNT,0,0,0.5,0,0
+251,365,I,81246,5th Ave NE & NE 174th St,3,XNT,0,0.1,0.4,0.1,0.5
+251,365,I,81248,5th Ave NE & NE 170th St,4,XNT,0,0.1,0.3,0,0.2
+251,365,I,77560,5th Ave NE & NE 163rd St,5,XNT,0.1,0,0.4,0.4,0.1
+251,365,I,77570,5th Ave NE & NE 161st St,6,XNT,0,0,0.4,0,0.1
+251,365,I,77580,5th Ave NE & NE 158th St,7,XNT,0,0,0.4,0,0
+251,365,I,81252,5th Ave NE & NE 155th St,8,XNT,0,0,0.4,0,0
+251,365,I,81254,5th Ave NE & NE 152nd St,9,XNT,0,0,0.3,0,0
+251,365,I,81301,Shoreline South/148th Station - Bay 2,10,XNT,0.6,0.1,0.8,2.5,0.3
+251,365,I,81302,5th Ave NE & NE 152nd St,11,XNT,0,0,0.8,0,0
+251,365,I,97137,NE 155th St & 5th Ave NE,12,XNT,0,0,0.8,0,0.1
+251,365,I,77613,N 155th St & 1st Ave NE,13,XNT,0,0,0.8,0,0
+251,365,I,16327,Meridian Ave N & N 155th St,14,XNT,0,0.1,0.7,0,0.2
+251,365,I,16330,Meridian Ave N & N 150th St,15,XNT,0,0,0.7,0,0
+251,365,I,16331,Meridian Ave N & N 148th St,16,XNT,0,0,0.8,0,0
+251,365,I,16800,Meridian Ave N & N 145th St,17,XNT,0,0.1,0.7,0,0.4
+251,365,I,16810,Meridian Ave N & N 143rd St,18,XNT,0,0,0.6,0,0.1
+251,365,I,16830,Meridian Ave N & Roosevelt Way N,19,XNT,0,0.1,0.5,0,0.5
+251,365,I,16840,Meridian Ave N & N 135th St,20,XNT,0,0,0.5,0,0
+251,365,I,16850,Meridian Ave N & N 133rd St,21,XNT,0,0,0.5,0,0.1
+251,365,I,16860,Meridian Ave N & N 130th St,22,XNT,0,0,0.5,0,0.1
+251,365,I,16870,N 128th St & Meridian Ave N,23,XNT,0,0,0.5,0.1,0
+251,365,I,16880,Densmore Ave N & N 128th St,24,XNT,0,0,0.5,0,0
+251,365,I,16890,Densmore Ave N & N 125th St,25,XNT,0,0,0.5,0,0
+251,365,I,16900,Densmore Ave N & N 122nd St,26,XNT,0,0,0.5,0,0
+251,365,I,16920,Meridian Ave N & N 120th St,27,XNT,0,0,0.5,0.1,0.2
+251,365,I,16914,Northwest Hospital,28,XNT,0.3,0.1,0.7,1.7,0.3
+251,365,I,16940,Meridian Ave N & N 115th St,29,XNT,0,0,0.8,0.1,0
+251,365,I,16960,Meridian Ave N & N Northgate Way,30,XNT,0.3,0.1,0.9,1.3,0.4
+251,365,I,16980,Meridian Ave N & N 105th St,31,XNT,0,0,0.9,0.2,0.1
+251,365,I,16990,College Way N & N 103rd St,32,XNT,0.1,0,1,0.4,0
+251,365,I,17010,College Way N & N 97th St,33,XNT,0,0,1,0.2,0.1
+251,365,I,17695,North Seattle College,34,XNT,0,0,1,0,0
+251,365,I,17022,N 92nd St & Corliss Ave N,35,XNT,0,0,0.9,0,0.2
+251,365,I,17024,1st Ave NE & NE 95th St,36,XNT,0,0.1,0.9,0.1,0.3
+251,365,I,35317,Northgate Station - Bay 1,37,XNT,0.5,1.4,0,2.7,7.1
+251,365,O,35318,Northgate Station - Bay 4,1,XNT,1.7,0,1.7,6.6,0
+251,365,O,17697,1st Ave NE & NE 95th St,2,XNT,0.1,0.1,1.6,0.2,0.3
+251,365,O,17698,N 92nd St & Corliss Ave N,3,XNT,0,0.1,1.5,0,0.4
+251,365,O,17694,North Seattle College,4,XNT,0,0,1.6,0,0
+251,365,O,17710,College Way N & N 97th St,5,XNT,0,0,1.5,0,0.1
+251,365,O,17730,College Way N & N 103rd St,6,XNT,0,0.1,1.5,0,0.4
+251,365,O,17740,Meridian Ave N & N 105th St,7,XNT,0.1,0.3,1.2,0.2,1.2
+251,365,O,17760,Meridian Ave N & N Northgate Way,8,XNT,0.2,0.4,1,0.7,1.5
+251,365,O,16914,Northwest Hospital,9,XNT,0.1,0.3,0.9,0.4,1
+251,365,O,17780,Meridian Ave N & N 115th St,10,XNT,0,0.1,0.9,0,0.2
+251,365,O,17800,Meridian Ave N & N 120th St,11,XNT,0,0.1,0.8,0,0.4
+251,365,O,17820,N 122nd St & Burke Ave N,12,XNT,0,0,0.8,0,0.1
+251,365,O,17830,Densmore Ave N & N 125th St,13,XNT,0,0,0.7,0,0.1
+251,365,O,17840,Densmore Ave N & N 128th St,14,XNT,0,0.1,0.6,0,0.5
+251,365,O,17850,N 128th St & Meridian Ave N,15,XNT,0,0,0.6,0,0
+251,365,O,17860,Meridian Ave N & N 130th St,16,XNT,0,0.1,0.6,0.1,0.2
+251,365,O,17870,Meridian Ave N & N 133rd St,17,XNT,0,0,0.6,0,0
+251,365,O,17880,Meridian Ave N & N 135th St,18,XNT,0,0.1,0.5,0,0.3
+251,365,O,17890,Meridian Ave N & Roosevelt Way N,19,XNT,0,0,0.4,0,0
+251,365,O,17900,Meridian Ave N & N 140th St,20,XNT,0,0,0.4,0,0
+251,365,O,16570,Meridian Ave N & N 145th St,21,XNT,0,0,0.4,0,0
+251,365,O,16329,Meridian Ave N & N 150th St,22,XNT,0,0,0.4,0,0
+251,365,O,77611,N 155th St & Meridian Ave N,23,XNT,0,0.1,0.4,0,0.4
+251,365,O,77616,NE 155th St & 1st Ave NE,24,XNT,0,0,0.4,0,0
+251,365,O,81252,5th Ave NE & NE 155th St,25,XNT,0,0,0.5,0,0
+251,365,O,81254,5th Ave NE & NE 152nd St,26,XNT,0,0,0.5,0,0
+251,365,O,81301,Shoreline South/148th Station - Bay 2,27,XNT,0.4,0.2,0.7,2,0.9
+251,365,O,81302,5th Ave NE & NE 152nd St,28,XNT,0,0,0.7,0,0
+251,365,O,77780,5th Ave NE & NE 155th St,29,XNT,0,0,0.7,0,0
+251,365,O,77790,5th Ave NE & NE 158th St,30,XNT,0,0,0.7,0,0
+251,365,O,77800,5th Ave NE & NE 160th St,31,XNT,0,0.1,0.6,0,0.3
+251,365,O,77810,5th Ave NE & NE 163rd St,32,XNT,0,0,0.6,0,0
+251,365,O,81249,5th Ave NE & NE 165th St,33,XNT,0.2,0.2,0.6,0.8,0.9
+251,365,O,81305,5th Ave NE & NE 170th St,34,XNT,0,0.1,0.5,0,0.7
+251,365,O,81309,5th Ave NE & NE 174th St,35,XNT,0,0,0.4,0,0.2
+251,365,O,77732,5th Ave NE & NE 175th St,36,XNT,0,0,0.4,0,0
+251,365,O,81316,5th Ave NE & NE 180th St,37,XNT,0,0,0.4,0,0
+251,365,O,81245,Shoreline North/185th Station - Bay 4,38,XNT,0,0.4,0,0,2.1

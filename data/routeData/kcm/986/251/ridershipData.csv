@@ -1,0 +1,19 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+251,986,O,70691,120th Ave NE & NE 80th St,1,AM,3.4,0,3.4,3.4,0
+251,986,O,74395,108th Ave NE & NE 68th St,2,AM,9.2,0,12.6,9.2,0
+251,986,O,74450,South Kirkland Park & Ride,3,AM,23,0,35.6,23,0
+251,986,O,71356,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,4,AM,13.6,0,49.2,13.6,0
+251,986,O,71355,Sr 520 & Evergreen Point Rd,5,AM,2.6,0,51.8,2.6,0
+251,986,O,25755,Montlake Blvd NE & NE Pacific Pl - Bay 4,6,AM,0,0,51.8,0,0
+251,986,O,25798,25th Ave NE & NE 80th St,7,AM,0.8,7.4,45.2,0.8,7.4
+251,986,O,75304,NE 135th St & 1st Ave NE,8,AM,0.6,45.8,0,0.6,45.8
+251,986,O,81294,1st Ave NE & NE 140th St,9,AM,0,0,0,0,0
+251,986,I,25798,25th Ave NE & NE 80th St,1,PM,7,0,7,7,0
+251,986,I,35270,NE 125th St & 15th Ave NE,2,PM,0,0,7,0,0
+251,986,I,75304,NE 135th St & 1st Ave NE,3,PM,43,5,45,43,5
+251,986,I,81294,1st Ave NE & NE 140th St,4,PM,0,0,45,0,0
+251,986,I,71348,Sr 520 & Evergreen Point Rd,5,PM,0,2,43,0,2
+251,986,I,71359,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,6,PM,0,15,28,0,15
+251,986,I,74450,South Kirkland Park & Ride,7,PM,0,20,8,0,20
+251,986,I,72156,108th Ave NE & NE 68th St,8,PM,0,3,5,0,3
+251,986,I,70694,NE 80th St & 120th Ave NE,9,PM,0,5,0,0,5
