@@ -44,6 +44,7 @@ def getAxisLabelSize(inboundStopCount, outboundStopCount):
     maxStopCount = max(inboundStopCount, outboundStopCount)
     return -0.2 * maxStopCount + 30
 
+
 def plot_trip_ridership_from_csv(csv_path, agency, route_number, service_change):
 
     # ---------------------------
@@ -132,7 +133,8 @@ def plot_trip_ridership_from_csv(csv_path, agency, route_number, service_change)
     # FIGURE SETUP
     # ---------------------------
     
-    fig, (ax1, ax2) = plt.subplots(nrows=1, ncols=2, figsize=(30, 20))
+    fig, (ax1, ax2) = plt.subplots(nrows=1, ncols=2, figsize=(30, 20), constrained_layout=True)
+    fig.subplots_adjust(left=0.28, right=0.95, top=0.92, bottom=0.05, wspace=0.25)
     plt.rc('xtick', labelsize=12)     
     plt.rc('ytick', labelsize=12)
     ax1.set_xlabel(xAxis, fontsize=axisLabelSize)
@@ -215,7 +217,6 @@ def plot_trip_ridership_from_csv(csv_path, agency, route_number, service_change)
     ax2.set_xlim(lowerLimit, upperLimit)
 
     plt.tight_layout(rect=[0, 0, 1, 0.95])
-    plt.show()
 
     # ---------------------------
     # SAVE OUTPUT
@@ -225,8 +226,6 @@ def plot_trip_ridership_from_csv(csv_path, agency, route_number, service_change)
 
     output_file = os.path.join(directory, "TripRidership.png")
     fig.savefig(output_file)
+    plt.show()
 
-    plt.close(fig)
-
-
-plot_trip_ridership_from_csv("../data/routeData/kcm/7/241/ridershipData.csv", "kcm", "7", "241")
+plot_trip_ridership_from_csv("../data/routeData/kcm/48/253/ridershipData.csv", "kcm", "48", "253")
