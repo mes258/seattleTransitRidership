@@ -62,12 +62,12 @@ def plot_trip_ridership_from_csv(csv_path, agency, route_number, service_change)
 
     time_periods = ["AM", "MID", "PM", "XEV", "XNT"]
 
-    print(inbound_df.count())
+    #print(inbound_df.count())
 
     # ---------------------------
     # BUILD DICTIONARY STRUCTURE
     # ---------------------------
-    def build_direction_dict(direction_df):
+    def build_direction_dict(direction_df, shouldReverse):
 
         direction_dict = {}
 
@@ -97,15 +97,16 @@ def plot_trip_ridership_from_csv(csv_path, agency, route_number, service_change)
             direction_dict.items(),
             key=lambda x: direction_df[
                 direction_df["stopId"] == x[0][0]
-            ]["stopOrderNum"].iloc[0]
+            ]["stopOrderNum"].iloc[0], 
+            reverse=shouldReverse
         )
 
         return dict(ordered)
 
-    inbound_sorted_data = build_direction_dict(inbound_df)
-    outbound_sorted_data = build_direction_dict(outbound_df)
+    inbound_sorted_data = build_direction_dict(inbound_df, True)
+    outbound_sorted_data = build_direction_dict(outbound_df, False)
 
-    print(outbound_sorted_data)
+    #print(outbound_sorted_data)
 
     # ---------------------------
     # TITLES
@@ -125,6 +126,7 @@ def plot_trip_ridership_from_csv(csv_path, agency, route_number, service_change)
     mainTitleSize = 40
     subTitleSize = 30
     axisLabelSizeValue = min(getAxisLabelSize(len(inbound_sorted_data), len(outbound_sorted_data)), 20)
+    print(f"axis label size: {axisLabelSizeValue}")
     axisLabelSize = axisLabelSizeValue 
     axisIncrementsSize = axisLabelSizeValue
     legendTextSize = 15
@@ -218,6 +220,12 @@ def plot_trip_ridership_from_csv(csv_path, agency, route_number, service_change)
 
     plt.tight_layout(rect=[0, 0, 1, 0.95])
 
+    for i in range(len(time_periods)):
+        ax1.barh(0, 0, color=time_order_color[i][1], label=time_order_color[i][0])
+        ax2.barh(0, 0, color=time_order_color[i][1], label=time_order_color[i][0])
+    ax1.legend()
+    ax2.legend()
+
     # ---------------------------
     # SAVE OUTPUT
     # ---------------------------
@@ -226,6 +234,195 @@ def plot_trip_ridership_from_csv(csv_path, agency, route_number, service_change)
 
     output_file = os.path.join(directory, "TripRidership.png")
     fig.savefig(output_file)
-    plt.show()
+    plt.close(fig)
 
-plot_trip_ridership_from_csv("../data/routeData/kcm/48/253/ridershipData.csv", "kcm", "48", "253")
+    #plt.show()
+
+# plot_trip_ridership_from_csv("../data/routeData/st/48/253/ridershipData.csv", "kcm", "48", "253")
+
+def plot_daily_ridership_from_csv(csv_path, agency, route_number, service_change):
+    
+    df = pd.read_csv(csv_path)
+
+    if df.empty:
+        raise ValueError("No data found for given route and service change.")
+
+    df = df.sort_values(by=["direction", "stopOrderNum"])
+
+    time_periods = ["AM", "MID", "PM", "XEV", "XNT"]
+
+    # ---------------------------
+    # BUILD DATA STRUCTURE
+    # ---------------------------
+    def build_direction_dict(direction_df, shouldReverse):
+
+        direction_dict = {}
+        grouped = direction_df.groupby(["stopId", "stopName"])
+
+        for (stop_id, stop_name), group in grouped:
+            group = group.sort_values("stopOrderNum")
+            values = []
+
+            for t in time_periods:
+                row = group[group["timeOfDay"] == t]
+
+                if row.empty:
+                    values.append((0, 0))
+                else:
+                    row = row.iloc[0]
+                    neg_bar = row["dailyAlightings"]
+                    pos_bar = row["dailyBoardings"]
+                    values.append((neg_bar, pos_bar))
+
+            direction_dict[(stop_id, stop_name)] = values
+
+        # Preserve stop order
+        ordered = sorted(
+            direction_dict.items(),
+            key=lambda x: direction_df[
+                direction_df["stopId"] == x[0][0]
+            ]["stopOrderNum"].iloc[0], 
+            reverse=shouldReverse
+        )
+
+        return dict(ordered)
+
+    inbound_df = df[df["direction"] == "I"]
+    outbound_df = df[df["direction"] == "O"]
+
+    inbound_sorted_data = build_direction_dict(inbound_df, True)
+    outbound_sorted_data = build_direction_dict(outbound_df, False)
+
+    # ---------------------------
+    # TITLES
+    # ---------------------------
+    routeName = "Route {0}".format(route_number)
+    for letter, rapidRideRouteNum, shortName in namedRouteMappings:
+      if route_number == rapidRideRouteNum:
+        routeName = shortName
+
+    overallTitle = "Average Daily Stop Ridership for {0} between {1}".format(routeName, timePeriodNames[service_change])
+    inboundTitle = "Inbound Trips"
+    outboundTitle = "Outbound Trips"
+    inboundYAxis = "{0} Inbound Stops (Read Down)".format(routeName)
+    outboundYAxis = "{0} Outbound Stops (Read Up)".format(routeName)
+    xAxis = "Passenger Count"
+
+    mainTitleSize = 40
+    subTitleSize = 30
+    axisLabelSizeValue = min(getAxisLabelSize(len(inbound_sorted_data), len(outbound_sorted_data)), 20)
+    print(f"axis label size: {axisLabelSizeValue}")
+    axisLabelSize = axisLabelSizeValue 
+    axisIncrementsSize = axisLabelSizeValue
+    legendTextSize = 15
+
+    # ---------------------------
+    # FIGURE
+    # ---------------------------
+    fig, (ax1, ax2) = plt.subplots(nrows=1, ncols=2, figsize=(30, 20), constrained_layout=True)
+    fig.subplots_adjust(left=0.28, right=0.95, top=0.92, bottom=0.05, wspace=0.25)
+    plt.rc('xtick', labelsize=12)     
+    plt.rc('ytick', labelsize=12)
+    ax1.set_xlabel(xAxis, fontsize=axisLabelSize)
+    ax1.set_ylabel(inboundYAxis, fontsize=axisLabelSize)
+    ax1.set_title(inboundTitle, fontsize=subTitleSize)
+    ax1.tick_params(axis='x', labelsize=axisIncrementsSize)
+    ax1.tick_params(axis='y', labelsize=axisIncrementsSize)
+
+    ax2.set_xlabel(xAxis, fontsize=axisLabelSize)
+    ax2.set_ylabel(outboundYAxis, fontsize=axisLabelSize)
+    ax2.set_title(outboundTitle, fontsize=subTitleSize)
+    ax2.tick_params(axis='x', labelsize=axisIncrementsSize)
+    ax2.tick_params(axis='y', labelsize=axisIncrementsSize)
+
+    
+    ax1.set_xlim(-10, 30)  # Set x-axis limits
+    ax2.set_xlim(-10, 30) # Set x-axis limits
+    
+    fig.suptitle(overallTitle, fontsize=mainTitleSize)
+
+    ax1.grid(True)
+    ax2.grid(True)
+    ax1.set_axisbelow(True)
+    ax2.set_axisbelow(True)
+
+    time_colors = ['y', 'b', 'g', 'm', 'k']
+
+    max_pos = 0
+    max_neg = 0
+
+    def plot_direction(ax, data_dict):
+        nonlocal max_pos, max_neg
+
+        for i, ((stop_id, stop_name), values) in enumerate(data_dict.items()):
+            neg_offset = 0
+            pos_offset = 0
+
+            for j, (alight, board) in enumerate(values):
+                # stack alightings (negative)
+                ax.barh(i, -alight, left=neg_offset, color=time_colors[j], height=0.6)
+                neg_offset -= alight
+
+                # stack boardings (positive)
+                ax.barh(i, board, left=pos_offset, color=time_colors[j], height=0.6)
+                pos_offset += board
+
+            max_pos = max(max_pos, pos_offset)
+            max_neg = min(max_neg, neg_offset)
+
+        # labels
+        stop_labels = [stop_name for (_, stop_name) in data_dict.keys()]
+        ax.set_yticks(range(len(stop_labels)))
+        ax.set_yticklabels(stop_labels)
+
+    plot_direction(ax1, inbound_sorted_data)
+    plot_direction(ax2, outbound_sorted_data)
+
+    # axis limits
+    ax1.set_xlim(max_neg * 1.1, max_pos * 1.1)
+    ax2.set_xlim(max_neg * 1.1, max_pos * 1.1)
+
+    # legend
+    time_order_color = [
+        ['5am-9am (AM)', 'y'],
+        ['9am-3pm (MID)', 'b'],
+        ['3pm-7pm (PM)', 'g'],
+        ['7pm-10pm (XEV)', 'm'],
+        ['10pm-5am (XNT)', 'k']
+    ]
+
+    for i in range(len(time_periods)):
+        ax1.barh(0, 0, color=time_order_color[i][1], label=time_order_color[i][0])
+        ax2.barh(0, 0, color=time_order_color[i][1], label=time_order_color[i][0])
+    ax1.legend()
+    ax2.legend()
+    
+
+    plt.tight_layout(rect=[0, 0, 1, 0.95])
+
+
+    # ---------------------------
+    # SAVE
+    # ---------------------------
+    directory = f"../STR/{agency}/{route_number}/{service_change}"
+    os.makedirs(directory, exist_ok=True)
+
+    output_file = os.path.join(directory, "DailyRidership.png")
+
+    fig.savefig(output_file, dpi=200)
+    plt.close(fig)
+
+#plot_daily_ridership_from_csv("../data/routeData/kcm/48/253/ridershipData.csv", "kcm", "48", "253")
+
+
+# Uncomment this to generate the plots for all routes (also, change the service change below)
+# for routeInt in range(1000):
+#   print(routeInt)
+#   try:
+#     plot_trip_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/253/ridershipData.csv", "kcm", f"{routeInt}", "251")
+#     plot_daily_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/253/ridershipData.csv", "kcm", f"{routeInt}", "251")
+
+#     plot_trip_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/253/ridershipData.csv", "kcm", f"{routeInt}", "253")
+#     plot_daily_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/253/ridershipData.csv", "kcm", f"{routeInt}", "253")
+#   except:
+#       continue
