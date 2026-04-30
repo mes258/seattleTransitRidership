@@ -1,0 +1,236 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,61,I,38653,NE 130th St & 35th Ave NE,1,AM,1.3,0,1.3,17.5,0
+253,61,I,76700,Lake City Way NE & NE 130th St,2,AM,1.7,0.1,2.9,24.4,1.1
+253,61,I,76710,Lake City Way NE & NE 125th St,3,AM,2.6,0.2,5.3,36.6,2.4
+253,61,I,38145,Lake City Way NE & NE 120th St,4,AM,1.2,0,6.5,16.5,0.2
+253,61,I,38160,Lake City Way NE & NE 115th St,5,AM,0.9,0.1,7.2,11.9,1
+253,61,I,35331,NE Northgate Way & 23rd Ave NE,6,AM,0.6,0,7.8,8,0.1
+253,61,I,35336,NE Northgate Way & 19th Ave NE,7,AM,0.4,0,8.2,6.2,0.2
+253,61,I,35338,NE Northgate Way & 15th Ave NE,8,AM,0.3,0,8.5,4.5,0.5
+253,61,I,82198,NE Northgate Way & Roosevelt Way NE,9,AM,0.9,0.5,8.8,12.6,7.2
+253,61,I,23230,5th Ave NE & NE Northgate Way,10,AM,1.3,0.7,9.3,17.5,10.4
+253,61,I,23250,5th Ave NE & NE 106th St,11,AM,0.3,0,9.5,3.7,0.6
+253,61,I,35290,NE 103rd St & 5th Ave NE,12,AM,0.1,0.3,9.3,1.3,3.8
+253,61,I,35318,Northgate Station - Bay 4,13,AM,1.3,6.8,3.9,17.5,88.1
+253,61,I,17697,1st Ave NE & NE 95th St,14,AM,0.1,0.2,3.7,0.9,2.2
+253,61,I,17698,N 92nd St & Corliss Ave N,15,AM,0.1,0.7,3.2,1.6,9.2
+253,61,I,17040,Wallingford Ave N & N 90th St,16,AM,0.1,0.6,2.7,1.3,7.2
+253,61,I,5420,N 85th St & Wallingford Ave N,17,AM,0,0.4,2.4,0.6,4.7
+253,61,I,5440,N 85th St & Stone Ave N,18,AM,0,0.1,2.4,0.3,0.9
+253,61,I,5450,N 85th St & Aurora Ave N,19,AM,0.4,0.9,1.9,5.2,11.3
+253,61,I,5470,N 85th St & Fremont Ave N,20,AM,0,0.2,1.7,0.1,2.2
+253,61,I,6640,Greenwood Ave N & N 85th St,21,AM,0,1,0.8,0.3,11.7
+253,61,I,6650,Greenwood Ave N & N 87th St,22,AM,0.1,0.6,0.4,1.6,6.7
+253,61,I,6658,NW 90th St & 1st Ave NW,23,AM,0,0.1,0.3,0.4,0.9
+253,61,I,35660,NW 85th St & 3rd Ave NW,24,AM,0.3,0.5,0.1,3.2,5.9
+253,61,I,35670,N 85th St & 1st Ave NW,25,AM,0,0.1,0,0,1.4
+253,61,O,35670,N 85th St & 1st Ave NW,1,AM,0.4,0,0.4,4.3,0
+253,61,O,5330,N 85th St & Greenwood Ave N,2,AM,1.1,0,1.4,12.8,0.3
+253,61,O,5350,N 85th St & Fremont Ave N,3,AM,0.4,0,1.8,4.7,0.1
+253,61,O,5370,N 85th St & Aurora Ave N,4,AM,1.2,0.5,2.5,14.9,6.2
+253,61,O,5380,N 85th St & Stone Ave N,5,AM,0.6,0.3,2.7,6.7,4
+253,61,O,17651,Wallingford Ave N & N 85th St,6,AM,0.2,0,2.9,2,0.5
+253,61,O,17680,Wallingford Ave N & N 90th St,7,AM,0.6,0.2,3.2,7.2,2.5
+253,61,O,17022,N 92nd St & Corliss Ave N,8,AM,0.3,0.4,3.2,3.6,4.4
+253,61,O,17024,1st Ave NE & NE 95th St,9,AM,0.8,0.3,3.6,9,3.5
+253,61,O,35317,Northgate Station - Bay 1,10,AM,2.2,2,3.9,24.7,21.9
+253,61,O,23750,5th Ave NE & NE 103rd St,11,AM,0.2,0.1,4.1,2.5,0.9
+253,61,O,23770,5th Ave NE & NE 106th St,12,AM,0.1,0.2,4,1.2,2.5
+253,61,O,81364,NE Northgate Way & 5th Ave NE,13,AM,1.3,0.6,4.6,13.8,6.9
+253,61,O,81367,NE Northgate Way & Roosevelt Way NE,14,AM,1.5,0.5,5.6,16.8,5.1
+253,61,O,35332,NE Northgate Way & 15th Ave NE,15,AM,0.1,0.1,5.7,1.4,0.7
+253,61,O,35334,NE Northgate Way & 19th Ave NE,16,AM,0.1,0.1,5.7,0.8,0.7
+253,61,O,35333,NE Northgate Way & 23rd Ave NE,17,AM,0,0.1,5.6,0,1
+253,61,O,38620,Lake City Way NE & NE 113th St,18,AM,0.2,3,2.7,1.7,33.1
+253,61,O,38650,Lake City Way NE & NE 120th St,19,AM,0,0.4,2.4,0.2,4
+253,61,O,76720,Lake City Way NE & NE 125th St,20,AM,0,1.4,1.1,0.5,15.3
+253,61,O,76730,Lake City Way NE & NE 130th St,21,AM,0.1,1,0.3,1.3,9.6
+253,61,O,76731,Lake City Way NE & NE 135th St,22,AM,0,0.3,0,0,2.8
+253,61,I,38653,NE 130th St & 35th Ave NE,1,MID,1.1,0,1.1,28.2,0.3
+253,61,I,76700,Lake City Way NE & NE 130th St,2,MID,1.7,0.2,2.7,43.5,4.1
+253,61,I,76710,Lake City Way NE & NE 125th St,3,MID,3.2,0.3,5.6,80.7,7
+253,61,I,38145,Lake City Way NE & NE 120th St,4,MID,1,0.1,6.5,23.7,2.1
+253,61,I,38160,Lake City Way NE & NE 115th St,5,MID,1.9,0.3,8,44.6,7.3
+253,61,I,35331,NE Northgate Way & 23rd Ave NE,6,MID,0.3,0,8.3,7.6,0.2
+253,61,I,35336,NE Northgate Way & 19th Ave NE,7,MID,0.3,0.1,8.6,7.4,1.3
+253,61,I,35338,NE Northgate Way & 15th Ave NE,8,MID,0.2,0.3,8.5,5.3,6
+253,61,I,82198,NE Northgate Way & Roosevelt Way NE,9,MID,1.4,1.4,8.5,32.4,34.5
+253,61,I,23230,5th Ave NE & NE Northgate Way,10,MID,1.5,1,8.9,35.8,24.8
+253,61,I,23250,5th Ave NE & NE 106th St,11,MID,0.3,0.2,9,7.4,5.6
+253,61,I,35290,NE 103rd St & 5th Ave NE,12,MID,0.2,0.4,8.8,5,10.5
+253,61,I,35318,Northgate Station - Bay 4,13,MID,2.2,5.6,5.5,55.5,139
+253,61,I,17697,1st Ave NE & NE 95th St,14,MID,0.1,0.4,5.2,3.2,9.1
+253,61,I,17698,N 92nd St & Corliss Ave N,15,MID,0.3,1,4.5,7.5,24.9
+253,61,I,17040,Wallingford Ave N & N 90th St,16,MID,0.2,0.4,4.3,3.6,10.1
+253,61,I,5420,N 85th St & Wallingford Ave N,17,MID,0.1,0.3,4.1,1.2,6
+253,61,I,5440,N 85th St & Stone Ave N,18,MID,0.1,0.1,4,2.8,3.4
+253,61,I,5450,N 85th St & Aurora Ave N,19,MID,0.9,1.5,3.4,20.4,36.8
+253,61,I,5470,N 85th St & Fremont Ave N,20,MID,0,0.4,3,1.1,10
+253,61,I,6640,Greenwood Ave N & N 85th St,21,MID,0.1,2.2,0.9,2.8,55.7
+253,61,I,6650,Greenwood Ave N & N 87th St,22,MID,0.2,0.5,0.5,4.4,13.2
+253,61,I,6658,NW 90th St & 1st Ave NW,23,MID,0.1,0.2,0.4,1.8,3.8
+253,61,I,35660,NW 85th St & 3rd Ave NW,24,MID,0.2,0.5,0.1,4.3,11.2
+253,61,I,35670,N 85th St & 1st Ave NW,25,MID,0,0.1,0,0,3.1
+253,61,O,35670,N 85th St & 1st Ave NW,1,MID,0.7,0,0.7,16.7,0
+253,61,O,5330,N 85th St & Greenwood Ave N,2,MID,1.4,0.1,2.1,34.4,1.7
+253,61,O,5350,N 85th St & Fremont Ave N,3,MID,0.4,0.1,2.3,8.9,2.5
+253,61,O,5370,N 85th St & Aurora Ave N,4,MID,1.4,0.7,3,33.3,16.3
+253,61,O,5380,N 85th St & Stone Ave N,5,MID,0.3,0.1,3.3,7.6,2.2
+253,61,O,17651,Wallingford Ave N & N 85th St,6,MID,0.5,0.1,3.7,12.6,1.8
+253,61,O,17680,Wallingford Ave N & N 90th St,7,MID,0.5,0.1,4.2,13,2.1
+253,61,O,17022,N 92nd St & Corliss Ave N,8,MID,0.7,0.5,4.4,16,11.8
+253,61,O,17024,1st Ave NE & NE 95th St,9,MID,0.4,0.1,4.7,10.7,3.2
+253,61,O,35317,Northgate Station - Bay 1,10,MID,4.2,2.1,6.7,101.3,49.8
+253,61,O,23750,5th Ave NE & NE 103rd St,11,MID,0.4,0.2,6.9,8.5,3.9
+253,61,O,23770,5th Ave NE & NE 106th St,12,MID,0.2,0.5,6.6,5.9,11.5
+253,61,O,81364,NE Northgate Way & 5th Ave NE,13,MID,1.2,1.3,6.5,28.4,32.1
+253,61,O,81367,NE Northgate Way & Roosevelt Way NE,14,MID,1.2,0.9,6.8,29.2,20.5
+253,61,O,35332,NE Northgate Way & 15th Ave NE,15,MID,0.1,0.2,6.7,2.4,4.5
+253,61,O,35334,NE Northgate Way & 19th Ave NE,16,MID,0,0.2,6.6,1,4
+253,61,O,35333,NE Northgate Way & 23rd Ave NE,17,MID,0,0.3,6.3,0.1,7.5
+253,61,O,38620,Lake City Way NE & NE 113th St,18,MID,0.3,1.5,5.1,8,36.4
+253,61,O,38650,Lake City Way NE & NE 120th St,19,MID,0.1,0.7,4.5,2.2,17.6
+253,61,O,76720,Lake City Way NE & NE 125th St,20,MID,0.1,2.9,1.7,3.3,66.5
+253,61,O,76730,Lake City Way NE & NE 130th St,21,MID,0.2,1.6,0.3,4.5,37.6
+253,61,O,76731,Lake City Way NE & NE 135th St,22,MID,0,0.3,0,0,6.4
+253,61,I,38653,NE 130th St & 35th Ave NE,1,PM,1,0,1,14.9,0
+253,61,I,76700,Lake City Way NE & NE 130th St,2,PM,1.9,0.1,2.8,28.8,1.2
+253,61,I,76710,Lake City Way NE & NE 125th St,3,PM,3.5,0.3,6.1,53,4.9
+253,61,I,38145,Lake City Way NE & NE 120th St,4,PM,1,0.1,7,15.8,2.2
+253,61,I,38160,Lake City Way NE & NE 115th St,5,PM,3.2,0.6,9.5,50.9,10.1
+253,61,I,35331,NE Northgate Way & 23rd Ave NE,6,PM,0.3,0.1,9.7,4.7,0.9
+253,61,I,35336,NE Northgate Way & 19th Ave NE,7,PM,0.3,0.1,9.9,4.4,2.2
+253,61,I,35338,NE Northgate Way & 15th Ave NE,8,PM,0.2,0.4,9.7,3.7,6.2
+253,61,I,82198,NE Northgate Way & Roosevelt Way NE,9,PM,1.5,2.1,9.1,24.2,34.3
+253,61,I,23230,5th Ave NE & NE Northgate Way,10,PM,1.9,1.8,9.2,30.7,28.7
+253,61,I,23250,5th Ave NE & NE 106th St,11,PM,0.3,0.2,9.4,5.4,3.1
+253,61,I,35290,NE 103rd St & 5th Ave NE,12,PM,0.2,0.5,9,3.9,8.5
+253,61,I,35318,Northgate Station - Bay 4,13,PM,3.6,5.1,7.6,57.9,81
+253,61,I,17697,1st Ave NE & NE 95th St,14,PM,0.2,0.7,7.2,3.4,10.8
+253,61,I,17698,N 92nd St & Corliss Ave N,15,PM,0.5,0.6,6.9,7.6,10.3
+253,61,I,17040,Wallingford Ave N & N 90th St,16,PM,0.3,0.8,6.4,5.1,13.1
+253,61,I,5420,N 85th St & Wallingford Ave N,17,PM,0.1,0.3,6.2,1.4,5.1
+253,61,I,5440,N 85th St & Stone Ave N,18,PM,0.4,0.4,6.2,6.4,7.1
+253,61,I,5450,N 85th St & Aurora Ave N,19,PM,1.2,1.9,5.5,19.7,30
+253,61,I,5470,N 85th St & Fremont Ave N,20,PM,0.1,0.9,4.7,1.5,14
+253,61,I,6640,Greenwood Ave N & N 85th St,21,PM,0.2,3.3,1.6,3.3,53.4
+253,61,I,6650,Greenwood Ave N & N 87th St,22,PM,0.3,1,0.9,5.1,15.2
+253,61,I,6658,NW 90th St & 1st Ave NW,23,PM,0.1,0.4,0.6,1.7,7
+253,61,I,35660,NW 85th St & 3rd Ave NW,24,PM,0.3,0.7,0.2,4.2,11.6
+253,61,I,35670,N 85th St & 1st Ave NW,25,PM,0,0.2,0,0,2.5
+253,61,O,35670,N 85th St & 1st Ave NW,1,PM,1.2,0,1.2,19.7,0
+253,61,O,5330,N 85th St & Greenwood Ave N,2,PM,1.8,0.1,2.9,28.9,1.9
+253,61,O,5350,N 85th St & Fremont Ave N,3,PM,0.4,0.2,3.1,5.8,3.3
+253,61,O,5370,N 85th St & Aurora Ave N,4,PM,1.7,0.9,3.9,27.7,14.1
+253,61,O,5380,N 85th St & Stone Ave N,5,PM,0.3,0.2,4.1,5.5,2.6
+253,61,O,17651,Wallingford Ave N & N 85th St,6,PM,0.6,0.1,4.6,9.1,1.3
+253,61,O,17680,Wallingford Ave N & N 90th St,7,PM,0.7,0.3,5,11,4.1
+253,61,O,17022,N 92nd St & Corliss Ave N,8,PM,0.4,0.3,5.1,5.9,4.4
+253,61,O,17024,1st Ave NE & NE 95th St,9,PM,0.4,0.2,5.4,6.4,2.4
+253,61,O,35317,Northgate Station - Bay 1,10,PM,7.4,2.6,10.3,117.8,41.8
+253,61,O,23750,5th Ave NE & NE 103rd St,11,PM,0.5,0.2,10.5,7.2,3.7
+253,61,O,23770,5th Ave NE & NE 106th St,12,PM,0.3,0.7,10.1,5.1,11.6
+253,61,O,81364,NE Northgate Way & 5th Ave NE,13,PM,1.7,2.3,9.5,27.4,36.4
+253,61,O,81367,NE Northgate Way & Roosevelt Way NE,14,PM,1.5,1.3,9.7,24.1,21.2
+253,61,O,35332,NE Northgate Way & 15th Ave NE,15,PM,0.1,0.3,9.4,1.1,5.4
+253,61,O,35334,NE Northgate Way & 19th Ave NE,16,PM,0,0.5,8.9,0.7,8.5
+253,61,O,35333,NE Northgate Way & 23rd Ave NE,17,PM,0,0.7,8.3,0.4,10.9
+253,61,O,38620,Lake City Way NE & NE 113th St,18,PM,0.4,1.7,6.9,5.8,27.7
+253,61,O,38650,Lake City Way NE & NE 120th St,19,PM,0.1,1.3,5.7,1.6,20.6
+253,61,O,76720,Lake City Way NE & NE 125th St,20,PM,0.2,3.5,2.4,3,59.1
+253,61,O,76730,Lake City Way NE & NE 130th St,21,PM,0.2,2.1,0.5,2.8,34.9
+253,61,O,76731,Lake City Way NE & NE 135th St,22,PM,0,0.5,0,0.1,9.1
+253,61,I,38653,NE 130th St & 35th Ave NE,1,XEV,0.5,0,0.5,5.6,0.2
+253,61,I,76700,Lake City Way NE & NE 130th St,2,XEV,0.8,0,1.3,10.1,0.1
+253,61,I,76710,Lake City Way NE & NE 125th St,3,XEV,1.8,0.1,2.9,21.8,1.6
+253,61,I,38145,Lake City Way NE & NE 120th St,4,XEV,0.4,0.1,3.3,4.5,0.8
+253,61,I,38160,Lake City Way NE & NE 115th St,5,XEV,0.8,0.3,3.8,9.7,3.3
+253,61,I,35331,NE Northgate Way & 23rd Ave NE,6,XEV,0.1,0,3.8,1.3,0.5
+253,61,I,35336,NE Northgate Way & 19th Ave NE,7,XEV,0.1,0.1,3.9,0.9,0.7
+253,61,I,35338,NE Northgate Way & 15th Ave NE,8,XEV,0.1,0.1,3.8,0.8,1.5
+253,61,I,82198,NE Northgate Way & Roosevelt Way NE,9,XEV,0.7,0.7,3.8,7.9,8.3
+253,61,I,23230,5th Ave NE & NE Northgate Way,10,XEV,0.9,0.5,4.2,10.4,5.9
+253,61,I,23250,5th Ave NE & NE 106th St,11,XEV,0.1,0,4.2,0.9,0.4
+253,61,I,35290,NE 103rd St & 5th Ave NE,12,XEV,0.1,0.2,4.2,1.5,1.9
+253,61,I,35318,Northgate Station - Bay 4,13,XEV,2,2.4,3.8,21.5,26.4
+253,61,I,17697,1st Ave NE & NE 95th St,14,XEV,0,0.3,3.6,0.5,4
+253,61,I,17698,N 92nd St & Corliss Ave N,15,XEV,0.1,0.2,3.5,1.2,2.6
+253,61,I,17040,Wallingford Ave N & N 90th St,16,XEV,0.1,0.4,3.1,0.6,4.7
+253,61,I,5420,N 85th St & Wallingford Ave N,17,XEV,0,0.2,3,0.4,1.9
+253,61,I,5440,N 85th St & Stone Ave N,18,XEV,0.1,0.1,3,0.6,1.7
+253,61,I,5450,N 85th St & Aurora Ave N,19,XEV,0.7,1.3,2.4,8.7,15.6
+253,61,I,5470,N 85th St & Fremont Ave N,20,XEV,0,0.4,2.1,0.4,4.5
+253,61,I,6640,Greenwood Ave N & N 85th St,21,XEV,0.1,1.4,0.7,1.3,17.2
+253,61,I,6650,Greenwood Ave N & N 87th St,22,XEV,0.1,0.4,0.4,1.2,4.8
+253,61,I,6658,NW 90th St & 1st Ave NW,23,XEV,0,0.2,0.3,0,1.9
+253,61,I,35660,NW 85th St & 3rd Ave NW,24,XEV,0.1,0.3,0.1,1.1,4.1
+253,61,I,35670,N 85th St & 1st Ave NW,25,XEV,0,0.1,0,0,0.8
+253,61,O,35670,N 85th St & 1st Ave NW,1,XEV,1.1,0,1.1,13.2,0
+253,61,O,5330,N 85th St & Greenwood Ave N,2,XEV,1.2,0,2.3,14.3,0.3
+253,61,O,5350,N 85th St & Fremont Ave N,3,XEV,0.1,0.1,2.3,1.6,1.6
+253,61,O,5370,N 85th St & Aurora Ave N,4,XEV,0.9,0.9,2.3,10.9,10.7
+253,61,O,5380,N 85th St & Stone Ave N,5,XEV,0.1,0.1,2.3,1.4,1
+253,61,O,17651,Wallingford Ave N & N 85th St,6,XEV,0.2,0.1,2.4,2,0.8
+253,61,O,17680,Wallingford Ave N & N 90th St,7,XEV,0.1,0.1,2.5,1.7,0.9
+253,61,O,17022,N 92nd St & Corliss Ave N,8,XEV,0.1,0.1,2.5,1.4,1.1
+253,61,O,17024,1st Ave NE & NE 95th St,9,XEV,0.1,0,2.6,1.4,0.2
+253,61,O,35317,Northgate Station - Bay 1,10,XEV,4.9,1.4,6.2,63.8,18.8
+253,61,O,23750,5th Ave NE & NE 103rd St,11,XEV,0.3,0.1,6.5,3.3,1.3
+253,61,O,23770,5th Ave NE & NE 106th St,12,XEV,0.1,0.2,6.3,1.2,2.9
+253,61,O,81364,NE Northgate Way & 5th Ave NE,13,XEV,0.9,1.3,6,11.2,15.4
+253,61,O,81367,NE Northgate Way & Roosevelt Way NE,14,XEV,0.8,0.8,6.1,10.1,9.3
+253,61,O,35332,NE Northgate Way & 15th Ave NE,15,XEV,0.1,0.2,5.9,0.8,2.9
+253,61,O,35334,NE Northgate Way & 19th Ave NE,16,XEV,0,0.3,5.6,0.1,3.4
+253,61,O,35333,NE Northgate Way & 23rd Ave NE,17,XEV,0,0.3,5.3,0.1,3.8
+253,61,O,38620,Lake City Way NE & NE 113th St,18,XEV,0.3,1.1,4.6,3.6,12.6
+253,61,O,38650,Lake City Way NE & NE 120th St,19,XEV,0.1,0.8,3.9,1,9.1
+253,61,O,76720,Lake City Way NE & NE 125th St,20,XEV,0.1,2.5,1.5,1.2,30.1
+253,61,O,76730,Lake City Way NE & NE 130th St,21,XEV,0.1,1.3,0.3,1.6,15.2
+253,61,O,76731,Lake City Way NE & NE 135th St,22,XEV,0,0.3,0,0,3.8
+253,61,I,38653,NE 130th St & 35th Ave NE,1,XNT,0.3,0,0.3,2.8,0
+253,61,I,76700,Lake City Way NE & NE 130th St,2,XNT,0.5,0,0.8,4.7,0.1
+253,61,I,76710,Lake City Way NE & NE 125th St,3,XNT,1,0.1,1.7,8.9,0.9
+253,61,I,38145,Lake City Way NE & NE 120th St,4,XNT,0.2,0,1.9,2.1,0
+253,61,I,38160,Lake City Way NE & NE 115th St,5,XNT,0.3,0.1,2.1,2.6,1
+253,61,I,35331,NE Northgate Way & 23rd Ave NE,6,XNT,0,0,2.1,0,0.1
+253,61,I,35336,NE Northgate Way & 19th Ave NE,7,XNT,0,0,2,0.1,0.4
+253,61,I,35338,NE Northgate Way & 15th Ave NE,8,XNT,0,0,2,0.2,0.2
+253,61,I,82198,NE Northgate Way & Roosevelt Way NE,9,XNT,0.3,0.3,2.1,2.8,2.5
+253,61,I,23230,5th Ave NE & NE Northgate Way,10,XNT,0.4,0.2,2.5,4,1.8
+253,61,I,23250,5th Ave NE & NE 106th St,11,XNT,0,0,2.5,0.3,0.1
+253,61,I,35290,NE 103rd St & 5th Ave NE,12,XNT,0.1,0.1,2.5,0.6,0.6
+253,61,I,35318,Northgate Station - Bay 4,13,XNT,1.5,1.1,2.8,14.9,11.2
+253,61,I,17697,1st Ave NE & NE 95th St,14,XNT,0,0.2,2.7,0.1,1.7
+253,61,I,17698,N 92nd St & Corliss Ave N,15,XNT,0,0.1,2.6,0.1,1.1
+253,61,I,17040,Wallingford Ave N & N 90th St,16,XNT,0,0.2,2.4,0,1.8
+253,61,I,5420,N 85th St & Wallingford Ave N,17,XNT,0,0.1,2.4,0.3,1
+253,61,I,5440,N 85th St & Stone Ave N,18,XNT,0,0.1,2.3,0,0.6
+253,61,I,5450,N 85th St & Aurora Ave N,19,XNT,0.4,1.5,1.1,3.6,15.4
+253,61,I,5470,N 85th St & Fremont Ave N,20,XNT,0,0.2,0.9,0,2.4
+253,61,I,6640,Greenwood Ave N & N 85th St,21,XNT,0,0.5,0.5,0,4.6
+253,61,I,6650,Greenwood Ave N & N 87th St,22,XNT,0,0.2,0.3,0.2,2.3
+253,61,I,6658,NW 90th St & 1st Ave NW,23,XNT,0,0.2,0.2,0.1,1.5
+253,61,I,35660,NW 85th St & 3rd Ave NW,24,XNT,0,0.2,0,0.5,2
+253,61,I,35670,N 85th St & 1st Ave NW,25,XNT,0,0,0,0,0.5
+253,61,O,35670,N 85th St & 1st Ave NW,1,XNT,0.5,0,0.5,6,0
+253,61,O,5330,N 85th St & Greenwood Ave N,2,XNT,0.5,0,1,5.8,0.2
+253,61,O,5350,N 85th St & Fremont Ave N,3,XNT,0.1,0,1.1,1.1,0.2
+253,61,O,5370,N 85th St & Aurora Ave N,4,XNT,0.9,0.6,1.4,10,6.9
+253,61,O,5380,N 85th St & Stone Ave N,5,XNT,0.1,0,1.4,0.9,0.3
+253,61,O,17651,Wallingford Ave N & N 85th St,6,XNT,0,0,1.4,0.1,0.2
+253,61,O,17680,Wallingford Ave N & N 90th St,7,XNT,0,0,1.4,0.4,0.1
+253,61,O,17022,N 92nd St & Corliss Ave N,8,XNT,0,0,1.4,0,0.3
+253,61,O,17024,1st Ave NE & NE 95th St,9,XNT,0,0,1.4,0.4,0.1
+253,61,O,35317,Northgate Station - Bay 1,10,XNT,3.1,0.6,3.9,33.6,6.6
+253,61,O,23750,5th Ave NE & NE 103rd St,11,XNT,0.2,0.1,4,2.1,0.9
+253,61,O,23770,5th Ave NE & NE 106th St,12,XNT,0,0.1,4,0.3,0.8
+253,61,O,81364,NE Northgate Way & 5th Ave NE,13,XNT,0.4,0.4,3.9,4.4,5.2
+253,61,O,81367,NE Northgate Way & Roosevelt Way NE,14,XNT,0.4,0.5,3.9,5.3,5.8
+253,61,O,35332,NE Northgate Way & 15th Ave NE,15,XNT,0,0.1,3.9,0.2,0.7
+253,61,O,35334,NE Northgate Way & 19th Ave NE,16,XNT,0,0.1,3.8,0,1.3
+253,61,O,35333,NE Northgate Way & 23rd Ave NE,17,XNT,0,0.1,3.6,0,1.7
+253,61,O,38620,Lake City Way NE & NE 113th St,18,XNT,0.1,0.5,3.3,1.5,5.6
+253,61,O,38650,Lake City Way NE & NE 120th St,19,XNT,0,0.5,2.8,0.4,6.2
+253,61,O,76720,Lake City Way NE & NE 125th St,20,XNT,0.1,1.8,1.1,0.8,21.3
+253,61,O,76730,Lake City Way NE & NE 130th St,21,XNT,0.1,0.8,0.4,0.8,9.9
+253,61,O,76731,Lake City Way NE & NE 135th St,22,XNT,0,0.4,0,0.1,4.4

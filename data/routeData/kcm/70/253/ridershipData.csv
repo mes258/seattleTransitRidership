@@ -1,0 +1,193 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,70,I,10911,U District Station - Bay 3,1,AM,4.9,0,4.9,92.9,0.1
+253,70,I,10912,15th Ave NE & NE 43rd St,2,AM,2.5,0,7.3,47.9,0.8
+253,70,I,10914,15th Ave NE & NE Campus Pkwy,3,AM,1.7,0.2,8.7,31.2,2.8
+253,70,I,9138,NE Campus Pkwy & 12th Ave NE - Bay 4,4,AM,2.5,0.1,11.2,45.5,1
+253,70,I,9140,University Bridge & NE 40th St,5,AM,2.9,0.1,14,51.9,0.9
+253,70,I,9150,Eastlake Ave E & E Allison St,6,AM,2.9,0.2,16.6,51.9,4.2
+253,70,I,9190,Eastlake Ave E & E Louisa St,7,AM,4.1,1.3,19.5,73.8,22.7
+253,70,I,9220,Eastlake Ave E & E Newton St,8,AM,4.3,1,22.4,72.8,17.2
+253,70,I,10170,Fairview Ave E & E Nelson Pl,9,AM,0.4,1.2,21.5,6.1,19.7
+253,70,I,10180,Fairview Ave N & Yale Ave N,10,AM,0.1,2.5,19.1,1.4,42.3
+253,70,I,10190,Fairview Ave N & Aloha St,11,AM,0.2,1.8,17.6,2.9,29.8
+253,70,I,10210,Fairview Ave N & Mercer St,12,AM,1.5,3.6,15.5,25.7,61.5
+253,70,I,10225,Fairview Ave N & Thomas St,13,AM,1,2.7,13.3,15.4,43
+253,70,I,10240,Boren Ave & Virginia St,14,AM,0.5,1.4,12.4,7.7,23
+253,70,I,940,Stewart St & 9th Ave,15,AM,0.3,1.1,11.7,5.5,17.2
+253,70,I,950,Stewart St & 7th Ave,16,AM,0.2,2.3,9.5,2.9,37.5
+253,70,I,430,3rd Ave & Pine St,17,AM,0.2,2.2,7.5,2.8,35.6
+253,70,I,450,3rd Ave & Union St,18,AM,0.1,3,4.5,1.2,48.6
+253,70,I,480,3rd Ave & Marion St,19,AM,0.1,2.4,2.1,1.6,36.7
+253,70,I,500,3rd Ave & James St,20,AM,0,0.6,1.4,0.1,9.6
+253,70,I,515,3rd Ave S & S Main St,21,AM,0.4,1.8,0,5.4,26.9
+253,70,O,1530,S Jackson St & 5th Ave S,1,AM,2.1,0,2.1,8.5,0.1
+253,70,O,1610,Prefontaine Pl S & Yesler Way,2,AM,3.3,0,3.7,69.2,0.6
+253,70,O,538,3rd Ave & Columbia St,3,AM,1.3,0.1,4.8,27.2,2.7
+253,70,O,558,3rd Ave & Seneca St,4,AM,3.3,0.1,7.9,73.6,2.9
+253,70,O,575,3rd Ave & Pike St,5,AM,3.1,0.3,10.7,68.5,6.2
+253,70,O,880,Virginia St & 6th Ave,6,AM,1.1,0.3,11.4,23.3,6.2
+253,70,O,900,Virginia St & 9th Ave,7,AM,1.1,1.1,11.4,24,24
+253,70,O,10280,Fairview Ave & Denny Way,8,AM,1.6,1.2,11.7,33,25.7
+253,70,O,10305,Fairview Ave N & Harrison St,9,AM,1.5,2.9,10.3,31.2,61.6
+253,70,O,10325,Fairview Ave N & Valley St,10,AM,0.7,2,9.1,15.7,41.2
+253,70,O,10350,Fairview Ave E & Yale Ave N,11,AM,0.1,1.1,7.5,1.7,21.5
+253,70,O,9480,Eastlake Ave E & E Howe St,12,AM,1.2,1.3,7.4,23.1,25.4
+253,70,O,9510,Eastlake Ave E & E Louisa St,13,AM,1.8,1.9,7.1,37.8,39.8
+253,70,O,9550,Eastlake Ave E & E Allison St,14,AM,0.9,0.4,7.3,18,8.8
+253,70,O,9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,15,AM,0.1,4,3.4,1.9,79.9
+253,70,O,11352,15th Ave NE & NE 42nd St,16,AM,0,1.3,2.1,0.1,26.6
+253,70,O,9587,U District Station - Bay 1,17,AM,0.8,2.9,0,15.3,57.7
+253,70,I,10911,U District Station - Bay 3,1,MID,5,0,5,130.7,0.1
+253,70,I,10912,15th Ave NE & NE 43rd St,2,MID,2.4,0.1,7.4,62.7,1.9
+253,70,I,10914,15th Ave NE & NE Campus Pkwy,3,MID,4,0.4,11,107.5,11.4
+253,70,I,9138,NE Campus Pkwy & 12th Ave NE - Bay 4,4,MID,3.3,0.2,14.2,89.5,4.4
+253,70,I,9140,University Bridge & NE 40th St,5,MID,2.9,0.1,17,78,3.3
+253,70,I,9150,Eastlake Ave E & E Allison St,6,MID,1.2,0.5,17.7,32.6,13.8
+253,70,I,9190,Eastlake Ave E & E Louisa St,7,MID,2.5,1.1,19.1,68,29.8
+253,70,I,9220,Eastlake Ave E & E Newton St,8,MID,2.9,0.9,21.4,78.4,25.5
+253,70,I,10170,Fairview Ave E & E Nelson Pl,9,MID,0.7,0.9,21.2,19.5,25.4
+253,70,I,10180,Fairview Ave N & Yale Ave N,10,MID,0.3,1.7,19.8,8.1,45.4
+253,70,I,10190,Fairview Ave N & Aloha St,11,MID,0.6,1.4,19,16.9,39.1
+253,70,I,10210,Fairview Ave N & Mercer St,12,MID,2.3,4.9,16.4,62.1,133.3
+253,70,I,10225,Fairview Ave N & Thomas St,13,MID,1.5,4,14.1,41.3,111.2
+253,70,I,10240,Boren Ave & Virginia St,14,MID,0.6,2.2,12.5,17.7,62.4
+253,70,I,940,Stewart St & 9th Ave,15,MID,0.9,1.7,11.6,24,47.4
+253,70,I,950,Stewart St & 7th Ave,16,MID,0.3,2,10,8.8,55.7
+253,70,I,430,3rd Ave & Pine St,17,MID,0.3,4,6.1,8.1,107.5
+253,70,I,450,3rd Ave & Union St,18,MID,0.2,2.3,4,4.2,61.1
+253,70,I,480,3rd Ave & Marion St,19,MID,0.1,1.8,2.3,2.9,51.1
+253,70,I,500,3rd Ave & James St,20,MID,0,0.7,1.7,0.9,18.8
+253,70,I,515,3rd Ave S & S Main St,21,MID,0.3,1.9,0.1,7.6,53.6
+253,70,I,1471,S Jackson St & 5th Ave S,22,MID,1.3,1.8,0,3.9,5.3
+253,70,O,1610,Prefontaine Pl S & Yesler Way,2,MID,2.3,0,2.3,58.1,0.1
+253,70,O,538,3rd Ave & Columbia St,3,MID,1.3,0.1,3.6,33.3,2.7
+253,70,O,558,3rd Ave & Seneca St,4,MID,2.3,0.2,5.7,57.6,3.8
+253,70,O,575,3rd Ave & Pike St,5,MID,4,0.6,9.1,99.6,13.9
+253,70,O,880,Virginia St & 6th Ave,6,MID,1.8,0.4,10.6,46.4,11.3
+253,70,O,900,Virginia St & 9th Ave,7,MID,1.4,1.2,10.8,37.1,31.4
+253,70,O,10280,Fairview Ave & Denny Way,8,MID,2.2,1.7,11.3,56.1,44.9
+253,70,O,10305,Fairview Ave N & Harrison St,9,MID,3.2,3.1,11.3,80,77.5
+253,70,O,10325,Fairview Ave N & Valley St,10,MID,1.7,0.7,12.2,41.3,18.1
+253,70,O,10350,Fairview Ave E & Yale Ave N,11,MID,0.8,0.8,12.1,21.6,21.3
+253,70,O,9480,Eastlake Ave E & E Howe St,12,MID,1.2,1.4,11.9,31.9,37
+253,70,O,9510,Eastlake Ave E & E Louisa St,13,MID,1.9,1.4,12.4,48.2,36.7
+253,70,O,9550,Eastlake Ave E & E Allison St,14,MID,1,0.8,12.3,26.9,20
+253,70,O,9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,15,MID,0.5,6.1,6.7,12.6,158.7
+253,70,O,11352,15th Ave NE & NE 42nd St,16,MID,0.1,2.6,4.2,1.3,66.8
+253,70,O,9587,U District Station - Bay 1,17,MID,0.9,5.1,0,23.4,131.7
+253,70,I,10911,U District Station - Bay 3,1,PM,3.2,0,3.2,66.5,0
+253,70,I,10912,15th Ave NE & NE 43rd St,2,PM,2.3,0.1,5.4,48.7,1.4
+253,70,I,10914,15th Ave NE & NE Campus Pkwy,3,PM,5.1,0.2,10.3,106.3,3.5
+253,70,I,9138,NE Campus Pkwy & 12th Ave NE - Bay 4,4,PM,2.8,0.2,12.9,57.9,3.2
+253,70,I,9140,University Bridge & NE 40th St,5,PM,1.4,0.2,14.1,29.6,3.4
+253,70,I,9150,Eastlake Ave E & E Allison St,6,PM,1,1.5,14,20.6,29.3
+253,70,I,9190,Eastlake Ave E & E Louisa St,7,PM,3,2.9,14.2,60.7,58.2
+253,70,I,9220,Eastlake Ave E & E Newton St,8,PM,2,1.5,14.7,42.7,31.7
+253,70,I,10170,Fairview Ave E & E Nelson Pl,9,PM,1.5,0.2,16,31.3,5.2
+253,70,I,10180,Fairview Ave N & Yale Ave N,10,PM,1,0.4,16.7,22,7.4
+253,70,I,10190,Fairview Ave N & Aloha St,11,PM,2.1,1.1,18.1,41.3,21.8
+253,70,I,10210,Fairview Ave N & Mercer St,12,PM,3.5,2.5,19.1,69.9,50.1
+253,70,I,10225,Fairview Ave N & Thomas St,13,PM,2.8,3.1,18.8,56.7,61.2
+253,70,I,10240,Boren Ave & Virginia St,14,PM,0.7,2.1,17.4,14.7,42.2
+253,70,I,940,Stewart St & 9th Ave,15,PM,0.8,2,16.3,16.8,39.4
+253,70,I,950,Stewart St & 7th Ave,16,PM,0.7,1.7,15.3,13,33.5
+253,70,I,430,3rd Ave & Pine St,17,PM,0.3,6.8,8.8,6.3,142.3
+253,70,I,450,3rd Ave & Union St,18,PM,0.2,2.9,6.4,3.5,57.8
+253,70,I,480,3rd Ave & Marion St,19,PM,0.2,1.9,4.8,4,37
+253,70,I,500,3rd Ave & James St,20,PM,0,0.7,4.1,0.7,14.2
+253,70,I,515,3rd Ave S & S Main St,21,PM,0.3,4.5,0,5.4,86.3
+253,70,I,1471,S Jackson St & 5th Ave S,22,PM,0.2,0.6,0,0.2,0.6
+253,70,O,1530,S Jackson St & 5th Ave S,1,PM,1.8,0.4,1.5,3.6,0.7
+253,70,O,1610,Prefontaine Pl S & Yesler Way,2,PM,2,0,2.1,46.4,0.4
+253,70,O,538,3rd Ave & Columbia St,3,PM,1.8,0.1,3.7,40.3,3.1
+253,70,O,558,3rd Ave & Seneca St,4,PM,3.2,0.1,6.8,73.1,3.3
+253,70,O,575,3rd Ave & Pike St,5,PM,4.3,0.6,10.6,93.6,12.8
+253,70,O,880,Virginia St & 6th Ave,6,PM,3.5,0.4,13.7,77.7,9.5
+253,70,O,900,Virginia St & 9th Ave,7,PM,2.6,1,15.3,57.1,21.6
+253,70,O,10280,Fairview Ave & Denny Way,8,PM,2.6,1.7,16.1,56.6,38
+253,70,O,10305,Fairview Ave N & Harrison St,9,PM,7.9,2.9,21,181,66.3
+253,70,O,10325,Fairview Ave N & Valley St,10,PM,4.2,0.5,25.1,91.6,10.8
+253,70,O,10350,Fairview Ave E & Yale Ave N,11,PM,2.9,0.3,29.4,64.1,6
+253,70,O,9480,Eastlake Ave E & E Howe St,12,PM,1.7,4.2,26.8,36.4,93.4
+253,70,O,9510,Eastlake Ave E & E Louisa St,13,PM,1.9,5,23.6,42.3,110.8
+253,70,O,9550,Eastlake Ave E & E Allison St,14,PM,0.7,2.7,21.4,15.2,62.1
+253,70,O,9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,15,PM,0.6,8,14.5,14,176.4
+253,70,O,11352,15th Ave NE & NE 42nd St,16,PM,0.1,3.4,11.2,2.5,75.7
+253,70,O,9587,U District Station - Bay 1,17,PM,0.9,12.1,0,19.7,265.3
+253,70,I,10911,U District Station - Bay 3,1,XEV,2.4,0,2.4,33.3,0
+253,70,I,10912,15th Ave NE & NE 43rd St,2,XEV,1.3,0,3.6,17.9,0.5
+253,70,I,10914,15th Ave NE & NE Campus Pkwy,3,XEV,1.9,0.1,5.3,26.2,1.6
+253,70,I,9138,NE Campus Pkwy & 12th Ave NE - Bay 4,4,XEV,1.5,0.2,6.7,21,2.1
+253,70,I,9140,University Bridge & NE 40th St,5,XEV,0.5,0.1,7.1,7.2,1.9
+253,70,I,9150,Eastlake Ave E & E Allison St,6,XEV,0.3,0.8,6.6,4.4,11.7
+253,70,I,9190,Eastlake Ave E & E Louisa St,7,XEV,0.6,1.2,6.1,9.5,18.3
+253,70,I,9220,Eastlake Ave E & E Newton St,8,XEV,0.7,0.9,5.9,10.9,12.8
+253,70,I,10170,Fairview Ave E & E Nelson Pl,9,XEV,0.2,0.1,6.1,3,1.2
+253,70,I,10180,Fairview Ave N & Yale Ave N,10,XEV,0.2,0.1,6.2,2.2,1
+253,70,I,10190,Fairview Ave N & Aloha St,11,XEV,0.3,0.3,6.2,3.9,5
+253,70,I,10210,Fairview Ave N & Mercer St,12,XEV,0.8,1,6,12.5,15.5
+253,70,I,10225,Fairview Ave N & Thomas St,13,XEV,0.5,1.1,5.5,8.2,16.1
+253,70,I,10240,Boren Ave & Virginia St,14,XEV,0.3,1.1,4.7,4.1,16
+253,70,I,940,Stewart St & 9th Ave,15,XEV,0.2,0.6,4.3,3.4,8.5
+253,70,I,950,Stewart St & 7th Ave,16,XEV,0.1,0.5,4,2.2,7.9
+253,70,I,430,3rd Ave & Pine St,17,XEV,0.2,1.8,2.3,2.5,27.7
+253,70,I,450,3rd Ave & Union St,18,XEV,0.1,1,1.5,1.8,15.7
+253,70,I,480,3rd Ave & Marion St,19,XEV,0,0.4,1.1,0.7,6.1
+253,70,I,500,3rd Ave & James St,20,XEV,0,0.3,0.8,0.1,4.8
+253,70,I,515,3rd Ave S & S Main St,21,XEV,0.6,1.5,0,10.3,24.7
+253,70,I,1471,S Jackson St & 5th Ave S,22,XEV,0,0.3,0,0.1,0.9
+253,70,O,1610,Prefontaine Pl S & Yesler Way,2,XEV,1.1,0,1.1,13.7,0.1
+253,70,O,538,3rd Ave & Columbia St,3,XEV,0.7,0.1,1.8,8.6,1.2
+253,70,O,558,3rd Ave & Seneca St,4,XEV,1.3,0.1,2.9,15.7,1.7
+253,70,O,575,3rd Ave & Pike St,5,XEV,2.5,0.4,5,32.3,5.4
+253,70,O,880,Virginia St & 6th Ave,6,XEV,1.6,0.3,6.3,20.8,4.1
+253,70,O,900,Virginia St & 9th Ave,7,XEV,1.1,0.5,6.9,14.5,6.8
+253,70,O,10280,Fairview Ave & Denny Way,8,XEV,1.4,0.9,7.5,16.6,10.3
+253,70,O,10305,Fairview Ave N & Harrison St,9,XEV,3.3,1.5,9.2,39,18.2
+253,70,O,10325,Fairview Ave N & Valley St,10,XEV,1.8,0.2,11.1,23.1,3.1
+253,70,O,10350,Fairview Ave E & Yale Ave N,11,XEV,0.6,0.2,11.7,7.9,2.7
+253,70,O,9480,Eastlake Ave E & E Howe St,12,XEV,0.6,1.8,10.5,7.4,23.2
+253,70,O,9510,Eastlake Ave E & E Louisa St,13,XEV,0.6,1.8,9.2,7.7,23.7
+253,70,O,9550,Eastlake Ave E & E Allison St,14,XEV,0.3,1,8.5,3.4,13.5
+253,70,O,9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,15,XEV,0.3,3.1,6,4.5,40.5
+253,70,O,11352,15th Ave NE & NE 42nd St,16,XEV,0,1.4,4.7,0.6,17.6
+253,70,O,9587,U District Station - Bay 1,17,XEV,1.3,6.1,0,17.3,79
+253,70,I,10911,U District Station - Bay 3,1,XNT,2,0,2,31.4,0.1
+253,70,I,10912,15th Ave NE & NE 43rd St,2,XNT,0.8,0,2.7,13.4,0.4
+253,70,I,10914,15th Ave NE & NE Campus Pkwy,3,XNT,0.7,0,3.4,10.4,0.7
+253,70,I,9138,NE Campus Pkwy & 12th Ave NE - Bay 4,4,XNT,0.6,0,3.9,10,0.6
+253,70,I,9140,University Bridge & NE 40th St,5,XNT,0.2,0,4.1,3.9,0.4
+253,70,I,9150,Eastlake Ave E & E Allison St,6,XNT,0.1,0.2,4,1.2,3.5
+253,70,I,9190,Eastlake Ave E & E Louisa St,7,XNT,0.2,0.4,3.9,3.3,5.8
+253,70,I,9220,Eastlake Ave E & E Newton St,8,XNT,0.2,0.2,3.9,3.5,2.9
+253,70,I,10170,Fairview Ave E & E Nelson Pl,9,XNT,0.1,0.1,4,1.7,0.9
+253,70,I,10180,Fairview Ave N & Yale Ave N,10,XNT,0.1,0,4.1,1.3,0.4
+253,70,I,10190,Fairview Ave N & Aloha St,11,XNT,0.1,0.1,4.1,2,2.5
+253,70,I,10210,Fairview Ave N & Mercer St,12,XNT,0.6,0.4,4.3,10.4,6.2
+253,70,I,10225,Fairview Ave N & Thomas St,13,XNT,0.3,0.4,4.1,4.3,6.7
+253,70,I,10240,Boren Ave & Virginia St,14,XNT,0.2,0.4,3.9,2.9,7.4
+253,70,I,940,Stewart St & 9th Ave,15,XNT,0.1,0.2,3.8,2.4,3.6
+253,70,I,950,Stewart St & 7th Ave,16,XNT,0,0.2,3.7,0.7,2.8
+253,70,I,430,3rd Ave & Pine St,17,XNT,0.3,1.4,2.6,5.3,23.1
+253,70,I,450,3rd Ave & Union St,18,XNT,0.2,0.9,1.9,3.3,15.8
+253,70,I,480,3rd Ave & Marion St,19,XNT,0.1,0.5,1.5,1.7,7.8
+253,70,I,500,3rd Ave & James St,20,XNT,0,0.4,1.2,0.1,6.1
+253,70,I,515,3rd Ave S & S Main St,21,XNT,1.4,2.6,0.2,24.5,43.4
+253,70,I,1471,S Jackson St & 5th Ave S,22,XNT,0.5,1.2,0,3.1,7
+253,70,O,1530,S Jackson St & 5th Ave S,1,XNT,1.3,0,1.3,3.9,0
+253,70,O,1610,Prefontaine Pl S & Yesler Way,2,XNT,1.4,0,1.7,21.6,0.3
+253,70,O,538,3rd Ave & Columbia St,3,XNT,0.7,0.1,2.2,10.5,2
+253,70,O,558,3rd Ave & Seneca St,4,XNT,0.8,0.2,2.9,10.6,2.9
+253,70,O,575,3rd Ave & Pike St,5,XNT,1.9,0.6,4.3,27.2,8
+253,70,O,880,Virginia St & 6th Ave,6,XNT,1.1,0.4,4.9,14.8,5.2
+253,70,O,900,Virginia St & 9th Ave,7,XNT,0.8,0.3,5.4,11.2,4.1
+253,70,O,10280,Fairview Ave & Denny Way,8,XNT,0.6,0.4,5.7,9.3,6.2
+253,70,O,10305,Fairview Ave N & Harrison St,9,XNT,0.9,0.7,5.9,13.9,9.8
+253,70,O,10325,Fairview Ave N & Valley St,10,XNT,0.5,0.2,6.2,7.6,3.2
+253,70,O,10350,Fairview Ave E & Yale Ave N,11,XNT,0.1,0,6.3,1.5,0.7
+253,70,O,9480,Eastlake Ave E & E Howe St,12,XNT,0.1,0.6,5.8,1.9,8.4
+253,70,O,9510,Eastlake Ave E & E Louisa St,13,XNT,0.3,0.7,5.5,3.6,10.4
+253,70,O,9550,Eastlake Ave E & E Allison St,14,XNT,0.1,0.4,5.2,1.2,5.9
+253,70,O,9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,15,XNT,0.1,1.3,4,1.1,19.9
+253,70,O,11352,15th Ave NE & NE 42nd St,16,XNT,0,0.6,3.5,0.1,8.5
+253,70,O,9587,U District Station - Bay 1,17,XNT,2.4,5.8,0,35.3,87.5

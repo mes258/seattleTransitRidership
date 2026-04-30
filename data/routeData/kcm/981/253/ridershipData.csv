@@ -1,0 +1,10 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,981,O,75304,NE 135th St & 1st Ave NE,1,PM,26.7,0,26.7,26.7,0
+253,981,O,76820,Bothell Way NE & NE 170th St,3,PM,0.1,0,26.8,0.1,0
+253,981,O,76870,NE Bothell Way & 68th Ave NE,4,PM,3.8,0.5,30,3.8,0.5
+253,981,O,82700,I-405 & Juanita Woodinville Way NE,5,PM,0,2.4,27.6,0,2.4
+253,981,O,74450,South Kirkland Park & Ride,6,XEV,0.1,19.4,8.3,0.1,19.4
+253,981,O,74463,112th Ave NE & NE 19 St,7,XEV,0,2.4,5.9,0,2.4
+253,981,O,67655,Bellevue Transit Center - Bay 8,8,XEV,0.1,0.7,5.4,0.1,0.7
+253,981,O,82718,I-405 & SE 8th St,9,XEV,0,2.3,3.1,0,2.3
+253,981,O,64140,N Mercer Way & 80th Ave SE - Bay 1,10,XEV,0,3.1,0,0,3.1

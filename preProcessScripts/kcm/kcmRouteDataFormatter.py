@@ -9,10 +9,10 @@ import csv
 # Replace with the actual file path
 #rawDataFilePath = "../../data/rawData/kcm/243_Fall_2024_Summarized_Stop_Data.csv"
 #rawDataFilePath = "../../data/rawData/kcm/241_Spring_2024_Stop_Summary_Data.csv"
-rawDataFilePath = "../../data/rawData/kcm/allStopLevelData.csv"
+rawDataFilePath = "../../data/rawData/kcm/Metro243_251_253.csv"
 
-# Set accordingly
-timePeriod = None
+# Set accordingly (string)
+timePeriod = "253"
 # Set to None for all routes to be populated
 route = None
 

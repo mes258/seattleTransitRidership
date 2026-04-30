@@ -1,0 +1,427 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+251,124,I,60923,Tukwila International Blvd Station - Bay 3,2,AM,5.1,0.1,5,71.7,1.3
+251,124,I,60920,Tukwila Intl Blvd & S 152nd St,3,AM,1.6,0.2,6.4,22.3,2.7
+251,124,I,60930,Tukwila Intl Blvd & S 148th St,4,AM,0.3,0.4,6.4,4.3,4.9
+251,124,I,60950,Tukwila Intl Blvd & S 144th St,5,AM,1.7,1.8,6.3,24.3,24.8
+251,124,I,60958,Tukwila Intl Blvd & S 141st St,6,AM,1.2,0.3,7.2,16.2,4.5
+251,124,I,60970,Tukwila Intl Blvd & S 133rd St,7,AM,0.2,0.1,7.3,3.4,0.9
+251,124,I,60980,Tukwila Intl Blvd & S 130th St,8,AM,0.5,0.5,7.3,6.9,6.8
+251,124,I,60983,Tukwila Intl Blvd & Sr 99 Ramp,9,AM,0.2,0.8,6.7,2.4,11.5
+251,124,I,31610,Tukwila Intl Blvd & S 112th St,10,AM,0.2,1.2,5.7,2.8,17
+251,124,I,31613,East Marginal Way S & S Boeing Acs,11,AM,0,0.2,5.6,0.2,2.2
+251,124,I,31620,East Marginal Way S & S Norfolk St,12,AM,0.1,0.5,5.3,1.2,6.9
+251,124,I,31630,East Marginal Way S & S 96th Pl,13,AM,0,0.7,4.8,0,9.4
+251,124,I,31631,East Marginal Way S & S 94th Pl,14,AM,0,0.2,4.6,0.3,2.3
+251,124,I,31641,East Marginal Way S & S 87th Pl,15,AM,0,0,4.6,0.4,0.1
+251,124,I,31650,East Marginal Way S & S 81st Pl,16,AM,0,0,4.6,0,0.6
+251,124,I,79562,East Marginal Way S & 16th Ave S,17,AM,0,0.7,3.9,0.3,9.9
+251,124,I,79561,East Marginal Way S & 14th Ave S,18,AM,0,0.1,3.8,0,1.8
+251,124,I,45740,East Marginal Way S & Ellis Ave S,19,AM,0.2,0.5,3.5,3.3,7.4
+251,124,I,45751,East Marginal Way S & Corson Ave S,20,AM,0,0.3,3.2,0.1,4.5
+251,124,I,40871,Corson Ave S & S Willow St,21,AM,0.4,0.2,3.4,5.4,3.4
+251,124,I,40873,Corson Ave S & S Warsaw St,22,AM,0.4,0.3,3.5,5.3,3.7
+251,124,I,40876,S Bailey St & Carleton Ave S,23,AM,0.3,0.5,3.3,3.8,6.5
+251,124,I,40880,13th Ave S & S Bailey St,24,AM,0.6,0.6,3.3,8.5,8.6
+251,124,I,40881,Airport Way S & S Vale St,25,AM,0.1,0.1,3.3,1.2,1.5
+251,124,I,40882,Airport Way S & S Doris St,26,AM,0.1,0.1,3.3,0.7,0.8
+251,124,I,40885,Airport Way S & Corson Ave S,27,AM,0.4,0.6,3.1,5.5,8.2
+251,124,I,40890,Airport Way S & S Edmunds St,28,AM,0,0.1,3.1,0.3,0.7
+251,124,I,40892,Airport Way S & S Alaska St,29,AM,0,0.1,3,0.1,0.8
+251,124,I,40894,Airport Way S & S Industrial Way,30,AM,0.1,0.2,2.9,1.6,2.7
+251,124,I,40896,Airport Way S & S Adams St,31,AM,0,0.1,2.8,0.2,0.9
+251,124,I,40898,Airport Way S & S Andover St,32,AM,0.1,0.1,2.9,1.3,1.1
+251,124,I,40900,Airport Way S & S Charlestown St,33,AM,0,0.2,2.7,0,2.9
+251,124,I,40999,Airport Way S & S Spokane St,34,AM,0,0.4,2.2,0.1,5.6
+251,124,I,21680,Airport Way S & S Horton St,35,AM,0.1,0.2,2.2,1.3,2.1
+251,124,I,21690,Airport Way S & S Stevens St,36,AM,0,0,2.2,0,0.2
+251,124,I,21700,Airport Way S & S Lander St,37,AM,0,0.2,2,0.2,3.1
+251,124,I,21710,Airport Way S & S Bayview St,38,AM,0,0,2,0.4,0.1
+251,124,I,21720,Airport Way S & S College St,39,AM,0,0.3,1.7,0.1,3.7
+251,124,I,21730,Airport Way S & S Hill St,40,AM,0.5,0.8,1.4,6.5,10
+251,124,I,21765,6th Ave S & S Royal Brougham Way,41,AM,0.1,1.2,0.4,1.8,15.5
+251,124,I,30635,4th Ave S & S Royal Brougham Way,42,AM,0,0.4,0,0,4.6
+251,124,O,2220,3rd Ave & Cedar St,1,AM,3.5,0,3.5,46,0
+251,124,O,400,3rd Ave & Bell St,2,AM,2.5,1.5,4.3,35.1,21.2
+251,124,O,420,3rd Ave & Virginia St,3,AM,2.1,2.8,3.6,28.9,38.7
+251,124,O,433,3rd Ave & Pike St,4,AM,2.2,2.9,2.9,31,41
+251,124,O,468,3rd Ave & Seneca St,5,AM,3.4,3.2,3.1,48,44.1
+251,124,O,490,3rd Ave & Cherry St,6,AM,1.2,1.6,2.7,16.8,22.4
+251,124,O,515,3rd Ave S & S Main St,7,AM,4.7,1.2,6.2,61.1,16
+251,124,O,21833,6th Ave S & S Royal Brougham Way,8,AM,2.7,0.6,8.4,38.2,8.7
+251,124,O,21860,Airport Way S & S Holgate St,9,AM,0.5,1.5,7.3,6.4,20.8
+251,124,O,21870,Airport Way S & S Walker St,10,AM,0,0.2,7.1,0,3.4
+251,124,O,21880,Airport Way S & S Stacy St,11,AM,0,0.1,7,0.1,0.7
+251,124,O,21890,Airport Way S & S Lander St,12,AM,0.3,0.4,7,4.2,5.3
+251,124,O,21910,Airport Way S & S Stevens St,13,AM,0,0,6.9,0,0.5
+251,124,O,21920,Airport Way S & Diagonal Ave S,14,AM,0,0.2,6.8,0.1,2.6
+251,124,O,21940,Airport Way S & S Spokane St,15,AM,0.4,0.2,7,5.6,2.6
+251,124,O,41000,Airport Way S & S Bradford St,16,AM,0.2,0.5,6.7,3.3,7.3
+251,124,O,41010,Airport Way S & S Dakota St,17,AM,0,0.2,6.4,0.2,3.4
+251,124,O,41020,Airport Way S & S Industrial Way,18,AM,0.3,0.3,6.4,3.7,4.3
+251,124,O,41030,Airport Way S & S Snoqualmie St,19,AM,0,0.6,5.8,0.3,8.8
+251,124,O,41040,Airport Way S & S Edmunds St,20,AM,0,0,5.8,0,0
+251,124,O,41060,Airport Way S & S Lucile St,21,AM,0.1,0.5,5.3,0.7,6.1
+251,124,O,41080,Airport Way S & S Doris St,22,AM,0,0.5,4.9,0.1,6.6
+251,124,O,41740,13th Ave S & S Bailey St,23,AM,0.6,0.6,4.9,8,7.4
+251,124,O,46022,Ellis Ave S & S Warsaw St,24,AM,0.1,0.1,4.9,1.3,1.3
+251,124,O,46025,Ellis Ave S & S Myrtle St,25,AM,0.2,0.5,4.6,2.4,6.5
+251,124,O,79569,East Marginal Way S & S Webster St,26,AM,0,0.2,4.5,0.1,2.1
+251,124,O,32165,East Marginal Way S & 16th Ave S,27,AM,0.4,0.5,4.4,5.6,5.9
+251,124,O,32180,East Marginal Way S & S 81st Pl,28,AM,0,0,4.4,0,0.3
+251,124,O,32182,East Marginal Way S & S 87th Pl,29,AM,0,0.1,4.3,0.3,1.2
+251,124,O,32192,East Marginal Way S & S 94th Pl,30,AM,0,0.9,3.5,0.5,11.7
+251,124,O,32200,East Marginal Way S & S 96th Pl,31,AM,0,0.3,3.2,0.4,4.4
+251,124,O,32210,East Marginal Way S & S Norfolk St,32,AM,0.2,0.5,3,3.1,6.3
+251,124,O,32215,Tukwila Intl Blvd & S Boeing Acs,33,AM,0,0.3,2.7,0.2,4.1
+251,124,O,53070,Tukwila Intl Blvd & S 112th St,34,AM,0.3,0.3,2.6,3.1,4
+251,124,O,53072,Tukwila Intl Blvd & Sr 99 Ramp,35,AM,0.3,0.3,2.6,4,4.1
+251,124,O,60990,Tukwila Intl Blvd & S 130th St,36,AM,0.4,0.1,2.8,4.7,1.6
+251,124,O,61000,Tukwila Intl Blvd & S 133rd St,37,AM,0.6,0.1,3.4,7.5,0.8
+251,124,O,61012,Tukwila Intl Blvd & S 141st St,38,AM,0.7,0.4,3.7,8.1,4.3
+251,124,O,61020,Tukwila Intl Blvd & S 144th St,39,AM,1.5,0.7,4.5,17.7,8.2
+251,124,O,61040,Tukwila Intl Blvd & S 148th St,40,AM,0.2,0.3,4.4,1.9,3
+251,124,O,60922,Tukwila International Blvd Station - Bay 2,41,AM,0.4,4.9,0,5,59.3
+251,124,I,60923,Tukwila International Blvd Station - Bay 3,2,MID,4.9,0.2,4.7,122.1,3.8
+251,124,I,60920,Tukwila Intl Blvd & S 152nd St,3,MID,1.1,0.5,5.3,26.2,11.7
+251,124,I,60930,Tukwila Intl Blvd & S 148th St,4,MID,0.3,0.7,4.9,6.5,17
+251,124,I,60950,Tukwila Intl Blvd & S 144th St,5,MID,1.1,1.9,4.2,26.9,44.8
+251,124,I,60958,Tukwila Intl Blvd & S 141st St,6,MID,0.6,0.7,4.1,14,16.1
+251,124,I,60970,Tukwila Intl Blvd & S 133rd St,7,MID,0.1,0.3,3.9,3.5,6.7
+251,124,I,60980,Tukwila Intl Blvd & S 130th St,8,MID,0.2,0.4,3.7,4.7,9.5
+251,124,I,60983,Tukwila Intl Blvd & Sr 99 Ramp,9,MID,0.5,0.6,3.6,12.3,14.3
+251,124,I,31610,Tukwila Intl Blvd & S 112th St,10,MID,0.2,0.5,3.4,4.6,10.8
+251,124,I,31613,East Marginal Way S & S Boeing Acs,11,MID,0,0.1,3.3,0.9,3
+251,124,I,31620,East Marginal Way S & S Norfolk St,12,MID,0.3,0.5,3.1,7.8,12.7
+251,124,I,31630,East Marginal Way S & S 96th Pl,13,MID,0.1,0.3,2.9,3.1,8.2
+251,124,I,31631,East Marginal Way S & S 94th Pl,14,MID,0.7,0.4,3.2,17.6,10.8
+251,124,I,31641,East Marginal Way S & S 87th Pl,15,MID,0,0.1,3.1,0.9,2.4
+251,124,I,31650,East Marginal Way S & S 81st Pl,16,MID,0,0,3.1,0.1,0.2
+251,124,I,79562,East Marginal Way S & 16th Ave S,17,MID,0.1,0.3,3,3.5,7.7
+251,124,I,79561,East Marginal Way S & 14th Ave S,18,MID,0,0,3,0.7,0.5
+251,124,I,45740,East Marginal Way S & Ellis Ave S,19,MID,0.2,0.3,2.9,5.4,6.2
+251,124,I,45751,East Marginal Way S & Corson Ave S,20,MID,0,0.1,2.8,1.1,3.1
+251,124,I,40871,Corson Ave S & S Willow St,21,MID,0.3,0.1,3,6.1,3.3
+251,124,I,40873,Corson Ave S & S Warsaw St,22,MID,0.2,0.2,3,4,4
+251,124,I,40876,S Bailey St & Carleton Ave S,23,MID,0.2,0.4,2.8,5.7,9.9
+251,124,I,40880,13th Ave S & S Bailey St,24,MID,0.5,0.5,2.7,11,11.9
+251,124,I,40881,Airport Way S & S Vale St,25,MID,0.2,0,2.8,3.8,0.8
+251,124,I,40882,Airport Way S & S Doris St,26,MID,0.1,0,2.9,2.2,0.3
+251,124,I,40885,Airport Way S & Corson Ave S,27,MID,0.5,0.4,2.9,10.7,9.2
+251,124,I,40890,Airport Way S & S Edmunds St,28,MID,0,0,2.9,0.2,1
+251,124,I,40892,Airport Way S & S Alaska St,29,MID,0.1,0,2.9,1.8,0.4
+251,124,I,40894,Airport Way S & S Industrial Way,30,MID,0.2,0.2,2.9,4.4,4.7
+251,124,I,40896,Airport Way S & S Adams St,31,MID,0,0.1,2.9,0.9,3.2
+251,124,I,40898,Airport Way S & S Andover St,32,MID,0.2,0.2,2.9,5.5,3.6
+251,124,I,40900,Airport Way S & S Charlestown St,33,MID,0,0,2.9,0.5,0.6
+251,124,I,40999,Airport Way S & S Spokane St,34,MID,0,0.3,2.7,0.4,6.5
+251,124,I,21680,Airport Way S & S Horton St,35,MID,0.1,0.1,2.7,2.9,2.9
+251,124,I,21690,Airport Way S & S Stevens St,36,MID,0,0,2.7,0.2,0.3
+251,124,I,21700,Airport Way S & S Lander St,37,MID,0,0.3,2.5,0.9,6.5
+251,124,I,21710,Airport Way S & S Bayview St,38,MID,0,0,2.4,0.3,1
+251,124,I,21720,Airport Way S & S College St,39,MID,0,0,2.4,0,0.7
+251,124,I,21730,Airport Way S & S Hill St,40,MID,0.6,0.6,2.5,15,13.4
+251,124,I,21765,6th Ave S & S Royal Brougham Way,41,MID,0.8,1.8,1.4,18.5,43.7
+251,124,I,30635,4th Ave S & S Royal Brougham Way,42,MID,0,1.4,0,0,34.3
+251,124,O,2220,3rd Ave & Cedar St,1,MID,2.7,0,2.7,65.9,0
+251,124,O,400,3rd Ave & Bell St,2,MID,2.6,1.6,3.8,62.1,37.3
+251,124,O,420,3rd Ave & Virginia St,3,MID,2.7,2.7,3.9,65.9,63.7
+251,124,O,433,3rd Ave & Pike St,4,MID,3.7,3.6,3.9,89.3,87.4
+251,124,O,468,3rd Ave & Seneca St,5,MID,2.9,1.8,5,69.3,43
+251,124,O,490,3rd Ave & Cherry St,6,MID,1.1,1,5,25.6,22.6
+251,124,O,515,3rd Ave S & S Main St,7,MID,3.5,1.7,6.7,83,40.5
+251,124,O,21833,6th Ave S & S Royal Brougham Way,8,MID,2.1,1.7,7,49.4,40.6
+251,124,O,21860,Airport Way S & S Holgate St,9,MID,0.5,1.4,6.2,11.6,33.1
+251,124,O,21870,Airport Way S & S Walker St,10,MID,0,0.1,6.1,0.7,1.3
+251,124,O,21880,Airport Way S & S Stacy St,11,MID,0,0,6.1,0.7,1.1
+251,124,O,21890,Airport Way S & S Lander St,12,MID,0.2,0.1,6.2,4.2,1.9
+251,124,O,21910,Airport Way S & S Stevens St,13,MID,0,0.1,6.2,0.5,1.5
+251,124,O,21920,Airport Way S & Diagonal Ave S,14,MID,0.1,0.1,6.1,1.3,2.6
+251,124,O,21940,Airport Way S & S Spokane St,15,MID,0.2,0.1,6.2,4.9,3
+251,124,O,41000,Airport Way S & S Bradford St,16,MID,0.1,0.2,6.1,1.4,5
+251,124,O,41010,Airport Way S & S Dakota St,17,MID,0.1,0.1,6,1.4,3
+251,124,O,41020,Airport Way S & S Industrial Way,18,MID,0.1,0.4,5.8,3.2,8.5
+251,124,O,41030,Airport Way S & S Snoqualmie St,19,MID,0.1,0.1,5.7,1.9,3.5
+251,124,O,41040,Airport Way S & S Edmunds St,20,MID,0,0,5.7,0,0.1
+251,124,O,41060,Airport Way S & S Lucile St,21,MID,0.1,0.5,5.4,3.4,11.2
+251,124,O,41080,Airport Way S & S Doris St,22,MID,0.1,0.4,5.1,1.3,9.5
+251,124,O,41740,13th Ave S & S Bailey St,23,MID,0.7,0.7,5.1,16.4,15.8
+251,124,O,46022,Ellis Ave S & S Warsaw St,24,MID,0.1,0.1,5,2.3,3.5
+251,124,O,46025,Ellis Ave S & S Myrtle St,25,MID,0.3,0.3,5,6.6,7
+251,124,O,79569,East Marginal Way S & S Webster St,26,MID,0,0.1,5,0.5,2.1
+251,124,O,32165,East Marginal Way S & 16th Ave S,27,MID,0.4,0.2,5.2,9.1,4
+251,124,O,32180,East Marginal Way S & S 81st Pl,28,MID,0,0,5.2,0,0
+251,124,O,32182,East Marginal Way S & S 87th Pl,29,MID,0,0,5.2,0,0.5
+251,124,O,32192,East Marginal Way S & S 94th Pl,30,MID,0.3,1.7,3.8,7.8,41.4
+251,124,O,32200,East Marginal Way S & S 96th Pl,31,MID,0.1,0.1,3.8,1.6,1.6
+251,124,O,32210,East Marginal Way S & S Norfolk St,32,MID,0.8,0.6,3.9,18,14.7
+251,124,O,32215,Tukwila Intl Blvd & S Boeing Acs,33,MID,0.1,0.1,3.8,1.8,2.5
+251,124,O,53070,Tukwila Intl Blvd & S 112th St,34,MID,0.4,0.2,4,9.2,5.7
+251,124,O,53072,Tukwila Intl Blvd & Sr 99 Ramp,35,MID,0.7,0.3,4.3,17.2,8
+251,124,O,60990,Tukwila Intl Blvd & S 130th St,36,MID,0.4,0.2,4.5,8.4,4.8
+251,124,O,61000,Tukwila Intl Blvd & S 133rd St,37,MID,0.4,0.1,4.7,8.8,2.7
+251,124,O,61012,Tukwila Intl Blvd & S 141st St,38,MID,0.6,0.7,4.7,15,15.6
+251,124,O,61020,Tukwila Intl Blvd & S 144th St,39,MID,2.2,1.1,5.8,53.1,27.2
+251,124,O,61040,Tukwila Intl Blvd & S 148th St,40,MID,0.3,0.7,5.4,6.5,16.4
+251,124,O,60922,Tukwila International Blvd Station - Bay 2,41,MID,0.5,6,0,11.4,137.9
+251,124,I,60923,Tukwila International Blvd Station - Bay 3,2,PM,5.1,0.1,5,76.4,1.1
+251,124,I,60920,Tukwila Intl Blvd & S 152nd St,3,PM,1,0.7,5.3,15.2,11.2
+251,124,I,60930,Tukwila Intl Blvd & S 148th St,4,PM,0.3,1,4.6,4,15.4
+251,124,I,60950,Tukwila Intl Blvd & S 144th St,5,PM,1.1,2.5,3.1,17.3,40.5
+251,124,I,60958,Tukwila Intl Blvd & S 141st St,6,PM,0.5,0.9,2.6,7,14
+251,124,I,60970,Tukwila Intl Blvd & S 133rd St,7,PM,0.1,0.6,2.1,1,9.5
+251,124,I,60980,Tukwila Intl Blvd & S 130th St,8,PM,0.3,0.7,1.6,4.1,11.1
+251,124,I,60983,Tukwila Intl Blvd & Sr 99 Ramp,9,PM,0.2,0.2,1.6,2.6,2.9
+251,124,I,31610,Tukwila Intl Blvd & S 112th St,10,PM,0.4,0.3,1.7,6.4,4.8
+251,124,I,31613,East Marginal Way S & S Boeing Acs,11,PM,0.1,0.1,1.7,0.8,0.8
+251,124,I,31620,East Marginal Way S & S Norfolk St,12,PM,0.2,0.1,1.9,3.7,1.2
+251,124,I,31630,East Marginal Way S & S 96th Pl,13,PM,0.5,0.2,2.2,6.8,2.9
+251,124,I,31631,East Marginal Way S & S 94th Pl,14,PM,1.7,0.1,3.7,25.6,2.1
+251,124,I,31641,East Marginal Way S & S 87th Pl,15,PM,0.1,0,3.7,0.8,0.1
+251,124,I,31650,East Marginal Way S & S 81st Pl,16,PM,0,0,3.7,0.5,0.2
+251,124,I,79562,East Marginal Way S & 16th Ave S,17,PM,0.3,0.3,3.7,4.4,5.2
+251,124,I,79561,East Marginal Way S & 14th Ave S,18,PM,0,0.1,3.7,0.7,0.8
+251,124,I,45740,East Marginal Way S & Ellis Ave S,19,PM,0.1,0.3,3.5,2,5.5
+251,124,I,45751,East Marginal Way S & Corson Ave S,20,PM,0,0.1,3.5,0.6,1.1
+251,124,I,40871,Corson Ave S & S Willow St,21,PM,0.2,0.3,3.4,3.1,4.4
+251,124,I,40873,Corson Ave S & S Warsaw St,22,PM,0.1,0.2,3.3,1.9,3
+251,124,I,40876,S Bailey St & Carleton Ave S,23,PM,0.3,0.2,3.4,5,3.6
+251,124,I,40880,13th Ave S & S Bailey St,24,PM,0.4,0.5,3.3,7,7.7
+251,124,I,40881,Airport Way S & S Vale St,25,PM,0.3,0.1,3.6,5.1,0.9
+251,124,I,40882,Airport Way S & S Doris St,26,PM,0.2,0,3.7,3.3,0.6
+251,124,I,40885,Airport Way S & Corson Ave S,27,PM,0.4,0.3,3.9,7.1,4.6
+251,124,I,40890,Airport Way S & S Edmunds St,28,PM,0.1,0,3.9,1.5,0.4
+251,124,I,40892,Airport Way S & S Alaska St,29,PM,0.3,0.1,4.2,4.4,0.9
+251,124,I,40894,Airport Way S & S Industrial Way,30,PM,0.2,0,4.4,2.4,0.7
+251,124,I,40896,Airport Way S & S Adams St,31,PM,0.2,0.1,4.5,3.4,1.5
+251,124,I,40898,Airport Way S & S Andover St,32,PM,0.2,0.1,4.6,3.8,2.3
+251,124,I,40900,Airport Way S & S Charlestown St,33,PM,0.2,0,4.7,2.9,0.7
+251,124,I,40999,Airport Way S & S Spokane St,34,PM,0.1,0.5,4.3,1.3,8.7
+251,124,I,21680,Airport Way S & S Horton St,35,PM,0.2,0.1,4.4,3.5,1.9
+251,124,I,21690,Airport Way S & S Stevens St,36,PM,0,0,4.4,0.6,0.6
+251,124,I,21700,Airport Way S & S Lander St,37,PM,0.1,0.5,4.1,2.1,7.7
+251,124,I,21710,Airport Way S & S Bayview St,38,PM,0.1,0,4.1,0.9,0.5
+251,124,I,21720,Airport Way S & S College St,39,PM,0,0,4.1,0.6,0.6
+251,124,I,21730,Airport Way S & S Hill St,40,PM,0.3,0.2,4.2,4.1,3
+251,124,I,21765,6th Ave S & S Royal Brougham Way,41,PM,0.5,3.7,1,7.9,59.5
+251,124,I,30635,4th Ave S & S Royal Brougham Way,42,PM,0,1,0,0,15.3
+251,124,O,2220,3rd Ave & Cedar St,1,PM,3.2,0,3.2,51.3,0
+251,124,O,400,3rd Ave & Bell St,2,PM,2.6,1.4,4.4,40.9,22.2
+251,124,O,420,3rd Ave & Virginia St,3,PM,3.4,3,4.7,54.7,48.5
+251,124,O,433,3rd Ave & Pike St,4,PM,4.2,3.9,5.1,67.9,62.5
+251,124,O,468,3rd Ave & Seneca St,5,PM,3.6,1.9,6.8,57.9,30.3
+251,124,O,490,3rd Ave & Cherry St,6,PM,1.5,0.9,7.5,25.6,14.7
+251,124,O,515,3rd Ave S & S Main St,7,PM,3,2.7,8,48.5,43.6
+251,124,O,21833,6th Ave S & S Royal Brougham Way,8,PM,1.5,1.4,8,23.9,23.1
+251,124,O,21860,Airport Way S & S Holgate St,9,PM,0.2,0.4,7.8,3.9,6.9
+251,124,O,21870,Airport Way S & S Walker St,10,PM,0.1,0,7.8,1,0.2
+251,124,O,21880,Airport Way S & S Stacy St,11,PM,0,0.1,7.8,0.4,1.6
+251,124,O,21890,Airport Way S & S Lander St,12,PM,0.3,0.1,7.9,4.4,1.9
+251,124,O,21910,Airport Way S & S Stevens St,13,PM,0,0.1,7.9,0.1,1.1
+251,124,O,21920,Airport Way S & Diagonal Ave S,14,PM,0.1,0.2,7.8,1.1,3.2
+251,124,O,21940,Airport Way S & S Spokane St,15,PM,0.3,0.1,8,4.1,1.4
+251,124,O,41000,Airport Way S & S Bradford St,16,PM,0.3,0.2,8,4.2,3.8
+251,124,O,41010,Airport Way S & S Dakota St,17,PM,0.1,0.1,8,1.5,1.1
+251,124,O,41020,Airport Way S & S Industrial Way,18,PM,0.1,0.3,7.8,1,4.1
+251,124,O,41030,Airport Way S & S Snoqualmie St,19,PM,0.3,0.1,8,4.6,2.2
+251,124,O,41040,Airport Way S & S Edmunds St,20,PM,0,0,8,0.1,0
+251,124,O,41060,Airport Way S & S Lucile St,21,PM,0.5,0.8,7.8,7.6,12.5
+251,124,O,41080,Airport Way S & S Doris St,22,PM,0.1,0.7,7.2,1.3,10.4
+251,124,O,41740,13th Ave S & S Bailey St,23,PM,1.2,1.2,7.2,18.6,19.1
+251,124,O,46022,Ellis Ave S & S Warsaw St,24,PM,0.1,0.6,6.7,1.8,9.4
+251,124,O,46025,Ellis Ave S & S Myrtle St,25,PM,0.4,0.6,6.5,5.7,9.2
+251,124,O,79569,East Marginal Way S & S Webster St,26,PM,0.1,0,6.5,0.9,0.7
+251,124,O,32165,East Marginal Way S & 16th Ave S,27,PM,0.4,0.2,6.7,5.8,2.6
+251,124,O,32180,East Marginal Way S & S 81st Pl,28,PM,0,0,6.7,0.2,0.3
+251,124,O,32182,East Marginal Way S & S 87th Pl,29,PM,0,0,6.7,0,0.1
+251,124,O,32192,East Marginal Way S & S 94th Pl,30,PM,0.9,0.6,7,14.9,9.7
+251,124,O,32200,East Marginal Way S & S 96th Pl,31,PM,0.3,0,7.2,4.2,0.4
+251,124,O,32210,East Marginal Way S & S Norfolk St,32,PM,0.3,0.1,7.4,5.3,1.8
+251,124,O,32215,Tukwila Intl Blvd & S Boeing Acs,33,PM,0.2,0.1,7.4,3.1,1.9
+251,124,O,53070,Tukwila Intl Blvd & S 112th St,34,PM,0.6,0.2,7.8,9.7,3.8
+251,124,O,53072,Tukwila Intl Blvd & Sr 99 Ramp,35,PM,0.3,0.1,8,5.6,0.9
+251,124,O,60990,Tukwila Intl Blvd & S 130th St,36,PM,0.3,0.3,8,5,5.6
+251,124,O,61000,Tukwila Intl Blvd & S 133rd St,37,PM,0.3,0.3,8.2,4.7,4.9
+251,124,O,61012,Tukwila Intl Blvd & S 141st St,38,PM,0.5,1.3,7.4,8.7,20.9
+251,124,O,61020,Tukwila Intl Blvd & S 144th St,39,PM,2.2,2,7.6,35,32.2
+251,124,O,61040,Tukwila Intl Blvd & S 148th St,40,PM,0.3,1.1,6.8,5.3,17.8
+251,124,O,60922,Tukwila International Blvd Station - Bay 2,41,PM,0.5,7.5,0,9.3,127.8
+251,124,I,60923,Tukwila International Blvd Station - Bay 3,2,XEV,4.2,0,4.1,29.1,0.1
+251,124,I,60920,Tukwila Intl Blvd & S 152nd St,3,XEV,0.6,0.3,4.5,4.5,2.2
+251,124,I,60930,Tukwila Intl Blvd & S 148th St,4,XEV,0.3,0.5,4.2,1.8,3.3
+251,124,I,60950,Tukwila Intl Blvd & S 144th St,5,XEV,1.3,1.3,4.1,8.9,9.3
+251,124,I,60958,Tukwila Intl Blvd & S 141st St,6,XEV,0.4,0.6,3.7,2.5,4.3
+251,124,I,60970,Tukwila Intl Blvd & S 133rd St,7,XEV,0,0.5,3.2,0.1,3.5
+251,124,I,60980,Tukwila Intl Blvd & S 130th St,8,XEV,0.4,0.5,3.1,2.6,3.2
+251,124,I,60983,Tukwila Intl Blvd & Sr 99 Ramp,9,XEV,0,0.2,3,0.2,1.1
+251,124,I,31610,Tukwila Intl Blvd & S 112th St,10,XEV,0.2,0.4,2.8,1.7,3.1
+251,124,I,31613,East Marginal Way S & S Boeing Acs,11,XEV,0.1,0,2.8,0.8,0.3
+251,124,I,31620,East Marginal Way S & S Norfolk St,12,XEV,1.4,0.3,3.9,9.5,2.3
+251,124,I,31630,East Marginal Way S & S 96th Pl,13,XEV,0.1,0,4,0.8,0.1
+251,124,I,31631,East Marginal Way S & S 94th Pl,14,XEV,0.6,0,4.5,3.9,0.1
+251,124,I,31641,East Marginal Way S & S 87th Pl,15,XEV,0,0,4.5,0.1,0.1
+251,124,I,31650,East Marginal Way S & S 81st Pl,16,XEV,0,0,4.5,0,0
+251,124,I,79562,East Marginal Way S & 16th Ave S,17,XEV,0,0.1,4.4,0,0.8
+251,124,I,79561,East Marginal Way S & 14th Ave S,18,XEV,0,0.1,4.4,0.2,0.4
+251,124,I,45740,East Marginal Way S & Ellis Ave S,19,XEV,0.2,0.3,4.2,1.1,2.1
+251,124,I,45751,East Marginal Way S & Corson Ave S,20,XEV,0,0,4.2,0,0.3
+251,124,I,40871,Corson Ave S & S Willow St,21,XEV,0.1,0.1,4.2,0.6,0.9
+251,124,I,40873,Corson Ave S & S Warsaw St,22,XEV,0,0.1,4.1,0.3,1
+251,124,I,40876,S Bailey St & Carleton Ave S,23,XEV,0.1,0.3,3.9,0.7,2.1
+251,124,I,40880,13th Ave S & S Bailey St,24,XEV,0.2,0.4,3.7,1.4,3
+251,124,I,40881,Airport Way S & S Vale St,25,XEV,0.3,0,3.9,2,0.2
+251,124,I,40882,Airport Way S & S Doris St,26,XEV,0.1,0,4,1,0.1
+251,124,I,40885,Airport Way S & Corson Ave S,27,XEV,0.3,0.1,4.2,2.2,0.7
+251,124,I,40890,Airport Way S & S Edmunds St,28,XEV,0,0,4.3,0.2,0.1
+251,124,I,40892,Airport Way S & S Alaska St,29,XEV,0.1,0,4.3,0.5,0.2
+251,124,I,40894,Airport Way S & S Industrial Way,30,XEV,0.1,0.1,4.1,0.6,0.4
+251,124,I,40896,Airport Way S & S Adams St,31,XEV,0.1,0.1,4,0.6,0.7
+251,124,I,40898,Airport Way S & S Andover St,32,XEV,0.2,0,4.2,1.6,0.3
+251,124,I,40900,Airport Way S & S Charlestown St,33,XEV,0,0,4.1,0.1,0.3
+251,124,I,40999,Airport Way S & S Spokane St,34,XEV,0,0.2,4,0.1,1.6
+251,124,I,21680,Airport Way S & S Horton St,35,XEV,0.2,0.1,4.1,1.4,0.6
+251,124,I,21690,Airport Way S & S Stevens St,36,XEV,0.1,0,4.1,0.5,0.1
+251,124,I,21700,Airport Way S & S Lander St,37,XEV,0,0.3,3.8,0,2.7
+251,124,I,21710,Airport Way S & S Bayview St,38,XEV,0,0.1,3.7,0.1,0.4
+251,124,I,21720,Airport Way S & S College St,39,XEV,0,0,3.7,0,0.1
+251,124,I,21730,Airport Way S & S Hill St,40,XEV,0,0.1,3.7,0.3,0.6
+251,124,I,21765,6th Ave S & S Royal Brougham Way,41,XEV,0.2,1.2,2.7,1.2,9.5
+251,124,I,30635,4th Ave S & S Royal Brougham Way,42,XEV,0.1,0.4,2.4,0.7,2.8
+251,124,I,619,4th Ave S & S Jackson St,43,XEV,0.6,2.7,7.6,1.1,5.4
+251,124,I,531,3rd Ave & James St,44,XEV,0.2,1,6.8,0.3,1.9
+251,124,I,548,3rd Ave & Madison St,45,XEV,0.3,1.6,5.5,0.6,3.2
+251,124,I,570,3rd Ave & Union St,46,XEV,0.2,1.4,4.2,0.3,2.7
+251,124,I,590,3rd Ave & Pine St,47,XEV,0.4,1,3.7,0.7,1.9
+251,124,I,600,3rd Ave & Virginia St,48,XEV,0.2,1.4,2.4,0.4,2.8
+251,124,I,605,3rd Ave & Bell St,49,XEV,0.2,2.7,0,0.4,5.4
+251,124,O,2220,3rd Ave & Cedar St,1,XEV,2.2,0,2.2,10.9,0
+251,124,O,400,3rd Ave & Bell St,2,XEV,1.5,0.5,2.6,10.7,3.6
+251,124,O,420,3rd Ave & Virginia St,3,XEV,1.3,0.9,2.9,9.1,6.5
+251,124,O,433,3rd Ave & Pike St,4,XEV,2.4,1.7,3.6,16.7,12
+251,124,O,468,3rd Ave & Seneca St,5,XEV,2.1,0.7,5.1,14.7,4.6
+251,124,O,490,3rd Ave & Cherry St,6,XEV,0.3,0.4,5,2.3,2.8
+251,124,O,515,3rd Ave S & S Main St,7,XEV,1.8,0.9,5.7,14,7.3
+251,124,O,21833,6th Ave S & S Royal Brougham Way,8,XEV,1,0.6,6.1,7.2,3.9
+251,124,O,21860,Airport Way S & S Holgate St,9,XEV,0.1,0.1,6.1,0.9,0.6
+251,124,O,21870,Airport Way S & S Walker St,10,XEV,0,0,6.1,0.1,0
+251,124,O,21880,Airport Way S & S Stacy St,11,XEV,0.1,0.1,6.1,0.4,0.4
+251,124,O,21890,Airport Way S & S Lander St,12,XEV,0.1,0.1,6.1,1,0.6
+251,124,O,21910,Airport Way S & S Stevens St,13,XEV,0,0.1,6.1,0,0.5
+251,124,O,21920,Airport Way S & Diagonal Ave S,14,XEV,0,0.2,6,0.1,1.1
+251,124,O,21940,Airport Way S & S Spokane St,15,XEV,0.2,0.1,6.1,1.5,0.5
+251,124,O,41000,Airport Way S & S Bradford St,16,XEV,0.1,0.3,5.9,0.8,1.9
+251,124,O,41010,Airport Way S & S Dakota St,17,XEV,0,0.1,5.9,0.2,0.6
+251,124,O,41020,Airport Way S & S Industrial Way,18,XEV,0.1,0.1,5.9,0.6,0.7
+251,124,O,41030,Airport Way S & S Snoqualmie St,19,XEV,0.1,0.1,6,0.9,0.4
+251,124,O,41040,Airport Way S & S Edmunds St,20,XEV,0,0,6,0,0
+251,124,O,41060,Airport Way S & S Lucile St,21,XEV,0.1,0.5,5.4,0.9,3.6
+251,124,O,41080,Airport Way S & S Doris St,22,XEV,0.1,0.4,5.1,0.4,3.3
+251,124,O,41740,13th Ave S & S Bailey St,23,XEV,0.5,0.6,4.9,3.8,4.9
+251,124,O,46022,Ellis Ave S & S Warsaw St,24,XEV,0.1,0.3,4.7,0.4,2.4
+251,124,O,46025,Ellis Ave S & S Myrtle St,25,XEV,0.3,0.5,4.5,2,3.6
+251,124,O,79569,East Marginal Way S & S Webster St,26,XEV,0,0,4.4,0,0.3
+251,124,O,32165,East Marginal Way S & 16th Ave S,27,XEV,0.1,0.1,4.5,0.9,0.5
+251,124,O,32180,East Marginal Way S & S 81st Pl,28,XEV,0,0,4.5,0,0
+251,124,O,32182,East Marginal Way S & S 87th Pl,29,XEV,0,0.1,4.4,0,0.5
+251,124,O,32192,East Marginal Way S & S 94th Pl,30,XEV,0.2,0.1,4.4,1.2,1.1
+251,124,O,32200,East Marginal Way S & S 96th Pl,31,XEV,0,0,4.4,0.2,0
+251,124,O,32210,East Marginal Way S & S Norfolk St,32,XEV,0.8,0.2,5.1,6.7,1.6
+251,124,O,32215,Tukwila Intl Blvd & S Boeing Acs,33,XEV,0.2,0.1,5.3,1.5,0.4
+251,124,O,53070,Tukwila Intl Blvd & S 112th St,34,XEV,0.4,0.2,5.5,3.3,1.4
+251,124,O,53072,Tukwila Intl Blvd & Sr 99 Ramp,35,XEV,0.1,0,5.5,0.7,0.2
+251,124,O,60990,Tukwila Intl Blvd & S 130th St,36,XEV,0.1,0.2,5.5,1.1,1.5
+251,124,O,61000,Tukwila Intl Blvd & S 133rd St,37,XEV,0.2,0.2,5.3,1.5,1.7
+251,124,O,61012,Tukwila Intl Blvd & S 141st St,38,XEV,0.4,1,4.7,3.5,9.2
+251,124,O,61020,Tukwila Intl Blvd & S 144th St,39,XEV,1.4,1,5.1,11,8.1
+251,124,O,61040,Tukwila Intl Blvd & S 148th St,40,XEV,0.2,0.7,4.6,1.8,5.3
+251,124,O,60922,Tukwila International Blvd Station - Bay 2,41,XEV,0.7,5.4,0,5.5,42.9
+251,124,I,61082,Seatac Airport Acs & International Blvd,1,XNT,4.9,0,4.9,9.7,0
+251,124,I,60923,Tukwila International Blvd Station - Bay 3,2,XNT,5.1,0.8,5.7,36,5.9
+251,124,I,60920,Tukwila Intl Blvd & S 152nd St,3,XNT,0.8,0.1,6.4,5.7,0.9
+251,124,I,60930,Tukwila Intl Blvd & S 148th St,4,XNT,0.3,0.2,6.4,1.9,1.5
+251,124,I,60950,Tukwila Intl Blvd & S 144th St,5,XNT,1,0.7,6.7,7.1,5.1
+251,124,I,60958,Tukwila Intl Blvd & S 141st St,6,XNT,0.4,0.3,6.6,3.2,2.5
+251,124,I,60970,Tukwila Intl Blvd & S 133rd St,7,XNT,0,0.2,6.5,0.2,1.2
+251,124,I,60980,Tukwila Intl Blvd & S 130th St,8,XNT,0.1,0.2,6.3,0.8,1.6
+251,124,I,60983,Tukwila Intl Blvd & Sr 99 Ramp,9,XNT,0,0.1,6.3,0,0.5
+251,124,I,31610,Tukwila Intl Blvd & S 112th St,10,XNT,0.3,0.3,6.2,2.1,2.5
+251,124,I,31613,East Marginal Way S & S Boeing Acs,11,XNT,0,0.1,6.1,0.1,1
+251,124,I,31620,East Marginal Way S & S Norfolk St,12,XNT,0.6,1.2,5.4,4.1,8.2
+251,124,I,31630,East Marginal Way S & S 96th Pl,13,XNT,0,0,5.4,0.1,0.2
+251,124,I,31631,East Marginal Way S & S 94th Pl,14,XNT,0,0,5.4,0.2,0
+251,124,I,31641,East Marginal Way S & S 87th Pl,15,XNT,0,0,5.4,0.1,0
+251,124,I,31650,East Marginal Way S & S 81st Pl,16,XNT,0,0,5.4,0,0
+251,124,I,79562,East Marginal Way S & 16th Ave S,17,XNT,0,0.1,5.3,0,0.8
+251,124,I,79561,East Marginal Way S & 14th Ave S,18,XNT,0,0,5.2,0.1,0.1
+251,124,I,45740,East Marginal Way S & Ellis Ave S,19,XNT,0.2,0.2,5.3,1.6,1.4
+251,124,I,45751,East Marginal Way S & Corson Ave S,20,XNT,0,0,5.3,0.2,0.1
+251,124,I,40871,Corson Ave S & S Willow St,21,XNT,0,0.1,5.3,0.3,0.4
+251,124,I,40873,Corson Ave S & S Warsaw St,22,XNT,0,0.1,5.2,0.2,0.6
+251,124,I,40876,S Bailey St & Carleton Ave S,23,XNT,0.2,0,5.3,1.1,0.3
+251,124,I,40880,13th Ave S & S Bailey St,24,XNT,0.3,0.2,5.4,1.8,1.2
+251,124,I,40881,Airport Way S & S Vale St,25,XNT,0.2,0,5.5,1.1,0
+251,124,I,40882,Airport Way S & S Doris St,26,XNT,0,0,5.5,0.1,0
+251,124,I,40885,Airport Way S & Corson Ave S,27,XNT,0.2,0,5.7,1.4,0.1
+251,124,I,40890,Airport Way S & S Edmunds St,28,XNT,0,0,5.7,0,0
+251,124,I,40892,Airport Way S & S Alaska St,29,XNT,0,0.1,5.7,0.1,0.4
+251,124,I,40894,Airport Way S & S Industrial Way,30,XNT,0.2,0.4,5.5,1.2,2.8
+251,124,I,40896,Airport Way S & S Adams St,31,XNT,0,0,5.4,0.2,0.1
+251,124,I,40898,Airport Way S & S Andover St,32,XNT,0.1,0,5.5,0.6,0.2
+251,124,I,40900,Airport Way S & S Charlestown St,33,XNT,0,0,5.5,0,0
+251,124,I,40999,Airport Way S & S Spokane St,34,XNT,0.1,0,5.6,1,0.2
+251,124,I,21680,Airport Way S & S Horton St,35,XNT,0.1,0,5.6,0.4,0.1
+251,124,I,21690,Airport Way S & S Stevens St,36,XNT,0,0,5.6,0.1,0
+251,124,I,21700,Airport Way S & S Lander St,37,XNT,0,0.1,5.5,0,0.9
+251,124,I,21710,Airport Way S & S Bayview St,38,XNT,0,0,5.5,0.3,0.2
+251,124,I,21720,Airport Way S & S College St,39,XNT,0,0,5.5,0,0
+251,124,I,21730,Airport Way S & S Hill St,40,XNT,0.1,0,5.6,0.5,0.2
+251,124,I,21765,6th Ave S & S Royal Brougham Way,41,XNT,0.1,0.4,5.3,0.9,2.9
+251,124,I,30635,4th Ave S & S Royal Brougham Way,42,XNT,0.2,0.2,5.3,1.5,1.2
+251,124,I,619,4th Ave S & S Jackson St,43,XNT,0.5,1.9,6.1,2.3,9.3
+251,124,I,531,3rd Ave & James St,44,XNT,0.2,0.9,5.4,1.2,4.6
+251,124,I,548,3rd Ave & Madison St,45,XNT,0.3,1,4.6,1.5,5.2
+251,124,I,570,3rd Ave & Union St,46,XNT,0.3,3.1,1.8,1.6,15.6
+251,124,I,590,3rd Ave & Pine St,47,XNT,0.3,0.6,3,1,1.9
+251,124,I,600,3rd Ave & Virginia St,48,XNT,0.2,1.5,1.8,0.6,4.6
+251,124,I,605,3rd Ave & Bell St,49,XNT,0.2,2.2,0,0.7,6.6
+251,124,O,2220,3rd Ave & Cedar St,1,XNT,2,0,2,6,0
+251,124,O,400,3rd Ave & Bell St,2,XNT,1.6,0.3,2.4,9.8,1.6
+251,124,O,420,3rd Ave & Virginia St,3,XNT,1.3,0.4,3.2,7.6,2.6
+251,124,O,433,3rd Ave & Pike St,4,XNT,3.8,0.7,5.5,30.5,5.7
+251,124,O,468,3rd Ave & Seneca St,5,XNT,3.5,0.5,8.6,27.7,3.7
+251,124,O,490,3rd Ave & Cherry St,6,XNT,0.5,0.4,8.6,3.7,3.1
+251,124,O,515,3rd Ave S & S Main St,7,XNT,3.5,0.6,11.5,28.1,4.4
+251,124,O,21833,6th Ave S & S Royal Brougham Way,8,XNT,1.2,0.3,12.4,9.3,2.1
+251,124,O,21860,Airport Way S & S Holgate St,9,XNT,0.1,0.1,12.4,1,0.9
+251,124,O,21870,Airport Way S & S Walker St,10,XNT,0,0,12.4,0,0
+251,124,O,21880,Airport Way S & S Stacy St,11,XNT,0,0,12.3,0,0
+251,124,O,21890,Airport Way S & S Lander St,12,XNT,0.1,0,12.4,1,0.3
+251,124,O,21910,Airport Way S & S Stevens St,13,XNT,0,0,12.4,0,0.1
+251,124,O,21920,Airport Way S & Diagonal Ave S,14,XNT,0,0.1,12.4,0.1,0.5
+251,124,O,21940,Airport Way S & S Spokane St,15,XNT,0.2,0.1,12.4,1.5,0.9
+251,124,O,41000,Airport Way S & S Bradford St,16,XNT,0.1,0.2,12.4,0.8,1.3
+251,124,O,41010,Airport Way S & S Dakota St,17,XNT,0,0.1,12.4,0.2,0.4
+251,124,O,41020,Airport Way S & S Industrial Way,18,XNT,0.1,0.2,12.2,0.5,1.9
+251,124,O,41030,Airport Way S & S Snoqualmie St,19,XNT,0,0,12.2,0.3,0.2
+251,124,O,41040,Airport Way S & S Edmunds St,20,XNT,0,0,12.2,0,0
+251,124,O,41060,Airport Way S & S Lucile St,21,XNT,0.2,0.3,12.1,1.3,2.2
+251,124,O,41080,Airport Way S & S Doris St,22,XNT,0,0.3,11.8,0.2,2.2
+251,124,O,41740,13th Ave S & S Bailey St,23,XNT,0.5,0.7,11.6,3.8,5.9
+251,124,O,46022,Ellis Ave S & S Warsaw St,24,XNT,0,0.2,11.4,0.1,1.6
+251,124,O,46025,Ellis Ave S & S Myrtle St,25,XNT,0.1,0.6,10.9,0.9,4.8
+251,124,O,79569,East Marginal Way S & S Webster St,26,XNT,0,0,10.9,0,0.3
+251,124,O,32165,East Marginal Way S & 16th Ave S,27,XNT,0.2,0.1,10.9,1.3,0.7
+251,124,O,32180,East Marginal Way S & S 81st Pl,28,XNT,0,0,10.9,0,0
+251,124,O,32182,East Marginal Way S & S 87th Pl,29,XNT,0,0,10.9,0,0
+251,124,O,32192,East Marginal Way S & S 94th Pl,30,XNT,0,0,11,0.2,0
+251,124,O,32200,East Marginal Way S & S 96th Pl,31,XNT,0,0,11,0,0
+251,124,O,32210,East Marginal Way S & S Norfolk St,32,XNT,0.3,0.8,10.4,2,6.5
+251,124,O,32215,Tukwila Intl Blvd & S Boeing Acs,33,XNT,0,0.1,10.3,0.2,0.9
+251,124,O,53070,Tukwila Intl Blvd & S 112th St,34,XNT,0.2,0.2,10.4,1.8,1.3
+251,124,O,53072,Tukwila Intl Blvd & Sr 99 Ramp,35,XNT,0,0.1,10.3,0,0.9
+251,124,O,60990,Tukwila Intl Blvd & S 130th St,36,XNT,0.1,0.1,10.2,0.9,1.1
+251,124,O,61000,Tukwila Intl Blvd & S 133rd St,37,XNT,0,0.1,10.2,0.1,0.6
+251,124,O,61012,Tukwila Intl Blvd & S 141st St,38,XNT,0.1,0.7,9.6,0.6,5.4
+251,124,O,61020,Tukwila Intl Blvd & S 144th St,39,XNT,0.5,0.6,8.9,4.8,5.6
+251,124,O,61040,Tukwila Intl Blvd & S 148th St,40,XNT,0.1,0.6,8.5,0.6,5.2
+251,124,O,60922,Tukwila International Blvd Station - Bay 2,41,XNT,3.1,7.2,4.5,27.9,64.8
+251,124,O,61082,Seatac Airport Acs & International Blvd,42,XNT,0.8,21.1,0,1.5,42.1

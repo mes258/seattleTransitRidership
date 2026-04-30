@@ -1,0 +1,220 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,27,I,27175,36th Ave S & S Day St,1,AM,0.5,0,0.5,3.2,0
+253,27,I,27180,Lakeside Ave S & S Day St,2,AM,0.2,0,0.6,1.3,0.1
+253,27,I,27190,Lakeside Ave S & S Judkins St,3,AM,0,0,0.7,0.3,0
+253,27,I,27200,Lakeside Ave S & S Charles St,4,AM,0.2,0,0.8,1.2,0
+253,27,I,27210,Lakeside Ave S & S Lane St,5,AM,0.9,0,1.7,6.6,0
+253,27,I,27230,Lakeside Ave S & S Leschi Pl,6,AM,0.7,0,2.5,5,0
+253,27,I,27240,Lakeside Ave S & Lake Washington Blvd,7,AM,0.2,0,2.6,1.1,0
+253,27,I,27260,E Alder St & Erie Ave,8,AM,0.5,0,3.2,3.7,0
+253,27,I,27270,E Alder St & 35th Ave,9,AM,0.1,0,3.2,0.4,0
+253,27,I,27290,Lake Dell Ave & E Spruce St,10,AM,0.1,0,3.3,0.5,0
+253,27,I,27300,Lake Dell Ave & 32nd Ave,11,AM,0.3,0,3.5,1.9,0
+253,27,I,27310,E Yesler Way & 32nd Ave,12,AM,1.3,0,4.9,9.4,0
+253,27,I,27320,E Yesler Way & 29th Ave,13,AM,1.7,0.1,6.5,11.7,0.6
+253,27,I,27335,E Yesler Way & 27th Ave,14,AM,1.8,0.2,8,12.3,1.1
+253,27,I,27350,E Yesler Way & 23rd Ave,15,AM,1.4,1,8.4,9.5,6.9
+253,27,I,27360,E Yesler Way & 21st Ave,16,AM,2.1,0.2,10.3,14.5,1.3
+253,27,I,27370,E Yesler Way & 19th Ave,17,AM,1.8,0.1,12,12.9,1
+253,27,I,27380,E Yesler Way & 17th Ave,18,AM,1.1,0,13.1,6.6,0.2
+253,27,I,27395,E Yesler Way & 14th Ave,19,AM,3.2,0.4,15.9,19.4,2.4
+253,27,I,27420,Yesler & Broadway,20,AM,5.5,1.8,19.7,33.2,10.8
+253,27,I,27430,Yesler Way & 8th Ave,21,AM,1.3,0.1,20.8,8,0.8
+253,27,I,1360,Yesler Way & 5th Ave,22,AM,0.2,0.9,20.2,1.1,5.3
+253,27,I,1370,Yesler Way & 3rd Ave,23,AM,0.3,4.5,16,1.9,27
+253,27,I,531,3rd Ave & James St,24,AM,0.2,1.6,14.5,1.2,9.4
+253,27,I,548,3rd Ave & Madison St,25,AM,0.2,4.8,9.9,1.1,28.8
+253,27,I,570,3rd Ave & Union St,26,AM,0,5.3,4.6,0.2,31.8
+253,27,I,590,3rd Ave & Pine St,27,AM,0.1,4.7,0,0.3,28.2
+253,27,O,2220,3rd Ave & Cedar St,1,AM,0.9,0,0.9,0.9,0
+253,27,O,400,3rd Ave & Bell St,2,AM,0.6,0.1,1.3,0.6,0.1
+253,27,O,420,3rd Ave & Virginia St,3,AM,3,1.3,3,3,1.3
+253,27,O,433,3rd Ave & Pike St,4,AM,0.6,0.3,0.8,4.2,1.9
+253,27,O,468,3rd Ave & Seneca St,5,AM,0.9,0.1,1.6,6.6,0.7
+253,27,O,490,3rd Ave & Cherry St,6,AM,0.4,0.1,1.8,2.5,0.6
+253,27,O,1340,Yesler Way & Prefontaine Pl S,7,AM,1,0,2.8,6.8,0.3
+253,27,O,1350,Yesler Way & 6th Ave S,8,AM,0.1,0.1,2.7,0.4,0.6
+253,27,O,27480,Yesler Way & 8th Ave S,9,AM,1,0.1,3.6,6.8,0.9
+253,27,O,27500,Yesler & Broadway,10,AM,2.2,0.4,5.4,15.5,2.9
+253,27,O,27510,E Yesler Way & 12th Ave S,11,AM,2.4,0.5,7.3,16.7,3.6
+253,27,O,27520,E Yesler Way & 14th Ave S,12,AM,0.7,0.1,7.8,5.1,1
+253,27,O,27530,E Yesler Way & 16th Ave S,13,AM,0.1,0.4,7.6,1,2.7
+253,27,O,27540,E Yesler Way & 18th Ave S,14,AM,0.5,0.7,7.4,3.7,5.1
+253,27,O,27560,E Yesler Way & 22nd Ave S,15,AM,0.2,1.6,6,1.4,11.2
+253,27,O,27570,E Yesler Way & 23rd Ave S,16,AM,0.6,4.6,2,3.9,32
+253,27,O,27590,E Yesler Way & 27th Ave S,17,AM,0.1,0.1,1.9,0.4,0.7
+253,27,O,27600,E Yesler Way & 28th Ave S,18,AM,0,0.1,1.9,0.2,0.4
+253,27,O,27610,E Yesler Way & 30th Ave S,19,AM,0,0.1,1.8,0,0.6
+253,27,O,27620,E Yesler Way & 32nd Ave S,20,AM,0,0.8,1,0,5.8
+253,27,O,27630,Lake Dell Ave & 32nd Ave,21,AM,0,0,1,0,0.2
+253,27,O,27640,Lake Dell Ave & E Spruce St,22,AM,0,0,1,0,0
+253,27,O,27660,E Alder St & 35th Ave,23,AM,0,0,1,0,0
+253,27,O,27670,E Alder St & Erie Ave,24,AM,0,0.1,0.9,0,0.5
+253,27,O,27690,Lakeside Ave S & E Yesler Way,25,AM,0,0.5,0.4,0.2,3.4
+253,27,O,27700,Lakeside Ave S & S Leschi Pl,26,AM,0,0,0.4,0,0.1
+253,27,O,27720,Lakeside Ave S & S Lane St,27,AM,0,0,0.4,0,0
+253,27,O,27730,Lakeside Ave S & S Charles St,28,AM,0,0,0.4,0,0
+253,27,O,27745,Lakeside Ave S & S Day St,29,AM,0,0,0.4,0,0
+253,27,O,27175,36th Ave S & S Day St,30,AM,0,0.4,0,0,2.4
+253,27,I,27175,36th Ave S & S Day St,1,MID,0.7,0,0.7,7.8,0
+253,27,I,27180,Lakeside Ave S & S Day St,2,MID,0.1,0,0.7,1.3,0.5
+253,27,I,27190,Lakeside Ave S & S Judkins St,3,MID,0,0,0.7,0.1,0
+253,27,I,27200,Lakeside Ave S & S Charles St,4,MID,0.2,0,0.9,1.8,0
+253,27,I,27210,Lakeside Ave S & S Lane St,5,MID,0.4,0,1.2,4.2,0
+253,27,I,27230,Lakeside Ave S & S Leschi Pl,6,MID,0.1,0,1.3,1.7,0
+253,27,I,27240,Lakeside Ave S & Lake Washington Blvd,7,MID,0.5,0,1.8,6.5,0.4
+253,27,I,27260,E Alder St & Erie Ave,8,MID,0.2,0,2,2.5,0.1
+253,27,I,27270,E Alder St & 35th Ave,9,MID,0.1,0,2.1,0.6,0
+253,27,I,27290,Lake Dell Ave & E Spruce St,10,MID,0,0,2.1,0.3,0
+253,27,I,27300,Lake Dell Ave & 32nd Ave,11,MID,0.2,0,2.3,2.9,0.2
+253,27,I,27310,E Yesler Way & 32nd Ave,12,MID,0.4,0,2.7,5.3,0.4
+253,27,I,27320,E Yesler Way & 29th Ave,13,MID,0.3,0.1,3,4.1,0.8
+253,27,I,27335,E Yesler Way & 27th Ave,14,MID,0.7,0.2,3.5,8.5,2.2
+253,27,I,27350,E Yesler Way & 23rd Ave,15,MID,1.8,0.5,4.8,21.4,6.1
+253,27,I,27360,E Yesler Way & 21st Ave,16,MID,1.1,0.1,5.8,13,0.6
+253,27,I,27370,E Yesler Way & 19th Ave,17,MID,1.2,0.3,6.5,13.4,3.1
+253,27,I,27380,E Yesler Way & 17th Ave,18,MID,1.1,0.1,7.9,12.6,0.9
+253,27,I,27395,E Yesler Way & 14th Ave,19,MID,2.3,0.6,9.6,27.2,6.8
+253,27,I,27420,Yesler & Broadway,20,MID,3.6,1.1,12.1,43.4,13.5
+253,27,I,27430,Yesler Way & 8th Ave,21,MID,0.7,0.2,12.6,8.8,2.2
+253,27,I,1360,Yesler Way & 5th Ave,22,MID,0.2,0.4,12.4,1.8,5
+253,27,I,1370,Yesler Way & 3rd Ave,23,MID,0.2,2.7,9.9,2.2,32
+253,27,I,531,3rd Ave & James St,24,MID,0.4,1.4,8.9,5.1,16.5
+253,27,I,548,3rd Ave & Madison St,25,MID,0.3,2.6,6.7,4.1,31
+253,27,I,570,3rd Ave & Union St,26,MID,0.1,3.4,3.4,1,40.9
+253,27,I,590,3rd Ave & Pine St,27,MID,0.1,3.5,0,0.9,41.6
+253,27,O,433,3rd Ave & Pike St,4,MID,3,0,3,35.8,0
+253,27,O,468,3rd Ave & Seneca St,5,MID,2.1,0.1,5,25.5,1.5
+253,27,O,490,3rd Ave & Cherry St,6,MID,1,0.2,5.8,12.3,2.3
+253,27,O,1340,Yesler Way & Prefontaine Pl S,7,MID,2.1,0.4,7.5,24.6,4.5
+253,27,O,1350,Yesler Way & 6th Ave S,8,MID,0.3,0.6,7.1,3,7.6
+253,27,O,27480,Yesler Way & 8th Ave S,9,MID,0.3,0.5,6.9,3,6.1
+253,27,O,27500,Yesler & Broadway,10,MID,1.7,1.5,7,20,17.9
+253,27,O,27510,E Yesler Way & 12th Ave S,11,MID,0.9,1,6.9,10.2,11.8
+253,27,O,27520,E Yesler Way & 14th Ave S,12,MID,0.4,0.5,6.9,5.1,5.8
+253,27,O,27530,E Yesler Way & 16th Ave S,13,MID,0.2,0.6,6.4,2,7.4
+253,27,O,27540,E Yesler Way & 18th Ave S,14,MID,0.3,1.4,5.3,3.7,16.6
+253,27,O,27560,E Yesler Way & 22nd Ave S,15,MID,0.1,0.8,4.6,1,9.5
+253,27,O,27570,E Yesler Way & 23rd Ave S,16,MID,0.4,2.4,2.6,4.7,28.7
+253,27,O,27590,E Yesler Way & 27th Ave S,17,MID,0.1,0.3,2.4,0.8,3.3
+253,27,O,27600,E Yesler Way & 28th Ave S,18,MID,0,0.2,2.2,0,2.1
+253,27,O,27610,E Yesler Way & 30th Ave S,19,MID,0,0.1,2.1,0,0.8
+253,27,O,27620,E Yesler Way & 32nd Ave S,20,MID,0,0.3,1.8,0,3.8
+253,27,O,27630,Lake Dell Ave & 32nd Ave,21,MID,0,0,1.8,0,0.2
+253,27,O,27640,Lake Dell Ave & E Spruce St,22,MID,0,0,1.8,0,0
+253,27,O,27660,E Alder St & 35th Ave,23,MID,0,0,1.8,0,0.1
+253,27,O,27670,E Alder St & Erie Ave,24,MID,0,0.1,1.7,0,1.7
+253,27,O,27690,Lakeside Ave S & E Yesler Way,25,MID,0.1,0.7,1,1.2,8.9
+253,27,O,27700,Lakeside Ave S & S Leschi Pl,26,MID,0,0.1,1,0,1
+253,27,O,27720,Lakeside Ave S & S Lane St,27,MID,0,0.1,0.8,0,1.4
+253,27,O,27730,Lakeside Ave S & S Charles St,28,MID,0,0,0.7,0,0.3
+253,27,O,27745,Lakeside Ave S & S Day St,29,MID,0,0.1,0.7,0.1,0.6
+253,27,O,27175,36th Ave S & S Day St,30,MID,0,0.7,0,0,7.8
+253,27,I,27175,36th Ave S & S Day St,1,PM,0.8,0,0.8,6.4,0
+253,27,I,27180,Lakeside Ave S & S Day St,2,PM,0.1,0,0.9,0.6,0
+253,27,I,27190,Lakeside Ave S & S Judkins St,3,PM,0,0,0.9,0,0
+253,27,I,27200,Lakeside Ave S & S Charles St,4,PM,0.1,0,1,0.7,0
+253,27,I,27210,Lakeside Ave S & S Lane St,5,PM,0.2,0,1.2,1.6,0
+253,27,I,27230,Lakeside Ave S & S Leschi Pl,6,PM,0.1,0,1.3,0.7,0
+253,27,I,27240,Lakeside Ave S & Lake Washington Blvd,7,PM,1.1,0.1,2.3,8.7,0.9
+253,27,I,27260,E Alder St & Erie Ave,8,PM,0.2,0,2.5,1.7,0
+253,27,I,27270,E Alder St & 35th Ave,9,PM,0,0,2.5,0.2,0
+253,27,I,27290,Lake Dell Ave & E Spruce St,10,PM,0,0,2.5,0.1,0
+253,27,I,27300,Lake Dell Ave & 32nd Ave,11,PM,0.1,0,2.6,1.1,0.2
+253,27,I,27310,E Yesler Way & 32nd Ave,12,PM,0.2,0,2.8,1.7,0.1
+253,27,I,27320,E Yesler Way & 29th Ave,13,PM,0.3,0.1,3,2.5,0.6
+253,27,I,27335,E Yesler Way & 27th Ave,14,PM,0.6,0.1,3.5,4.6,1.1
+253,27,I,27350,E Yesler Way & 23rd Ave,15,PM,4.3,0.5,7.3,34.6,4.2
+253,27,I,27360,E Yesler Way & 21st Ave,16,PM,1.5,0.1,8.7,12.1,0.9
+253,27,I,27370,E Yesler Way & 19th Ave,17,PM,1.4,0.6,9.5,12.7,5.7
+253,27,I,27380,E Yesler Way & 17th Ave,18,PM,0.6,0.3,9.9,5.8,2.8
+253,27,I,27395,E Yesler Way & 14th Ave,19,PM,1.7,1.5,10,15.1,13.6
+253,27,I,27420,Yesler & Broadway,20,PM,2,3,9.8,16.3,24
+253,27,I,27430,Yesler Way & 8th Ave,21,PM,1.4,0.6,10.6,11.3,4.7
+253,27,I,1360,Yesler Way & 5th Ave,22,PM,0.1,0.3,10.4,0.7,2.4
+253,27,I,1370,Yesler Way & 3rd Ave,23,PM,0.1,3.4,7,0.5,27.2
+253,27,I,531,3rd Ave & James St,24,PM,0.3,1.3,6.1,2.7,10.4
+253,27,I,548,3rd Ave & Madison St,25,PM,0.3,1.4,4.9,2.1,11.4
+253,27,I,570,3rd Ave & Union St,26,PM,0.1,2.4,2.6,0.7,19.4
+253,27,I,590,3rd Ave & Pine St,27,PM,0.1,2.7,0,0.8,21.4
+253,27,O,433,3rd Ave & Pike St,4,PM,8.9,0,8.9,71.5,0.2
+253,27,O,468,3rd Ave & Seneca St,5,PM,6.4,0.1,15.2,51.2,1.1
+253,27,O,490,3rd Ave & Cherry St,6,PM,2.5,0.2,17.4,20,1.4
+253,27,O,1340,Yesler Way & Prefontaine Pl S,7,PM,3.8,0.3,20.9,30.2,2.5
+253,27,O,1350,Yesler Way & 6th Ave S,8,PM,0.4,1.2,20,2.8,9.6
+253,27,O,27480,Yesler Way & 8th Ave S,9,PM,0.4,1.7,18.7,3.1,13.4
+253,27,O,27500,Yesler & Broadway,10,PM,2.1,5.6,15.2,16.5,44.8
+253,27,O,27510,E Yesler Way & 12th Ave S,11,PM,1.1,2,14.3,8.8,16.2
+253,27,O,27520,E Yesler Way & 14th Ave S,12,PM,0.8,1.1,14,6.4,8.9
+253,27,O,27530,E Yesler Way & 16th Ave S,13,PM,0.1,1.5,12.6,0.6,12
+253,27,O,27540,E Yesler Way & 18th Ave S,14,PM,0.2,3.3,9.5,1.6,26.5
+253,27,O,27560,E Yesler Way & 22nd Ave S,15,PM,0.1,1.5,8.1,0.8,12.1
+253,27,O,27570,E Yesler Way & 23rd Ave S,16,PM,0.6,2.6,6.1,4.5,20.5
+253,27,O,27590,E Yesler Way & 27th Ave S,17,PM,0.2,1.2,5.1,1.2,9.3
+253,27,O,27600,E Yesler Way & 28th Ave S,18,PM,0,1.2,3.9,0,9.7
+253,27,O,27610,E Yesler Way & 30th Ave S,19,PM,0,0.4,3.5,0,3
+253,27,O,27620,E Yesler Way & 32nd Ave S,20,PM,0,0.5,3.1,0.1,3.6
+253,27,O,27630,Lake Dell Ave & 32nd Ave,21,PM,0,0,3.1,0,0.1
+253,27,O,27640,Lake Dell Ave & E Spruce St,22,PM,0,0.1,3,0,0.4
+253,27,O,27660,E Alder St & 35th Ave,23,PM,0,0.1,2.9,0,0.9
+253,27,O,27670,E Alder St & Erie Ave,24,PM,0,0.3,2.6,0.1,2.4
+253,27,O,27690,Lakeside Ave S & E Yesler Way,25,PM,0.2,0.8,2,1.3,6.1
+253,27,O,27700,Lakeside Ave S & S Leschi Pl,26,PM,0,0.4,1.7,0,2.7
+253,27,O,27720,Lakeside Ave S & S Lane St,27,PM,0,0.6,1.1,0,4.5
+253,27,O,27730,Lakeside Ave S & S Charles St,28,PM,0,0.1,1,0,1.1
+253,27,O,27745,Lakeside Ave S & S Day St,29,PM,0,0.1,0.9,0,0.6
+253,27,O,27175,36th Ave S & S Day St,30,PM,0,0.9,0,0,7.2
+253,27,I,27175,36th Ave S & S Day St,1,XEV,0.7,0,0.7,3.3,0
+253,27,I,27180,Lakeside Ave S & S Day St,2,XEV,0,0,0.6,0.2,0
+253,27,I,27190,Lakeside Ave S & S Judkins St,3,XEV,0,0,0.7,0,0
+253,27,I,27200,Lakeside Ave S & S Charles St,4,XEV,0,0,0.7,0.1,0
+253,27,I,27210,Lakeside Ave S & S Lane St,5,XEV,0.1,0,0.9,0.7,0
+253,27,I,27230,Lakeside Ave S & S Leschi Pl,6,XEV,0,0,0.9,0.2,0
+253,27,I,27240,Lakeside Ave S & Lake Washington Blvd,7,XEV,0.5,0,1.4,2.7,0.1
+253,27,I,27260,E Alder St & Erie Ave,8,XEV,0,0,1.4,0.1,0
+253,27,I,27270,E Alder St & 35th Ave,9,XEV,0,0,1.4,0,0
+253,27,I,27290,Lake Dell Ave & E Spruce St,10,XEV,0,0,1.4,0,0
+253,27,I,27300,Lake Dell Ave & 32nd Ave,11,XEV,0,0,1.4,0,0
+253,27,I,27310,E Yesler Way & 32nd Ave,12,XEV,0,0,1.5,0.1,0
+253,27,I,27320,E Yesler Way & 29th Ave,13,XEV,0.1,0,1.5,0.3,0.1
+253,27,I,27335,E Yesler Way & 27th Ave,14,XEV,0.2,0,1.7,1,0.1
+253,27,I,27350,E Yesler Way & 23rd Ave,15,XEV,0.9,0.1,2.4,4.3,0.7
+253,27,I,27360,E Yesler Way & 21st Ave,16,XEV,0.3,0,2.7,1.6,0
+253,27,I,27370,E Yesler Way & 19th Ave,17,XEV,0.3,0.2,2.8,1.4,0.8
+253,27,I,27380,E Yesler Way & 17th Ave,18,XEV,0.2,0.1,2.9,1,0.7
+253,27,I,27395,E Yesler Way & 14th Ave,19,XEV,0.3,0.3,2.9,1.4,1.3
+253,27,I,27420,Yesler & Broadway,20,XEV,0.7,0.6,3.2,4.1,3.7
+253,27,I,27430,Yesler Way & 8th Ave,21,XEV,0.3,0.1,3.4,1.8,0.8
+253,27,I,1360,Yesler Way & 5th Ave,22,XEV,0,0.2,3.3,0.2,1
+253,27,I,1370,Yesler Way & 3rd Ave,23,XEV,0,0.8,2.5,0,4.6
+253,27,I,531,3rd Ave & James St,24,XEV,0.1,0.4,2.2,0.7,2.4
+253,27,I,548,3rd Ave & Madison St,25,XEV,0.1,0.4,2,0.6,2.2
+253,27,I,570,3rd Ave & Union St,26,XEV,0,1.1,1,0.2,6.6
+253,27,I,590,3rd Ave & Pine St,27,XEV,0.1,1.1,0,0.3,6.4
+253,27,O,433,3rd Ave & Pike St,4,XEV,3.9,0,3.9,19.4,0
+253,27,O,468,3rd Ave & Seneca St,5,XEV,1.9,0.1,5.8,9.7,0.4
+253,27,O,490,3rd Ave & Cherry St,6,XEV,0.7,0.1,6.4,3.5,0.5
+253,27,O,1340,Yesler Way & Prefontaine Pl S,7,XEV,1.4,0.1,7.6,6.8,0.7
+253,27,O,1350,Yesler Way & 6th Ave S,8,XEV,0.1,0.5,7.2,0.7,2.6
+253,27,O,27480,Yesler Way & 8th Ave S,9,XEV,0.1,0.6,6.7,0.7,3.1
+253,27,O,27500,Yesler & Broadway,10,XEV,0.7,1.9,5.5,3.3,9.5
+253,27,O,27510,E Yesler Way & 12th Ave S,11,XEV,0.2,0.9,4.8,1.1,4.5
+253,27,O,27520,E Yesler Way & 14th Ave S,12,XEV,0.2,0.5,4.5,0.8,2.6
+253,27,O,27530,E Yesler Way & 16th Ave S,13,XEV,0,0.6,4,0,2.8
+253,27,O,27540,E Yesler Way & 18th Ave S,14,XEV,0,1,3,0.2,4.8
+253,27,O,27560,E Yesler Way & 22nd Ave S,15,XEV,0,0.6,2.5,0.1,2.8
+253,27,O,27570,E Yesler Way & 23rd Ave S,16,XEV,0.1,0.7,1.9,0.7,3.6
+253,27,O,27590,E Yesler Way & 27th Ave S,17,XEV,0,0.4,1.6,0.2,1.8
+253,27,O,27600,E Yesler Way & 28th Ave S,18,XEV,0,0.3,1.3,0,1.4
+253,27,O,27610,E Yesler Way & 30th Ave S,19,XEV,0,0.1,1.2,0,0.3
+253,27,O,27620,E Yesler Way & 32nd Ave S,20,XEV,0,0.1,1.2,0,0.4
+253,27,O,27630,Lake Dell Ave & 32nd Ave,21,XEV,0,0,1.2,0,0
+253,27,O,27640,Lake Dell Ave & E Spruce St,22,XEV,0,0,1.1,0,0
+253,27,O,27660,E Alder St & 35th Ave,23,XEV,0,0,1.1,0,0.2
+253,27,O,27670,E Alder St & Erie Ave,24,XEV,0,0,1.1,0,0.2
+253,27,O,27690,Lakeside Ave S & E Yesler Way,25,XEV,0.1,0.1,1,0.3,0.7
+253,27,O,27700,Lakeside Ave S & S Leschi Pl,26,XEV,0,0.1,1,0,0.4
+253,27,O,27720,Lakeside Ave S & S Lane St,27,XEV,0,0.2,0.8,0,1.1
+253,27,O,27730,Lakeside Ave S & S Charles St,28,XEV,0,0,0.8,0,0.2
+253,27,O,27745,Lakeside Ave S & S Day St,29,XEV,0,0.1,0.7,0,0.6
+253,27,O,27175,36th Ave S & S Day St,30,XEV,0,0.7,0,0,4.1

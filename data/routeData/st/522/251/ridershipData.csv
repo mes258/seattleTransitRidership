@@ -1,0 +1,211 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+251,522,I,75995,Woodinville Park And Ride,1,AM,1.7,0,1.7,13.2,0
+251,522,I,77998,NE 178th Pl & NE 180th Pl,2,AM,0.4,0.1,1.9,2.8,0.4
+251,522,I,77090,Woodinville Snohomish Rd & NE 190th St,3,AM,0.2,0,2,2.1,0.1
+251,522,I,76014,Sr 522 & 132nd Ave NE,4,AM,0.3,0,2.4,3,0.1
+251,522,I,76299,Beardslee Blvd & NE 195th St,5,AM,0.4,0,2.7,3.6,0.2
+251,522,I,76305,U Of Washington -- Bothell & Cascadia College,6,AM,0.3,0.4,1.6,5,5.3
+251,522,I,76302,Woodinville Dr & Kaysner Way,7,AM,1.2,0,2.8,18.5,0.6
+251,522,I,76310,Bothell Way NE & NE 180th St,8,AM,1.1,0.1,3.8,16.6,2
+251,522,I,76360,NE Bothell Way & 80th Ave NE,9,AM,0.5,0,4.1,6.4,0.6
+251,522,I,76372,NE Bothell Way & Kenmore Park & Ride,10,AM,1.4,0.4,5.1,19.4,5.6
+251,522,I,76390,NE Bothell Way & 68th Ave NE,11,AM,1,0.2,5.9,13.3,2.2
+251,522,I,76420,NE Bothell Way & 61st Ave NE,12,AM,0.4,0.1,6.2,5.1,0.8
+251,522,I,76595,Bothell Way NE & NE 170th St,13,AM,0.4,0,6.4,5.3,0.5
+251,522,I,76610,Bothell Way NE & NE 165th St,14,AM,0.1,0,6.5,1.2,0.1
+251,522,I,76630,Bothell Way NE & NE 153rd St,15,AM,0.4,0,6.9,6.1,0.3
+251,522,I,76660,Lake City Way NE & NE 145th St,16,AM,1.5,0.1,8.3,22.2,1.2
+251,522,I,76680,Lake City Way NE & NE 137th St,17,AM,1.6,0,9.9,24.7,0.6
+251,522,I,76700,Lake City Way NE & NE 130th St,18,AM,1,0.3,10.8,14,3.8
+251,522,I,76710,Lake City Way NE & NE 125th St,19,AM,1.9,0.7,12,26.3,9.4
+251,522,I,38235,Lake City Way NE & 20th Ave NE,20,AM,2.7,0.5,14.2,38.2,7.5
+251,522,I,23421,Roosevelt Station - Bay 4,21,AM,0.1,14.3,0,0.7,199.7
+251,522,O,23561,Roosevelt Station - Bay 3,1,AM,7,0,7,91,0
+251,522,O,38567,Lake City Way NE & NE 85th St,2,AM,0.7,0.6,7.1,9.6,7.5
+251,522,O,76720,Lake City Way NE & NE 125th St,3,AM,2.2,0.8,8.6,26.7,9.3
+251,522,O,76730,Lake City Way NE & NE 130th St,4,AM,0.9,0.5,9,10.4,6.4
+251,522,O,76750,Lake City Way NE & NE 137th St,5,AM,0.4,0.6,8.8,4.9,7.3
+251,522,O,76770,Bothell Way NE & NE 145th St,6,AM,0.6,0.6,8.8,6.7,6.6
+251,522,O,76790,Bothell Way NE & NE 153rd St,7,AM,0.2,0.4,8.6,2.2,4.5
+251,522,O,76810,Bothell Way NE & NE 165th St,8,AM,0.1,0,8.6,1,0.5
+251,522,O,76820,Bothell Way NE & NE 170th St,9,AM,0.2,0.5,8.3,2.9,6.3
+251,522,O,76840,NE Bothell Way & 61st Ave NE,10,AM,0.5,0.4,8.5,5.8,4.7
+251,522,O,76870,NE Bothell Way & 68th Ave NE,11,AM,0.5,0.8,8.2,6.1,9.5
+251,522,O,76880,NE Bothell Way & 73rd Ave NE,12,AM,0.3,0.2,8.3,3.6,2
+251,522,O,76900,NE Bothell Way & 80th Ave NE,13,AM,0.2,0.1,8.4,2.3,1
+251,522,O,79296,Bothell Way NE & Bothell Way NE,14,AM,0.2,0.6,8,2.5,6.6
+251,522,O,76222,Beardslee Blvd & Sunrise Dr,15,AM,0.1,0.6,7.6,1.6,6.5
+251,522,O,76305,U Of Washington -- Bothell & Cascadia College,16,AM,0.8,3.7,4.7,8.5,40.2
+251,522,O,76228,Beardslee Blvd & NE 195th St,17,AM,0.1,1.9,4.7,0.9,15.4
+251,522,O,76970,Sr 522 & 132nd Ave NE,18,AM,0,1.3,3.4,0.2,10.5
+251,522,O,77093,Woodinville Snohomish Rd & 139th Ave NE,19,AM,0,1,2.5,0.1,7.9
+251,522,O,77999,NE 178th Pl & 138th Pl NE,20,AM,0,1.3,1.3,0,10
+251,522,O,75992,Woodinville Park And Ride,21,AM,0,1.5,0,0.2,11.6
+251,522,I,75995,Woodinville Park And Ride,1,MID,2.1,0,2.1,25.6,0
+251,522,I,77998,NE 178th Pl & NE 180th Pl,2,MID,0.9,0.1,3,11,0.8
+251,522,I,77090,Woodinville Snohomish Rd & NE 190th St,3,MID,0.4,0,3.3,4.5,0.1
+251,522,I,76014,Sr 522 & 132nd Ave NE,4,MID,0.9,0,4.1,10.4,0.4
+251,522,I,76299,Beardslee Blvd & NE 195th St,5,MID,0.5,0.2,4.4,6.1,2.4
+251,522,I,76305,U Of Washington -- Bothell & Cascadia College,6,MID,1.5,0.6,3.2,36.5,13.2
+251,522,I,76302,Woodinville Dr & Kaysner Way,7,MID,0.7,0.2,3.7,16.6,3.9
+251,522,I,76310,Bothell Way NE & NE 180th St,8,MID,0.6,0.2,3.9,14,5.2
+251,522,I,76360,NE Bothell Way & 80th Ave NE,9,MID,0.3,0.2,4.1,7.7,3.7
+251,522,I,76372,NE Bothell Way & Kenmore Park & Ride,10,MID,0.6,0.4,4.3,15.1,8.8
+251,522,I,76390,NE Bothell Way & 68th Ave NE,11,MID,0.8,0.4,4.8,19.5,8.7
+251,522,I,76420,NE Bothell Way & 61st Ave NE,12,MID,0.3,0.1,5,6.8,3
+251,522,I,76595,Bothell Way NE & NE 170th St,13,MID,0.7,0.3,5.4,17.2,6.7
+251,522,I,76610,Bothell Way NE & NE 165th St,14,MID,0.1,0,5.5,1.8,0.1
+251,522,I,76630,Bothell Way NE & NE 153rd St,15,MID,0.4,0.1,5.7,10,3.1
+251,522,I,76660,Lake City Way NE & NE 145th St,16,MID,1.6,0.3,6.9,36.7,7.9
+251,522,I,76680,Lake City Way NE & NE 137th St,17,MID,0.9,0.2,7.7,21.3,3.8
+251,522,I,76700,Lake City Way NE & NE 130th St,18,MID,1,0.8,7.9,24.3,19.1
+251,522,I,76710,Lake City Way NE & NE 125th St,19,MID,1.8,1,8.8,43.2,23.5
+251,522,I,38235,Lake City Way NE & 20th Ave NE,20,MID,1.6,0.6,9.7,37.3,14
+251,522,I,23421,Roosevelt Station - Bay 4,21,MID,0.1,9.8,0,2,235.3
+251,522,O,23561,Roosevelt Station - Bay 3,1,MID,8.7,0,8.7,199.4,0
+251,522,O,38567,Lake City Way NE & NE 85th St,2,MID,0.7,1.1,8.2,15.3,25.2
+251,522,O,76720,Lake City Way NE & NE 125th St,3,MID,1.5,1.5,8.1,35.4,37
+251,522,O,76730,Lake City Way NE & NE 130th St,4,MID,1.2,0.9,8.1,27.1,21.2
+251,522,O,76750,Lake City Way NE & NE 137th St,5,MID,0.2,0.9,7.4,5.7,20.6
+251,522,O,76770,Bothell Way NE & NE 145th St,6,MID,0.4,1,6.8,8.5,22.4
+251,522,O,76790,Bothell Way NE & NE 153rd St,7,MID,0.2,0.3,6.7,4.1,6.9
+251,522,O,76810,Bothell Way NE & NE 165th St,8,MID,0,0.1,6.7,0.6,1.3
+251,522,O,76820,Bothell Way NE & NE 170th St,9,MID,0.3,0.9,6,6.2,21.1
+251,522,O,76840,NE Bothell Way & 61st Ave NE,10,MID,0.2,0.3,6,5.3,6.1
+251,522,O,76870,NE Bothell Way & 68th Ave NE,11,MID,0.7,1,5.7,15.8,22.3
+251,522,O,76880,NE Bothell Way & 73rd Ave NE,12,MID,0.4,0.5,5.7,8.6,11.9
+251,522,O,76900,NE Bothell Way & 80th Ave NE,13,MID,0.2,0.3,5.5,4.3,8.2
+251,522,O,79296,Bothell Way NE & Bothell Way NE,14,MID,0.2,0.8,4.9,5.7,20.3
+251,522,O,76222,Beardslee Blvd & Sunrise Dr,15,MID,0.2,0.6,4.6,5.4,13.5
+251,522,O,76305,U Of Washington -- Bothell & Cascadia College,16,MID,1,2.4,3.1,22.1,55.5
+251,522,O,76228,Beardslee Blvd & NE 195th St,17,MID,0.1,0.5,5.6,1.4,5.8
+251,522,O,76970,Sr 522 & 132nd Ave NE,18,MID,0,0.9,4.8,0.4,10.7
+251,522,O,77093,Woodinville Snohomish Rd & 139th Ave NE,19,MID,0,0.6,4.1,0,7.6
+251,522,O,77999,NE 178th Pl & 138th Pl NE,20,MID,0,2.3,2,0.3,27.1
+251,522,O,75992,Woodinville Park And Ride,21,MID,0.2,2.3,0,2.5,25.4
+251,522,I,75995,Woodinville Park And Ride,1,PM,3.1,0,3.1,24.9,0
+251,522,I,77998,NE 178th Pl & NE 180th Pl,2,PM,1.9,0,5,15.1,0.2
+251,522,I,77090,Woodinville Snohomish Rd & NE 190th St,3,PM,0.9,0.1,5.8,7.1,0.4
+251,522,I,76014,Sr 522 & 132nd Ave NE,4,PM,1.2,0.1,7,8.2,0.6
+251,522,I,76299,Beardslee Blvd & NE 195th St,5,PM,2.1,0.4,8.6,14.5,3
+251,522,I,76305,U Of Washington -- Bothell & Cascadia College,6,PM,3.2,0.8,6.4,48.1,12.1
+251,522,I,76302,Woodinville Dr & Kaysner Way,7,PM,1,0.2,7.2,14.4,3.6
+251,522,I,76310,Bothell Way NE & NE 180th St,8,PM,0.8,0.2,7.8,12,3.3
+251,522,I,76360,NE Bothell Way & 80th Ave NE,9,PM,0.3,0.2,7.8,4,3.4
+251,522,I,76372,NE Bothell Way & Kenmore Park & Ride,10,PM,0.5,0.7,7.6,8,11.8
+251,522,I,76390,NE Bothell Way & 68th Ave NE,11,PM,1.3,0.7,8.5,19,10.1
+251,522,I,76420,NE Bothell Way & 61st Ave NE,12,PM,0.4,0.3,8.6,6.1,4.5
+251,522,I,76595,Bothell Way NE & NE 170th St,13,PM,1.4,0.5,9.5,21.1,8.1
+251,522,I,76610,Bothell Way NE & NE 165th St,14,PM,0,0.1,9.5,0.4,1
+251,522,I,76630,Bothell Way NE & NE 153rd St,15,PM,0.5,0.3,9.7,8.1,4.1
+251,522,I,76660,Lake City Way NE & NE 145th St,16,PM,1.7,0.7,10.5,26.6,10.7
+251,522,I,76680,Lake City Way NE & NE 137th St,17,PM,1,0.4,11.2,16.3,5.8
+251,522,I,76700,Lake City Way NE & NE 130th St,18,PM,1.3,1.7,10.8,20.3,27.1
+251,522,I,76710,Lake City Way NE & NE 125th St,19,PM,1.8,1.9,11,27.4,28.3
+251,522,I,38235,Lake City Way NE & 20th Ave NE,20,PM,1.4,1.2,11.2,21.1,17.5
+251,522,I,23421,Roosevelt Station - Bay 4,21,PM,0.1,11.6,0,1.2,163
+251,522,O,23561,Roosevelt Station - Bay 3,1,PM,19.3,0,19.3,289.4,0.1
+251,522,O,38567,Lake City Way NE & NE 85th St,2,PM,1,3.9,16.4,15.5,59
+251,522,O,76720,Lake City Way NE & NE 125th St,3,PM,1.3,3.3,14.4,19.9,48.8
+251,522,O,76730,Lake City Way NE & NE 130th St,4,PM,1.3,1.9,13.8,20,31
+251,522,O,76750,Lake City Way NE & NE 137th St,5,PM,0.2,2,12,2.9,31.6
+251,522,O,76770,Bothell Way NE & NE 145th St,6,PM,0.3,2,10.3,4.7,31.8
+251,522,O,76790,Bothell Way NE & NE 153rd St,7,PM,0.2,0.5,10.3,3.1,7.1
+251,522,O,76810,Bothell Way NE & NE 165th St,8,PM,0,0.2,10.2,0.1,2.6
+251,522,O,76820,Bothell Way NE & NE 170th St,9,PM,0.3,1.2,9.2,4.3,18.6
+251,522,O,76840,NE Bothell Way & 61st Ave NE,10,PM,0.2,0.7,8.7,2.9,10.3
+251,522,O,76870,NE Bothell Way & 68th Ave NE,11,PM,0.5,1.6,7.6,7.4,24.7
+251,522,O,76880,NE Bothell Way & 73rd Ave NE,12,PM,0.2,1.7,6.1,3.6,25.5
+251,522,O,76900,NE Bothell Way & 80th Ave NE,13,PM,0.1,0.6,5.7,2.2,8.5
+251,522,O,79296,Bothell Way NE & Bothell Way NE,14,PM,0.1,1.4,4.5,2.1,20.5
+251,522,O,76222,Beardslee Blvd & Sunrise Dr,15,PM,0.2,1.4,3.4,3.2,21.4
+251,522,O,76305,U Of Washington -- Bothell & Cascadia College,16,PM,1.3,1.7,3,19.4,25.1
+251,522,O,76228,Beardslee Blvd & NE 195th St,17,PM,0.2,0.4,6.1,1.3,3.1
+251,522,O,76970,Sr 522 & 132nd Ave NE,18,PM,0.1,1,5.2,0.5,6.9
+251,522,O,77093,Woodinville Snohomish Rd & 139th Ave NE,19,PM,0,0.3,5,0.1,2
+251,522,O,77999,NE 178th Pl & 138th Pl NE,20,PM,0,2.1,3,0.2,14.8
+251,522,O,75992,Woodinville Park And Ride,21,PM,0.1,3.1,0,0.5,24.5
+251,522,I,75995,Woodinville Park And Ride,1,XEV,1.8,0,1.8,10.9,0
+251,522,I,77998,NE 178th Pl & NE 180th Pl,2,XEV,1.5,0,3.3,8.7,0
+251,522,I,77090,Woodinville Snohomish Rd & NE 190th St,3,XEV,0.9,0,4.1,5.1,0
+251,522,I,76014,Sr 522 & 132nd Ave NE,4,XEV,0.3,0.1,4.4,2,0.4
+251,522,I,76299,Beardslee Blvd & NE 195th St,5,XEV,0.5,0.2,4.7,3.2,1.4
+251,522,I,76305,U Of Washington -- Bothell & Cascadia College,6,XEV,1.4,0.5,3.7,16.4,5.5
+251,522,I,76302,Woodinville Dr & Kaysner Way,7,XEV,0.6,0.1,4.2,7.7,1.2
+251,522,I,76310,Bothell Way NE & NE 180th St,8,XEV,0.5,0.2,4.6,5.3,2.2
+251,522,I,76360,NE Bothell Way & 80th Ave NE,9,XEV,0.3,0.4,4.5,2.9,3.9
+251,522,I,76372,NE Bothell Way & Kenmore Park & Ride,10,XEV,0.3,0.4,4.4,2.9,4.4
+251,522,I,76390,NE Bothell Way & 68th Ave NE,11,XEV,0.9,0.5,4.7,10.8,5.5
+251,522,I,76420,NE Bothell Way & 61st Ave NE,12,XEV,0.3,0.1,4.9,4.1,1.7
+251,522,I,76595,Bothell Way NE & NE 170th St,13,XEV,1.6,0.3,6.2,18.9,3.5
+251,522,I,76610,Bothell Way NE & NE 165th St,14,XEV,0,0,6.2,0.4,0.5
+251,522,I,76630,Bothell Way NE & NE 153rd St,15,XEV,0.3,0.3,6.1,3.3,3.7
+251,522,I,76660,Lake City Way NE & NE 145th St,16,XEV,1.3,0.6,6.8,15.7,7.4
+251,522,I,76680,Lake City Way NE & NE 137th St,17,XEV,0.5,0.3,7,5.8,4
+251,522,I,76700,Lake City Way NE & NE 130th St,18,XEV,0.7,1.5,6,7.4,16.8
+251,522,I,76710,Lake City Way NE & NE 125th St,19,XEV,1,1.4,5.7,11.6,16.9
+251,522,I,38235,Lake City Way NE & 20th Ave NE,20,XEV,0.7,0.7,5.6,7.9,8.6
+251,522,I,23421,Roosevelt Station - Bay 4,21,XEV,0.2,5.9,0,2.4,76.6
+251,522,O,23561,Roosevelt Station - Bay 3,1,XEV,9.8,0,9.8,117.5,0
+251,522,O,38567,Lake City Way NE & NE 85th St,2,XEV,0.6,2,8.4,7.2,24.1
+251,522,O,76720,Lake City Way NE & NE 125th St,3,XEV,0.7,1.9,7.2,8.4,23.1
+251,522,O,76730,Lake City Way NE & NE 130th St,4,XEV,1,1.2,7,12.1,14.6
+251,522,O,76750,Lake City Way NE & NE 137th St,5,XEV,0.1,1.1,5.9,1.4,13.5
+251,522,O,76770,Bothell Way NE & NE 145th St,6,XEV,0.2,1.4,4.8,2.2,15.9
+251,522,O,76790,Bothell Way NE & NE 153rd St,7,XEV,0.1,0.4,4.6,0.8,4.3
+251,522,O,76810,Bothell Way NE & NE 165th St,8,XEV,0,0.1,4.6,0.1,0.7
+251,522,O,76820,Bothell Way NE & NE 170th St,9,XEV,0.2,0.6,4.2,1.9,6.7
+251,522,O,76840,NE Bothell Way & 61st Ave NE,10,XEV,0.1,0.3,4,1.6,4.1
+251,522,O,76870,NE Bothell Way & 68th Ave NE,11,XEV,0.2,0.7,3.5,2.9,8.4
+251,522,O,76880,NE Bothell Way & 73rd Ave NE,12,XEV,0.1,0.6,3,1.6,7.6
+251,522,O,76900,NE Bothell Way & 80th Ave NE,13,XEV,0,0.2,2.8,0.2,2.9
+251,522,O,79296,Bothell Way NE & Bothell Way NE,14,XEV,0.1,0.5,2.3,0.7,6.5
+251,522,O,76222,Beardslee Blvd & Sunrise Dr,15,XEV,0.1,0.7,1.9,0.8,7.8
+251,522,O,76305,U Of Washington -- Bothell & Cascadia College,16,XEV,0.7,0.9,1.7,8.5,11
+251,522,O,76228,Beardslee Blvd & NE 195th St,17,XEV,0.1,0.2,3.2,0.4,1.4
+251,522,O,76970,Sr 522 & 132nd Ave NE,18,XEV,0,0.6,2.7,0.1,3.3
+251,522,O,77093,Woodinville Snohomish Rd & 139th Ave NE,19,XEV,0,0.3,2.4,0,1.9
+251,522,O,77999,NE 178th Pl & 138th Pl NE,20,XEV,0,0.9,1.7,0,5.3
+251,522,O,75992,Woodinville Park And Ride,21,XEV,0.1,1.8,0,0.5,10.5
+251,522,I,75995,Woodinville Park And Ride,1,XNT,0.9,0,0.8,4.3,0.1
+251,522,I,77998,NE 178th Pl & NE 180th Pl,2,XNT,0.6,0.2,1.2,3.1,1
+251,522,I,77090,Woodinville Snohomish Rd & NE 190th St,3,XNT,0.1,0,1.4,0.5,0
+251,522,I,76014,Sr 522 & 132nd Ave NE,4,XNT,0.1,0,1.5,0.4,0.1
+251,522,I,76299,Beardslee Blvd & NE 195th St,5,XNT,0.3,0.1,1.8,1.2,0.2
+251,522,I,76305,U Of Washington -- Bothell & Cascadia College,6,XNT,0.4,0.2,1.6,2,1
+251,522,I,76302,Woodinville Dr & Kaysner Way,7,XNT,0.2,0,1.7,1,0.2
+251,522,I,76310,Bothell Way NE & NE 180th St,8,XNT,0.3,0,2.2,1.6,0.1
+251,522,I,76360,NE Bothell Way & 80th Ave NE,9,XNT,0.3,0.1,2.4,1.6,0.3
+251,522,I,76372,NE Bothell Way & Kenmore Park & Ride,10,XNT,0.7,0.1,2.9,4.1,0.8
+251,522,I,76390,NE Bothell Way & 68th Ave NE,11,XNT,0.6,0.2,3.3,3.4,1.3
+251,522,I,76420,NE Bothell Way & 61st Ave NE,12,XNT,0.2,0.1,3.3,0.9,0.3
+251,522,I,76595,Bothell Way NE & NE 170th St,13,XNT,0.4,0.1,3.4,2.2,0.3
+251,522,I,76610,Bothell Way NE & NE 165th St,14,XNT,0,0,3.4,0,0
+251,522,I,76630,Bothell Way NE & NE 153rd St,15,XNT,0.1,0.2,3.3,0.4,0.8
+251,522,I,76660,Lake City Way NE & NE 145th St,16,XNT,0.7,0.2,3.8,3.4,1
+251,522,I,76680,Lake City Way NE & NE 137th St,17,XNT,0.3,0.1,4,1.6,0.3
+251,522,I,76700,Lake City Way NE & NE 130th St,18,XNT,0.8,0.6,5,4.8,3.4
+251,522,I,76710,Lake City Way NE & NE 125th St,19,XNT,1,1,4.9,5.9,5.9
+251,522,I,38235,Lake City Way NE & 20th Ave NE,20,XNT,0.7,0.6,5,4.3,3.7
+251,522,I,23421,Roosevelt Station - Bay 4,21,XNT,0,5,0,0.1,30
+251,522,O,23561,Roosevelt Station - Bay 3,1,XNT,8.6,0,8.6,68.8,0
+251,522,O,38567,Lake City Way NE & NE 85th St,2,XNT,0.2,1.7,7.1,1.3,13.8
+251,522,O,76720,Lake City Way NE & NE 125th St,3,XNT,0.5,1.4,6.2,4,10.8
+251,522,O,76730,Lake City Way NE & NE 130th St,4,XNT,0.6,0.5,6.3,4.4,3.8
+251,522,O,76750,Lake City Way NE & NE 137th St,5,XNT,0,1.2,5.1,0.1,9.7
+251,522,O,76770,Bothell Way NE & NE 145th St,6,XNT,0.2,1.3,3.9,1.4,11.6
+251,522,O,76790,Bothell Way NE & NE 153rd St,7,XNT,0,0.3,3.6,0.2,2.7
+251,522,O,76810,Bothell Way NE & NE 165th St,8,XNT,0,0,3.6,0,0.1
+251,522,O,76820,Bothell Way NE & NE 170th St,9,XNT,0.1,0.2,3.5,0.5,1.9
+251,522,O,76840,NE Bothell Way & 61st Ave NE,10,XNT,0,0.3,3.1,0.1,3.1
+251,522,O,76870,NE Bothell Way & 68th Ave NE,11,XNT,0.1,0.5,2.8,1.2,4.5
+251,522,O,76880,NE Bothell Way & 73rd Ave NE,12,XNT,0,0.4,2.4,0.3,3.9
+251,522,O,76900,NE Bothell Way & 80th Ave NE,13,XNT,0,0.3,2.1,0.1,2.4
+251,522,O,79296,Bothell Way NE & Bothell Way NE,14,XNT,0,0.4,1.8,0.3,3.2
+251,522,O,76222,Beardslee Blvd & Sunrise Dr,15,XNT,0,0.5,1.5,0.3,4.6
+251,522,O,76305,U Of Washington -- Bothell & Cascadia College,16,XNT,0.2,0.5,1.3,2.4,5.2
+251,522,O,76228,Beardslee Blvd & NE 195th St,17,XNT,0,0.1,1.5,0.1,1.1
+251,522,O,76970,Sr 522 & 132nd Ave NE,18,XNT,0.1,0.4,1.2,0.7,3
+251,522,O,77093,Woodinville Snohomish Rd & 139th Ave NE,19,XNT,0,0.1,1.2,0,1.1
+251,522,O,77999,NE 178th Pl & 138th Pl NE,20,XNT,0,0.4,0.9,0,2.8
+251,522,O,75992,Woodinville Park And Ride,21,XNT,0.1,0.9,0,0.4,7.4

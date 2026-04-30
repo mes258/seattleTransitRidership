@@ -1,0 +1,74 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,118,I,47255,SW Tahlequah Rd & Sr 163,1,AM,1.5,0,1.5,4.4,0
+253,118,I,46770,Vashon Hwy SW & SW Burton Dr,2,AM,2.2,0.2,3.2,8.8,0.6
+253,118,I,46791,Vashon Hwy SW & SW 204th St,3,AM,1.6,0.6,4.2,6.5,2.2
+253,118,I,46800,Vashon Hwy SW & SW 188th St,4,AM,0.4,0.1,4.6,1.5,0.3
+253,118,I,46830,Vashon Hwy SW & SW 178th St,5,AM,0.3,0.1,4.8,1.3,0.5
+253,118,I,46840,Vashon Hwy SW & SW Bank Rd,6,AM,1,0.2,5.5,3.9,0.8
+253,118,I,46850,Vashon Hwy SW & SW 171st St,7,AM,1.1,0,6.5,4.2,0
+253,118,I,46870,Vashon Hwy SW & SW 158th St,8,AM,0.2,0.2,6.6,0.7,0.6
+253,118,I,46880,Vashon Hwy SW & SW 156th St,9,AM,0.2,0,6.7,0.7,0
+253,118,I,46888,Vashon Hwy SW & SW 132nd Pl,10,AM,0.1,0,6.8,0.4,0
+253,118,I,46890,Vashon Hwy SW & Burma Rd SW,11,AM,0,0,6.8,0.1,0
+253,118,I,46769,Vashon Ferry Dock & 103rd Ave SW,12,AM,0,6.8,0,0.1,27.3
+253,118,O,46769,Vashon Ferry Dock & 103rd Ave SW,1,AM,4.1,0,4.1,20.4,0
+253,118,O,46871,Vashon Hwy SW & Burma Rd SW,2,AM,0,0,4.1,0.1,0.1
+253,118,O,47080,Vashon Hwy SW & SW 156th St,3,AM,0,0,3.6,0.1,0.1
+253,118,O,46773,Vashon Hwy SW & SW 158th St,4,AM,0.2,0,3.8,0.9,0
+253,118,O,47110,Vashon Hwy SW & SW 171st St,5,AM,0.2,0.1,3.9,0.7,0.3
+253,118,O,47240,Vashon Hwy SW & SW Bank Rd,6,AM,0.4,0.4,3.8,1.4,1.4
+253,118,O,47120,Vashon Hwy SW & SW 178th St,7,AM,0,0.1,3.8,0.1,0.3
+253,118,O,46792,Vashon Hwy SW & SW 204th St,8,AM,0.3,2.7,1.4,1.1,10.7
+253,118,O,47230,Vashon Hwy SW & SW Burton Dr,9,AM,0.4,0.4,1.5,1.7,1.4
+253,118,O,47255,SW Tahlequah Rd & Sr 163,10,AM,0,1.8,0,0,5.5
+253,118,O,47235,104th Ave SW & SW Burton Dr,11,AM,0,0,0.3,0,0
+253,118,O,46770,Vashon Hwy SW & SW Burton Dr,12,AM,0,0.3,0,0,0.3
+253,118,I,47255,SW Tahlequah Rd & Sr 163,1,MID,1.2,0,1.2,7.1,0
+253,118,I,46770,Vashon Hwy SW & SW Burton Dr,2,MID,1,0.2,1.6,9.1,1.9
+253,118,I,46791,Vashon Hwy SW & SW 204th St,3,MID,1.4,0.3,2.7,12.7,2.9
+253,118,I,46800,Vashon Hwy SW & SW 188th St,4,MID,0.3,0.1,2.5,2.3,0.7
+253,118,I,46830,Vashon Hwy SW & SW 178th St,5,MID,0.1,0.3,2.3,0.6,2.4
+253,118,I,46840,Vashon Hwy SW & SW Bank Rd,6,MID,0.6,0.6,2.3,4.8,4.8
+253,118,I,46850,Vashon Hwy SW & SW 171st St,7,MID,0.4,0.2,2.5,3.2,1.5
+253,118,I,46870,Vashon Hwy SW & SW 158th St,8,MID,0,0.1,2.4,0.2,0.4
+253,118,I,46880,Vashon Hwy SW & SW 156th St,9,MID,0,0.1,2.4,0.3,0.4
+253,118,I,46888,Vashon Hwy SW & SW 132nd Pl,10,MID,0,0.1,2.4,0.1,0.5
+253,118,I,46890,Vashon Hwy SW & Burma Rd SW,11,MID,0,0.3,2.1,0.1,2.7
+253,118,I,46769,Vashon Ferry Dock & 103rd Ave SW,12,MID,0.1,3,0,0.7,17.8
+253,118,I,46766,Vashon Ferry Dock & 103rd Ave SW,13,MID,1.3,2.9,0,2.5,5.7
+253,118,O,46769,Vashon Ferry Dock & 103rd Ave SW,1,MID,3.4,0.2,3.3,34.4,1.6
+253,118,O,46871,Vashon Hwy SW & Burma Rd SW,2,MID,0.5,0.4,3.3,4.7,3.6
+253,118,O,47080,Vashon Hwy SW & SW 156th St,3,MID,0.2,0,3.7,2.2,0.4
+253,118,O,46773,Vashon Hwy SW & SW 158th St,4,MID,0,0,3.8,0.2,0.1
+253,118,O,47110,Vashon Hwy SW & SW 171st St,5,MID,0.1,0.4,3.5,1.4,4.2
+253,118,O,47240,Vashon Hwy SW & SW Bank Rd,6,MID,0.9,1.4,2.9,9.4,15.9
+253,118,O,47120,Vashon Hwy SW & SW 178th St,7,MID,0.2,0.4,3,2,3.9
+253,118,O,46792,Vashon Hwy SW & SW 204th St,8,MID,0.3,1.8,1.6,2.6,16.4
+253,118,O,47230,Vashon Hwy SW & SW Burton Dr,9,MID,0.3,0.8,1,2.5,7.5
+253,118,O,47255,SW Tahlequah Rd & Sr 163,10,MID,0,1.3,0,0,6.6
+253,118,O,47235,104th Ave SW & SW Burton Dr,11,MID,0.1,0.1,0.5,0.4,0.4
+253,118,O,46770,Vashon Hwy SW & SW Burton Dr,12,MID,0.3,0.9,0,1.3,3.6
+253,118,I,47255,SW Tahlequah Rd & Sr 163,1,PM,3.7,0,3.7,7.3,0
+253,118,I,46770,Vashon Hwy SW & SW Burton Dr,2,PM,0.4,0.1,1.7,1.9,0.6
+253,118,I,46791,Vashon Hwy SW & SW 204th St,3,PM,4.5,0.3,5.9,22.5,1.4
+253,118,I,46800,Vashon Hwy SW & SW 188th St,4,PM,0.6,0.2,6.3,3.8,1
+253,118,I,46830,Vashon Hwy SW & SW 178th St,5,PM,0.1,0.4,6,0.4,2.4
+253,118,I,46840,Vashon Hwy SW & SW Bank Rd,6,PM,1.4,0.8,6.6,8.5,4.7
+253,118,I,46850,Vashon Hwy SW & SW 171st St,7,PM,0.4,0.3,6.8,2.3,1.5
+253,118,I,46870,Vashon Hwy SW & SW 158th St,8,PM,0.3,0.2,7,2,0.9
+253,118,I,46880,Vashon Hwy SW & SW 156th St,9,PM,0,0.2,6.9,0.2,0.9
+253,118,I,46888,Vashon Hwy SW & SW 132nd Pl,10,PM,0,0.2,6.7,0.1,0.9
+253,118,I,46890,Vashon Hwy SW & Burma Rd SW,11,PM,0,0.2,6.6,0,0.9
+253,118,I,46769,Vashon Ferry Dock & 103rd Ave SW,12,PM,0,6.6,0,0.1,39.5
+253,118,O,46769,Vashon Ferry Dock & 103rd Ave SW,1,PM,10.7,0,10.7,53.5,0
+253,118,O,46871,Vashon Hwy SW & Burma Rd SW,2,PM,0.1,0.6,10.2,0.5,2.8
+253,118,O,47080,Vashon Hwy SW & SW 156th St,3,PM,0,0.5,9.9,0.2,2.3
+253,118,O,46773,Vashon Hwy SW & SW 158th St,4,PM,0.1,0.3,9.6,0.4,1.6
+253,118,O,47110,Vashon Hwy SW & SW 171st St,5,PM,0.2,2.1,7.7,1,10.3
+253,118,O,47240,Vashon Hwy SW & SW Bank Rd,6,PM,0.7,2.9,5.6,3.6,14.3
+253,118,O,47120,Vashon Hwy SW & SW 178th St,7,PM,0.4,0.8,6.5,1.4,3.2
+253,118,O,46792,Vashon Hwy SW & SW 204th St,8,PM,0.4,2.9,3.1,1.8,14.4
+253,118,O,47230,Vashon Hwy SW & SW Burton Dr,9,PM,0.1,1.8,1.4,0.6,9.1
+253,118,O,47255,SW Tahlequah Rd & Sr 163,10,PM,0,3.1,0,0,6.2
+253,118,O,47235,104th Ave SW & SW Burton Dr,11,PM,0,0.1,0.2,0,0.3
+253,118,O,46770,Vashon Hwy SW & SW Burton Dr,12,PM,0,0.2,0,0,0.6
