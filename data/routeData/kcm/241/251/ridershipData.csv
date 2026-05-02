@@ -1,0 +1,251 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+251,241,I,85630,Bellevue Transit Center - Bay 1,1,AM,2.4,0,2.4,17.1,0
+251,241,I,85489,108th Ave NE & NE 2nd St,2,AM,0.4,0,2.8,2.8,0.2
+251,241,I,67932,108th Ave SE & SE 3rd St,3,AM,0.1,0,2.9,0.6,0.1
+251,241,I,67943,108th Ave SE & SE 10th St,4,AM,0,0.5,2.5,0.1,2.9
+251,241,I,67944,108th Ave SE & SE 12th St,5,AM,0,0,2.5,0,0.1
+251,241,I,67947,108th Ave SE & SE 14th St,6,AM,0,0,2.5,0,0.1
+251,241,I,67922,108th Ave SE & Bellevue Way SE,7,AM,0.1,0.1,2.5,0.5,0.3
+251,241,I,70600,Bellevue Way SE & 108th Ave SE,8,AM,0,0,2.5,0,0.1
+251,241,I,84264,South Bellevue Station Bus Plaza - Bay 2,9,AM,1,0.1,3.4,6.2,0.4
+251,241,I,84270,Bellevue Way SE & 113th Ave SE,10,AM,0,0,3.5,0.1,0
+251,241,I,79868,Factoria Blvd SE & SE 38th St,11,AM,0.1,1.6,2,0.4,9.3
+251,241,I,79880,Factoria Blvd SE & SE 40th Ln,12,AM,0,0.7,1.4,0.2,4.1
+251,241,I,79890,Factoria Blvd SE & SE 42nd St,13,AM,0.1,0.2,1.2,0.4,1.2
+251,241,I,64845,SE Newport Way & Factoria Blvd SE,14,AM,0.1,0.1,1.2,0.7,0.7
+251,241,I,64769,SE Newport Way & SE 42nd Pl,15,AM,0,0,1.2,0.1,0.2
+251,241,I,64870,SE Allen Rd & SE Newport Way,16,AM,0.1,0.2,1.2,0.6,0.9
+251,241,I,64890,SE Allen Rd & 139th Ave SE,17,AM,0.1,0,1.2,0.3,0
+251,241,I,64900,SE Allen Rd & 140th Ave SE,18,AM,0.2,0,1.4,1.2,0
+251,241,I,64910,SE Allen Rd & 142nd Ave SE,19,AM,0,0,1.4,0,0.1
+251,241,I,64958,SE Allen Rd & 146th Ave SE,20,AM,0.1,0,1.5,0.4,0
+251,241,I,64956,146th Ave SE & SE Eastgate Dr,21,AM,0.3,0.2,1.6,1.8,1
+251,241,I,67023,142nd Pl SE & SE 36th St,22,AM,0,0.2,1.4,0,1.4
+251,241,I,79878,142nd Pl SE & SE 32nd St,23,AM,0,0.3,1.2,0,1.5
+251,241,I,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,24,AM,0.3,1.4,0,1.7,8.6
+251,241,O,67014,Eastgate Park & Ride - Bay 1,1,AM,0.9,0,0.9,6.9,0
+251,241,O,67022,142nd Pl SE & SE 32nd St,2,AM,0,0,0.9,0.1,0.1
+251,241,O,67021,142nd Pl SE & SE 36th St,3,AM,0.1,0,0.9,0.7,0.1
+251,241,O,67025,SE 36th St & 146th Ave SE,4,AM,0,0,0.9,0.1,0.1
+251,241,O,64955,146th Ave SE & SE Eastgate Dr,5,AM,0.6,0,1.5,4.6,0.2
+251,241,O,64957,SE Allen Rd & 146th Ave SE,6,AM,0.4,0,1.9,3.1,0
+251,241,O,64720,SE Allen Rd & 142nd Ave SE,7,AM,0.1,0,2,1,0
+251,241,O,64730,SE Allen Rd & 140th Ave SE,8,AM,0.5,0,2.5,3.6,0
+251,241,O,64740,SE Allen Rd & 139th Ave SE,9,AM,0.4,0,2.9,3.5,0
+251,241,O,64760,SE Allen Rd & SE Newport Way,10,AM,0.4,0.1,3.2,3.4,1
+251,241,O,65159,SE Newport Way & SE Allen Rd,11,AM,0.4,0,3.6,3,0.1
+251,241,O,64770,SE Newport Way & 133rd Ave SE,12,AM,0.1,0,3.7,0.7,0
+251,241,O,64768,SE Newport Way & SE 42nd Pl,13,AM,0.5,0,4.1,3.6,0
+251,241,O,64780,SE Newport Way & 129th Pl SE,14,AM,0.2,1.6,2.7,1.5,12.8
+251,241,O,80380,Factoria Blvd SE & SE Newport Way,15,AM,0.2,0.1,2.8,1.3,0.4
+251,241,O,80390,Factoria Blvd SE & SE 41st Ln,16,AM,0.5,0,3.3,3.9,0
+251,241,O,80400,Factoria Blvd SE & SE 40th Ln,17,AM,0.4,0.2,3.5,2.9,1.3
+251,241,O,80412,Factoria Blvd SE & SE 38th St,18,AM,0.4,0.2,3.6,2.9,1.5
+251,241,O,85410,I-90 & Richards Rd,19,AM,0.8,0.2,4.2,6.2,1.4
+251,241,O,84292,South Bellevue Station Bus Plaza - Bay 3,20,AM,0.3,0.9,3.6,2.1,7.2
+251,241,O,67925,108th Ave SE & Bellevue Way SE,21,AM,0.2,0.1,3.6,1.2,0.8
+251,241,O,67939,108th Ave SE & SE 14th St,22,AM,0,0,3.3,0,0
+251,241,O,67938,108th Ave SE & SE 12th St,23,AM,0.1,0.3,3.1,0.4,2.3
+251,241,O,67935,108th Ave SE & SE 2nd St,24,AM,0.1,0,3.1,0.4,0.2
+251,241,O,85730,108th Ave NE & NE 2nd St,25,AM,0.1,1.1,2.1,0.7,7.6
+251,241,O,68001,Bellevue Transit Center - Bay 11,26,AM,0,2.2,0,0,15.1
+251,241,I,85630,Bellevue Transit Center - Bay 1,1,MID,1.9,0,1.9,22.5,0
+251,241,I,85489,108th Ave NE & NE 2nd St,2,MID,0.6,0.3,2.2,6.6,3.3
+251,241,I,67932,108th Ave SE & SE 3rd St,3,MID,0.1,0.1,2.3,1.7,0.6
+251,241,I,67943,108th Ave SE & SE 10th St,4,MID,0,0.1,2.2,0.3,0.8
+251,241,I,67944,108th Ave SE & SE 12th St,5,MID,0.1,0,2.2,0.8,0.1
+251,241,I,67947,108th Ave SE & SE 14th St,6,MID,0,0,2.2,0.1,0.1
+251,241,I,67922,108th Ave SE & Bellevue Way SE,7,MID,0.1,0.1,2.2,1.4,1.1
+251,241,I,70600,Bellevue Way SE & 108th Ave SE,8,MID,0,0,2.2,0,0.3
+251,241,I,84264,South Bellevue Station Bus Plaza - Bay 2,9,MID,1.3,0.1,3.3,15.4,1.7
+251,241,I,84270,Bellevue Way SE & 113th Ave SE,10,MID,0,0,3.4,0.3,0
+251,241,I,79868,Factoria Blvd SE & SE 38th St,11,MID,0.2,1.1,2.5,2.8,12.6
+251,241,I,79880,Factoria Blvd SE & SE 40th Ln,12,MID,0.6,1.1,2,7.4,13.7
+251,241,I,79890,Factoria Blvd SE & SE 42nd St,13,MID,0.6,0.3,2.4,7,3
+251,241,I,64845,SE Newport Way & Factoria Blvd SE,14,MID,0.3,0.2,2.4,3,2.1
+251,241,I,64769,SE Newport Way & SE 42nd Pl,15,MID,0,0.1,2.4,0.1,1
+251,241,I,64870,SE Allen Rd & SE Newport Way,16,MID,0.2,0.3,2.3,2.8,3.5
+251,241,I,64890,SE Allen Rd & 139th Ave SE,17,MID,0,0.1,2.2,0.1,1.5
+251,241,I,64900,SE Allen Rd & 140th Ave SE,18,MID,0,0.1,2.1,0.2,1.1
+251,241,I,64910,SE Allen Rd & 142nd Ave SE,19,MID,0,0.1,2,0,1.5
+251,241,I,64958,SE Allen Rd & 146th Ave SE,20,MID,0,0.3,1.8,0,3.2
+251,241,I,64956,146th Ave SE & SE Eastgate Dr,21,MID,0.1,0.4,1.6,1.6,4.5
+251,241,I,67023,142nd Pl SE & SE 36th St,22,MID,0.1,0.2,1.4,0.6,2.2
+251,241,I,79878,142nd Pl SE & SE 32nd St,23,MID,0,0.5,1,0,5.5
+251,241,I,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,24,MID,0.2,1.2,0,2,13.9
+251,241,O,67014,Eastgate Park & Ride - Bay 1,1,MID,1.1,0,1.1,13.3,0.1
+251,241,O,67022,142nd Pl SE & SE 32nd St,2,MID,0.3,0,1.4,3.8,0.2
+251,241,O,67021,142nd Pl SE & SE 36th St,3,MID,0.6,0,1.9,6.8,0.4
+251,241,O,67025,SE 36th St & 146th Ave SE,4,MID,0,0,1.9,0.4,0.1
+251,241,O,64955,146th Ave SE & SE Eastgate Dr,5,MID,0.3,0.1,2.1,4,1.5
+251,241,O,64957,SE Allen Rd & 146th Ave SE,6,MID,0.3,0,2.3,3.2,0.3
+251,241,O,64720,SE Allen Rd & 142nd Ave SE,7,MID,0,0,2.3,0.2,0.5
+251,241,O,64730,SE Allen Rd & 140th Ave SE,8,MID,0.1,0,2.4,1.3,0
+251,241,O,64740,SE Allen Rd & 139th Ave SE,9,MID,0.2,0,2.6,2.8,0.1
+251,241,O,64760,SE Allen Rd & SE Newport Way,10,MID,0.3,0,2.9,4.1,0.4
+251,241,O,65159,SE Newport Way & SE Allen Rd,11,MID,0.2,0,3.1,2.8,0.3
+251,241,O,64770,SE Newport Way & 133rd Ave SE,12,MID,0,0,3.2,0.3,0.4
+251,241,O,64768,SE Newport Way & SE 42nd Pl,13,MID,0.1,0,3.2,1.3,0.2
+251,241,O,64780,SE Newport Way & 129th Pl SE,14,MID,0.1,0.3,3,1.3,3.7
+251,241,O,80380,Factoria Blvd SE & SE Newport Way,15,MID,0.3,0.1,3.2,3,0.9
+251,241,O,80390,Factoria Blvd SE & SE 41st Ln,16,MID,0.4,0.2,3.5,5.2,2.1
+251,241,O,80400,Factoria Blvd SE & SE 40th Ln,17,MID,1.3,0.8,4,16.1,9.7
+251,241,O,80412,Factoria Blvd SE & SE 38th St,18,MID,1.1,0.4,4.7,13,5
+251,241,O,85410,I-90 & Richards Rd,19,MID,0.6,0.2,5.1,7.2,2.1
+251,241,O,84292,South Bellevue Station Bus Plaza - Bay 3,20,MID,0.2,1.2,3.9,2.3,13.7
+251,241,O,67925,108th Ave SE & Bellevue Way SE,21,MID,0.2,0.1,4,2.3,1.5
+251,241,O,67939,108th Ave SE & SE 14th St,22,MID,0,0.1,4.1,0.4,0.7
+251,241,O,67938,108th Ave SE & SE 12th St,23,MID,0.1,0.2,4.1,1.7,1.8
+251,241,O,67935,108th Ave SE & SE 2nd St,24,MID,0.2,0.1,4.2,1.8,0.9
+251,241,O,85730,108th Ave NE & NE 2nd St,25,MID,0.2,1.1,3.3,2.1,13
+251,241,O,68001,Bellevue Transit Center - Bay 11,26,MID,0,3.3,0,0,39.3
+251,241,I,85630,Bellevue Transit Center - Bay 1,1,PM,4.1,0,4.1,32.8,0
+251,241,I,85489,108th Ave NE & NE 2nd St,2,PM,1.5,0.2,5.4,12.1,1.4
+251,241,I,67932,108th Ave SE & SE 3rd St,3,PM,0.1,0.1,5.5,1.1,0.8
+251,241,I,67943,108th Ave SE & SE 10th St,4,PM,0.1,0.1,5.2,1.1,1.2
+251,241,I,67944,108th Ave SE & SE 12th St,5,PM,0,0.1,5.2,0.2,0.5
+251,241,I,67947,108th Ave SE & SE 14th St,6,PM,0,0,5.2,0,0.2
+251,241,I,67922,108th Ave SE & Bellevue Way SE,7,PM,0.1,0.2,5,0.7,2
+251,241,I,70600,Bellevue Way SE & 108th Ave SE,8,PM,0,0,5,0.1,0.1
+251,241,I,84264,South Bellevue Station Bus Plaza - Bay 2,9,PM,1.5,0.4,6.4,12.3,3.5
+251,241,I,84270,Bellevue Way SE & 113th Ave SE,10,PM,0,0,6.4,0.1,0
+251,241,I,79868,Factoria Blvd SE & SE 38th St,11,PM,0.3,1.5,5.3,2.7,11.9
+251,241,I,79880,Factoria Blvd SE & SE 40th Ln,12,PM,1,1.8,4.5,7.9,14.3
+251,241,I,79890,Factoria Blvd SE & SE 42nd St,13,PM,1.7,0.5,5.6,13.4,4.1
+251,241,I,64845,SE Newport Way & Factoria Blvd SE,14,PM,0.5,0.5,5.7,3.9,3.7
+251,241,I,64769,SE Newport Way & SE 42nd Pl,15,PM,0,0.8,4.9,0,6.3
+251,241,I,64870,SE Allen Rd & SE Newport Way,16,PM,0.2,0.9,4.3,1.7,6.8
+251,241,I,64890,SE Allen Rd & 139th Ave SE,17,PM,0,0.5,3.8,0.2,4.3
+251,241,I,64900,SE Allen Rd & 140th Ave SE,18,PM,0,0.4,3.4,0,3.3
+251,241,I,64910,SE Allen Rd & 142nd Ave SE,19,PM,0.1,0.4,3.1,0.4,2.8
+251,241,I,64958,SE Allen Rd & 146th Ave SE,20,PM,0,0.9,2.2,0.1,7.2
+251,241,I,64956,146th Ave SE & SE Eastgate Dr,21,PM,0.1,0.8,1.5,0.5,6.1
+251,241,I,67023,142nd Pl SE & SE 36th St,22,PM,0,0.1,1.4,0.1,0.9
+251,241,I,79878,142nd Pl SE & SE 32nd St,23,PM,0,0.2,1.2,0,1.4
+251,241,I,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,24,PM,0.3,1.5,0,2.2,12
+251,241,O,67014,Eastgate Park & Ride - Bay 1,1,PM,1.1,0,1.1,8.5,0.1
+251,241,O,67022,142nd Pl SE & SE 32nd St,2,PM,0.4,0,1.4,3.3,0.1
+251,241,O,67021,142nd Pl SE & SE 36th St,3,PM,0.7,0.1,2.1,5.9,0.5
+251,241,O,67025,SE 36th St & 146th Ave SE,4,PM,0.1,0,2.2,0.7,0.1
+251,241,O,64955,146th Ave SE & SE Eastgate Dr,5,PM,0.1,0.3,2,0.5,2.5
+251,241,O,64957,SE Allen Rd & 146th Ave SE,6,PM,0.2,0.1,2.1,1.8,0.8
+251,241,O,64720,SE Allen Rd & 142nd Ave SE,7,PM,0.1,0,2.2,1.1,0.1
+251,241,O,64730,SE Allen Rd & 140th Ave SE,8,PM,0.1,0.1,2.2,0.4,0.6
+251,241,O,64740,SE Allen Rd & 139th Ave SE,9,PM,0.1,0,2.2,0.5,0.2
+251,241,O,64760,SE Allen Rd & SE Newport Way,10,PM,0.5,0.1,2.6,3.9,0.9
+251,241,O,65159,SE Newport Way & SE Allen Rd,11,PM,0.2,0.1,2.7,1.4,0.4
+251,241,O,64770,SE Newport Way & 133rd Ave SE,12,PM,0.1,0.2,2.5,0.4,1.4
+251,241,O,64768,SE Newport Way & SE 42nd Pl,13,PM,0.1,0.1,2.6,0.5,0.4
+251,241,O,64780,SE Newport Way & 129th Pl SE,14,PM,0.2,0.2,2.5,1.2,1.7
+251,241,O,80380,Factoria Blvd SE & SE Newport Way,15,PM,0.2,0.1,2.5,1.2,1
+251,241,O,80390,Factoria Blvd SE & SE 41st Ln,16,PM,0.3,0.3,2.5,2.7,2.6
+251,241,O,80400,Factoria Blvd SE & SE 40th Ln,17,PM,1.9,0.8,3.8,13.3,5.5
+251,241,O,80412,Factoria Blvd SE & SE 38th St,18,PM,1.9,0.5,5.2,13.1,3.3
+251,241,O,85410,I-90 & Richards Rd,19,PM,0.8,0.2,5.8,5.9,1.3
+251,241,O,84292,South Bellevue Station Bus Plaza - Bay 3,20,PM,0.2,2.1,4,1.4,16.8
+251,241,O,67925,108th Ave SE & Bellevue Way SE,21,PM,0.1,0.1,4,0.9,1.1
+251,241,O,67939,108th Ave SE & SE 14th St,22,PM,0,0.1,4,0.1,0.4
+251,241,O,67938,108th Ave SE & SE 12th St,23,PM,0,0.1,3.9,0.2,1.1
+251,241,O,67935,108th Ave SE & SE 2nd St,24,PM,0.2,0.2,3.9,1.5,1.7
+251,241,O,85730,108th Ave NE & NE 2nd St,25,PM,0.4,1,3.2,2.8,8
+251,241,O,68001,Bellevue Transit Center - Bay 11,26,PM,0,3.2,0,0,25.8
+251,241,I,85630,Bellevue Transit Center - Bay 1,1,XEV,2.4,0,2.4,9.6,0
+251,241,I,85489,108th Ave NE & NE 2nd St,2,XEV,0.5,0.1,2.8,1.9,0.4
+251,241,I,67932,108th Ave SE & SE 3rd St,3,XEV,0,0.1,2.7,0.1,0.2
+251,241,I,67943,108th Ave SE & SE 10th St,4,XEV,0,0,2.7,0.1,0.1
+251,241,I,67944,108th Ave SE & SE 12th St,5,XEV,0,0,2.7,0,0
+251,241,I,67947,108th Ave SE & SE 14th St,6,XEV,0,0,2.7,0,0.1
+251,241,I,67922,108th Ave SE & Bellevue Way SE,7,XEV,0,0,2.6,0,0.1
+251,241,I,70600,Bellevue Way SE & 108th Ave SE,8,XEV,0,0,2.6,0.1,0.1
+251,241,I,84264,South Bellevue Station Bus Plaza - Bay 2,9,XEV,0.9,0.1,3.5,4.5,0.6
+251,241,I,84270,Bellevue Way SE & 113th Ave SE,10,XEV,0,0,3.5,0,0
+251,241,I,79868,Factoria Blvd SE & SE 38th St,11,XEV,0.3,0.9,3,1.5,4.4
+251,241,I,79880,Factoria Blvd SE & SE 40th Ln,12,XEV,0.4,0.7,2.6,2,3.7
+251,241,I,79890,Factoria Blvd SE & SE 42nd St,13,XEV,0,0.3,2.3,0.2,1.7
+251,241,I,64845,SE Newport Way & Factoria Blvd SE,14,XEV,0.1,0.2,2.1,0.3,1.2
+251,241,I,64769,SE Newport Way & SE 42nd Pl,15,XEV,0,0.3,1.9,0,1.3
+251,241,I,64870,SE Allen Rd & SE Newport Way,16,XEV,0,0.4,1.5,0.2,2
+251,241,I,64890,SE Allen Rd & 139th Ave SE,17,XEV,0,0.2,1.3,0,1
+251,241,I,64900,SE Allen Rd & 140th Ave SE,18,XEV,0,0.2,1.2,0,0.8
+251,241,I,64910,SE Allen Rd & 142nd Ave SE,19,XEV,0,0,1.1,0,0.2
+251,241,I,64958,SE Allen Rd & 146th Ave SE,20,XEV,0,0.1,1.1,0.2,0.6
+251,241,I,64956,146th Ave SE & SE Eastgate Dr,21,XEV,0,0.2,0.9,0,1.1
+251,241,I,67023,142nd Pl SE & SE 36th St,22,XEV,0,0.1,0.8,0,0.4
+251,241,I,79878,142nd Pl SE & SE 32nd St,23,XEV,0,0.1,0.7,0,0.4
+251,241,I,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,24,XEV,0.2,1,0,1.2,5
+251,241,O,67014,Eastgate Park & Ride - Bay 1,1,XEV,1.2,0,1.2,3.5,0
+251,241,O,67022,142nd Pl SE & SE 32nd St,2,XEV,0.1,0,1.2,0.4,0
+251,241,O,67021,142nd Pl SE & SE 36th St,3,XEV,0.3,0,1.5,1,0.1
+251,241,O,67025,SE 36th St & 146th Ave SE,4,XEV,0,0,1.5,0,0
+251,241,O,64955,146th Ave SE & SE Eastgate Dr,5,XEV,0,0,1.5,0,0.1
+251,241,O,64957,SE Allen Rd & 146th Ave SE,6,XEV,0.1,0,1.6,0.4,0
+251,241,O,64720,SE Allen Rd & 142nd Ave SE,7,XEV,0,0,1.6,0,0
+251,241,O,64730,SE Allen Rd & 140th Ave SE,8,XEV,0,0,1.6,0,0
+251,241,O,64740,SE Allen Rd & 139th Ave SE,9,XEV,0,0,1.6,0,0
+251,241,O,64760,SE Allen Rd & SE Newport Way,10,XEV,0,0,1.6,0.1,0.1
+251,241,O,65159,SE Newport Way & SE Allen Rd,11,XEV,0.1,0,1.7,0.3,0
+251,241,O,64770,SE Newport Way & 133rd Ave SE,12,XEV,0,0,1.6,0,0.1
+251,241,O,64768,SE Newport Way & SE 42nd Pl,13,XEV,0,0.1,1.6,0,0.2
+251,241,O,64780,SE Newport Way & 129th Pl SE,14,XEV,0,0.1,1.5,0,0.3
+251,241,O,80380,Factoria Blvd SE & SE Newport Way,15,XEV,0.2,0,1.6,0.5,0.1
+251,241,O,80390,Factoria Blvd SE & SE 41st Ln,16,XEV,0.1,0,1.7,0.2,0
+251,241,O,80400,Factoria Blvd SE & SE 40th Ln,17,XEV,1.3,0.4,2.6,5.3,1.4
+251,241,O,80412,Factoria Blvd SE & SE 38th St,18,XEV,1.7,0.3,4,6.9,1
+251,241,O,85410,I-90 & Richards Rd,19,XEV,0.2,0.2,4.1,0.9,0.6
+251,241,O,84292,South Bellevue Station Bus Plaza - Bay 3,20,XEV,0,1.7,2.4,0.1,6.8
+251,241,O,67925,108th Ave SE & Bellevue Way SE,21,XEV,0,0.1,2.4,0,0.3
+251,241,O,67939,108th Ave SE & SE 14th St,22,XEV,0,0,2.4,0,0
+251,241,O,67938,108th Ave SE & SE 12th St,23,XEV,0,0,2.4,0.1,0
+251,241,O,67935,108th Ave SE & SE 2nd St,24,XEV,0,0.1,2.4,0,0.2
+251,241,O,85730,108th Ave NE & NE 2nd St,25,XEV,0.1,0.3,2.2,0.4,1.2
+251,241,O,68001,Bellevue Transit Center - Bay 11,26,XEV,0,2.2,0,0,8.7
+251,241,I,85630,Bellevue Transit Center - Bay 1,1,XNT,1.1,0,1.1,1.1,0
+251,241,I,85489,108th Ave NE & NE 2nd St,2,XNT,0.2,0.1,1.3,0.2,0.1
+251,241,I,67932,108th Ave SE & SE 3rd St,3,XNT,0,0,1.3,0,0
+251,241,I,67943,108th Ave SE & SE 10th St,4,XNT,0,0,1.3,0,0
+251,241,I,67944,108th Ave SE & SE 12th St,5,XNT,0,0,1.3,0,0
+251,241,I,67947,108th Ave SE & SE 14th St,6,XNT,0,0,1.3,0,0
+251,241,I,67922,108th Ave SE & Bellevue Way SE,7,XNT,0,0,1.3,0,0
+251,241,I,70600,Bellevue Way SE & 108th Ave SE,8,XNT,0,0,1.3,0,0
+251,241,I,84264,South Bellevue Station Bus Plaza - Bay 2,9,XNT,0.4,0.2,1.6,0.4,0.2
+251,241,I,84270,Bellevue Way SE & 113th Ave SE,10,XNT,0,0,1.6,0,0
+251,241,I,79868,Factoria Blvd SE & SE 38th St,11,XNT,0.2,0.4,1.3,0.2,0.4
+251,241,I,79880,Factoria Blvd SE & SE 40th Ln,12,XNT,0.1,0.1,1.3,0.1,0.1
+251,241,I,79890,Factoria Blvd SE & SE 42nd St,13,XNT,0,0.1,1.2,0,0.1
+251,241,I,64845,SE Newport Way & Factoria Blvd SE,14,XNT,0,0.1,1.2,0,0.1
+251,241,I,64769,SE Newport Way & SE 42nd Pl,15,XNT,0,0,1.1,0,0
+251,241,I,64870,SE Allen Rd & SE Newport Way,16,XNT,0,0.3,0.9,0,0.3
+251,241,I,64890,SE Allen Rd & 139th Ave SE,17,XNT,0,0.1,0.8,0,0.1
+251,241,I,64900,SE Allen Rd & 140th Ave SE,18,XNT,0,0,0.8,0,0
+251,241,I,64910,SE Allen Rd & 142nd Ave SE,19,XNT,0,0,0.8,0,0
+251,241,I,64958,SE Allen Rd & 146th Ave SE,20,XNT,0,0.1,0.7,0,0.1
+251,241,I,64956,146th Ave SE & SE Eastgate Dr,21,XNT,0,0.2,0.5,0,0.2
+251,241,I,67023,142nd Pl SE & SE 36th St,22,XNT,0,0,0.5,0,0
+251,241,I,79878,142nd Pl SE & SE 32nd St,23,XNT,0,0,0.6,0,0
+251,241,I,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,24,XNT,0,0.5,0,0,0.5
+251,241,O,67014,Eastgate Park & Ride - Bay 1,1,XNT,1.9,0,1.9,1.9,0
+251,241,O,67022,142nd Pl SE & SE 32nd St,2,XNT,0,0,1.8,0,0
+251,241,O,67021,142nd Pl SE & SE 36th St,3,XNT,0.4,0,2.2,0.4,0
+251,241,O,67025,SE 36th St & 146th Ave SE,4,XNT,0,0.1,2.1,0,0.1
+251,241,O,64955,146th Ave SE & SE Eastgate Dr,5,XNT,0,0,2.1,0,0
+251,241,O,64957,SE Allen Rd & 146th Ave SE,6,XNT,0.1,0,2.1,0.1,0
+251,241,O,64720,SE Allen Rd & 142nd Ave SE,7,XNT,0,0,2.1,0,0
+251,241,O,64730,SE Allen Rd & 140th Ave SE,8,XNT,0,0,2.1,0,0
+251,241,O,64740,SE Allen Rd & 139th Ave SE,9,XNT,0,0,2.2,0,0
+251,241,O,64760,SE Allen Rd & SE Newport Way,10,XNT,0,0,2.2,0,0
+251,241,O,65159,SE Newport Way & SE Allen Rd,11,XNT,0,0.5,1.7,0,0.5
+251,241,O,64770,SE Newport Way & 133rd Ave SE,12,XNT,0,0,1.6,0,0
+251,241,O,64768,SE Newport Way & SE 42nd Pl,13,XNT,0,0,1.7,0,0
+251,241,O,64780,SE Newport Way & 129th Pl SE,14,XNT,0,0,1.6,0,0
+251,241,O,80380,Factoria Blvd SE & SE Newport Way,15,XNT,0,0,1.6,0,0
+251,241,O,80390,Factoria Blvd SE & SE 41st Ln,16,XNT,0.1,0,1.7,0.1,0
+251,241,O,80400,Factoria Blvd SE & SE 40th Ln,17,XNT,0.7,0.1,2.2,0.7,0.1
+251,241,O,80412,Factoria Blvd SE & SE 38th St,18,XNT,1.1,0.2,3.1,1.1,0.2
+251,241,O,85410,I-90 & Richards Rd,19,XNT,0.3,0.1,3.3,0.3,0.1
+251,241,O,84292,South Bellevue Station Bus Plaza - Bay 3,20,XNT,0.1,1.5,2,0.1,1.5
+251,241,O,67925,108th Ave SE & Bellevue Way SE,21,XNT,0,0.1,1.9,0,0.1
+251,241,O,67939,108th Ave SE & SE 14th St,22,XNT,0,0,1.9,0,0
+251,241,O,67938,108th Ave SE & SE 12th St,23,XNT,0,0,1.9,0,0
+251,241,O,67935,108th Ave SE & SE 2nd St,24,XNT,0,0.1,1.9,0,0.1
+251,241,O,85730,108th Ave NE & NE 2nd St,25,XNT,0.1,0.3,1.7,0.1,0.3
+251,241,O,68001,Bellevue Transit Center - Bay 11,26,XNT,0,1.7,0,0,1.7

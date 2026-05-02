@@ -1,0 +1,18 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,989,O,64840,Factoria Blvd SE & Coal Creek Pkwy SE,1,AM,5.8,0,5.8,5.8,0
+253,989,O,64870,SE Allen Rd & SE Newport Way,2,AM,0,0,5.8,0,0
+253,989,O,67015,Eastgate Park & Ride Acs & 140th Ave SE - Bay 2,3,AM,9.8,0,15.5,9.8,0
+253,989,O,67019,I-90 Expressway Ramp & 142nd Pl SE - Bay 3,4,AM,0,0,15.5,0,0
+253,989,O,64140,N Mercer Way & 80th Ave SE - Bay 1,5,AM,25.8,0,41.3,25.8,0
+253,989,O,25798,25th Ave NE & NE 80th St,6,AM,0.3,11,30.5,0.3,11
+253,989,O,75304,NE 135th St & 1st Ave NE,7,AM,5.5,26.8,9.3,5.5,26.8
+253,989,O,81294,1st Ave NE & NE 140th St,8,AM,1,8,2.3,1,8
+253,989,O,16330,Meridian Ave N & N 150th St,9,AM,0.5,2.8,0,0.5,2.8
+253,989,I,16330,Meridian Ave N & N 150th St,1,PM,0,0,0,0,0
+253,989,I,75304,NE 135th St & 1st Ave NE,2,PM,0,0,0,0,0
+253,989,I,81294,1st Ave NE & NE 140th St,3,PM,0,0,0,0,0
+253,989,I,64065,N Mercer Way & 80th Ave SE - Bay 2,4,PM,0,0,0,0,0
+253,989,I,67013,I-90 Expressway Ramp & 142nd Pl SE - Bay 4,5,PM,0,0,0,0,0
+253,989,I,67014,Eastgate Park & Ride - Bay 1,6,PM,0,0,0,0,0
+253,989,I,64760,SE Allen Rd & SE Newport Way,7,PM,0,0,0,0,0
+253,989,I,64790,Factoria Blvd SE & Coal Creek Pkwy SE,8,PM,0,0,0,0,0

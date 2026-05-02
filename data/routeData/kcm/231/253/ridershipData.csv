@@ -1,0 +1,365 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,231,I,75995,Woodinville Park And Ride,1,AM,1,0,0.9,3.8,0
+253,231,I,78002,138th Pl NE & NE 178th Pl,2,AM,0,0,1,0.1,0
+253,231,I,78000,138th Pl NE & NE 175th St,3,AM,0.1,0,1.1,0.5,0
+253,231,I,70003,140th Ave NE & NE 175th St,4,AM,0.1,0,1.2,0.4,0
+253,231,I,70004,NE 171st St & 140th Ave NE,5,AM,0.1,0,1.3,0.3,0
+253,231,I,75999,NE 171st St & 133rd Ave NE,6,AM,0.3,0,1.6,1.3,0
+253,231,I,76010,NE 175th St & 131st Ave NE,7,AM,0.2,0,1.8,0.9,0
+253,231,I,70005,NE Woodinville Dr & Brickyard Rd NE,8,AM,0.3,0,2.1,1.1,0
+253,231,I,70311,Brickyard Rd NE & E Riverside Dr,9,AM,0.2,0,2.3,0.9,0
+253,231,I,70313,Brickyard Rd NE & Woodcrest Dr NE,10,AM,0,0,2.3,0.1,0
+253,231,I,99760,Brickyard Rd NE & NE 170th Pl,11,AM,0,0,2.3,0,0
+253,231,I,70319,Brickyard Rd NE & NE 167th St,12,AM,0.1,0,2.4,0.5,0
+253,231,I,99756,Juanita Woodinville Way NE & NE 163rd Pl,13,AM,0.1,0,2.5,0.2,0.1
+253,231,I,99747,Juanita Woodinville Way NE & NE 160th St,14,AM,0,0.2,2.3,0.1,0.7
+253,231,I,70040,Juanita Woodinville Way NE & 115th Ave NE,15,AM,0,0.1,2.3,0.1,0.2
+253,231,I,70060,Juanita Woodinville Way NE & NE 149th St,16,AM,0.3,0,2.6,1.2,0
+253,231,I,70070,Juanita Woodinville Way NE & NE 145th St,17,AM,0.3,0,2.9,1.3,0
+253,231,I,70080,Juanita Woodinville Way NE & NE 143rd Pl,18,AM,0.2,0,3.1,0.7,0
+253,231,I,70090,Juanita Woodinville Way NE & NE 141st Pl,19,AM,0,0,3.1,0,0
+253,231,I,70100,Juanita Woodinville Way NE & NE 140th St,20,AM,0.1,0,3.2,0.2,0
+253,231,I,70110,Juanita Woodinville Way NE & NE 137th Pl,21,AM,0.2,0,3.4,0.9,0
+253,231,I,70120,Juanita Woodinville Way NE & NE 136th Pl,22,AM,0,0,3.4,0.1,0.1
+253,231,I,70130,100th Ave NE & NE 132nd St,23,AM,0.3,0.5,3.2,1.1,1.9
+253,231,I,70140,100th Ave NE & NE 128th St,24,AM,0.2,0,3.4,0.7,0
+253,231,I,70150,100th Ave NE & NE 124th St,25,AM,0.4,0.1,3.7,1.7,0.4
+253,231,I,70160,NE 120th Pl & NE 122nd St,26,AM,0.1,0.1,3.7,0.4,0.4
+253,231,I,70164,98th Ave NE & NE 117th St,27,AM,0.2,0.2,3.8,0.9,0.6
+253,231,I,70170,98th Ave NE & NE Juanita Dr,28,AM,0.1,0.2,3.8,0.3,0.6
+253,231,I,70320,98th Ave NE & Forbes Creek Dr,29,AM,0,0.1,3.8,0.1,0.2
+253,231,I,70330,Market St & 20th Ave W,30,AM,0.2,0,3.9,0.6,0.1
+253,231,I,74318,18th Ave & Market St,31,AM,0,0,3.9,0,0
+253,231,I,74320,18th Ave & 3rd St,32,AM,0.1,0.2,3.7,0.3,0.8
+253,231,I,74332,3rd St & 15th Ave,33,AM,0,0,3.8,0.1,0
+253,231,I,74340,3rd St & 13th Ave,34,AM,0,0,3.8,0.1,0
+253,231,I,74370,3rd St & 9th Ave,35,AM,0,0,3.8,0,0.1
+253,231,I,74380,3rd St & 7th Ave,36,AM,0,0,3.8,0,0.1
+253,231,I,74390,3rd St & 5th Ave,37,AM,0,0.1,3.6,0,0.2
+253,231,I,73813,Central Way & 3rd St,38,AM,0,1.6,2.1,0,6.5
+253,231,I,70672,Central Way & 5th St,39,AM,0,1.1,0.9,0,4.5
+253,231,I,53550,Kirkland Way & 6th St,40,AM,0,0.2,0.8,0,0.7
+253,231,I,73812,Kirkland Transit Center - Bay 1,41,AM,0.1,0.8,0,0.3,2.4
+253,231,O,73814,Kirkland Transit Center - Bay 2,1,AM,1.3,0,1.3,4,0.1
+253,231,O,74580,3rd St & 5th Ave,2,AM,0.4,0,1.7,1.1,0
+253,231,O,74590,3rd St & 7th Ave,3,AM,0.1,0,1.8,0.4,0
+253,231,O,74600,3rd St & 9th Ave,4,AM,0,0,1.9,0.1,0
+253,231,O,74610,3rd St & 10th Ave,5,AM,0,0,1.9,0,0
+253,231,O,74630,3rd St & 13th Ave,6,AM,0.1,0,2,0.3,0
+253,231,O,74640,3rd St & 15th Ave,7,AM,0,0,1.9,0,0
+253,231,O,74650,18th Ave & 3rd St,8,AM,0,0.8,1.2,0,2.4
+253,231,O,70490,Market St & 18th Ave,9,AM,0,0,1.2,0,0
+253,231,O,70500,Market St & 20th Ave,10,AM,0,0,1.2,0.1,0
+253,231,O,70510,98th Ave NE & Forbes Creek Dr,11,AM,0,0,1.2,0.1,0
+253,231,O,70180,98th Ave NE & NE 116th St,12,AM,0.3,0.1,1.5,0.9,0.2
+253,231,O,70184,98th Ave NE & NE 119th Way,13,AM,0.1,0,1.5,0.2,0
+253,231,O,70190,NE 120th Pl & 100th Ave NE,14,AM,0.2,0,1.7,0.6,0.1
+253,231,O,70200,100th Ave NE & NE 124th St,15,AM,0.1,0,1.8,0.2,0.1
+253,231,O,70210,100th Ave NE & NE 128th St,16,AM,0.2,0,1.9,0.5,0.1
+253,231,O,70220,100th Ave NE & NE 132nd St,17,AM,0.4,0.4,1.9,1.3,1.2
+253,231,O,70230,Juanita Woodinville Way NE & NE 136th Pl,18,AM,0.1,0.1,1.9,0.3,0.4
+253,231,O,70240,Juanita Woodinville Way NE & NE 137th Pl,19,AM,0,0,1.9,0,0
+253,231,O,70250,Juanita Woodinville Way NE & NE 140th St,20,AM,0,0,1.9,0,0
+253,231,O,70260,Juanita Woodinville Way NE & NE 141st Pl,21,AM,0,0,1.9,0,0.1
+253,231,O,70270,Juanita Woodinville Way NE & 108th Ave NE,22,AM,0.2,0.1,2,0.6,0.4
+253,231,O,70280,Juanita Woodinville Way NE & NE 145th St,23,AM,0.1,0,2,0.3,0.1
+253,231,O,70290,Juanita Woodinville Way NE & NE 149th St,24,AM,0.2,0,2.3,0.6,0
+253,231,O,70310,Juanita Woodinville Way NE & 115th Ave NE,25,AM,0,0.1,2.2,0,0.2
+253,231,O,99746,Juanita Woodinville Way NE & NE 160th St,26,AM,0.4,0.2,2.3,1.1,0.7
+253,231,O,70318,Juanita Woodinville Way NE & NE 163rd Pl,27,AM,0.3,0,2.6,1,0
+253,231,O,70317,Brickyard Rd NE & NE 167th St,28,AM,0,0,2.6,0,0
+253,231,O,70315,Brickyard Rd NE & NE 170th Pl,29,AM,0,0,2.6,0,0
+253,231,O,70314,Brickyard Rd NE & Woodcrest Dr NE,30,AM,0,0,2.6,0,0
+253,231,O,70312,Brickyard Rd NE & NE Woodinville Dr,31,AM,0.2,0,2.8,0.6,0
+253,231,O,70006,NE Woodinville Dr & Brickyard Rd NE,32,AM,0.6,0.1,3.3,1.7,0.2
+253,231,O,70007,131st Ave NE & NE 175th St,33,AM,0,0.7,2.6,0,2
+253,231,O,75949,NE 171st St & 133rd Ave NE,34,AM,0,0.2,2.4,0,0.6
+253,231,O,70008,140th Ave NE & NE 171st St,35,AM,0,0.7,1.7,0,2.2
+253,231,O,75993,NE 175th St & 140th Ave NE,36,AM,0,0.5,1.2,0,1.4
+253,231,O,78001,138th Pl NE & NE 175th St,37,AM,0,0.3,1,0,0.8
+253,231,O,78003,138th Pl NE & NE 178th Pl,38,AM,0,0.3,0.7,0,0.9
+253,231,O,77999,NE 178th Pl & 138th Pl NE,39,AM,0,0,0.7,0,0.1
+253,231,O,75992,Woodinville Park And Ride,40,AM,0.1,0.9,0,0.2,1.7
+253,231,I,75995,Woodinville Park And Ride,1,MID,0.9,0,0.9,5.6,0
+253,231,I,78002,138th Pl NE & NE 178th Pl,2,MID,0.4,0,1.3,2.6,0
+253,231,I,78000,138th Pl NE & NE 175th St,3,MID,0.3,0,1.6,1.6,0
+253,231,I,70003,140th Ave NE & NE 175th St,4,MID,0.3,0,1.9,2,0
+253,231,I,70004,NE 171st St & 140th Ave NE,5,MID,0.3,0,2.2,1.8,0
+253,231,I,75999,NE 171st St & 133rd Ave NE,6,MID,0.5,0.1,2.6,2.8,0.4
+253,231,I,76010,NE 175th St & 131st Ave NE,7,MID,0.4,0,3,2.3,0
+253,231,I,70005,NE Woodinville Dr & Brickyard Rd NE,8,MID,0.2,0.2,3,1.3,1.1
+253,231,I,70311,Brickyard Rd NE & E Riverside Dr,9,MID,0.1,0.1,2.9,0.3,0.8
+253,231,I,70313,Brickyard Rd NE & Woodcrest Dr NE,10,MID,0,0,2.9,0,0
+253,231,I,99760,Brickyard Rd NE & NE 170th Pl,11,MID,0,0.1,2.9,0,0.4
+253,231,I,70319,Brickyard Rd NE & NE 167th St,12,MID,0,0,2.9,0.2,0.2
+253,231,I,99756,Juanita Woodinville Way NE & NE 163rd Pl,13,MID,0.1,0,2.9,0.4,0.2
+253,231,I,99747,Juanita Woodinville Way NE & NE 160th St,14,MID,0.1,0.2,2.8,0.6,1.2
+253,231,I,70040,Juanita Woodinville Way NE & 115th Ave NE,15,MID,0.7,0.2,3.3,3.9,0.9
+253,231,I,70060,Juanita Woodinville Way NE & NE 149th St,16,MID,0.2,0,3.4,1.1,0.1
+253,231,I,70070,Juanita Woodinville Way NE & NE 145th St,17,MID,0.3,0,3.7,1.8,0.1
+253,231,I,70080,Juanita Woodinville Way NE & NE 143rd Pl,18,MID,0.2,0.1,3.8,1.2,0.7
+253,231,I,70090,Juanita Woodinville Way NE & NE 141st Pl,19,MID,0,0,3.8,0,0
+253,231,I,70100,Juanita Woodinville Way NE & NE 140th St,20,MID,0.1,0,3.9,0.8,0
+253,231,I,70110,Juanita Woodinville Way NE & NE 137th Pl,21,MID,0.1,0.2,3.8,0.4,1.2
+253,231,I,70120,Juanita Woodinville Way NE & NE 136th Pl,22,MID,0.3,0.1,4,1.9,0.5
+253,231,I,70130,100th Ave NE & NE 132nd St,23,MID,0.6,0.4,4.2,3.4,2.1
+253,231,I,70140,100th Ave NE & NE 128th St,24,MID,0.1,0,4.3,0.5,0.1
+253,231,I,70150,100th Ave NE & NE 124th St,25,MID,0.1,0.2,4.2,0.7,1
+253,231,I,70160,NE 120th Pl & NE 122nd St,26,MID,0.1,0.2,4.1,0.8,1.3
+253,231,I,70164,98th Ave NE & NE 117th St,27,MID,0.2,0.3,4.1,1.1,1.5
+253,231,I,70170,98th Ave NE & NE Juanita Dr,28,MID,0.2,0.1,4.1,0.9,0.8
+253,231,I,70320,98th Ave NE & Forbes Creek Dr,29,MID,0,0,4.2,0.2,0.2
+253,231,I,70330,Market St & 20th Ave W,30,MID,0.1,0,4.2,0.5,0.1
+253,231,I,74318,18th Ave & Market St,31,MID,0,0,4.2,0.1,0
+253,231,I,74320,18th Ave & 3rd St,32,MID,1.3,0.1,5.4,7.9,0.4
+253,231,I,74332,3rd St & 15th Ave,33,MID,0,0,5.4,0.1,0.2
+253,231,I,74340,3rd St & 13th Ave,34,MID,0,0,5.4,0.1,0.1
+253,231,I,74370,3rd St & 9th Ave,35,MID,0,0,5.4,0,0.1
+253,231,I,74380,3rd St & 7th Ave,36,MID,0,0,5.4,0,0.1
+253,231,I,74390,3rd St & 5th Ave,37,MID,0,0.1,5.3,0,0.5
+253,231,I,73813,Central Way & 3rd St,38,MID,0,1.8,3.5,0,10.7
+253,231,I,70672,Central Way & 5th St,39,MID,0,1.7,1.9,0,9.9
+253,231,I,53550,Kirkland Way & 6th St,40,MID,0,0.1,1.8,0,0.7
+253,231,I,73812,Kirkland Transit Center - Bay 1,41,MID,0.3,1.9,0,1.8,13.5
+253,231,O,73814,Kirkland Transit Center - Bay 2,1,MID,2.9,0,2.9,17.2,0.1
+253,231,O,74580,3rd St & 5th Ave,2,MID,0.1,0,3,0.5,0
+253,231,O,74590,3rd St & 7th Ave,3,MID,0,0,2.9,0,0
+253,231,O,74600,3rd St & 9th Ave,4,MID,0,0,2.9,0,0
+253,231,O,74610,3rd St & 10th Ave,5,MID,0,0,3,0,0
+253,231,O,74630,3rd St & 13th Ave,6,MID,0,0,2.9,0,0.2
+253,231,O,74640,3rd St & 15th Ave,7,MID,0,0,2.9,0,0.2
+253,231,O,74650,18th Ave & 3rd St,8,MID,0.1,0.2,2.8,0.3,0.9
+253,231,O,70490,Market St & 18th Ave,9,MID,0,0.1,2.7,0.1,0.3
+253,231,O,70500,Market St & 20th Ave,10,MID,0,0,2.8,0.1,0.1
+253,231,O,70510,98th Ave NE & Forbes Creek Dr,11,MID,0,0,2.7,0,0
+253,231,O,70180,98th Ave NE & NE 116th St,12,MID,0.5,0.2,3.1,3.1,1
+253,231,O,70184,98th Ave NE & NE 119th Way,13,MID,0.2,0.1,3.3,1.4,0.4
+253,231,O,70190,NE 120th Pl & 100th Ave NE,14,MID,0.2,0.1,3.4,1,0.3
+253,231,O,70200,100th Ave NE & NE 124th St,15,MID,0.3,0.1,3.7,2,0.5
+253,231,O,70210,100th Ave NE & NE 128th St,16,MID,0.1,0.1,3.7,0.6,0.5
+253,231,O,70220,100th Ave NE & NE 132nd St,17,MID,0.5,0.5,3.7,2.9,2.7
+253,231,O,70230,Juanita Woodinville Way NE & NE 136th Pl,18,MID,0.2,0.7,3.2,1,4.2
+253,231,O,70240,Juanita Woodinville Way NE & NE 137th Pl,19,MID,0,0,3.2,0.2,0.1
+253,231,O,70250,Juanita Woodinville Way NE & NE 140th St,20,MID,0.1,0.1,3.2,0.5,0.7
+253,231,O,70260,Juanita Woodinville Way NE & NE 141st Pl,21,MID,0,0,3.2,0,0
+253,231,O,70270,Juanita Woodinville Way NE & 108th Ave NE,22,MID,0.1,0.1,3.2,0.4,0.7
+253,231,O,70280,Juanita Woodinville Way NE & NE 145th St,23,MID,0.1,0.2,3,0.5,1.4
+253,231,O,70290,Juanita Woodinville Way NE & NE 149th St,24,MID,0.1,0.1,3.1,0.6,0.3
+253,231,O,70310,Juanita Woodinville Way NE & 115th Ave NE,25,MID,0.1,0.1,3.1,0.5,0.6
+253,231,O,99746,Juanita Woodinville Way NE & NE 160th St,26,MID,0.3,0.2,3.1,1.5,1.2
+253,231,O,70318,Juanita Woodinville Way NE & NE 163rd Pl,27,MID,0.1,0.1,3.2,0.5,0.3
+253,231,O,70317,Brickyard Rd NE & NE 167th St,28,MID,0,0,3.2,0,0
+253,231,O,70315,Brickyard Rd NE & NE 170th Pl,29,MID,0.1,0,3.2,0.5,0.1
+253,231,O,70314,Brickyard Rd NE & Woodcrest Dr NE,30,MID,0,0,3.2,0,0
+253,231,O,70312,Brickyard Rd NE & NE Woodinville Dr,31,MID,0.2,0.1,3.4,1.3,0.4
+253,231,O,70006,NE Woodinville Dr & Brickyard Rd NE,32,MID,0.2,0.1,3.5,1.3,0.4
+253,231,O,70007,131st Ave NE & NE 175th St,33,MID,0,0.4,3.2,0,2.4
+253,231,O,75949,NE 171st St & 133rd Ave NE,34,MID,0.1,0.2,3.1,0.8,1.2
+253,231,O,70008,140th Ave NE & NE 171st St,35,MID,0,0.4,2.7,0,2.4
+253,231,O,75993,NE 175th St & 140th Ave NE,36,MID,0,0.7,2,0,4.1
+253,231,O,78001,138th Pl NE & NE 175th St,37,MID,0,0.6,1.5,0,3.3
+253,231,O,78003,138th Pl NE & NE 178th Pl,38,MID,0,0.5,1,0,2.7
+253,231,O,77999,NE 178th Pl & 138th Pl NE,39,MID,0,0.1,1,0,0.6
+253,231,O,75992,Woodinville Park And Ride,40,MID,0.1,1,0,0.9,7.2
+253,231,I,75995,Woodinville Park And Ride,1,PM,0.9,0,0.9,3.7,0
+253,231,I,78002,138th Pl NE & NE 178th Pl,2,PM,0.6,0,1.5,2.5,0.1
+253,231,I,78000,138th Pl NE & NE 175th St,3,PM,0.4,0,1.9,1.5,0
+253,231,I,70003,140th Ave NE & NE 175th St,4,PM,0.4,0,2.3,1.7,0
+253,231,I,70004,NE 171st St & 140th Ave NE,5,PM,0.6,0,2.8,2.2,0
+253,231,I,75999,NE 171st St & 133rd Ave NE,6,PM,0.3,0.1,3,1.1,0.5
+253,231,I,76010,NE 175th St & 131st Ave NE,7,PM,0.5,0,3.5,2.1,0
+253,231,I,70005,NE Woodinville Dr & Brickyard Rd NE,8,PM,0.1,0.2,3.4,0.5,0.9
+253,231,I,70311,Brickyard Rd NE & E Riverside Dr,9,PM,0.1,0.2,3.2,0.3,0.9
+253,231,I,70313,Brickyard Rd NE & Woodcrest Dr NE,10,PM,0,0,3.2,0,0
+253,231,I,99760,Brickyard Rd NE & NE 170th Pl,11,PM,0,0.1,3.1,0,0.3
+253,231,I,70319,Brickyard Rd NE & NE 167th St,12,PM,0,0,3.1,0,0
+253,231,I,99756,Juanita Woodinville Way NE & NE 163rd Pl,13,PM,0,0.1,3.1,0.1,0.4
+253,231,I,99747,Juanita Woodinville Way NE & NE 160th St,14,PM,0.1,0.4,2.8,0.5,1.4
+253,231,I,70040,Juanita Woodinville Way NE & 115th Ave NE,15,PM,0.4,0.2,3,1.4,0.8
+253,231,I,70060,Juanita Woodinville Way NE & NE 149th St,16,PM,0.2,0.2,2.9,0.7,0.8
+253,231,I,70070,Juanita Woodinville Way NE & NE 145th St,17,PM,0.1,0.1,3,0.5,0.2
+253,231,I,70080,Juanita Woodinville Way NE & NE 143rd Pl,18,PM,0.1,0.1,3.1,0.4,0.2
+253,231,I,70090,Juanita Woodinville Way NE & NE 141st Pl,19,PM,0,0,3.1,0.1,0
+253,231,I,70100,Juanita Woodinville Way NE & NE 140th St,20,PM,0.1,0,3.2,0.5,0.1
+253,231,I,70110,Juanita Woodinville Way NE & NE 137th Pl,21,PM,0.1,0.2,3.2,0.3,0.6
+253,231,I,70120,Juanita Woodinville Way NE & NE 136th Pl,22,PM,0.5,0.1,3.5,1.8,0.5
+253,231,I,70130,100th Ave NE & NE 132nd St,23,PM,0.7,0.3,3.8,2.6,1.1
+253,231,I,70140,100th Ave NE & NE 128th St,24,PM,0.1,0,3.8,0.2,0
+253,231,I,70150,100th Ave NE & NE 124th St,25,PM,0.1,0.2,3.7,0.4,0.8
+253,231,I,70160,NE 120th Pl & NE 122nd St,26,PM,0.1,0.4,3.4,0.4,1.4
+253,231,I,70164,98th Ave NE & NE 117th St,27,PM,0.2,0.4,3.3,0.7,1.5
+253,231,I,70170,98th Ave NE & NE Juanita Dr,28,PM,0.2,0.2,3.3,0.8,0.6
+253,231,I,70320,98th Ave NE & Forbes Creek Dr,29,PM,0.1,0,3.3,0.2,0
+253,231,I,70330,Market St & 20th Ave W,30,PM,0,0.1,3.2,0,0.3
+253,231,I,74318,18th Ave & Market St,31,PM,0,0.1,3.2,0,0.2
+253,231,I,74320,18th Ave & 3rd St,32,PM,0.1,0,3.2,0.4,0.1
+253,231,I,74332,3rd St & 15th Ave,33,PM,0,0,3.3,0,0
+253,231,I,74340,3rd St & 13th Ave,34,PM,0,0,3.3,0,0
+253,231,I,74370,3rd St & 9th Ave,35,PM,0,0,3.3,0,0
+253,231,I,74380,3rd St & 7th Ave,36,PM,0,0,3.2,0,0
+253,231,I,74390,3rd St & 5th Ave,37,PM,0,0.1,3.2,0,0.4
+253,231,I,73813,Central Way & 3rd St,38,PM,0,1.3,1.9,0,5.3
+253,231,I,70672,Central Way & 5th St,39,PM,0,0.7,1.2,0.1,2.6
+253,231,I,53550,Kirkland Way & 6th St,40,PM,0,0.2,1.1,0,0.6
+253,231,I,73812,Kirkland Transit Center - Bay 1,41,PM,0.1,1.3,0,0.5,5
+253,231,O,73814,Kirkland Transit Center - Bay 2,1,PM,5.8,0,5.8,23,0
+253,231,O,74580,3rd St & 5th Ave,2,PM,0.2,0,5.8,0.6,0.1
+253,231,O,74590,3rd St & 7th Ave,3,PM,0,0,5.9,0.1,0
+253,231,O,74600,3rd St & 9th Ave,4,PM,0,0,5.9,0,0.1
+253,231,O,74610,3rd St & 10th Ave,5,PM,0,0,5.9,0,0
+253,231,O,74630,3rd St & 13th Ave,6,PM,0,0.1,5.8,0,0.4
+253,231,O,74640,3rd St & 15th Ave,7,PM,0,0.1,5.7,0,0.3
+253,231,O,74650,18th Ave & 3rd St,8,PM,0.1,0.5,5.2,0.2,2.1
+253,231,O,70490,Market St & 18th Ave,9,PM,0,0.1,5.2,0.1,0.4
+253,231,O,70500,Market St & 20th Ave,10,PM,0,0,5.2,0.1,0.1
+253,231,O,70510,98th Ave NE & Forbes Creek Dr,11,PM,0,0.1,5.1,0,0.3
+253,231,O,70180,98th Ave NE & NE 116th St,12,PM,0.5,0.3,5.3,1.8,1.1
+253,231,O,70184,98th Ave NE & NE 119th Way,13,PM,0.2,0.3,5.3,0.9,1.1
+253,231,O,70190,NE 120th Pl & 100th Ave NE,14,PM,0.2,0.1,5.3,0.6,0.5
+253,231,O,70200,100th Ave NE & NE 124th St,15,PM,0.2,0.2,5.3,0.7,0.7
+253,231,O,70210,100th Ave NE & NE 128th St,16,PM,0.1,0.3,5.1,0.2,1.1
+253,231,O,70220,100th Ave NE & NE 132nd St,17,PM,0.3,0.6,4.8,1.3,2.4
+253,231,O,70230,Juanita Woodinville Way NE & NE 136th Pl,18,PM,0.2,1,4.1,0.8,3.8
+253,231,O,70240,Juanita Woodinville Way NE & NE 137th Pl,19,PM,0,0.1,4.1,0,0.2
+253,231,O,70250,Juanita Woodinville Way NE & NE 140th St,20,PM,0,0.2,3.9,0,0.8
+253,231,O,70260,Juanita Woodinville Way NE & NE 141st Pl,21,PM,0,0.1,3.9,0,0.3
+253,231,O,70270,Juanita Woodinville Way NE & 108th Ave NE,22,PM,0.2,0.4,3.7,0.7,1.7
+253,231,O,70280,Juanita Woodinville Way NE & NE 145th St,23,PM,0,0.5,3.2,0.1,2.1
+253,231,O,70290,Juanita Woodinville Way NE & NE 149th St,24,PM,0,0.1,3.1,0.1,0.5
+253,231,O,70310,Juanita Woodinville Way NE & 115th Ave NE,25,PM,0.1,0.2,3,0.3,0.8
+253,231,O,99746,Juanita Woodinville Way NE & NE 160th St,26,PM,0.2,0.4,2.7,0.6,1.6
+253,231,O,70318,Juanita Woodinville Way NE & NE 163rd Pl,27,PM,0,0.1,2.7,0.1,0.3
+253,231,O,70317,Brickyard Rd NE & NE 167th St,28,PM,0,0.2,2.5,0,0.6
+253,231,O,70315,Brickyard Rd NE & NE 170th Pl,29,PM,0,0.2,2.4,0.1,0.7
+253,231,O,70314,Brickyard Rd NE & Woodcrest Dr NE,30,PM,0,0,2.4,0,0.1
+253,231,O,70312,Brickyard Rd NE & NE Woodinville Dr,31,PM,0.1,0.1,2.4,0.5,0.4
+253,231,O,70006,NE Woodinville Dr & Brickyard Rd NE,32,PM,0.2,0.1,2.5,0.9,0.4
+253,231,O,70007,131st Ave NE & NE 175th St,33,PM,0,0.3,2.2,0.1,1.2
+253,231,O,75949,NE 171st St & 133rd Ave NE,34,PM,0.1,0.3,2.1,0.5,1.1
+253,231,O,70008,140th Ave NE & NE 171st St,35,PM,0,0.3,1.8,0,1
+253,231,O,75993,NE 175th St & 140th Ave NE,36,PM,0,0.3,1.6,0,1
+253,231,O,78001,138th Pl NE & NE 175th St,37,PM,0,0.3,1.2,0,1.3
+253,231,O,78003,138th Pl NE & NE 178th Pl,38,PM,0,0.3,1,0,1.1
+253,231,O,77999,NE 178th Pl & 138th Pl NE,39,PM,0,0.1,1,0,0.3
+253,231,O,75992,Woodinville Park And Ride,40,PM,0,1.1,0,0.1,3.4
+253,231,I,75995,Woodinville Park And Ride,1,XEV,0.6,0,0.6,1.8,0
+253,231,I,78002,138th Pl NE & NE 178th Pl,2,XEV,0.6,0,1.1,1.7,0
+253,231,I,78000,138th Pl NE & NE 175th St,3,XEV,0.5,0,1.7,1.6,0
+253,231,I,70003,140th Ave NE & NE 175th St,4,XEV,0.2,0,1.9,0.7,0
+253,231,I,70004,NE 171st St & 140th Ave NE,5,XEV,0.3,0,2.2,1,0
+253,231,I,75999,NE 171st St & 133rd Ave NE,6,XEV,0.4,0.1,2.5,1.2,0.3
+253,231,I,76010,NE 175th St & 131st Ave NE,7,XEV,0.3,0,2.8,0.8,0
+253,231,I,70005,NE Woodinville Dr & Brickyard Rd NE,8,XEV,0.1,0.1,2.8,0.2,0.2
+253,231,I,70311,Brickyard Rd NE & E Riverside Dr,9,XEV,0,0,2.7,0,0.1
+253,231,I,70313,Brickyard Rd NE & Woodcrest Dr NE,10,XEV,0,0,2.7,0,0
+253,231,I,99760,Brickyard Rd NE & NE 170th Pl,11,XEV,0,0.1,2.6,0,0.2
+253,231,I,70319,Brickyard Rd NE & NE 167th St,12,XEV,0,0.2,2.5,0,0.5
+253,231,I,99756,Juanita Woodinville Way NE & NE 163rd Pl,13,XEV,0,0,2.5,0,0
+253,231,I,99747,Juanita Woodinville Way NE & NE 160th St,14,XEV,0,0.2,2.3,0,0.5
+253,231,I,70040,Juanita Woodinville Way NE & 115th Ave NE,15,XEV,0.1,0.1,2.3,0.2,0.3
+253,231,I,70060,Juanita Woodinville Way NE & NE 149th St,16,XEV,0,0,2.3,0,0
+253,231,I,70070,Juanita Woodinville Way NE & NE 145th St,17,XEV,0.1,0,2.3,0.2,0
+253,231,I,70080,Juanita Woodinville Way NE & NE 143rd Pl,18,XEV,0,0,2.3,0,0
+253,231,I,70090,Juanita Woodinville Way NE & NE 141st Pl,19,XEV,0,0,2.3,0,0
+253,231,I,70100,Juanita Woodinville Way NE & NE 140th St,20,XEV,0,0,2.3,0,0
+253,231,I,70110,Juanita Woodinville Way NE & NE 137th Pl,21,XEV,0,0.1,2.2,0,0.2
+253,231,I,70120,Juanita Woodinville Way NE & NE 136th Pl,22,XEV,0.1,0,2.4,0.4,0
+253,231,I,70130,100th Ave NE & NE 132nd St,23,XEV,0.2,0.1,2.4,0.6,0.3
+253,231,I,70140,100th Ave NE & NE 128th St,24,XEV,0,0,2.4,0,0
+253,231,I,70150,100th Ave NE & NE 124th St,25,XEV,0.1,0.2,2.3,0.2,0.6
+253,231,I,70160,NE 120th Pl & NE 122nd St,26,XEV,0,0.1,2.1,0.1,0.4
+253,231,I,70164,98th Ave NE & NE 117th St,27,XEV,0.1,0.2,2,0.3,0.7
+253,231,I,70170,98th Ave NE & NE Juanita Dr,28,XEV,0.1,0,2.1,0.2,0.1
+253,231,I,70320,98th Ave NE & Forbes Creek Dr,29,XEV,0,0,2.1,0,0
+253,231,I,70330,Market St & 20th Ave W,30,XEV,0,0,2.1,0,0
+253,231,I,74318,18th Ave & Market St,31,XEV,0,0,2.1,0,0
+253,231,I,74320,18th Ave & 3rd St,32,XEV,0.1,0,2.1,0.2,0
+253,231,I,74332,3rd St & 15th Ave,33,XEV,0,0,2.1,0,0
+253,231,I,74340,3rd St & 13th Ave,34,XEV,0,0,2.1,0,0
+253,231,I,74370,3rd St & 9th Ave,35,XEV,0,0,2.1,0,0
+253,231,I,74380,3rd St & 7th Ave,36,XEV,0,0,2.2,0.1,0
+253,231,I,74390,3rd St & 5th Ave,37,XEV,0,0,2.2,0,0
+253,231,I,73813,Central Way & 3rd St,38,XEV,0,0.9,1.3,0.1,2.7
+253,231,I,70672,Central Way & 5th St,39,XEV,0,0.2,1.1,0,0.6
+253,231,I,53550,Kirkland Way & 6th St,40,XEV,0,0,1,0,0.1
+253,231,I,73812,Kirkland Transit Center - Bay 1,41,XEV,0.2,1.3,0,0.6,3.8
+253,231,O,73814,Kirkland Transit Center - Bay 2,1,XEV,2.8,0,2.7,8.3,0.1
+253,231,O,74580,3rd St & 5th Ave,2,XEV,0.1,0,2.8,0.2,0
+253,231,O,74590,3rd St & 7th Ave,3,XEV,0,0,2.8,0,0
+253,231,O,74600,3rd St & 9th Ave,4,XEV,0,0,2.8,0,0
+253,231,O,74610,3rd St & 10th Ave,5,XEV,0,0,2.8,0,0
+253,231,O,74630,3rd St & 13th Ave,6,XEV,0,0,2.8,0,0
+253,231,O,74640,3rd St & 15th Ave,7,XEV,0,0,2.8,0,0
+253,231,O,74650,18th Ave & 3rd St,8,XEV,0,0.1,2.7,0,0.4
+253,231,O,70490,Market St & 18th Ave,9,XEV,0,0,2.6,0,0
+253,231,O,70500,Market St & 20th Ave,10,XEV,0,0,2.6,0,0
+253,231,O,70510,98th Ave NE & Forbes Creek Dr,11,XEV,0,0,2.6,0,0.1
+253,231,O,70180,98th Ave NE & NE 116th St,12,XEV,0.2,0.2,2.6,0.5,0.6
+253,231,O,70184,98th Ave NE & NE 119th Way,13,XEV,0.1,0.1,2.5,0.3,0.4
+253,231,O,70190,NE 120th Pl & 100th Ave NE,14,XEV,0.1,0.3,2.3,0.2,0.8
+253,231,O,70200,100th Ave NE & NE 124th St,15,XEV,0.1,0.3,2.1,0.2,0.8
+253,231,O,70210,100th Ave NE & NE 128th St,16,XEV,0,0.1,2,0,0.2
+253,231,O,70220,100th Ave NE & NE 132nd St,17,XEV,0.2,0.2,2,0.7,0.7
+253,231,O,70230,Juanita Woodinville Way NE & NE 136th Pl,18,XEV,0.3,0.3,2,0.9,0.8
+253,231,O,70240,Juanita Woodinville Way NE & NE 137th Pl,19,XEV,0,0,2,0,0
+253,231,O,70250,Juanita Woodinville Way NE & NE 140th St,20,XEV,0,0.1,1.9,0,0.3
+253,231,O,70260,Juanita Woodinville Way NE & NE 141st Pl,21,XEV,0,0,1.9,0,0
+253,231,O,70270,Juanita Woodinville Way NE & 108th Ave NE,22,XEV,0,0.1,1.8,0,0.4
+253,231,O,70280,Juanita Woodinville Way NE & NE 145th St,23,XEV,0.1,0.1,1.7,0.2,0.4
+253,231,O,70290,Juanita Woodinville Way NE & NE 149th St,24,XEV,0,0,1.7,0,0
+253,231,O,70310,Juanita Woodinville Way NE & 115th Ave NE,25,XEV,0,0.1,1.7,0,0.3
+253,231,O,99746,Juanita Woodinville Way NE & NE 160th St,26,XEV,0,0.3,1.4,0,0.8
+253,231,O,70318,Juanita Woodinville Way NE & NE 163rd Pl,27,XEV,0,0,1.4,0,0.1
+253,231,O,70317,Brickyard Rd NE & NE 167th St,28,XEV,0,0.1,1.3,0,0.2
+253,231,O,70315,Brickyard Rd NE & NE 170th Pl,29,XEV,0,0,1.3,0,0
+253,231,O,70314,Brickyard Rd NE & Woodcrest Dr NE,30,XEV,0,0,1.3,0,0
+253,231,O,70312,Brickyard Rd NE & NE Woodinville Dr,31,XEV,0,0,1.3,0.1,0.1
+253,231,O,70006,NE Woodinville Dr & Brickyard Rd NE,32,XEV,0,0.2,1.1,0,0.6
+253,231,O,70007,131st Ave NE & NE 175th St,33,XEV,0,0.2,0.9,0,0.5
+253,231,O,75949,NE 171st St & 133rd Ave NE,34,XEV,0,0.1,0.8,0,0.4
+253,231,O,70008,140th Ave NE & NE 171st St,35,XEV,0,0.1,0.7,0,0.4
+253,231,O,75993,NE 175th St & 140th Ave NE,36,XEV,0,0.1,0.7,0,0.2
+253,231,O,78001,138th Pl NE & NE 175th St,37,XEV,0,0.1,0.6,0,0.3
+253,231,O,78003,138th Pl NE & NE 178th Pl,38,XEV,0,0,0.5,0,0.1
+253,231,O,77999,NE 178th Pl & 138th Pl NE,39,XEV,0,0,0.5,0,0
+253,231,O,75992,Woodinville Park And Ride,40,XEV,0.2,0.7,0,0.6,2.6
+253,231,O,73814,Kirkland Transit Center - Bay 2,1,XNT,2.2,0,2.2,2.2,0
+253,231,O,74580,3rd St & 5th Ave,2,XNT,0,0,2.2,0,0
+253,231,O,74590,3rd St & 7th Ave,3,XNT,0,0,2.2,0,0
+253,231,O,74600,3rd St & 9th Ave,4,XNT,0,0,2.2,0,0
+253,231,O,74610,3rd St & 10th Ave,5,XNT,0,0,2.2,0,0
+253,231,O,74630,3rd St & 13th Ave,6,XNT,0,0,2.2,0,0
+253,231,O,74640,3rd St & 15th Ave,7,XNT,0,0,2.2,0,0
+253,231,O,74650,18th Ave & 3rd St,8,XNT,0,0,2.2,0,0
+253,231,O,70490,Market St & 18th Ave,9,XNT,0,0.1,2.1,0,0.1
+253,231,O,70500,Market St & 20th Ave,10,XNT,0,0,2.1,0,0
+253,231,O,70510,98th Ave NE & Forbes Creek Dr,11,XNT,0,0,2.1,0,0
+253,231,O,70180,98th Ave NE & NE 116th St,12,XNT,0.1,0.1,2.2,0.1,0.1
+253,231,O,70184,98th Ave NE & NE 119th Way,13,XNT,0,0.1,2.1,0,0.1
+253,231,O,70190,NE 120th Pl & 100th Ave NE,14,XNT,0.1,0.2,2,0.1,0.2
+253,231,O,70200,100th Ave NE & NE 124th St,15,XNT,0.1,0.2,1.8,0.1,0.2
+253,231,O,70210,100th Ave NE & NE 128th St,16,XNT,0,0,1.8,0,0
+253,231,O,70220,100th Ave NE & NE 132nd St,17,XNT,0.1,0.1,1.8,0.1,0.1
+253,231,O,70230,Juanita Woodinville Way NE & NE 136th Pl,18,XNT,0,0.1,1.7,0,0.1
+253,231,O,70240,Juanita Woodinville Way NE & NE 137th Pl,19,XNT,0,0,1.7,0,0
+253,231,O,70250,Juanita Woodinville Way NE & NE 140th St,20,XNT,0,0,1.7,0,0
+253,231,O,70260,Juanita Woodinville Way NE & NE 141st Pl,21,XNT,0,0,1.7,0,0
+253,231,O,70270,Juanita Woodinville Way NE & 108th Ave NE,22,XNT,0,0.1,1.6,0,0.1
+253,231,O,70280,Juanita Woodinville Way NE & NE 145th St,23,XNT,0,0.1,1.5,0,0.1
+253,231,O,70290,Juanita Woodinville Way NE & NE 149th St,24,XNT,0,0,1.5,0,0
+253,231,O,70310,Juanita Woodinville Way NE & 115th Ave NE,25,XNT,0,1.1,0.4,0,1.1
+253,231,O,99746,Juanita Woodinville Way NE & NE 160th St,26,XNT,0,0,0.4,0,0
+253,231,O,70318,Juanita Woodinville Way NE & NE 163rd Pl,27,XNT,0,0,0.4,0,0
+253,231,O,70317,Brickyard Rd NE & NE 167th St,28,XNT,0,0,0.4,0,0
+253,231,O,70315,Brickyard Rd NE & NE 170th Pl,29,XNT,0,0,0.4,0,0
+253,231,O,70314,Brickyard Rd NE & Woodcrest Dr NE,30,XNT,0,0,0.4,0,0
+253,231,O,70312,Brickyard Rd NE & NE Woodinville Dr,31,XNT,0,0.1,0.3,0,0.1
+253,231,O,70006,NE Woodinville Dr & Brickyard Rd NE,32,XNT,0,0.1,0.2,0,0.1
+253,231,O,70007,131st Ave NE & NE 175th St,33,XNT,0,0,0.2,0,0
+253,231,O,75949,NE 171st St & 133rd Ave NE,34,XNT,0,0,0.1,0,0
+253,231,O,70008,140th Ave NE & NE 171st St,35,XNT,0,0,0.1,0,0
+253,231,O,75993,NE 175th St & 140th Ave NE,36,XNT,0,0,0.1,0,0
+253,231,O,78001,138th Pl NE & NE 175th St,37,XNT,0,0,0.1,0,0
+253,231,O,78003,138th Pl NE & NE 178th Pl,38,XNT,0,0,0,0,0
+253,231,O,77999,NE 178th Pl & 138th Pl NE,39,XNT,0,0,0,0,0
+253,231,O,75992,Woodinville Park And Ride,40,XNT,0,0.1,0,0,0.1

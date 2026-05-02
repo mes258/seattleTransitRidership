@@ -1,0 +1,345 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,22,I,22264,35th Ave SW & SW Roxbury St,1,AM,0.3,0,0.3,0.9,0
+253,22,I,22280,SW 100th St & 35th Ave SW,2,AM,0,0,0.3,0.1,0
+253,22,I,22290,SW 100th St & 37th Ave SW,3,AM,0.1,0,0.4,0.3,0
+253,22,I,22300,SW 100th St & 39th Ave SW,4,AM,0.1,0,0.5,0.3,0
+253,22,I,22320,SW 100th St & 41st Ave SW,5,AM,0,0,0.5,0.1,0
+253,22,I,22330,SW 100th St & 42nd Ave SW,6,AM,0,0,0.5,0.1,0
+253,22,I,22340,44th Ave SW & SW 100th St,7,AM,0.1,0,0.6,0.2,0
+253,22,I,22360,44th Ave SW & Marine View Dr SW,8,AM,0.7,0,1.3,2.1,0
+253,22,I,22370,Marine View Dr SW & SW 104th St,9,AM,0,0,1.3,0,0
+253,22,I,22380,SW 106th St & California Ave SW,10,AM,0,0,1.3,0.1,0
+253,22,I,22390,SW 106th St & 41st Ave SW,11,AM,0,0,1.3,0,0
+253,22,I,22400,SW 106th St & 39th Ave SW,12,AM,0.4,0,1.8,1.3,0
+253,22,I,22410,39th Ave SW & Marine View Dr SW,13,AM,0.7,0,2.4,2.1,0
+253,22,I,22420,Marine View Dr SW & SW 110th St,14,AM,0.9,0,3.3,2.6,0
+253,22,I,22430,Marine View Dr SW & SW 112th St,15,AM,0,0,3.3,0.1,0
+253,22,I,22440,Marine View Dr SW & SW Ocean View Dr,16,AM,0,0,3.3,0,0
+253,22,I,22450,Marine View Dr SW & SW Ocean View Dr,17,AM,0,0,3.3,0,0
+253,22,I,22460,35th Ave SW & 37th Ave SW,18,AM,0.2,0,3.5,0.6,0
+253,22,I,22470,35th Ave SW & SW 114th St,19,AM,0.2,0,3.7,0.6,0.1
+253,22,I,22480,35th Ave SW & SW 112th St,20,AM,0.6,0,4.2,1.7,0.1
+253,22,I,22490,35th Ave SW & SW 110th St,21,AM,0,0,4.2,0,0
+253,22,I,22500,35th Ave SW & SW 108th St,22,AM,0.1,0,4.3,0.4,0
+253,22,I,85203,SW 106th St & 35th Ave SW,23,AM,0.3,0,4.6,0.8,0
+253,22,I,85205,SW 106th St & Seola Beach Dr SW,24,AM,0.2,0,4.8,0.7,0
+253,22,I,85210,26th Ave SW & SW 106th St,25,AM,0.5,0,5.3,1.4,0
+253,22,I,85220,26th Ave SW & SW 104th St,26,AM,0.1,0,5.4,0.3,0
+253,22,I,85230,26th Ave SW & SW 100th St,27,AM,0,0.1,5.3,0,0.3
+253,22,I,31731,26th Ave SW & SW Barton St - Bay 2,28,AM,0.3,0.9,4.7,0.9,2.6
+253,22,I,31736,SW Barton Pl & 22nd Ave SW,29,AM,0.1,0.1,4.8,0.4,0.3
+253,22,I,22184,Delridge Way SW & SW Henderson St,30,AM,2.7,0.1,7.4,8,0.2
+253,22,I,39420,SW Thistle St & Delridge Way SW,31,AM,0.1,0,7.5,0.3,0
+253,22,I,39428,SW Thistle St & 25th Ave SW,32,AM,0.2,6.1,1.6,0.6,18.2
+253,22,I,39429,SW Thistle St & 28th Ave SW,33,AM,0,0,1.6,0,0.1
+253,22,I,39438,SW Thistle St & 31st Ave SW,34,AM,0.1,0,1.7,0.4,0
+253,22,I,39439,SW Thistle St & 34th Ave SW,35,AM,0,0,1.7,0,0
+253,22,I,39440,SW Thistle St & 35th Ave SW,36,AM,0,0,1.7,0,0
+253,22,I,39441,SW Thistle St & 37th Ave SW,37,AM,0,0,1.7,0.1,0
+253,22,I,39442,SW Thistle St & 39th Ave SW,38,AM,0,0,1.7,0,0
+253,22,I,39443,SW Thistle St & 41st Ave SW,39,AM,0,0,1.7,0,0
+253,22,I,39445,41st Ave SW & SW Rose St,40,AM,0.2,0.1,1.9,0.7,0.2
+253,22,I,39446,41st Ave SW & SW Elmgrove St,41,AM,0.2,0,2.1,0.6,0
+253,22,I,39447,41st Ave SW & SW Kenyon St,42,AM,0.2,0,2.2,0.5,0
+253,22,I,39448,41st Ave SW & SW Holden St,43,AM,0.1,0,2.3,0.3,0
+253,22,I,39450,SW Ida St & California Ave SW,44,AM,0.1,0,2.4,0.3,0
+253,22,I,39451,California Ave SW & SW Austin St,45,AM,0,0,2.4,0.1,0
+253,22,I,39452,California Ave SW & SW Fontanelle St,46,AM,0,0,2.4,0,0
+253,22,I,39453,California Ave SW & SW Othello St,47,AM,0,0,2.4,0,0
+253,22,I,39454,California Ave SW & SW Myrtle St,48,AM,0,0.1,2.4,0.1,0.3
+253,22,I,39455,California Ave SW & SW Mills St,49,AM,0,0,2.4,0,0
+253,22,I,39456,California Ave SW & SW Holly St,50,AM,0,0.1,2.4,0.1,0.2
+253,22,I,19790,California Ave SW & Fauntleroy Way SW,51,AM,0.1,0.5,2.1,0.4,1.4
+253,22,I,19810,California Ave SW & SW Raymond St,52,AM,0.1,0.1,2,0.2,0.3
+253,22,I,19830,California Ave SW & SW Findlay St,53,AM,0.1,0.3,1.9,0.3,0.8
+253,22,I,19850,California Ave SW & SW Dawson St,54,AM,0,0.1,1.7,0,0.4
+253,22,I,19861,SW Edmunds St & 44th Ave SW,55,AM,0,0.1,1.8,0,0.4
+253,22,I,36390,44th Ave SW & SW Alaska St - Bay 6,56,AM,0,1.8,0,0,5.3
+253,22,O,36390,44th Ave SW & SW Alaska St - Bay 6,1,AM,0.6,0,0.6,1.2,0
+253,22,O,31818,SW Oregon St & California Ave SW,2,AM,0.4,0.1,0.8,0.7,0.1
+253,22,O,20050,California Ave SW & Erskine Way SW,3,AM,0.2,0.1,0.9,0.4,0.2
+253,22,O,20070,California Ave SW & SW Dawson St,4,AM,0.3,0,1.2,0.6,0
+253,22,O,20090,California Ave SW & SW Findlay St,5,AM,0.4,0,1.5,0.7,0
+253,22,O,20110,California Ave SW & SW Raymond St,6,AM,0.2,0,1.6,0.3,0
+253,22,O,39790,California Ave SW & Fauntleroy Way SW,7,AM,0.4,0.1,1.9,0.7,0.1
+253,22,O,39800,California Ave SW & SW Willow St,8,AM,0.1,0.1,1.9,0.1,0.1
+253,22,O,39810,California Ave SW & SW Myrtle St,9,AM,0.3,0.1,2.2,0.5,0.1
+253,22,O,39820,California Ave SW & SW Othello St,10,AM,0,0,2.2,0,0
+253,22,O,39830,California Ave SW & SW Webster St,11,AM,0,0,2.2,0,0
+253,22,O,39840,SW Ida St & California Ave SW,12,AM,0,0,2.2,0,0
+253,22,O,39850,SW Ida St & 41st Ave SW,13,AM,0,0,2.1,0,0
+253,22,O,39860,41st Ave SW & SW Portland St,14,AM,0,0,2.1,0,0
+253,22,O,39870,41st Ave SW & SW Monroe St,15,AM,0,0,2.1,0,0
+253,22,O,39880,41st Ave SW & SW Southern St,16,AM,0.1,0,2.3,0.2,0
+253,22,O,39890,SW Thistle St & 41st Ave SW,17,AM,0.1,0,2.3,0.1,0
+253,22,O,39900,SW Thistle St & 39th Ave SW,18,AM,0,0,2.3,0,0
+253,22,O,39910,SW Thistle St & 37th Ave SW,19,AM,0,0,2.3,0,0
+253,22,O,39920,SW Thistle St & 35th Ave SW,20,AM,0.1,0,2.4,0.2,0
+253,22,O,39930,SW Thistle St & 34th Ave SW,21,AM,0,0,2.4,0,0
+253,22,O,39940,SW Thistle St & 31st Ave SW,22,AM,0.1,0,2.5,0.2,0
+253,22,O,39955,SW Thistle St & 28th Ave SW,23,AM,0.5,0.1,2.8,0.9,0.2
+253,22,O,39965,SW Thistle St & 25th Ave SW,24,AM,0,1.3,1.6,0,2.5
+253,22,O,22165,Delridge Way SW & SW Thistle St,25,AM,0.2,0.2,1.6,0.3,0.3
+253,22,O,22174,Delridge Way SW & SW Henderson St,26,AM,0.7,0,2.2,1.3,0
+253,22,O,39983,SW Barton St & 25th Ave SW - Bay 3,27,AM,0.5,0.6,2.1,1,1.2
+253,22,O,22260,SW Roxbury St & 28th Ave SW,28,AM,0.1,0,2.1,0.1,0
+253,22,O,22261,SW Roxbury St & 30th Ave SW,29,AM,0,0,2.1,0,0
+253,22,O,22264,35th Ave SW & SW Roxbury St,30,AM,0,2.1,0,0,4.2
+253,22,I,22264,35th Ave SW & SW Roxbury St,1,MID,0.1,0,0.1,0.6,0
+253,22,I,22280,SW 100th St & 35th Ave SW,2,MID,0.1,0,0.2,0.3,0.2
+253,22,I,22290,SW 100th St & 37th Ave SW,3,MID,0.4,0.1,0.4,2,0.6
+253,22,I,22300,SW 100th St & 39th Ave SW,4,MID,0.2,0.1,0.6,1.1,0.5
+253,22,I,22320,SW 100th St & 41st Ave SW,5,MID,0.2,0,0.8,1,0.1
+253,22,I,22330,SW 100th St & 42nd Ave SW,6,MID,0.1,0,0.9,0.7,0.2
+253,22,I,22340,44th Ave SW & SW 100th St,7,MID,0.1,0,0.9,0.5,0
+253,22,I,22360,44th Ave SW & Marine View Dr SW,8,MID,0,0,1,0,0
+253,22,I,22370,Marine View Dr SW & SW 104th St,9,MID,0,0,1,0.1,0
+253,22,I,22380,SW 106th St & California Ave SW,10,MID,0,0,1,0.2,0.1
+253,22,I,22390,SW 106th St & 41st Ave SW,11,MID,0.1,0,1.1,0.5,0
+253,22,I,22400,SW 106th St & 39th Ave SW,12,MID,0.1,0,1.2,0.3,0
+253,22,I,22410,39th Ave SW & Marine View Dr SW,13,MID,0.1,0,1.2,0.4,0.2
+253,22,I,22420,Marine View Dr SW & SW 110th St,14,MID,0,0,1.3,0.2,0
+253,22,I,22430,Marine View Dr SW & SW 112th St,15,MID,0,0,1.2,0,0.1
+253,22,I,22440,Marine View Dr SW & SW Ocean View Dr,16,MID,0.2,0,1.4,0.9,0
+253,22,I,22450,Marine View Dr SW & SW Ocean View Dr,17,MID,0,0,1.4,0,0
+253,22,I,22460,35th Ave SW & 37th Ave SW,18,MID,0.1,0,1.5,0.4,0
+253,22,I,22470,35th Ave SW & SW 114th St,19,MID,0.1,0,1.6,0.3,0
+253,22,I,22480,35th Ave SW & SW 112th St,20,MID,0.3,0,1.8,1.5,0.2
+253,22,I,22490,35th Ave SW & SW 110th St,21,MID,0,0,1.8,0,0.1
+253,22,I,22500,35th Ave SW & SW 108th St,22,MID,0.1,0,1.9,0.5,0
+253,22,I,85203,SW 106th St & 35th Ave SW,23,MID,0.1,0.1,2,0.7,0.3
+253,22,I,85205,SW 106th St & Seola Beach Dr SW,24,MID,0.1,0,2.1,0.6,0
+253,22,I,85210,26th Ave SW & SW 106th St,25,MID,0.2,0.1,2.2,1.1,0.3
+253,22,I,85220,26th Ave SW & SW 104th St,26,MID,0.1,0,2.3,0.6,0
+253,22,I,85230,26th Ave SW & SW 100th St,27,MID,0,0,2.3,0,0
+253,22,I,31731,26th Ave SW & SW Barton St - Bay 2,28,MID,0.8,0.9,2.2,4,4.7
+253,22,I,31736,SW Barton Pl & 22nd Ave SW,29,MID,0.1,0.1,2.2,0.3,0.3
+253,22,I,22184,Delridge Way SW & SW Henderson St,30,MID,0.3,0.1,2.4,1.7,0.7
+253,22,I,39420,SW Thistle St & Delridge Way SW,31,MID,0.2,0,2.6,0.8,0.1
+253,22,I,39428,SW Thistle St & 25th Ave SW,32,MID,0.6,0.8,2.4,3.2,3.9
+253,22,I,39429,SW Thistle St & 28th Ave SW,33,MID,0.9,0.2,3.1,4.3,0.8
+253,22,I,39438,SW Thistle St & 31st Ave SW,34,MID,0,0,3.2,0.1,0
+253,22,I,39439,SW Thistle St & 34th Ave SW,35,MID,0,0.1,3.1,0,0.4
+253,22,I,39440,SW Thistle St & 35th Ave SW,36,MID,0,0.2,2.9,0,1.1
+253,22,I,39441,SW Thistle St & 37th Ave SW,37,MID,0,0,2.9,0,0.1
+253,22,I,39442,SW Thistle St & 39th Ave SW,38,MID,0.1,0,2.9,0.5,0.2
+253,22,I,39443,SW Thistle St & 41st Ave SW,39,MID,0,0,3,0,0
+253,22,I,39445,41st Ave SW & SW Rose St,40,MID,0.1,0,3,0.6,0.1
+253,22,I,39446,41st Ave SW & SW Elmgrove St,41,MID,0.1,0,3.1,0.5,0
+253,22,I,39447,41st Ave SW & SW Kenyon St,42,MID,0.1,0,3.2,0.4,0
+253,22,I,39448,41st Ave SW & SW Holden St,43,MID,0.1,0,3.2,0.3,0
+253,22,I,39450,SW Ida St & California Ave SW,44,MID,0.1,0,3.3,0.3,0.1
+253,22,I,39451,California Ave SW & SW Austin St,45,MID,0,0,3.3,0,0
+253,22,I,39452,California Ave SW & SW Fontanelle St,46,MID,0,0,3.3,0,0
+253,22,I,39453,California Ave SW & SW Othello St,47,MID,0,0,3.3,0,0
+253,22,I,39454,California Ave SW & SW Myrtle St,48,MID,0.1,0.3,3.1,0.5,1.4
+253,22,I,39455,California Ave SW & SW Mills St,49,MID,0,0,3.1,0.1,0
+253,22,I,39456,California Ave SW & SW Holly St,50,MID,0.1,0.2,3,0.3,0.8
+253,22,I,19790,California Ave SW & Fauntleroy Way SW,51,MID,0.3,0.2,3.1,1.7,1
+253,22,I,19810,California Ave SW & SW Raymond St,52,MID,0.1,0.1,3.1,0.4,0.5
+253,22,I,19830,California Ave SW & SW Findlay St,53,MID,0.1,0.2,3,0.3,0.8
+253,22,I,19850,California Ave SW & SW Dawson St,54,MID,0,0.2,2.9,0.1,1.1
+253,22,I,19861,SW Edmunds St & 44th Ave SW,55,MID,0,0.3,2.6,0,1.4
+253,22,I,36390,44th Ave SW & SW Alaska St - Bay 6,56,MID,0,2.8,0,0,11.1
+253,22,O,36390,44th Ave SW & SW Alaska St - Bay 6,1,MID,1.5,0,1.5,7.3,0
+253,22,O,31818,SW Oregon St & California Ave SW,2,MID,0.2,0.1,1.5,0.9,0.3
+253,22,O,20050,California Ave SW & Erskine Way SW,3,MID,0.2,0,1.7,1.2,0.1
+253,22,O,20070,California Ave SW & SW Dawson St,4,MID,0.2,0,1.9,0.9,0.1
+253,22,O,20090,California Ave SW & SW Findlay St,5,MID,0.1,0.1,2,0.7,0.3
+253,22,O,20110,California Ave SW & SW Raymond St,6,MID,0,0.1,2,0.2,0.4
+253,22,O,39790,California Ave SW & Fauntleroy Way SW,7,MID,0.2,0.1,2,1,0.7
+253,22,O,39800,California Ave SW & SW Willow St,8,MID,0.1,0,2.1,0.4,0.1
+253,22,O,39810,California Ave SW & SW Myrtle St,9,MID,0.1,0.1,2,0.7,0.7
+253,22,O,39820,California Ave SW & SW Othello St,10,MID,0,0,2.1,0,0
+253,22,O,39830,California Ave SW & SW Webster St,11,MID,0,0.2,1.9,0,0.8
+253,22,O,39840,SW Ida St & California Ave SW,12,MID,0,0,1.8,0,0.2
+253,22,O,39850,SW Ida St & 41st Ave SW,13,MID,0,0.1,1.7,0,0.4
+253,22,O,39860,41st Ave SW & SW Portland St,14,MID,0,0,1.7,0,0.2
+253,22,O,39870,41st Ave SW & SW Monroe St,15,MID,0,0.1,1.6,0,0.6
+253,22,O,39880,41st Ave SW & SW Southern St,16,MID,0,0.1,1.5,0.1,0.4
+253,22,O,39890,SW Thistle St & 41st Ave SW,17,MID,0,0,1.5,0,0.2
+253,22,O,39900,SW Thistle St & 39th Ave SW,18,MID,0,0.1,1.4,0,0.6
+253,22,O,39910,SW Thistle St & 37th Ave SW,19,MID,0,0,1.4,0,0
+253,22,O,39920,SW Thistle St & 35th Ave SW,20,MID,0,0,1.4,0,0
+253,22,O,39930,SW Thistle St & 34th Ave SW,21,MID,0,0,1.4,0,0
+253,22,O,39940,SW Thistle St & 31st Ave SW,22,MID,0,0,1.4,0,0.1
+253,22,O,39955,SW Thistle St & 28th Ave SW,23,MID,0.2,0.7,0.8,1.1,3.7
+253,22,O,39965,SW Thistle St & 25th Ave SW,24,MID,0.5,0.2,1.1,2.6,0.8
+253,22,O,22165,Delridge Way SW & SW Thistle St,25,MID,0.1,0.2,1,0.3,1.1
+253,22,O,22174,Delridge Way SW & SW Henderson St,26,MID,0.2,0.2,1,1.2,0.8
+253,22,O,39983,SW Barton St & 25th Ave SW - Bay 3,27,MID,0.2,0.7,0.5,1.2,3.7
+253,22,O,22260,SW Roxbury St & 28th Ave SW,28,MID,0.1,0.2,0.4,0.4,1.2
+253,22,O,22261,SW Roxbury St & 30th Ave SW,29,MID,0,0,0.4,0,0
+253,22,O,22264,35th Ave SW & SW Roxbury St,30,MID,0,0.4,0,0,2
+253,22,I,22264,35th Ave SW & SW Roxbury St,1,PM,0.5,0,0.5,1.4,0
+253,22,I,22280,SW 100th St & 35th Ave SW,2,PM,0,0,0.5,0.1,0.1
+253,22,I,22290,SW 100th St & 37th Ave SW,3,PM,0.1,0,0.5,0.3,0
+253,22,I,22300,SW 100th St & 39th Ave SW,4,PM,0.2,0.1,0.7,0.7,0.2
+253,22,I,22320,SW 100th St & 41st Ave SW,5,PM,0,0.2,0.7,0.1,0.5
+253,22,I,22330,SW 100th St & 42nd Ave SW,6,PM,0.1,0.1,0.8,0.4,0.2
+253,22,I,22340,44th Ave SW & SW 100th St,7,PM,0,0,0.8,0.1,0
+253,22,I,22360,44th Ave SW & Marine View Dr SW,8,PM,0.1,0,0.8,0.2,0
+253,22,I,22370,Marine View Dr SW & SW 104th St,9,PM,0,0,0.8,0,0
+253,22,I,22380,SW 106th St & California Ave SW,10,PM,0,0,0.8,0,0
+253,22,I,22390,SW 106th St & 41st Ave SW,11,PM,0.1,0.1,0.9,0.4,0.2
+253,22,I,22400,SW 106th St & 39th Ave SW,12,PM,0.1,0.1,0.9,0.2,0.2
+253,22,I,22410,39th Ave SW & Marine View Dr SW,13,PM,0.2,0.1,1,0.7,0.4
+253,22,I,22420,Marine View Dr SW & SW 110th St,14,PM,0.1,0.1,1,0.2,0.2
+253,22,I,22430,Marine View Dr SW & SW 112th St,15,PM,0,0.1,0.9,0.1,0.4
+253,22,I,22440,Marine View Dr SW & SW Ocean View Dr,16,PM,0,0,0.9,0.1,0
+253,22,I,22450,Marine View Dr SW & SW Ocean View Dr,17,PM,0,0,0.9,0,0
+253,22,I,22460,35th Ave SW & 37th Ave SW,18,PM,0,0,0.8,0,0.1
+253,22,I,22470,35th Ave SW & SW 114th St,19,PM,0,0,0.9,0.1,0.1
+253,22,I,22480,35th Ave SW & SW 112th St,20,PM,0,0,0.9,0.1,0.1
+253,22,I,22490,35th Ave SW & SW 110th St,21,PM,0.1,0,0.9,0.3,0
+253,22,I,22500,35th Ave SW & SW 108th St,22,PM,0.1,0.1,1,0.3,0.2
+253,22,I,85203,SW 106th St & 35th Ave SW,23,PM,0.2,0,1.2,0.5,0
+253,22,I,85205,SW 106th St & Seola Beach Dr SW,24,PM,0.1,0,1.2,0.2,0.1
+253,22,I,85210,26th Ave SW & SW 106th St,25,PM,0.2,0.1,1.3,0.6,0.3
+253,22,I,85220,26th Ave SW & SW 104th St,26,PM,0.1,0,1.3,0.2,0
+253,22,I,85230,26th Ave SW & SW 100th St,27,PM,0,0,1.3,0,0.1
+253,22,I,31731,26th Ave SW & SW Barton St - Bay 2,28,PM,0.9,0.8,1.4,2.8,2.5
+253,22,I,31736,SW Barton Pl & 22nd Ave SW,29,PM,0,0,1.4,0.1,0.1
+253,22,I,22184,Delridge Way SW & SW Henderson St,30,PM,0.3,0.2,1.5,0.8,0.6
+253,22,I,39420,SW Thistle St & Delridge Way SW,31,PM,0.1,0,1.5,0.2,0.1
+253,22,I,39428,SW Thistle St & 25th Ave SW,32,PM,1.5,0.1,2.9,4.5,0.2
+253,22,I,39429,SW Thistle St & 28th Ave SW,33,PM,0.5,0.3,3.2,1.6,0.8
+253,22,I,39438,SW Thistle St & 31st Ave SW,34,PM,0,0,3.2,0.1,0.1
+253,22,I,39439,SW Thistle St & 34th Ave SW,35,PM,0,0.2,3,0.1,0.6
+253,22,I,39440,SW Thistle St & 35th Ave SW,36,PM,0,0.4,2.6,0.1,1.3
+253,22,I,39441,SW Thistle St & 37th Ave SW,37,PM,0,0.2,2.5,0,0.6
+253,22,I,39442,SW Thistle St & 39th Ave SW,38,PM,0,0.2,2.3,0.1,0.6
+253,22,I,39443,SW Thistle St & 41st Ave SW,39,PM,0,0,2.3,0,0
+253,22,I,39445,41st Ave SW & SW Rose St,40,PM,0,0.1,2.2,0,0.2
+253,22,I,39446,41st Ave SW & SW Elmgrove St,41,PM,0.1,0,2.3,0.3,0
+253,22,I,39447,41st Ave SW & SW Kenyon St,42,PM,0,0,2.3,0,0
+253,22,I,39448,41st Ave SW & SW Holden St,43,PM,0.1,0,2.3,0.2,0.1
+253,22,I,39450,SW Ida St & California Ave SW,44,PM,0.1,0,2.3,0.2,0.1
+253,22,I,39451,California Ave SW & SW Austin St,45,PM,0,0.1,2.3,0.1,0.2
+253,22,I,39452,California Ave SW & SW Fontanelle St,46,PM,0,0,2.3,0,0
+253,22,I,39453,California Ave SW & SW Othello St,47,PM,0,0,2.3,0,0
+253,22,I,39454,California Ave SW & SW Myrtle St,48,PM,0.1,0.1,2.3,0.2,0.4
+253,22,I,39455,California Ave SW & SW Mills St,49,PM,0,0,2.3,0,0
+253,22,I,39456,California Ave SW & SW Holly St,50,PM,0.1,0.2,2.2,0.3,0.6
+253,22,I,19790,California Ave SW & Fauntleroy Way SW,51,PM,0.3,0.3,2.2,0.9,0.8
+253,22,I,19810,California Ave SW & SW Raymond St,52,PM,0,0.2,2.1,0.1,0.5
+253,22,I,19830,California Ave SW & SW Findlay St,53,PM,0.1,0.1,2.1,0.4,0.2
+253,22,I,19850,California Ave SW & SW Dawson St,54,PM,0,0.2,2,0.1,0.6
+253,22,I,19861,SW Edmunds St & 44th Ave SW,55,PM,0,0.3,1.7,0,0.8
+253,22,I,36390,44th Ave SW & SW Alaska St - Bay 6,56,PM,0,1.9,0,0,7.5
+253,22,O,36390,44th Ave SW & SW Alaska St - Bay 6,1,PM,1.7,0,1.7,6.6,0
+253,22,O,31818,SW Oregon St & California Ave SW,2,PM,0.3,0,1.8,1,0.1
+253,22,O,20050,California Ave SW & Erskine Way SW,3,PM,0.4,0,2.2,1.7,0
+253,22,O,20070,California Ave SW & SW Dawson St,4,PM,0.2,0,2.4,0.9,0.1
+253,22,O,20090,California Ave SW & SW Findlay St,5,PM,0.5,0.1,2.8,1.9,0.2
+253,22,O,20110,California Ave SW & SW Raymond St,6,PM,0.1,0.2,2.7,0.2,0.6
+253,22,O,39790,California Ave SW & Fauntleroy Way SW,7,PM,0.6,0.2,3.4,1.9,0.7
+253,22,O,39800,California Ave SW & SW Willow St,8,PM,0,0,3.5,0,0
+253,22,O,39810,California Ave SW & SW Myrtle St,9,PM,0.2,0.1,3.6,0.6,0.3
+253,22,O,39820,California Ave SW & SW Othello St,10,PM,0,0,3.5,0,0.1
+253,22,O,39830,California Ave SW & SW Webster St,11,PM,0,0.1,3.5,0,0.2
+253,22,O,39840,SW Ida St & California Ave SW,12,PM,0,0.4,3.1,0,1.1
+253,22,O,39850,SW Ida St & 41st Ave SW,13,PM,0,0.4,2.7,0,1.1
+253,22,O,39860,41st Ave SW & SW Portland St,14,PM,0,0.3,2.4,0,0.8
+253,22,O,39870,41st Ave SW & SW Monroe St,15,PM,0,0.3,2.1,0,1
+253,22,O,39880,41st Ave SW & SW Southern St,16,PM,0,0.2,1.9,0,0.6
+253,22,O,39890,SW Thistle St & 41st Ave SW,17,PM,0,0.1,1.8,0.1,0.4
+253,22,O,39900,SW Thistle St & 39th Ave SW,18,PM,0,0.3,1.5,0,0.8
+253,22,O,39910,SW Thistle St & 37th Ave SW,19,PM,0,0.1,1.4,0,0.4
+253,22,O,39920,SW Thistle St & 35th Ave SW,20,PM,0,0,1.4,0.1,0
+253,22,O,39930,SW Thistle St & 34th Ave SW,21,PM,0,0.1,1.3,0.1,0.3
+253,22,O,39940,SW Thistle St & 31st Ave SW,22,PM,0,0.1,1.2,0,0.4
+253,22,O,39955,SW Thistle St & 28th Ave SW,23,PM,0.8,1,1,2.5,3
+253,22,O,39965,SW Thistle St & 25th Ave SW,24,PM,0.6,0.1,1.6,1.7,0.2
+253,22,O,22165,Delridge Way SW & SW Thistle St,25,PM,0.1,0.4,1.2,0.2,1.2
+253,22,O,22174,Delridge Way SW & SW Henderson St,26,PM,0.2,0.5,1,0.7,1.4
+253,22,O,39983,SW Barton St & 25th Ave SW - Bay 3,27,PM,0.3,0.6,0.7,1,1.9
+253,22,O,22260,SW Roxbury St & 28th Ave SW,28,PM,0.1,0.3,0.4,0.3,1
+253,22,O,22261,SW Roxbury St & 30th Ave SW,29,PM,0,0.1,0.4,0,0.2
+253,22,O,22264,35th Ave SW & SW Roxbury St,30,PM,0,0.4,0,0,1.1
+253,22,I,22264,35th Ave SW & SW Roxbury St,1,XEV,0.1,0,0.1,0.3,0
+253,22,I,22280,SW 100th St & 35th Ave SW,2,XEV,0,0,0.1,0,0
+253,22,I,22290,SW 100th St & 37th Ave SW,3,XEV,0,0,0.1,0,0
+253,22,I,22300,SW 100th St & 39th Ave SW,4,XEV,0.1,0,0.1,0.2,0
+253,22,I,22320,SW 100th St & 41st Ave SW,5,XEV,0,0,0.1,0,0
+253,22,I,22330,SW 100th St & 42nd Ave SW,6,XEV,0,0,0.1,0.1,0
+253,22,I,22340,44th Ave SW & SW 100th St,7,XEV,0,0,0.1,0,0
+253,22,I,22360,44th Ave SW & Marine View Dr SW,8,XEV,0,0,0.1,0,0
+253,22,I,22370,Marine View Dr SW & SW 104th St,9,XEV,0,0,0.2,0.1,0
+253,22,I,22380,SW 106th St & California Ave SW,10,XEV,0,0,0.2,0,0.1
+253,22,I,22390,SW 106th St & 41st Ave SW,11,XEV,0,0,0.2,0,0
+253,22,I,22400,SW 106th St & 39th Ave SW,12,XEV,0,0,0.2,0,0
+253,22,I,22410,39th Ave SW & Marine View Dr SW,13,XEV,0,0,0.2,0.1,0
+253,22,I,22420,Marine View Dr SW & SW 110th St,14,XEV,0,0,0.3,0.1,0
+253,22,I,22430,Marine View Dr SW & SW 112th St,15,XEV,0,0,0.3,0,0
+253,22,I,22440,Marine View Dr SW & SW Ocean View Dr,16,XEV,0,0,0.2,0,0
+253,22,I,22450,Marine View Dr SW & SW Ocean View Dr,17,XEV,0,0,0.2,0,0
+253,22,I,22460,35th Ave SW & 37th Ave SW,18,XEV,0,0,0.3,0.1,0
+253,22,I,22470,35th Ave SW & SW 114th St,19,XEV,0,0,0.3,0,0
+253,22,I,22480,35th Ave SW & SW 112th St,20,XEV,0,0,0.3,0.1,0
+253,22,I,22490,35th Ave SW & SW 110th St,21,XEV,0,0,0.3,0,0
+253,22,I,22500,35th Ave SW & SW 108th St,22,XEV,0.2,0,0.4,0.5,0
+253,22,I,85203,SW 106th St & 35th Ave SW,23,XEV,0,0,0.4,0,0.1
+253,22,I,85205,SW 106th St & Seola Beach Dr SW,24,XEV,0,0,0.4,0.1,0
+253,22,I,85210,26th Ave SW & SW 106th St,25,XEV,0,0,0.4,0,0
+253,22,I,85220,26th Ave SW & SW 104th St,26,XEV,0,0,0.4,0,0
+253,22,I,85230,26th Ave SW & SW 100th St,27,XEV,0,0,0.5,0,0
+253,22,I,31731,26th Ave SW & SW Barton St - Bay 2,28,XEV,0.6,0.5,0.8,1.1,0.9
+253,22,I,31736,SW Barton Pl & 22nd Ave SW,29,XEV,0,0.1,0.8,0,0.1
+253,22,I,22184,Delridge Way SW & SW Henderson St,30,XEV,0.1,0.1,0.8,0.1,0.2
+253,22,I,39420,SW Thistle St & Delridge Way SW,31,XEV,0.1,0.1,0.8,0.2,0.1
+253,22,I,39428,SW Thistle St & 25th Ave SW,32,XEV,0.2,0.1,0.9,0.3,0.1
+253,22,I,39429,SW Thistle St & 28th Ave SW,33,XEV,0.3,0.1,1,0.5,0.2
+253,22,I,39438,SW Thistle St & 31st Ave SW,34,XEV,0.1,0,1.1,0.1,0
+253,22,I,39439,SW Thistle St & 34th Ave SW,35,XEV,0,0,1.1,0,0
+253,22,I,39440,SW Thistle St & 35th Ave SW,36,XEV,0.1,0.1,1,0.1,0.1
+253,22,I,39441,SW Thistle St & 37th Ave SW,37,XEV,0,0,1,0,0
+253,22,I,39442,SW Thistle St & 39th Ave SW,38,XEV,0.1,0,1.1,0.1,0
+253,22,I,39443,SW Thistle St & 41st Ave SW,39,XEV,0,0,1,0,0
+253,22,I,39445,41st Ave SW & SW Rose St,40,XEV,0,0,1,0,0
+253,22,I,39446,41st Ave SW & SW Elmgrove St,41,XEV,0,0,1,0,0
+253,22,I,39447,41st Ave SW & SW Kenyon St,42,XEV,0,0,1.1,0,0
+253,22,I,39448,41st Ave SW & SW Holden St,43,XEV,0,0,1.1,0,0
+253,22,I,39450,SW Ida St & California Ave SW,44,XEV,0,0,1.1,0,0
+253,22,I,39451,California Ave SW & SW Austin St,45,XEV,0,0,1.1,0,0
+253,22,I,39452,California Ave SW & SW Fontanelle St,46,XEV,0,0,1.1,0,0
+253,22,I,39453,California Ave SW & SW Othello St,47,XEV,0,0,1.1,0,0
+253,22,I,39454,California Ave SW & SW Myrtle St,48,XEV,0,0,1.1,0,0
+253,22,I,39455,California Ave SW & SW Mills St,49,XEV,0,0,1.1,0,0
+253,22,I,39456,California Ave SW & SW Holly St,50,XEV,0.1,0.1,1.1,0.2,0.2
+253,22,I,19790,California Ave SW & Fauntleroy Way SW,51,XEV,0.3,0,1.3,0.5,0
+253,22,I,19810,California Ave SW & SW Raymond St,52,XEV,0,0.1,1.2,0,0.1
+253,22,I,19830,California Ave SW & SW Findlay St,53,XEV,0.1,0.1,1.3,0.1,0.1
+253,22,I,19850,California Ave SW & SW Dawson St,54,XEV,0,0.2,1.1,0,0.4
+253,22,I,19861,SW Edmunds St & 44th Ave SW,55,XEV,0,0.1,1,0,0.2
+253,22,I,36390,44th Ave SW & SW Alaska St - Bay 6,56,XEV,0,1,0,0,2
+253,22,O,36390,44th Ave SW & SW Alaska St - Bay 6,1,XEV,0.7,0,0.7,1.4,0
+253,22,O,31818,SW Oregon St & California Ave SW,2,XEV,0.2,0,0.9,0.4,0
+253,22,O,20050,California Ave SW & Erskine Way SW,3,XEV,0.3,0,1.2,0.5,0
+253,22,O,20070,California Ave SW & SW Dawson St,4,XEV,0.1,0,1.1,0.1,0
+253,22,O,20090,California Ave SW & SW Findlay St,5,XEV,0.2,0,1.3,0.3,0
+253,22,O,20110,California Ave SW & SW Raymond St,6,XEV,0,0.2,1.1,0,0.3
+253,22,O,39790,California Ave SW & Fauntleroy Way SW,7,XEV,0.2,0.1,1.5,0.7,0.2
+253,22,O,39800,California Ave SW & SW Willow St,8,XEV,0,0,1.5,0,0.1
+253,22,O,39810,California Ave SW & SW Myrtle St,9,XEV,0,0,1.5,0,0
+253,22,O,39820,California Ave SW & SW Othello St,10,XEV,0,0.1,1.4,0,0.2
+253,22,O,39830,California Ave SW & SW Webster St,11,XEV,0,0,1.4,0,0
+253,22,O,39840,SW Ida St & California Ave SW,12,XEV,0,0.1,1.4,0,0.2
+253,22,O,39850,SW Ida St & 41st Ave SW,13,XEV,0,0,1.4,0,0
+253,22,O,39860,41st Ave SW & SW Portland St,14,XEV,0,0,1.3,0,0.1
+253,22,O,39870,41st Ave SW & SW Monroe St,15,XEV,0,0.1,1.2,0,0.4
+253,22,O,39880,41st Ave SW & SW Southern St,16,XEV,0,0.1,1.1,0,0.3
+253,22,O,39890,SW Thistle St & 41st Ave SW,17,XEV,0,0,1.1,0,0
+253,22,O,39900,SW Thistle St & 39th Ave SW,18,XEV,0,0.1,1,0,0.3
+253,22,O,39910,SW Thistle St & 37th Ave SW,19,XEV,0,0,0.9,0,0.1
+253,22,O,39920,SW Thistle St & 35th Ave SW,20,XEV,0,0,0.9,0,0
+253,22,O,39930,SW Thistle St & 34th Ave SW,21,XEV,0,0,0.9,0,0
+253,22,O,39940,SW Thistle St & 31st Ave SW,22,XEV,0,0,0.9,0,0.1
+253,22,O,39955,SW Thistle St & 28th Ave SW,23,XEV,0.2,0.3,0.8,0.6,1
+253,22,O,39965,SW Thistle St & 25th Ave SW,24,XEV,0.2,0.1,0.9,0.5,0.2
+253,22,O,22165,Delridge Way SW & SW Thistle St,25,XEV,0.1,0.1,0.8,0.2,0.4
+253,22,O,22174,Delridge Way SW & SW Henderson St,26,XEV,0.1,0.3,0.5,0.2,1
+253,22,O,39983,SW Barton St & 25th Ave SW - Bay 3,27,XEV,0.2,0.3,0.3,0.5,0.9
+253,22,O,22260,SW Roxbury St & 28th Ave SW,28,XEV,0.1,0.1,0.4,0.4,0.3
+253,22,O,22261,SW Roxbury St & 30th Ave SW,29,XEV,0,0.2,0.3,0,0.5
+253,22,O,22264,35th Ave SW & SW Roxbury St,30,XEV,0,0.3,0,0,0.8

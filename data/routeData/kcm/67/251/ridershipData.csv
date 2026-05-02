@@ -1,0 +1,281 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+251,67,I,35317,Northgate Station - Bay 1,1,AM,1.2,0,1.2,19.1,0.1
+251,67,I,23750,5th Ave NE & NE 103rd St,2,AM,0.1,0,1.2,1.8,0.3
+251,67,I,23770,5th Ave NE & NE 106th St,3,AM,0.1,0,1.3,2.3,0.7
+251,67,I,81364,NE Northgate Way & 5th Ave NE,4,AM,1.5,0.4,2.5,23.6,5.8
+251,67,I,82205,Roosevelt Way NE & NE 108th St,5,AM,1.3,0.2,3.6,20.8,3.4
+251,67,I,82207,Roosevelt Way NE & NE 105th St,6,AM,0.4,0,3.9,6.3,0.7
+251,67,I,82216,Roosevelt Way NE & NE 102nd St,7,AM,0.4,0.1,4.1,6,2.1
+251,67,I,82227,Roosevelt Way NE & NE 95th St,8,AM,0.6,0.6,4.2,9.9,9.3
+251,67,I,82235,Roosevelt Way NE & NE 92nd St,9,AM,0.6,0.2,4.6,10,3.3
+251,67,I,82237,Roosevelt Way NE & NE 90th St,10,AM,0.6,0.2,5,9.8,3.1
+251,67,I,82247,Roosevelt Way NE & NE 85th St,11,AM,1.2,0.5,5.8,19.3,7.2
+251,67,I,23370,Roosevelt Way NE & NE 80th St,12,AM,1.1,0.3,6.6,18.3,4.3
+251,67,I,23390,Roosevelt Way NE & NE 75th St,13,AM,0.5,0.3,6.8,7.8,5.3
+251,67,I,23420,Roosevelt Way NE & NE 69th St,14,AM,0.9,0.4,7.2,12.8,6.7
+251,67,I,23421,Roosevelt Station - Bay 4,15,AM,1.5,4.5,4.2,21.9,67.1
+251,67,I,16440,Roosevelt Station - Bay 5,16,AM,1,0.7,4.4,14.3,10.7
+251,67,I,16460,Roosevelt Way NE & NE Ravenna Blvd,17,AM,0.6,0.1,4.9,9.3,1.8
+251,67,I,16480,Roosevelt Way NE & NE 55th St,18,AM,1,0.4,5.6,15.4,5.6
+251,67,I,9589,Roosevelt Way NE & NE 50th St,19,AM,1,1.7,4.9,14.3,25.2
+251,67,I,9605,Roosevelt Way NE & NE 45th St,20,AM,0,4.9,0,0,73.1
+251,67,O,9978,Sand Point Way NE & 40th Ave NE,1,AM,2.2,0,2.2,30.2,0
+251,67,O,29130,NE 45th St & 36th Ave NE,2,AM,1.4,0.1,3.4,19.2,1.3
+251,67,O,25200,NE 45th St & Union Bay Pl NE,3,AM,1.5,0.2,4.7,21,2.3
+251,67,O,25202,NE 45th St & University Village,4,AM,0.9,0.2,5.3,11.9,2.9
+251,67,O,25210,Montlake Blvd NE & NE 45th St,5,AM,0.3,0,5.6,3.8,0.4
+251,67,O,75406,East Stevens Way NE & Pend Oreille Rd,6,AM,0.6,1,5.2,8.2,14.1
+251,67,O,75403,East Stevens Way NE & Benton Ln,7,AM,0.1,0.6,4.7,1.3,8
+251,67,O,75402,Stevens Way & Rainier Vista NE,8,AM,0.4,2.2,2.8,4.7,29.1
+251,67,O,75404,W Stevens Way & Okanogan Ln NE,9,AM,0.1,1.3,1.6,1.4,16.9
+251,67,O,75405,West Stevens Way NE & George Washington Ln,10,AM,0.3,1.1,0.8,3.7,14
+251,67,O,9147,Brooklyn Ave NE & NE Campus Pkwy - Bay 3,11,AM,1.1,1.3,0.6,14.8,16.8
+251,67,O,9630,11th Ave NE & NE 42nd St,12,AM,0.9,0.2,1.3,10.5,2.9
+251,67,O,9650,11th Ave NE & NE 45th St,13,AM,1,0.3,1.9,11.5,3.3
+251,67,O,23500,11th Ave NE & NE 50th St,14,AM,0.9,0.3,2.5,11,4
+251,67,O,23520,11th Ave NE & NE 55th St,15,AM,0.7,0.1,3.1,8.6,1.3
+251,67,O,23530,11th Ave NE & NE Ravenna Blvd,16,AM,0.2,0.1,3.3,2.5,0.8
+251,67,O,23540,12th Ave NE & NE 61st St,17,AM,0.1,0.1,3.3,1.2,1.3
+251,67,O,23561,Roosevelt Station - Bay 3,18,AM,1.6,1.2,3.8,19.6,13.9
+251,67,O,23580,12th Ave NE & NE 70th St,19,AM,0.2,0,3.9,2.2,0.3
+251,67,O,23600,NE 75th St & 12th Ave NE,20,AM,0.1,0.3,3.7,0.9,3.5
+251,67,O,23610,Roosevelt Way NE & NE 75th St,21,AM,0.1,0.1,3.8,1.7,0.8
+251,67,O,82145,Roosevelt Way NE & NE 80th St,22,AM,0.1,0.5,3.4,1.4,6.1
+251,67,O,82155,Roosevelt Way NE & NE 85th St,23,AM,0.2,0.4,3.1,2.5,5.2
+251,67,O,82165,Roosevelt Way NE & NE 90th St,24,AM,0.2,0.2,3.2,2.3,2.3
+251,67,O,82167,Roosevelt Way NE & NE 92nd St,25,AM,0.3,0.2,3.2,3.1,2.2
+251,67,O,82175,Roosevelt Way NE & NE 95th St,26,AM,0.3,0.2,3.3,3,1.9
+251,67,O,82185,Roosevelt Way NE & NE 100th St,27,AM,0.3,0,3.6,3.8,0.5
+251,67,O,82187,Roosevelt Way NE & NE 103rd St,28,AM,0.1,0.1,3.6,1.3,0.7
+251,67,O,82195,Roosevelt Way NE & NE 105th St,29,AM,0.1,0,3.7,0.8,0
+251,67,O,82197,Roosevelt Way NE & NE 108th St,30,AM,0,0.2,3.6,0.3,1.8
+251,67,O,82198,NE Northgate Way & Roosevelt Way NE,31,AM,0.7,0.9,3.4,8.1,11
+251,67,O,23230,5th Ave NE & NE Northgate Way,32,AM,0.8,0.9,3.3,9.2,10.4
+251,67,O,23250,5th Ave NE & NE 106th St,33,AM,0.2,0.2,3.2,2.2,2.5
+251,67,O,23260,5th Ave NE & NE 103rd St,34,AM,0,0.1,3.2,0,0.7
+251,67,O,23273,NE 100th St & 4th Ave NE,35,AM,0,0.2,3,0.4,2
+251,67,O,35317,Northgate Station - Bay 1,36,AM,0.7,3.7,0,7.5,41.1
+251,67,I,35317,Northgate Station - Bay 1,1,MID,2.5,0,2.5,57.5,0.1
+251,67,I,23750,5th Ave NE & NE 103rd St,2,MID,0.3,0,2.7,8.1,0.9
+251,67,I,23770,5th Ave NE & NE 106th St,3,MID,0.4,0.3,2.8,9.3,7.2
+251,67,I,81364,NE Northgate Way & 5th Ave NE,4,MID,2.1,1.1,3.8,51.2,25.5
+251,67,I,82205,Roosevelt Way NE & NE 108th St,5,MID,1.9,0.6,5.1,44.6,13.4
+251,67,I,82207,Roosevelt Way NE & NE 105th St,6,MID,0.2,0,5.3,5.1,0.5
+251,67,I,82216,Roosevelt Way NE & NE 102nd St,7,MID,0.3,0.2,5.4,7.1,5.5
+251,67,I,82227,Roosevelt Way NE & NE 95th St,8,MID,0.5,0.6,5.2,10.8,14.7
+251,67,I,82235,Roosevelt Way NE & NE 92nd St,9,MID,0.3,0.3,5.2,7.3,6.5
+251,67,I,82237,Roosevelt Way NE & NE 90th St,10,MID,0.5,0.5,5.3,12.1,11.2
+251,67,I,82247,Roosevelt Way NE & NE 85th St,11,MID,0.8,0.6,5.4,18.3,15.4
+251,67,I,23370,Roosevelt Way NE & NE 80th St,12,MID,0.6,0.3,5.7,15.4,8
+251,67,I,23390,Roosevelt Way NE & NE 75th St,13,MID,0.7,0.6,5.8,17.4,14.8
+251,67,I,23420,Roosevelt Way NE & NE 69th St,14,MID,0.8,0.6,6.1,20.1,14.6
+251,67,I,23421,Roosevelt Station - Bay 4,15,MID,1.6,2.5,5.2,38.4,59.4
+251,67,I,16440,Roosevelt Station - Bay 5,16,MID,1.6,1.2,5.6,38.1,28.7
+251,67,I,16460,Roosevelt Way NE & NE Ravenna Blvd,17,MID,0.9,0.4,6.2,21.5,8.6
+251,67,I,16480,Roosevelt Way NE & NE 55th St,18,MID,1.2,1.1,6.3,28.3,25.8
+251,67,I,9589,Roosevelt Way NE & NE 50th St,19,MID,2.8,4.4,4.7,67.7,104.4
+251,67,I,9605,Roosevelt Way NE & NE 45th St,20,MID,0,4.7,0,0,113.1
+251,67,O,9978,Sand Point Way NE & 40th Ave NE,1,MID,1,0,1,23.5,0
+251,67,O,29130,NE 45th St & 36th Ave NE,2,MID,0.8,0.2,1.7,19.6,3.6
+251,67,O,25200,NE 45th St & Union Bay Pl NE,3,MID,1.6,0.2,3.1,38.4,4.4
+251,67,O,25202,NE 45th St & University Village,4,MID,2.1,0.7,4.4,49.9,17
+251,67,O,25210,Montlake Blvd NE & NE 45th St,5,MID,1.1,0.1,5.4,27,3.1
+251,67,O,75406,East Stevens Way NE & Pend Oreille Rd,6,MID,1.6,1.9,5.1,36.8,44.1
+251,67,O,75403,East Stevens Way NE & Benton Ln,7,MID,1.7,1.1,5.7,40,26.4
+251,67,O,75402,Stevens Way & Rainier Vista NE,8,MID,1.4,1.9,5.1,33.3,45.3
+251,67,O,75404,W Stevens Way & Okanogan Ln NE,9,MID,1.6,1.8,4.9,37.2,42.8
+251,67,O,75405,West Stevens Way NE & George Washington Ln,10,MID,1.9,1.2,5.6,46.1,29.3
+251,67,O,9147,Brooklyn Ave NE & NE Campus Pkwy - Bay 3,11,MID,2.3,1.9,6,54.8,46
+251,67,O,9630,11th Ave NE & NE 42nd St,12,MID,1.1,0.8,6,27.4,21
+251,67,O,9650,11th Ave NE & NE 45th St,13,MID,2.2,1.6,6.6,54.8,40
+251,67,O,23500,11th Ave NE & NE 50th St,14,MID,2.4,2,7.1,61,49.8
+251,67,O,23520,11th Ave NE & NE 55th St,15,MID,0.6,0.8,6.6,13.3,18.6
+251,67,O,23530,11th Ave NE & NE Ravenna Blvd,16,MID,0.2,0.4,6.5,5.4,9.2
+251,67,O,23540,12th Ave NE & NE 61st St,17,MID,0.2,0.3,6.4,4.3,6.5
+251,67,O,23561,Roosevelt Station - Bay 3,18,MID,3,2.1,7.3,70.9,49.4
+251,67,O,23580,12th Ave NE & NE 70th St,19,MID,0.2,0.3,7.2,5.9,7.2
+251,67,O,23600,NE 75th St & 12th Ave NE,20,MID,0.1,1,6.4,2.8,22.8
+251,67,O,23610,Roosevelt Way NE & NE 75th St,21,MID,0.2,0.2,6.5,5.1,4.4
+251,67,O,82145,Roosevelt Way NE & NE 80th St,22,MID,0.3,0.6,6.2,7.1,13.7
+251,67,O,82155,Roosevelt Way NE & NE 85th St,23,MID,0.4,0.8,5.8,10.3,20.1
+251,67,O,82165,Roosevelt Way NE & NE 90th St,24,MID,0.2,0.6,5.4,5.6,14.1
+251,67,O,82167,Roosevelt Way NE & NE 92nd St,25,MID,0.1,0.3,5.3,3,6.1
+251,67,O,82175,Roosevelt Way NE & NE 95th St,26,MID,0.2,0.4,5.2,5.5,8.6
+251,67,O,82185,Roosevelt Way NE & NE 100th St,27,MID,0.2,0.1,5.2,4,3.4
+251,67,O,82187,Roosevelt Way NE & NE 103rd St,28,MID,0.1,0.1,5.2,1.6,1.9
+251,67,O,82195,Roosevelt Way NE & NE 105th St,29,MID,0,0.1,5.1,0.7,1.7
+251,67,O,82197,Roosevelt Way NE & NE 108th St,30,MID,0,0.4,4.8,0.3,9.5
+251,67,O,82198,NE Northgate Way & Roosevelt Way NE,31,MID,0.9,1.7,3.9,21.4,38.6
+251,67,O,23230,5th Ave NE & NE Northgate Way,32,MID,0.8,1.7,3.1,19.8,39.6
+251,67,O,23250,5th Ave NE & NE 106th St,33,MID,0.2,0.3,2.9,4.2,7.8
+251,67,O,23260,5th Ave NE & NE 103rd St,34,MID,0,0.2,2.7,0.1,4.7
+251,67,O,23273,NE 100th St & 4th Ave NE,35,MID,0.1,0.3,2.5,1.8,7.5
+251,67,O,35317,Northgate Station - Bay 1,36,MID,1.1,3.6,0,25.9,86.5
+251,67,I,35317,Northgate Station - Bay 1,1,PM,3.8,0,3.8,60.7,0
+251,67,I,23750,5th Ave NE & NE 103rd St,2,PM,0.4,0.1,4.1,6,0.8
+251,67,I,23770,5th Ave NE & NE 106th St,3,PM,0.5,0.4,4.2,8.3,6.1
+251,67,I,81364,NE Northgate Way & 5th Ave NE,4,PM,3,1.6,5.6,47.4,25.4
+251,67,I,82205,Roosevelt Way NE & NE 108th St,5,PM,2.1,0.8,6.9,33.6,12.6
+251,67,I,82207,Roosevelt Way NE & NE 105th St,6,PM,0.1,0.1,6.9,1.9,2
+251,67,I,82216,Roosevelt Way NE & NE 102nd St,7,PM,0.2,0.7,6.4,3,10.8
+251,67,I,82227,Roosevelt Way NE & NE 95th St,8,PM,0.5,0.6,6.4,7.9,8.8
+251,67,I,82235,Roosevelt Way NE & NE 92nd St,9,PM,0.3,0.3,6.4,4.8,4.3
+251,67,I,82237,Roosevelt Way NE & NE 90th St,10,PM,0.5,0.5,6.5,8.2,7.2
+251,67,I,82247,Roosevelt Way NE & NE 85th St,11,PM,0.7,0.6,6.6,11.6,9.9
+251,67,I,23370,Roosevelt Way NE & NE 80th St,12,PM,0.7,0.5,6.8,10.9,7.3
+251,67,I,23390,Roosevelt Way NE & NE 75th St,13,PM,0.9,0.7,7,14.2,11
+251,67,I,23420,Roosevelt Way NE & NE 69th St,14,PM,0.3,0.7,6.7,5.2,10.8
+251,67,I,23421,Roosevelt Station - Bay 4,15,PM,1.1,2.5,5.3,18.6,42.3
+251,67,I,16440,Roosevelt Station - Bay 5,16,PM,1.8,1.4,5.6,28,23
+251,67,I,16460,Roosevelt Way NE & NE Ravenna Blvd,17,PM,0.6,0.4,5.7,9,6.8
+251,67,I,16480,Roosevelt Way NE & NE 55th St,18,PM,0.8,1.3,5.2,12.4,21.5
+251,67,I,9589,Roosevelt Way NE & NE 50th St,19,PM,2.1,3.8,3.4,32.8,60.6
+251,67,I,9605,Roosevelt Way NE & NE 45th St,20,PM,0,3.4,0,0,55.1
+251,67,O,9978,Sand Point Way NE & 40th Ave NE,1,PM,0.9,0,0.9,14.9,0
+251,67,O,29130,NE 45th St & 36th Ave NE,2,PM,0.4,0.1,1.2,6.8,2.1
+251,67,O,25200,NE 45th St & Union Bay Pl NE,3,PM,0.9,0.3,1.8,14.2,4.8
+251,67,O,25202,NE 45th St & University Village,4,PM,2.6,1,3.3,40.8,16
+251,67,O,25210,Montlake Blvd NE & NE 45th St,5,PM,1.7,0.2,4.8,27.2,3
+251,67,O,75406,East Stevens Way NE & Pend Oreille Rd,6,PM,2,1,5.9,34.5,17.4
+251,67,O,75403,East Stevens Way NE & Benton Ln,7,PM,2.7,0.5,8,45.5,8.7
+251,67,O,75402,Stevens Way & Rainier Vista NE,8,PM,2.8,2.2,8.8,45.5,35.7
+251,67,O,75404,W Stevens Way & Okanogan Ln NE,9,PM,4.7,0.6,12.9,75.6,9
+251,67,O,75405,West Stevens Way NE & George Washington Ln,10,PM,4.4,1.3,16,69.6,20.6
+251,67,O,9147,Brooklyn Ave NE & NE Campus Pkwy - Bay 3,11,PM,4.6,2.6,17.9,73.3,41.7
+251,67,O,9630,11th Ave NE & NE 42nd St,12,PM,2.1,1.6,18.4,33.5,24.9
+251,67,O,9650,11th Ave NE & NE 45th St,13,PM,3.6,3.1,19,57.5,49.2
+251,67,O,23500,11th Ave NE & NE 50th St,14,PM,2.9,3.5,18.8,43.5,51.9
+251,67,O,23520,11th Ave NE & NE 55th St,15,PM,0.6,2.1,17,9.5,32.8
+251,67,O,23530,11th Ave NE & NE Ravenna Blvd,16,PM,0.3,1,16.2,4.3,15.4
+251,67,O,23540,12th Ave NE & NE 61st St,17,PM,0.3,0.6,16,4.4,9
+251,67,O,23561,Roosevelt Station - Bay 3,18,PM,6.2,4.6,17.5,98.5,73.2
+251,67,O,23580,12th Ave NE & NE 70th St,19,PM,0.3,1.2,16.6,4.3,19.7
+251,67,O,23600,NE 75th St & 12th Ave NE,20,PM,0.3,1.8,15.1,4.3,28.5
+251,67,O,23610,Roosevelt Way NE & NE 75th St,21,PM,0.4,0.4,15.1,6.7,6.5
+251,67,O,82145,Roosevelt Way NE & NE 80th St,22,PM,0.3,2,13.4,5.5,32.1
+251,67,O,82155,Roosevelt Way NE & NE 85th St,23,PM,0.5,2.2,11.6,7.3,35.7
+251,67,O,82165,Roosevelt Way NE & NE 90th St,24,PM,0.3,1.5,10.4,4.5,24.1
+251,67,O,82167,Roosevelt Way NE & NE 92nd St,25,PM,0.1,0.8,9.7,1.7,13.1
+251,67,O,82175,Roosevelt Way NE & NE 95th St,26,PM,0.3,1.1,9,3.9,16.8
+251,67,O,82185,Roosevelt Way NE & NE 100th St,27,PM,0.1,0.7,8.5,2.1,10.2
+251,67,O,82187,Roosevelt Way NE & NE 103rd St,28,PM,0.1,0.3,8.2,0.8,5.1
+251,67,O,82195,Roosevelt Way NE & NE 105th St,29,PM,0,0.4,7.8,0,5.3
+251,67,O,82197,Roosevelt Way NE & NE 108th St,30,PM,0,1,6.9,0.2,14.7
+251,67,O,82198,NE Northgate Way & Roosevelt Way NE,31,PM,0.9,2.6,5.2,13.7,40.9
+251,67,O,23230,5th Ave NE & NE Northgate Way,32,PM,0.9,2.6,3.5,13.8,41.3
+251,67,O,23250,5th Ave NE & NE 106th St,33,PM,0.1,0.4,3.3,2.1,6.2
+251,67,O,23260,5th Ave NE & NE 103rd St,34,PM,0,0.3,3,0,5.1
+251,67,O,23273,NE 100th St & 4th Ave NE,35,PM,0,0.3,2.8,0.5,4
+251,67,O,35317,Northgate Station - Bay 1,36,PM,0.7,3.4,0,11.2,55
+251,67,I,35317,Northgate Station - Bay 1,1,XEV,2.4,0,2.4,31.8,0
+251,67,I,23750,5th Ave NE & NE 103rd St,2,XEV,0.3,0,2.8,3.2,0.1
+251,67,I,23770,5th Ave NE & NE 106th St,3,XEV,0.2,0.2,2.8,2.7,2.4
+251,67,I,81364,NE Northgate Way & 5th Ave NE,4,XEV,2,1.1,3.7,24.1,13.1
+251,67,I,82205,Roosevelt Way NE & NE 108th St,5,XEV,1.2,0.6,4.3,14.5,7
+251,67,I,82207,Roosevelt Way NE & NE 105th St,6,XEV,0.1,0,4.3,0.6,0.4
+251,67,I,82216,Roosevelt Way NE & NE 102nd St,7,XEV,0.1,0.4,4,1.6,5.2
+251,67,I,82227,Roosevelt Way NE & NE 95th St,8,XEV,0.1,0.3,3.9,1.6,3.3
+251,67,I,82235,Roosevelt Way NE & NE 92nd St,9,XEV,0.1,0.1,3.9,1.3,1.3
+251,67,I,82237,Roosevelt Way NE & NE 90th St,10,XEV,0.2,0.2,3.8,2.3,2.7
+251,67,I,82247,Roosevelt Way NE & NE 85th St,11,XEV,0.3,0.3,3.8,3.1,3.2
+251,67,I,23370,Roosevelt Way NE & NE 80th St,12,XEV,0.3,0.1,4,3.2,1.7
+251,67,I,23390,Roosevelt Way NE & NE 75th St,13,XEV,0.6,0.3,4.3,7.4,3.2
+251,67,I,23420,Roosevelt Way NE & NE 69th St,14,XEV,0.2,0.3,4.2,2.6,4.1
+251,67,I,23421,Roosevelt Station - Bay 4,15,XEV,0.6,1.2,3.6,7.6,14.4
+251,67,I,16440,Roosevelt Station - Bay 5,16,XEV,1.3,0.7,4.2,16.6,9.4
+251,67,I,16460,Roosevelt Way NE & NE Ravenna Blvd,17,XEV,0.4,0.3,4.2,4.9,4.4
+251,67,I,16480,Roosevelt Way NE & NE 55th St,18,XEV,0.5,0.9,3.9,6.4,11.5
+251,67,I,9589,Roosevelt Way NE & NE 50th St,19,XEV,0.6,2.3,2.3,7.6,28
+251,67,I,9605,Roosevelt Way NE & NE 45th St,20,XEV,0,2.3,0,0,27.8
+251,67,O,9978,Sand Point Way NE & 40th Ave NE,1,XEV,0.5,0,0.5,5.6,0
+251,67,O,29130,NE 45th St & 36th Ave NE,2,XEV,0.2,0,0.6,2.9,0.5
+251,67,O,25200,NE 45th St & Union Bay Pl NE,3,XEV,0.2,0.1,0.8,2.9,0.9
+251,67,O,25202,NE 45th St & University Village,4,XEV,2.5,0.4,3,30.4,4.3
+251,67,O,25210,Montlake Blvd NE & NE 45th St,5,XEV,1.8,0.1,4.7,21.2,1.1
+251,67,O,75406,East Stevens Way NE & Pend Oreille Rd,6,XEV,1.1,0.5,5.3,13,6.4
+251,67,O,75403,East Stevens Way NE & Benton Ln,7,XEV,1.3,0.2,6.3,15.7,2.2
+251,67,O,75402,Stevens Way & Rainier Vista NE,8,XEV,2.2,1,7.4,28.9,13.4
+251,67,O,75404,W Stevens Way & Okanogan Ln NE,9,XEV,1.1,0.2,8.3,13.8,2.3
+251,67,O,75405,West Stevens Way NE & George Washington Ln,10,XEV,1.8,0.8,9.3,23.3,10.4
+251,67,O,9147,Brooklyn Ave NE & NE Campus Pkwy - Bay 3,11,XEV,2.6,2.1,9.8,34.2,27.9
+251,67,O,9630,11th Ave NE & NE 42nd St,12,XEV,1.1,1.4,9.6,12.7,16.9
+251,67,O,9650,11th Ave NE & NE 45th St,13,XEV,2.1,1.9,9.7,24.9,23
+251,67,O,23500,11th Ave NE & NE 50th St,14,XEV,1.3,2.3,9.1,17.5,29.3
+251,67,O,23520,11th Ave NE & NE 55th St,15,XEV,0.5,1.5,8,5.9,19.3
+251,67,O,23530,11th Ave NE & NE Ravenna Blvd,16,XEV,0.2,0.5,7.7,2.4,6.7
+251,67,O,23540,12th Ave NE & NE 61st St,17,XEV,0.2,0.3,7.6,2.5,4.1
+251,67,O,23561,Roosevelt Station - Bay 3,18,XEV,2.9,2.3,8.1,37.1,30
+251,67,O,23580,12th Ave NE & NE 70th St,19,XEV,0.2,0.6,7.7,2.3,7.3
+251,67,O,23600,NE 75th St & 12th Ave NE,20,XEV,0.1,0.8,7,1.6,10.7
+251,67,O,23610,Roosevelt Way NE & NE 75th St,21,XEV,0.1,0.2,7,1.9,2.5
+251,67,O,82145,Roosevelt Way NE & NE 80th St,22,XEV,0.2,0.8,6.5,3.1,10.3
+251,67,O,82155,Roosevelt Way NE & NE 85th St,23,XEV,0.2,0.8,5.9,3.2,10.3
+251,67,O,82165,Roosevelt Way NE & NE 90th St,24,XEV,0.1,0.6,5.5,1.2,7.1
+251,67,O,82167,Roosevelt Way NE & NE 92nd St,25,XEV,0,0.3,5.2,0.4,3.8
+251,67,O,82175,Roosevelt Way NE & NE 95th St,26,XEV,0,0.4,5,0.6,5
+251,67,O,82185,Roosevelt Way NE & NE 100th St,27,XEV,0.1,0.4,4.7,0.9,5.3
+251,67,O,82187,Roosevelt Way NE & NE 103rd St,28,XEV,0,0.2,4.6,0.6,2.4
+251,67,O,82195,Roosevelt Way NE & NE 105th St,29,XEV,0,0.1,4.5,0,1.6
+251,67,O,82197,Roosevelt Way NE & NE 108th St,30,XEV,0,0.5,4,0.1,6.3
+251,67,O,82198,NE Northgate Way & Roosevelt Way NE,31,XEV,0.5,1.2,3.3,6.4,15.9
+251,67,O,23230,5th Ave NE & NE Northgate Way,32,XEV,0.6,1.8,2,7.5,23.4
+251,67,O,23250,5th Ave NE & NE 106th St,33,XEV,0,0.1,2,0.4,1.4
+251,67,O,23260,5th Ave NE & NE 103rd St,34,XEV,0,0.2,1.8,0,2.7
+251,67,O,23273,NE 100th St & 4th Ave NE,35,XEV,0,0.2,1.7,0.2,2.1
+251,67,O,35317,Northgate Station - Bay 1,36,XEV,0.6,2.3,0,7.6,29.6
+251,67,I,35317,Northgate Station - Bay 1,1,XNT,1.5,0,1.5,14.6,0
+251,67,I,23750,5th Ave NE & NE 103rd St,2,XNT,0.2,0,1.8,2.3,0.1
+251,67,I,23770,5th Ave NE & NE 106th St,3,XNT,0.1,0.1,1.8,1,0.7
+251,67,I,81364,NE Northgate Way & 5th Ave NE,4,XNT,0.7,0.5,2,6.5,4.5
+251,67,I,82205,Roosevelt Way NE & NE 108th St,5,XNT,0.6,0.3,2.3,6.2,3.4
+251,67,I,82207,Roosevelt Way NE & NE 105th St,6,XNT,0,0,2.3,0,0.4
+251,67,I,82216,Roosevelt Way NE & NE 102nd St,7,XNT,0.1,0.4,2,0.5,3.6
+251,67,I,82227,Roosevelt Way NE & NE 95th St,8,XNT,0,0.1,1.9,0.2,0.5
+251,67,I,82235,Roosevelt Way NE & NE 92nd St,9,XNT,0,0.1,1.9,0.2,0.9
+251,67,I,82237,Roosevelt Way NE & NE 90th St,10,XNT,0,0,1.9,0.2,0.3
+251,67,I,82247,Roosevelt Way NE & NE 85th St,11,XNT,0.1,0.1,1.8,0.8,1.2
+251,67,I,23370,Roosevelt Way NE & NE 80th St,12,XNT,0.1,0.1,1.8,0.9,0.7
+251,67,I,23390,Roosevelt Way NE & NE 75th St,13,XNT,0.2,0.2,1.9,1.9,1.7
+251,67,I,23420,Roosevelt Way NE & NE 69th St,14,XNT,0.1,0.1,1.8,1.1,1.3
+251,67,I,23421,Roosevelt Station - Bay 4,15,XNT,0.4,0.6,1.6,3.7,5.9
+251,67,I,16440,Roosevelt Station - Bay 5,16,XNT,0.5,0.2,1.9,4.6,2.1
+251,67,I,16460,Roosevelt Way NE & NE Ravenna Blvd,17,XNT,0.1,0.1,1.9,0.8,0.8
+251,67,I,16480,Roosevelt Way NE & NE 55th St,18,XNT,0.2,0.4,1.7,1.8,3.6
+251,67,I,9589,Roosevelt Way NE & NE 50th St,19,XNT,0.2,1,1,2.1,10.6
+251,67,I,9605,Roosevelt Way NE & NE 45th St,20,XNT,0,1,0,0,11.2
+251,67,O,9978,Sand Point Way NE & 40th Ave NE,1,XNT,0.5,0,0.5,5.9,0
+251,67,O,29130,NE 45th St & 36th Ave NE,2,XNT,0.2,0,0.6,2,0
+251,67,O,25200,NE 45th St & Union Bay Pl NE,3,XNT,0.1,0,0.7,1.1,0.1
+251,67,O,25202,NE 45th St & University Village,4,XNT,1.1,0.1,1.6,12.7,1.4
+251,67,O,25210,Montlake Blvd NE & NE 45th St,5,XNT,0.6,0,2.2,6.9,0.2
+251,67,O,75406,East Stevens Way NE & Pend Oreille Rd,6,XNT,0.5,0.2,2.6,5.9,2.1
+251,67,O,75403,East Stevens Way NE & Benton Ln,7,XNT,0.3,0.1,2.8,4.1,0.6
+251,67,O,75402,Stevens Way & Rainier Vista NE,8,XNT,0.8,0.9,2.7,9.2,10.2
+251,67,O,75404,W Stevens Way & Okanogan Ln NE,9,XNT,0.2,0,2.9,2.6,0.4
+251,67,O,75405,West Stevens Way NE & George Washington Ln,10,XNT,0.7,0.4,3.2,8.1,4.2
+251,67,O,9147,Brooklyn Ave NE & NE Campus Pkwy - Bay 3,11,XNT,1.3,0.9,3.6,15.2,11
+251,67,O,9630,11th Ave NE & NE 42nd St,12,XNT,0.5,0.5,3.9,6.6,6.8
+251,67,O,9650,11th Ave NE & NE 45th St,13,XNT,0.8,0.6,4.1,10.7,8.3
+251,67,O,23500,11th Ave NE & NE 50th St,14,XNT,0.4,1.1,3.4,5.6,14
+251,67,O,23520,11th Ave NE & NE 55th St,15,XNT,0.2,0.6,3.1,3.1,7.5
+251,67,O,23530,11th Ave NE & NE Ravenna Blvd,16,XNT,0,0.2,2.9,0.6,2.8
+251,67,O,23540,12th Ave NE & NE 61st St,17,XNT,0,0.1,2.9,0.6,1.5
+251,67,O,23561,Roosevelt Station - Bay 3,18,XNT,1.2,0.9,3.2,16.2,11.2
+251,67,O,23580,12th Ave NE & NE 70th St,19,XNT,0,0.2,3.1,0.6,2.1
+251,67,O,23600,NE 75th St & 12th Ave NE,20,XNT,0,0.2,3,0,2.4
+251,67,O,23610,Roosevelt Way NE & NE 75th St,21,XNT,0,0.1,3,0.6,0.7
+251,67,O,82145,Roosevelt Way NE & NE 80th St,22,XNT,0.1,0.3,2.7,0.8,3.6
+251,67,O,82155,Roosevelt Way NE & NE 85th St,23,XNT,0,0.3,2.5,0.5,3.9
+251,67,O,82165,Roosevelt Way NE & NE 90th St,24,XNT,0,0.2,2.5,0,2.5
+251,67,O,82167,Roosevelt Way NE & NE 92nd St,25,XNT,0,0.3,2.3,0.1,3.7
+251,67,O,82175,Roosevelt Way NE & NE 95th St,26,XNT,0,0.2,2.1,0,2.1
+251,67,O,82185,Roosevelt Way NE & NE 100th St,27,XNT,0,0.1,2,0.2,1.8
+251,67,O,82187,Roosevelt Way NE & NE 103rd St,28,XNT,0,0.1,1.9,0.1,1.8
+251,67,O,82195,Roosevelt Way NE & NE 105th St,29,XNT,0,0,1.9,0,0.5
+251,67,O,82197,Roosevelt Way NE & NE 108th St,30,XNT,0,0.4,1.5,0.3,5.6
+251,67,O,82198,NE Northgate Way & Roosevelt Way NE,31,XNT,0.2,0.5,1.2,3.2,7.4
+251,67,O,23230,5th Ave NE & NE Northgate Way,32,XNT,0.2,0.3,1.1,3.1,4.8
+251,67,O,23250,5th Ave NE & NE 106th St,33,XNT,0,0,1,0,0.5
+251,67,O,23260,5th Ave NE & NE 103rd St,34,XNT,0,0,1,0,0.6
+251,67,O,23273,NE 100th St & 4th Ave NE,35,XNT,0,0.1,1,0.4,1
+251,67,O,35317,Northgate Station - Bay 1,36,XNT,0.4,1.4,0,5.6,19.3

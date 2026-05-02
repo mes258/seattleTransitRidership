@@ -1,0 +1,303 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+251,33,I,31140,Discovery Park Road & Texas Way,1,AM,0.6,0,0.6,4.6,0
+251,33,I,31547,Texas Way & W Government Way,2,AM,0,0,0.6,0.3,0.2
+251,33,I,31150,W Government Way & 36th Ave W,3,AM,0.5,0,1.1,4.2,0.3
+251,33,I,24360,W Government Way & 34th Ave W,4,AM,0.6,0.1,1.6,4.9,1
+251,33,I,24370,W Government Way & 32nd Ave W,5,AM,0.5,0,2,3.7,0
+251,33,I,31160,W Government Way & 31st Ave W,6,AM,0.1,0,2.1,0.8,0
+251,33,I,31180,Gilman Ave W & 28th Pl W,7,AM,0.1,0,2.2,0.4,0.1
+251,33,I,31190,Gilman Ave W & W Jameson St,8,AM,0.4,0,2.6,3.2,0.3
+251,33,I,31210,Gilman Ave W & 25th Ave W,9,AM,0.1,0,2.6,1,0
+251,33,I,31220,Gilman Ave W & 24th Ave W,10,AM,0.2,0.2,2.6,1.2,1.8
+251,33,I,40077,Gilman Ave W & 23rd Ave W,11,AM,0.3,0.1,2.8,2.3,0.6
+251,33,I,31230,22nd Ave W & Gilman Ave W,12,AM,1.1,0.1,3.7,8.5,0.8
+251,33,I,31240,22nd Ave W & W Ruffner St,13,AM,1,0.1,4.7,8.3,0.6
+251,33,I,31250,22nd Ave W & W Bertona St,14,AM,1,0,5.7,8.3,0.2
+251,33,I,31260,22nd Ave W & W Dravus St,15,AM,0.7,0.6,5.9,5.6,4.6
+251,33,I,31270,22nd Ave W & W Barrett St,16,AM,0.5,0,6.3,3.8,0.2
+251,33,I,31280,22nd Ave W & W Armour St,17,AM,0.5,0,6.8,4,0.2
+251,33,I,31290,22nd Ave W & Thorndyke Ave W,18,AM,1.4,0.1,8.1,11.3,0.6
+251,33,I,31300,Thorndyke Ave W & 23rd Ave W,19,AM,0.1,0,8.2,0.7,0
+251,33,I,31310,Thorndyke Ave W & Thorndyke Pl W,20,AM,0.5,0,8.7,4.1,0
+251,33,I,31320,Thorndyke Ave W & W Boston St,21,AM,0.7,0,9.4,5.7,0.2
+251,33,I,31330,Thorndyke Ave W & W Newton St,22,AM,0.4,0,9.8,2.9,0
+251,33,I,31340,W Blaine St & 27th Ave W,23,AM,0.1,0,9.8,0.4,0
+251,33,I,20700,28th Ave W & W Blaine St,24,AM,0.9,0.2,10.6,7.4,1.2
+251,33,I,20710,28th Ave W & W Eaton St,25,AM,0.1,0,10.7,0.7,0
+251,33,I,20720,W Galer St & Thorndyke Ave W,26,AM,0.1,0,10.7,0.7,0
+251,33,I,20730,Magnolia Brdg & Pier 91,27,AM,0,0,10.7,0.1,0.1
+251,33,I,13870,Elliott Ave W & W Galer St,28,AM,0.2,1,9.9,1.2,8.2
+251,33,I,13890,Elliott Ave W & W Prospect St,29,AM,0.2,2,8,1.4,16.1
+251,33,I,19380,Elliott Ave W & W Roy St,30,AM,0.1,0,8.1,0.6,0.2
+251,33,I,19390,Elliott Ave W & W Mercer St,31,AM,0.4,0.1,8.4,3.3,0.7
+251,33,I,19410,Elliott Ave W & W Harrison St,32,AM,0.1,0.3,8.2,0.9,2.6
+251,33,I,19420,Western Ave W & Elliott Ave W,33,AM,0.4,1.1,7.5,3.3,8.8
+251,33,I,2244,Denny Way & 2nd Ave N,34,AM,0.6,4.9,2.9,4.4,34.1
+251,33,I,2220,3rd Ave & Cedar St,35,AM,0,2.9,0,0,20.2
+251,33,O,30635,4th Ave S & S Royal Brougham Way,1,AM,0.5,0,0.5,3.5,0.1
+251,33,O,619,4th Ave S & S Jackson St,2,AM,4.9,1,4.4,34.6,7.3
+251,33,O,531,3rd Ave & James St,4,AM,1.1,1,4.4,7.5,6.9
+251,33,O,548,3rd Ave & Madison St,5,AM,1.9,1.6,4.7,13.2,11.1
+251,33,O,570,3rd Ave & Union St,6,AM,1.6,1.6,4.8,11.2,11.3
+251,33,O,590,3rd Ave & Pine St,7,AM,4.8,1,8.6,33.9,6.8
+251,33,O,600,3rd Ave & Virginia St,8,AM,1.5,1.9,8.3,10.8,13
+251,33,O,605,3rd Ave & Bell St,9,AM,0.9,0.8,8.3,6.2,5.9
+251,33,O,1690,3rd Ave & Vine St,10,AM,0.4,0.7,8.1,2.5,4.4
+251,33,O,20829,Denny Way & 2nd Ave N,11,AM,0.6,0.4,8.2,3.4,2.5
+251,33,O,19440,Denny Way & Queen Anne Ave N,12,AM,0.5,0.8,8,3.2,4.7
+251,33,O,19460,Western Ave W & Elliott Ave W,13,AM,0.3,1.4,6.9,2,8.2
+251,33,O,19470,Elliott Ave W & 4th Ave W,14,AM,0.1,0.3,6.7,0.3,1.6
+251,33,O,19480,Elliott Ave W & 6th Ave W,15,AM,0,0.1,6.6,0,0.5
+251,33,O,19490,Elliott Ave W & W Mercer St,16,AM,0,0.6,6.1,0.2,3.3
+251,33,O,19500,Elliott Ave W & W Mercer Pl,17,AM,0,0.3,5.8,0,1.9
+251,33,O,14070,Elliott Ave W & W Prospect St,18,AM,0.3,1.2,4.9,1.5,7
+251,33,O,20880,Thorndyke Ave W & W Hayes St,19,AM,0,0.4,4.5,0.1,2.5
+251,33,O,31350,Thorndyke Ave W & W Blaine St,20,AM,0,0.1,4.4,0.1,0.4
+251,33,O,31360,Thorndyke Ave W & W Newton St,21,AM,0,0.1,4.4,0.2,0.6
+251,33,O,31370,Thorndyke Ave W & W Boston St,22,AM,0,0,4.4,0,0
+251,33,O,31380,Thorndyke Ave W & W Lynn St,23,AM,0,0,4.4,0,0.1
+251,33,O,31390,Thorndyke Ave W & 23rd Ave W,24,AM,0,0,4.3,0,0.1
+251,33,O,31400,22nd Ave W & Thorndyke Ave W,25,AM,0,0,4.3,0,0.1
+251,33,O,31410,22nd Ave W & W Armour St,26,AM,0,0.1,4.3,0,0.4
+251,33,O,31420,22nd Ave W & W Barrett St,27,AM,0,0.1,4.2,0,0.4
+251,33,O,31430,22nd Ave W & W Dravus St,28,AM,0,0.1,4.1,0,0.7
+251,33,O,31440,22nd Ave W & W Bertona St,29,AM,0.1,0,4.1,0.5,0.1
+251,33,O,31450,22nd Ave W & W Ruffner St,30,AM,0,0,4.2,0,0.1
+251,33,O,31460,22nd Ave W & Gilman Ave W,31,AM,0.1,0,4.2,0.5,0
+251,33,O,40073,Gilman Ave W & W Emerson Pl,32,AM,0.1,2.3,2,0.3,13.7
+251,33,O,31481,Gilman Ave W & W Elmore St,33,AM,0,0.1,1.9,0.1,0.6
+251,33,O,31500,Gilman Ave W & 27th Ave W,34,AM,0,0.1,1.8,0,0.3
+251,33,O,31510,Gilman Ave W & 28th Pl W,35,AM,0,0.3,1.6,0,1.7
+251,33,O,31530,W Government Way & 31st Ave W,36,AM,0,0.1,1.5,0.1,0.7
+251,33,O,24680,W Government Way & 33rd Ave W,37,AM,0.1,0.3,1.3,0.6,2
+251,33,O,31550,W Government Way & 36th Ave W,38,AM,0,0.2,1.1,0.1,1.2
+251,33,O,31552,Texas Way & W Government Way,39,AM,0.1,0.1,1,0.3,0.8
+251,33,O,31140,Discovery Park Road & Texas Way,40,AM,0,1,0,0,6
+251,33,I,31140,Discovery Park Road & Texas Way,1,MID,1.5,0,1.5,17.6,0
+251,33,I,31547,Texas Way & W Government Way,2,MID,0,0,1.5,0.5,0.1
+251,33,I,31150,W Government Way & 36th Ave W,3,MID,0.5,0.2,1.8,5.8,2.5
+251,33,I,24360,W Government Way & 34th Ave W,4,MID,0.5,0.4,1.8,5.4,5.2
+251,33,I,24370,W Government Way & 32nd Ave W,5,MID,0.3,0.1,2,3.5,1
+251,33,I,31160,W Government Way & 31st Ave W,6,MID,0.1,0,2.1,1,0.1
+251,33,I,31180,Gilman Ave W & 28th Pl W,7,MID,0.1,0,2.1,0.6,0
+251,33,I,31190,Gilman Ave W & W Jameson St,8,MID,0.3,0,2.4,3.5,0.5
+251,33,I,31210,Gilman Ave W & 25th Ave W,9,MID,0.2,0,2.5,2.4,0.5
+251,33,I,31220,Gilman Ave W & 24th Ave W,10,MID,0.2,0.2,2.6,2.8,1.9
+251,33,I,40077,Gilman Ave W & 23rd Ave W,11,MID,0.1,0.1,2.7,1.5,1
+251,33,I,31230,22nd Ave W & Gilman Ave W,12,MID,0.4,0.1,2.9,4.6,1.5
+251,33,I,31240,22nd Ave W & W Ruffner St,13,MID,0.3,0.1,3.1,3.4,1.2
+251,33,I,31250,22nd Ave W & W Bertona St,14,MID,0.5,0.1,3.5,6.3,0.8
+251,33,I,31260,22nd Ave W & W Dravus St,15,MID,0.2,0.3,3.5,2.7,3
+251,33,I,31270,22nd Ave W & W Barrett St,16,MID,0.2,0,3.6,2.2,0.4
+251,33,I,31280,22nd Ave W & W Armour St,17,MID,0.3,0,3.9,4.1,0.5
+251,33,I,31290,22nd Ave W & Thorndyke Ave W,18,MID,0.4,0.1,4.2,4.7,1
+251,33,I,31300,Thorndyke Ave W & 23rd Ave W,19,MID,0.1,0,4.3,0.7,0.1
+251,33,I,31310,Thorndyke Ave W & Thorndyke Pl W,20,MID,0.3,0.1,4.4,3.1,0.8
+251,33,I,31320,Thorndyke Ave W & W Boston St,21,MID,0.3,0,4.6,3.1,0.5
+251,33,I,31330,Thorndyke Ave W & W Newton St,22,MID,0.2,0.1,4.8,2.7,0.9
+251,33,I,31340,W Blaine St & 27th Ave W,23,MID,0,0,4.8,0.3,0.3
+251,33,I,20700,28th Ave W & W Blaine St,24,MID,0.5,0.3,5,6.1,4
+251,33,I,20710,28th Ave W & W Eaton St,25,MID,0,0,5,0.1,0
+251,33,I,20720,W Galer St & Thorndyke Ave W,26,MID,0.1,0,5,0.7,0.4
+251,33,I,20730,Magnolia Brdg & Pier 91,27,MID,0,0.1,5,0.1,1.4
+251,33,I,13870,Elliott Ave W & W Galer St,28,MID,0.5,0.8,4.7,6.3,9.6
+251,33,I,13890,Elliott Ave W & W Prospect St,29,MID,0.5,0.7,4.5,6.1,7.8
+251,33,I,19380,Elliott Ave W & W Roy St,30,MID,0.1,0,4.5,0.8,0.4
+251,33,I,19390,Elliott Ave W & W Mercer St,31,MID,0.4,0.2,4.8,5.3,2.6
+251,33,I,19410,Elliott Ave W & W Harrison St,32,MID,0.3,0.3,4.8,3.8,3.2
+251,33,I,19420,Western Ave W & Elliott Ave W,33,MID,0.8,0.8,4.9,9.8,9.2
+251,33,I,2244,Denny Way & 2nd Ave N,34,MID,0.6,3.8,2.1,7.4,45.8
+251,33,I,2220,3rd Ave & Cedar St,35,MID,0,2.1,0,0,25.4
+251,33,O,30635,4th Ave S & S Royal Brougham Way,1,MID,1.2,0,1.2,14.8,0.1
+251,33,O,619,4th Ave S & S Jackson St,2,MID,2.5,1.9,1.8,29.7,22.9
+251,33,O,531,3rd Ave & James St,4,MID,1.5,0.9,2.4,17.7,10.4
+251,33,O,548,3rd Ave & Madison St,5,MID,2.1,1.1,3.4,25.1,12.6
+251,33,O,570,3rd Ave & Union St,6,MID,2.3,1.7,4.1,27.7,20.4
+251,33,O,590,3rd Ave & Pine St,7,MID,4.6,1.6,7.1,55.1,19.1
+251,33,O,600,3rd Ave & Virginia St,8,MID,1.9,1.5,7.5,23.1,17.4
+251,33,O,605,3rd Ave & Bell St,9,MID,1.3,0.9,8,15.9,10.2
+251,33,O,1690,3rd Ave & Vine St,10,MID,0.7,0.8,7.9,8.9,10.6
+251,33,O,20829,Denny Way & 2nd Ave N,11,MID,0.6,0.9,7.3,7.5,11.2
+251,33,O,19440,Denny Way & Queen Anne Ave N,12,MID,0.6,0.6,7.4,7.6,6.8
+251,33,O,19460,Western Ave W & Elliott Ave W,13,MID,0.3,0.9,6.8,3,10.7
+251,33,O,19470,Elliott Ave W & 4th Ave W,14,MID,0.2,0.5,6.6,2.6,5.6
+251,33,O,19480,Elliott Ave W & 6th Ave W,15,MID,0,0.2,6.4,0.5,2.4
+251,33,O,19490,Elliott Ave W & W Mercer St,16,MID,0.1,0.2,6.3,0.8,2.4
+251,33,O,19500,Elliott Ave W & W Mercer Pl,17,MID,0,0.1,6.2,0,1.3
+251,33,O,14070,Elliott Ave W & W Prospect St,18,MID,0.6,1.1,5.6,7.4,13.7
+251,33,O,20880,Thorndyke Ave W & W Hayes St,19,MID,0,0.8,4.9,0.4,9.4
+251,33,O,31350,Thorndyke Ave W & W Blaine St,20,MID,0,0.2,4.8,0.1,2
+251,33,O,31360,Thorndyke Ave W & W Newton St,21,MID,0,0.2,4.7,0.4,2
+251,33,O,31370,Thorndyke Ave W & W Boston St,22,MID,0,0.1,4.6,0,0.6
+251,33,O,31380,Thorndyke Ave W & W Lynn St,23,MID,0,0.1,4.6,0,0.8
+251,33,O,31390,Thorndyke Ave W & 23rd Ave W,24,MID,0,0.1,4.5,0,0.8
+251,33,O,31400,22nd Ave W & Thorndyke Ave W,25,MID,0,0.3,4.2,0.1,3.2
+251,33,O,31410,22nd Ave W & W Armour St,26,MID,0,0.1,4.2,0.3,1.3
+251,33,O,31420,22nd Ave W & W Barrett St,27,MID,0,0.2,3.9,0,2.4
+251,33,O,31430,22nd Ave W & W Dravus St,28,MID,0.1,0.2,3.8,1,2.6
+251,33,O,31440,22nd Ave W & W Bertona St,29,MID,0,0.2,3.7,0.2,2.3
+251,33,O,31450,22nd Ave W & W Ruffner St,30,MID,0.1,0.1,3.6,0.7,1.4
+251,33,O,31460,22nd Ave W & Gilman Ave W,31,MID,0.1,0.1,3.6,1.2,1
+251,33,O,40073,Gilman Ave W & W Emerson Pl,32,MID,0.1,0.4,3.4,1.2,4.2
+251,33,O,31481,Gilman Ave W & W Elmore St,33,MID,0.1,0.1,3.3,0.6,1.7
+251,33,O,31500,Gilman Ave W & 27th Ave W,34,MID,0,0,3.3,0.1,0.1
+251,33,O,31510,Gilman Ave W & 28th Pl W,35,MID,0,0.1,3.2,0,1.1
+251,33,O,31530,W Government Way & 31st Ave W,36,MID,0,0.5,2.7,0.1,6.5
+251,33,O,24680,W Government Way & 33rd Ave W,37,MID,0.1,0.5,2.4,1.6,5.7
+251,33,O,31550,W Government Way & 36th Ave W,38,MID,0,0.8,1.7,0.5,9.5
+251,33,O,31552,Texas Way & W Government Way,39,MID,0,0.1,1.6,0.1,1
+251,33,O,31140,Discovery Park Road & Texas Way,40,MID,0,1.6,0,0,19.2
+251,33,I,31140,Discovery Park Road & Texas Way,1,PM,1.8,0,1.8,14.3,0
+251,33,I,31547,Texas Way & W Government Way,2,PM,0.1,0,1.8,0.5,0.1
+251,33,I,31150,W Government Way & 36th Ave W,3,PM,0.5,0.1,2.3,4.2,0.9
+251,33,I,24360,W Government Way & 34th Ave W,4,PM,0.5,0.4,2.3,3.8,3.1
+251,33,I,24370,W Government Way & 32nd Ave W,5,PM,0.3,0.1,2.5,2.1,1
+251,33,I,31160,W Government Way & 31st Ave W,6,PM,0.1,0,2.5,0.5,0
+251,33,I,31180,Gilman Ave W & 28th Pl W,7,PM,0.1,0,2.6,0.6,0.1
+251,33,I,31190,Gilman Ave W & W Jameson St,8,PM,0.2,0,2.8,1.9,0.1
+251,33,I,31210,Gilman Ave W & 25th Ave W,9,PM,0.1,0,2.9,1.1,0.2
+251,33,I,31220,Gilman Ave W & 24th Ave W,10,PM,1.4,0.2,4.1,10.8,1.6
+251,33,I,40077,Gilman Ave W & 23rd Ave W,11,PM,0.2,0.1,4.1,1.3,0.7
+251,33,I,31230,22nd Ave W & Gilman Ave W,12,PM,0.2,0.3,4.1,1.6,2.1
+251,33,I,31240,22nd Ave W & W Ruffner St,13,PM,0.2,0.2,4.1,1.6,1.4
+251,33,I,31250,22nd Ave W & W Bertona St,14,PM,0.2,0.1,4.2,1.7,0.9
+251,33,I,31260,22nd Ave W & W Dravus St,15,PM,0.3,0.3,4.3,2.6,2
+251,33,I,31270,22nd Ave W & W Barrett St,16,PM,0.2,0,4.4,1.2,0.1
+251,33,I,31280,22nd Ave W & W Armour St,17,PM,0.3,0,4.6,2.3,0.3
+251,33,I,31290,22nd Ave W & Thorndyke Ave W,18,PM,0.3,0.1,4.9,2.5,0.8
+251,33,I,31300,Thorndyke Ave W & 23rd Ave W,19,PM,0.1,0,4.9,0.5,0
+251,33,I,31310,Thorndyke Ave W & Thorndyke Pl W,20,PM,0.1,0,5,0.8,0
+251,33,I,31320,Thorndyke Ave W & W Boston St,21,PM,0.2,0,5.1,1.4,0.2
+251,33,I,31330,Thorndyke Ave W & W Newton St,22,PM,0.2,0.1,5.2,1.3,0.8
+251,33,I,31340,W Blaine St & 27th Ave W,23,PM,0,0,5.2,0,0.1
+251,33,I,20700,28th Ave W & W Blaine St,24,PM,0.5,0.3,5.4,4.1,2.4
+251,33,I,20710,28th Ave W & W Eaton St,25,PM,0,0,5.4,0.3,0.2
+251,33,I,20720,W Galer St & Thorndyke Ave W,26,PM,0.1,0,5.5,0.6,0.1
+251,33,I,20730,Magnolia Brdg & Pier 91,27,PM,0,0.1,5.4,0.1,0.4
+251,33,I,13870,Elliott Ave W & W Galer St,28,PM,0.6,0.8,5.2,4.7,6.7
+251,33,I,13890,Elliott Ave W & W Prospect St,29,PM,1.1,0.3,6,8.8,2.6
+251,33,I,19380,Elliott Ave W & W Roy St,30,PM,0.4,0.1,6.3,3.2,0.5
+251,33,I,19390,Elliott Ave W & W Mercer St,31,PM,0.5,0.2,6.5,3.6,1.9
+251,33,I,19410,Elliott Ave W & W Harrison St,32,PM,0.4,0.4,6.5,3.2,3
+251,33,I,19420,Western Ave W & Elliott Ave W,33,PM,1.2,1.1,6.7,9.3,8.4
+251,33,I,2244,Denny Way & 2nd Ave N,34,PM,0.7,4.8,2.7,5.3,38.7
+251,33,I,2220,3rd Ave & Cedar St,35,PM,0,2.7,0,0,21.7
+251,33,O,30635,4th Ave S & S Royal Brougham Way,1,PM,1.1,0,1.1,9,0
+251,33,O,619,4th Ave S & S Jackson St,2,PM,3.1,2.7,1.5,24.9,21.9
+251,33,O,531,3rd Ave & James St,4,PM,2.1,1,2.5,16.4,8.1
+251,33,O,548,3rd Ave & Madison St,5,PM,4.6,1.4,5.7,37,11.5
+251,33,O,570,3rd Ave & Union St,6,PM,5.2,1.9,9,41.2,14.9
+251,33,O,590,3rd Ave & Pine St,7,PM,6.4,1.5,13.9,51.5,11.9
+251,33,O,600,3rd Ave & Virginia St,8,PM,4.1,1.5,16.5,32.7,12.3
+251,33,O,605,3rd Ave & Bell St,9,PM,2.9,1.3,18,23.2,10.6
+251,33,O,1690,3rd Ave & Vine St,10,PM,0.9,1.3,17.6,7,10.4
+251,33,O,20829,Denny Way & 2nd Ave N,11,PM,1.5,1.3,17,13.2,11.6
+251,33,O,19440,Denny Way & Queen Anne Ave N,12,PM,1,0.8,17.3,9.2,6.8
+251,33,O,19460,Western Ave W & Elliott Ave W,13,PM,0.6,1.2,16.6,5.5,10.8
+251,33,O,19470,Elliott Ave W & 4th Ave W,14,PM,0.2,0.2,16.6,1.6,2.2
+251,33,O,19480,Elliott Ave W & 6th Ave W,15,PM,0.1,0.4,17.2,0.9,3.1
+251,33,O,19490,Elliott Ave W & W Mercer St,16,PM,0.1,0.4,16.9,0.8,3.1
+251,33,O,19500,Elliott Ave W & W Mercer Pl,17,PM,0,0.1,16.9,0.1,0.7
+251,33,O,14070,Elliott Ave W & W Prospect St,18,PM,1.4,0.7,17.6,11,5.2
+251,33,O,20880,Thorndyke Ave W & W Hayes St,19,PM,0.1,2.6,15.1,0.7,20.4
+251,33,O,31350,Thorndyke Ave W & W Blaine St,20,PM,0.3,0.5,15,2.2,3.6
+251,33,O,31360,Thorndyke Ave W & W Newton St,21,PM,0,0.8,14.2,0.3,6.3
+251,33,O,31370,Thorndyke Ave W & W Boston St,22,PM,0,0.6,13.6,0.2,5
+251,33,O,31380,Thorndyke Ave W & W Lynn St,23,PM,0,0.4,13.2,0,3
+251,33,O,31390,Thorndyke Ave W & 23rd Ave W,24,PM,0,0.3,13,0,2
+251,33,O,31400,22nd Ave W & Thorndyke Ave W,25,PM,0,1.7,11.4,0.2,13.6
+251,33,O,31410,22nd Ave W & W Armour St,26,PM,0.1,0.7,10.7,0.4,5.9
+251,33,O,31420,22nd Ave W & W Barrett St,27,PM,0,0.8,9.9,0.2,6.1
+251,33,O,31430,22nd Ave W & W Dravus St,28,PM,0.2,1.3,8.8,1.4,10.2
+251,33,O,31440,22nd Ave W & W Bertona St,29,PM,0,1.3,7.6,0.1,10
+251,33,O,31450,22nd Ave W & W Ruffner St,30,PM,0,0.9,6.7,0.3,7.3
+251,33,O,31460,22nd Ave W & Gilman Ave W,31,PM,0.1,0.8,6,0.5,6.4
+251,33,O,40073,Gilman Ave W & W Emerson Pl,32,PM,0.2,0.7,5.5,1.4,5.7
+251,33,O,31481,Gilman Ave W & W Elmore St,33,PM,0,0.3,5.2,0.3,2.5
+251,33,O,31500,Gilman Ave W & 27th Ave W,34,PM,0,0.4,4.8,0,3.2
+251,33,O,31510,Gilman Ave W & 28th Pl W,35,PM,0,0.2,4.6,0,1.2
+251,33,O,31530,W Government Way & 31st Ave W,36,PM,0,0.9,3.8,0,7.4
+251,33,O,24680,W Government Way & 33rd Ave W,37,PM,0.1,1,2.8,0.6,8.3
+251,33,O,31550,W Government Way & 36th Ave W,38,PM,0,1.2,1.7,0.1,9.2
+251,33,O,31552,Texas Way & W Government Way,39,PM,0,0.1,1.6,0,0.6
+251,33,O,31140,Discovery Park Road & Texas Way,40,PM,0,1.7,0,0.2,13.4
+251,33,I,24360,W Government Way & 34th Ave W,4,XEV,1.5,0,1.5,7.3,0
+251,33,I,24370,W Government Way & 32nd Ave W,5,XEV,0.2,0,1.6,0.9,0
+251,33,I,31160,W Government Way & 31st Ave W,6,XEV,0,0,1.6,0,0
+251,33,I,31180,Gilman Ave W & 28th Pl W,7,XEV,0,0,1.7,0.1,0
+251,33,I,31190,Gilman Ave W & W Jameson St,8,XEV,0.1,0,1.7,0.4,0
+251,33,I,31210,Gilman Ave W & 25th Ave W,9,XEV,0,0,1.8,0.1,0
+251,33,I,31220,Gilman Ave W & 24th Ave W,10,XEV,0.1,0,1.9,0.7,0
+251,33,I,40077,Gilman Ave W & 23rd Ave W,11,XEV,0,0,1.9,0,0
+251,33,I,31230,22nd Ave W & Gilman Ave W,12,XEV,0.1,0,1.9,0.4,0
+251,33,I,31240,22nd Ave W & W Ruffner St,13,XEV,0.1,0,2,0.3,0
+251,33,I,31250,22nd Ave W & W Bertona St,14,XEV,0.1,0,2,0.3,0
+251,33,I,31260,22nd Ave W & W Dravus St,15,XEV,0.1,0,2.1,0.7,0.1
+251,33,I,31270,22nd Ave W & W Barrett St,16,XEV,0.1,0,2.2,0.4,0
+251,33,I,31280,22nd Ave W & W Armour St,17,XEV,0.1,0,2.4,0.7,0
+251,33,I,31290,22nd Ave W & Thorndyke Ave W,18,XEV,0.1,0,2.5,0.7,0
+251,33,I,31300,Thorndyke Ave W & 23rd Ave W,19,XEV,0,0,2.5,0,0
+251,33,I,31310,Thorndyke Ave W & Thorndyke Pl W,20,XEV,0,0,2.5,0,0
+251,33,I,31320,Thorndyke Ave W & W Boston St,21,XEV,0.1,0,2.6,0.3,0
+251,33,I,31330,Thorndyke Ave W & W Newton St,22,XEV,0.1,0,2.6,0.4,0.2
+251,33,I,31340,W Blaine St & 27th Ave W,23,XEV,0,0,2.6,0,0
+251,33,I,20700,28th Ave W & W Blaine St,24,XEV,0.3,0,2.8,1.3,0.1
+251,33,I,20710,28th Ave W & W Eaton St,25,XEV,0,0,2.8,0,0
+251,33,I,20720,W Galer St & Thorndyke Ave W,26,XEV,0.1,0,2.9,0.3,0
+251,33,I,20730,Magnolia Brdg & Pier 91,27,XEV,0,0,2.9,0.1,0
+251,33,I,13870,Elliott Ave W & W Galer St,28,XEV,0.4,0.1,3.2,1.8,0.5
+251,33,I,13890,Elliott Ave W & W Prospect St,29,XEV,0.4,0.1,3.5,1.9,0.3
+251,33,I,19380,Elliott Ave W & W Roy St,30,XEV,0.1,0,3.5,0.3,0
+251,33,I,19390,Elliott Ave W & W Mercer St,31,XEV,0.3,0,3.7,1.3,0.2
+251,33,I,19410,Elliott Ave W & W Harrison St,32,XEV,0.2,0,3.9,1,0
+251,33,I,19420,Western Ave W & Elliott Ave W,33,XEV,0.5,0.1,4.3,2.6,0.5
+251,33,I,2244,Denny Way & 2nd Ave N,34,XEV,0.6,0.8,3.9,3.3,4.9
+251,33,I,2220,3rd Ave & Cedar St,35,XEV,0.7,0.5,4,4,3.2
+251,33,I,400,3rd Ave & Bell St,36,XEV,0.5,0.8,4.5,2.4,3.9
+251,33,I,420,3rd Ave & Virginia St,37,XEV,0.2,1.1,3.6,1,5.4
+251,33,I,433,3rd Ave & Pike St,38,XEV,0.2,1.9,1.9,0.9,9.5
+251,33,I,468,3rd Ave & Seneca St,39,XEV,0.1,0.7,1.2,0.5,3.7
+251,33,I,490,3rd Ave & Cherry St,40,XEV,0,0.5,0.8,0.2,2.7
+251,33,I,515,3rd Ave S & S Main St,41,XEV,0.4,1.1,0,1.8,5.7
+251,33,O,30635,4th Ave S & S Royal Brougham Way,1,XEV,0.5,0,0.5,1.8,0
+251,33,O,619,4th Ave S & S Jackson St,2,XEV,1.4,0.6,1.3,5.6,2.4
+251,33,O,531,3rd Ave & James St,4,XEV,0.8,0.2,1.9,3.2,0.8
+251,33,O,548,3rd Ave & Madison St,5,XEV,0.9,0.3,2.6,3.7,1
+251,33,O,570,3rd Ave & Union St,6,XEV,1.8,0.6,3.7,7,2.2
+251,33,O,590,3rd Ave & Pine St,7,XEV,3.3,0.4,6.7,13.3,1.7
+251,33,O,600,3rd Ave & Virginia St,8,XEV,1.3,0.8,7.1,5,3
+251,33,O,605,3rd Ave & Bell St,9,XEV,1.2,0.8,7.5,4.8,3.2
+251,33,O,1690,3rd Ave & Vine St,10,XEV,0.4,1,7,1.7,3.8
+251,33,O,20829,Denny Way & 2nd Ave N,11,XEV,0.6,0.7,6.9,2.3,2.9
+251,33,O,19440,Denny Way & Queen Anne Ave N,12,XEV,0.6,0.5,6.9,2.2,2.1
+251,33,O,19460,Western Ave W & Elliott Ave W,13,XEV,0.1,0.6,6.4,0.5,2.4
+251,33,O,19470,Elliott Ave W & 4th Ave W,14,XEV,0.1,0.1,6.4,0.4,0.4
+251,33,O,19480,Elliott Ave W & 6th Ave W,15,XEV,0.1,0.3,6.8,0.3,1.5
+251,33,O,19490,Elliott Ave W & W Mercer St,16,XEV,0.1,0.2,6.6,0.4,1.2
+251,33,O,19500,Elliott Ave W & W Mercer Pl,17,XEV,0,0,6.6,0,0.2
+251,33,O,14070,Elliott Ave W & W Prospect St,18,XEV,0.3,0.4,6.5,1.6,2.2
+251,33,O,20880,Thorndyke Ave W & W Hayes St,19,XEV,0,0.7,5.8,0.2,3.5
+251,33,O,31350,Thorndyke Ave W & W Blaine St,20,XEV,0.1,0.2,5.7,0.3,0.9
+251,33,O,31360,Thorndyke Ave W & W Newton St,21,XEV,0,0.3,5.4,0,1.4
+251,33,O,31370,Thorndyke Ave W & W Boston St,22,XEV,0,0.2,5.2,0,1.2
+251,33,O,31380,Thorndyke Ave W & W Lynn St,23,XEV,0,0.1,5,0,0.6
+251,33,O,31390,Thorndyke Ave W & 23rd Ave W,24,XEV,0,0.1,4.9,0,0.4
+251,33,O,31400,22nd Ave W & Thorndyke Ave W,25,XEV,0,0.7,4.2,0,3.4
+251,33,O,31410,22nd Ave W & W Armour St,26,XEV,0,0.4,3.9,0,1.8
+251,33,O,31420,22nd Ave W & W Barrett St,27,XEV,0,0.3,3.7,0,1.3
+251,33,O,31430,22nd Ave W & W Dravus St,28,XEV,0,0.3,3.4,0.1,1.7
+251,33,O,31440,22nd Ave W & W Bertona St,29,XEV,0,0.3,3.1,0,1.7
+251,33,O,31450,22nd Ave W & W Ruffner St,30,XEV,0,0.2,2.9,0,0.9
+251,33,O,31460,22nd Ave W & Gilman Ave W,31,XEV,0,0.3,2.7,0.1,1.5
+251,33,O,40073,Gilman Ave W & W Emerson Pl,32,XEV,0.1,0.2,2.6,0.6,0.9
+251,33,O,31481,Gilman Ave W & W Elmore St,33,XEV,0,0.2,2.4,0,0.9
+251,33,O,31500,Gilman Ave W & 27th Ave W,34,XEV,0,0.1,2.4,0.1,0.5
+251,33,O,31510,Gilman Ave W & 28th Pl W,35,XEV,0,0,2.3,0,0.2
+251,33,O,31530,W Government Way & 31st Ave W,36,XEV,0,0.2,2.1,0,1.2
+251,33,O,24680,W Government Way & 33rd Ave W,37,XEV,0,0.5,1.6,0,2.3
+251,33,O,31550,W Government Way & 36th Ave W,38,XEV,0,0.4,1.2,0,2.1
+251,33,O,31552,Texas Way & W Government Way,39,XEV,0,0,1.2,0,0
+251,33,O,31140,Discovery Park Road & Texas Way,40,XEV,0.4,0.3,1.3,1.9,1.5
+251,33,O,31547,Texas Way & W Government Way,41,XEV,0,0,1.3,0.1,0
+251,33,O,31150,W Government Way & 36th Ave W,42,XEV,0.1,0,1.4,0.6,0
+251,33,O,24360,W Government Way & 34th Ave W,43,XEV,0.1,1.5,0,0.3,7.3

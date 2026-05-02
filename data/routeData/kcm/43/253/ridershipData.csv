@@ -1,0 +1,242 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,43,I,10911,U District Station - Bay 3,1,AM,5.5,0,5.5,16.5,0
+253,43,I,10912,15th Ave NE & NE 43rd St,2,AM,2.3,2.7,5.1,6.8,8.1
+253,43,I,10914,15th Ave NE & NE Campus Pkwy,3,AM,0.9,1.7,4.3,2.8,5.1
+253,43,I,10917,15th Ave NE & NE 40th St,4,AM,0.7,1.5,3.5,2.1,4.6
+253,43,I,29240,NE Pacific St & 15th Ave NE,5,AM,0.5,2.8,1.1,1.4,8.5
+253,43,I,29247,NE Pacific St & Montlake Blvd NE - Bay 1,6,AM,1.7,2.3,0.4,5,7
+253,43,I,29238,East Montlake Pl E & E Roanoke St,7,AM,0.3,0.1,0.7,1,0.2
+253,43,I,29244,24th Ave E & E Mcgraw St,8,AM,2.2,1.2,1.7,6.6,3.7
+253,43,I,29248,24th Ave E & E Newton St,9,AM,0.3,0,2,0.8,0
+253,43,I,29249,24th Ave E & Boyer Ave E,10,AM,0.9,0,2.9,2.8,0
+253,43,I,29251,24th Ave E & E Galer St,11,AM,1.5,0.1,4.6,3,0.2
+253,43,I,29253,24th Ave E & E Prospect St,12,AM,0.1,0,4.7,0.2,0
+253,43,I,29254,23rd Ave E & E Aloha St,13,AM,0.7,0.2,5.2,1.4,0.4
+253,43,I,29256,23rd Ave E & E Republican St,14,AM,0.2,0.1,5.4,0.3,0.1
+253,43,I,29257,23rd Ave E & E Thomas St,15,AM,0.2,0.7,4.8,0.4,1.4
+253,43,I,29258,E John St & 22nd Ave E,16,AM,0.9,0.6,5.1,1.8,1.1
+253,43,I,29259,E Thomas St & 19th Ave E,17,AM,0.8,0.2,5.8,1.5,0.3
+253,43,I,29260,E Thomas St & 16th Ave E,18,AM,0.5,0.6,5.6,0.9,1.2
+253,43,I,29261,E John St & 15th Ave E,19,AM,1.2,0.4,6.4,2.4,0.7
+253,43,I,29301,E John St & 12th Ave E,20,AM,0.2,0.1,6.6,0.4,0.1
+253,43,I,29262,E John St & Broadway  E - Bay 2,21,AM,0.3,1.6,5.3,0.5,3.2
+253,43,I,11060,Broadway & E Denny Way - Bay 4,22,AM,2.7,0.7,7.2,5.3,1.4
+253,43,I,11070,Broadway & E Pine St,23,AM,0.2,0.4,6.9,0.3,0.8
+253,43,I,41980,Broadway & Pike-Pine,24,AM,0.4,0.4,6.9,0.7,0.7
+253,43,I,41982,Broadway & E Union St,25,AM,0.1,1.9,5.2,0.2,3.7
+253,43,I,41986,Broadway & Marion,26,AM,0.3,2.2,3.3,0.5,4.3
+253,43,I,41987,Broadway & Terrace St,27,AM,0,2.5,0.9,0,5
+253,43,I,41989,Boren Ave & E Yesler Way,28,AM,1.1,1.9,0,2.1,3.7
+253,43,O,41902,Boren Ave & E Yesler Way,1,AM,1,0,1,11.2,0.2
+253,43,O,41904,Broadway & Terrace St,2,AM,1.2,0.2,2,12.9,1.9
+253,43,O,41908,Broadway & Marion,3,AM,0.4,0.2,2.2,4.3,2.5
+253,43,O,41965,Broadway & E Union St,4,AM,0.6,0.1,2.6,5.9,1.1
+253,43,O,41970,Broadway & Pike-Pine,5,AM,0.3,0.2,2.7,2.9,1.7
+253,43,O,29270,E John St & Broadway  E - Bay 1,6,AM,1.8,0.9,3.5,19.3,9.4
+253,43,O,29277,E John St & 12th Ave E,7,AM,0.3,0,3.7,3.1,0.3
+253,43,O,29273,E John St & 15th Ave E,8,AM,0.5,1.5,2.7,5.1,16.9
+253,43,O,29274,E Thomas St & 16th Ave E,9,AM,0.6,0.1,3.2,6.8,0.9
+253,43,O,29275,E Thomas St & 19th Ave E,10,AM,0.8,0.4,3.6,8.4,4
+253,43,O,29276,E John St & 22nd Ave E,11,AM,0.2,0.3,3.5,2.6,3.8
+253,43,O,35825,23rd Ave E & E John St,12,AM,1.3,0.1,4.7,14.1,0.6
+253,43,O,29278,23rd Ave E & E Republican St,13,AM,0.6,0,5.3,6.4,0
+253,43,O,29280,23rd Ave E & E Aloha St,14,AM,0.5,0.1,5.7,5.1,0.6
+253,43,O,29300,24th Ave E & E Prospect St,15,AM,0.1,0,5.8,0.7,0
+253,43,O,29320,24th Ave E & E Galer St,16,AM,0.2,0,6,2,0
+253,43,O,29340,24th Ave E & Boyer Ave E,17,AM,0.5,0,6.5,6,0.5
+253,43,O,29350,24th Ave E & E Newton St,18,AM,0.1,0,6.5,0.8,0.3
+253,43,O,29361,24th Ave E & E Mcgraw St,19,AM,0.3,0.3,6.5,3.8,3.4
+253,43,O,29380,East Montlake Pl E & E Roanoke St,20,AM,0.1,0.1,6.5,0.7,0.7
+253,43,O,25751,Montlake Blvd E & Sr 520,21,AM,0.1,1,5.6,0.5,9.7
+253,43,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,22,AM,0,5.6,0,0,56
+253,43,I,10911,U District Station - Bay 3,1,MID,5.1,0,5.1,10.1,0
+253,43,I,10912,15th Ave NE & NE 43rd St,2,MID,2.3,2.8,4.5,4.5,5.5
+253,43,I,10914,15th Ave NE & NE Campus Pkwy,3,MID,1.3,1.9,4,2.6,3.7
+253,43,I,10917,15th Ave NE & NE 40th St,4,MID,1,1.7,3.3,2,3.3
+253,43,I,29240,NE Pacific St & 15th Ave NE,5,MID,0.8,3.2,0.9,1.6,6.3
+253,43,I,29247,NE Pacific St & Montlake Blvd NE - Bay 1,6,MID,1.5,1.7,0.8,3,3.3
+253,43,I,29238,East Montlake Pl E & E Roanoke St,7,MID,0.3,0.1,0.9,0.5,0.2
+253,43,I,29244,24th Ave E & E Mcgraw St,8,MID,2.3,1.4,2,4.6,2.7
+253,43,I,29248,24th Ave E & E Newton St,9,MID,0.3,0.1,2.2,0.5,0.2
+253,43,I,29249,24th Ave E & Boyer Ave E,10,MID,0.4,0.1,2.5,0.8,0.2
+253,43,I,29251,24th Ave E & E Galer St,11,MID,0.3,0.1,2.6,0.8,0.2
+253,43,I,29253,24th Ave E & E Prospect St,12,MID,0.1,0,2.7,0.4,0
+253,43,I,29254,23rd Ave E & E Aloha St,13,MID,0.2,0.2,2.7,0.5,0.6
+253,43,I,29256,23rd Ave E & E Republican St,14,MID,0.1,0.1,2.7,0.3,0.4
+253,43,I,29257,23rd Ave E & E Thomas St,15,MID,0.1,0.2,2.5,0.2,0.7
+253,43,I,29258,E John St & 22nd Ave E,16,MID,0.7,0.4,2.8,2,1.1
+253,43,I,29259,E Thomas St & 19th Ave E,17,MID,0.6,0.2,3.2,1.7,0.5
+253,43,I,29260,E Thomas St & 16th Ave E,18,MID,0.5,0.5,3.1,1.4,1.6
+253,43,I,29261,E John St & 15th Ave E,19,MID,1.4,0.4,4.2,4.1,1.1
+253,43,I,29301,E John St & 12th Ave E,20,MID,0.2,0.2,4.2,0.5,0.5
+253,43,I,29262,E John St & Broadway  E - Bay 2,21,MID,0.2,1.7,2.6,0.7,5.2
+253,43,I,11060,Broadway & E Denny Way - Bay 4,22,MID,1.1,0.5,3.2,3.3,1.5
+253,43,I,11070,Broadway & E Pine St,23,MID,0.1,0.5,2.9,0.3,1.4
+253,43,I,41980,Broadway & Pike-Pine,24,MID,0.5,0.3,3.1,1.6,1
+253,43,I,41982,Broadway & E Union St,25,MID,0.1,0.3,3,0.3,0.8
+253,43,I,41986,Broadway & Marion,26,MID,0.3,1.1,2.1,0.8,3.3
+253,43,I,41987,Broadway & Terrace St,27,MID,0,1.4,0.8,0.1,4.1
+253,43,I,41989,Boren Ave & E Yesler Way,28,MID,1.4,2.2,0,4.3,6.6
+253,43,O,41902,Boren Ave & E Yesler Way,1,MID,1.3,0,1.3,2.5,0
+253,43,O,41904,Broadway & Terrace St,2,MID,2,0.2,3.1,3.9,0.3
+253,43,O,41908,Broadway & Marion,3,MID,1.6,0.1,4.6,3.2,0.2
+253,43,O,41965,Broadway & E Union St,4,MID,0.6,0.3,4.2,1.8,0.9
+253,43,O,41970,Broadway & Pike-Pine,5,MID,0.8,0.5,4.4,2.4,1.6
+253,43,O,29270,E John St & Broadway  E - Bay 1,6,MID,3.6,2.6,5.5,10.8,7.7
+253,43,O,29277,E John St & 12th Ave E,7,MID,0.3,0.3,5.5,0.8,0.8
+253,43,O,29273,E John St & 15th Ave E,8,MID,0.6,2.8,3.3,1.9,8.4
+253,43,O,29274,E Thomas St & 16th Ave E,9,MID,0.5,0.4,3.4,1.5,1.1
+253,43,O,29275,E Thomas St & 19th Ave E,10,MID,0.7,0.7,3.5,1.3,1.3
+253,43,O,29276,E John St & 22nd Ave E,11,MID,0.3,0.6,3.1,0.5,1.2
+253,43,O,35825,23rd Ave E & E John St,12,MID,1.4,0.2,4.4,2.8,0.3
+253,43,O,29278,23rd Ave E & E Republican St,13,MID,0.7,0.1,5,1.4,0.1
+253,43,O,29280,23rd Ave E & E Aloha St,14,MID,1.8,0.2,6.6,3.6,0.4
+253,43,O,29300,24th Ave E & E Prospect St,15,MID,0.1,0.1,6.6,0.1,0.1
+253,43,O,29320,24th Ave E & E Galer St,16,MID,0.2,0.1,6.7,0.3,0.1
+253,43,O,29340,24th Ave E & Boyer Ave E,17,MID,0.2,0.3,6.6,0.4,0.6
+253,43,O,29350,24th Ave E & E Newton St,18,MID,0.1,0.2,6.5,0.2,0.4
+253,43,O,29361,24th Ave E & E Mcgraw St,19,MID,0.5,1.1,5.9,1,2.1
+253,43,O,29380,East Montlake Pl E & E Roanoke St,20,MID,0.1,0.2,6.1,0.3,0.5
+253,43,O,25751,Montlake Blvd E & Sr 520,21,MID,0.1,1.1,5.1,0.4,3.2
+253,43,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,22,MID,0.2,5.3,0,0.5,15.8
+253,43,I,10911,U District Station - Bay 3,1,PM,1.8,0,1.8,1.8,0
+253,43,I,10912,15th Ave NE & NE 43rd St,2,PM,1.2,1.1,1.9,1.2,1.1
+253,43,I,10914,15th Ave NE & NE Campus Pkwy,3,PM,1.7,1.1,2.4,1.7,1.1
+253,43,I,10917,15th Ave NE & NE 40th St,4,PM,1.3,0.4,3.3,1.3,0.4
+253,43,I,29240,NE Pacific St & 15th Ave NE,5,PM,2.3,0.4,5.2,2.3,0.4
+253,43,I,29247,NE Pacific St & Montlake Blvd NE - Bay 1,6,PM,3,1.4,6.8,3,1.4
+253,43,I,29238,East Montlake Pl E & E Roanoke St,7,PM,1.1,0.2,7.7,1.1,0.2
+253,43,I,29244,24th Ave E & E Mcgraw St,8,PM,1.9,1.5,8.1,1.9,1.5
+253,43,I,29248,24th Ave E & E Newton St,9,PM,0.1,0.1,8.1,0.1,0.1
+253,43,I,29249,24th Ave E & Boyer Ave E,10,PM,0.1,0.3,7.9,0.1,0.3
+253,43,I,29251,24th Ave E & E Galer St,11,PM,0.1,0.2,7.9,0.1,0.2
+253,43,I,29253,24th Ave E & E Prospect St,12,PM,0,0,7.8,0,0
+253,43,I,29254,23rd Ave E & E Aloha St,13,PM,0.1,0.6,7.3,0.1,0.6
+253,43,I,29256,23rd Ave E & E Republican St,14,PM,0.1,0.5,6.9,0.1,0.5
+253,43,I,29257,23rd Ave E & E Thomas St,15,PM,0.2,0.8,6.3,0.2,0.8
+253,43,I,29258,E John St & 22nd Ave E,16,PM,0.8,1.1,6,0.8,1.1
+253,43,I,29259,E Thomas St & 19th Ave E,17,PM,0.6,0.7,6,0.6,0.7
+253,43,I,29260,E Thomas St & 16th Ave E,18,PM,0.2,1.4,4.8,0.2,1.4
+253,43,I,29261,E John St & 15th Ave E,19,PM,1.9,1.1,5.6,1.9,1.1
+253,43,O,41902,Boren Ave & E Yesler Way,1,PM,0.9,0,0.9,0.9,0
+253,43,O,41904,Broadway & Terrace St,2,PM,2.2,0.1,3,2.2,0.1
+253,43,O,41908,Broadway & Marion,3,PM,2.2,0.1,5.1,2.2,0.1
+253,43,O,41965,Broadway & E Union St,4,PM,0.9,0.3,5.7,0.9,0.3
+253,43,O,41970,Broadway & Pike-Pine,5,PM,1,0.8,6,1,0.8
+253,43,O,29270,E John St & Broadway  E - Bay 1,6,PM,5.1,3.7,7.4,5.1,3.7
+253,43,O,29277,E John St & 12th Ave E,7,PM,0.3,0.3,7.4,0.3,0.3
+253,43,O,29273,E John St & 15th Ave E,8,PM,0.6,3.7,4.3,0.6,3.7
+253,43,O,29274,E Thomas St & 16th Ave E,9,PM,0.4,0.4,4.2,0.4,0.4
+253,43,O,29275,E Thomas St & 19th Ave E,10,PM,0.3,1,3,0.5,2
+253,43,O,29276,E John St & 22nd Ave E,11,PM,0.2,0.8,2.4,0.3,1.5
+253,43,O,35825,23rd Ave E & E John St,12,PM,0.8,0.2,3.1,1.5,0.3
+253,43,O,29278,23rd Ave E & E Republican St,13,PM,0.4,0.1,3.3,0.7,0.2
+253,43,O,29280,23rd Ave E & E Aloha St,14,PM,0.5,0.4,3.5,1,0.8
+253,43,O,29300,24th Ave E & E Prospect St,15,PM,0,0.1,3.4,0,0.2
+253,43,O,29320,24th Ave E & E Galer St,16,PM,0.2,0.1,3.4,0.3,0.2
+253,43,O,29340,24th Ave E & Boyer Ave E,17,PM,0.2,0.3,3.3,0.3,0.6
+253,43,O,29350,24th Ave E & E Newton St,18,PM,0,0.2,3.1,0,0.3
+253,43,O,29361,24th Ave E & E Mcgraw St,19,PM,0.6,0.8,3,1.1,1.5
+253,43,O,29380,East Montlake Pl E & E Roanoke St,20,PM,0,0.1,2.9,0,0.2
+253,43,O,25751,Montlake Blvd E & Sr 520,21,PM,0.1,0.6,2.4,0.2,1.1
+253,43,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,22,PM,0,2.4,0,0,4.8
+253,43,I,10911,U District Station - Bay 3,1,XEV,1.1,0,1.1,7.4,0
+253,43,I,10912,15th Ave NE & NE 43rd St,2,XEV,0.7,0.5,1.2,4.8,3.4
+253,43,I,10914,15th Ave NE & NE Campus Pkwy,3,XEV,0.9,0.6,1.6,6.6,4
+253,43,I,10917,15th Ave NE & NE 40th St,4,XEV,0.7,0.2,2,4.7,1.7
+253,43,I,29240,NE Pacific St & 15th Ave NE,5,XEV,0.8,0.2,2.7,5.9,1.5
+253,43,I,29247,NE Pacific St & Montlake Blvd NE - Bay 1,6,XEV,2.3,0.5,4.5,16.1,3.4
+253,43,I,29238,East Montlake Pl E & E Roanoke St,7,XEV,0.4,0.2,4.7,2.6,1.2
+253,43,I,29244,24th Ave E & E Mcgraw St,8,XEV,1.7,1.2,5.2,11.6,8.4
+253,43,I,29248,24th Ave E & E Newton St,9,XEV,0.1,0.1,5.2,0.8,0.5
+253,43,I,29249,24th Ave E & Boyer Ave E,10,XEV,0.1,0.2,5.1,0.7,1.1
+253,43,I,29251,24th Ave E & E Galer St,11,XEV,0,0.1,5,0.2,0.9
+253,43,I,29253,24th Ave E & E Prospect St,12,XEV,0,0.1,5,0,0.5
+253,43,I,29254,23rd Ave E & E Aloha St,13,XEV,0.1,0.3,4.7,0.4,2.1
+253,43,I,29256,23rd Ave E & E Republican St,14,XEV,0,0.3,4.4,0.3,2.2
+253,43,I,29257,23rd Ave E & E Thomas St,15,XEV,0.1,0.5,4,0.7,3.4
+253,43,I,29258,E John St & 22nd Ave E,16,XEV,0.5,0.6,3.9,3.8,4.3
+253,43,I,29259,E Thomas St & 19th Ave E,17,XEV,0.5,0.5,3.9,3.3,3.5
+253,43,I,29260,E Thomas St & 16th Ave E,18,XEV,0.2,0.7,3.5,1.6,4.6
+253,43,I,29261,E John St & 15th Ave E,19,XEV,1.4,0.7,4.2,9.6,4.9
+253,43,I,29301,E John St & 12th Ave E,20,XEV,0.1,0.3,4.2,0.7,2.1
+253,43,I,29262,E John St & Broadway  E - Bay 2,21,XEV,0.4,1.7,2.9,3.2,13.2
+253,43,I,11060,Broadway & E Denny Way - Bay 4,22,XEV,0.9,0.5,3.3,6.9,3.6
+253,43,I,11070,Broadway & E Pine St,23,XEV,0.1,0.4,3,0.5,3.5
+253,43,I,41980,Broadway & Pike-Pine,24,XEV,1,0.7,3.3,8.2,5.9
+253,43,I,41982,Broadway & E Union St,25,XEV,0.2,0.5,2.9,1.3,4.1
+253,43,I,41986,Broadway & Marion,26,XEV,0.2,0.6,2.5,1.2,4.6
+253,43,I,41987,Broadway & Terrace St,27,XEV,0,1.4,1.1,0.1,11.5
+253,43,I,41989,Boren Ave & E Yesler Way,28,XEV,0.2,1.3,0,1.5,10.1
+253,43,O,41902,Boren Ave & E Yesler Way,1,XEV,1,0,1,2,0
+253,43,O,41904,Broadway & Terrace St,2,XEV,1.3,0.1,2.2,2.5,0.1
+253,43,O,41908,Broadway & Marion,3,XEV,0.7,0.1,2.7,1.3,0.1
+253,43,O,41965,Broadway & E Union St,4,XEV,0.8,0.4,3.1,1.5,0.7
+253,43,O,41970,Broadway & Pike-Pine,5,XEV,0.7,0.5,3.3,1.4,1
+253,43,O,29270,E John St & Broadway  E - Bay 1,6,XEV,2.5,1.3,4.4,4.9,2.6
+253,43,O,29277,E John St & 12th Ave E,7,XEV,0.2,0.2,4.4,0.4,0.3
+253,43,O,29273,E John St & 15th Ave E,8,XEV,0.4,1.7,3,0.7,3.4
+253,43,O,29274,E Thomas St & 16th Ave E,9,XEV,0.3,0.4,2.9,0.5,0.7
+253,43,O,29275,E Thomas St & 19th Ave E,10,XEV,0.2,0.5,2.6,0.3,0.9
+253,43,O,29276,E John St & 22nd Ave E,11,XEV,0.1,0.6,2.1,0.2,1.2
+253,43,O,35825,23rd Ave E & E John St,12,XEV,0.4,0.1,2.4,0.8,0.1
+253,43,O,29278,23rd Ave E & E Republican St,13,XEV,0.1,0.1,2.4,0.2,0.2
+253,43,O,29280,23rd Ave E & E Aloha St,14,XEV,0.1,0.2,2.3,0.1,0.3
+253,43,O,29300,24th Ave E & E Prospect St,15,XEV,0,0.1,2.3,0,0.1
+253,43,O,29320,24th Ave E & E Galer St,16,XEV,0,0.1,2.3,0,0.2
+253,43,O,29340,24th Ave E & Boyer Ave E,17,XEV,0.1,0.4,1.9,0.1,0.7
+253,43,O,29350,24th Ave E & E Newton St,18,XEV,0,0.1,1.9,0,0.2
+253,43,O,29361,24th Ave E & E Mcgraw St,19,XEV,0.3,0.3,1.8,0.5,0.5
+253,43,O,29380,East Montlake Pl E & E Roanoke St,20,XEV,0.1,0.1,1.8,0.1,0.1
+253,43,O,25751,Montlake Blvd E & Sr 520,21,XEV,0,0.2,1.7,0,0.4
+253,43,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,22,XEV,0,1.7,0,0,3.3
+253,43,I,10911,U District Station - Bay 3,1,XNT,0.9,0,0.9,5.3,0
+253,43,I,10912,15th Ave NE & NE 43rd St,2,XNT,0.4,0.3,1,2.5,1.5
+253,43,I,10914,15th Ave NE & NE Campus Pkwy,3,XNT,0.4,0.2,1.3,2.5,0.9
+253,43,I,10917,15th Ave NE & NE 40th St,4,XNT,0.5,0.1,1.7,2.9,0.3
+253,43,I,29240,NE Pacific St & 15th Ave NE,5,XNT,0.1,0,1.8,0.6,0.1
+253,43,I,29247,NE Pacific St & Montlake Blvd NE - Bay 1,6,XNT,1,0.3,2.5,6.2,1.8
+253,43,I,29238,East Montlake Pl E & E Roanoke St,7,XNT,0,0,2.5,0.2,0.2
+253,43,I,29244,24th Ave E & E Mcgraw St,8,XNT,1.1,0.9,2.7,6.4,5.1
+253,43,I,29248,24th Ave E & E Newton St,9,XNT,0.1,0.1,2.7,0.3,0.3
+253,43,I,29249,24th Ave E & Boyer Ave E,10,XNT,0,0,2.8,0.2,0.1
+253,43,I,29251,24th Ave E & E Galer St,11,XNT,0,0,2.8,0.1,0.1
+253,43,I,29253,24th Ave E & E Prospect St,12,XNT,0,0,2.8,0,0
+253,43,I,29254,23rd Ave E & E Aloha St,13,XNT,0,0.1,2.7,0.1,0.3
+253,43,I,29256,23rd Ave E & E Republican St,14,XNT,0,0.2,2.6,0.1,0.9
+253,43,I,29257,23rd Ave E & E Thomas St,15,XNT,0,0.3,2.4,0.1,1.5
+253,43,I,29258,E John St & 22nd Ave E,16,XNT,0.2,0.3,2.2,0.9,1.6
+253,43,I,29259,E Thomas St & 19th Ave E,17,XNT,0.1,0.1,2.2,0.3,0.5
+253,43,I,29260,E Thomas St & 16th Ave E,18,XNT,0.1,0.1,2.2,0.5,0.5
+253,43,I,29261,E John St & 15th Ave E,19,XNT,0.3,0.2,2.3,2,1.3
+253,43,I,29301,E John St & 12th Ave E,20,XNT,0.1,0.2,2.2,0.3,0.9
+253,43,I,29262,E John St & Broadway  E - Bay 2,21,XNT,0.4,0.6,2,2.5,3.7
+253,43,I,11060,Broadway & E Denny Way - Bay 4,22,XNT,0.4,0.3,2.2,2.5,1.5
+253,43,I,11070,Broadway & E Pine St,23,XNT,0.2,0.1,2.2,1.3,0.8
+253,43,I,41980,Broadway & Pike-Pine,24,XNT,0.5,0.3,2.3,2.7,2
+253,43,I,41982,Broadway & E Union St,25,XNT,0.2,0.1,2.5,1.4,0.7
+253,43,I,41986,Broadway & Marion,26,XNT,0.1,0.4,2.1,0.5,2.6
+253,43,I,41987,Broadway & Terrace St,27,XNT,0,0.7,1.4,0.2,4.3
+253,43,I,41989,Boren Ave & E Yesler Way,28,XNT,0.5,1.9,0,2.8,11.1
+253,43,O,41902,Boren Ave & E Yesler Way,1,XNT,1.4,0,1.3,4.1,0
+253,43,O,41904,Broadway & Terrace St,2,XNT,0.4,0,1.7,1.3,0.1
+253,43,O,41908,Broadway & Marion,3,XNT,0.1,0.3,1.5,0.3,0.9
+253,43,O,41965,Broadway & E Union St,4,XNT,0.3,0.1,1.8,0.9,0.2
+253,43,O,41970,Broadway & Pike-Pine,5,XNT,0.1,0.3,1.5,0.2,0.9
+253,43,O,29270,E John St & Broadway  E - Bay 1,6,XNT,0.7,0.4,1.8,1.3,0.7
+253,43,O,29277,E John St & 12th Ave E,7,XNT,0.3,0,2.1,0.6,0
+253,43,O,29273,E John St & 15th Ave E,8,XNT,0,0.3,1.8,0,0.6
+253,43,O,29274,E Thomas St & 16th Ave E,9,XNT,0.1,0,1.9,0.1,0
+253,43,O,29275,E Thomas St & 19th Ave E,10,XNT,0,0,1.8,0,0
+253,43,O,29276,E John St & 22nd Ave E,11,XNT,0,0.6,1.3,0,1.2
+253,43,O,35825,23rd Ave E & E John St,12,XNT,0.1,0.1,1.3,0.1,0.1
+253,43,O,29278,23rd Ave E & E Republican St,13,XNT,0,0,1.3,0,0
+253,43,O,29280,23rd Ave E & E Aloha St,14,XNT,0,0,1.3,0,0
+253,43,O,29300,24th Ave E & E Prospect St,15,XNT,0,0,1.3,0,0
+253,43,O,29320,24th Ave E & E Galer St,16,XNT,0,0,1.3,0,0
+253,43,O,29340,24th Ave E & Boyer Ave E,17,XNT,0.4,0,1.7,0.8,0
+253,43,O,29350,24th Ave E & E Newton St,18,XNT,0,0,1.7,0,0
+253,43,O,29361,24th Ave E & E Mcgraw St,19,XNT,0.3,0.1,1.9,0.6,0.2
+253,43,O,29380,East Montlake Pl E & E Roanoke St,20,XNT,0,0,1.9,0,0
+253,43,O,25751,Montlake Blvd E & Sr 520,21,XNT,0,0.1,1.9,0,0.1
+253,43,O,29405,NE Pacific St & Montlake Blvd NE - Bay 2,22,XNT,0,1.9,0,0,3.7

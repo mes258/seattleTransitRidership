@@ -1,0 +1,521 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,24,I,20530,W Emerson St & Magnolia Blvd W,1,AM,0.6,0,0.5,4.7,0.1
+253,24,I,20540,West Viewmont Way W & W Ruffner St,2,AM,0.3,0,0.8,2.6,0.3
+253,24,I,20550,West Viewmont Way W & W Bertona St,3,AM,0.2,0,1,1.7,0
+253,24,I,20560,West Viewmont Way W & W Dravus St,4,AM,0.1,0,1.1,0.7,0
+253,24,I,20570,West Viewmont Way W & W Barrett St,5,AM,0,0,1.1,0.3,0
+253,24,I,20580,West Viewmont Way W & W Armour St,6,AM,0.2,0,1.3,1.3,0
+253,24,I,20590,West Viewmont Way W & W Raye St,7,AM,0,0,1.3,0.1,0
+253,24,I,20600,West Viewmont Way W & 42nd Ave W,8,AM,0,0,1.3,0.2,0
+253,24,I,20610,West Viewmont Way W & W Parkmont Pl,9,AM,0.1,0,1.4,0.8,0
+253,24,I,20620,West Viewmont Way W & Montavista Pl W,10,AM,0,0,1.5,0.3,0
+253,24,I,20630,West Viewmont Way W & Constance Dr W,11,AM,0,0,1.5,0,0
+253,24,I,20640,Viewmont Way W & Edgemont Pl W,12,AM,0,0,1.5,0.1,0
+253,24,I,20650,35th Ave W & W Mcgraw St,13,AM,0,0.2,1.4,0.2,1.2
+253,24,I,24260,34th Ave W & W Mcgraw St,14,AM,0.3,0.1,1.5,2.1,1.1
+253,24,I,24270,34th Ave W & W Raye St,15,AM,0.4,0.1,1.7,3.1,1.1
+253,24,I,24280,34th Ave W & W Armour St,16,AM,0.2,0,1.9,1.5,0
+253,24,I,24290,34th Ave W & W Barrett St,17,AM,0.2,0,2.2,1.9,0.1
+253,24,I,24300,34th Ave W & W Dravus St,18,AM,0.2,0,2.4,1.8,0.1
+253,24,I,24310,34th Ave W & W Bertona St,19,AM,0.2,0,2.6,1.9,0.1
+253,24,I,24320,34th Ave W & W Ruffner St,20,AM,0.2,0,2.8,1.8,0
+253,24,I,24330,34th Ave W & W Emerson St,21,AM,1.1,0.2,3.7,8.4,1.3
+253,24,I,24340,34th Ave W & W Thurman St,22,AM,0.4,0,4,2.8,0.1
+253,24,I,24350,34th Ave W & W Elmore St,23,AM,0.1,0,4.1,0.8,0.1
+253,24,I,24360,W Government Way & 34th Ave W,24,AM,0.6,0.3,4.5,4.8,2
+253,24,I,24370,W Government Way & 32nd Ave W,25,AM,0.6,0.1,5,5,0.6
+253,24,I,24380,30th Ave W & W Mansell St,26,AM,0.3,0,5.3,2.6,0
+253,24,I,24390,30th Ave W & W Thurman St,27,AM,0.2,0,5.5,1.8,0.1
+253,24,I,24400,30th Ave W & W Emerson St,28,AM,0.2,0,5.7,1.7,0
+253,24,I,24410,W Tilden St & 30th Ave W,29,AM,0.4,0,6.1,2.9,0.2
+253,24,I,24430,28th Ave W & W Ruffner St,30,AM,2.2,0.1,8.3,15.2,0.6
+253,24,I,24440,28th Ave W & W Bertona St,31,AM,0.4,0.1,8.7,2.9,0.4
+253,24,I,24450,28th Ave W & W Dravus St,32,AM,0.5,0,9.1,3.3,0.1
+253,24,I,24460,28th Ave W & W Barrett St,33,AM,0.5,0,9.7,3.8,0
+253,24,I,24470,28th Ave W & W Fulton St,34,AM,0.1,0,9.8,0.8,0
+253,24,I,24480,28th Ave W & W Raye St,35,AM,0.7,0,10.4,4.6,0.3
+253,24,I,24490,28th Ave W & W Smith St,36,AM,0.5,0,10.9,3.5,0.3
+253,24,I,24500,28th Ave W & W Lynn St,37,AM,0.4,0,11.2,3.1,0.2
+253,24,I,24510,28th Ave W & W Crockett St,38,AM,0.5,0,11.7,3.3,0.3
+253,24,I,20700,28th Ave W & W Blaine St,39,AM,1.2,0.2,12.8,8.5,1.3
+253,24,I,20710,28th Ave W & W Eaton St,40,AM,0.1,0,12.8,0.5,0
+253,24,I,20720,W Galer St & Thorndyke Ave W,41,AM,0.2,0,13,1.4,0
+253,24,I,20730,Magnolia Brdg & Pier 91,42,AM,0,0,13,0.1,0.2
+253,24,I,13870,Elliott Ave W & W Galer St,43,AM,0.2,5.2,8,1.1,36.7
+253,24,I,13890,Elliott Ave W & W Prospect St,44,AM,0.3,1.4,6.8,2.2,10.1
+253,24,I,19380,Elliott Ave W & W Roy St,45,AM,0,0,6.9,0.3,0.2
+253,24,I,19390,Elliott Ave W & W Mercer St,46,AM,0.6,0.2,7.3,4,1.3
+253,24,I,19410,Elliott Ave W & W Harrison St,47,AM,0.1,0.9,6.4,0.9,6.5
+253,24,I,19420,Western Ave W & Elliott Ave W,48,AM,0.5,0.7,6.3,3.7,4.8
+253,24,I,2244,Denny Way & 2nd Ave N,49,AM,0.6,4.8,2.1,4.1,33.7
+253,24,I,2220,3rd Ave & Cedar St,50,AM,0,2.1,0,0,14.8
+253,24,O,30635,4th Ave S & S Royal Brougham Way,1,AM,0.3,0,0.3,2.1,0
+253,24,O,619,4th Ave S & S Jackson St,2,AM,4.7,1.3,3.6,32.6,8.9
+253,24,O,531,3rd Ave & James St,3,AM,1,1.3,3.3,6.7,9.1
+253,24,O,548,3rd Ave & Madison St,4,AM,1.5,1.7,3.2,10.7,11.7
+253,24,O,570,3rd Ave & Union St,5,AM,1.4,1.3,3.2,9.6,9
+253,24,O,590,3rd Ave & Pine St,6,AM,4.6,0.8,7,32.3,5.9
+253,24,O,600,3rd Ave & Virginia St,7,AM,1.7,1.9,6.9,12.2,13.2
+253,24,O,605,3rd Ave & Bell St,8,AM,0.9,0.9,6.9,6.4,6.1
+253,24,O,1690,3rd Ave & Vine St,9,AM,0.3,0.8,6.4,2.4,5.9
+253,24,O,20829,Denny Way & 2nd Ave N,10,AM,0.4,0.5,6.3,2.7,3.3
+253,24,O,19440,Denny Way & Queen Anne Ave N,11,AM,0.5,0.8,6,3.3,5.8
+253,24,O,19460,Western Ave W & Elliott Ave W,12,AM,0.4,1.2,5.2,3,8.3
+253,24,O,19470,Elliott Ave W & 4th Ave W,13,AM,0,0.3,5,0.3,1.8
+253,24,O,19480,Elliott Ave W & 6th Ave W,14,AM,0,0.1,4.9,0,0.5
+253,24,O,19490,Elliott Ave W & W Mercer St,15,AM,0,0.6,4.4,0.1,4.2
+253,24,O,19500,Elliott Ave W & W Mercer Pl,16,AM,0,0.4,4,0,2.9
+253,24,O,14070,Elliott Ave W & W Prospect St,17,AM,0.5,0.9,3.5,3.3,6.6
+253,24,O,20880,Thorndyke Ave W & W Hayes St,18,AM,0,0.1,3.5,0,0.6
+253,24,O,20890,28th Ave W & W Blaine St,19,AM,0.1,0.1,3.4,0.4,0.7
+253,24,O,24540,28th Ave W & W Crockett St,20,AM,0,0,3.4,0,0.2
+253,24,O,24544,28th Ave W & W Lynn St,21,AM,0,0.4,3,0,3
+253,24,O,24560,28th Ave W & W Halladay St,22,AM,0,0.1,2.9,0,0.7
+253,24,O,24570,28th Ave W & W Raye St,23,AM,0,0.1,2.8,0,0.8
+253,24,O,24580,28th Ave W & W Fulton St,24,AM,0,0,2.8,0,0
+253,24,O,24590,28th Ave W & W Barrett St,25,AM,0,0.1,2.7,0,0.6
+253,24,O,24600,28th Ave W & W Dravus St,26,AM,0,0,2.6,0,0.3
+253,24,O,24610,28th Ave W & W Bertona St,27,AM,0,0.2,2.5,0,1.2
+253,24,O,24620,28th Ave W & W Ruffner St,28,AM,0,0.2,2.3,0.1,1.2
+253,24,O,24630,W Tilden St & 29th Ave W,29,AM,0,0,2.3,0,0
+253,24,O,24640,30th Ave W & W Emerson St,30,AM,0,0,2.3,0,0
+253,24,O,24650,30th Ave W & W Thurman St,31,AM,0,0.1,2.2,0,0.4
+253,24,O,24660,31st Ave W & W Mansell St,32,AM,0,0,2.2,0,0
+253,24,O,24670,31st Ave W & W Jameson St,33,AM,0,0.1,2.2,0,0.4
+253,24,O,24680,W Government Way & 33rd Ave W,34,AM,0,0.1,2.1,0.2,0.6
+253,24,O,24690,34th Ave W & W Government Way,35,AM,0.1,0.1,2.2,0.3,0.4
+253,24,O,24700,34th Ave W & W Elmore St,36,AM,0,0,2.2,0,0
+253,24,O,24710,34th Ave W & W Thurman St,37,AM,0.2,0.4,1.9,1.1,2.4
+253,24,O,24720,34th Ave W & W Emerson St,38,AM,0.1,0.2,1.8,0.5,1.2
+253,24,O,24321,34th Ave W & W Ruffner St,39,AM,0,0,1.8,0,0
+253,24,O,24740,34th Ave W & W Bertona St,40,AM,0,0,1.8,0.1,0
+253,24,O,24750,34th Ave W & W Dravus St,41,AM,0,0,1.8,0,0.2
+253,24,O,24760,34th Ave W & W Barrett St,42,AM,0,0,1.8,0,0.1
+253,24,O,24770,34th Ave W & W Armour St,43,AM,0,0.1,1.6,0,0.6
+253,24,O,24780,34th Ave W & W Raye St,44,AM,0,0.1,1.5,0,0.5
+253,24,O,24250,34th Ave W & W Mcgraw St,45,AM,0.3,0.9,1,1.7,5.2
+253,24,O,20940,Viewmont Way W & 35th Ave W,46,AM,0,0.1,0.9,0.1,0.5
+253,24,O,20950,Viewmont Way W & Edgemont Pl W,47,AM,0,0,0.9,0,0.1
+253,24,O,20960,West Viewmont Way W & Constance Dr W,48,AM,0,0,0.9,0,0
+253,24,O,20970,West Viewmont Way W & Montavista Pl W,49,AM,0,0,0.9,0,0
+253,24,O,20980,West Viewmont Way W & W Parkmont Pl,50,AM,0,0,0.9,0,0.1
+253,24,O,20990,West Viewmont Way W & Westmont Way W,51,AM,0,0,0.9,0,0
+253,24,O,21000,West Viewmont Way W & W Raye St,52,AM,0,0,0.8,0,0.2
+253,24,O,21010,West Viewmont Way W & W Armour St,53,AM,0,0,0.8,0,0
+253,24,O,21020,West Viewmont Way W & W Barrett Ln,54,AM,0,0,0.8,0,0
+253,24,O,21030,West Viewmont Way W & W Dravus St,55,AM,0,0,0.8,0,0.2
+253,24,O,21040,West Viewmont Way W & W Bertona St,56,AM,0,0,0.7,0,0.2
+253,24,O,21050,West Viewmont Way W & W Ruffner St,57,AM,0,0,0.7,0,0.2
+253,24,O,20530,W Emerson St & Magnolia Blvd W,58,AM,0,0.7,0,0,4.3
+253,24,I,20530,W Emerson St & Magnolia Blvd W,1,MID,1.1,0,1.1,13.6,0
+253,24,I,20540,West Viewmont Way W & W Ruffner St,2,MID,0.1,0,1.2,1.4,0.4
+253,24,I,20550,West Viewmont Way W & W Bertona St,3,MID,0.1,0,1.3,1.4,0.1
+253,24,I,20560,West Viewmont Way W & W Dravus St,4,MID,0.1,0,1.4,1,0
+253,24,I,20570,West Viewmont Way W & W Barrett St,5,MID,0,0,1.4,0.1,0
+253,24,I,20580,West Viewmont Way W & W Armour St,6,MID,0,0,1.5,0.5,0.1
+253,24,I,20590,West Viewmont Way W & W Raye St,7,MID,0.1,0,1.5,0.6,0.1
+253,24,I,20600,West Viewmont Way W & 42nd Ave W,8,MID,0,0,1.6,0.2,0
+253,24,I,20610,West Viewmont Way W & W Parkmont Pl,9,MID,0.1,0,1.6,0.9,0
+253,24,I,20620,West Viewmont Way W & Montavista Pl W,10,MID,0,0,1.6,0,0
+253,24,I,20630,West Viewmont Way W & Constance Dr W,11,MID,0,0,1.6,0,0
+253,24,I,20640,Viewmont Way W & Edgemont Pl W,12,MID,0,0,1.6,0,0
+253,24,I,20650,35th Ave W & W Mcgraw St,13,MID,0,0.1,1.6,0.5,0.8
+253,24,I,24260,34th Ave W & W Mcgraw St,14,MID,0.6,0.3,2,7.7,3
+253,24,I,24270,34th Ave W & W Raye St,15,MID,0.3,0.1,2.2,3.4,1.6
+253,24,I,24280,34th Ave W & W Armour St,16,MID,0.1,0.1,2.2,1.7,1.3
+253,24,I,24290,34th Ave W & W Barrett St,17,MID,0.1,0,2.3,1.1,0.1
+253,24,I,24300,34th Ave W & W Dravus St,18,MID,0,0,2.3,0.5,0.2
+253,24,I,24310,34th Ave W & W Bertona St,19,MID,0.2,0,2.4,2.3,0.3
+253,24,I,24320,34th Ave W & W Ruffner St,20,MID,0.1,0,2.5,1.6,0.4
+253,24,I,24330,34th Ave W & W Emerson St,21,MID,0.5,0.4,2.6,6,5
+253,24,I,24340,34th Ave W & W Thurman St,22,MID,0.2,0.2,2.7,2.6,2.3
+253,24,I,24350,34th Ave W & W Elmore St,23,MID,0,0.1,2.6,0.2,1
+253,24,I,24360,W Government Way & 34th Ave W,24,MID,0.4,0.2,2.8,4.7,2.9
+253,24,I,24370,W Government Way & 32nd Ave W,25,MID,0.3,0.1,3,3.9,1.3
+253,24,I,24380,30th Ave W & W Mansell St,26,MID,0.1,0,3,0.7,0.5
+253,24,I,24390,30th Ave W & W Thurman St,27,MID,0.1,0,3.1,1,0.2
+253,24,I,24400,30th Ave W & W Emerson St,28,MID,0.1,0.1,3.1,1.7,1.4
+253,24,I,24410,W Tilden St & 30th Ave W,29,MID,0.2,0,3.2,1.8,0.5
+253,24,I,24430,28th Ave W & W Ruffner St,30,MID,0.6,0.3,3.7,7.7,3.8
+253,24,I,24440,28th Ave W & W Bertona St,31,MID,0.2,0.1,3.8,2.1,1.1
+253,24,I,24450,28th Ave W & W Dravus St,32,MID,0.2,0.1,3.9,1.9,1.1
+253,24,I,24460,28th Ave W & W Barrett St,33,MID,0.1,0,4,1.1,0
+253,24,I,24470,28th Ave W & W Fulton St,34,MID,0,0,4,0,0.1
+253,24,I,24480,28th Ave W & W Raye St,35,MID,0.3,0.1,4.2,3.5,0.8
+253,24,I,24490,28th Ave W & W Smith St,36,MID,0.3,0.1,4.4,3.6,1.4
+253,24,I,24500,28th Ave W & W Lynn St,37,MID,0.2,0.1,4.5,2.3,1.5
+253,24,I,24510,28th Ave W & W Crockett St,38,MID,0.1,0,4.5,1.2,0.2
+253,24,I,20700,28th Ave W & W Blaine St,39,MID,0.6,0.2,4.9,7.3,2.7
+253,24,I,20710,28th Ave W & W Eaton St,40,MID,0,0,4.9,0.5,0
+253,24,I,20720,W Galer St & Thorndyke Ave W,41,MID,0.1,0,5,1.1,0
+253,24,I,20730,Magnolia Brdg & Pier 91,42,MID,0,0,5,0,0.2
+253,24,I,13870,Elliott Ave W & W Galer St,43,MID,0.3,1.1,4.2,3.3,13
+253,24,I,13890,Elliott Ave W & W Prospect St,44,MID,0.4,1,3.7,5.3,11.8
+253,24,I,19380,Elliott Ave W & W Roy St,45,MID,0.1,0.1,3.7,0.9,0.6
+253,24,I,19390,Elliott Ave W & W Mercer St,46,MID,0.4,0.2,3.8,4.3,2.3
+253,24,I,19410,Elliott Ave W & W Harrison St,47,MID,0.3,0.3,3.9,4,3.6
+253,24,I,19420,Western Ave W & Elliott Ave W,48,MID,0.8,0.4,4.3,9.6,5.3
+253,24,I,2244,Denny Way & 2nd Ave N,49,MID,0.8,3.7,1.4,9,43.9
+253,24,I,2220,3rd Ave & Cedar St,50,MID,0,1.4,0,0,16.3
+253,24,O,30635,4th Ave S & S Royal Brougham Way,1,MID,1.4,0,1.4,17.2,0
+253,24,O,619,4th Ave S & S Jackson St,2,MID,2.8,2,2.1,36,26.1
+253,24,O,531,3rd Ave & James St,3,MID,1.2,0.8,2.6,16.2,10.8
+253,24,O,548,3rd Ave & Madison St,4,MID,1.9,1.1,3.4,23.1,13.4
+253,24,O,570,3rd Ave & Union St,5,MID,2,1.5,3.8,23.7,18.4
+253,24,O,590,3rd Ave & Pine St,6,MID,4.3,1.3,6.9,52.1,15.7
+253,24,O,600,3rd Ave & Virginia St,7,MID,1.7,1.4,7.1,20.1,17.2
+253,24,O,605,3rd Ave & Bell St,8,MID,1,0.9,7.2,12.2,10.8
+253,24,O,1690,3rd Ave & Vine St,9,MID,0.6,0.6,7.2,6.7,7.6
+253,24,O,20829,Denny Way & 2nd Ave N,10,MID,0.7,0.8,7.1,8.6,10
+253,24,O,19440,Denny Way & Queen Anne Ave N,11,MID,0.7,0.5,7.3,8,5.7
+253,24,O,19460,Western Ave W & Elliott Ave W,12,MID,0.2,0.9,6.6,2.5,11
+253,24,O,19470,Elliott Ave W & 4th Ave W,13,MID,0.2,0.4,6.4,1.9,4.2
+253,24,O,19480,Elliott Ave W & 6th Ave W,14,MID,0.1,0.2,6.2,1.2,2.3
+253,24,O,19490,Elliott Ave W & W Mercer St,15,MID,0,0.2,6.1,0.5,2.4
+253,24,O,19500,Elliott Ave W & W Mercer Pl,16,MID,0,0.1,6.1,0,0.9
+253,24,O,14070,Elliott Ave W & W Prospect St,17,MID,1.2,1,6.2,13.9,12.4
+253,24,O,20880,Thorndyke Ave W & W Hayes St,18,MID,0,0.4,5.9,0.1,4.2
+253,24,O,20890,28th Ave W & W Blaine St,19,MID,0.1,0.4,5.6,1.1,4.6
+253,24,O,24540,28th Ave W & W Crockett St,20,MID,0,0.2,5.4,0,2.4
+253,24,O,24544,28th Ave W & W Lynn St,21,MID,0.1,0.4,5.1,1.5,5
+253,24,O,24560,28th Ave W & W Halladay St,22,MID,0.1,0.4,4.8,1.2,4.5
+253,24,O,24570,28th Ave W & W Raye St,23,MID,0,0.2,4.7,0.1,2.5
+253,24,O,24580,28th Ave W & W Fulton St,24,MID,0,0.1,4.6,0,0.6
+253,24,O,24590,28th Ave W & W Barrett St,25,MID,0,0.1,4.5,0,1.6
+253,24,O,24600,28th Ave W & W Dravus St,26,MID,0,0.4,4.1,0.2,4.9
+253,24,O,24610,28th Ave W & W Bertona St,27,MID,0,0.3,3.9,0.4,3.5
+253,24,O,24620,28th Ave W & W Ruffner St,28,MID,0.1,0.4,3.2,0.8,4.7
+253,24,O,24630,W Tilden St & 29th Ave W,29,MID,0,0.1,3.2,0.3,1.1
+253,24,O,24640,30th Ave W & W Emerson St,30,MID,0.1,0.1,3.1,0.6,1.1
+253,24,O,24650,30th Ave W & W Thurman St,31,MID,0,0,3.1,0,0.4
+253,24,O,24660,31st Ave W & W Mansell St,32,MID,0,0,3.1,0.2,0.5
+253,24,O,24670,31st Ave W & W Jameson St,33,MID,0,0.2,2.8,0.3,2.7
+253,24,O,24680,W Government Way & 33rd Ave W,34,MID,0.1,0.2,2.8,1.1,2
+253,24,O,24690,34th Ave W & W Government Way,35,MID,0.2,0.3,2.6,2.2,3.5
+253,24,O,24700,34th Ave W & W Elmore St,36,MID,0,0,2.5,0.2,0.4
+253,24,O,24710,34th Ave W & W Thurman St,37,MID,0.1,0.4,2.3,1.7,4.3
+253,24,O,24720,34th Ave W & W Emerson St,38,MID,0.2,0.2,2.4,2.7,2.1
+253,24,O,24321,34th Ave W & W Ruffner St,39,MID,0,0,2.3,0,0.5
+253,24,O,24740,34th Ave W & W Bertona St,40,MID,0,0.1,2.3,0.5,0.7
+253,24,O,24750,34th Ave W & W Dravus St,41,MID,0,0.1,2.3,0.1,0.7
+253,24,O,24760,34th Ave W & W Barrett St,42,MID,0,0,2.2,0.1,0.4
+253,24,O,24770,34th Ave W & W Armour St,43,MID,0.1,0.1,2.2,1,1.7
+253,24,O,24780,34th Ave W & W Raye St,44,MID,0,0.2,2.1,0.2,1.8
+253,24,O,24250,34th Ave W & W Mcgraw St,45,MID,0.4,0.8,1.7,4.7,9.1
+253,24,O,20940,Viewmont Way W & 35th Ave W,46,MID,0.1,0,1.7,0.7,0.5
+253,24,O,20950,Viewmont Way W & Edgemont Pl W,47,MID,0,0,1.7,0.3,0
+253,24,O,20960,West Viewmont Way W & Constance Dr W,48,MID,0,0,1.7,0,0.1
+253,24,O,20970,West Viewmont Way W & Montavista Pl W,49,MID,0,0,1.7,0,0.3
+253,24,O,20980,West Viewmont Way W & W Parkmont Pl,50,MID,0,0,1.6,0,0.5
+253,24,O,20990,West Viewmont Way W & Westmont Way W,51,MID,0,0,1.6,0,0.2
+253,24,O,21000,West Viewmont Way W & W Raye St,52,MID,0,0,1.6,0,0.2
+253,24,O,21010,West Viewmont Way W & W Armour St,53,MID,0,0,1.6,0,0.4
+253,24,O,21020,West Viewmont Way W & W Barrett Ln,54,MID,0,0.1,1.5,0,0.9
+253,24,O,21030,West Viewmont Way W & W Dravus St,55,MID,0,0.1,1.4,0,1.2
+253,24,O,21040,West Viewmont Way W & W Bertona St,56,MID,0,0.1,1.3,0,0.7
+253,24,O,21050,West Viewmont Way W & W Ruffner St,57,MID,0,0.1,1.2,0,1.6
+253,24,O,20530,W Emerson St & Magnolia Blvd W,58,MID,0,1.2,0,0,14.8
+253,24,I,20530,W Emerson St & Magnolia Blvd W,1,PM,1.1,0,1.1,8.7,0
+253,24,I,20540,West Viewmont Way W & W Ruffner St,2,PM,0.1,0,1.1,0.7,0.3
+253,24,I,20550,West Viewmont Way W & W Bertona St,3,PM,0.2,0,1.3,1.3,0
+253,24,I,20560,West Viewmont Way W & W Dravus St,4,PM,0,0,1.3,0,0
+253,24,I,20570,West Viewmont Way W & W Barrett St,5,PM,0,0,1.3,0,0
+253,24,I,20580,West Viewmont Way W & W Armour St,6,PM,0.1,0,1.4,0.4,0
+253,24,I,20590,West Viewmont Way W & W Raye St,7,PM,0,0,1.4,0,0
+253,24,I,20600,West Viewmont Way W & 42nd Ave W,8,PM,0,0,1.4,0,0
+253,24,I,20610,West Viewmont Way W & W Parkmont Pl,9,PM,0.1,0,1.5,0.8,0
+253,24,I,20620,West Viewmont Way W & Montavista Pl W,10,PM,0,0,1.5,0.1,0.2
+253,24,I,20630,West Viewmont Way W & Constance Dr W,11,PM,0,0,1.5,0,0
+253,24,I,20640,Viewmont Way W & Edgemont Pl W,12,PM,0,0,1.5,0.1,0
+253,24,I,20650,35th Ave W & W Mcgraw St,13,PM,0,0.1,1.5,0,0.6
+253,24,I,24260,34th Ave W & W Mcgraw St,14,PM,1.3,0.5,2.3,10.2,3.6
+253,24,I,24270,34th Ave W & W Raye St,15,PM,0.4,0,2.6,3,0.2
+253,24,I,24280,34th Ave W & W Armour St,16,PM,0.2,0.1,2.8,1.6,0.8
+253,24,I,24290,34th Ave W & W Barrett St,17,PM,0.1,0,2.8,0.9,0.3
+253,24,I,24300,34th Ave W & W Dravus St,18,PM,0.1,0,2.9,0.9,0.1
+253,24,I,24310,34th Ave W & W Bertona St,19,PM,0.1,0.2,2.8,0.8,1.3
+253,24,I,24320,34th Ave W & W Ruffner St,20,PM,0.1,0.1,2.8,0.5,0.6
+253,24,I,24330,34th Ave W & W Emerson St,21,PM,0.4,0.5,2.7,3,3.6
+253,24,I,24340,34th Ave W & W Thurman St,22,PM,0.2,0.2,2.8,1.7,1.7
+253,24,I,24350,34th Ave W & W Elmore St,23,PM,0,0.1,2.8,0.2,0.6
+253,24,I,24360,W Government Way & 34th Ave W,24,PM,0.4,0.5,2.7,2.7,3.2
+253,24,I,24370,W Government Way & 32nd Ave W,25,PM,0.3,0.2,2.8,2.1,1.4
+253,24,I,24380,30th Ave W & W Mansell St,26,PM,0.1,0.1,2.8,0.4,0.6
+253,24,I,24390,30th Ave W & W Thurman St,27,PM,0.1,0,2.9,0.8,0.2
+253,24,I,24400,30th Ave W & W Emerson St,28,PM,0.1,0.2,2.8,0.9,1.1
+253,24,I,24410,W Tilden St & 30th Ave W,29,PM,0.1,0.1,2.8,0.4,0.6
+253,24,I,24430,28th Ave W & W Ruffner St,30,PM,0.4,0.4,2.8,3.1,2.9
+253,24,I,24440,28th Ave W & W Bertona St,31,PM,0.2,0.1,2.9,1.7,0.5
+253,24,I,24450,28th Ave W & W Dravus St,32,PM,0.2,0.2,2.8,1.3,1.7
+253,24,I,24460,28th Ave W & W Barrett St,33,PM,0.1,0,2.9,0.7,0.3
+253,24,I,24470,28th Ave W & W Fulton St,34,PM,0,0,2.9,0.1,0.2
+253,24,I,24480,28th Ave W & W Raye St,35,PM,0.2,0.1,3,1.4,1.1
+253,24,I,24490,28th Ave W & W Smith St,36,PM,0.3,0.1,3.2,2.5,0.6
+253,24,I,24500,28th Ave W & W Lynn St,37,PM,0.3,0.1,3.4,2.1,0.7
+253,24,I,24510,28th Ave W & W Crockett St,38,PM,0.1,0,3.4,0.5,0.2
+253,24,I,20700,28th Ave W & W Blaine St,39,PM,0.4,0.1,3.7,3.2,0.9
+253,24,I,20710,28th Ave W & W Eaton St,40,PM,0,0,3.7,0,0
+253,24,I,20720,W Galer St & Thorndyke Ave W,41,PM,0.1,0,3.8,0.6,0
+253,24,I,20730,Magnolia Brdg & Pier 91,42,PM,0,0,3.8,0.2,0.1
+253,24,I,13870,Elliott Ave W & W Galer St,43,PM,0.5,1,3.3,3.9,8
+253,24,I,13890,Elliott Ave W & W Prospect St,44,PM,1.3,0.5,4.2,10.7,3.8
+253,24,I,19380,Elliott Ave W & W Roy St,45,PM,0.7,0.1,4.7,5.2,0.6
+253,24,I,19390,Elliott Ave W & W Mercer St,46,PM,0.3,0.4,4.6,2.5,3.4
+253,24,I,19410,Elliott Ave W & W Harrison St,47,PM,0.3,0.3,4.6,2.2,2.1
+253,24,I,19420,Western Ave W & Elliott Ave W,48,PM,1.2,0.9,4.9,9.6,7.4
+253,24,I,2244,Denny Way & 2nd Ave N,49,PM,0.7,3.9,1.7,5.3,31
+253,24,I,2220,3rd Ave & Cedar St,50,PM,0,1.7,0,0,13.8
+253,24,O,30635,4th Ave S & S Royal Brougham Way,1,PM,1,0,1,7.7,0
+253,24,O,619,4th Ave S & S Jackson St,2,PM,3.6,2.6,1.9,28.5,21
+253,24,O,531,3rd Ave & James St,3,PM,1.8,1,2.7,14.3,8.2
+253,24,O,548,3rd Ave & Madison St,4,PM,5.3,1.2,6.8,42.1,9.6
+253,24,O,570,3rd Ave & Union St,5,PM,6.1,1.8,11.1,48.7,14
+253,24,O,590,3rd Ave & Pine St,6,PM,7.6,1.5,17.2,60.7,11.7
+253,24,O,600,3rd Ave & Virginia St,7,PM,4.1,1.4,19.9,32.5,11.1
+253,24,O,605,3rd Ave & Bell St,8,PM,3,1.4,21.5,23.7,10.9
+253,24,O,1690,3rd Ave & Vine St,9,PM,1,1.3,21.2,8,10.4
+253,24,O,20829,Denny Way & 2nd Ave N,10,PM,1.6,1.3,21.5,12.9,10.5
+253,24,O,19440,Denny Way & Queen Anne Ave N,11,PM,1.3,0.9,21.9,10,7.2
+253,24,O,19460,Western Ave W & Elliott Ave W,12,PM,0.5,1.4,21,3.9,11.5
+253,24,O,19470,Elliott Ave W & 4th Ave W,13,PM,0.2,0.2,20.9,1.8,1.8
+253,24,O,19480,Elliott Ave W & 6th Ave W,14,PM,0.2,0.4,20.7,1.3,3.4
+253,24,O,19490,Elliott Ave W & W Mercer St,15,PM,0.2,0.6,20.3,1.3,4.6
+253,24,O,19500,Elliott Ave W & W Mercer Pl,16,PM,0,0.1,20.2,0.2,0.9
+253,24,O,14070,Elliott Ave W & W Prospect St,17,PM,4.1,0.7,23.5,32.7,5.7
+253,24,O,20880,Thorndyke Ave W & W Hayes St,18,PM,0.1,1.8,21.8,0.6,14.5
+253,24,O,20890,28th Ave W & W Blaine St,19,PM,0.3,1.7,20.4,2.1,13.9
+253,24,O,24540,28th Ave W & W Crockett St,20,PM,0,0.8,19.6,0.1,6.2
+253,24,O,24544,28th Ave W & W Lynn St,21,PM,0.1,1.2,18.5,0.5,9.4
+253,24,O,24560,28th Ave W & W Halladay St,22,PM,0.3,1,17.7,2.4,8.2
+253,24,O,24570,28th Ave W & W Raye St,23,PM,0.1,1.1,16.7,0.5,8.5
+253,24,O,24580,28th Ave W & W Fulton St,24,PM,0,0.2,16.5,0,1.6
+253,24,O,24590,28th Ave W & W Barrett St,25,PM,0,0.9,15.6,0,7.4
+253,24,O,24600,28th Ave W & W Dravus St,26,PM,0,1.2,14.5,0.3,9.6
+253,24,O,24610,28th Ave W & W Bertona St,27,PM,0,1.5,13,0.1,11.8
+253,24,O,24620,28th Ave W & W Ruffner St,28,PM,0.1,3.5,8.9,0.7,31.6
+253,24,O,24630,W Tilden St & 29th Ave W,29,PM,0.1,0.5,8.5,0.6,4.4
+253,24,O,24640,30th Ave W & W Emerson St,30,PM,0,0.6,7.8,0,5.8
+253,24,O,24650,30th Ave W & W Thurman St,31,PM,0,0.3,7.6,0.1,2.7
+253,24,O,24660,31st Ave W & W Mansell St,32,PM,0,0.2,7.3,0,2.2
+253,24,O,24670,31st Ave W & W Jameson St,33,PM,0,0.7,6.7,0.3,6.3
+253,24,O,24680,W Government Way & 33rd Ave W,34,PM,0.1,0.5,6.3,0.7,4.5
+253,24,O,24690,34th Ave W & W Government Way,35,PM,0.1,0.7,5.7,1.3,6.7
+253,24,O,24700,34th Ave W & W Elmore St,36,PM,0,0.1,5.6,0.1,1
+253,24,O,24710,34th Ave W & W Thurman St,37,PM,0,1,4.9,0.2,8.3
+253,24,O,24720,34th Ave W & W Emerson St,38,PM,0.1,0.5,4.6,1,3.7
+253,24,O,24321,34th Ave W & W Ruffner St,39,PM,0,0.2,4.4,0,1.9
+253,24,O,24740,34th Ave W & W Bertona St,40,PM,0.1,0.4,4.1,0.6,3
+253,24,O,24750,34th Ave W & W Dravus St,41,PM,0,0.2,3.9,0.1,1.9
+253,24,O,24760,34th Ave W & W Barrett St,42,PM,0,0.3,3.6,0.2,2.4
+253,24,O,24770,34th Ave W & W Armour St,43,PM,0,0.3,3.4,0.3,2.1
+253,24,O,24780,34th Ave W & W Raye St,44,PM,0.1,0.3,3.2,0.8,2.3
+253,24,O,24250,34th Ave W & W Mcgraw St,45,PM,0.4,0.7,2.9,3.4,5.5
+253,24,O,20940,Viewmont Way W & 35th Ave W,46,PM,0,0.2,2.8,0,1.2
+253,24,O,20950,Viewmont Way W & Edgemont Pl W,47,PM,0,0.1,2.8,0,0.4
+253,24,O,20960,West Viewmont Way W & Constance Dr W,48,PM,0,0,2.7,0,0.1
+253,24,O,20970,West Viewmont Way W & Montavista Pl W,49,PM,0,0.2,2.6,0,1.2
+253,24,O,20980,West Viewmont Way W & W Parkmont Pl,50,PM,0,0.2,2.4,0,1.4
+253,24,O,20990,West Viewmont Way W & Westmont Way W,51,PM,0,0,2.4,0,0
+253,24,O,21000,West Viewmont Way W & W Raye St,52,PM,0,0.1,2.3,0,0.7
+253,24,O,21010,West Viewmont Way W & W Armour St,53,PM,0,0.2,2.1,0,1.6
+253,24,O,21020,West Viewmont Way W & W Barrett Ln,54,PM,0,0.1,2,0,0.4
+253,24,O,21030,West Viewmont Way W & W Dravus St,55,PM,0,0.4,1.7,0,2.9
+253,24,O,21040,West Viewmont Way W & W Bertona St,56,PM,0,0.3,1.5,0,2
+253,24,O,21050,West Viewmont Way W & W Ruffner St,57,PM,0,0.3,1.1,0,2.5
+253,24,O,20530,W Emerson St & Magnolia Blvd W,58,PM,0,1.1,0,0.1,9.1
+253,24,I,20530,W Emerson St & Magnolia Blvd W,1,XEV,0.5,0,0.5,2.1,0
+253,24,I,20540,West Viewmont Way W & W Ruffner St,2,XEV,0,0,0.6,0,0
+253,24,I,20550,West Viewmont Way W & W Bertona St,3,XEV,0.1,0,0.7,0.2,0
+253,24,I,20560,West Viewmont Way W & W Dravus St,4,XEV,0,0,0.7,0,0
+253,24,I,20570,West Viewmont Way W & W Barrett St,5,XEV,0,0,0.6,0.1,0
+253,24,I,20580,West Viewmont Way W & W Armour St,6,XEV,0.1,0,0.7,0.4,0
+253,24,I,20590,West Viewmont Way W & W Raye St,7,XEV,0,0,0.7,0,0
+253,24,I,20600,West Viewmont Way W & 42nd Ave W,8,XEV,0,0,0.7,0,0
+253,24,I,20610,West Viewmont Way W & W Parkmont Pl,9,XEV,0,0,0.7,0,0
+253,24,I,20620,West Viewmont Way W & Montavista Pl W,10,XEV,0,0,0.7,0,0
+253,24,I,20630,West Viewmont Way W & Constance Dr W,11,XEV,0,0,0.7,0,0
+253,24,I,20640,Viewmont Way W & Edgemont Pl W,12,XEV,0,0,0.7,0,0
+253,24,I,20650,35th Ave W & W Mcgraw St,13,XEV,0,0,0.7,0,0
+253,24,I,24260,34th Ave W & W Mcgraw St,14,XEV,0.5,0,1,2.5,0.1
+253,24,I,24270,34th Ave W & W Raye St,15,XEV,0.1,0,1.2,0.2,0
+253,24,I,24280,34th Ave W & W Armour St,16,XEV,0.1,0.1,1.2,0.2,0.2
+253,24,I,24290,34th Ave W & W Barrett St,17,XEV,0,0,1.3,0.1,0
+253,24,I,24300,34th Ave W & W Dravus St,18,XEV,0,0,1.2,0,0.1
+253,24,I,24310,34th Ave W & W Bertona St,19,XEV,0,0.1,1.2,0.1,0.2
+253,24,I,24320,34th Ave W & W Ruffner St,20,XEV,0,0,1.2,0,0
+253,24,I,24330,34th Ave W & W Emerson St,21,XEV,0.1,0.1,1.3,0.5,0.2
+253,24,I,24340,34th Ave W & W Thurman St,22,XEV,0.1,0,1.5,0.6,0
+253,24,I,24350,34th Ave W & W Elmore St,23,XEV,0,0,1.5,0,0.2
+253,24,I,24360,W Government Way & 34th Ave W,24,XEV,0.2,0.1,1.5,1,0.5
+253,24,I,24370,W Government Way & 32nd Ave W,25,XEV,0.1,0,1.7,0.5,0.1
+253,24,I,24380,30th Ave W & W Mansell St,26,XEV,0,0,1.7,0,0
+253,24,I,24390,30th Ave W & W Thurman St,27,XEV,0,0,1.7,0.2,0
+253,24,I,24400,30th Ave W & W Emerson St,28,XEV,0,0,1.7,0.1,0.1
+253,24,I,24410,W Tilden St & 30th Ave W,29,XEV,0,0,1.7,0.1,0.2
+253,24,I,24430,28th Ave W & W Ruffner St,30,XEV,0.2,0.2,1.6,0.8,1.1
+253,24,I,24440,28th Ave W & W Bertona St,31,XEV,0,0,1.6,0.1,0
+253,24,I,24450,28th Ave W & W Dravus St,32,XEV,0.1,0.1,1.6,0.3,0.5
+253,24,I,24460,28th Ave W & W Barrett St,33,XEV,0,0,1.6,0,0
+253,24,I,24470,28th Ave W & W Fulton St,34,XEV,0,0,1.6,0.1,0
+253,24,I,24480,28th Ave W & W Raye St,35,XEV,0.1,0,1.7,0.5,0.2
+253,24,I,24490,28th Ave W & W Smith St,36,XEV,0,0,1.7,0.2,0
+253,24,I,24500,28th Ave W & W Lynn St,37,XEV,0,0,1.8,0.2,0.2
+253,24,I,24510,28th Ave W & W Crockett St,38,XEV,0,0,1.8,0,0.1
+253,24,I,20700,28th Ave W & W Blaine St,39,XEV,0.1,0.1,1.9,0.7,0.3
+253,24,I,20710,28th Ave W & W Eaton St,40,XEV,0,0,1.9,0,0
+253,24,I,20720,W Galer St & Thorndyke Ave W,41,XEV,0,0,1.9,0.1,0
+253,24,I,20730,Magnolia Brdg & Pier 91,42,XEV,0,0,1.9,0.1,0
+253,24,I,13870,Elliott Ave W & W Galer St,43,XEV,0.4,0.3,2,1.9,1.3
+253,24,I,13890,Elliott Ave W & W Prospect St,44,XEV,0.3,0.1,2.2,1.4,0.7
+253,24,I,19380,Elliott Ave W & W Roy St,45,XEV,0.1,0.1,2.2,0.4,0.5
+253,24,I,19390,Elliott Ave W & W Mercer St,46,XEV,0.2,0.1,2.3,0.9,0.5
+253,24,I,19410,Elliott Ave W & W Harrison St,47,XEV,0.1,0.1,2.3,0.4,0.3
+253,24,I,19420,Western Ave W & Elliott Ave W,48,XEV,0.3,0.3,2.3,1.4,1.4
+253,24,I,2244,Denny Way & 2nd Ave N,49,XEV,0.4,1.1,1.6,2.1,5.5
+253,24,I,2220,3rd Ave & Cedar St,50,XEV,0.2,0.9,0.9,1.2,4.7
+253,24,I,400,3rd Ave & Bell St,51,XEV,0.5,0.5,4.2,0.5,0.5
+253,24,I,420,3rd Ave & Virginia St,52,XEV,0.3,1.1,3.4,0.3,1.1
+253,24,I,433,3rd Ave & Pike St,53,XEV,0.1,1.8,1.8,0.1,1.8
+253,24,I,468,3rd Ave & Seneca St,54,XEV,0.1,0.8,1.1,0.1,0.8
+253,24,I,490,3rd Ave & Cherry St,55,XEV,0,0.4,0.7,0,0.4
+253,24,I,515,3rd Ave S & S Main St,56,XEV,0.3,1,0,0.3,1
+253,24,O,30635,4th Ave S & S Royal Brougham Way,1,XEV,0.5,0,0.5,2.7,0
+253,24,O,619,4th Ave S & S Jackson St,2,XEV,1.8,0.9,1.5,9.1,4.3
+253,24,O,531,3rd Ave & James St,3,XEV,0.7,0.4,1.6,2.9,1.5
+253,24,O,548,3rd Ave & Madison St,4,XEV,1.1,0.5,2.2,5.6,2.6
+253,24,O,570,3rd Ave & Union St,5,XEV,1.9,0.6,3.5,9.4,3.1
+253,24,O,590,3rd Ave & Pine St,6,XEV,2.9,0.5,5.8,14.5,2.6
+253,24,O,600,3rd Ave & Virginia St,7,XEV,1.5,0.7,6.7,7.7,3.6
+253,24,O,605,3rd Ave & Bell St,8,XEV,1.4,0.9,7.1,6.9,4.5
+253,24,O,1690,3rd Ave & Vine St,9,XEV,0.6,1.2,6.5,3,6
+253,24,O,20829,Denny Way & 2nd Ave N,10,XEV,0.6,0.8,6.4,3,3.8
+253,24,O,19440,Denny Way & Queen Anne Ave N,11,XEV,0.6,0.6,6.4,3,2.8
+253,24,O,19460,Western Ave W & Elliott Ave W,12,XEV,0.1,0.6,5.9,0.7,3.2
+253,24,O,19470,Elliott Ave W & 4th Ave W,13,XEV,0,0.1,5.9,0.1,0.3
+253,24,O,19480,Elliott Ave W & 6th Ave W,14,XEV,0,0.2,5.7,0,1.2
+253,24,O,19490,Elliott Ave W & W Mercer St,15,XEV,0,0.3,5.4,0.1,1.5
+253,24,O,19500,Elliott Ave W & W Mercer Pl,16,XEV,0,0,5.4,0,0.1
+253,24,O,14070,Elliott Ave W & W Prospect St,17,XEV,0.4,0.4,5.4,1.8,1.8
+253,24,O,20880,Thorndyke Ave W & W Hayes St,18,XEV,0,0.5,5,0,2.5
+253,24,O,20890,28th Ave W & W Blaine St,19,XEV,0,0.2,4.8,0.2,1.2
+253,24,O,24540,28th Ave W & W Crockett St,20,XEV,0,0.2,4.6,0,1
+253,24,O,24544,28th Ave W & W Lynn St,21,XEV,0,0.2,4.4,0,1.1
+253,24,O,24560,28th Ave W & W Halladay St,22,XEV,0,0.2,4.2,0,1
+253,24,O,24570,28th Ave W & W Raye St,23,XEV,0,0.3,3.9,0,1.3
+253,24,O,24580,28th Ave W & W Fulton St,24,XEV,0,0,3.9,0,0.2
+253,24,O,24590,28th Ave W & W Barrett St,25,XEV,0,0.1,3.9,0,0.4
+253,24,O,24600,28th Ave W & W Dravus St,26,XEV,0,0.2,3.7,0,0.9
+253,24,O,24610,28th Ave W & W Bertona St,27,XEV,0,0.3,3.4,0,1.5
+253,24,O,24620,28th Ave W & W Ruffner St,28,XEV,0,0.8,2.6,0.1,4
+253,24,O,24630,W Tilden St & 29th Ave W,29,XEV,0,0.1,2.5,0,0.4
+253,24,O,24640,30th Ave W & W Emerson St,30,XEV,0,0.2,2.4,0,0.9
+253,24,O,24650,30th Ave W & W Thurman St,31,XEV,0,0.1,2.3,0,0.5
+253,24,O,24660,31st Ave W & W Mansell St,32,XEV,0,0,2.2,0,0.2
+253,24,O,24670,31st Ave W & W Jameson St,33,XEV,0,0.1,2.1,0,0.7
+253,24,O,24680,W Government Way & 33rd Ave W,34,XEV,0,0.3,1.9,0.1,1.4
+253,24,O,24690,34th Ave W & W Government Way,35,XEV,0,0.3,1.6,0.2,1.5
+253,24,O,24700,34th Ave W & W Elmore St,36,XEV,0,0,1.6,0,0.1
+253,24,O,24710,34th Ave W & W Thurman St,37,XEV,0,0.4,1.6,0.1,2.1
+253,24,O,24720,34th Ave W & W Emerson St,38,XEV,0,0.1,1.5,0.1,0.5
+253,24,O,24321,34th Ave W & W Ruffner St,39,XEV,0,0.1,1.4,0,0.7
+253,24,O,24740,34th Ave W & W Bertona St,40,XEV,0,0.1,1.3,0,0.7
+253,24,O,24750,34th Ave W & W Dravus St,41,XEV,0,0,1.2,0,0.1
+253,24,O,24760,34th Ave W & W Barrett St,42,XEV,0,0.1,1.2,0,0.4
+253,24,O,24770,34th Ave W & W Armour St,43,XEV,0,0.1,1.1,0,0.3
+253,24,O,24780,34th Ave W & W Raye St,44,XEV,0,0.1,1,0,0.7
+253,24,O,24250,34th Ave W & W Mcgraw St,45,XEV,0.3,0.3,1,1.5,1.8
+253,24,O,20940,Viewmont Way W & 35th Ave W,46,XEV,0,0,1.4,0,0.1
+253,24,O,20950,Viewmont Way W & Edgemont Pl W,47,XEV,0,0,1.4,0,0
+253,24,O,20960,West Viewmont Way W & Constance Dr W,48,XEV,0,0,1.4,0,0
+253,24,O,20970,West Viewmont Way W & Montavista Pl W,49,XEV,0,0,1.4,0,0
+253,24,O,20980,West Viewmont Way W & W Parkmont Pl,50,XEV,0,0.1,1.3,0,0.2
+253,24,O,20990,West Viewmont Way W & Westmont Way W,51,XEV,0,0,1.3,0,0
+253,24,O,21000,West Viewmont Way W & W Raye St,52,XEV,0,0.2,1.1,0,0.6
+253,24,O,21010,West Viewmont Way W & W Armour St,53,XEV,0,0.2,1,0,0.6
+253,24,O,21020,West Viewmont Way W & W Barrett Ln,54,XEV,0,0,0.9,0,0
+253,24,O,21030,West Viewmont Way W & W Dravus St,55,XEV,0,0.1,0.9,0,0.2
+253,24,O,21040,West Viewmont Way W & W Bertona St,56,XEV,0,0.3,0.6,0,1.1
+253,24,O,21050,West Viewmont Way W & W Ruffner St,57,XEV,0,0.1,0.5,0,0.4
+253,24,O,20530,W Emerson St & Magnolia Blvd W,58,XEV,0.2,0.7,0,0.6,2.7
+253,24,I,24260,34th Ave W & W Mcgraw St,14,XNT,0.3,0,0.3,0.5,0
+253,24,I,24270,34th Ave W & W Raye St,15,XNT,0,0,0.4,0.1,0
+253,24,I,24280,34th Ave W & W Armour St,16,XNT,0,0,0.4,0,0
+253,24,I,24290,34th Ave W & W Barrett St,17,XNT,0,0,0.4,0,0
+253,24,I,24300,34th Ave W & W Dravus St,18,XNT,0,0,0.4,0,0
+253,24,I,24310,34th Ave W & W Bertona St,19,XNT,0,0,0.4,0,0
+253,24,I,24320,34th Ave W & W Ruffner St,20,XNT,0,0,0.4,0,0
+253,24,I,24330,34th Ave W & W Emerson St,21,XNT,0.1,0,0.5,0.2,0
+253,24,I,24340,34th Ave W & W Thurman St,22,XNT,0,0,0.5,0.1,0
+253,24,I,24350,34th Ave W & W Elmore St,23,XNT,0,0,0.5,0,0.1
+253,24,I,24360,W Government Way & 34th Ave W,24,XNT,0.1,0,0.5,0.2,0
+253,24,I,24370,W Government Way & 32nd Ave W,25,XNT,0.1,0,0.6,0.2,0
+253,24,I,24380,30th Ave W & W Mansell St,26,XNT,0,0,0.6,0,0
+253,24,I,24390,30th Ave W & W Thurman St,27,XNT,0,0,0.6,0,0
+253,24,I,24400,30th Ave W & W Emerson St,28,XNT,0,0,0.6,0,0
+253,24,I,24410,W Tilden St & 30th Ave W,29,XNT,0,0,0.6,0,0.1
+253,24,I,24430,28th Ave W & W Ruffner St,30,XNT,0,0,0.6,0.1,0.1
+253,24,I,24440,28th Ave W & W Bertona St,31,XNT,0,0,0.6,0,0
+253,24,I,24450,28th Ave W & W Dravus St,32,XNT,0,0,0.6,0,0
+253,24,I,24460,28th Ave W & W Barrett St,33,XNT,0,0,0.6,0,0
+253,24,I,24470,28th Ave W & W Fulton St,34,XNT,0,0,0.6,0,0
+253,24,I,24480,28th Ave W & W Raye St,35,XNT,0,0,0.6,0,0.1
+253,24,I,24490,28th Ave W & W Smith St,36,XNT,0,0,0.6,0,0
+253,24,I,24500,28th Ave W & W Lynn St,37,XNT,0,0,0.6,0.1,0
+253,24,I,24510,28th Ave W & W Crockett St,38,XNT,0,0,0.5,0,0.1
+253,24,I,20700,28th Ave W & W Blaine St,39,XNT,0,0,0.6,0.1,0
+253,24,I,20710,28th Ave W & W Eaton St,40,XNT,0,0,0.6,0,0
+253,24,I,20720,W Galer St & Thorndyke Ave W,41,XNT,0,0,0.6,0,0
+253,24,I,20730,Magnolia Brdg & Pier 91,42,XNT,0,0,0.6,0,0
+253,24,I,13870,Elliott Ave W & W Galer St,43,XNT,0.1,0.1,0.6,0.2,0.4
+253,24,I,13890,Elliott Ave W & W Prospect St,44,XNT,0.1,0,0.7,0.4,0.1
+253,24,I,19380,Elliott Ave W & W Roy St,45,XNT,0,0,0.7,0.1,0.1
+253,24,I,19390,Elliott Ave W & W Mercer St,46,XNT,0.1,0.1,0.7,0.4,0.3
+253,24,I,19410,Elliott Ave W & W Harrison St,47,XNT,0,0,0.7,0.1,0.1
+253,24,I,19420,Western Ave W & Elliott Ave W,48,XNT,0.1,0,0.7,0.3,0.1
+253,24,I,2244,Denny Way & 2nd Ave N,49,XNT,0.3,0.6,0.5,0.8,1.7
+253,24,I,2220,3rd Ave & Cedar St,50,XNT,0,0.5,0,0,1.5
+253,24,O,30635,4th Ave S & S Royal Brougham Way,1,XNT,0.5,0,0.5,0.9,0
+253,24,O,619,4th Ave S & S Jackson St,2,XNT,1.7,0.6,1.5,3.3,1.1
+253,24,O,531,3rd Ave & James St,3,XNT,0.6,0.4,1.9,1.7,1.2
+253,24,O,548,3rd Ave & Madison St,4,XNT,0.8,0.6,2.1,2.3,1.9
+253,24,O,570,3rd Ave & Union St,5,XNT,1.2,0.6,2.6,3.5,1.8
+253,24,O,590,3rd Ave & Pine St,6,XNT,1.9,0.3,4.2,5.6,0.9
+253,24,O,600,3rd Ave & Virginia St,7,XNT,1.2,0.7,4.7,3.6,2.1
+253,24,O,605,3rd Ave & Bell St,8,XNT,1.6,0.9,5.4,4.8,2.7
+253,24,O,1690,3rd Ave & Vine St,9,XNT,0.6,1,5,1.9,3.1
+253,24,O,20829,Denny Way & 2nd Ave N,10,XNT,0.6,0.5,5.1,1.9,1.6
+253,24,O,19440,Denny Way & Queen Anne Ave N,11,XNT,1.7,0.5,6.3,5.2,1.4
+253,24,O,19460,Western Ave W & Elliott Ave W,12,XNT,0.2,0.2,6.2,0.5,0.7
+253,24,O,19470,Elliott Ave W & 4th Ave W,13,XNT,0.1,0,6.2,0.3,0.1
+253,24,O,19480,Elliott Ave W & 6th Ave W,14,XNT,0.1,0.2,6.1,0.2,0.7
+253,24,O,19490,Elliott Ave W & W Mercer St,15,XNT,0.1,0.3,5.9,0.2,0.9
+253,24,O,19500,Elliott Ave W & W Mercer Pl,16,XNT,0,0.1,5.8,0,0.2
+253,24,O,14070,Elliott Ave W & W Prospect St,17,XNT,0.7,0.4,6.2,2.2,1.2
+253,24,O,20880,Thorndyke Ave W & W Hayes St,18,XNT,0,0.6,5.6,0,1.7
+253,24,O,20890,28th Ave W & W Blaine St,19,XNT,0,0.2,5.4,0,0.6
+253,24,O,24540,28th Ave W & W Crockett St,20,XNT,0,0.2,5.3,0,0.6
+253,24,O,24544,28th Ave W & W Lynn St,21,XNT,0,0.2,5.1,0,0.5
+253,24,O,24560,28th Ave W & W Halladay St,22,XNT,0,0.3,4.8,0,0.8
+253,24,O,24570,28th Ave W & W Raye St,23,XNT,0,0.6,4.3,0,1.7
+253,24,O,24580,28th Ave W & W Fulton St,24,XNT,0,0.1,4.2,0,0.2
+253,24,O,24590,28th Ave W & W Barrett St,25,XNT,0,0,4.2,0,0.1
+253,24,O,24600,28th Ave W & W Dravus St,26,XNT,0,0.1,4.1,0,0.4
+253,24,O,24610,28th Ave W & W Bertona St,27,XNT,0,0.2,3.8,0,0.7
+253,24,O,24620,28th Ave W & W Ruffner St,28,XNT,0,1.3,2.6,0.1,3.8
+253,24,O,24630,W Tilden St & 29th Ave W,29,XNT,0,0.1,2.5,0.1,0.2
+253,24,O,24640,30th Ave W & W Emerson St,30,XNT,0,0.1,2.4,0,0.4
+253,24,O,24650,30th Ave W & W Thurman St,31,XNT,0,0.1,2.3,0,0.3
+253,24,O,24660,31st Ave W & W Mansell St,32,XNT,0,0.1,2.2,0,0.3
+253,24,O,24670,31st Ave W & W Jameson St,33,XNT,0,0.4,1.9,0,1.1
+253,24,O,24680,W Government Way & 33rd Ave W,34,XNT,0,0.4,1.5,0,1.1
+253,24,O,24690,34th Ave W & W Government Way,35,XNT,0,0.7,0.9,0,2
+253,24,O,24700,34th Ave W & W Elmore St,36,XNT,0,0,0.8,0,0.1
+253,24,O,24710,34th Ave W & W Thurman St,37,XNT,0,0.1,0.7,0,0.4
+253,24,O,24720,34th Ave W & W Emerson St,38,XNT,0,0.1,0.6,0,0.4
+253,24,O,24321,34th Ave W & W Ruffner St,39,XNT,0,0.1,0.5,0,0.2
+253,24,O,24740,34th Ave W & W Bertona St,40,XNT,0,0.2,0.3,0,0.6
+253,24,O,24750,34th Ave W & W Dravus St,41,XNT,0,0,0.3,0,0
+253,24,O,24760,34th Ave W & W Barrett St,42,XNT,0,0.1,0.3,0,0.3
+253,24,O,24770,34th Ave W & W Armour St,43,XNT,0,0,0.2,0,0
+253,24,O,24780,34th Ave W & W Raye St,44,XNT,0,0,0.2,0,0
+253,24,O,24250,34th Ave W & W Mcgraw St,45,XNT,0,0.3,0,0,0.8

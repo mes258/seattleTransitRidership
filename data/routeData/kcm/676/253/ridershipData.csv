@@ -1,0 +1,326 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+253,676,I,46505,N 10th St & Park Ave N,1,AM,0.8,0,0.8,15.2,0
+253,676,I,46595,Logan Ave N & N 10th St,2,AM,0.3,0,1,5,0
+253,676,I,46585,Logan Ave N & N 6th St,3,AM,0.1,0,1.1,1.2,0
+253,676,I,46579,Logan Ave N & N 3rd St,4,AM,0.1,0,1.2,1.6,0.2
+253,676,I,46478,Renton Transit Center - Bay 3,5,AM,3.6,0.7,4.1,65.2,12.6
+253,676,I,45320,S 2nd St & Shattuck Ave S,6,AM,0.4,0.1,4.3,6.4,2
+253,676,I,59891,Rainier Ave S & S 3rd Pl,7,AM,1.1,0.2,5.2,19.7,4.4
+253,676,I,55926,SW 7th St & Rainier Ave S,8,AM,0.9,0.3,5.8,16.2,5.9
+253,676,I,55927,Lind Ave SW & SW 7th St,9,AM,0.2,0.6,5.5,3.9,10
+253,676,I,80761,Lind Ave SW & SW Grady Way,10,AM,0.1,0.1,5.3,1.1,2.2
+253,676,I,80768,Lind Ave SW & SW 16th St,11,AM,0.1,0.3,5.1,2,4.5
+253,676,I,59879,Oakesdale Ave SW & SW 16th St,12,AM,0.1,0.1,5.1,1.6,1.1
+253,676,I,59873,Oakesdale Ave SW & Seattle Sounders Fc Acs,13,AM,0.1,0.1,5.2,2.3,1.1
+253,676,I,59877,SW 27th St & Naches Ave SW,14,AM,0.2,0.1,5.3,2.7,1.2
+253,676,I,59881,Tukwila Station Acs & S Longacres Way - Bay 1,15,AM,1.8,0.4,6.7,30.6,7.1
+253,676,I,58113,Strander Blvd & W Valley Hwy,16,AM,0.2,0.1,6.8,4.2,2
+253,676,I,58111,Strander Blvd & Andover Park E,17,AM,0.1,0.5,6.4,1.6,8
+253,676,I,59314,Andover Park W & Baker Blvd - Bay 3,18,AM,1.4,2.2,5.6,23.6,37.2
+253,676,I,58112,Southcenter Blvd & 65th Ave S,19,AM,0.2,0.1,5.8,3.8,0.9
+253,676,I,58114,Southcenter Blvd & 62nd Ave S,20,AM,0.4,0.1,5.9,6.6,2
+253,676,I,54202,Southcenter Blvd & 52nd Ave S,21,AM,0.3,0.1,6.1,4,1.8
+253,676,I,54204,Southcenter Blvd & Park Place,22,AM,0.4,0,6.4,6.7,0.6
+253,676,I,54206,Southcenter Blvd & 42nd Ave S,23,AM,0.3,0.1,6.6,5.3,2
+253,676,I,60923,Tukwila International Blvd Station - Bay 3,24,AM,3.8,3.6,6.8,60.3,58.3
+253,676,I,79972,S 154th St & 32nd Ave S,25,AM,1.1,0.2,7.7,17,3.3
+253,676,I,80150,S 154th Ln & 24th Ave S,26,AM,0.1,0.8,7,1.7,12.8
+253,676,I,49290,S 156th St & Des Moines Memorial Dr S,27,AM,0.3,0.2,7,4.2,3.8
+253,676,I,49301,S 156th St & 2nd Ave S,28,AM,0.4,1.5,5.9,6.2,24.3
+253,676,I,47646,SW 156th St & 2nd Ave SW,29,AM,0.2,0.6,5.5,3.3,9.1
+253,676,I,53720,4th Ave SW & SW 156th St,30,AM,0.3,0.3,5.5,4.6,4.8
+253,676,I,53740,4th Ave SW & SW 152nd St,31,AM,0,0.6,4.8,0.6,9.4
+253,676,I,52304,Burien Transit Center - Bay 4,32,AM,0.9,5.7,0,13.2,85.4
+253,676,O,52306,Burien Transit Center - Bay 6,1,AM,4.7,0,4.7,90,0.3
+253,676,O,52300,4th Ave SW & SW 152nd St,2,AM,0.7,0,5.3,12.5,0.8
+253,676,O,53975,4th Ave SW & SW 156th St,3,AM,1.3,0.1,6.4,24,2.2
+253,676,O,50130,S 156th St & 1st Ave S,4,AM,0.9,0.3,7.1,16.9,4.6
+253,676,O,50140,S 156th St & 4th Ave S,5,AM,1.2,1.6,6.6,21.4,29.3
+253,676,O,50145,S 156th Way & Des Moines Memorial Dr S,6,AM,0.6,0.1,7.2,11.6,1.5
+253,676,O,80151,S 154th Ln & 24th Ave S,7,AM,0.6,0.1,7.6,10.3,2.6
+253,676,O,79973,S 154th St & 32nd Ave S,8,AM,0.3,0.3,7.7,6.2,4.5
+253,676,O,60922,Tukwila International Blvd Station - Bay 2,9,AM,6.5,3.8,10.4,116.4,67.9
+253,676,O,54201,Southcenter Blvd & 42nd Ave S,10,AM,0.3,0.1,10.6,5.9,2.4
+253,676,O,54203,Southcenter Blvd & Park Place,11,AM,0.3,0.1,10.7,4.8,2.5
+253,676,O,54205,Southcenter Blvd & 53rd Ave S,12,AM,0.2,0.1,10.7,3.2,2.4
+253,676,O,58102,Southcenter Blvd & 62nd Ave S,13,AM,0.4,0.6,10.4,6.8,11.9
+253,676,O,58104,Southcenter Blvd & 65th Ave S,14,AM,0,0.1,10.2,0.4,1.1
+253,676,O,59310,Andover Park W & Baker Blvd - Bay 2,15,AM,1.2,4.1,7.2,22.3,74.5
+253,676,O,59833,Strander Blvd & Andover Park E,16,AM,0.2,0.8,6.6,2.7,13.7
+253,676,O,58028,West Valley Hwy & Strander Blvd,17,AM,0.1,0.5,6.2,1.3,8.9
+253,676,O,59882,Tukwila Station Acs & S Longacres Way - Bay 2,18,AM,1.8,0.4,7.7,32.6,6.8
+253,676,O,59876,SW 27th St & Naches Ave SW,19,AM,0,0.3,7.4,0.5,5.9
+253,676,O,59872,Oakesdale Ave SW & Seattle Sounders Fc Acs,20,AM,0.1,0.2,7.3,0.9,2.7
+253,676,O,59878,Oakesdale Ave SW & SW 16th St,21,AM,0,0.3,7,0.1,5.3
+253,676,O,59868,SW 16th St & Lind Ave SW,22,AM,0.1,1,6.2,2.4,17.5
+253,676,O,55942,Lind Ave SW & SW Grady Way,23,AM,0.1,0.6,5.6,1.3,10
+253,676,O,55928,Lind Ave SW & SW 7th St,24,AM,0.1,0.7,5,1,12
+253,676,O,59860,Rainier Ave S & S 7th St,25,AM,0.3,0.8,4.4,4.9,14.1
+253,676,O,59870,Rainier Ave S & S 4th Pl,26,AM,0.1,0.1,4.4,2,2.2
+253,676,O,46440,S 3rd St & Rainier Ave S,27,AM,0.3,0.5,4.2,4.7,8
+253,676,O,46477,Renton Transit Center - Bay 2,28,AM,1,2.2,3,17.3,38.1
+253,676,O,46578,Logan Ave N & N 3rd St,29,AM,0,0.1,2.9,0,1.9
+253,676,O,46580,Logan Ave N & N 6th St,30,AM,0,0.2,2.7,0,2.9
+253,676,O,46590,Logan Ave N & N 10th St,31,AM,0,1.1,1.7,0.1,18.4
+253,676,O,46541,Southport Dr N & Garden Ave N,32,AM,0,0.5,1.2,0.2,8.1
+253,676,O,46504,N 10th St & Garden Ave N,33,AM,0.1,1.4,0,1.8,21.8
+253,676,I,46505,N 10th St & Park Ave N,1,MID,1.7,0,1.7,41.7,0
+253,676,I,46595,Logan Ave N & N 10th St,2,MID,1,0,2.7,23.8,0.2
+253,676,I,46585,Logan Ave N & N 6th St,3,MID,0.2,0,2.7,4,0
+253,676,I,46579,Logan Ave N & N 3rd St,4,MID,0.2,0,2.9,5.7,0.8
+253,676,I,46478,Renton Transit Center - Bay 3,5,MID,6.3,1.3,7.9,150.4,31.5
+253,676,I,45320,S 2nd St & Shattuck Ave S,6,MID,1,0.5,8.4,22.9,10.9
+253,676,I,59891,Rainier Ave S & S 3rd Pl,7,MID,1.7,0.8,9.3,41,18.8
+253,676,I,55926,SW 7th St & Rainier Ave S,8,MID,1.8,1.3,9.5,41.2,30.6
+253,676,I,55927,Lind Ave SW & SW 7th St,9,MID,1.1,0.8,9.8,26.4,18.6
+253,676,I,80761,Lind Ave SW & SW Grady Way,10,MID,0.5,0.2,10.1,12,4.3
+253,676,I,80768,Lind Ave SW & SW 16th St,11,MID,0.3,0.2,10.2,6.9,4.6
+253,676,I,59879,Oakesdale Ave SW & SW 16th St,12,MID,0.2,0.1,10.3,5.1,3.3
+253,676,I,59873,Oakesdale Ave SW & Seattle Sounders Fc Acs,13,MID,0.1,0.1,10.2,1.7,2.1
+253,676,I,59877,SW 27th St & Naches Ave SW,14,MID,0.2,0,10.4,4.2,0.7
+253,676,I,59881,Tukwila Station Acs & S Longacres Way - Bay 1,15,MID,0.7,0.3,10.8,17.2,8.1
+253,676,I,58113,Strander Blvd & W Valley Hwy,16,MID,0.4,0.2,11,8.9,4.2
+253,676,I,58111,Strander Blvd & Andover Park E,17,MID,0.4,0.6,10.7,9.4,15.1
+253,676,I,59314,Andover Park W & Baker Blvd - Bay 3,18,MID,6,4.7,12,137.5,107.7
+253,676,I,58112,Southcenter Blvd & 65th Ave S,19,MID,0.4,0.3,12.1,9.7,6.2
+253,676,I,58114,Southcenter Blvd & 62nd Ave S,20,MID,0.4,0.2,12.2,10.7,5.1
+253,676,I,54202,Southcenter Blvd & 52nd Ave S,21,MID,0.3,0.2,12.3,8.3,4.1
+253,676,I,54204,Southcenter Blvd & Park Place,22,MID,0.4,0.2,12.6,10.2,3.7
+253,676,I,54206,Southcenter Blvd & 42nd Ave S,23,MID,0.4,0.2,12.7,8.9,5.5
+253,676,I,60923,Tukwila International Blvd Station - Bay 3,24,MID,6.9,7.5,12.1,164.8,179.2
+253,676,I,79972,S 154th St & 32nd Ave S,25,MID,0.9,0.7,12.2,19.6,15.1
+253,676,I,80150,S 154th Ln & 24th Ave S,26,MID,0.3,0.6,11.9,6.3,13.2
+253,676,I,49290,S 156th St & Des Moines Memorial Dr S,27,MID,0.6,0.8,11.7,14.7,18.9
+253,676,I,49301,S 156th St & 2nd Ave S,28,MID,1.6,1.1,12.3,37.8,24.6
+253,676,I,47646,SW 156th St & 2nd Ave SW,29,MID,0.8,1.2,11.9,18.4,27.1
+253,676,I,53720,4th Ave SW & SW 156th St,30,MID,0.3,0.6,11.6,7.5,13.8
+253,676,I,53740,4th Ave SW & SW 152nd St,31,MID,0.2,3.2,8.4,3.7,76.5
+253,676,I,52304,Burien Transit Center - Bay 4,32,MID,0.8,8.8,0,18.7,203
+253,676,O,52306,Burien Transit Center - Bay 6,1,MID,6.8,0,6.8,164,0.2
+253,676,O,52300,4th Ave SW & SW 152nd St,2,MID,2.5,0.3,9,61,6.9
+253,676,O,53975,4th Ave SW & SW 156th St,3,MID,0.8,0.3,9.5,18.9,7.6
+253,676,O,50130,S 156th St & 1st Ave S,4,MID,2.1,0.8,10.6,51.3,19
+253,676,O,50140,S 156th St & 4th Ave S,5,MID,1.7,1.5,10.9,41.6,35.6
+253,676,O,50145,S 156th Way & Des Moines Memorial Dr S,6,MID,0.8,0.5,11.2,18.5,11.1
+253,676,O,80151,S 154th Ln & 24th Ave S,7,MID,0.5,0.1,11.5,11.2,3.2
+253,676,O,79973,S 154th St & 32nd Ave S,8,MID,0.4,1,10.9,10.2,23.5
+253,676,O,60922,Tukwila International Blvd Station - Bay 2,9,MID,10.7,5.5,16.1,255.9,131.6
+253,676,O,54201,Southcenter Blvd & 42nd Ave S,10,MID,0.7,0.2,16.3,15.2,5
+253,676,O,54203,Southcenter Blvd & Park Place,11,MID,0.3,0.2,16.4,7.7,5.6
+253,676,O,54205,Southcenter Blvd & 53rd Ave S,12,MID,0.2,0.2,16.5,4.8,4.4
+253,676,O,58102,Southcenter Blvd & 62nd Ave S,13,MID,0.4,0.9,16,8.9,20.2
+253,676,O,58104,Southcenter Blvd & 65th Ave S,14,MID,0,0.1,15.9,0.9,1.4
+253,676,O,59310,Andover Park W & Baker Blvd - Bay 2,15,MID,3.3,8.9,10.3,80,214.3
+253,676,O,59833,Strander Blvd & Andover Park E,16,MID,0.4,0.6,10.2,10.7,14.2
+253,676,O,58028,West Valley Hwy & Strander Blvd,17,MID,0.3,0.5,9.9,6,12.9
+253,676,O,59882,Tukwila Station Acs & S Longacres Way - Bay 2,18,MID,0.4,0.4,9.8,9.5,10.7
+253,676,O,59876,SW 27th St & Naches Ave SW,19,MID,0.1,0.2,9.6,1.3,5.7
+253,676,O,59872,Oakesdale Ave SW & Seattle Sounders Fc Acs,20,MID,0.1,0.2,9.4,1.2,4.1
+253,676,O,59878,Oakesdale Ave SW & SW 16th St,21,MID,0.2,0.2,9.4,3.5,4.2
+253,676,O,59868,SW 16th St & Lind Ave SW,22,MID,0.2,0.3,9.3,4.6,6.3
+253,676,O,55942,Lind Ave SW & SW Grady Way,23,MID,0.2,1.3,8.1,5.3,31.2
+253,676,O,55928,Lind Ave SW & SW 7th St,24,MID,0.7,1.2,7.7,16.8,27.8
+253,676,O,59860,Rainier Ave S & S 7th St,25,MID,0.7,1.2,7.1,15.9,29.1
+253,676,O,59870,Rainier Ave S & S 4th Pl,26,MID,0.3,0.7,6.8,7.1,16.2
+253,676,O,46440,S 3rd St & Rainier Ave S,27,MID,0.6,1.3,6.1,15,30.5
+253,676,O,46477,Renton Transit Center - Bay 2,28,MID,2.4,4.2,4.3,56.7,100.7
+253,676,O,46578,Logan Ave N & N 3rd St,29,MID,0,0.4,3.9,0.9,8.7
+253,676,O,46580,Logan Ave N & N 6th St,30,MID,0,0.2,3.8,0,4
+253,676,O,46590,Logan Ave N & N 10th St,31,MID,0,1.8,2,0.4,40.5
+253,676,O,46541,Southport Dr N & Garden Ave N,32,MID,0,0.5,1.6,0.4,10.8
+253,676,O,46504,N 10th St & Garden Ave N,33,MID,0.1,1.7,0,3,41.3
+253,676,I,46505,N 10th St & Park Ave N,1,PM,2.1,0,2.1,41.5,0
+253,676,I,46595,Logan Ave N & N 10th St,2,PM,1.4,0,3.5,26.5,0.6
+253,676,I,46585,Logan Ave N & N 6th St,3,PM,0.2,0,3.8,4.7,0
+253,676,I,46579,Logan Ave N & N 3rd St,4,PM,0.5,0.1,4.2,9.1,1.2
+253,676,I,46478,Renton Transit Center - Bay 3,5,PM,4.9,2,7.1,97.9,39.5
+253,676,I,45320,S 2nd St & Shattuck Ave S,6,PM,0.8,0.7,7.2,15.2,13.7
+253,676,I,59891,Rainier Ave S & S 3rd Pl,7,PM,1.5,0.8,7.8,29.5,16.8
+253,676,I,55926,SW 7th St & Rainier Ave S,8,PM,1.9,1,9.1,40.9,21.6
+253,676,I,55927,Lind Ave SW & SW 7th St,9,PM,1.4,0.4,10,29.3,8.3
+253,676,I,80761,Lind Ave SW & SW Grady Way,10,PM,0.7,0.1,10.7,14.4,2.2
+253,676,I,80768,Lind Ave SW & SW 16th St,11,PM,0.7,0.2,11.3,14.8,3.4
+253,676,I,59879,Oakesdale Ave SW & SW 16th St,12,PM,0.3,0.1,11.5,6.4,2.6
+253,676,I,59873,Oakesdale Ave SW & Seattle Sounders Fc Acs,13,PM,0.2,0,11.6,3.2,0.5
+253,676,I,59877,SW 27th St & Naches Ave SW,14,PM,0.3,0,11.9,5.5,0.2
+253,676,I,59881,Tukwila Station Acs & S Longacres Way - Bay 1,15,PM,1,1.6,11.2,19.5,32.7
+253,676,I,58113,Strander Blvd & W Valley Hwy,16,PM,0.4,0.2,11.4,8.1,4
+253,676,I,58111,Strander Blvd & Andover Park E,17,PM,0.8,0.5,11.6,15,10.1
+253,676,I,59314,Andover Park W & Baker Blvd - Bay 3,18,PM,9.4,3.8,17.2,196.7,80.4
+253,676,I,58112,Southcenter Blvd & 65th Ave S,19,PM,0.5,0.3,17.4,9.8,5.9
+253,676,I,58114,Southcenter Blvd & 62nd Ave S,20,PM,0.6,0.2,17.8,11.1,3.8
+253,676,I,54202,Southcenter Blvd & 52nd Ave S,21,PM,0.3,0.3,17.9,6.9,5.3
+253,676,I,54204,Southcenter Blvd & Park Place,22,PM,0.3,0.4,17.8,5,7.6
+253,676,I,54206,Southcenter Blvd & 42nd Ave S,23,PM,0.3,0.4,17.7,6.2,8.8
+253,676,I,60923,Tukwila International Blvd Station - Bay 3,24,PM,7.6,10.7,14.6,152.5,214.3
+253,676,I,79972,S 154th St & 32nd Ave S,25,PM,0.7,1.1,14.2,14.5,23.4
+253,676,I,80150,S 154th Ln & 24th Ave S,26,PM,0.2,0.5,13.9,4.2,10.1
+253,676,I,49290,S 156th St & Des Moines Memorial Dr S,27,PM,0.3,1.1,13.2,5.7,22.3
+253,676,I,49301,S 156th St & 2nd Ave S,28,PM,0.7,1.6,12.2,14.5,32.8
+253,676,I,47646,SW 156th St & 2nd Ave SW,29,PM,0.7,1.2,11.8,13.7,23.5
+253,676,I,53720,4th Ave SW & SW 156th St,30,PM,0.2,1,11,4.6,19
+253,676,I,53740,4th Ave SW & SW 152nd St,31,PM,0.2,2.9,8.3,3.4,58.9
+253,676,I,52304,Burien Transit Center - Bay 4,32,PM,0.7,9.4,0,14.5,198.3
+253,676,O,52306,Burien Transit Center - Bay 6,1,PM,5.9,0,5.9,117.9,0
+253,676,O,52300,4th Ave SW & SW 152nd St,2,PM,3,0.3,8.5,60.6,6
+253,676,O,53975,4th Ave SW & SW 156th St,3,PM,0.6,0.4,8.8,12.7,7.4
+253,676,O,50130,S 156th St & 1st Ave S,4,PM,1.7,0.8,9.9,36.4,16.2
+253,676,O,50140,S 156th St & 4th Ave S,5,PM,0.8,1.1,9.6,17.5,23.1
+253,676,O,50145,S 156th Way & Des Moines Memorial Dr S,6,PM,0.5,0.3,9.7,9.5,7.3
+253,676,O,80151,S 154th Ln & 24th Ave S,7,PM,0.8,0.2,10.3,16.6,4.9
+253,676,O,79973,S 154th St & 32nd Ave S,8,PM,0.3,0.8,9.8,5.5,16.5
+253,676,O,60922,Tukwila International Blvd Station - Bay 2,9,PM,8.6,5.6,12.8,171.3,111.4
+253,676,O,54201,Southcenter Blvd & 42nd Ave S,10,PM,0.6,0.3,13.5,12.7,6.5
+253,676,O,54203,Southcenter Blvd & Park Place,11,PM,0.2,0.4,13.2,4.1,8.9
+253,676,O,54205,Southcenter Blvd & 53rd Ave S,12,PM,0.2,0.3,13.1,5.1,6.5
+253,676,O,58102,Southcenter Blvd & 62nd Ave S,13,PM,0.3,0.7,12.8,6.7,14.3
+253,676,O,58104,Southcenter Blvd & 65th Ave S,14,PM,0,0.1,12.7,0.8,1.3
+253,676,O,59310,Andover Park W & Baker Blvd - Bay 2,15,PM,5,7.1,10.8,100,142.1
+253,676,O,59833,Strander Blvd & Andover Park E,16,PM,0.7,0.4,11.1,13.4,7.6
+253,676,O,58028,West Valley Hwy & Strander Blvd,17,PM,0.2,0.5,10.8,4.9,10.4
+253,676,O,59882,Tukwila Station Acs & S Longacres Way - Bay 2,18,PM,0.6,1.3,10.1,11.6,25.3
+253,676,O,59876,SW 27th St & Naches Ave SW,19,PM,0.1,0.1,10.1,2.1,2
+253,676,O,59872,Oakesdale Ave SW & Seattle Sounders Fc Acs,20,PM,0.1,0.1,10.2,2.3,1.2
+253,676,O,59878,Oakesdale Ave SW & SW 16th St,21,PM,0.1,0.2,10.2,2.3,3.2
+253,676,O,59868,SW 16th St & Lind Ave SW,22,PM,0.4,0.2,10.3,8,4.9
+253,676,O,55942,Lind Ave SW & SW Grady Way,23,PM,0.3,1,9.5,5.7,22
+253,676,O,55928,Lind Ave SW & SW 7th St,24,PM,0.9,0.8,9.7,19.2,16.1
+253,676,O,59860,Rainier Ave S & S 7th St,25,PM,0.9,1.4,9.3,17.5,28.4
+253,676,O,59870,Rainier Ave S & S 4th Pl,26,PM,0.2,0.7,8.8,4.8,14.3
+253,676,O,46440,S 3rd St & Rainier Ave S,27,PM,0.7,1.7,7.8,14.9,34.9
+253,676,O,46477,Renton Transit Center - Bay 2,28,PM,1.6,5.6,3.7,32,112.9
+253,676,O,46578,Logan Ave N & N 3rd St,29,PM,0.1,0.4,3.4,1.3,8.8
+253,676,O,46580,Logan Ave N & N 6th St,30,PM,0,0.2,3.3,0,4.1
+253,676,O,46590,Logan Ave N & N 10th St,31,PM,0,1.3,1.9,0.2,28.3
+253,676,O,46541,Southport Dr N & Garden Ave N,32,PM,0,0.6,1.4,0.4,12.1
+253,676,O,46504,N 10th St & Garden Ave N,33,PM,0.1,1.6,0,2.6,31.2
+253,676,I,46505,N 10th St & Park Ave N,1,XEV,1.6,0,1.6,17.4,0
+253,676,I,46595,Logan Ave N & N 10th St,2,XEV,1.1,0,2.7,13.6,0.1
+253,676,I,46585,Logan Ave N & N 6th St,3,XEV,0.1,0,2.8,1.6,0
+253,676,I,46579,Logan Ave N & N 3rd St,4,XEV,0.2,0,3,2.8,0.3
+253,676,I,46478,Renton Transit Center - Bay 3,5,XEV,2.6,1.4,4.2,31.7,16.8
+253,676,I,45320,S 2nd St & Shattuck Ave S,6,XEV,0.5,0.4,4.3,6.4,5.2
+253,676,I,59891,Rainier Ave S & S 3rd Pl,7,XEV,1.2,0.5,5,14,6.3
+253,676,I,55926,SW 7th St & Rainier Ave S,8,XEV,1.4,0.7,5.7,17.3,7.8
+253,676,I,55927,Lind Ave SW & SW 7th St,9,XEV,0.4,0.2,6,5.3,2.1
+253,676,I,80761,Lind Ave SW & SW Grady Way,10,XEV,0.4,0,6.5,4.9,0.3
+253,676,I,80768,Lind Ave SW & SW 16th St,11,XEV,0.2,0.1,6.7,1.8,1.6
+253,676,I,59879,Oakesdale Ave SW & SW 16th St,12,XEV,0.1,0.2,6.6,0.9,1.8
+253,676,I,59873,Oakesdale Ave SW & Seattle Sounders Fc Acs,13,XEV,0.3,0,6.8,3.2,0.4
+253,676,I,59877,SW 27th St & Naches Ave SW,14,XEV,0.1,0,6.9,1.1,0.1
+253,676,I,59881,Tukwila Station Acs & S Longacres Way - Bay 1,15,XEV,0.3,0.3,6.9,3.6,3.2
+253,676,I,58113,Strander Blvd & W Valley Hwy,16,XEV,0.3,0.1,7,3.4,1.7
+253,676,I,58111,Strander Blvd & Andover Park E,17,XEV,0.2,0.2,7,2.4,2.3
+253,676,I,59314,Andover Park W & Baker Blvd - Bay 3,18,XEV,8.5,1.5,14.1,101.7,17.4
+253,676,I,58112,Southcenter Blvd & 65th Ave S,19,XEV,0.3,0.1,14.3,3.7,1.8
+253,676,I,58114,Southcenter Blvd & 62nd Ave S,20,XEV,0.3,0.2,14.5,3.6,2.1
+253,676,I,54202,Southcenter Blvd & 52nd Ave S,21,XEV,0.2,0.2,14.9,2.3,2.2
+253,676,I,54204,Southcenter Blvd & Park Place,22,XEV,0.2,0.3,14.8,2.4,3.3
+253,676,I,54206,Southcenter Blvd & 42nd Ave S,23,XEV,0.1,0.4,14.5,1.6,4.5
+253,676,I,60923,Tukwila International Blvd Station - Bay 3,24,XEV,3.9,8.8,9.7,47.2,105.1
+253,676,I,79972,S 154th St & 32nd Ave S,25,XEV,0.4,0.7,9.4,5.1,8.2
+253,676,I,80150,S 154th Ln & 24th Ave S,26,XEV,0.1,0.6,8.9,0.9,7.3
+253,676,I,49290,S 156th St & Des Moines Memorial Dr S,27,XEV,0.1,0.5,8.7,1.3,6.1
+253,676,I,49301,S 156th St & 2nd Ave S,28,XEV,0.4,0.8,8.3,5.3,10.8
+253,676,I,47646,SW 156th St & 2nd Ave SW,29,XEV,0.4,0.6,8.1,4.9,7.9
+253,676,I,53720,4th Ave SW & SW 156th St,30,XEV,0.1,0.5,7.7,1.4,6.7
+253,676,I,53740,4th Ave SW & SW 152nd St,31,XEV,0.1,1.1,6.7,1.2,13.9
+253,676,I,52304,Burien Transit Center - Bay 4,32,XEV,0.6,7.4,0,7.1,88.4
+253,676,O,52306,Burien Transit Center - Bay 6,1,XEV,4.3,0,4.2,51.2,0.1
+253,676,O,52300,4th Ave SW & SW 152nd St,2,XEV,1.9,0.1,6,23.3,1.5
+253,676,O,53975,4th Ave SW & SW 156th St,3,XEV,0.3,0.2,6,3.8,2.5
+253,676,O,50130,S 156th St & 1st Ave S,4,XEV,1,0.4,6.7,11.9,4.4
+253,676,O,50140,S 156th St & 4th Ave S,5,XEV,0.6,0.5,6.7,7.3,6.5
+253,676,O,50145,S 156th Way & Des Moines Memorial Dr S,6,XEV,0.2,0.2,6.7,2.6,2.3
+253,676,O,80151,S 154th Ln & 24th Ave S,7,XEV,0.4,0.3,6.8,4.5,3.7
+253,676,O,79973,S 154th St & 32nd Ave S,8,XEV,0.1,0.5,6.8,1.7,6.3
+253,676,O,60922,Tukwila International Blvd Station - Bay 2,9,XEV,5.2,4.4,7.6,62.7,52.3
+253,676,O,54201,Southcenter Blvd & 42nd Ave S,10,XEV,0.2,0.4,7.4,1.9,4.5
+253,676,O,54203,Southcenter Blvd & Park Place,11,XEV,0.1,0.3,7.2,1.4,3.7
+253,676,O,54205,Southcenter Blvd & 53rd Ave S,12,XEV,0.1,0.3,7,1,3.4
+253,676,O,58102,Southcenter Blvd & 62nd Ave S,13,XEV,0.1,0.4,6.8,1.2,4.6
+253,676,O,58104,Southcenter Blvd & 65th Ave S,14,XEV,0,0,6.7,0,0.3
+253,676,O,59310,Andover Park W & Baker Blvd - Bay 2,15,XEV,3.4,2.8,7.6,44.4,36.1
+253,676,O,59833,Strander Blvd & Andover Park E,16,XEV,0.2,0.2,7.7,2.5,2.2
+253,676,O,58028,West Valley Hwy & Strander Blvd,17,XEV,0.2,0.6,7.2,2.1,8
+253,676,O,59882,Tukwila Station Acs & S Longacres Way - Bay 2,18,XEV,0.2,0.2,7.4,2,2.8
+253,676,O,59876,SW 27th St & Naches Ave SW,19,XEV,0,0.1,7.3,0.3,1.2
+253,676,O,59872,Oakesdale Ave SW & Seattle Sounders Fc Acs,20,XEV,0.2,0.3,7.3,1.8,3
+253,676,O,59878,Oakesdale Ave SW & SW 16th St,21,XEV,0,0.1,7.2,0.4,1.5
+253,676,O,59868,SW 16th St & Lind Ave SW,22,XEV,0.1,0.2,7.1,1.4,1.8
+253,676,O,55942,Lind Ave SW & SW Grady Way,23,XEV,0.2,0.6,6.7,2.2,7.2
+253,676,O,55928,Lind Ave SW & SW 7th St,24,XEV,0.2,0.4,6.5,2.5,4.6
+253,676,O,59860,Rainier Ave S & S 7th St,25,XEV,0.6,0.6,6.6,7.4,8.1
+253,676,O,59870,Rainier Ave S & S 4th Pl,26,XEV,0.1,0.6,6.2,1.9,7.3
+253,676,O,46440,S 3rd St & Rainier Ave S,27,XEV,0.4,1.3,5.3,5.1,16.6
+253,676,O,46477,Renton Transit Center - Bay 2,28,XEV,1,3.6,2.7,11.5,43.4
+253,676,O,46578,Logan Ave N & N 3rd St,29,XEV,0,0.2,2.5,0.4,2.7
+253,676,O,46580,Logan Ave N & N 6th St,30,XEV,0,0.1,2.4,0,1.3
+253,676,O,46590,Logan Ave N & N 10th St,31,XEV,0,0.7,1.7,0,7.9
+253,676,O,46541,Southport Dr N & Garden Ave N,32,XEV,0,0.4,1.4,0,4.4
+253,676,O,46504,N 10th St & Garden Ave N,33,XEV,0.1,1.5,0,1.7,19.5
+253,676,I,46505,N 10th St & Park Ave N,1,XNT,1.3,0,1.3,6.6,0
+253,676,I,46595,Logan Ave N & N 10th St,2,XNT,1.6,0,2.9,8,0
+253,676,I,46585,Logan Ave N & N 6th St,3,XNT,0.2,0,3.1,1,0.1
+253,676,I,46579,Logan Ave N & N 3rd St,4,XNT,0.1,0,3.2,0.4,0
+253,676,I,46478,Renton Transit Center - Bay 3,5,XNT,2.3,0.9,4.6,11.7,4.7
+253,676,I,45320,S 2nd St & Shattuck Ave S,6,XNT,0.5,0.3,4.7,2.5,1.5
+253,676,I,59891,Rainier Ave S & S 3rd Pl,7,XNT,0.7,0.3,5.1,3.3,1.4
+253,676,I,55926,SW 7th St & Rainier Ave S,8,XNT,1.4,0.5,6,6.9,2.3
+253,676,I,55927,Lind Ave SW & SW 7th St,9,XNT,0.3,0.1,6.3,1.6,0.4
+253,676,I,80761,Lind Ave SW & SW Grady Way,10,XNT,0.3,0,6.5,1.3,0.1
+253,676,I,80768,Lind Ave SW & SW 16th St,11,XNT,0.1,0.2,6.2,0.6,1
+253,676,I,59879,Oakesdale Ave SW & SW 16th St,12,XNT,0.1,0.1,6.1,0.5,0.7
+253,676,I,59873,Oakesdale Ave SW & Seattle Sounders Fc Acs,13,XNT,0.1,0,6.1,0.4,0.2
+253,676,I,59877,SW 27th St & Naches Ave SW,14,XNT,0.4,0,6.5,2.3,0
+253,676,I,59881,Tukwila Station Acs & S Longacres Way - Bay 1,15,XNT,0.2,0.1,6.6,1.1,0.7
+253,676,I,58113,Strander Blvd & W Valley Hwy,16,XNT,0.8,0.1,7.2,4.5,0.8
+253,676,I,58111,Strander Blvd & Andover Park E,17,XNT,0.1,0,7.3,0.8,0.1
+253,676,I,59314,Andover Park W & Baker Blvd - Bay 3,18,XNT,3.6,1,9.9,21.8,6.1
+253,676,I,58112,Southcenter Blvd & 65th Ave S,19,XNT,0.2,0.1,10,1,0.5
+253,676,I,58114,Southcenter Blvd & 62nd Ave S,20,XNT,0.2,0.1,10,0.9,0.7
+253,676,I,54202,Southcenter Blvd & 52nd Ave S,21,XNT,0.1,0.1,10,1,0.6
+253,676,I,54204,Southcenter Blvd & Park Place,22,XNT,0.1,0.2,9.8,0.6,1.7
+253,676,I,54206,Southcenter Blvd & 42nd Ave S,23,XNT,0.1,0.3,9.6,0.5,2.4
+253,676,I,60923,Tukwila International Blvd Station - Bay 3,24,XNT,2.8,5.1,7.1,19.3,36
+253,676,I,79972,S 154th St & 32nd Ave S,25,XNT,0.4,0.3,7.2,2.5,2.2
+253,676,I,80150,S 154th Ln & 24th Ave S,26,XNT,0.1,0.5,6.8,0.4,3.7
+253,676,I,49290,S 156th St & Des Moines Memorial Dr S,27,XNT,0,0.2,6.5,0,1.7
+253,676,I,49301,S 156th St & 2nd Ave S,28,XNT,0.1,0.6,6,0.8,4.3
+253,676,I,47646,SW 156th St & 2nd Ave SW,29,XNT,0.2,0.3,5.9,1.3,2.2
+253,676,I,53720,4th Ave SW & SW 156th St,30,XNT,0,0.5,5.5,0.2,3.2
+253,676,I,53740,4th Ave SW & SW 152nd St,31,XNT,0,0.4,5.1,0.2,3.1
+253,676,I,52304,Burien Transit Center - Bay 4,32,XNT,0.5,5.6,0,4,45
+253,676,O,52306,Burien Transit Center - Bay 6,1,XNT,2.7,0,2.7,15.9,0
+253,676,O,52300,4th Ave SW & SW 152nd St,2,XNT,0.7,0,3.3,4.2,0.1
+253,676,O,53975,4th Ave SW & SW 156th St,3,XNT,0.6,0.2,3.7,3.7,1.3
+253,676,O,50130,S 156th St & 1st Ave S,4,XNT,0.5,0.1,4,2.7,0.7
+253,676,O,50140,S 156th St & 4th Ave S,5,XNT,0.3,0.1,4.1,1.8,0.7
+253,676,O,50145,S 156th Way & Des Moines Memorial Dr S,6,XNT,0.3,0.1,4.3,1.5,0.6
+253,676,O,80151,S 154th Ln & 24th Ave S,7,XNT,0.4,0.2,4.6,2.3,1
+253,676,O,79973,S 154th St & 32nd Ave S,8,XNT,0.1,0.2,4.6,1,1.3
+253,676,O,60922,Tukwila International Blvd Station - Bay 2,9,XNT,3.6,2.9,5.4,25.3,20
+253,676,O,54201,Southcenter Blvd & 42nd Ave S,10,XNT,0.1,0.2,5.4,1,1.2
+253,676,O,54203,Southcenter Blvd & Park Place,11,XNT,0,0.3,5.1,0.3,2
+253,676,O,54205,Southcenter Blvd & 53rd Ave S,12,XNT,0,0.3,4.3,0.2,1.5
+253,676,O,58102,Southcenter Blvd & 62nd Ave S,13,XNT,0.1,0.3,4.1,0.6,1.7
+253,676,O,58104,Southcenter Blvd & 65th Ave S,14,XNT,0,0,4.1,0,0
+253,676,O,59310,Andover Park W & Baker Blvd - Bay 2,15,XNT,1.6,1,4.7,9.7,6.2
+253,676,O,59833,Strander Blvd & Andover Park E,16,XNT,0.1,0.1,4.7,0.7,0.7
+253,676,O,58028,West Valley Hwy & Strander Blvd,17,XNT,0.2,0.3,4.6,0.9,1.6
+253,676,O,59882,Tukwila Station Acs & S Longacres Way - Bay 2,18,XNT,0.1,0.2,4.5,0.7,1.2
+253,676,O,59876,SW 27th St & Naches Ave SW,19,XNT,0.1,0.2,4.3,0.6,1.6
+253,676,O,59872,Oakesdale Ave SW & Seattle Sounders Fc Acs,20,XNT,0,0.1,4.3,0,0.4
+253,676,O,59878,Oakesdale Ave SW & SW 16th St,21,XNT,0,0.1,4.2,0.1,0.9
+253,676,O,59868,SW 16th St & Lind Ave SW,22,XNT,0.1,0.1,4.2,0.6,0.7
+253,676,O,55942,Lind Ave SW & SW Grady Way,23,XNT,0.1,0.2,4.1,0.4,1.1
+253,676,O,55928,Lind Ave SW & SW 7th St,24,XNT,0,0.1,4,0.3,0.9
+253,676,O,59860,Rainier Ave S & S 7th St,25,XNT,0.2,0.4,3.8,1.7,3
+253,676,O,59870,Rainier Ave S & S 4th Pl,26,XNT,0,0.2,3.7,0.1,1.1
+253,676,O,46440,S 3rd St & Rainier Ave S,27,XNT,0.2,0.8,3,1.2,5.5
+253,676,O,46477,Renton Transit Center - Bay 2,28,XNT,0.5,2.4,1.4,3.9,18.8
+253,676,O,46578,Logan Ave N & N 3rd St,29,XNT,0,0.1,1.2,0,1.1
+253,676,O,46580,Logan Ave N & N 6th St,30,XNT,0,0.1,1.2,0,0.5
+253,676,O,46590,Logan Ave N & N 10th St,31,XNT,0,0.2,1,0,1.6
+253,676,O,46541,Southport Dr N & Garden Ave N,32,XNT,0,0.2,0.9,0.1,1.9
+253,676,O,46504,N 10th St & Garden Ave N,33,XNT,0.1,1,0,0.9,7.9
