@@ -1,37 +1,37 @@
 serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
-2510,904,I,2114,Lynnwood City Center Station Bay D2,0,PM,6.685,0.000,6.685,51.739,0.000
-2510,904,I,3343,South Everett Fwy Station Bay 5,1,PM,0.955,2.552,4.816,8.348,22.304
-2510,904,I,2571,Cedar Ave & 5th St,4,PM,0.005,0.741,4.080,0.043,6.478
-2510,904,I,2490,10th St & Ash Ave,5,PM,0.000,0.155,3.880,0.000,1.348
-2510,904,I,2517,Marysville Ash Ave Park & Ride Bay 1,6,PM,0.020,2.779,1.186,0.174,24.043
-2510,904,I,841,Cedar Ave & 10th St,7,PM,0.000,0.010,1.176,0.000,0.087
-2510,904,I,419,Marysville at Cedar and Grove Park & Ride Bay 4,8,PM,0.171,1.347,0.000,1.478,11.652
-2510,904,I,2114,Lynnwood City Center Station Bay D2,0,MID,4.304,0.000,4.304,4.304,0.000
-2510,904,I,2114,Lynnwood City Center Station Bay D2,0,XEV,3.067,0.000,3.067,6.000,0.000
-2510,904,I,3343,South Everett Fwy Station Bay 5,1,XEV,0.383,1.149,2.170,0.783,2.348
-2510,904,I,2571,Cedar Ave & 5th St,4,XEV,0.087,0.587,1.717,0.174,1.174
-2510,904,I,2490,10th St & Ash Ave,5,XEV,0.000,0.174,1.543,0.000,0.348
-2510,904,I,2517,Marysville Ash Ave Park & Ride Bay 1,6,XEV,0.000,0.708,0.854,0.000,1.478
-2510,904,I,841,Cedar Ave & 10th St,7,XEV,0.000,0.000,0.851,0.000,0.000
-2510,904,I,419,Marysville at Cedar and Grove Park & Ride Bay 4,8,XEV,0.750,1.604,0.000,1.565,3.348
-2510,904,O,2883,Marysville at Cedar and Grove Park & Ride Bay 1,0,MID,0.957,0.000,0.957,0.957,0.000
-2510,904,O,2490,10th St & Ash Ave,1,MID,0.000,0.000,0.957,0.000,0.000
-2510,904,O,2517,Marysville Ash Ave Park & Ride Bay 1,2,MID,0.130,0.000,1.087,0.130,0.000
-2510,904,O,2465,4th St & Beach Ave,3,MID,0.000,0.000,1.087,0.000,0.000
-2510,904,O,1397,I-5 & Marine Dr NE Flyer Stop,4,MID,0.087,0.000,1.174,0.087,0.000
-2510,904,O,2868,South Everett Fwy Station Bay 3,6,MID,1.279,0.233,3.279,2.391,0.435
-2510,904,O,3311,Lynnwood City Center Station Bay A7,7,MID,0.065,3.391,0.000,0.130,6.783
-2510,904,O,2883,Marysville at Cedar and Grove Park & Ride Bay 1,0,AM,2.842,0.000,2.842,22.739,0.000
-2510,904,O,2490,10th St & Ash Ave,1,AM,0.049,0.000,2.907,0.391,0.000
-2510,904,O,2517,Marysville Ash Ave Park & Ride Bay 1,2,AM,2.421,0.000,5.328,19.261,0.000
-2510,904,O,2465,4th St & Beach Ave,3,AM,0.257,0.000,5.585,2.043,0.000
-2510,904,O,1397,I-5 & Marine Dr NE Flyer Stop,4,AM,0.245,0.000,5.799,1.957,0.000
-2510,904,O,2868,South Everett Fwy Station Bay 3,6,AM,1.390,3.209,4.380,11.304,26.087
-2510,904,O,3311,Lynnwood City Center Station Bay A7,7,AM,0.000,4.410,0.000,0.000,35.087
-2510,904,O,2883,Marysville at Cedar and Grove Park & Ride Bay 1,0,XNT,1.978,0.000,1.978,3.870,0.000
-2510,904,O,2490,10th St & Ash Ave,1,XNT,0.000,0.000,1.978,0.000,0.000
-2510,904,O,2517,Marysville Ash Ave Park & Ride Bay 1,2,XNT,1.844,0.000,3.822,3.609,0.000
-2510,904,O,2465,4th St & Beach Ave,3,XNT,0.378,0.022,4.178,0.739,0.043
-2510,904,O,1397,I-5 & Marine Dr NE Flyer Stop,4,XNT,0.622,0.000,4.800,1.217,0.000
-2510,904,O,2868,South Everett Fwy Station Bay 3,6,XNT,0.217,0.391,2.217,0.217,0.391
-2510,904,O,3311,Lynnwood City Center Station Bay A7,7,XNT,0.000,2.217,0.000,0.000,2.217
+2510,904,O,2114,Lynnwood City Center Station Bay D2,0,PM,6.685,0.000,6.685,51.739,0.000
+2510,904,O,3343,South Everett Fwy Station Bay 5,1,PM,0.955,2.552,4.816,8.348,22.304
+2510,904,O,2571,Cedar Ave & 5th St,4,PM,0.005,0.741,4.080,0.043,6.478
+2510,904,O,2490,10th St & Ash Ave,5,PM,0.000,0.155,3.880,0.000,1.348
+2510,904,O,2517,Marysville Ash Ave Park & Ride Bay 1,6,PM,0.020,2.779,1.186,0.174,24.043
+2510,904,O,841,Cedar Ave & 10th St,7,PM,0.000,0.010,1.176,0.000,0.087
+2510,904,O,419,Marysville at Cedar and Grove Park & Ride Bay 4,8,PM,0.171,1.347,0.000,1.478,11.652
+2510,904,O,2114,Lynnwood City Center Station Bay D2,0,MID,4.304,0.000,4.304,4.304,0.000
+2510,904,O,2114,Lynnwood City Center Station Bay D2,0,XEV,3.067,0.000,3.067,6.000,0.000
+2510,904,O,3343,South Everett Fwy Station Bay 5,1,XEV,0.383,1.149,2.170,0.783,2.348
+2510,904,O,2571,Cedar Ave & 5th St,4,XEV,0.087,0.587,1.717,0.174,1.174
+2510,904,O,2490,10th St & Ash Ave,5,XEV,0.000,0.174,1.543,0.000,0.348
+2510,904,O,2517,Marysville Ash Ave Park & Ride Bay 1,6,XEV,0.000,0.708,0.854,0.000,1.478
+2510,904,O,841,Cedar Ave & 10th St,7,XEV,0.000,0.000,0.851,0.000,0.000
+2510,904,O,419,Marysville at Cedar and Grove Park & Ride Bay 4,8,XEV,0.750,1.604,0.000,1.565,3.348
+2510,904,I,2883,Marysville at Cedar and Grove Park & Ride Bay 1,0,MID,0.957,0.000,0.957,0.957,0.000
+2510,904,I,2490,10th St & Ash Ave,1,MID,0.000,0.000,0.957,0.000,0.000
+2510,904,I,2517,Marysville Ash Ave Park & Ride Bay 1,2,MID,0.130,0.000,1.087,0.130,0.000
+2510,904,I,2465,4th St & Beach Ave,3,MID,0.000,0.000,1.087,0.000,0.000
+2510,904,I,1397,I-5 & Marine Dr NE Flyer Stop,4,MID,0.087,0.000,1.174,0.087,0.000
+2510,904,I,2868,South Everett Fwy Station Bay 3,6,MID,1.279,0.233,3.279,2.391,0.435
+2510,904,I,3311,Lynnwood City Center Station Bay A7,7,MID,0.065,3.391,0.000,0.130,6.783
+2510,904,I,2883,Marysville at Cedar and Grove Park & Ride Bay 1,0,AM,2.842,0.000,2.842,22.739,0.000
+2510,904,I,2490,10th St & Ash Ave,1,AM,0.049,0.000,2.907,0.391,0.000
+2510,904,I,2517,Marysville Ash Ave Park & Ride Bay 1,2,AM,2.421,0.000,5.328,19.261,0.000
+2510,904,I,2465,4th St & Beach Ave,3,AM,0.257,0.000,5.585,2.043,0.000
+2510,904,I,1397,I-5 & Marine Dr NE Flyer Stop,4,AM,0.245,0.000,5.799,1.957,0.000
+2510,904,I,2868,South Everett Fwy Station Bay 3,6,AM,1.390,3.209,4.380,11.304,26.087
+2510,904,I,3311,Lynnwood City Center Station Bay A7,7,AM,0.000,4.410,0.000,0.000,35.087
+2510,904,I,2883,Marysville at Cedar and Grove Park & Ride Bay 1,0,XNT,1.978,0.000,1.978,3.870,0.000
+2510,904,I,2490,10th St & Ash Ave,1,XNT,0.000,0.000,1.978,0.000,0.000
+2510,904,I,2517,Marysville Ash Ave Park & Ride Bay 1,2,XNT,1.844,0.000,3.822,3.609,0.000
+2510,904,I,2465,4th St & Beach Ave,3,XNT,0.378,0.022,4.178,0.739,0.043
+2510,904,I,1397,I-5 & Marine Dr NE Flyer Stop,4,XNT,0.622,0.000,4.800,1.217,0.000
+2510,904,I,2868,South Everett Fwy Station Bay 3,6,XNT,0.217,0.391,2.217,0.217,0.391
+2510,904,I,3311,Lynnwood City Center Station Bay A7,7,XNT,0.000,2.217,0.000,0.000,2.217

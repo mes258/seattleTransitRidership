@@ -28,7 +28,7 @@ def get_time_period(time_str):
         return "XNT"
     
 def get_direction_code(direction:str, routeId:str):
-    if direction.lower() == "north" or direction.lower() == "east":
+    if direction.lower() == "south" or direction.lower() == "west":
       return "I"
     else:
         return "O"
@@ -157,7 +157,7 @@ def runAggregationForRoute(routeId, month, year):
 
 
 #Edit these
-routeIds = ["101"]
+routeIds = ["201", "202"]
 years = ["2023", "2024", "2025"]
 months = ["10"]
 
