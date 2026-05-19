@@ -9,7 +9,7 @@ def getRidershipData(agency, routeNum, servicePeriod):
 # For testing
 # print(getRidershipData("kcm", "7", "243"))
 
-# Uncomment to print out the results on startup.
+## Uncomment to print out the results on startup.
 # def getAgencyRidership(agency, servicePeriod):
 #     for i in range(0, 1000):
 #         routeId = str(i)
@@ -20,4 +20,4 @@ def getRidershipData(agency, routeNum, servicePeriod):
 #         except:
 #           continue
 
-# getAgencyRidership("ct", "2510")
+# getAgencyRidership("kcm", "253")
