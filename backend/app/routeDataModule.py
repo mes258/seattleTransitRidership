@@ -1,5 +1,5 @@
 
-from .config import rapidRideRouteMapping, stbKcmUrl, dataRoot, swiftRouteMapping
+from .config import rapidRideRouteMapping, stbKcmUrl, dataRoot, swiftRouteMapping, stbStUrl, stbCtUrl
 import json 
 
 def getAvgWeekdayRidership(df):
@@ -37,6 +37,12 @@ def getStbUrl(agency, route):
   if agency == "kcm":
     if route in stbKcmUrl:
       return stbKcmUrl[route]
+  if agency == "st":
+    if route in stbStUrl:
+      return stbStUrl[route]
+  if agency == "ct":
+    if route in stbCtUrl:
+      return stbCtUrl[route]
   return ""
 
 def getRouteName(agency, route):

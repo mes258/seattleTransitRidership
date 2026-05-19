@@ -68,3 +68,18 @@ stbKcmUrl = {
   "677": "https://seattletransitblog.com/2025/07/17/ridership-patterns-for-rapidride-g-line/",
   "678": "https://seattletransitblog.com/2024/12/17/ridership-patterns-for-rapidride-h-line/",
 }
+
+stbStUrl = {
+  "522": "https://seattletransitblog.com/2025/10/02/ridership-patterns-for-sound-transit-route-522/",
+  "535": "https://seattletransitblog.com/2026/05/11/ridership-patterns-for-sound-transit-route-535/",
+  "542": "https://seattletransitblog.com/2025/05/12/ridership-patterns-for-sound-transit-routes-542-and-545/#542",
+  "545": "https://seattletransitblog.com/2025/05/12/ridership-patterns-for-sound-transit-routes-542-and-545/#545"
+}
+
+stbCtUrl = {
+  "701": "https://seattletransitblog.com/2025/05/05/swift-ridership-with-lynnwood-link/#blue",
+  "702": "https://seattletransitblog.com/2025/05/05/swift-ridership-with-lynnwood-link/#green",
+  "703": "https://seattletransitblog.com/2025/05/05/swift-ridership-with-lynnwood-link/#orange",
+  "201": "https://seattletransitblog.com/2026/05/18/ridership-patterns-for-community-transit-routes-201-and-202/",
+  "202": "https://seattletransitblog.com/2026/05/18/ridership-patterns-for-community-transit-routes-201-and-202/"
+}
