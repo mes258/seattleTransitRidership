@@ -51,7 +51,7 @@ def getRoutes(agency: str):
     routeList = sorted(dataIndex[agency].keys())
     sortedRouteList = sorted(
       routeList,
-      key=lambda x: (not (670 <= int(x) <= 699), int(x))
+      key=lambda x: (not (670 <= int(x) <= 705), int(x))
     )
     return sortedRouteList
 
