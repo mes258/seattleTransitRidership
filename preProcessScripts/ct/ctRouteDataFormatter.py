@@ -77,11 +77,14 @@ def aggregateBoardingAndAlightingData(serviceChange, data):
   #dataSchema = OPERATION_DATE,ROUTE_ID,DIRECTION,TRIP_ID,VEHICLE_ID,SCHED_DEPTIME,ACT_ARRTIME,ACT_DEPTIME,STOP_ORDER_NBR,STOP_ID,STOP,BOARDINGS,ALIGHTINGS
 
   # Aggregate data
-  aggregated_data = defaultdict(lambda: {"total_alightings": 0, "total_boardings": 0, "total_departure_load": 0, "trip_counts": [], "date_totals": defaultdict(int)})
+  aggregated_data = defaultdict(lambda: {"stop_order_number": 0, "total_alightings": 0, "total_boardings": 0, "total_departure_load": 0, "trip_counts": [], "date_totals": defaultdict(int)})
   unique_dates = {"Weekday": set(), "Saturday": set(), "Sunday": set()}
 
   for row in data:
-      key = (row["ROUTE_ID"], row["DIRECTION"], row["TIME_PERIOD"], row["STOP_ID"], row["STOP"], row["DAY_TYPE"], row['STOP_ORDER_NBR'])
+      key = (row["ROUTE_ID"], row["DIRECTION"], row["TIME_PERIOD"], row["STOP_ID"], row["STOP"], row["DAY_TYPE"])
+      if key not in aggregated_data or (key in aggregated_data and int(aggregated_data[key]["stop_order_number"]) < int(row["STOP_ORDER_NBR"])):
+          aggregated_data[key]["stop_order_number"] = row ["STOP_ORDER_NBR"]
+            
       aggregated_data[key]["total_alightings"] += row["ALIGHTINGS"]
       aggregated_data[key]["total_boardings"] += row["BOARDINGS"]
       aggregated_data[key]["total_departure_load"] += row["DEPARTURE_LOAD"]
@@ -94,11 +97,13 @@ def aggregateBoardingAndAlightingData(serviceChange, data):
   trip_loads = defaultdict(lambda: defaultdict(int))  # { (route, direction, day_type, trip_id) -> { stop_id -> departing_load } }
 
   for key, values in aggregated_data.items():
-      route, direction, time_period, stop_id, stop_name, day_type, stop_order_number = key
+      route, direction, time_period, stop_id, stop_name, day_type = key
       if day_type != "Weekday":
         continue
       num_days = len(unique_dates[day_type])
       num_unique_trips = len(values["trip_counts"])
+
+      stop_order_number = values["stop_order_number"]
       
       if num_days > 0 and num_unique_trips > 0:
           avg_total_alightings = values["total_alightings"] / num_days
@@ -157,7 +162,7 @@ def runAggregationForRoute(routeId, month, year):
 
 
 #Edit these
-routeIds = ["201", "202"]
+routeIds = ["271"]
 years = ["2023", "2024", "2025"]
 months = ["10"]
 
