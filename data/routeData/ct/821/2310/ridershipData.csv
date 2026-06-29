@@ -1,0 +1,17 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+2310,821,O,2192,Northgate Station Bay 2,0,MID,11.500,0.000,11.500,11.500,0.000
+2310,821,O,2115,Lynnwood Transit Center Bay A2,3,PM,0.919,7.590,6.053,5.515,45.538
+2310,821,O,240,Marysville I Park & Ride Bay 1,6,PM,0.023,1.631,4.447,0.136,9.788
+2310,821,O,2884,Marysville at Cedar and Grove Park & Ride Bay 3,7,PM,0.000,4.448,0.000,0.000,26.686
+2310,821,O,2192,Northgate Station Bay 2,0,PM,13.336,0.000,13.327,64.860,0.000
+2310,821,I,2883,Marysville at Cedar and Grove Park & Ride Bay 1,0,XNT,3.818,0.000,3.818,3.818,0.000
+2310,821,I,240,Marysville I Park & Ride Bay 1,1,XNT,2.136,0.000,5.955,2.136,0.000
+2310,821,I,2465,4th St & Beach Ave,2,XNT,0.091,0.000,6.045,0.091,0.000
+2310,821,I,1397,I-5 & Marine Dr NE Flyer Stop,3,XNT,0.053,0.000,6.053,0.045,0.000
+2310,821,I,2115,Lynnwood Transit Center Bay A2,5,AM,6.163,0.492,12.113,37.260,2.974
+2310,821,I,2191,Northgate Station,8,AM,0.091,12.172,0.023,0.545,73.032
+2310,821,I,2883,Marysville at Cedar and Grove Park & Ride Bay 1,0,AM,4.718,0.000,4.712,23.806,0.000
+2310,821,I,240,Marysville I Park & Ride Bay 1,1,AM,0.961,0.018,5.721,4.847,0.091
+2310,821,I,2465,4th St & Beach Ave,2,AM,0.493,0.009,6.225,2.488,0.045
+2310,821,I,1397,I-5 & Marine Dr NE Flyer Stop,3,AM,0.257,0.000,6.482,1.332,0.000
+2310,821,I,2191,Northgate Station,8,MID,0.000,5.000,0.000,0.000,0.227

@@ -1,0 +1,39 @@
+OPERATION_DATE    62874
+ROUTE_ID          62874
+DIRECTION         62874
+TRIP_ID           62874
+VEHICLE_ID        62619
+SCHED_DEPTIME     47069
+ACT_ARRTIME       61385
+ACT_DEPTIME       61385
+STOP_ORDER_NBR    62874
+STOP_ID           62874
+STOP              62874
+BOARDINGS         61373
+ALIGHTINGS        61373
+dtype: int64
+  OPERATION_DATE  ROUTE_ID DIRECTION  TRIP_ID  VEHICLE_ID SCHED_DEPTIME ACT_ARRTIME ACT_DEPTIME  STOP_ORDER_NBR  STOP_ID                                 STOP  BOARDINGS  ALIGHTINGS
+0     2023-10-01       512     North    15001     91715.0      05:55:00    05:55:36    05:55:36               0     2192              Northgate Station Bay 2        8.0         0.0
+1     2023-10-01       512     North    15001     91715.0      06:02:00    06:02:31    06:02:44               3     2766  Mountlake Terrace Fwy Station Bay 7        0.0         0.0
+2     2023-10-01       512     North    15001     91715.0      06:06:00    06:06:49    06:07:13               4     2114       Lynnwood Transit Center Bay D2        1.0         4.0
+3     2023-10-01       512     North    15001     91715.0      06:13:00    06:13:12    06:13:28               5     2164            Ash Way Park & Ride Bay 1        0.0         0.0
+4     2023-10-01       512     North    15001     91715.0      06:21:00    06:20:32    06:20:44               6     2869      South Everett Fwy Station Bay 6        0.0         1.0
+5     2023-10-01       512     North    15001     91715.0           NaN    06:27:21    06:27:48               7     3219                   Broadway & 33rd St        0.0         3.0
+6     2023-10-01       512     North    15001     91715.0      06:33:00    06:28:40    06:28:40               8     2861                      Everett Station        0.0         1.0
+7     2023-10-01       512     North    15002     91723.0      06:19:00    06:20:04    06:20:04               0     2192              Northgate Station Bay 2        7.0         0.0
+8     2023-10-01       512     North    15002     91723.0      06:26:00    06:27:31    06:28:41               3     2766  Mountlake Terrace Fwy Station Bay 7        1.0         0.0
+9     2023-10-01       512     North    15002     91723.0      06:30:00    06:33:00    06:33:36               4     2114       Lynnwood Transit Center Bay D2        2.0         3.0
+OPERATION_DATE    datetime64[ns]
+ROUTE_ID                   int64
+DIRECTION                 object
+TRIP_ID                    int64
+VEHICLE_ID               float64
+SCHED_DEPTIME             object
+ACT_ARRTIME               object
+ACT_DEPTIME               object
+STOP_ORDER_NBR             int64
+STOP_ID                    int64
+STOP                      object
+BOARDINGS                float64
+ALIGHTINGS               float64
+dtype: object

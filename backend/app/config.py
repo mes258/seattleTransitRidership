@@ -4,6 +4,9 @@ projectRoot = Path(__file__).resolve().parent.parent.parent
 dataRoot = projectRoot / "data"
 
 timePeriodNames = {
+  "2310": "Oct 1, 2023 - Oct 31, 2023",
+  "2410": "Oct 1, 2024 - Oct 31, 2024",
+  "2510": "Oct 1, 2025 - Oct 31, 2025",
   "191": "Mar 23, 2019 - Jun 14, 2019",
   "192": "Jun 15, 2019 - Sep 20, 2019",
   "193": "Sep 21, 2019 - Mar 20, 2020",
@@ -36,6 +39,12 @@ rapidRideRouteMapping = {
   "678": 'h-Line'
 }
 
+swiftRouteMapping = {
+  "701": "Blue Line",
+  "702": "Green Line",
+  "703": "Orange Line"
+}
+
 stbKcmUrl = {
   "5": "https://seattletransitblog.com/2025/09/29/ridership-patterns-for-king-county-metro-route-5/",
   "7": "https://seattletransitblog.com/2024/10/21/ridership-patterns-for-king-county-metro-route-7/",
@@ -58,4 +67,19 @@ stbKcmUrl = {
   "676": "https://seattletransitblog.com/2025/02/24/ridership-patterns-for-rapidride-f-line/",
   "677": "https://seattletransitblog.com/2025/07/17/ridership-patterns-for-rapidride-g-line/",
   "678": "https://seattletransitblog.com/2024/12/17/ridership-patterns-for-rapidride-h-line/",
+}
+
+stbStUrl = {
+  "522": "https://seattletransitblog.com/2025/10/02/ridership-patterns-for-sound-transit-route-522/",
+  "535": "https://seattletransitblog.com/2026/05/11/ridership-patterns-for-sound-transit-route-535/",
+  "542": "https://seattletransitblog.com/2025/05/12/ridership-patterns-for-sound-transit-routes-542-and-545/#542",
+  "545": "https://seattletransitblog.com/2025/05/12/ridership-patterns-for-sound-transit-routes-542-and-545/#545"
+}
+
+stbCtUrl = {
+  "701": "https://seattletransitblog.com/2025/05/05/swift-ridership-with-lynnwood-link/#blue",
+  "702": "https://seattletransitblog.com/2025/05/05/swift-ridership-with-lynnwood-link/#green",
+  "703": "https://seattletransitblog.com/2025/05/05/swift-ridership-with-lynnwood-link/#orange",
+  "201": "https://seattletransitblog.com/2026/05/18/ridership-patterns-for-community-transit-routes-201-and-202/",
+  "202": "https://seattletransitblog.com/2026/05/18/ridership-patterns-for-community-transit-routes-201-and-202/"
 }

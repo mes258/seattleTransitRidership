@@ -1,0 +1,34 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+2310,227,O,3184,Seaway Transit Center Bay 2,0,MID,7.500,0.000,7.500,7.500,0.000
+2310,227,O,905,I-5 & 4th St Flyer Stop,2,PM,0.091,2.205,2.750,0.182,4.409
+2310,227,O,2460,Smokey Point Blvd & 174th Pl NE,3,PM,0.023,0.500,2.273,0.045,1.000
+2310,227,O,953,Smokey Point Blvd & 177th Pl NE,4,PM,0.000,0.614,1.659,0.000,1.227
+2310,227,O,958,Smokey Point Blvd & 183rd Pl NE,5,PM,0.000,0.000,1.659,0.000,0.000
+2310,227,O,2530,Smokey Point Blvd & 186th Pl NE,6,PM,0.000,0.364,1.295,0.000,0.727
+2310,227,O,1490,Arlington Park & Ride Bay 1,7,PM,0.023,0.932,0.386,0.045,1.864
+2310,227,O,1049,N West Ave & W 5th St,8,PM,0.000,0.395,0.000,0.000,0.773
+2310,227,O,3184,Seaway Transit Center Bay 2,0,PM,2.227,0.000,2.227,2.227,0.000
+2310,227,I,1490,Arlington Park & Ride Bay 1,0,XNT,1.114,0.000,1.114,2.227,0.000
+2310,227,I,1049,N West Ave & W 5th St,1,XNT,0.159,0.068,1.205,0.318,0.136
+2310,227,I,2482,Smokey Point Blvd & 186th Pl NE,2,XNT,0.591,0.000,1.045,0.591,0.000
+2310,227,I,1451,Smokey Point Blvd & 183rd Pl NE,3,XNT,0.000,0.000,1.045,0.000,0.000
+2310,227,I,2520,Smokey Point Blvd & 182nd St NE,4,XNT,0.000,0.000,1.045,0.000,0.000
+2310,227,I,1453,Smokey Point Blvd & 177th Pl NE,5,XNT,1.318,0.045,2.318,1.318,0.045
+2310,227,I,1449,Smokey Point Transit Center Bay 3,6,XNT,1.273,0.045,3.545,1.273,0.045
+2310,227,I,1594,172nd St NE & Smokey Point Blvd,7,XNT,0.273,0.000,3.818,0.273,0.000
+2310,227,I,2490,10th St & Ash Ave,8,XNT,0.000,0.000,3.818,0.000,0.000
+2310,227,I,2517,Marysville Ash Ave Park & Ride Bay 1,9,XNT,4.045,0.909,6.955,4.045,0.909
+2310,227,I,2465,4th St & Beach Ave,10,XNT,0.000,0.227,6.727,0.000,0.227
+2310,227,I,1397,I-5 & Marine Dr NE Flyer Stop,11,XNT,0.227,0.182,6.773,0.227,0.182
+2310,227,I,3199,Seaway Transit Center,13,XNT,0.048,7.143,0.000,0.045,6.818
+2310,227,I,2482,Smokey Point Blvd & 186th Pl NE,2,AM,0.000,0.000,1.955,0.000,0.000
+2310,227,I,1451,Smokey Point Blvd & 183rd Pl NE,3,AM,0.000,0.000,1.955,0.000,0.000
+2310,227,I,2520,Smokey Point Blvd & 182nd St NE,4,AM,0.000,0.000,1.955,0.000,0.000
+2310,227,I,1453,Smokey Point Blvd & 177th Pl NE,5,AM,1.136,0.045,3.045,1.136,0.045
+2310,227,I,1449,Smokey Point Transit Center Bay 3,6,AM,0.000,0.136,2.909,0.000,0.136
+2310,227,I,1594,172nd St NE & Smokey Point Blvd,7,AM,0.091,0.000,3.000,0.091,0.000
+2310,227,I,2490,10th St & Ash Ave,8,AM,0.000,0.000,3.000,0.000,0.000
+2310,227,I,2517,Marysville Ash Ave Park & Ride Bay 1,9,AM,0.364,0.045,3.318,0.364,0.045
+2310,227,I,2465,4th St & Beach Ave,10,AM,0.000,0.000,3.318,0.000,0.000
+2310,227,I,1397,I-5 & Marine Dr NE Flyer Stop,11,AM,0.000,0.091,3.227,0.000,0.091
+2310,227,I,3199,Seaway Transit Center,13,AM,0.043,3.130,0.000,0.045,3.273

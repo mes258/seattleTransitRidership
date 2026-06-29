@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 import os
 
 namedRouteMappings = {
-  ("blue", "701", "Blue Line"),
-  ("green", "702", "Green Line"),
-  ("orange", "703", "Orange Line"),
+  ("blue", "701", "Swift Blue Line"),
+  ("green", "702", "Swift Green Line"),
+  ("orange", "703", "Swift Orange Line"),
   ("a", "671", "A Line"),
   ("b", "672", "B Line"),
   ("c", "673", "C Line"),
@@ -36,7 +36,10 @@ timePeriodNames = {
   "241": "Mar 30, 2024 - Sept 13, 2024",
   "243": "Sept 14, 2024 - Mar 28, 2025",
   "251": "Mar 29, 2025 - Aug 29, 2025",
-  "253": "Aug 30, 2025 - Mar 27, 2026"
+  "253": "Aug 30, 2025 - Mar 27, 2026",
+  "2310": "October 2023",
+  "2410": "October 2024",
+  "2510": "October 2025"
 }
 
 # Set the stop name label size based on the number of stops. 
@@ -116,7 +119,11 @@ def plot_trip_ridership_from_csv(csv_path, agency, route_number, service_change)
     for letter, rapidRideRouteNum, shortName in namedRouteMappings:
       if route_number == rapidRideRouteNum:
         routeName = shortName
-    overallTitle = "Average Weekday Ridership per {0} Trip between {1}".format(routeName, timePeriodNames[service_change])
+
+    timeSpanModifier = "between"
+    if len(service_change) == 4:
+        timeSpanModifier = "in"
+    overallTitle = "Average Weekday Ridership per {0} Trip {1} {2}".format(routeName, timeSpanModifier, timePeriodNames[service_change])
     inboundTitle = "Inbound Trips"
     outboundTitle = "Outbound Trips"
     inboundYAxis = "{0} Inbound Stops (Read Down)".format(routeName)
@@ -301,7 +308,10 @@ def plot_daily_ridership_from_csv(csv_path, agency, route_number, service_change
       if route_number == rapidRideRouteNum:
         routeName = shortName
 
-    overallTitle = "Average Daily Stop Ridership for {0} between {1}".format(routeName, timePeriodNames[service_change])
+    timeSpanModifier = "between"
+    if len(service_change) == 4:
+        timeSpanModifier = "in"
+    overallTitle = "Average Daily Stop Ridership for {0} {1} {2}".format(routeName, timeSpanModifier, timePeriodNames[service_change])
     inboundTitle = "Inbound Trips"
     outboundTitle = "Outbound Trips"
     inboundYAxis = "{0} Inbound Stops (Read Down)".format(routeName)
@@ -438,3 +448,45 @@ def plot_daily_ridership_from_csv(csv_path, agency, route_number, service_change
 #     plot_daily_ridership_from_csv(f"../data/routeData/st/{routeInt}/253/ridershipData.csv", "st", f"{routeInt}", "253")
 #   except:
 #       continue
+
+# Uncomment this to generate the plots for all Community Transit routes (also, change the service change below)
+# for routeInt in range(99, 1000):
+#   print(routeInt)
+#   try:
+#     plot_trip_ridership_from_csv(f"../data/routeData/ct/{routeInt}/2310/ridershipData.csv", "ct", f"{routeInt}", "2310")
+#     plot_daily_ridership_from_csv(f"../data/routeData/ct/{routeInt}/2310/ridershipData.csv", "ct", f"{routeInt}", "2310")
+#   except:
+#     print("no 2023 data")
+
+#   try:
+#     plot_trip_ridership_from_csv(f"../data/routeData/ct/{routeInt}/2410/ridershipData.csv", "ct", f"{routeInt}", "2410")
+#     plot_daily_ridership_from_csv(f"../data/routeData/ct/{routeInt}/2410/ridershipData.csv", "ct", f"{routeInt}", "2410")
+#   except:
+#     print("no 2024 data")
+
+#   try:
+#     plot_trip_ridership_from_csv(f"../data/routeData/ct/{routeInt}/2510/ridershipData.csv", "ct", f"{routeInt}", "2510")
+#     plot_daily_ridership_from_csv(f"../data/routeData/ct/{routeInt}/2510/ridershipData.csv", "ct", f"{routeInt}", "2510")
+#   except:
+#     print("no 2025 data")
+
+# Uncomment this to generate the plots for all Community Transit operated ST routes (also, change the service change below)
+# for routeInt in range(500, 599):
+#   print(routeInt)
+#   try:
+#     plot_trip_ridership_from_csv(f"../data/routeData/st/{routeInt}/2310/ridershipData.csv", "st", f"{routeInt}", "2310")
+#     plot_daily_ridership_from_csv(f"../data/routeData/st/{routeInt}/2310/ridershipData.csv", "st", f"{routeInt}", "2310")
+#   except:
+#     print("no 2023 data")
+
+#   try:
+#     plot_trip_ridership_from_csv(f"../data/routeData/st/{routeInt}/2410/ridershipData.csv", "st", f"{routeInt}", "2410")
+#     plot_daily_ridership_from_csv(f"../data/routeData/st/{routeInt}/2410/ridershipData.csv", "st", f"{routeInt}", "2410")
+#   except:
+#     print("no 2024 data")
+
+#   try:
+#     plot_trip_ridership_from_csv(f"../data/routeData/st/{routeInt}/2510/ridershipData.csv", "st", f"{routeInt}", "2510")
+#     plot_daily_ridership_from_csv(f"../data/routeData/st/{routeInt}/2510/ridershipData.csv", "st", f"{routeInt}", "2510")
+#   except:
+#     print("no 2025 data")
