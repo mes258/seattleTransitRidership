@@ -1,0 +1,34 @@
+Count by Day: 
+
+AppServiceConsoleLogs
+| where ResultDescription contains "Getting data at"
+| parse ResultDescription with
+    "INFO:seattleTransitRidership:Getting data at:" requestTime:string
+    ",agency," agency:string
+    ",route," route:string
+    ",serviceChange," serviceChange:string
+| project
+    TimeGenerated,
+    requestTime,
+    agency,
+    route,
+    serviceChange
+| summarize Rows = count() by bin(TimeGenerated, 1d)
+| render timechart
+
+Count by Route: 
+
+AppServiceConsoleLogs
+| where ResultDescription contains "Getting data at"
+| parse ResultDescription with
+    "INFO:seattleTransitRidership:Getting data at:" requestTime:string
+    ",agency," agency:string
+    ",route," route:string
+    ",serviceChange," serviceChange:string
+| project
+    TimeGenerated,
+    requestTime,
+    agency,
+    route,
+    serviceChange
+| summarize count() by agency, route

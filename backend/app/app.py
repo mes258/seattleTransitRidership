@@ -12,7 +12,6 @@ import logging
 import datetime
 
 logger = logging.getLogger("seattleTransitRidership")
-#logger.setLevel(logging.INFO)
 logging.basicConfig(level=logging.INFO)
 
 dataIndex = buildIndex()
