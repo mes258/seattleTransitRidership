@@ -1,0 +1,446 @@
+serviceChangeNum,routeNum,direction,stopId,stopName,stopOrderNum,timeOfDay,tripBoardings,tripAlightings,departingLoad,dailyBoardings,dailyAlightings
+261,372,O,76890,NE Bothell Way & 77th Ct NE,36,AM,0.1,0.1,4.4,1.2,1.1
+261,372,O,76890,NE Bothell Way & 77th Ct NE,36,MID,0.3,0.3,4,7,7.1
+261,372,O,76890,NE Bothell Way & 77th Ct NE,36,PM,0.2,0.5,4.2,4.5,10.6
+261,372,O,76890,NE Bothell Way & 77th Ct NE,36,XEV,0.1,0.2,2.5,0.8,2.4
+261,372,O,76890,NE Bothell Way & 77th Ct NE,36,XNT,0,0.1,1.2,0.1,0.6
+261,372,O,38620,Lake City Way NE & NE 113th St,23,AM,0.2,0.4,4.1,1.9,3.4
+261,372,O,38620,Lake City Way NE & NE 113th St,23,MID,0.6,0.4,7.1,13.3,10.7
+261,372,O,38620,Lake City Way NE & NE 113th St,23,PM,0.5,0.8,11.6,11.8,18.4
+261,372,O,38620,Lake City Way NE & NE 113th St,23,XEV,0.5,0.4,6.4,4.6,4.4
+261,372,O,38620,Lake City Way NE & NE 113th St,23,XNT,0.2,0.3,3.5,1.4,1.8
+261,372,O,10911,U District Station - Bay 3,3,AM,2.3,0,5.7,25.8,0.4
+261,372,O,10911,U District Station - Bay 3,3,MID,4.7,0.1,10.8,113.4,1.2
+261,372,O,10911,U District Station - Bay 3,3,PM,4.3,0.2,6.8,103.8,5.2
+261,372,O,10911,U District Station - Bay 3,3,XEV,4.3,0,6.1,38.6,0.2
+261,372,O,10911,U District Station - Bay 3,3,XNT,2.8,0.1,3.6,16.5,0.3
+261,372,I,9650,11th Ave NE & NE 45th St,48,AM,0,0.2,0,0.1,2.9
+261,372,I,9650,11th Ave NE & NE 45th St,48,MID,0.1,1.2,0,2.2,36.3
+261,372,I,9650,11th Ave NE & NE 45th St,48,PM,0,2.5,0,0.2,42.8
+261,372,I,9650,11th Ave NE & NE 45th St,48,XEV,0,1.8,0,0.1,12.7
+261,372,I,9650,11th Ave NE & NE 45th St,48,XNT,0,0.6,0,0,3.8
+261,372,O,75410,Stevens Way & Pend Oreille Rd,10,AM,0.3,1,6.4,2.8,9.9
+261,372,O,75410,Stevens Way & Pend Oreille Rd,10,MID,4,2.1,21.3,96.5,50.3
+261,372,O,75410,Stevens Way & Pend Oreille Rd,10,PM,5.3,1.6,33,128,37.5
+261,372,O,75414,Stevens Way & Benton Ln,9,AM,0.1,1,7.1,1.2,9.8
+261,372,O,75410,Stevens Way & Pend Oreille Rd,10,XEV,3.7,0.9,24.6,33.3,8.5
+261,372,O,75414,Stevens Way & Benton Ln,9,MID,3,3.5,19.4,73,82.8
+261,372,O,75410,Stevens Way & Pend Oreille Rd,10,XNT,1.4,0.8,13.6,9.7,5.5
+261,372,O,75414,Stevens Way & Benton Ln,9,PM,4,1.1,28.9,100.9,28.3
+261,372,O,75414,Stevens Way & Benton Ln,9,XEV,2.8,0.4,22.1,22.1,3.2
+261,372,O,75414,Stevens Way & Benton Ln,9,XNT,1.1,0.1,13,7.8,0.4
+261,372,O,79296,Bothell Way NE & Bothell Way NE,40,AM,0.1,0.4,4,0.6,3.9
+261,372,O,79296,Bothell Way NE & Bothell Way NE,40,MID,0.1,0.7,3.3,2,16.3
+261,372,O,79296,Bothell Way NE & Bothell Way NE,40,PM,0.1,0.9,3.1,1.4,20.7
+261,372,O,79296,Bothell Way NE & Bothell Way NE,40,XEV,0,0.4,1.8,0.4,4.3
+261,372,O,79296,Bothell Way NE & Bothell Way NE,40,XNT,0,0.2,0.7,0,1.6
+261,372,O,76770,Bothell Way NE & NE 145th St,28,AM,0.4,0.3,4.5,3.8,3
+261,372,O,76770,Bothell Way NE & NE 145th St,28,MID,0.4,0.6,5.9,9,14.4
+261,372,O,76770,Bothell Way NE & NE 145th St,28,PM,0.4,1.2,8.4,8.5,28.2
+261,372,O,76770,Bothell Way NE & NE 145th St,28,XEV,0.3,0.8,4.6,3.3,9.1
+261,372,O,76770,Bothell Way NE & NE 145th St,28,XNT,0.1,0.3,2.1,0.4,2.4
+261,372,O,38610,Lake City Way NE & NE 110th St,22,AM,0,0.5,4.3,0.4,4.9
+261,372,O,38610,Lake City Way NE & NE 110th St,22,MID,0.4,0.4,7,9.5,9.5
+261,372,O,38610,Lake City Way NE & NE 110th St,22,PM,0.3,0.5,11.9,8.3,12.3
+261,372,O,38610,Lake City Way NE & NE 110th St,22,XEV,0.1,0.4,6.3,1.3,4.3
+261,372,O,38610,Lake City Way NE & NE 110th St,22,XNT,0,0.1,3.6,0.2,0.6
+261,372,I,23895,25th Ave NE & NE 75th St,34,AM,1,0.2,16.8,19,3
+261,372,I,23895,25th Ave NE & NE 75th St,34,MID,0.6,0.1,12.4,16.9,2.3
+261,372,I,23895,25th Ave NE & NE 75th St,34,PM,0.9,0.3,10.8,14.8,5.3
+261,372,I,23895,25th Ave NE & NE 75th St,34,XEV,0.3,0.2,5.4,1.8,1.4
+261,372,I,23895,25th Ave NE & NE 75th St,34,XNT,0.1,0.1,3.1,0.7,0.6
+261,372,I,76350,NE Bothell Way & 83rd Pl NE,10,AM,0.2,0,4.3,2.9,0
+261,372,I,76350,NE Bothell Way & 83rd Pl NE,10,MID,0.2,0,4.8,3.8,1
+261,372,I,76350,NE Bothell Way & 83rd Pl NE,10,PM,0.2,0.1,6.1,2.3,2.1
+261,372,I,75404,W Stevens Way & Okanogan Ln NE,43,AM,0.1,5.7,8.4,1,97.6
+261,372,I,76350,NE Bothell Way & 83rd Pl NE,10,XEV,0,0.1,2.9,0.2,0.6
+261,372,I,75404,W Stevens Way & Okanogan Ln NE,43,MID,0.6,5.9,12.1,16.9,176.3
+261,372,I,76350,NE Bothell Way & 83rd Pl NE,10,XNT,0,0,1.8,0,0
+261,372,I,75404,W Stevens Way & Okanogan Ln NE,43,PM,0.9,1.3,16.1,14,20.8
+261,372,I,75404,W Stevens Way & Okanogan Ln NE,43,XEV,0.3,0.6,13,2.5,4.5
+261,372,I,75404,W Stevens Way & Okanogan Ln NE,43,XNT,0.1,0.1,5.8,0.6,0.6
+261,372,O,38590,Lake City Way NE & 24th Ave NE,21,AM,0.3,0.1,4.8,2.7,0.6
+261,372,O,38590,Lake City Way NE & 24th Ave NE,21,MID,0.4,0.2,7,9.1,5.8
+261,372,O,38590,Lake City Way NE & 24th Ave NE,21,PM,0.2,0.6,12,4.6,13.4
+261,372,O,38590,Lake City Way NE & 24th Ave NE,21,XEV,0.2,0.2,6.6,1.7,2.4
+261,372,O,38590,Lake City Way NE & 24th Ave NE,21,XNT,0.1,0.2,3.6,0.4,1.6
+261,372,O,76790,Bothell Way NE & NE 153rd St,29,AM,0.3,0.1,4.7,2.7,1.1
+261,372,O,76790,Bothell Way NE & NE 153rd St,29,MID,0.2,0.2,5.9,3.8,4.9
+261,372,O,76790,Bothell Way NE & NE 153rd St,29,PM,0.2,0.4,8.3,5.6,8.4
+261,372,O,76790,Bothell Way NE & NE 153rd St,29,XEV,0.1,0.2,4.5,1.4,2.6
+261,372,O,76790,Bothell Way NE & NE 153rd St,29,XNT,0,0.2,1.9,0.3,1.3
+261,372,O,38550,Ravenna Ave NE & NE 92nd St,19,AM,0.3,0.2,4.9,3.2,2
+261,372,O,38550,Ravenna Ave NE & NE 92nd St,19,MID,0.2,0.4,7.2,4.7,9.7
+261,372,O,38550,Ravenna Ave NE & NE 92nd St,19,PM,0.2,1.2,12.8,4.9,29.4
+261,372,O,38550,Ravenna Ave NE & NE 92nd St,19,XEV,0.1,0.9,6.9,1,9
+261,372,O,38550,Ravenna Ave NE & NE 92nd St,19,XNT,0.1,0.5,3.9,0.4,3.2
+261,372,O,76224,Beardslee Blvd & 108th Ave NE,42,AM,0,0.6,3,0.1,5.5
+261,372,O,76224,Beardslee Blvd & 108th Ave NE,42,MID,0,0.3,2.3,0,7.3
+261,372,O,76224,Beardslee Blvd & 108th Ave NE,42,PM,0,0.3,1.6,0.2,5.8
+261,372,O,76224,Beardslee Blvd & 108th Ave NE,42,XEV,0,0.4,0.8,0,4.4
+261,372,O,76224,Beardslee Blvd & 108th Ave NE,42,XNT,0,0.3,0.4,0,2.3
+261,372,I,38200,Lake City Way NE & 24th Ave NE,29,AM,0.7,0.1,11.6,13.7,1
+261,372,I,11352,15th Ave NE & NE 42nd St,46,AM,0,0.6,3.8,0.3,9
+261,372,I,38200,Lake City Way NE & 24th Ave NE,29,MID,0.4,0.2,9.2,11.2,6.4
+261,372,I,11352,15th Ave NE & NE 42nd St,46,MID,0.1,1.5,6.5,3,46.2
+261,372,I,38200,Lake City Way NE & 24th Ave NE,29,PM,0.3,0.6,7.9,4.2,9.1
+261,372,O,25793,25th Ave NE & NE 55th St,13,AM,0.6,0.2,5.3,6.2,1.5
+261,372,I,11352,15th Ave NE & NE 42nd St,46,PM,0.2,1.9,11.3,3.3,30.4
+261,372,I,38200,Lake City Way NE & 24th Ave NE,29,XEV,0.2,0.6,5,1.5,4.3
+261,372,O,25793,25th Ave NE & NE 55th St,13,MID,0.4,1,9.5,9.9,23
+261,372,I,11352,15th Ave NE & NE 42nd St,46,XEV,0.1,1.5,9,1.1,12.2
+261,372,I,38200,Lake City Way NE & 24th Ave NE,29,XNT,0.1,0.3,3.1,0.7,1.5
+261,372,O,25793,25th Ave NE & NE 55th St,13,PM,0.3,1.7,18.6,7.6,41
+261,372,I,11352,15th Ave NE & NE 42nd St,46,XNT,0,0.7,4,0,3.6
+261,372,O,25793,25th Ave NE & NE 55th St,13,XEV,0.3,1.2,12.2,3.1,11.1
+261,372,O,25793,25th Ave NE & NE 55th St,13,XNT,0.1,1,5.9,0.8,7
+261,372,I,76330,NE Bothell Way & 96th Ave NE,8,AM,0.1,0,4,0.8,0.3
+261,372,I,76330,NE Bothell Way & 96th Ave NE,8,MID,0.2,0.1,4.6,4,1.4
+261,372,I,76330,NE Bothell Way & 96th Ave NE,8,PM,0.3,0,6.2,4.3,0.2
+261,372,I,76330,NE Bothell Way & 96th Ave NE,8,XEV,0.1,0,3,0.8,0.2
+261,372,I,76330,NE Bothell Way & 96th Ave NE,8,XNT,0.1,0.1,1.8,0.4,0.3
+261,372,I,76590,Bothell Way NE & Ballinger Way NE,16,AM,0.4,0,5.7,7.7,0.6
+261,372,I,76590,Bothell Way NE & Ballinger Way NE,16,MID,0.2,0.2,5.5,5.7,4.4
+261,372,I,76590,Bothell Way NE & Ballinger Way NE,16,PM,0.2,0.3,6.4,3.9,4.8
+261,372,I,76590,Bothell Way NE & Ballinger Way NE,16,XEV,0.2,0.1,3.4,1.2,0.8
+261,372,I,23915,25th Ave NE & NE 55th St,37,AM,1.8,0.2,19.3,33.7,3.9
+261,372,I,76590,Bothell Way NE & Ballinger Way NE,16,XNT,0.1,0.1,2.3,0.5,0.2
+261,372,I,23915,25th Ave NE & NE 55th St,37,MID,1.8,0.5,15,52.7,13.2
+261,372,I,23915,25th Ave NE & NE 55th St,37,PM,1.2,1.1,11,18.2,16.6
+261,372,I,23915,25th Ave NE & NE 55th St,37,XEV,1.5,0.7,6.5,11.8,5.2
+261,372,I,75406,East Stevens Way NE & Pend Oreille Rd,40,AM,0.5,6.1,22.1,8.6,103.3
+261,372,O,76830,Bothell Way NE & Ballinger Way NE,32,AM,0.1,0.1,4.3,0.8,0.5
+261,372,I,23915,25th Ave NE & NE 55th St,37,XNT,0.5,0.3,3.2,2.6,1.4
+261,372,I,75406,East Stevens Way NE & Pend Oreille Rd,40,MID,1.3,9.1,23.6,37.7,271.6
+261,372,O,76830,Bothell Way NE & Ballinger Way NE,32,MID,0.1,0.1,4.9,1.7,2.2
+261,372,I,75406,East Stevens Way NE & Pend Oreille Rd,40,PM,1.1,4.4,19,18.2,69.6
+261,372,O,76830,Bothell Way NE & Ballinger Way NE,32,PM,0.1,0.2,7.2,1.6,4
+261,372,I,75406,East Stevens Way NE & Pend Oreille Rd,40,XEV,0.5,2.1,12.9,4,16.5
+261,372,O,76830,Bothell Way NE & Ballinger Way NE,32,XEV,0,0,4,0.4,0.4
+261,372,I,75406,East Stevens Way NE & Pend Oreille Rd,40,XNT,0.2,0.6,5.8,0.9,2.8
+261,372,O,76830,Bothell Way NE & Ballinger Way NE,32,XNT,0,0,1.9,0,0
+261,372,O,76222,Beardslee Blvd & Sunrise Dr,41,AM,0.1,0.6,3.5,1.2,5.3
+261,372,O,76222,Beardslee Blvd & Sunrise Dr,41,MID,0.1,0.8,2.6,2.8,19.5
+261,372,O,76222,Beardslee Blvd & Sunrise Dr,41,PM,0.1,1.4,1.8,1.2,32.9
+261,372,O,76222,Beardslee Blvd & Sunrise Dr,41,XEV,0,0.8,1.1,0.3,9
+261,372,O,76222,Beardslee Blvd & Sunrise Dr,41,XNT,0,0.1,0.7,0.1,1
+261,372,O,76750,Lake City Way NE & NE 137th St,27,AM,0.5,0.3,4.4,5.1,3.4
+261,372,O,76750,Lake City Way NE & NE 137th St,27,MID,0.3,0.7,6.2,5.8,16.6
+261,372,I,23925,25th Ave NE & NE 47th St,39,AM,4,0.9,27.9,71.7,15.8
+261,372,O,76750,Lake City Way NE & NE 137th St,27,PM,0.2,1.3,9.2,4.3,30.8
+261,372,I,38160,Lake City Way NE & NE 115th St,27,AM,0.5,0.2,10.9,9.9,3.4
+261,372,O,10914,15th Ave NE & NE Campus Pkwy,5,AM,1.7,0.1,8.4,18.3,1.4
+261,372,I,23925,25th Ave NE & NE 47th St,39,MID,8.6,1.3,30.9,258,38.7
+261,372,O,76750,Lake City Way NE & NE 137th St,27,XEV,0.2,0.5,5.1,1.8,5.4
+261,372,I,38160,Lake City Way NE & NE 115th St,27,MID,0.5,0.4,9.1,13.9,11.2
+261,372,O,10914,15th Ave NE & NE Campus Pkwy,5,MID,4.1,0.7,16.7,99.3,15.8
+261,372,I,23925,25th Ave NE & NE 47th St,39,PM,8.2,1.6,22.5,123.6,24.3
+261,372,O,76750,Lake City Way NE & NE 137th St,27,XNT,0,0.2,2.3,0.3,1.5
+261,372,I,38160,Lake City Way NE & NE 115th St,27,PM,0.5,0.6,8,8.7,9.1
+261,372,O,10914,15th Ave NE & NE Campus Pkwy,5,PM,4.9,0.3,13.9,118,6.8
+261,372,I,23925,25th Ave NE & NE 47th St,39,XEV,6,0.6,14.4,47.8,4.8
+261,372,I,38160,Lake City Way NE & NE 115th St,27,XEV,0.5,0.5,5.5,3.4,3.7
+261,372,O,10914,15th Ave NE & NE Campus Pkwy,5,XEV,4.5,0.2,13,40.5,1.6
+261,372,I,23925,25th Ave NE & NE 47th St,39,XNT,2.2,0.2,6.2,11.2,1.1
+261,372,I,38160,Lake City Way NE & NE 115th St,27,XNT,0.2,0.3,3.3,1.2,1.4
+261,372,O,10914,15th Ave NE & NE Campus Pkwy,5,XNT,2.8,0.1,8.1,16.7,0.5
+261,372,I,38260,Ravenna Ave NE & NE 86th St,32,AM,1.4,0,14.8,28.6,0.5
+261,372,I,38260,Ravenna Ave NE & NE 86th St,32,MID,1.3,0.1,11.3,35.2,2.7
+261,372,I,38260,Ravenna Ave NE & NE 86th St,32,PM,0.5,0.3,8.7,7.6,5
+261,372,I,38260,Ravenna Ave NE & NE 86th St,32,XEV,0.2,0.2,5.2,1.2,1.3
+261,372,I,38260,Ravenna Ave NE & NE 86th St,32,XNT,0.1,0.2,3.1,0.6,0.8
+261,372,O,76810,Bothell Way NE & NE 165th St,30,AM,0,0,4.7,0.1,0.1
+261,372,O,76810,Bothell Way NE & NE 165th St,30,MID,0,0,5.9,0.5,1
+261,372,O,76810,Bothell Way NE & NE 165th St,30,PM,0,0.1,8.2,0.5,2.4
+261,372,O,76810,Bothell Way NE & NE 165th St,30,XEV,0,0.1,4.5,0.5,0.9
+261,372,O,76810,Bothell Way NE & NE 165th St,30,XNT,0,0,1.9,0,0.1
+261,372,I,29440,15th Ave NE & NE Campus Pkwy,45,AM,0,1.9,4.4,0.8,32.4
+261,372,I,29440,15th Ave NE & NE Campus Pkwy,45,MID,0.4,1.9,8,10.5,56.2
+261,372,I,29440,15th Ave NE & NE Campus Pkwy,45,PM,0.4,2.3,13,7,36.8
+261,372,I,29440,15th Ave NE & NE Campus Pkwy,45,XEV,0.3,2.1,10.3,2.1,17.1
+261,372,I,29440,15th Ave NE & NE Campus Pkwy,45,XNT,0.1,0.8,4.7,0.4,3.9
+261,372,O,25795,25th Ave NE & NE 65th St,15,AM,0.8,0.4,5.8,8.2,4.1
+261,372,O,25795,25th Ave NE & NE 65th St,15,MID,0.7,1,8.7,16.1,25.1
+261,372,O,25795,25th Ave NE & NE 65th St,15,PM,0.8,2.1,16.4,18.1,50
+261,372,O,25795,25th Ave NE & NE 65th St,15,XEV,0.4,1.7,10.1,3.5,15.7
+261,372,O,25795,25th Ave NE & NE 65th St,15,XNT,0.5,0.4,5.6,3.5,2.9
+261,372,O,76720,Lake City Way NE & NE 125th St,25,AM,1.2,0.6,4.7,10.4,5.7
+261,372,O,76720,Lake City Way NE & NE 125th St,25,MID,1.5,1.6,6.8,35,39.4
+261,372,O,76720,Lake City Way NE & NE 125th St,25,PM,1.3,2,10.4,30.2,46.3
+261,372,O,76720,Lake City Way NE & NE 125th St,25,XEV,1,1.3,5.6,11.1,14.5
+261,372,O,76720,Lake City Way NE & NE 125th St,25,XNT,0.3,0.8,2.7,2.4,5.8
+261,372,O,75415,Stevens Way & Rainier Vista NE,8,AM,1,0.2,7.9,9.5,2.1
+261,372,O,75415,Stevens Way & Rainier Vista NE,8,MID,1.6,0.9,19.8,38.8,22.7
+261,372,O,75415,Stevens Way & Rainier Vista NE,8,PM,3.4,0.3,26,84.1,8.3
+261,372,O,75415,Stevens Way & Rainier Vista NE,8,XEV,2.1,0.2,19.7,17.1,1.2
+261,372,O,75415,Stevens Way & Rainier Vista NE,8,XNT,1.1,0.1,12,7.6,0.4
+261,372,O,10910,12th Ave NE & NE 47th St,2,AM,3.4,0,3.4,37.4,0
+261,372,O,10910,12th Ave NE & NE 47th St,2,MID,6.1,0,6.1,147.2,0.2
+261,372,I,76301,Beardslee Blvd & 110th Ave NE,2,AM,0.2,0,1.1,3.3,0.2
+261,372,O,10910,12th Ave NE & NE 47th St,2,PM,2.7,0,2.7,65.2,0.2
+261,372,O,10910,12th Ave NE & NE 47th St,2,XEV,1.9,0,1.9,17,0
+261,372,I,76301,Beardslee Blvd & 110th Ave NE,2,MID,0.4,0.1,2.8,8.5,2.9
+261,372,O,10910,12th Ave NE & NE 47th St,2,XNT,0.9,0,0.9,5.5,0
+261,372,I,76301,Beardslee Blvd & 110th Ave NE,2,PM,0.3,0,4,5.3,0.2
+261,372,I,76301,Beardslee Blvd & 110th Ave NE,2,XEV,0.2,0,1.9,0.9,0.2
+261,372,I,76301,Beardslee Blvd & 110th Ave NE,2,XNT,0.2,0,0.9,0.8,0.1
+261,372,I,76360,NE Bothell Way & 80th Ave NE,11,AM,0.3,0,4.5,3.5,0.4
+261,372,I,76360,NE Bothell Way & 80th Ave NE,11,MID,0.2,0.1,4.9,5.6,3
+261,372,I,76310,Bothell Way NE & NE 180th St,7,AM,0.8,0,3.9,11.7,0.1
+261,372,I,76360,NE Bothell Way & 80th Ave NE,11,PM,0.2,0.1,6.3,3.7,1.8
+261,372,I,76610,Bothell Way NE & NE 165th St,18,AM,0,0,6,0.8,0.9
+261,372,I,76310,Bothell Way NE & NE 180th St,7,MID,0.7,0.1,4.5,16,1.9
+261,372,I,76308,Beardslee Blvd & 104th Ave NE,4,AM,0.3,0,1.4,4.8,0.1
+261,372,I,76360,NE Bothell Way & 80th Ave NE,11,XEV,0.1,0.1,3,0.6,0.9
+261,372,I,76610,Bothell Way NE & NE 165th St,18,MID,0.1,0,6.4,1.9,0.6
+261,372,I,76310,Bothell Way NE & NE 180th St,7,PM,0.6,0.1,5.9,8.8,1.8
+261,372,I,76360,NE Bothell Way & 80th Ave NE,11,XNT,0,0.1,1.8,0,0.4
+261,372,I,76610,Bothell Way NE & NE 165th St,18,PM,0,0.1,7.5,0.4,0.9
+261,372,I,76310,Bothell Way NE & NE 180th St,7,XEV,0.4,0.1,2.9,3,0.5
+261,372,I,76308,Beardslee Blvd & 104th Ave NE,4,MID,0.4,0.1,3.1,9.7,1.3
+261,372,I,76610,Bothell Way NE & NE 165th St,18,XEV,0,0,5.1,0.3,0
+261,372,I,76310,Bothell Way NE & NE 180th St,7,XNT,0.4,0,1.8,1.4,0
+261,372,I,76610,Bothell Way NE & NE 165th St,18,XNT,0,0,2.9,0.1,0
+261,372,I,76308,Beardslee Blvd & 104th Ave NE,4,PM,0.7,0.1,4.7,10.8,1
+261,372,I,76420,NE Bothell Way & 61st Ave NE,15,AM,0.5,0,5.5,10.1,0.5
+261,372,I,76308,Beardslee Blvd & 104th Ave NE,4,XEV,0.4,0.1,2.3,2.4,0.4
+261,372,I,76420,NE Bothell Way & 61st Ave NE,15,MID,0.4,0.1,5.5,11.5,3.3
+261,372,O,76910,NE Bothell Way & 83rd Pl NE,38,AM,0.1,0.1,4.5,1.2,0.8
+261,372,I,76420,NE Bothell Way & 61st Ave NE,15,PM,0.2,0.2,6.5,3.5,3.5
+261,372,I,76308,Beardslee Blvd & 104th Ave NE,4,XNT,0.1,0,1,0.4,0
+261,372,O,76910,NE Bothell Way & 83rd Pl NE,38,MID,0.1,0.1,4,2,2.4
+261,372,I,76420,NE Bothell Way & 61st Ave NE,15,XEV,0.1,0.1,3.4,0.8,0.8
+261,372,O,76910,NE Bothell Way & 83rd Pl NE,38,PM,0,0.1,4,0.3,2.3
+261,372,I,76420,NE Bothell Way & 61st Ave NE,15,XNT,0.1,0,2.2,0.4,0
+261,372,O,76910,NE Bothell Way & 83rd Pl NE,38,XEV,0,0.1,2.2,0.1,1.1
+261,372,O,76910,NE Bothell Way & 83rd Pl NE,38,XNT,0,0.1,0.9,0,0.5
+261,372,I,76700,Lake City Way NE & NE 130th St,24,AM,1.1,0.4,9.5,21.1,7.3
+261,372,I,76700,Lake City Way NE & NE 130th St,24,MID,1,0.8,8.3,29.1,22.7
+261,372,I,76700,Lake City Way NE & NE 130th St,24,PM,1.1,1.1,8.3,16.4,16.1
+261,372,I,76700,Lake City Way NE & NE 130th St,24,XEV,0.6,0.9,5,4.3,6.1
+261,372,I,76700,Lake City Way NE & NE 130th St,24,XNT,0.4,0.5,3.2,1.9,2.3
+261,372,O,76870,NE Bothell Way & 68th Ave NE,34,AM,0.2,0.6,4.2,2.1,5.6
+261,372,O,76870,NE Bothell Way & 68th Ave NE,34,MID,0.4,0.9,4.3,8.6,22.1
+261,372,O,76870,NE Bothell Way & 68th Ave NE,34,PM,0.3,1.7,5.4,6.6,39
+261,372,O,76870,NE Bothell Way & 68th Ave NE,34,XEV,0.2,1,3,1.8,11.5
+261,372,O,76870,NE Bothell Way & 68th Ave NE,34,XNT,0.1,0.4,1.6,0.6,2.8
+261,372,I,76390,NE Bothell Way & 68th Ave NE,14,AM,0.8,0.1,5,17.5,2.5
+261,372,I,76390,NE Bothell Way & 68th Ave NE,14,MID,1,0.5,5.2,29.2,14.1
+261,372,I,76390,NE Bothell Way & 68th Ave NE,14,PM,1.2,0.7,6.6,17.6,10
+261,372,I,76390,NE Bothell Way & 68th Ave NE,14,XEV,0.6,0.3,3.4,4.2,2.2
+261,372,I,76390,NE Bothell Way & 68th Ave NE,14,XNT,0.6,0.1,2.1,2.3,0.4
+261,372,O,25798,25th Ave NE & NE 80th St,17,AM,0.2,1,4.8,1.8,9.8
+261,372,O,25798,25th Ave NE & NE 80th St,17,MID,0.2,0.6,7.8,3.6,14.3
+261,372,O,76840,NE Bothell Way & 61st Ave NE,33,AM,0.3,0.2,4.5,3.4,1.7
+261,372,O,25798,25th Ave NE & NE 80th St,17,PM,0.3,1.2,14.8,6.8,29.2
+261,372,O,76840,NE Bothell Way & 61st Ave NE,33,MID,0.3,0.2,4.9,5.9,5.6
+261,372,O,25798,25th Ave NE & NE 80th St,17,XEV,0.1,0.7,9,0.7,6.2
+261,372,O,76840,NE Bothell Way & 61st Ave NE,33,PM,0.2,0.7,6.8,5.4,15.4
+261,372,O,25798,25th Ave NE & NE 80th St,17,XNT,0,0.4,4.9,0.3,2.5
+261,372,O,76840,NE Bothell Way & 61st Ave NE,33,XEV,0.1,0.4,3.9,1.6,3.9
+261,372,O,76840,NE Bothell Way & 61st Ave NE,33,XNT,0,0.1,1.8,0,0.8
+261,372,I,76306,Beardslee Blvd & NE 185th St,3,AM,0,0,1.1,0.5,0
+261,372,I,76306,Beardslee Blvd & NE 185th St,3,MID,0,0,2.8,0.9,0
+261,372,I,76306,Beardslee Blvd & NE 185th St,3,PM,0.1,0,4.1,2.1,0
+261,372,I,76306,Beardslee Blvd & NE 185th St,3,XEV,0.1,0,1.9,0.3,0
+261,372,I,76306,Beardslee Blvd & NE 185th St,3,XNT,0,0,0.9,0,0
+261,372,I,76660,Lake City Way NE & NE 145th St,21,AM,1.3,0.1,7.6,28.2,3
+261,372,I,76660,Lake City Way NE & NE 145th St,21,MID,1.3,0.4,7.4,35.3,11.4
+261,372,I,76660,Lake City Way NE & NE 145th St,21,PM,1,0.8,7.7,15.3,12.2
+261,372,I,76660,Lake City Way NE & NE 145th St,21,XEV,0.6,0.6,5.1,3.4,3.5
+261,372,I,76660,Lake City Way NE & NE 145th St,21,XNT,0.4,0.4,3.1,2,2.2
+261,372,O,76880,NE Bothell Way & 73rd Ave NE,35,AM,0.3,0.1,4.4,2.4,0.8
+261,372,O,76880,NE Bothell Way & 73rd Ave NE,35,MID,0.1,0.3,4,3.3,8.2
+261,372,O,76880,NE Bothell Way & 73rd Ave NE,35,PM,0.1,1.1,4.5,3.2,24.8
+261,372,O,76880,NE Bothell Way & 73rd Ave NE,35,XEV,0.1,0.4,2.7,0.7,4.8
+261,372,O,38530,Ravenna Ave NE & NE 86th St,18,AM,0.1,0.1,4.8,1.2,0.9
+261,372,O,38650,Lake City Way NE & NE 120th St,24,AM,0.2,0.2,4.1,2,2
+261,372,O,76880,NE Bothell Way & 73rd Ave NE,35,XNT,0,0.3,1.3,0.1,2.5
+261,372,O,38530,Ravenna Ave NE & NE 86th St,18,MID,0.2,0.5,7.5,3.7,11.3
+261,372,O,38650,Lake City Way NE & NE 120th St,24,MID,0.2,0.4,6.9,5.3,10.5
+261,372,O,38530,Ravenna Ave NE & NE 86th St,18,PM,0.1,1.4,13.8,2.9,34.5
+261,372,O,38650,Lake City Way NE & NE 120th St,24,PM,0.2,0.9,10.9,4.5,22.2
+261,372,O,38530,Ravenna Ave NE & NE 86th St,18,XEV,0.1,1.1,7.7,1,11.1
+261,372,O,38650,Lake City Way NE & NE 120th St,24,XEV,0.2,0.5,6,1.7,4.7
+261,372,O,38530,Ravenna Ave NE & NE 86th St,18,XNT,0,0.7,4.2,0.3,5
+261,372,O,38650,Lake City Way NE & NE 120th St,24,XNT,0.1,0.4,3.2,0.4,2.6
+261,372,I,76710,Lake City Way NE & NE 125th St,25,AM,1.4,0.9,10,28.3,18.5
+261,372,I,76710,Lake City Way NE & NE 125th St,25,MID,1.6,1.3,8.6,44.6,36.2
+261,372,I,76710,Lake City Way NE & NE 125th St,25,PM,1.7,1.9,8,26.5,30
+261,372,I,76710,Lake City Way NE & NE 125th St,25,XEV,1.5,1.2,5.3,10.5,8.4
+261,372,O,10912,15th Ave NE & NE 43rd St,4,AM,1.6,0.3,6.9,17.5,3.8
+261,372,I,76710,Lake City Way NE & NE 125th St,25,XNT,0.7,0.7,3.2,3.5,3.4
+261,372,O,10912,15th Ave NE & NE 43rd St,4,MID,2.8,0.4,13.2,66.8,9.2
+261,372,O,10912,15th Ave NE & NE 43rd St,4,PM,2.9,0.2,9.4,68.7,5.6
+261,372,O,10912,15th Ave NE & NE 43rd St,4,XEV,2.7,0.1,8.7,23.9,0.6
+261,372,O,10912,15th Ave NE & NE 43rd St,4,XNT,1.9,0.1,5.4,11.3,0.3
+261,372,I,75402,Stevens Way & Rainier Vista NE,42,AM,0.1,5.5,14.1,0.9,93.5
+261,372,I,75402,Stevens Way & Rainier Vista NE,42,MID,0.7,2.9,17.4,22.1,87.5
+261,372,O,76900,NE Bothell Way & 80th Ave NE,37,AM,0.2,0.1,4.4,1.6,1.3
+261,372,I,75402,Stevens Way & Rainier Vista NE,42,PM,1.3,3.4,16.5,20.4,54
+261,372,O,76900,NE Bothell Way & 80th Ave NE,37,MID,0.1,0.1,4,2.7,3
+261,372,I,75402,Stevens Way & Rainier Vista NE,42,XEV,1.1,1.4,13.3,8.7,11
+261,372,O,76900,NE Bothell Way & 80th Ave NE,37,PM,0.1,0.3,4.1,2.2,6
+261,372,I,75402,Stevens Way & Rainier Vista NE,42,XNT,0.3,0.4,5.8,1.3,1.9
+261,372,O,76900,NE Bothell Way & 80th Ave NE,37,XEV,0,0.2,2.3,0.3,2.5
+261,372,O,76900,NE Bothell Way & 80th Ave NE,37,XNT,0,0.3,1,0.2,2.1
+261,372,O,25791,25th Ave NE & NE 47th St,11,AM,0.5,1.6,5.2,4.9,15.9
+261,372,O,25791,25th Ave NE & NE 47th St,11,MID,1.3,10.7,11.9,31.3,257.6
+261,372,O,25791,25th Ave NE & NE 47th St,11,PM,2.6,12.9,22.7,61.2,310.1
+261,372,O,25791,25th Ave NE & NE 47th St,11,XEV,2.5,11,16.1,22.1,98.9
+261,372,O,25791,25th Ave NE & NE 47th St,11,XNT,0.7,5.7,8.6,4.7,40.1
+261,372,O,38570,Lake City Way NE & NE 98th St,20,AM,0.1,0.5,4.6,1,4.1
+261,372,O,38570,Lake City Way NE & NE 98th St,20,MID,0.2,0.5,6.9,5.1,11.9
+261,372,O,38570,Lake City Way NE & NE 98th St,20,PM,0.2,0.6,12.4,5.8,15.3
+261,372,O,38570,Lake City Way NE & NE 98th St,20,XEV,0.1,0.3,6.7,0.6,3.1
+261,372,O,38570,Lake City Way NE & NE 98th St,20,XNT,0,0.1,3.8,0.2,0.9
+261,372,I,38240,Ravenna Ave NE & NE 92nd St,31,AM,1.3,0.1,13.4,25,1.5
+261,372,I,38240,Ravenna Ave NE & NE 92nd St,31,MID,0.8,0.2,10.1,21.5,4.5
+261,372,I,38240,Ravenna Ave NE & NE 92nd St,31,PM,0.6,0.4,8.5,10,6.5
+261,372,I,38240,Ravenna Ave NE & NE 92nd St,31,XEV,0.3,0.3,5.2,1.9,1.8
+261,372,I,38240,Ravenna Ave NE & NE 92nd St,31,XNT,0.1,0.1,3.1,0.6,0.4
+261,372,I,23910,25th Ave NE & NE 60th St,36,AM,0.9,0,17.7,17.6,0.1
+261,372,I,23910,25th Ave NE & NE 60th St,36,MID,0.7,0.1,13.7,19.6,1.5
+261,372,I,23910,25th Ave NE & NE 60th St,36,PM,0.2,0.1,10.6,3.9,2
+261,372,I,23910,25th Ave NE & NE 60th St,36,XEV,0.1,0.1,5.6,0.9,0.7
+261,372,I,23910,25th Ave NE & NE 60th St,36,XNT,0,0,3,0.2,0.1
+261,372,O,25794,25th Ave NE & NE 60th St,14,AM,0.1,0,5.4,1.3,0.3
+261,372,O,25794,25th Ave NE & NE 60th St,14,MID,0,0.5,9.1,1,10.9
+261,372,O,25794,25th Ave NE & NE 60th St,14,PM,0.1,1,17.7,1.8,23.4
+261,372,O,25794,25th Ave NE & NE 60th St,14,XEV,0,0.7,11.5,0.4,6.3
+261,372,O,25794,25th Ave NE & NE 60th St,14,XNT,0,0.4,5.5,0,2.5
+261,372,I,76300,Kaysner Way & Woodinville Dr,5,AM,0,0,1.4,0.2,0.1
+261,372,I,76300,Kaysner Way & Woodinville Dr,5,MID,0,0,3.1,0.5,1.1
+261,372,I,76300,Kaysner Way & Woodinville Dr,5,PM,0.1,0.1,4.7,1.1,0.8
+261,372,I,76300,Kaysner Way & Woodinville Dr,5,XEV,0.1,0,2.3,0.3,0.2
+261,372,I,76300,Kaysner Way & Woodinville Dr,5,XNT,0,0,1,0,0.1
+261,372,I,38145,Lake City Way NE & NE 120th St,26,AM,0.6,0.1,10.5,12.6,1.4
+261,372,I,38145,Lake City Way NE & NE 120th St,26,MID,0.6,0.2,9,16.2,5.3
+261,372,I,38145,Lake City Way NE & NE 120th St,26,PM,0.3,0.3,8,5.2,4.9
+261,372,I,38145,Lake City Way NE & NE 120th St,26,XEV,0.5,0.3,5.5,3.3,1.9
+261,372,I,38145,Lake City Way NE & NE 120th St,26,XNT,0.1,0,3.3,0.6,0.1
+261,372,I,75403,East Stevens Way NE & Benton Ln,41,AM,0.1,2.6,19.5,1.3,44.8
+261,372,I,75403,East Stevens Way NE & Benton Ln,41,MID,1.2,5.2,19.6,35.4,156.5
+261,372,I,75403,East Stevens Way NE & Benton Ln,41,PM,1.7,2.1,18.6,27.3,33.5
+261,372,I,75403,East Stevens Way NE & Benton Ln,41,XEV,1.2,0.5,13.6,9.2,3.8
+261,372,I,75403,East Stevens Way NE & Benton Ln,41,XNT,0.1,0.1,5.9,0.6,0.4
+261,372,I,75405,West Stevens Way NE & George Washington Ln,44,AM,0,2.2,6.2,0.2,38.1
+261,372,I,76370,NE Bothell Way & 77th Ct NE,12,AM,0.2,0.1,4.6,2.5,1.3
+261,372,I,75405,West Stevens Way NE & George Washington Ln,44,MID,0.7,3.2,9.5,20,96.7
+261,372,I,76370,NE Bothell Way & 77th Ct NE,12,MID,0.3,0.2,5,7.9,4.3
+261,372,I,75405,West Stevens Way NE & George Washington Ln,44,PM,1.1,2.3,14.9,17.8,36.4
+261,372,I,76370,NE Bothell Way & 77th Ct NE,12,PM,0.3,0.2,6.4,4.4,3
+261,372,I,75405,West Stevens Way NE & George Washington Ln,44,XEV,0.5,1.3,12.2,4,10.5
+261,372,I,76370,NE Bothell Way & 77th Ct NE,12,XEV,0.3,0.1,3.2,2.2,0.6
+261,372,I,75405,West Stevens Way NE & George Washington Ln,44,XNT,0.2,0.6,5.4,0.8,2.8
+261,372,I,76370,NE Bothell Way & 77th Ct NE,12,XNT,0,0,1.8,0.1,0.1
+261,372,I,23890,25th Ave NE & NE 80th St,33,AM,1.2,0.2,15.9,22.4,4.4
+261,372,I,23890,25th Ave NE & NE 80th St,33,MID,0.9,0.2,11.9,26.9,7.1
+261,372,I,23890,25th Ave NE & NE 80th St,33,PM,1.8,0.2,10.2,28.6,3.2
+261,372,I,76305,U Of Washington -- Bothell & Cascadia College,1,AM,0.9,0,0.9,13.6,0
+261,372,I,23890,25th Ave NE & NE 80th St,33,XEV,0.3,0.1,5.4,1.8,0.6
+261,372,I,23890,25th Ave NE & NE 80th St,33,XNT,0,0.1,3,0.2,0.3
+261,372,I,76305,U Of Washington -- Bothell & Cascadia College,1,MID,2.6,0,2.6,59.5,0
+261,372,I,76305,U Of Washington -- Bothell & Cascadia College,1,PM,3.7,0,3.7,59.1,0
+261,372,O,76730,Lake City Way NE & NE 130th St,26,AM,0.5,0.4,4.3,4.7,3.9
+261,372,I,76305,U Of Washington -- Bothell & Cascadia College,1,XEV,1.8,0,1.8,10.7,0
+261,372,O,76730,Lake City Way NE & NE 130th St,26,MID,0.8,0.5,6.7,17.7,11.3
+261,372,O,76730,Lake City Way NE & NE 130th St,26,PM,0.6,0.9,10.3,14.8,21.5
+261,372,I,76305,U Of Washington -- Bothell & Cascadia College,1,XNT,0.9,0,0.9,3.5,0
+261,372,O,76730,Lake City Way NE & NE 130th St,26,XEV,0.4,0.6,5.4,4.7,6.6
+261,372,O,76730,Lake City Way NE & NE 130th St,26,XNT,0.2,0.4,2.5,1.2,2.6
+261,372,O,75417,Stevens Way & Okanogan Ln,7,AM,0.5,0.7,7.2,4.7,7.3
+261,372,O,75417,Stevens Way & Okanogan Ln,7,MID,3.3,1.2,19.1,79.8,29.6
+261,372,O,75417,Stevens Way & Okanogan Ln,7,PM,5.9,0.2,23,146.6,5
+261,372,O,75417,Stevens Way & Okanogan Ln,7,XEV,2.4,0.1,17.7,19.5,0.8
+261,372,O,75417,Stevens Way & Okanogan Ln,7,XNT,1.2,0,11,8.1,0.1
+261,372,O,75418,Stevens Way & Asotin Pl,6,AM,0.3,0.9,7.7,2.8,10
+261,372,O,75418,Stevens Way & Asotin Pl,6,MID,2.7,2.1,17.3,61.1,47.5
+261,372,O,75418,Stevens Way & Asotin Pl,6,PM,3.7,0.4,17.3,93,10.8
+261,372,O,75418,Stevens Way & Asotin Pl,6,XEV,2.4,0.1,15.3,18.8,0.6
+261,372,O,75418,Stevens Way & Asotin Pl,6,XNT,1.2,0,9.8,8.3,0.3
+261,372,O,76305,U Of Washington -- Bothell & Cascadia College,43,AM,0.1,3,0,0.6,27.3
+261,372,O,76305,U Of Washington -- Bothell & Cascadia College,43,MID,0.1,2.4,0,2.2,54.8
+261,372,O,76305,U Of Washington -- Bothell & Cascadia College,43,PM,0.1,1.6,0,2.1,37.5
+261,372,I,76620,Bothell Way NE & 39th Ave NE,19,AM,0,0,6.1,0.9,0.1
+261,372,O,76305,U Of Washington -- Bothell & Cascadia College,43,XEV,0,0.9,0,0.4,10.2
+261,372,I,76620,Bothell Way NE & 39th Ave NE,19,MID,0.1,0,6.4,1.4,0.2
+261,372,O,76305,U Of Washington -- Bothell & Cascadia College,43,XNT,0.1,0.4,0,0.6,3.4
+261,372,I,76620,Bothell Way NE & 39th Ave NE,19,PM,0,0,7.4,0,0.6
+261,372,I,76620,Bothell Way NE & 39th Ave NE,19,XEV,0,0,5.2,0,0
+261,372,I,76620,Bothell Way NE & 39th Ave NE,19,XNT,0,0,3.1,0,0
+261,372,O,76820,Bothell Way NE & NE 170th St,31,AM,0.2,0.6,4.3,1.6,5.7
+261,372,O,76820,Bothell Way NE & NE 170th St,31,MID,0.2,1.2,4.9,5.7,28.5
+261,372,O,76820,Bothell Way NE & NE 170th St,31,PM,0.3,1.3,7.3,7.7,31.4
+261,372,O,76820,Bothell Way NE & NE 170th St,31,XEV,0.2,0.8,4.1,2.3,8
+261,372,O,76820,Bothell Way NE & NE 170th St,31,XNT,0.1,0.2,1.9,0.6,1.5
+261,372,I,76340,NE Bothell Way & 91st Ave NE,9,AM,0.1,0,4.1,1.5,0
+261,372,I,76340,NE Bothell Way & 91st Ave NE,9,MID,0.1,0,4.7,1.7,1
+261,372,I,76340,NE Bothell Way & 91st Ave NE,9,PM,0.1,0.1,6.1,0.9,0.9
+261,372,I,76340,NE Bothell Way & 91st Ave NE,9,XEV,0.1,0.1,3,0.6,0.5
+261,372,I,76340,NE Bothell Way & 91st Ave NE,9,XNT,0,0,1.8,0.1,0
+261,372,I,38220,Lake City Way NE & NE 98th St,30,AM,0.8,0.1,12.2,15,2.2
+261,372,I,38220,Lake City Way NE & NE 98th St,30,MID,0.5,0.2,9.5,12.6,6.2
+261,372,I,38220,Lake City Way NE & NE 98th St,30,PM,0.6,0.2,8.3,9.4,3.4
+261,372,I,38220,Lake City Way NE & NE 98th St,30,XEV,0.2,0.1,5.2,1.6,0.5
+261,372,I,38220,Lake City Way NE & NE 98th St,30,XNT,0,0,3,0.2,0.2
+261,372,I,23905,25th Ave NE & NE 65th St,35,AM,1.1,1,16.8,20.4,19
+261,372,I,23905,25th Ave NE & NE 65th St,35,MID,1.2,0.6,13,34.2,17.7
+261,372,I,23905,25th Ave NE & NE 65th St,35,PM,0.9,1.3,10.5,14.6,20.1
+261,372,I,23905,25th Ave NE & NE 65th St,35,XEV,0.5,0.4,5.6,3.6,2.7
+261,372,I,23905,25th Ave NE & NE 65th St,35,XNT,0.1,0.2,3,0.7,1.2
+261,372,I,76680,Lake City Way NE & NE 137th St,22,AM,1,0,8.8,20.9,0.7
+261,372,I,76680,Lake City Way NE & NE 137th St,22,MID,1.1,0.2,8.1,30.7,6.6
+261,372,I,76680,Lake City Way NE & NE 137th St,22,PM,0.8,0.4,8.1,12.1,5.7
+261,372,I,76680,Lake City Way NE & NE 137th St,22,XEV,0.5,0.3,5.2,2.7,1.8
+261,372,I,76680,Lake City Way NE & NE 137th St,22,XNT,0.4,0.2,3.3,1.8,0.9
+261,372,I,76302,Woodinville Dr & Kaysner Way,6,AM,1.8,0.1,3.1,25.4,1.8
+261,372,I,76302,Woodinville Dr & Kaysner Way,6,MID,0.9,0.1,3.9,21.3,1.5
+261,372,I,76302,Woodinville Dr & Kaysner Way,6,PM,0.6,0.1,5.3,9.5,1.1
+261,372,I,76302,Woodinville Dr & Kaysner Way,6,XEV,0.4,0,2.6,2.1,0.2
+261,372,I,76302,Woodinville Dr & Kaysner Way,6,XNT,0.5,0.1,1.4,2,0.2
+261,372,I,23920,25th Ave NE & NE Blakeley St,38,AM,5.7,0.5,24.9,101.8,8.2
+261,372,I,23920,25th Ave NE & NE Blakeley St,38,MID,9.3,0.6,23.6,279.6,19.3
+261,372,I,9587,U District Station - Bay 1,47,AM,0.1,3.7,0.2,1.2,59.1
+261,372,O,76925,Bothell Way NE & 96th Ave NE,39,AM,0,0.2,4.4,0.4,1.7
+261,372,I,23920,25th Ave NE & NE Blakeley St,38,PM,5.6,0.8,15.8,84.1,11.5
+261,372,I,9587,U District Station - Bay 1,47,MID,0.1,5.5,1.1,4.2,164.9
+261,372,O,76925,Bothell Way NE & 96th Ave NE,39,MID,0,0.1,3.9,0.8,2.9
+261,372,I,23920,25th Ave NE & NE Blakeley St,38,XEV,3.1,0.5,9.1,24.6,4.1
+261,372,I,9587,U District Station - Bay 1,47,PM,0.3,9,2.4,5.6,153.3
+261,372,O,76925,Bothell Way NE & 96th Ave NE,39,PM,0,0.2,3.9,0.8,3.7
+261,372,I,23920,25th Ave NE & NE Blakeley St,38,XNT,1.1,0.2,4.2,5.4,0.8
+261,372,I,9587,U District Station - Bay 1,47,XEV,0.2,7.5,1.7,1.5,59.9
+261,372,O,76925,Bothell Way NE & 96th Ave NE,39,XEV,0,0.1,2.1,0,1.3
+261,372,I,9587,U District Station - Bay 1,47,XNT,0.2,3.6,0.6,0.9,17.9
+261,372,O,76925,Bothell Way NE & 96th Ave NE,39,XNT,0,0.1,0.9,0,0.5
+261,372,O,25792,25th Ave NE & NE Blakeley St,12,AM,0.7,1.1,4.8,6.7,10.9
+261,372,O,25792,25th Ave NE & NE Blakeley St,12,MID,0.8,2.6,10,18,61.3
+261,372,O,25792,25th Ave NE & NE Blakeley St,12,PM,0.9,3.6,20,21.2,85.6
+261,372,O,25792,25th Ave NE & NE Blakeley St,12,XEV,0.6,3.6,13.1,5.1,32.5
+261,372,O,25792,25th Ave NE & NE Blakeley St,12,XNT,0.3,2.1,6.7,2.1,14.6
+261,372,I,76595,Bothell Way NE & NE 170th St,17,AM,0.4,0.1,6.1,9.3,1.1
+261,372,I,76595,Bothell Way NE & NE 170th St,17,MID,0.9,0.3,6.3,25.7,7.2
+261,372,I,76595,Bothell Way NE & NE 170th St,17,PM,1.4,0.3,7.5,22.1,5.1
+261,372,I,76595,Bothell Way NE & NE 170th St,17,XEV,1.6,0.1,5,11.4,0.4
+261,372,I,76595,Bothell Way NE & NE 170th St,17,XNT,0.6,0,2.9,2.4,0.1
+261,372,I,76372,NE Bothell Way & Kenmore Park & Ride,13,AM,1.7,0.3,4.4,37.3,5.7
+261,372,I,76372,NE Bothell Way & Kenmore Park & Ride,13,MID,0.8,0.4,4.7,22.3,12.4
+261,372,I,76372,NE Bothell Way & Kenmore Park & Ride,13,PM,0.4,0.6,6.1,5.3,9.2
+261,372,I,76372,NE Bothell Way & Kenmore Park & Ride,13,XEV,0.2,0.3,3.1,1.4,2.1
+261,372,I,76372,NE Bothell Way & Kenmore Park & Ride,13,XNT,0.1,0.3,1.7,0.5,1
+261,372,I,76630,Bothell Way NE & NE 153rd St,20,AM,0.4,0,6.5,8.7,1
+261,372,I,76630,Bothell Way NE & NE 153rd St,20,MID,0.4,0.2,6.5,9.9,6.1
+261,372,I,76630,Bothell Way NE & NE 153rd St,20,PM,0.4,0.3,7.5,5.6,4.9
+261,372,I,76630,Bothell Way NE & NE 153rd St,20,XEV,0.2,0.3,5.1,1.2,1.9
+261,372,I,76630,Bothell Way NE & NE 153rd St,20,XNT,0.1,0.2,3.1,0.7,0.9
+261,372,I,38180,Lake City Way NE & NE 110th St,28,AM,0.3,0.2,11,6.3,4.4
+261,372,I,38180,Lake City Way NE & NE 110th St,28,MID,0.4,0.4,9.1,10.2,10.9
+261,372,I,38180,Lake City Way NE & NE 110th St,28,PM,0.5,0.4,8.2,8.4,6.4
+261,372,I,38180,Lake City Way NE & NE 110th St,28,XEV,0.4,0.4,5.4,2.5,2.9
+261,372,I,38180,Lake City Way NE & NE 110th St,28,XNT,0.1,0.1,3.2,0.4,0.6
+261,372,O,25797,25th Ave NE & NE 75th St,16,AM,0.2,0.4,5.6,2,4.1
+261,372,O,25797,25th Ave NE & NE 75th St,16,MID,0.4,0.6,8.5,8.9,13.2
+261,372,O,25797,25th Ave NE & NE 75th St,16,PM,0.4,1,15.8,9,23.6
+261,372,O,25797,25th Ave NE & NE 75th St,16,XEV,0.1,0.7,9.6,1.3,6.1
+261,372,O,25797,25th Ave NE & NE 75th St,16,XNT,0,0.4,5.2,0.3,3.1
