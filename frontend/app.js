@@ -91,8 +91,13 @@ document.addEventListener("DOMContentLoaded", () => {
   
       tripChartDiv.style.display = "block";
       dailyChartDiv.style.display = "block";
-      tripChartDiv.style.width = "100%"
-      dailyChartDiv.style.width = "100%"
+      tripChartDiv.style.width = "100%";
+      dailyChartDiv.style.width = "100%";
+      [tripChartDiv, dailyChartDiv].forEach(chartDiv => {
+        if (chartDiv.data) {
+          Plotly.Plots.resize(chartDiv);
+        }
+      });
     } else {
       staticTripChartDiv.style.display = "block";
       staticDailyChartDiv.style.display = "block";
@@ -164,13 +169,15 @@ document.addEventListener("DOMContentLoaded", () => {
         Plotly.react(
           tripChartDiv,
           data.tripPlotJson.data,
-          data.tripPlotJson.layout
+          data.tripPlotJson.layout,
+          { responsive: true }
         );
 
         Plotly.react(
           dailyChartDiv,
           data.dailyPlotJson.data,
-          data.dailyPlotJson.layout
+          data.dailyPlotJson.layout,
+          { responsive: true }
         );
 
         // Update route data
