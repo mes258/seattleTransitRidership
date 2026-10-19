@@ -191,7 +191,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const downloadLink = document.createElement("a");
         downloadLink.href = `/api/ridershipData/${encodeURIComponent(agency)}/${encodeURIComponent(route)}/${encodeURIComponent(serviceChange)}`;
         downloadLink.download = "ridershipData.csv";
-        downloadLink.textContent = "Download ridershipData.csv";
+        downloadLink.textContent = "Download ridership data as CSV.";
 
         const downloadParagraph = document.createElement("p");
         downloadParagraph.appendChild(downloadLink);
