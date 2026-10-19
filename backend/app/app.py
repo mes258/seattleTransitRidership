@@ -61,6 +61,14 @@ def getServiceChanges(agency: str, route: str):
     serviceChangeList = list(reversed(sorted(dataIndex[agency][route].keys())))
     return serviceChangeList
 
+@app.get("/api/ridershipData/{agency}/{route}/{serviceChange}")
+def getRidershipCsv(agency: str, route: str, serviceChange: str):
+    if agency not in dataIndex or route not in dataIndex[agency] or serviceChange not in dataIndex[agency][route]:
+      raise HTTPException(404, "Route or service period not found")
+
+    csvPath = dataRoot / "routeData" / agency / route / serviceChange / "ridershipData.csv"
+    return FileResponse(csvPath, media_type="text/csv", filename="ridershipData.csv")
+
 @app.get("/api/ridershipCharts")
 def getAllCharts(agency: str, route: str, serviceChange: str):
     overwriteData = True

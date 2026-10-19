@@ -56,6 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
   var dailyChartDiv = document.getElementById("dailyChart");
 
   var routeDataDiv = document.getElementById("routeData");
+  var downloadDataDiv = document.getElementById("downloadData");
 
   var interactivePlotsToggle = document.getElementById("interactivePlotsToggle");
 
@@ -187,6 +188,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         staticTripChartDiv.innerHTML = `<a href="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/TripRidership.png"><img src="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/TripRidership.png" class="chartImg"></a>`
         staticDailyChartDiv.innerHTML = `<a href="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/DailyRidership.png"><img src="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/DailyRidership.png" class="chartImg"></a>`
+        downloadDataDiv.innerHTML = `<p><a href="/api/ridershipData/${agency}/${route}/${serviceChange}" download="ridershipData.csv">Download ridershipData.csv</a></p>`
       })
       .finally(() => {
         submitBtn.disabled = false;
