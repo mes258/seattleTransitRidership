@@ -56,6 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
   var dailyChartDiv = document.getElementById("dailyChart");
 
   var routeDataDiv = document.getElementById("routeData");
+  var downloadDataDiv = document.getElementById("downloadData");
 
   var interactivePlotsToggle = document.getElementById("interactivePlotsToggle");
 
@@ -187,6 +188,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
         staticTripChartDiv.innerHTML = `<a href="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/TripRidership.png"><img src="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/TripRidership.png" class="chartImg"></a>`
         staticDailyChartDiv.innerHTML = `<a href="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/DailyRidership.png"><img src="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/DailyRidership.png" class="chartImg"></a>`
+        const downloadLink = document.createElement("a");
+        downloadLink.href = `/api/ridershipData/${encodeURIComponent(agency)}/${encodeURIComponent(route)}/${encodeURIComponent(serviceChange)}`;
+        downloadLink.download = "ridershipData.csv";
+        downloadLink.textContent = "Download ridership data as CSV.";
+
+        const downloadParagraph = document.createElement("p");
+        downloadParagraph.appendChild(downloadLink);
+        downloadDataDiv.replaceChildren(downloadParagraph);
       })
       .finally(() => {
         submitBtn.disabled = false;
