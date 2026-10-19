@@ -188,7 +188,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
         staticTripChartDiv.innerHTML = `<a href="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/TripRidership.png"><img src="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/TripRidership.png" class="chartImg"></a>`
         staticDailyChartDiv.innerHTML = `<a href="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/DailyRidership.png"><img src="https://ridershipcharts.blob.core.windows.net/charts/${agency}/${route}/${serviceChange}/DailyRidership.png" class="chartImg"></a>`
-        downloadDataDiv.innerHTML = `<p><a href="/api/ridershipData/${agency}/${route}/${serviceChange}" download="ridershipData.csv">Download ridershipData.csv</a></p>`
+        const downloadLink = document.createElement("a");
+        downloadLink.href = `/api/ridershipData/${encodeURIComponent(agency)}/${encodeURIComponent(route)}/${encodeURIComponent(serviceChange)}`;
+        downloadLink.download = "ridershipData.csv";
+        downloadLink.textContent = "Download ridershipData.csv";
+
+        const downloadParagraph = document.createElement("p");
+        downloadParagraph.appendChild(downloadLink);
+        downloadDataDiv.replaceChildren(downloadParagraph);
       })
       .finally(() => {
         submitBtn.disabled = false;
