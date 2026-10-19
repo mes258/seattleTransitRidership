@@ -255,6 +255,11 @@ def plotDailyRidership(df, routeNum, timePeriod):
 
     for col, direction in enumerate(["I", "O"], start=1):
         dfd = df[df["direction"] == direction].copy()
+        dfd = dfd.merge(
+            stop_totals,
+            on=["direction", "stopOrderNum"],
+            how="left",
+        )
 
         # Y axis index: 
         stops = (
@@ -288,7 +293,11 @@ def plotDailyRidership(df, routeNum, timePeriod):
                     name=legendLabels[tod],
                     legendgroup=tod,
                     showlegend=show_legend,
-                    hovertemplate="Boardings: %{x}<extra></extra>",
+                    customdata=dft[["dailyBoardings", "total_boardings"]].to_numpy(),
+                    hovertemplate=(
+                        f"{tod} Boardings: %{{customdata[0]:.1f}}<br>"
+                        "Total Boardings: %{customdata[1]:.1f}<extra></extra>"
+                    ),
                 ),
                 row=1,
                 col=col,
@@ -303,7 +312,11 @@ def plotDailyRidership(df, routeNum, timePeriod):
                     marker_color=timeColors[tod],
                     legendgroup=tod,
                     showlegend=False,
-                    hovertemplate="Alightings: %{x}<extra></extra>",
+                    customdata=dft[["dailyAlightings", "total_alightings"]].to_numpy(),
+                    hovertemplate=(
+                        f"{tod} Alightings: %{{customdata[0]:.1f}}<br>"
+                        "Total Alightings: %{customdata[1]:.1f}<extra></extra>"
+                    ),
                 ),
                 row=1,
                 col=col,
