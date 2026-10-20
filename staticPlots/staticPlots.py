@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.patches import Patch
 import os
 
 namedRouteMappings = {
@@ -423,8 +424,123 @@ def plot_daily_ridership_from_csv(csv_path, agency, route_number, service_change
     fig.savefig(output_file, dpi=200)
     plt.close(fig)
 
+def plot_daily_ridership_comparison_from_csv(
+    csv_path_1, csv_path_2, agency, route_number, service_change_1, service_change_2
+):
+    """Save adjacent daily ridership stacks for two route CSVs and return the path.
 
-#plot_daily_ridership_from_csv("../data/routeData/kcm/48/261/ridershipData.csv", "kcm", "48", "261")
+    Each CSV should contain one route and service change, as for
+    plot_daily_ridership_from_csv. Within each direction, equal-length stop
+    sequences are matched by position in stopOrderNum order, using the second
+    service change's names. Otherwise, stops are matched by stopId, using the
+    second change's names and order where shared. Stops present in only one
+    change retain an empty slot for the other.
+    The first change is faded; boardings extend right and alightings left.
+    Output is ../STR/{agency}/{route}/{change_1}_vs_{change_2}/DailyRidership.png.
+    """
+    frames = [pd.read_csv(csv_path_1), pd.read_csv(csv_path_2)]
+    if any(df.empty for df in frames):
+        raise ValueError("No data found for given route and service change.")
+
+    periods = ["AM", "MID", "PM", "XEV", "XNT"]
+    period_labels = ["5am-9am (AM)", "9am-3pm (MID)", "3pm-7pm (PM)",
+                     "7pm-10pm (XEV)", "10pm-5am (XNT)"]
+    colors = ['y', 'b', 'g', 'm', 'k']
+    changes = [str(service_change_1), str(service_change_2)]
+    change_labels = [timePeriodNames.get(change, change) for change in changes]
+    route_name = f"Route {route_number}"
+    for letter, route_num, short_name in namedRouteMappings:
+        if str(route_number) == route_num:
+            route_name = short_name
+
+    direction_data = []
+    for direction in ["I", "O"]:
+        subsets = [df[df["direction"] == direction] for df in frames]
+        ordered_stops = [
+            subset.sort_values("stopOrderNum", kind="stable").drop_duplicates("stopId")
+            for subset in subsets
+        ]
+        if len(ordered_stops[0]) == len(ordered_stops[1]):
+            stop_mapping = dict(zip(
+                ordered_stops[0]["stopId"], ordered_stops[1]["stopId"]
+            ))
+            subsets[0] = subsets[0].copy()
+            subsets[0]["stopId"] = subsets[0]["stopId"].map(stop_mapping)
+        stops = (
+            pd.concat([subsets[1], subsets[0]])
+            .drop_duplicates("stopId")
+            .sort_values("stopOrderNum", ascending=direction == "O", kind="stable")
+        )
+        totals = [
+            subset.groupby(["stopId", "timeOfDay"])[
+                ["dailyAlightings", "dailyBoardings"]
+            ].sum()
+            for subset in subsets
+        ]
+        direction_data.append((stops, totals))
+
+    label_size = max(6, min(getAxisLabelSize(
+        len(direction_data[0][0]), len(direction_data[1][0])
+    ), 20))
+    legend_handles = [
+        Patch(facecolor=color, alpha=alpha, label=f"{change_label} {period_label}")
+        for period_label, color in zip(period_labels, colors)
+        for change_label, alpha in zip(change_labels, [0.5, 1.0])
+    ]
+    fig, axes = plt.subplots(1, 2, figsize=(30, 20), constrained_layout=True)
+    try:
+        fig.suptitle(
+            f"Average Daily Stop Ridership for {route_name}\n"
+            f"{change_labels[0]} and {change_labels[1]}",
+            fontsize=40,
+        )
+        max_boardings = 0
+        max_alightings = 0
+        for ax, direction, (stops, totals) in zip(
+            axes, ["Inbound", "Outbound"], direction_data
+        ):
+            for i, stop_id in enumerate(stops["stopId"]):
+                for values, offset, alpha in zip(totals, [0.15, -0.15], [0.5, 1.0]):
+                    boardings = 0
+                    alightings = 0
+                    for period, color in zip(periods, colors):
+                        if (stop_id, period) not in values.index:
+                            continue
+                        alight, board = values.loc[stop_id, period]
+                        ax.barh(i + offset, -alight, left=-alightings,
+                                color=color, alpha=alpha, height=0.3)
+                        ax.barh(i + offset, board, left=boardings,
+                                color=color, alpha=alpha, height=0.3)
+                        alightings += alight
+                        boardings += board
+                    max_boardings = max(max_boardings, boardings)
+                    max_alightings = max(max_alightings, alightings)
+
+            ax.set_yticks(range(len(stops)))
+            ax.set_yticklabels(stops["stopName"])
+            ax.set_title(f"{direction} Trips", fontsize=30)
+            ax.set_xlabel("Passenger Count", fontsize=label_size)
+            reading_order = "Down" if direction == "Inbound" else "Up"
+            ax.set_ylabel(
+                f"{route_name} {direction} Stops (Read {reading_order})",
+                fontsize=label_size,
+            )
+            ax.tick_params(axis="both", labelsize=label_size)
+            ax.grid(True)
+            ax.set_axisbelow(True)
+            ax.legend(handles=legend_handles)
+
+        for ax in axes:
+            ax.set_xlim(-max(max_alightings * 1.1, 1), max(max_boardings * 1.1, 1))
+
+        directory = f"../STR/{agency}/{route_number}/{changes[0]}_vs_{changes[1]}"
+        os.makedirs(directory, exist_ok=True)
+        output_file = os.path.join(directory, "DailyRidership.png")
+        fig.savefig(output_file, dpi=200)
+        return output_file
+    finally:
+        plt.close(fig)
+
 
 
 # Uncomment this to generate the plots for all Metro routes (also, change the service change below)
