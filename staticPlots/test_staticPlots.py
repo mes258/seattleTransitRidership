@@ -55,10 +55,11 @@ class DailyRidershipComparisonTests(unittest.TestCase):
         self.assertIn("October 2024 5am-9am (AM)", legend)
         self.assertIn("Swift Blue Line", fig._suptitle.get_text())
 
-    def test_stop_ids_align_renamed_reordered_and_unmatched_stops(self):
+    def test_unequal_stop_counts_align_by_id(self):
         first = self.frame([
             ["I", 1, "Old name", 0, "AM", 1, 2],
             ["I", 2, "Removed", 1, "AM", 3, 4],
+            ["I", 4, "Also removed", 2, "AM", 5, 6],
             ["O", 1, "Outbound old", 2, "AM", 5, 6],
         ])
         second = self.frame([
@@ -70,7 +71,7 @@ class DailyRidershipComparisonTests(unittest.TestCase):
         inbound, outbound = self.plot(first, second).axes
         self.assertEqual(
             [tick.get_text() for tick in inbound.get_yticklabels()],
-            ["New name", "Removed", "Added"],
+            ["New name", "Also removed", "Removed", "Added"],
         )
         self.assertEqual(
             [tick.get_text() for tick in outbound.get_yticklabels()],
@@ -79,7 +80,59 @@ class DailyRidershipComparisonTests(unittest.TestCase):
         first_bar, second_bar = inbound.patches[:4:2]
         self.assertAlmostEqual(first_bar.get_y() + first_bar.get_height() / 2, 0.15)
         self.assertAlmostEqual(second_bar.get_y() + second_bar.get_height() / 2, -0.15)
-        self.assertEqual(len(inbound.patches), 8)
+        self.assertEqual(len(inbound.patches), 10)
+
+    def test_equal_stop_counts_align_changed_ids_by_position(self):
+        for direction in ["I", "O"]:
+            with self.subTest(direction=direction):
+                first = self.frame([
+                    [direction, 0, "A", 0, "AM", 1, 10],
+                    [direction, 1, "B", 1, "AM", 2, 20],
+                    [direction, 2, "C", 2, "AM", 3, 30],
+                    [direction, 2, "C", 2, "MID", 4, 40],
+                    [direction, 3, "D", 3, "AM", 5, 50],
+                ])
+                second = self.frame([
+                    [direction, 0, "A", 10, "AM", 6, 60],
+                    [direction, 1, "B", 20, "AM", 7, 70],
+                    [direction, 5, "E", 30, "AM", 8, 80],
+                    [direction, 3, "D", 40, "AM", 9, 90],
+                ]).iloc[::-1]
+                ax = self.plot(first, second).axes[0 if direction == "I" else 1]
+                expected = ["A", "B", "E", "D"]
+                if direction == "I":
+                    expected.reverse()
+                self.assertEqual(
+                    [tick.get_text() for tick in ax.get_yticklabels()], expected
+                )
+                position = expected.index("E")
+                bars = [
+                    bar for bar in ax.patches
+                    if abs(bar.get_y() + bar.get_height() / 2 - position) < 0.2
+                ]
+                self.assertEqual(
+                    [bar.get_width() for bar in bars], [-3, 30, -4, 40, -8, 80]
+                )
+                self.assertEqual([bar.get_alpha() for bar in bars], [0.5] * 4 + [1] * 2)
+
+    def test_equal_stop_counts_handle_swapped_ids_without_merging_data(self):
+        first = self.frame([
+            ["O", 1, "First old", 0, "AM", 1, 10],
+            ["O", 2, "Second old", 1, "AM", 2, 20],
+        ])
+        second = self.frame([
+            ["O", 2, "First new", 0, "AM", 3, 30],
+            ["O", 1, "Second new", 1, "AM", 4, 40],
+        ])
+        ax = self.plot(first, second).axes[1]
+        self.assertEqual(
+            [tick.get_text() for tick in ax.get_yticklabels()],
+            ["First new", "Second new"],
+        )
+        self.assertEqual(
+            [bar.get_width() for bar in ax.patches],
+            [-1, 10, -3, 30, -2, 20, -4, 40],
+        )
 
     def test_duplicate_time_rows_are_summed(self):
         frame = self.frame([

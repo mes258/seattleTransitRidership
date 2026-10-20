@@ -431,9 +431,11 @@ def plot_daily_ridership_comparison_from_csv(
     """Save adjacent daily ridership stacks for two route CSVs and return the path.
 
     Each CSV should contain one route and service change, as for
-    plot_daily_ridership_from_csv. Stops are matched by stopId within each
-    direction, using the second service change's names and order where shared.
-    Stops present in only one change retain an empty slot for the other.
+    plot_daily_ridership_from_csv. Within each direction, equal-length stop
+    sequences are matched by position in stopOrderNum order, using the second
+    service change's names. Otherwise, stops are matched by stopId, using the
+    second change's names and order where shared. Stops present in only one
+    change retain an empty slot for the other.
     The first change is faded; boardings extend right and alightings left.
     Output is ../STR/{agency}/{route}/{change_1}_vs_{change_2}/DailyRidership.png.
     """
@@ -455,6 +457,16 @@ def plot_daily_ridership_comparison_from_csv(
     direction_data = []
     for direction in ["I", "O"]:
         subsets = [df[df["direction"] == direction] for df in frames]
+        ordered_stops = [
+            subset.sort_values("stopOrderNum", kind="stable").drop_duplicates("stopId")
+            for subset in subsets
+        ]
+        if len(ordered_stops[0]) == len(ordered_stops[1]):
+            stop_mapping = dict(zip(
+                ordered_stops[0]["stopId"], ordered_stops[1]["stopId"]
+            ))
+            subsets[0] = subsets[0].copy()
+            subsets[0]["stopId"] = subsets[0]["stopId"].map(stop_mapping)
         stops = (
             pd.concat([subsets[1], subsets[0]])
             .drop_duplicates("stopId")
