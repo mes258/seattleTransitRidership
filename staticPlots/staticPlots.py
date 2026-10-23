@@ -38,6 +38,7 @@ timePeriodNames = {
   "243": "Sept 14, 2024 - Mar 28, 2025",
   "251": "Mar 29, 2025 - Aug 29, 2025",
   "253": "Aug 30, 2025 - Mar 27, 2026",
+  "261": "Mar 28, 2026 - Aug 28, 2026",
   "2310": "October 2023",
   "2410": "October 2024",
   "2510": "October 2025"
@@ -423,8 +424,6 @@ def plot_daily_ridership_from_csv(csv_path, agency, route_number, service_change
     fig.savefig(output_file, dpi=200)
     plt.close(fig)
 
-#plot_daily_ridership_from_csv("../data/routeData/kcm/48/253/ridershipData.csv", "kcm", "48", "253")
-
 def plot_daily_ridership_comparison_from_csv(
     csv_path_1, csv_path_2, agency, route_number, service_change_1, service_change_2
 ):
@@ -542,28 +541,31 @@ def plot_daily_ridership_comparison_from_csv(
     finally:
         plt.close(fig)
 
+routeNumber = 182
+agency = "kcm"
+plot_daily_ridership_comparison_from_csv(f"../data/routeData/{agency}/{routeNumber}/243/ridershipData.csv", f"../data/routeData/{agency}/{routeNumber}/261/ridershipData.csv", agency, f"{routeNumber}", "243", "261")
 
 # Uncomment this to generate the plots for all Metro routes (also, change the service change below)
 # for routeInt in range(1000):
 #   print(routeInt)
 #   try:
-#     plot_trip_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/251/ridershipData.csv", "kcm", f"{routeInt}", "251")
-#     plot_daily_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/251/ridershipData.csv", "kcm", f"{routeInt}", "251")
+#     plot_trip_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/261/ridershipData.csv", "kcm", f"{routeInt}", "261")
+#     plot_daily_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/261/ridershipData.csv", "kcm", f"{routeInt}", "261")
 
-#     plot_trip_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/253/ridershipData.csv", "kcm", f"{routeInt}", "253")
-#     plot_daily_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/253/ridershipData.csv", "kcm", f"{routeInt}", "253")
+#     # plot_trip_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/253/ridershipData.csv", "kcm", f"{routeInt}", "253")
+#     # plot_daily_ridership_from_csv(f"../data/routeData/kcm/{routeInt}/253/ridershipData.csv", "kcm", f"{routeInt}", "253")
 #   except:
 #       continue
 
-# Uncomment this to generate the plots for all Sound Transit routes (also, change the service change below)
+# #Uncomment this to generate the plots for all Sound Transit routes (also, change the service change below)
 # for routeInt in range(500, 600):
 #   print(routeInt)
 #   try:
-#     plot_trip_ridership_from_csv(f"../data/routeData/st/{routeInt}/251/ridershipData.csv", "st", f"{routeInt}", "251")
-#     plot_daily_ridership_from_csv(f"../data/routeData/st/{routeInt}/251/ridershipData.csv", "st", f"{routeInt}", "251")
+#     plot_trip_ridership_from_csv(f"../data/routeData/st/{routeInt}/261/ridershipData.csv", "st", f"{routeInt}", "261")
+#     plot_daily_ridership_from_csv(f"../data/routeData/st/{routeInt}/261/ridershipData.csv", "st", f"{routeInt}", "261")
 
-#     plot_trip_ridership_from_csv(f"../data/routeData/st/{routeInt}/253/ridershipData.csv", "st", f"{routeInt}", "253")
-#     plot_daily_ridership_from_csv(f"../data/routeData/st/{routeInt}/253/ridershipData.csv", "st", f"{routeInt}", "253")
+#     # plot_trip_ridership_from_csv(f"../data/routeData/st/{routeInt}/253/ridershipData.csv", "st", f"{routeInt}", "253")
+#     # plot_daily_ridership_from_csv(f"../data/routeData/st/{routeInt}/253/ridershipData.csv", "st", f"{routeInt}", "253")
 #   except:
 #       continue
 

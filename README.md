@@ -39,7 +39,12 @@ Internal TODOs:
     - `frontend/app.js`
 4. Update the stop data by adding the latest stop info in `stopData/[agency]` and running `preProcessScripts/[agency]/mergeStopData.py`. 
 5. Update `preProcessScripts/[agency]/dataFormatter.py` and run it.
-6. Validate the output.
+6. Update the allowlist in `backend/app/dataIndex.py` on Line 24. 
+7. Update Destination data: 
+  1. Visit `https://web.archive.org/web/20260612170941/https://kingcounty.gov/en/dept/metro/routes-and-service/schedules-and-maps` and pick a date in the service change. 
+  2. Inspect on the dropdown menu and copy the list's HTML. 
+  3. Extract the route numbers and destinations. Be sure to split routes with shared destination lists.
+8. Validate the output.
 
 ### Project file structure
 - data
