@@ -18,7 +18,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 10145,10145,NE 50th St & 16th Ave NE,,47.664959,-122.311172,1,,0,,America/Los_Angeles,1,Northeast 50th Street and 16th Avenue Northeast
 10170,10170,Fairview Ave E & E Nelson Pl,,47.6300545,-122.329338,1,,0,,America/Los_Angeles,1,Fairview Avenue East and East Nelson Place
 10180,10180,Fairview Ave N & Yale Ave N,,47.6283493,-122.33152,1,,0,,America/Los_Angeles,1,Fairview Avenue North and Yale Avenue North
-10190,10190,Fairview Ave N & Aloha St,,47.6270752,-122.333122,1,,0,,America/Los_Angeles,1,Fairview Avenue North and Aloha Street
+10190,10190,Fairview Ave N & Aloha St,,47.6267509,-122.333542,1,,0,,America/Los_Angeles,1,Fairview Avenue North and Aloha Street
 102,102,Spring St & 4th Ave,,47.6069107,-122.333092,21,,0,,America/Los_Angeles,1,Spring Street and Fourth Avenue
 10210,10210,Fairview Ave N & Mercer St,,47.6235619,-122.33445,1,,0,,America/Los_Angeles,1,Fairview Avenue North and Mercer Street
 10225,10225,Fairview Ave N & Thomas St,,47.6205864,-122.334435,1,,0,,America/Los_Angeles,1,Fairview Avenue North and Thomas Street
@@ -539,7 +539,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 17830,17830,Densmore Ave N & N 125th St,,47.7194939,-122.338463,1,,0,,America/Los_Angeles,1,Densmore Avenue North and North 125th Street
 17840,17840,Densmore Ave N & N 128th St,,47.7218781,-122.337318,1,,0,,America/Los_Angeles,1,Densmore Avenue North and North One Hundred Twenty Eighth Street
 17850,17850,N 128th St & Meridian Ave N,,47.7219467,-122.334526,1,,0,,America/Los_Angeles,1,North One Hundred Twenty Eighth Street and Meridian Avenue North
-17860,17860,Meridian Ave N & N 130th St,,47.723156,-122.334091,1,,0,,America/Los_Angeles,1,Meridian Avenue North and North 130th Street
+17860,17860,Meridian Ave N & N 130th St,,47.7230568,-122.334091,1,,0,,America/Los_Angeles,1,Meridian Avenue North and North 130th Street
 17870,17870,Meridian Ave N & N 133rd St,,47.7252731,-122.334091,1,,0,,America/Los_Angeles,1,Meridian Avenue North and North 133rd Street
 17880,17880,Meridian Ave N & N 135th St,,47.727169,-122.334106,1,,0,,America/Los_Angeles,1,Meridian Avenue North and North 135th Street
 17890,17890,Meridian Ave N & Roosevelt Way N,,47.72892,-122.334122,1,,0,,America/Los_Angeles,1,Meridian Avenue North and Roosevelt Way North
@@ -551,7 +551,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 17970,17970,32nd Ave NW & NW 80th St,,47.6880112,-122.398407,1,,0,,America/Los_Angeles,1,32nd Avenue Northwest and Northwest 80th Street
 17980,17980,32nd Ave NW & NW 80th St,,47.6863518,-122.398392,1,,0,,America/Los_Angeles,1,32nd Avenue Northwest and Northwest 80th Street
 17990,17990,32nd Ave NW & NW 77th St,,47.6849747,-122.398415,1,,0,,America/Los_Angeles,1,32nd Avenue Northwest and Northwest 77th Street
-18000,18000,32nd Ave NW & NW 75th St,,47.6832581,-122.398407,1,,0,,America/Los_Angeles,1,32nd Avenue Northwest and Northwest 75th Street
+18000,18000,32nd Ave NW & NW 75th St,,47.6828804,-122.398514,1,,0,,America/Los_Angeles,1,32nd Avenue Northwest and Northwest 75th Street
 18010,18010,32nd Ave NW & NW 73rd St,,47.6816788,-122.398499,1,,0,,America/Los_Angeles,1,32nd Avenue Northwest and Northwest 73rd Street
 18020,18020,32nd Ave NW & NW 72nd St,,47.6807098,-122.398499,1,,0,,America/Los_Angeles,1,32nd Avenue Northwest and Northwest 72nd Street
 18030,18030,32nd Ave NW & NW 70th St,,47.679245,-122.398483,1,,0,,America/Los_Angeles,1,32nd Avenue Northwest and Northwest 70th Street
@@ -567,7 +567,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 18120,18120,NW Market St & Ballard Ave NW,,47.6686058,-122.385345,1,,0,,America/Los_Angeles,1,Northwest Market Street and Ballard Avenue Northwest
 18145,18145,Leary Ave NW & NW Vernon Pl,,47.6673164,-122.383018,1,,0,,America/Los_Angeles,1,Leary Avenue Northwest and Northwest Vernon Place
 18150,18150,Leary Ave NW & NW Ione Pl,,47.6653595,-122.380714,1,,0,,America/Los_Angeles,,
-18165,18165,NW Leary Way & 15th Ave NW,,47.6635933,-122.375587,1,,0,,America/Los_Angeles,1,Northwest Leary Way and 15th Avenue Northwest
+18165,18165,NW Leary Way & 15th Ave NW,,47.6635933,-122.374939,1,,0,,America/Los_Angeles,1,Northwest Leary Way and 15th Avenue Northwest
 18170,18170,W Nickerson St & W Emerson St,,47.6541901,-122.375465,1,,0,,America/Los_Angeles,1,West Nickerson Street and West Emerson Street
 18180,18180,W Nickerson St & 12th Ave W,,47.6548843,-122.371971,1,,0,,America/Los_Angeles,1,West Nickerson Street and 12th Avenue West
 18190,18190,W Nickerson St & Jesse Ave W,,47.6536293,-122.36985,1,,0,,America/Los_Angeles,1,West Nickerson Street and Jesse Avenue West
@@ -1496,7 +1496,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3200,3200,E Union St & 20th Ave,,47.6128387,-122.306412,1,,0,,America/Los_Angeles,1,East Union Street and 20th Avenue
 32010,32010,California Ave SW & SW Genesee St,,47.5644188,-122.386871,1,,0,,America/Los_Angeles,1,California Avenue Southwest and Southwest Genesee Street
 32011,32011,SW Alaska St & 44th Ave SW - Bay 4,,47.5612068,-122.387955,1,,0,,America/Los_Angeles,1,Southwest Alaska Street and 44th Avenue Southwest - Bay Four
-32013,32013,44th Ave SW & SW Alaska St - Bay 5,,47.5613861,-122.388039,1,,0,,America/Los_Angeles,1,44th Avenue Southwest and Southwest Alaska Street - Bay Five
+32013,32013,44th Ave SW & SW Alaska St - Bay 5,,47.5614738,-122.388039,1,,0,,America/Los_Angeles,1,44th Avenue Southwest and Southwest Alaska Street - Bay Five
 32030,32030,California Ave SW & SW Barton St,,47.5219383,-122.387367,1,,0,,America/Los_Angeles,1,California Avenue Southwest and Southwest Barton Street
 3210,3210,E Union St & 23rd Ave,,47.6128807,-122.301758,1,,0,,America/Los_Angeles,1,East Union Street and 23rd Avenue
 32100,32100,S Cloverdale St & 5th Ave S,,47.5264091,-122.327835,3,,0,,America/Los_Angeles,1,South Cloverdale Street and Fifth Avenue South
@@ -1614,7 +1614,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 35334,35334,NE Northgate Way & 19th Ave NE,,47.7084198,-122.307823,1,,0,,America/Los_Angeles,1,Northeast Northgate Way and 19th Avenue Northeast
 35336,35336,NE Northgate Way & 19th Ave NE,,47.7085533,-122.308395,1,,0,,America/Los_Angeles,1,Northeast Northgate Way and 19th Avenue Northeast
 35338,35338,NE Northgate Way & 15th Ave NE,,47.7086029,-122.313583,1,,0,,America/Los_Angeles,1,Northeast Northgate Way and 15th Avenue Northeast
-35350,35350,NE 125th St & Roosevelt Way NE,,47.7194443,-122.317917,1,,0,,America/Los_Angeles,1,Northeast 125th Street and Roosevelt Way Northeast
+35350,35350,NE 125th St & Roosevelt Way NE,,47.7194328,-122.317223,1,,0,,America/Los_Angeles,1,Northeast 125th Street and Roosevelt Way Northeast
 35380,35380,NE 125th St & 15th Ave NE,,47.7193604,-122.312279,1,,0,,America/Los_Angeles,1,Northeast 125th Street and 15th Avenue Northeast
 35400,35400,NE 125th St & 20th Ave NE,,47.7192955,-122.307014,1,,0,,America/Los_Angeles,1,Northeast 125th Street and 20th Avenue Northeast
 3541,3541,12th Ave S & S Massachusetts St,,47.5887604,-122.317177,1,,0,,America/Los_Angeles,1,12th Avenue South and South Massachusetts Street
@@ -1669,7 +1669,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 36360,36360,SW Morgan St & 35th Ave SW,,47.5447617,-122.376846,1,,0,,America/Los_Angeles,1,Southwest Morgan Street and 35th Avenue Southwest
 36370,36370,SW Morgan St & 38th Ave SW,,47.5448418,-122.380905,1,,0,,America/Los_Angeles,1,Southwest Morgan Street and 38th Avenue Southwest
 36380,36380,SW Morgan St & 40th Ave SW,,47.5448914,-122.383514,1,,0,,America/Los_Angeles,1,Southwest Morgan Street and 40th Avenue Southwest
-36390,36390,44th Ave SW & SW Alaska St - Bay 6,,47.5614738,-122.388039,1,,0,,America/Los_Angeles,1,44th Avenue Southwest and Southwest Alaska Street - Bay Six
+36390,36390,44th Ave SW & SW Alaska St - Bay 6,,47.5613899,-122.388039,1,,0,,America/Los_Angeles,1,44th Avenue Southwest and Southwest Alaska Street - Bay Six
 36400,36400,SW Morgan St & 42nd Ave SW,,47.5447845,-122.385536,1,,0,,America/Los_Angeles,1,Southwest Morgan Street and 42nd Avenue Southwest
 36410,36410,SW Morgan St & 40th Ave SW,,47.544754,-122.38279,1,,0,,America/Los_Angeles,1,Southwest Morgan Street and 40th Avenue Southwest
 36420,36420,SW Morgan St & 38th Ave SW,,47.5446892,-122.380196,1,,0,,America/Los_Angeles,1,Southwest Morgan Street and 38th Avenue Southwest
@@ -2618,7 +2618,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 50340,50340,Des Moines Memorial Dr S & S 202nd St,,47.4212112,-122.320389,24,,0,,America/Los_Angeles,1,Des Moines Memorial Drive South and South 202nd Street
 50350,50350,Des Moines Memorial Dr S & S 204th St,,47.4199295,-122.320351,24,,0,,America/Los_Angeles,1,Des Moines Memorial Drive South and South 204th Street
 50360,50360,Des Moines Memorial Dr S & S 206th St,,47.4182434,-122.320305,24,,0,,America/Los_Angeles,2,Des Moines Memorial Drive South and South 206th Street
-50370,50370,Des Moines Memorial Dr S & S 208th St,,47.4157639,-122.320457,24,,0,,America/Los_Angeles,2,Des Moines Memorial Drive South and South 208th Street
+50370,50370,Des Moines Memorial Dr S & S 208th St,,47.4157639,-122.320457,24,,0,,America/Los_Angeles,1,Des Moines Memorial Drive South and South 208th Street
 50380,50380,Des Moines Memorial Dr S & S 210th St,,47.4137993,-122.322601,24,,0,,America/Los_Angeles,1,Des Moines Memorial Drive South and South 210th Street
 50390,50390,Des Moines Memorial Dr S & S 212th St,,47.412571,-122.324448,24,,0,,America/Los_Angeles,1,Des Moines Memorial Drive South and South 212th Street
 50445,50445,24th Ave S & S 223rd St,,47.4025078,-122.302605,24,,0,,America/Los_Angeles,,
@@ -2629,8 +2629,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 50468,50468,16th Ave S & 17th Pl S,,47.3907471,-122.31189,24,,0,,America/Los_Angeles,1,16th Avenue South and 17th Place South
 50480,50480,Pacific Hwy S & Kent Des Moines Rd,,47.3925362,-122.295158,24,,0,,America/Los_Angeles,1,Pacific Highway South and Kent Des Moines Road
 50703,50703,Reith Rd & 38th Ave S,,47.3700562,-122.283752,24,,0,,America/Los_Angeles,1,Reith Road and 38th Avenue South
-50707,50707,Reith Rd & S 253rd St,,47.3747559,-122.277931,24,,0,,America/Los_Angeles,1,Reith Road and South 253rd Street
-50709,50709,Reith Rd & Lake Fenwick Rd S,,47.3784676,-122.274132,24,,0,,America/Los_Angeles,1,Reith Road and Lake Fenwick Road South
+50707,50707,Reith Rd & S 253rd St,,47.3748283,-122.277863,24,,0,,America/Los_Angeles,1,Reith Road and South 253rd Street
+50709,50709,Reith Rd & Lake Fenwick Rd S,,47.3784142,-122.273987,24,,0,,America/Los_Angeles,1,Reith Road and Lake Fenwick Road South
 50712,50712,W James St & Washington Ave N,,47.386795,-122.2481,24,,0,,America/Los_Angeles,1,West James Street and Washington Avenue North
 50714,50714,W James St & 64th Ave S,,47.3868027,-122.254288,24,,0,,America/Los_Angeles,1,West James Street and 64th Avenue South
 50717,50717,64th Ave S & W James St,,47.3863258,-122.253807,24,,0,,America/Los_Angeles,1,64th Avenue South and West James Street
@@ -2647,7 +2647,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 50734,50734,S 272nd St & 26th Ave S,,47.3578262,-122.299393,24,,0,,America/Los_Angeles,1,South Two Hundred Seventy Second Street and 26th Avenue South
 50735,50735,W Meeker St & 64th Ave S,,47.3811264,-122.257179,24,,0,,America/Los_Angeles,1,West Meeker Street and 64th Avenue South
 50740,50740,W Meeker St & 64th Ave S,,47.3811874,-122.253082,24,,0,,America/Los_Angeles,1,West Meeker Street and 64th Avenue South
-50741,50741,W Meeker St & Washington Ave S,,47.3812523,-122.249161,24,,0,,America/Los_Angeles,1,West Meeker Street and Washington Avenue South
+50741,50741,W Meeker St & Washington Ave N,,47.3812523,-122.249161,24,,0,,America/Los_Angeles,1,West Meeker Street and Washington Avenue South
 50755,50755,W Meeker St & Washington Ave N,,47.3813972,-122.248772,24,,0,,America/Los_Angeles,1,West Meeker Street and Washington Avenue N
 50758,50758,64th Ave S & W Meeker St,,47.3815918,-122.253792,24,,0,,America/Los_Angeles,1,64th Avenue South and West Meeker Street
 50760,50760,W Meeker St & Russell Rd,,47.3808327,-122.261772,24,,0,,America/Los_Angeles,,
@@ -2656,8 +2656,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 50772,50772,64th Ave S & W Meeker St,,47.3819389,-122.253593,24,,0,,America/Los_Angeles,1,64th Avenue South and West Meeker Street
 50774,50774,64th Ave S & W James St,,47.3871384,-122.253616,24,,0,,America/Los_Angeles,1,64th Avenue South and West James Street
 50779,50779,W James St & 64th Ave S,,47.3866577,-122.253113,24,,0,,America/Los_Angeles,1,West James Street and 64th Avenue South
-50781,50781,Reith Rd & Lake Fenwick Rd S,,47.3786736,-122.274384,24,,0,,America/Los_Angeles,1,Reith Road and Lake Fenwick Road South
-50783,50783,Reith Rd & S 253rd St,,47.3747826,-122.278122,24,,0,,America/Los_Angeles,1,Reith Road and South 253rd Street
+50781,50781,Reith Rd & Lake Fenwick Rd S,,47.3786278,-122.274216,24,,0,,America/Los_Angeles,1,Reith Road and Lake Fenwick Road South
+50783,50783,Reith Rd & S 253rd St,,47.3747787,-122.278099,24,,0,,America/Los_Angeles,1,Reith Road and South 253rd Street
 50787,50787,Reith Rd & 38th Ave S,,47.3702164,-122.283859,24,,0,,America/Los_Angeles,1,Reith Road and 38th Avenue South
 510,510,S Washington St & 3rd Ave S,,47.6009483,-122.330841,21,,0,,America/Los_Angeles,1,South Washington Street and Third Avenue South
 51301,51301,21st Ave SW & SW 159th St,,47.4607124,-122.360458,24,,0,,America/Los_Angeles,1,21st Avenue Southwest and Southwest One Hundred Fifty Ninth Street
@@ -2886,7 +2886,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 55350,55350,59th Ave S & S Augusta St,,47.5002098,-122.259659,12,,0,,America/Los_Angeles,1,59th Avenue South and South Augusta Street
 55360,55360,59th Ave S & S 118th St,,47.4982376,-122.259697,12,,0,,America/Los_Angeles,1,59th Avenue South and South 118th Street
 55370,55370,59th Ave S & S Wallace St,,47.4973335,-122.259712,12,,0,,America/Los_Angeles,1,59th Avenue South and South Wallace Street
-55371,55371,68th Ave S & S 118th St,,47.4972382,-122.249084,24,,0,,America/Los_Angeles,1,68th Avenue South and South 118th Street
+55371,55371,68th Ave S & S 118th St,,47.4969902,-122.249084,24,,0,,America/Los_Angeles,1,68th Avenue South and South 118th Street
 55372,55372,Beacon Ave S & 62nd Ave S,,47.4935112,-122.256363,24,,0,,America/Los_Angeles,1,Beacon Avenue South and Sixty Second Avenue South
 55373,55373,68th Ave S & S 122nd St,,47.4936752,-122.249161,24,,0,,America/Los_Angeles,1,68th Avenue South and South 122nd Street
 55374,55374,S 124th St & 67th Ave S,,47.4920197,-122.251419,24,,0,,America/Los_Angeles,1,South One Hundred Twenty Fourth Street and Sixty Seventh Avenue South
@@ -2918,7 +2918,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 55702,55702,Martin L King Jr Way S & S Graham St,,47.5463409,-122.285461,1,,0,,America/Los_Angeles,1,Martin Luther King Jr Way South and South Graham Street
 55711,55711,Martin L King Jr Way S & 37th Ave S,,47.5483971,-122.286484,1,,0,,America/Los_Angeles,1,Martin Luther King Jr Way South and 37th Avenue South
 55729,55729,Martin L King Jr Way S & S Orcas St,,47.5515022,-122.287949,1,,0,,America/Los_Angeles,1,Martin Luther King Jr Way South and South Orcas Street
-55735,55735,Martin L King Jr Way S & S Dawson St,,47.5552368,-122.289749,1,,0,,America/Los_Angeles,1,Martin Luther King Jr Way South and South Dawson Street
+55735,55735,Martin L King Jr Way S & S Dawson St,,47.5550194,-122.28965,1,,0,,America/Los_Angeles,1,Martin Luther King Jr Way South and South Dawson Street
 55771,55771,Martin L King Jr Way S & S Edmunds St,,47.5588799,-122.29187,76,,0,,America/Los_Angeles,1,Martin Luther King Jr Way South and South Edmunds Street
 55780,55780,Martin L King Jr Way S & S Alaska St,,47.5611458,-122.293274,1,,0,,America/Los_Angeles,1,Martin Luther King Jr Way South and South Alaska Street
 55790,55790,Martin L King Jr Way S & S Columbian Way,,47.5633354,-122.294724,1,,0,,America/Los_Angeles,1,Martin Luther King Jr Way South and South Columbian Way
@@ -2972,7 +2972,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 56330,56330,Renton Ave S & S Ryan St,,47.509491,-122.258553,1,,0,,America/Los_Angeles,1,Renton Avenue South and South Ryan Street
 56340,56340,Renton Ave S & S Prentice St,,47.5081024,-122.256554,1,,0,,America/Los_Angeles,1,Renton Avenue South and South Prentice Street
 56350,56350,Renton Ave S & S Bangor St,,47.5060005,-122.254288,1,,0,,America/Los_Angeles,1,Renton Avenue South and South Bangor Street
-56360,56360,Renton Ave S & S Hazel St,,47.5049858,-122.253197,1,,0,,America/Los_Angeles,1,Renton Avenue South and South Hazel Street
+56360,56360,Renton Ave S & S Hazel St,,47.5049858,-122.253197,1,,0,,America/Los_Angeles,2,Renton Avenue South and South Hazel Street
 56370,56370,Renton Ave S & S Fountain St,,47.5034866,-122.251572,1,,0,,America/Los_Angeles,1,Renton Avenue South and South Fountain Street
 56372,56372,Renton Ave S & S 116th Pl,,47.5002861,-122.250023,26,,0,,America/Los_Angeles,1,Renton Avenue South and South One Hundred Sixteenth Place
 56373,56373,Renton Ave S & 68th Ave S,,47.497879,-122.248932,24,,0,,America/Los_Angeles,1,Renton Avenue South and 68th Avenue South
@@ -3429,7 +3429,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 59032,59032,Wells St & Griffin Ave,,47.2041626,-121.990616,40,,0,,America/Los_Angeles,1,Wells Street and Griffin Avenue
 59033,59033,Griffin Ave & Roosevelt Ave E,,47.1999474,-121.982353,40,,0,,America/Los_Angeles,1,Griffin Avenue and Roosevelt Avenue East
 59034,59034,Semanski St & Christianson Ave,,47.1965446,-122.005432,40,,0,,America/Los_Angeles,1,Semanski Street and Christianson Avenue
-59035,59035,Semanski St & Warner Ave,,47.1924515,-122.005409,40,,0,,America/Los_Angeles,1,Semanski Street and Warner Avenue
+59035,59035,Semanski St & Warner Ave,,47.192543,-122.005409,40,,0,,America/Los_Angeles,1,Semanski Street and Warner Avenue
 59036,59036,Roosevelt Ave & Semanski St,,47.1992836,-122.005188,40,,0,,America/Los_Angeles,1,Roosevelt Avenue and Semanski Street
 59037,59037,Roosevelt Ave & Melody Ln,,47.1992912,-122.001869,40,,0,,America/Los_Angeles,1,Roosevelt Avenue and Melody Lane
 59038,59038,Roosevelt Ave & Myrtine St,,47.1992989,-121.996696,40,,0,,America/Los_Angeles,1,Roosevelt Avenue and Myrtine Street
@@ -3549,7 +3549,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 59712,59712,116th Ave SE & SE 168th St,,47.453022,-122.185928,24,,0,,America/Los_Angeles,1,One Hundred Sixteenth Avenue Southeast and Southeast One Hundred Sixty Eighth Street
 59716,59716,116th Ave SE & SE 164th St,,47.4566536,-122.18586,24,,0,,America/Los_Angeles,1,One Hundred Sixteenth Avenue Southeast and Southeast One Hundred Sixty Fourth Street
 59718,59718,116th Ave SE & SE 160th St,,47.460556,-122.185768,24,,0,,America/Los_Angeles,1,One Hundred Sixteenth Avenue Southeast and Southeast One Hundred Sixtieth Street
-59720,59720,Edmonds Ave SE & Edmonds Way SE,,47.4656219,-122.185791,24,,0,,America/Los_Angeles,1,Edmonds Avenue Southeast and Edmonds Way Southeast
+59720,59720,Edmonds Ave SE & Edmonds Way SE,,47.4656258,-122.185791,24,,0,,America/Los_Angeles,1,Edmonds Avenue Southeast and Edmonds Way Southeast
 59724,59724,Puget Dr SE & Royal Hills Dr SE,,47.4666328,-122.18689,24,,0,,America/Los_Angeles,1,Puget Drive Southeast and Royal Hills Drive Southeast
 59730,59730,SE Royal Hills Dr & Lake Youngs Way SE,,47.4686852,-122.183334,24,,0,,America/Los_Angeles,1,Southeast Royal Hills Drive and Lake Youngs Way Southeast
 59740,59740,SE Royal Hills Dr & Gem Dr SE,,47.4681358,-122.177109,24,,0,,America/Los_Angeles,1,Southeast Royal Hills Drive and Gem Drive Southeast
@@ -3598,7 +3598,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 59976,59976,Puget Dr SE & SE 19th St,,47.46418,-122.190727,24,,0,,America/Los_Angeles,1,Puget Drive Southeast and Southeast 19th Street
 600,600,3rd Ave & Virginia St,,47.6129951,-122.341743,21,,0,,America/Los_Angeles,1,3rd Avenue and Virginia Street
 6000,6000,N 43rd St & Phinney Ave N,,47.6588936,-122.353943,1,,0,,America/Los_Angeles,1,North 43rd Street and Phinney Avenue North
-60001,60001,Royal Hills Dr SE & Edmonds Ave SE,,47.4664879,-122.185684,24,,0,,America/Los_Angeles,1,Royal Hills Drive Southeast and Edmonds Avenue Southeast
+60001,60001,Royal Hills Dr SE & Edmonds Ave SE,,47.4665413,-122.185715,24,,0,,America/Los_Angeles,1,Royal Hills Drive Southeast and Edmonds Avenue Southeast
 60010,60010,Edmonds Ave SE & SE 16th St,,47.4651337,-122.186012,24,,0,,America/Los_Angeles,1,Edmonds Avenue Southeast and Southeast 16th Street
 60020,60020,116th Ave SE & SE 20th Pl,,47.461731,-122.185974,24,,0,,America/Los_Angeles,1,One Hundred Sixteenth Avenue Southeast and Southeast 20th Place
 60022,60022,116th Ave SE & SE 160th St,,47.4602013,-122.185982,24,,0,,America/Los_Angeles,1,One Hundred Sixteenth Avenue Southeast and Southeast One Hundred Sixtieth Street
@@ -3609,7 +3609,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 60136,60136,140th Way SE & SE 158th St,,47.4616432,-122.146591,24,,0,,America/Los_Angeles,1,One Hundred Fortieth Way Southeast and Southeast 158th Street
 60137,60137,140th Way SE & SE 158th St,,47.4614449,-122.146736,24,,0,,America/Los_Angeles,1,One Hundred Fortieth Way Southeast and Southeast 158th Street
 60140,60140,SE Fairwood Blvd & 138th Ave SE,,47.455761,-122.157379,24,,0,,America/Los_Angeles,1,Southeast Fairwood Boulevard and One Hundred Thirty Eighth Avenue Southeast
-60142,60142,SE 176th St & SE 171st Way,,47.445034,-122.147873,24,,0,,America/Los_Angeles,1,Southeast One Hundred Seventy Sixth Street and Southeast One Hundred Seventy First Way
+60142,60142,SE 176th St & SE 171st Way,,47.4450378,-122.147957,24,,0,,America/Los_Angeles,1,Southeast One Hundred Seventy Sixth Street and Southeast One Hundred Seventy First Way
 60144,60144,155th Ave SE & SE 175th Pl,,47.4456177,-122.135712,24,,0,,America/Los_Angeles,1,One Hundred Fifty Fifth Avenue Southeast and Southeast One Hundred Seventy Fifth Place
 60146,60146,SE 176th St & 147th Ave SE,,47.4450264,-122.143913,24,,0,,America/Los_Angeles,1,Southeast One Hundred Seventy Sixth Street and 147th Avenue Southeast
 60147,60147,155th Ave SE & SE 175th Ct,,47.4466286,-122.134117,24,,0,,America/Los_Angeles,1,One Hundred Fifty Fifth Avenue Southeast and Southeast One Hundred Seventy Fifth Court
@@ -3808,7 +3808,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 61060,61060,International Blvd & S 160th St,,47.4586945,-122.292412,24,,0,,America/Los_Angeles,1,International Boulevard and South One Hundred Sixtieth Street
 61070,61070,International Blvd & S 170th St,,47.4502487,-122.296318,24,,0,,America/Los_Angeles,1,International Boulevard and South One Hundred Seventieth Street
 61080,61080,International Blvd & S 176th St - Bay 1,,47.4453201,-122.29644,24,,0,,America/Los_Angeles,1,International Boulevard and South One Hundred Seventy Sixth Street - Bay One
-61082,61082,Seatac Airport Acs & International Blvd,,47.4412956,-122.298523,24,,0,,America/Los_Angeles,1,Seatac Airport Access Road and International Boulevard
+61082,61082,Seattle-Tacoma International Airport,,47.4412956,-122.298523,24,,0,,America/Los_Angeles,1,Seatac Airport Access Road and International Boulevard
 61090,61090,International Blvd & S 182nd St,,47.4397202,-122.296104,24,,0,,America/Los_Angeles,1,International Boulevard and South One Hundred Eighty Second Street
 61100,61100,International Blvd & S 188th St,,47.4338989,-122.295662,24,,0,,America/Los_Angeles,1,International Boulevard and South One Hundred Eighty Eighth Street
 61110,61110,International Blvd & S 195th St,,47.4274673,-122.295914,24,,0,,America/Los_Angeles,1,International Boulevard and South One Hundred Ninety Fifth Street
@@ -4068,7 +4068,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6400,6400,N 43rd St & Fremont Ave N,,47.6590233,-122.350403,1,,0,,America/Los_Angeles,1,North 43rd Street and Fremont Avenue North
 64048,64048,SE 24th St & 70th Ave SE,,47.5890884,-122.245216,19,,0,,America/Los_Angeles,1,Southeast 24th Street and 70th Avenue Southeast
 64065,64065,N Mercer Way & 80th Ave SE - Bay 2,,47.5883904,-122.232101,19,,0,,America/Los_Angeles,1,North Mercer Way and 80th Avenue Southeast - Bay Two
-64140,64140,N Mercer Way & 80th Ave SE - Bay 1,,47.5887299,-122.232704,19,,0,,America/Los_Angeles,1,North Mercer Way and 80th Avenue Southeast - Bay One
+64140,64140,N Mercer Way & 80th Ave SE - Bay 1,,47.5887337,-122.232689,19,,0,,America/Los_Angeles,1,North Mercer Way and 80th Avenue Southeast - Bay One
 64143,64143,76th Ave SE & SE 24th St,,47.588913,-122.237579,19,,0,,America/Los_Angeles,1,76th Avenue Southeast and Southeast 24th Street
 64145,64145,N Mercer Way & 76th Ave SE,,47.5898247,-122.236107,19,,0,,America/Los_Angeles,1,North Mercer Way and 76th Avenue Southeast
 6420,6420,Phinney Ave N & N 43rd St,,47.6592865,-122.354279,1,,0,,America/Los_Angeles,1,Phinney Avenue North and North 43rd Street
@@ -4282,9 +4282,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 65926,65926,NE 24th St & 96th Ave NE,,47.6320457,-122.21212,19,,0,,America/Los_Angeles,,
 65927,65927,NE 24th St & 96th Ave NE,,47.6319046,-122.211884,19,,0,,America/Los_Angeles,,
 65928,65928,NE 24th St & 92nd Ave NE,,47.6320152,-122.217392,19,,0,,America/Los_Angeles,,
-65930,65930,92nd Ave NE & NE 28th Pl,,47.6358795,-122.217667,19,,0,,America/Los_Angeles,,
-65931,65931,92nd Ave NE & NE 28th St,,47.6353683,-122.21788,19,,0,,America/Los_Angeles,,
-65940,65940,92nd Ave NE & Sr 520 Ramp,,47.6403999,-122.217392,19,,0,,America/Los_Angeles,,
+65930,65930,92nd Ave NE & NE 28th Pl,,47.6358795,-122.217667,19,,0,,America/Los_Angeles,1,92nd Avenue Northeast and Northeast 28thPlace
+65931,65931,92nd Ave NE & NE 28th St,,47.6353683,-122.21788,19,,0,,America/Los_Angeles,1,92nd Avenue Northeast and Northeast 28th Street
+65940,65940,92nd Ave NE & Sr 520 Ramp,,47.6403999,-122.217392,19,,0,,America/Los_Angeles,1,92nd Avenue Northeast and State Route 520 Ramp
 660,660,4th Ave & Madison St,,47.6060066,-122.33271,21,,0,,America/Los_Angeles,1,4th Avenue and Madison Street
 6600,6600,Greenwood Ave N & N 77th St,,47.6850548,-122.355194,1,,0,,America/Los_Angeles,,
 6615,6615,Greenwood Ave N & N 80th St,,47.6873322,-122.355194,1,,0,,America/Los_Angeles,1,Greenwood Avenue North and North 80th Street
@@ -4311,7 +4311,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 66871,66871,NE 31st St & 156th Ave NE,,47.6382217,-122.133232,19,,0,,America/Los_Angeles,1,Northeast 31st Street and One Hundred Fifty Sixth Avenue Northeast
 66874,66874,152nd Ave NE & NE 36th St,,47.6379967,-122.136368,19,,0,,America/Los_Angeles,1,One Hundred Fifty Second Avenue Northeast and Northeast 36th Street
 66875,66875,152nd Ave NE & NE 31st St,,47.6379967,-122.136108,19,,0,,America/Los_Angeles,1,One Hundred Fifty Second Avenue Northeast and Northeast 31st Street
-66880,66880,SE 14th St & 165th Ave SE,,47.5980721,-122.119812,19,,0,,America/Los_Angeles,1,Southeast 14th Street and One Hundred Sixty Fifth Avenue Southeast
+66880,66880,SE 14th St & 165th Ave SE,,47.5980721,-122.119812,19,,0,,America/Los_Angeles,2,Southeast 14th Street and One Hundred Sixty Fifth Avenue Southeast
 66890,66890,SE 14th St & 168th Ave SE,,47.5980225,-122.116798,19,,0,,America/Los_Angeles,2,Southeast 14th Street and One Hundred Sixty Eighth Avenue Southeast
 66900,66900,168th Ave SE & SE 16th St,,47.5962791,-122.115822,19,,0,,America/Los_Angeles,1,One Hundred Sixty Eighth Avenue Southeast and Southeast 16th Street
 66920,66920,168th Ave SE & SE 21st Pl,,47.5919685,-122.115837,19,,0,,America/Los_Angeles,2,One Hundred Sixty Eighth Avenue Southeast and Southeast 21st Place
@@ -4419,13 +4419,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 68048,68048,106th Ave NE & NE 6th St,,47.6162529,-122.198853,19,,0,,America/Los_Angeles,1,One Hundred Sixth Avenue Northeast and Northeast Sixth Street
 68063,68063,NE Bellevue Redmond Rd & 148th Ave NE,,47.6265984,-122.142395,19,,0,,America/Los_Angeles,1,Northeast Bellevue Redmond Road and One Hundred Forty Eighth Avenue Northeast
 68064,68064,NE 12th St & 120th Ave NE,,47.6203003,-122.178688,19,,0,,America/Los_Angeles,1,Northeast 12th Street and One Hundred Twentieth Avenue Northeast
-68065,68065,Bellevue Redmond Rd & 130th Ave NE,,47.621357,-122.167656,19,,0,,America/Los_Angeles,1,Bellevue Redmond Road and 130th Avenue Northeast
+68065,68065,Bellevue Redmond Rd & 130th Ave NE,,47.621357,-122.167664,19,,0,,America/Los_Angeles,1,Bellevue Redmond Road and 130th Avenue Northeast
 68066,68066,Bellevue Redmond Rd & 124th Ave NE,,47.6199379,-122.174454,19,,0,,America/Los_Angeles,1,Bellevue Redmond Road and One Hundred Twenty Fourth Avenue Northeast
 68067,68067,NE Bellevue Redmond Rd & 132nd Ave NE,,47.6221581,-122.163803,19,,0,,America/Los_Angeles,1,Northeast Bellevue Redmond Road and One Hundred Thirty Second Avenue Northeast
 68068,68068,NE Bellevue Redmond Rd & 140th Ave NE,,47.6244926,-122.152725,19,,0,,America/Los_Angeles,1,Northeast Bellevue Redmond Road and One Hundred Fortieth Avenue Northeast
 68069,68069,NE Bellevue Redmond Rd & 143rd Ave NE,,47.6250648,-122.149879,19,,0,,America/Los_Angeles,1,Northeast Bellevue Redmond Road and 143rd Avenue Northeast
 68070,68070,NE Bellevue Redmond Rd & 136th Ave NE,,47.6229706,-122.159988,19,,0,,America/Los_Angeles,1,Northeast Bellevue Redmond Road and 136th Avenue Northeast
-68085,68085,NE 8th St & 116th Ave NE,,47.6172333,-122.184837,19,,0,,America/Los_Angeles,1,Northeast Eighth Street and One Hundred Sixteenth Avenue Northeast
+68085,68085,Wilburton Station - Bay 2,,47.6172333,-122.184837,19,,0,,America/Los_Angeles,1,Northeast Eighth Street and One Hundred Sixteenth Avenue Northeast
 68094,68094,NE 8th St & 120th Ave NE,,47.6172523,-122.179787,19,,0,,America/Los_Angeles,1,Northeast Eighth Street and One Hundred Twentieth Avenue Northeast
 68100,68100,NE 8th St & 124th Ave NE,,47.6172638,-122.174347,19,,0,,America/Los_Angeles,1,Northeast Eighth Street and One Hundred Twenty Fourth Avenue Northeast
 68130,68130,NE 8th St & 131st Ave NE,,47.6171265,-122.162338,19,,0,,America/Los_Angeles,1,Northeast Eighth Street and One Hundred Thirty First Avenue Northeast
@@ -4744,7 +4744,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 70650,70650,100th Ave NE & NE 20th St,,47.6285553,-122.206924,19,,0,,America/Los_Angeles,,
 70660,70660,100th Ave NE & NE 22nd St,,47.6303215,-122.20694,19,,0,,America/Los_Angeles,,
 70664,70664,NE 85th St & 114th Ave NE,,47.6793251,-122.188461,19,,0,,America/Los_Angeles,1,Northeast 85th Street and 114th Avenue Northeast
-70665,70665,Central Way & 5th St,,47.6786385,-122.199577,19,,0,,America/Los_Angeles,2,Central Way and Fifth Street
+70665,70665,Central Way & 5th St,,47.6786385,-122.199577,19,,0,,America/Los_Angeles,1,Central Way and Fifth Street
 70666,70666,NE 85th St & Kirkland Way,,47.6791801,-122.188362,19,,0,,America/Los_Angeles,1,Northeast 85th Street and Kirkland Way
 70672,70672,Central Way & 5th St,,47.6785927,-122.199234,19,,0,,America/Los_Angeles,1,Central Way and Fifth Street
 70676,70676,6th St & Kirkland Way,,47.6761436,-122.197021,19,,0,,America/Los_Angeles,1,6th Street and Kirkland Way
@@ -4809,7 +4809,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 71310,71310,NE 24th St & 160th Ave NE,,47.6315651,-122.127808,19,,0,,America/Los_Angeles,1,Northeast 24th Street and One Hundred Sixtieth Avenue Northeast
 71320,71320,NE 24th St & 156th Ave NE,,47.6316452,-122.131248,19,,0,,America/Los_Angeles,1,Northeast 24th Street and One Hundred Fifty Sixth Avenue Northeast
 71322,71322,NE 24th St & NE Bel-Red Rd,,47.631649,-122.134445,19,,0,,America/Los_Angeles,1,Northeast 24th Street and Northeast Bel-Red Road
-71323,71323,152nd Ave NE & NE Shen St,,47.6355629,-122.137589,19,,0,,America/Los_Angeles,1,One Hundred Fifty Second Avenue Northeast and Northeast Shen Street
+71323,71323,152nd Ave NE & NE Shen St - Bay 2,,47.6355629,-122.137589,19,,0,,America/Los_Angeles,1,One Hundred Fifty Second Avenue Northeast and Northeast Shen Street
 71325,71325,NE 40th St & 152nd Ave NE,,47.6459236,-122.137733,19,,0,,America/Los_Angeles,1,Northeast 40th Street and One Hundred Fifty Second Avenue Northeast
 71326,71326,152nd Ave NE & Overlake Park&Ride,,47.633709,-122.137604,19,,0,,America/Los_Angeles,1,One Hundred Fifty Second Avenue Northeast and Overlake Park and Ride
 71327,71327,NE 40th St & 150th Ave NE,,47.6460228,-122.140671,19,,0,,America/Los_Angeles,1,Northeast 40th Street and One Hundred Fiftieth Avenue Northeast
@@ -4824,8 +4824,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 71348,71348,Sr 520 & Evergreen Point Rd,,47.6368103,-122.236595,19,,0,,America/Los_Angeles,1,State Route 520 and Evergreen Point Road
 71353,71353,Sr 520 & NE 51st St,,47.6549225,-122.136627,19,,0,,America/Los_Angeles,1,State Route 520 and Northeast 51st Street
 71355,71355,Sr 520 & Evergreen Point Rd,,47.6371346,-122.237007,19,,0,,America/Los_Angeles,1,State Route 520 and Evergreen Point Road
-71356,71356,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,,47.6401787,-122.218773,19,,0,,America/Los_Angeles,1,Clyde Hill/Yarrow Pt and State Route 520 - 92nd Avenue
-71359,71359,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,,47.6400909,-122.218277,19,,0,,America/Los_Angeles,1,Clyde Hill/Yarrow Pt and State Route 520 - 92nd Avenue
+71356,71356,Sr 520 & 92nd Avenue Northeast,,47.6401787,-122.218773,19,,0,,America/Los_Angeles,1,Clyde Hill/Yarrow Pt and State Route 520 - 92nd Avenue
+71359,71359,Sr 520 & 92nd Ave NE,,47.6400909,-122.218277,19,,0,,America/Los_Angeles,1,Clyde Hill/Yarrow Pt and State Route 520 - 92nd Avenue
 71370,71370,NE 24th St & 152nd Ave NE,,47.631485,-122.137138,19,,0,,America/Los_Angeles,1,Northeast 24th Street and One Hundred Fifty Second Avenue Northeast
 71380,71380,NE 24th St & 164th Ave NE,,47.6312752,-122.120918,19,,0,,America/Los_Angeles,1,Northeast 24th Street and One Hundred Sixty Fourth Avenue Northeast
 71390,71390,NE 24th St & 167th Ave NE,,47.6312447,-122.11763,19,,0,,America/Los_Angeles,1,Northeast 24th Street and One Hundred Sixty Seventh Avenue Northeast
@@ -4929,7 +4929,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 72452,72452,NE Redmond Way & Bear Creek Pkwy,,47.6742516,-122.129646,19,,0,,America/Los_Angeles,1,Northeast Redmond Way and Bear Creek Parkway
 72456,72456,West Lake Sammamish Pkwy NE & Leary Way,,47.66996,-122.130951,19,,0,,America/Los_Angeles,1,West Lake Sammamish Parkway Northeast and Leary Way
 72458,72458,West Lake Sammamish Pkwy NE & Leary Way,,47.6698189,-122.130348,19,,0,,America/Los_Angeles,1,West Lake Sammamish Parkway Northeast and Leary Way
-72476,72476,NE 76th St & 164th Ave NE - Bay 1,,47.6722412,-122.121292,19,,0,,America/Los_Angeles,1,North east 76th St and 164th Ave North east - Bay One
+72476,72476,NE 76th St & 164th Ave NE - Bay 1,,47.6722298,-122.121292,19,,0,,America/Los_Angeles,1,North east 76th St and 164th Ave North east - Bay One
 72477,72477,Downtown Redmond Station - Bay 2,,47.6715317,-122.11834,19,,0,,America/Los_Angeles,1,North east 76th St and 166th Ave north east - Bay two
 72478,72478,Downtown Redmond Station - Bay 3,,47.6720924,-122.119255,19,,0,,America/Los_Angeles,1,Cleveland St and 166th Avenue north east - Bay Three
 72479,72479,Downtown Redmond Station - Bay 4,,47.6723862,-122.120308,19,,0,,America/Los_Angeles,1,Cleveland St and 164th Ave north east - Bay four
@@ -5121,9 +5121,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 74071,74071,NE 124th St & 113th Ave NE,,47.7112579,-122.191063,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and 113th Avenue Northeast
 74072,74072,NE 124th St & 111th Ln NE,,47.7112579,-122.193596,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and 111th Lane Northeast
 74073,74073,NE 124th St & 109th Ct NE,,47.7112617,-122.197502,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and One Hundred Ninth Court Northeast
-74074,74074,NE 124th St & Willows Rd NE,,47.7116966,-122.158051,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and Willows Road Northeast
+74074,74074,NE 124th St & 137th Pl NE,,47.7116966,-122.158051,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and Willows Road Northeast
 74075,74075,NE 124th St & 103rd Ave NE,,47.7112732,-122.204239,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and 103rd Avenue Northeast
-74076,74076,NE 124th St & Willows Rd NE,,47.711319,-122.154747,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and Willows Road Northeast
+74076,74076,NE 124th St & 137th Pl NE,,47.7115135,-122.157135,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and Willows Road Northeast
 74077,74077,NE 124th St & 103rd Ave NE,,47.7111282,-122.204056,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and 103rd Avenue Northeast
 74078,74078,NE 124th St & 107th Pl NE,,47.7111206,-122.196762,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and 107th Place Northeast
 74079,74079,NE 124th St & 111th Ln NE,,47.7111206,-122.192825,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Fourth Street and 111th Lane Northeast
@@ -5227,7 +5227,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 74733,74733,Totem Lake Blvd & NE 124th St,,47.709137,-122.1763,19,,0,,America/Los_Angeles,1,Totem Lake Boulevard and Northeast One Hundred Twenty Fourth Street
 74734,74734,NE 128th St & I-405,,47.7148819,-122.185249,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Eighth Street and Eye Four Oh Five
 74735,74735,NE 128th St & 116th Ave NE,,47.7148781,-122.186028,19,,0,,America/Los_Angeles,1,Northeast One Hundred Twenty Eighth Street and One Hundred Sixteenth Avenue Northeast
-74741,74741,Totem Lake Blvd & 120th Ave NE,,47.71035,-122.179237,19,,0,,America/Los_Angeles,1,Totem Lake Blvd and 120th Avenue Northeast
+74741,74741,Totem Lake Blvd & 120th Ave NE,,47.7102547,-122.178513,19,,0,,America/Los_Angeles,1,Totem Lake Blvd and 120th Avenue Northeast
 74743,74743,Totem Lake Blvd & NE Village Plaza,,47.7133293,-122.183304,19,,0,,America/Los_Angeles,1,Totem Lake Blvd and Northeast Village Plaza
 74754,74754,NE 132nd St & 129th Pl NE,,47.718544,-122.16761,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and 129th Place Northeast
 74756,74756,NE 132nd St & 127th Dr NE,,47.7185173,-122.170288,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and 127th Drive Northeast
@@ -5278,13 +5278,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 75200,75200,N 145th St & Interlake Ave N,,47.7340622,-122.341095,20,,0,,America/Los_Angeles,1,North One Hundred Forty Fifth Street and Interlake Avenue North
 75210,75210,N 145th St & Courtland Pl N,,47.7340622,-122.337753,20,,0,,America/Los_Angeles,1,North One Hundred Forty Fifth Street and Courtland Place North
 75220,75220,N 145th St & Meridian Ave N,,47.7340622,-122.333954,20,,0,,America/Los_Angeles,,
-75230,75230,N 145th St & Corliss Ave N,,47.7340431,-122.331238,20,,0,,America/Los_Angeles,,
-75240,75240,NE 145th St & 1st Ave NE,,47.7340279,-122.328407,20,,0,,America/Los_Angeles,,
+75230,75230,N 145th St & Corliss Ave N,,47.7340431,-122.331116,20,,0,,America/Los_Angeles,1,North One Hundred Forty Fifth Street and Corliss Avenue North
+75240,75240,NE 145th St & 1st Ave NE,,47.7340279,-122.328407,20,,0,,America/Los_Angeles,1,Northeast One Hundred Forty Fifth Street and First Avenue Northeast
 7530,7530,Stone Way N & N Allen Pl,,47.6605759,-122.342079,1,,0,,America/Los_Angeles,1,Stone Way North and North Allen Place
 75304,75304,NE 135th St & 1st Ave NE,,47.7268677,-122.328461,1,,0,,America/Los_Angeles,1,Northeast 135th Street and First Avenue Northeast
 75310,75310,NE 145th St & 5th Ave NE,,47.7341232,-122.324081,20,,0,,America/Los_Angeles,,
-75320,75320,NE 145th St & 1st Ave NE,,47.7341614,-122.328804,20,,0,,America/Los_Angeles,,
-75330,75330,N 145th St & Corliss Ave N,,47.7341805,-122.331932,20,,0,,America/Los_Angeles,,
+75320,75320,NE 145th St & 1st Ave NE,,47.7341728,-122.329407,20,,0,,America/Los_Angeles,1,Northeast One Hundred Forty Fifth Street and First Avenue Northeast
+75330,75330,N 145th St & Corliss Ave N,,47.7341805,-122.331932,20,,0,,America/Los_Angeles,1,North One Hundred Forty Fifth Street and Corliss Avenue North
 75340,75340,N 145th St & Meridian Ave N,,47.7342072,-122.334717,20,,0,,America/Los_Angeles,1,North One Hundred Forty Fifth Street and Meridian Avenue North
 75350,75350,N 145th St & Courtland Pl N,,47.7342033,-122.338013,20,,0,,America/Los_Angeles,1,North One Hundred Forty Fifth Street and Courtland Place  North
 75360,75360,N 145th St & Interlake Ave N,,47.7341995,-122.341454,20,,0,,America/Los_Angeles,1,North One Hundred Forty Fifth Street and Interlake Avenue North
@@ -5638,7 +5638,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 80454,80454,28th Ave S & S 312th St,,47.3225136,-122.297577,24,,0,,America/Los_Angeles,1,28th Avenue South and South 312th Street
 80457,80457,23rd Ave S & S 314th St,,47.3199272,-122.304024,24,,0,,America/Los_Angeles,1,23rd Avenue South and South 314th Street
 80458,80458,S 317th St & 26th Ave S,,47.3178406,-122.299789,24,,0,,America/Los_Angeles,1,South 317th Street and 26th Avenue South
-80462,80462,S 317th St & 26th Ave S,,47.3176994,-122.299301,24,,0,,America/Los_Angeles,1,South 317th Street and 26th Avenue South
+80462,80462,S 317th St & 25th Pl S,,47.3176994,-122.299721,24,,0,,America/Los_Angeles,1,South 317th Street and 26th Avenue South
 80464,80464,28th Ave S & S 312th St,,47.3220673,-122.297401,24,,0,,America/Los_Angeles,1,28th Avenue South and South 312th Street
 80468,80468,S 312th St & 23rd Ave S,,47.3223953,-122.304527,24,,0,,America/Los_Angeles,1,South 312th Street and 23rd Avenue South
 80470,80470,S 312th St & 20th Ave S,,47.322422,-122.308571,24,,0,,America/Los_Angeles,1,South 312th Street and 20th Avenue South
@@ -5651,8 +5651,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 80485,80485,E Sunset Way & Rainier Blvd S,,47.5300255,-122.034233,19,,0,,America/Los_Angeles,1,East Sunset Way and Rainier Boulevard South
 80486,80486,Front St S & E Sunset Way,,47.5293274,-122.036667,19,,0,,America/Los_Angeles,1,Front Street South and East Sunset Way
 80488,80488,2nd Ave SE & SE Andrews St,,47.5290604,-122.032852,19,,0,,America/Los_Angeles,1,2nd Avenue Southeast and Southeast Andrews Street
-80489,80489,112th Ave NE & NE 2nd St,,47.6122322,-122.190796,19,,0,,America/Los_Angeles,,
-80492,80492,112th Ave NE & NE 4th St,,47.6125603,-122.190987,19,,0,,America/Los_Angeles,,
+80489,80489,112th Ave NE & NE 2nd St,,47.6122322,-122.190796,19,,0,,America/Los_Angeles,1,One Hundred Twelfth Avenue Northeast and Northeast Second Street
+80492,80492,112th Ave NE & NE 4th St,,47.6125603,-122.190987,19,,0,,America/Los_Angeles,1,One Hundred Twelfth Avenue Northeast and Northeast Fourth Street
 80496,80496,Avondale Way NE & 170th Pl NE,,47.6728363,-122.11203,19,,0,,America/Los_Angeles,1,Avondale Way Northeast and One Hundred Seventieth Place Northeast
 80497,80497,NE 4th St & 114th Ave NE,,47.6137848,-122.189987,19,,0,,America/Los_Angeles,1,Northeast Fourth Street and 114th Avenue Northeast
 80498,80498,Avondale Way NE & NE Redmond Way,,47.6723557,-122.115021,19,,0,,America/Los_Angeles,,
@@ -5760,7 +5760,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 81249,81249,5th Ave NE & NE 165th St,,47.7489738,-122.32383,18,,0,,America/Los_Angeles,1,5th Avenue Northeast and Northeast One Hundred Sixty Fifth Street
 81252,81252,5th Ave NE & NE 155th St,,47.741066,-122.323792,18,,0,,America/Los_Angeles,1,5th Avenue Northeast and Northeast One Hundred Fifty Fifth Street
 81254,81254,5th Ave NE & NE 152nd St,,47.7387314,-122.323723,18,,0,,America/Los_Angeles,1,5th Avenue Northeast and Northeast One Hundred Fifty Second Street
-81294,81294,1st Ave NE & NE 140th St,,47.730999,-122.328773,1,,0,,America/Los_Angeles,2,1st Avenue Northeast and Northeast One Hundred Fortieth Street
+81294,81294,1st Ave NE & NE 140th St,,47.730999,-122.328773,1,,0,,America/Los_Angeles,1,1st Avenue Northeast and Northeast One Hundred Fortieth Street
 81299,81299,Shoreline South/148th Station - Bay 1,,47.7367439,-122.325256,18,,0,,America/Los_Angeles,0,Shoreline South slash One Hundred Forty Eighth Station - Bay One
 81301,81301,Shoreline South/148th Station - Bay 2,,47.7361488,-122.325119,18,,0,,America/Los_Angeles,0,Shoreline South slash One Hundred Forty Eighth Station - Bay Two
 81302,81302,5th Ave NE & NE 152nd St,,47.7390633,-122.323532,18,,0,,America/Los_Angeles,1,5th Avenue Northeast and Northeast One Hundred Fifty Second Street
@@ -5902,7 +5902,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 81884,81884,Sahalee Way NE & Redmond Fall City Rd,,47.655201,-122.062508,40,,0,,America/Los_Angeles,1,Sahalee Way Northeast and Redmond Fall City Road
 8190,8190,Rainier Ave S & S Holly St,,47.5427284,-122.272881,1,,0,,America/Los_Angeles,1,Rainier Avenue South and South Holly Street
 81981,81981,Van Ry Blvd & Mountlake Dr,,47.7804031,-122.314667,17,,0,,America/Los_Angeles,1,Van Ry Boulevard and Mountlake Drive
-81982,81982,Van Ry Blvd & Mountlake Terrace Station,,47.7812538,-122.315254,17,,0,,America/Los_Angeles,1,Van Ry Boulevard and Mountlake Terrace Station
+81982,81982,Van Ry Blvd & Terrace Station,,47.7812538,-122.315254,17,,0,,America/Los_Angeles,1,Van Ry Boulevard and Mountlake Terrace Station
 820,820,5th Ave & Jefferson St,,47.6030922,-122.328766,21,,0,,America/Los_Angeles,1,5th Avenue and Jefferson Street
 8210,8210,Rainier Ave S & S Graham St,,47.5459175,-122.275703,1,,0,,America/Los_Angeles,1,Rainier Avenue South and South Graham Street
 82104,82104,Ballinger Way NE & 37th Ave NE,,47.7615433,-122.287971,19,,0,,America/Los_Angeles,1,Ballinger Way Northeast and 37th Avenue Northeast
@@ -5995,9 +5995,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 82718,82718,I-405 & SE 8th St,,47.6034737,-122.184975,19,,0,,America/Los_Angeles,1,Eye Four Oh Five and Southeast Eighth Street
 82720,82720,Main St & 106th Ave SE,,47.6100655,-122.199127,19,,0,,America/Los_Angeles,,
 82730,82730,Main St & 108th Ave SE,,47.6100349,-122.19545,19,,0,,America/Los_Angeles,1,Main Street and One Hundred Eighth Avenue Southeast
-82741,82741,112th Ave NE & Main St,,47.6103859,-122.190727,19,,0,,America/Los_Angeles,,
-82742,82742,112th Ave NE & Main St,,47.6114235,-122.190956,19,,0,,America/Los_Angeles,,
-82749,82749,112th Ave SE & SE 4th St,,47.6068611,-122.190872,19,,0,,America/Los_Angeles,1,One Hundred Twelfth Avenue Southeast and Southeast Fourth Street
+82741,82741,112th Ave NE & Main St,,47.6103859,-122.190727,19,,0,,America/Los_Angeles,1,One Hundred Twelfth Avenue Northeast and Main Street
+82742,82742,112th Ave NE & Main St,,47.6114235,-122.190956,19,,0,,America/Los_Angeles,1,One Hundred Twelfth Avenue Northeast and Main Street
+82749,82749,112th Ave SE & SE 4th St - Bay 1,,47.6068611,-122.190872,19,,0,,America/Los_Angeles,1,One Hundred Twelfth Avenue Southeast and Southeast Fourth Street
 82760,82760,112th Ave SE & SE 4th St,,47.6043015,-122.190834,19,,0,,America/Los_Angeles,1,One Hundred Twelfth Avenue Southeast and Southeast Fourth Street
 82772,82772,Ballinger Way NE & 19th Ave NE,,47.7740555,-122.308807,18,,0,,America/Los_Angeles,1,Ballinger Way Northeast and 19th Avenue Northeast
 82775,82775,Ballinger Way NE & 23rd Ave NE,,47.7724228,-122.306374,18,,0,,America/Los_Angeles,1,Ballinger Way Northeast and 23rd Avenue Northeast
@@ -6007,7 +6007,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 82780,82780,I-405 & Lake Washington Blvd SE,,47.5571404,-122.189278,19,,0,,America/Los_Angeles,1,Eye Four Oh Five and Lake Washington Boulevard Southeast
 82788,82788,Coal Creek Pkwy SE & SE 89th Pl,,47.5240936,-122.162445,19,,0,,America/Los_Angeles,1,Coal Creek Parkway Southeast and Southeast 89th Place
 82789,82789,Coal Creek Pkwy SE & SE 84th Way,,47.5288315,-122.163307,19,,0,,America/Los_Angeles,1,Coal Creek Parkway Southeast and Southeast 84th Way
-82790,82790,112th Ave SE & SE 4th St,,47.6068497,-122.190674,19,,0,,America/Los_Angeles,1,One Hundred Twelfth Avenue Southeast and Southeast Fourth Street
+82790,82790,112th Ave SE & SE 4th St - Bay 2,,47.6068497,-122.190674,19,,0,,America/Los_Angeles,1,One Hundred Twelfth Avenue Southeast and Southeast Fourth Street
 82791,82791,Coal Creek Pkwy SE & SE 91st St,,47.5203743,-122.159126,19,,0,,America/Los_Angeles,1,Coal Creek Parkway Southeast and Southeast 91st Street
 82792,82792,Coal Creek Pkwy SE & SE 76th St,,47.5342903,-122.164268,19,,0,,America/Los_Angeles,1,Coal Creek Parkway Southeast and Southeast 76th Street
 82793,82793,Coal Creek Pkwy SE & SE 89th Pl,,47.5244064,-122.162338,19,,0,,America/Los_Angeles,1,Coal Creek Parkway Southeast and Southeast 89th Place
@@ -6161,8 +6161,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 85280,85280,NE 132nd St & 109th Ave NE,,47.7184181,-122.196777,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and One Hundred Ninth Avenue Northeast
 85290,85290,NE 132nd St & 111th Ave NE,,47.7183952,-122.193146,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and 111th Avenue Northeast
 8530,8530,S Jackson St & Boren Ave S,,47.5992737,-122.315155,1,,0,,America/Los_Angeles,1,South Jackson Street and Boren Avenue South
-85300,85300,NE 132nd St & 116th Way NE,,47.7183647,-122.189507,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and One Hundred Sixteenth Way Northeast
-85310,85310,NE 132nd St & 114th Pl NE,,47.7184906,-122.189003,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and 114th Place Northeast
+85300,85300,NE 132nd St & 116th Way NE,,47.7183685,-122.189507,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and One Hundred Sixteenth Way Northeast
+85310,85310,NE 132nd St & 114th Pl NE,,47.7184982,-122.189003,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and 114th Place Northeast
 85320,85320,NE 132nd St & 111th Ave NE,,47.7185402,-122.193932,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and 111th Avenue Northeast
 85330,85330,NE 132nd St & 108th Ave NE,,47.7185555,-122.197517,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and One Hundred Eighth Avenue Northeast
 85340,85340,NE 132nd St & 104th Pl NE,,47.7185555,-122.201775,19,,0,,America/Los_Angeles,1,Northeast One Hundred Thirty Second Street and One Hundred Fourth Place Northeast
@@ -6179,11 +6179,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 85460,85460,116th Ave NE & NE 124th St,,47.7118416,-122.18644,19,,0,,America/Los_Angeles,1,One Hundred Sixteenth Avenue Northeast and Northeast One Hundred Twenty Fourth Street
 85489,85489,108th Ave NE & NE 2nd St,,47.6116524,-122.196312,19,,0,,America/Los_Angeles,1,One Hundred Eighth Avenue Northeast and Northeast Second Street
 8550,8550,Rainier Ave S & S King St,,47.5984726,-122.313629,1,,0,,America/Los_Angeles,1,Rainier Avenue South and South King Street
-85532,85532,Federal Way Downtown Station - Bay 2,,47.3168335,-122.30368,24,,0,,America/Los_Angeles,1,Federal Way Downtown Station - Bay Two
-85538,85538,Federal Way Downtown Station - Bay 8,,47.3166771,-122.303558,24,,0,,America/Los_Angeles,1,Federal Way Downtown Station - Bay eight
-85539,85539,Federal Way Downtown Station - Bay 9,,47.3169327,-122.303398,24,,0,,America/Los_Angeles,1,Federal Way Downtown Station - Bay Nine
-85540,85540,Federal Way Downtown Station - Bay 10,,47.3171043,-122.303299,24,,0,,America/Los_Angeles,1,Federal Way Downtown Station - Bay ten
-85541,85541,Federal Way Downtown Station - Bay 11,,47.316452,-122.30323,24,,0,,America/Los_Angeles,1,23rd Avenue south and South 319th Place - Bay Eleven
+85532,85532,Federal Way Downtown Station - Bay 2,,47.3168335,-122.30368,24,,0,,America/Los_Angeles,0,Federal Way Downtown Station - Bay Two
+85538,85538,Federal Way Downtown Station - Bay 8,,47.3166771,-122.303558,24,,0,,America/Los_Angeles,0,Federal Way Downtown Station - Bay eight
+85539,85539,Federal Way Downtown Station - Bay 9,,47.3169327,-122.303398,24,,0,,America/Los_Angeles,0,Federal Way Downtown Station - Bay Nine
+85540,85540,Federal Way Downtown Station - Bay 10,,47.3171043,-122.303299,24,,0,,America/Los_Angeles,0,Federal Way Downtown Station - Bay ten
+85541,85541,Federal Way Downtown Station - Bay 11,,47.316452,-122.30323,24,,0,,America/Los_Angeles,0,23rd Avenue south and South 319th Place - Bay Eleven
 85542,85542,Federal Way Downtown Station - Bay 12,,47.3151779,-122.305496,24,,0,,America/Los_Angeles,1,South 320th St and 22nd Ave South - Bay twelve
 85543,85543,Federal Way Downtown Station - Bay 13,,47.3150368,-122.30439,24,,0,,America/Los_Angeles,1,south 320th St and 23rd Ave South - Bay thirteen
 85630,85630,Bellevue Transit Center - Bay 1,,47.6156883,-122.196411,19,,0,,America/Los_Angeles,1,Bellevue Transit Center - Bay One
@@ -6350,7 +6350,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 99297,99297,Maple Vally - Black Diamond Rd SE & SE 244th St,,47.3830757,-122.031708,40,,0,,America/Los_Angeles,1,Maple Vally - Black Diamond Road Southeast and Southeast Two Hundred Forty Fourth Street
 9930,9930,Sand Point Way NE & NE 62nd St,,47.6736374,-122.266251,1,,0,,America/Los_Angeles,1,Sand Point Way Northeast and Northeast Sixty Second Street
 99300,99300,Renton Maple Valley Rd & 131st Ave SE,,47.4706154,-122.162575,24,,0,,America/Los_Angeles,1,Renton Maple Valley Road and One Hundred Thirty First Avenue Southeast
-99301,99301,Maple Vally - Black Diamond Rd SE & SE Maple Ridge Dr,,47.3548584,-122.019394,40,,0,,America/Los_Angeles,1,Maple Vally - Black Diamond Road Southeast and Southeast Maple Ridge Drive
+99301,99301,Maple Vally - Black Diamond Rd SE & SE Maple Ridge Dr,,47.3548584,-122.019424,40,,0,,America/Los_Angeles,1,Maple Vally - Black Diamond Road Southeast and Southeast Maple Ridge Drive
 99303,99303,Maple Vally - Black Diamond Rd SE & SE 280th St,,47.3515015,-122.019127,40,,0,,America/Los_Angeles,1,Maple Vally - Black Diamond Road Southeast and Southeast 280th Street
 99310,99310,Renton Maple Valley Rd & 131st Ave SE,,47.4710541,-122.163292,24,,0,,America/Los_Angeles,1,Renton Maple Valley Road and One Hundred Thirty First Avenue Southeast
 99312,99312,Maple Vally - Black Diamond Rd SE & SE 280th St,,47.3504143,-122.019249,40,,0,,America/Los_Angeles,1,Maple Vally - Black Diamond Road Southeast and Southeast 280th Street
@@ -6399,7 +6399,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 99477,99477,Roosevelt Ave & Loraine St,,47.1994324,-122.001762,40,,0,,America/Los_Angeles,1,Roosevelt Avenue and Loraine Street
 99478,99478,Semanski St & Roosevelt Ave,,47.1988716,-122.005653,40,,0,,America/Los_Angeles,1,Semanski Street and Roosevelt Avenue
 99479,99479,Semanski St & Christianson Ave,,47.1965752,-122.00563,40,,0,,America/Los_Angeles,1,Semanski Street and Christianson Avenue
-99481,99481,Semanski St & Warner Ave,,47.1921501,-122.005615,40,,0,,America/Los_Angeles,1,Semanski Street and Warner Avenue
+99481,99481,Semanski St & Warner Ave,,47.1922379,-122.005653,40,,0,,America/Los_Angeles,1,Semanski Street and Warner Avenue
 99482,99482,School District Rd & Mcdougall Ave,,47.1891174,-122.007675,40,,0,,America/Los_Angeles,1,School District Road and Mcdougall Avenue
 99483,99483,SE 272nd St & 228th Ave SE,,47.3580704,-122.035843,40,,0,,America/Los_Angeles,1,Southeast Two Hundred Seventy Second Street and 228th Avenue Southeast
 99497,99497,Maple Valley Hwy & Cedar River Park Dr,,47.4813652,-122.192856,24,,0,,America/Los_Angeles,1,Maple Valley Highway and Cedar River Park Drive
@@ -6461,7 +6461,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 16310,16310,Meridian Ave N & N 155th St,,47.7411385,-122.334579,18,,0,,America/Los_Angeles,,
 16340,16340,Meridian Ave N & N 148th St,,47.736145,-122.33445,18,,0,,America/Los_Angeles,,
 16409,16409,NE Ravenna Blvd & I-5,,47.6747398,-122.321442,1,,0,,America/Los_Angeles,,
-16465,16465,NE Ravenna Blvd & Roosevelt Way NE,,47.6718483,-122.316971,1,,0,,America/Los_Angeles,,
+16465,16465,NE Ravenna Blvd & Roosevelt Way NE,,47.6718483,-122.316971,1,,0,,America/Los_Angeles,1,Northeast Ravenna Boulevard and Roosevelt Way Northeast
 16580,16580,Meridian Ave N & N 148th St,,47.7366714,-122.334251,18,,0,,America/Los_Angeles,,
 16590,16590,Meridian Ave N & N 150th St,,47.7380981,-122.334282,18,,0,,America/Los_Angeles,,
 17100,17100,N 80th St & Corliss Ave N,,47.6867981,-122.330688,1,,0,,America/Los_Angeles,,
@@ -6477,8 +6477,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 18390,18390,Dexter Ave N & Harrison St,,47.6218643,-122.342476,1,,0,,America/Los_Angeles,,
 1890,1890,Marion St & 1st Ave,,47.6041451,-122.335022,21,,0,,America/Los_Angeles,,
 23510,23510,11th Ave NE & NE 52nd St,,47.6667137,-122.316208,1,,0,,America/Los_Angeles,,
-23593,23593,12th Ave NE & NE 75th St,,47.6833801,-122.315186,1,,0,,America/Los_Angeles,,
-23594,23594,Lake City Way NE & 16th Ave NE,,47.6879768,-122.311371,1,,0,,America/Los_Angeles,,
+23593,23593,12th Ave NE & NE 75th St,,47.6833801,-122.315186,1,,0,,America/Los_Angeles,1,12th Avenue Northeast and Northeast 75th Street
+23594,23594,Lake City Way NE & 16th Ave NE,,47.6877823,-122.311646,1,,0,,America/Los_Angeles,1,Lake City Way Northeast and 16th Avenue Northeast
 25752,25752,Montlake Blvd E & E Shelby St,,47.6462822,-122.304436,1,,0,,America/Los_Angeles,,
 26210,26210,NE Ravenna Blvd & Woodlawn Ave NE,,47.6787758,-122.325226,1,,0,,America/Los_Angeles,,
 26220,26220,4th Ave NE & NE 65th St,,47.6759491,-122.32457,1,,0,,America/Los_Angeles,,
@@ -6531,10 +6531,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 28880,28880,3rd Ave NW & NW 140th St,,47.7307892,-122.36084,1,,0,,America/Los_Angeles,,
 28890,28890,3rd Ave NW & NW 143rd St,,47.7325745,-122.36084,1,,0,,America/Los_Angeles,,
 36430,36430,SW Morgan St & 36th Ave SW,,47.5446396,-122.377914,1,,0,,America/Los_Angeles,,
-38230,38230,Lake City Way NE & NE 95th St,,47.6978111,-122.305443,1,,0,,America/Los_Angeles,,
-38236,38236,Lake City Way NE & 14th Ave NE,,47.6870918,-122.312927,1,,0,,America/Los_Angeles,,
-38237,38237,Lake City Way NE & NE 75th St,,47.6832581,-122.316948,1,,0,,America/Los_Angeles,,
-38560,38560,Lake City Way NE & NE 95th St,,47.6978989,-122.305168,1,,0,,America/Los_Angeles,,
+38230,38230,Lake City Way NE & NE 95th St,,47.6978111,-122.305443,1,,0,,America/Los_Angeles,1,Lake City Way Northeast and Northeast 95th Street
+38236,38236,Lake City Way NE & 14th Ave NE,,47.6870918,-122.312927,1,,0,,America/Los_Angeles,1,Lake City Way Northeast and 14th Avenue Northeast
+38237,38237,Lake City Way NE & NE 75th St,,47.6832581,-122.316948,1,,0,,America/Los_Angeles,1,Lake City Way Northeast and Northeast 75th Street
+38560,38560,Lake City Way NE & NE 95th St,,47.6978989,-122.305168,1,,0,,America/Los_Angeles,1,Lake City Way Northeast and Northeast 95th Street
 38950,38950,15th Ave NE & NE 115th St,,47.7124672,-122.312546,1,,0,,America/Los_Angeles,,
 38970,38970,15th Ave NE & NE Northgate Way,,47.7083092,-122.312538,1,,0,,America/Los_Angeles,,
 38990,38990,15th Ave NE & NE 104th St,,47.7037811,-122.312477,1,,0,,America/Los_Angeles,,
@@ -6599,7 +6599,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 82180,82180,NE 145th St & 8th Ave NE,,47.7341042,-122.321373,20,,0,,America/Los_Angeles,,
 82200,82200,NE 145th St & 6th Ave NE,,47.7339783,-122.322235,20,,0,,America/Los_Angeles,,
 82220,82220,NE 145th St & 12th Ave NE,,47.7339096,-122.315598,20,,0,,America/Los_Angeles,,
-82270,82270,NE 145th St & 30th Ave NE,,47.7337112,-122.295761,20,,0,,America/Los_Angeles,,
+82270,82270,NE 145th St & 30th Ave NE,,47.7337112,-122.295761,20,,0,,America/Los_Angeles,1,Northeast 145th Street and 30th Avenue Northeast
 82327,82327,Ballinger Way NE & 19th Ave NE,,47.7746811,-122.309448,18,,0,,America/Los_Angeles,,
 82328,82328,Ballinger Way NE & 15th Ave NE,,47.7768707,-122.312592,18,,0,,America/Los_Angeles,,
 82405,82405,48th Ave W & 244th St SW,,47.7776833,-122.297684,17,,0,,America/Los_Angeles,,
@@ -6732,7 +6732,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 38070,,30th Ave NE & NE 137th St,,47.7279778,-122.296539,1,,0,,America/Los_Angeles,,
 38330,,15th Ave NE & NE 80th St,,47.6864052,-122.312248,1,,0,,America/Los_Angeles,,
 38430,,15th Ave NE & NE 75th St,,47.6832924,-122.311989,1,,0,,America/Los_Angeles,,
-38830,38830,15th Ave NE & NE 145th St,,47.7335167,-122.312851,1,,0,,America/Los_Angeles,,
+38830,38830,15th Ave NE & NE 145th St,,47.7335167,-122.312851,1,,0,,America/Los_Angeles,1,15th Avenue Northeast and Northeast 145th Street
 40075,40075,Gilman Ave W & 23rd Ave W,,47.6554451,-122.385811,1,,0,,America/Los_Angeles,,
 455,,University St Stn & 3rd Av - Seneca Or University Street - Bay C,,47.6072464,-122.335754,21,,0,,America/Los_Angeles,,
 501,,Pioneer Sq Stn & 3rd Av - James - Bay C,,47.6021385,-122.331055,21,,0,,America/Los_Angeles,,
@@ -6900,7 +6900,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 46712,46712,Union Ave NE & NE 4th St,,47.4881973,-122.164268,24,,0,,America/Los_Angeles,,
 46714,46714,Union Ave NE & NE 3rd Ct,,47.4862747,-122.164268,24,,0,,America/Los_Angeles,,
 46716,46716,Union Ave NE & NE 1st Pl,,47.4839897,-122.164253,24,,0,,America/Los_Angeles,,
-47735,47735,Sr 509 & S 128th St,,47.4891739,-122.325798,24,,0,,America/Los_Angeles,,
+47735,47735,Sr 509 & S 128th St,,47.4891739,-122.325798,24,,0,,America/Los_Angeles,1,State Route 509 and South 128th Street
 47968,47968,S 272nd St & S Star Lake Rd,,47.358017,-122.305008,24,,0,,America/Los_Angeles,,
 47971,47971,S 272nd St & Pacific Hwy S,,47.357872,-122.308342,24,,0,,America/Los_Angeles,,
 53332,53332,Union Ave SE & SE 2nd Pl,,47.4816704,-122.164268,24,,0,,America/Los_Angeles,,
@@ -6981,7 +6981,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 84029,84029,NE Woodinville Duvall Rd & 204th Ave NE,,47.7546654,-122.067505,40,,0,,America/Los_Angeles,1,Northeast Woodinville Duvall Road and 204th Avenue Northeast
 84031,84031,NE Woodinville Duvall Rd & 198th Ave NE,,47.7542343,-122.075775,40,,0,,America/Los_Angeles,1,Northeast Woodinville Duvall Road and 198th Avenue Northeast
 84068,84068,NE Woodinville Duvall Rd & Mink Rd NE,,47.7549858,-122.062263,40,,0,,America/Los_Angeles,1,Northeast Woodinville Duvall Road and Mink Road Northeast
-85069,85069,Sr 509 & S 128th St,,47.4878998,-122.32737,24,,0,,America/Los_Angeles,,
+85069,85069,Sr 509 & S 128th St,,47.4878998,-122.32737,24,,0,,America/Los_Angeles,1,State Route 509 and South 128th Street
 85250,85250,Mntlake Terrace Park & Ride Acs & 236th St SW - Bay 2,,47.7853851,-122.312492,17,,0,,America/Los_Angeles,,
 85251,85251,Mntlake Terrace Park & Ride Acs & 236th St SW,,47.7852707,-122.313011,17,,0,,America/Los_Angeles,,
 74739,74739,NE 124th St & 124th Ave NE,,47.7087784,-122.176834,19,,0,,America/Los_Angeles,,
@@ -6991,21 +6991,21 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 80651,80651,SW Grady Way & Lind Ave SW,,47.4697685,-122.224319,24,,0,,America/Los_Angeles,,
 18151,18151,Leary Ave NW & NW Dock Pl,,47.664566,-122.379784,1,,0,,America/Los_Angeles,1,Leary Avenue Northwest and Northwest Dock Place
 21361,21361,16th Ave SW & SW Trenton St,,47.5245476,-122.355179,1,,0,,America/Los_Angeles,1,16th Avenue Southwest and Southwest Trenton Street
-2207,2207,Galaxy Way & N Kelsey St,,47.8655891,-121.973129,15,,0,,America/Los_Angeles,0,Galaxy Way and North Kelsey Street
-2208,2208,Us Hwy 2 & E Main St,,47.858223,-121.965927,15,,0,,America/Los_Angeles,0,US Highway two and East Main Street
-2209,2209,Us Hwy 2 & E Main St,,47.858429,-121.966248,15,,0,,America/Los_Angeles,0,US Highway two and East Main Street
+2207,2207,Galaxy Way & N Kelsey St,,47.8655891,-121.973129,15,,0,,America/Los_Angeles,1,Galaxy Way and North Kelsey Street
+2208,2208,Us Hwy 2 & E Main St,,47.858223,-121.965927,15,,0,,America/Los_Angeles,1,US Highway two and East Main Street
+2209,2209,Us Hwy 2 & E Main St,,47.858429,-121.966248,15,,0,,America/Los_Angeles,1,US Highway two and East Main Street
 22242,22242,SW Henderson St & 17th Ave SW,,47.522934,-122.356941,1,,0,,America/Los_Angeles,1,Southwest Henderson Street and 17th Avenue Southwest
 2249,2249,Denny Way & 7th Ave N,,47.6186256,-122.343323,1,,0,,America/Los_Angeles,1,Denny Way and Seventh Avenue North
 25751,25751,Montlake Blvd E & Sr 520,,47.6444321,-122.30423,1,,0,,America/Los_Angeles,1,Montlake Boulevard East and State Route five twenty
-25753,25753,Sr 520 & Montlake Blvd E,,47.6447372,-122.304054,1,,0,,America/Los_Angeles,0,State route five twenty and Montlake Blvd East
-25754,25754,Sr 520 & Montlake Blvd E,,47.6445961,-122.304039,1,,0,,America/Los_Angeles,0,State route five twenty and Montlake Blvd East
-29238,29238,East Montlake Pl E & E Roanoke St,,47.6433144,-122.303467,1,,0,,America/Los_Angeles,0,East Montlake place east and east Roanoke street
+25753,25753,Sr 520 & Montlake Blvd E,,47.6447372,-122.304054,1,,0,,America/Los_Angeles,1,State route five twenty and Montlake Blvd East
+25754,25754,Sr 520 & Montlake Blvd E,,47.6445961,-122.304039,1,,0,,America/Los_Angeles,1,State route five twenty and Montlake Blvd East
+29238,29238,East Montlake Pl E & E Roanoke St,,47.6433144,-122.303467,1,,0,,America/Los_Angeles,1,East Montlake place east and east Roanoke street
 3735,3735,14th Ave S & Golf Dr S,,47.5922699,-122.314941,1,,0,,America/Los_Angeles,1,14th Ave South and Golf drive south
 42961,42961,Kent Des Moines Station - Bay 5,,47.3898811,-122.295448,24,,0,,America/Los_Angeles,1,Kent Des Moines Station Bay Five
-48948,48948,Pacific Hwy S & S 240th St,,47.3861618,-122.296715,24,,0,,America/Los_Angeles,0,Pacific Highway South and South 240th Street
-49012,49012,24th Ave S & S 223rd St,,47.4018021,-122.302605,24,,0,,America/Los_Angeles,0,24th Avenue South and South 223rd Street
+48948,48948,Pacific Hwy S & S 240th St,,47.3861618,-122.296715,24,,0,,America/Los_Angeles,1,Pacific Highway South and South 240th Street
+49012,49012,24th Ave S & S 223rd St,,47.4018021,-122.302605,24,,0,,America/Los_Angeles,1,24th Avenue South and South 223rd Street
 50479,50479,Kent Des Moines Station - Bay 6,,47.3891869,-122.295967,24,,0,,America/Los_Angeles,1,Kent Des Moines Station Bay Six
-53537,53537,S 272nd St & 26th Ave S,,47.357975,-122.300217,24,,0,,America/Los_Angeles,0,South 272nd Street and 26th Avenue South
+53537,53537,S 272nd St & 26th Ave S,,47.357975,-122.300217,24,,0,,America/Los_Angeles,1,South 272nd Street and 26th Avenue South
 58796,58796,Kent Des Moines Rd & Military Rd S,,47.3912773,-122.289314,24,,0,,America/Los_Angeles,1,Kent Des Moines Road and Military Road South
 63820,63820,180th Ave NE & NE 68th St,,47.6676559,-122.100044,19,,0,,America/Los_Angeles,1,180th Avenue Northeast and Northeast 68th Street
 64170,64170,Newport Way NW & Anthology Ave NW,,47.5500412,-122.074326,19,,0,,America/Los_Angeles,1,Newport Way Northwest and Anthology Avenue Northwest
@@ -7047,9 +7047,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 72289,72289,NE 68th St & 110th Ave NE,,47.6661987,-122.193199,19,,0,,America/Los_Angeles,1,Northeast 68th Street and 110th Avenue Northeast
 73493,73493,NE 104th St & 170th Ave NE,,47.6928291,-122.113846,19,,0,,America/Los_Angeles,1,Northeast 104th Street and 170th Avenue Northeast
 73495,73495,NE 104th St & 172nd Ave NE,,47.6928253,-122.109253,19,,0,,America/Los_Angeles,1,Northeast 104th Street and 172nd Avenue Northeast
-73525,73525,NE 116th St & 172nd Ave NE,,47.703743,-122.111511,19,,0,,America/Los_Angeles,1,Northeast 116th Street and 172nd Avenue Northeast
+73525,73525,NE 116th St & 172nd Ave NE,,47.7037659,-122.111588,19,,0,,America/Los_Angeles,1,Northeast 116th Street and 172nd Avenue Northeast
 73530,73530,NE 116th St & 165th Pl NE,,47.7039413,-122.119408,19,,0,,America/Los_Angeles,1,Northeast 116th Street and 165th Place Northeast
-73538,73538,NE 116th St & 172nd Ave NE,,47.703907,-122.110252,19,,0,,America/Los_Angeles,1,Northeast 116th Street and 172nd Avenue Northeast
+73538,73538,NE 116th St & 172nd Ave NE,,47.7038841,-122.110214,19,,0,,America/Los_Angeles,1,Northeast 116th Street and 172nd Avenue Northeast
 73544,73544,NE 116th St & 174th Pl NE,,47.7038574,-122.107147,19,,0,,America/Los_Angeles,1,Northeast 116th Street and 174th Place Northeast
 73548,73548,NE 116th St & 178th Pl NE,,47.7038231,-122.101891,19,,0,,America/Los_Angeles,1,Northeast 116th Street and 178th Place Northeast
 73549,73549,176th Ave NE & NE 108th Way,,47.6968994,-122.104736,19,,0,,America/Los_Angeles,2,176th Avenue Northeast and Northeast 108th Way
@@ -7063,12 +7063,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 74123,74123,NE 111th St & 172nd Ave NE,,47.6996002,-122.110771,19,,0,,America/Los_Angeles,1,Northeast 111th Street and 172nd Avenue Northeast
 74124,74124,162nd Ave NE & NE 112th St,,47.7003365,-122.123405,19,,0,,America/Los_Angeles,2,162nd Avenue Northeast and Northeast 112th Street
 74136,74136,NE 116th St & 162nd Ave NE,,47.703949,-122.122849,19,,0,,America/Los_Angeles,1,Northeast 116th Street and 162nd Avenue Northeast
-74137,74137,162nd Ave NE & NE 116th St,,47.7036591,-122.123253,19,,0,,America/Los_Angeles,1,162nd Avenue Northeast and Northeast 116th Street
+74137,74137,162nd Ave NE & NE 116th St,,47.7035179,-122.123245,19,,0,,America/Los_Angeles,1,162nd Avenue Northeast and Northeast 116th Street
 74162,74162,166th Ave NE & NE 111th St,,47.6987343,-122.119392,19,,0,,America/Los_Angeles,2,166th Avenue Northeast and Northeast 111th Street
 74163,74163,166th Ave NE & NE 111th St,,47.6986313,-122.119171,19,,0,,America/Los_Angeles,1,166th Avenue Northeast and Northeast 111th Street
-74439,74439,120th Ave NE & NE Spring Blvd,,47.6235046,-122.179794,19,,0,,America/Los_Angeles,1,120th Avenue Northeast and Northeast Spring Boulevard
-74443,74443,120th Ave NE & NE Spring Blvd,,47.6239853,-122.179588,19,,0,,America/Los_Angeles,1,120th Avenue Northeast and Northeast Spring Boulevard
-75889,75889,N 175th St & Midvale Ave N,,47.7560349,-122.343872,18,,0,,America/Los_Angeles,0,North 175th Street and Midvale Avenue North
+74439,74439,120th Ave NE & NE Spring Blvd - Bay 2,,47.6235046,-122.179794,19,,0,,America/Los_Angeles,1,120th Avenue Northeast and Northeast Spring Boulevard
+74443,74443,120th Ave NE & NE Spring Blvd - Bay 1,,47.6239853,-122.179588,19,,0,,America/Los_Angeles,1,120th Avenue Northeast and Northeast Spring Boulevard
+75889,75889,N 175th St & Midvale Ave N,,47.7560349,-122.343872,18,,0,,America/Los_Angeles,1,North 175th Street and Midvale Avenue North
 75966,75966,Carnation Duvall Rd NE & NE Big Rock Rd,,47.728714,-121.987022,40,,0,,America/Los_Angeles,1,Carnation Duvall Road Northeast and Northeast Big Rock Road
 76012,76012,NE 192nd Pl & NE Hollyhills Dr,,47.7662277,-122.169304,19,,0,,America/Los_Angeles,1,Northeast 192nd Place and Northeast Hollyhills Drive
 76031,76031,NE 192nd Pl & NE Hollyhills Dr,,47.7660255,-122.169128,19,,0,,America/Los_Angeles,1,Northeast 192nd Place and Northeast Hollyhills Drive
@@ -7106,6 +7106,133 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 84038,84038,NE Woodinville Duvall Rd & 156th Ave NE,,47.7616653,-122.132645,19,,0,,America/Los_Angeles,1,Northeast Woodinville Duvall Road and 156th Avenue Northeast
 84040,84040,NE Woodinville Duvall Rd & NE 178th St,,47.7557411,-122.149307,19,,0,,America/Los_Angeles,1,Northeast Woodinville Duvall Road and Northeast 178th Street
 84051,84051,NE Woodinville Duvall Rd & Cottage Lake Park Rd,,47.7580376,-122.087463,40,,0,,America/Los_Angeles,1,Northeast Woodinville Duvall Road and Cottage Lake Park Road
-85531,85531,Federal Way Downtown Station - Bay 1,,47.3170509,-122.303543,24,,0,,America/Los_Angeles,1,Federal Way Downtown Station - Bay One
+85531,85531,Federal Way Downtown Station - Bay 1,,47.3170509,-122.303543,24,,0,,America/Los_Angeles,0,Federal Way Downtown Station - Bay One
 8671,8671,Martin L King Jr Way S & S Mcclellan St,,47.5786171,-122.296089,1,,0,,America/Los_Angeles,1,Martin Luther King Junior Way South and south Mcclellan Street
 99441,99441,Maple Vally - Black Diamond Rd SE & SE 260th St,,47.3693123,-122.022606,40,,0,,America/Los_Angeles,0,Maple Valley Black Diamond Road Southeast and Southeast 260th Street
+12493,12493,S Massachusetts St & 26th Ave S,,47.5883865,-122.298805,1,,0,,America/Los_Angeles,1,South Massachusetts Street and 26th Avenue South
+1557,1557,1st Ave & Marion St,,47.604375952,-122.335763382,1,,0,,America/Los_Angeles,1,1st Avenue and Marion Street
+200,200,1st Ave & Pine St,,47.609692166,-122.340631931,1,,0,,America/Los_Angeles,1,1st Avenue and Pine Street
+2263,2263,Denny Way & Stewart St,,47.6185799,-122.331482,1,,0,,America/Los_Angeles,1,Denny Way and Stewart Street
+230,230,1st Ave & Bell St,,47.613751994,-122.346883856,1,,0,,America/Los_Angeles,1,1st Avenue and Bell Street
+25771,25771,Montlake Blvd NE & NE Wahkiakum Ln,,47.6545525,-122.302429,1,,0,,America/Los_Angeles,1,Montlake Boulevard Northeast and Northeast Wahkiakum Lane
+26535,26535,Westlake Ave N & Halladay St,,47.64217,-122.343422,1,,0,,America/Los_Angeles,1,Westlake Avenue North and Halladay Street
+26835,26835,Westlake Ave N & Halladay St,,47.6425591,-122.343475,1,,0,,America/Los_Angeles,1,Westlake Avenue North and Halladay Street
+26862,26862,Fremont Pl N & N 36th St,,47.6512718,-122.350975,1,,0,,America/Los_Angeles,0,Fremont Place North and North 36th Street
+26868,26868,N 35th St & Fremont Ave N,,47.6503296,-122.349075,1,,0,,America/Los_Angeles,0,North 35th Street and Fremont Avenue North
+30636,30636,4th Ave S & I-90 Ramp,,47.5946274,-122.329147,1,,0,,America/Los_Angeles,1,4th Avenue South and Interstate 90 Ramp
+312,312,2nd Ave & University St,,47.6069069,-122.336853,21,,0,,America/Los_Angeles,1,2nd Avenue and University Street
+35236,35236,30th Ave NE & Lake City Way NE,,47.718235,-122.296455,1,,0,,America/Los_Angeles,1,30th Avenue Northeast and Lake City Way Northeast
+35237,35237,30th Ave NE & Lake City Way NE,,47.7182312,-122.296249,1,,0,,America/Los_Angeles,1,30th Avenue Northeast and Lake City Way Northeast
+35911,35911,Judkins Park Station - Bay 1,,47.5901718,-122.307289,1,,0,,America/Los_Angeles,1,Judkins Park Station Bay One
+35922,35922,Judkins Park Station - Bay 2,,47.5906944,-122.307465,1,,0,,America/Los_Angeles,1,Judkins Park Station Bay Two
+35923,35923,23rd Ave S & S Massachusetts St - Bay 3,,47.5897484,-122.30233,1,,0,,America/Los_Angeles,1,23rd Avenue South and South Massachusetts Street - Bay 3
+35924,35924,23rd Ave S & S Judkins St - Bay 4,,47.5909081,-122.302086,1,,0,,America/Los_Angeles,1,23rd Avenue South and South Judkins Street - Bay 4
+43027,43027,N 130th St & Meridian Ave N,,47.7231331,-122.333588,1,,0,,America/Los_Angeles,1,North 130th Street and Meridian Avenue North
+43028,43028,N 130th St & 1st Ave NE,,47.7232361,-122.329407,1,,0,,America/Los_Angeles,1,North 130th Street and 1st Avenue Northeast
+43029,43029,NE 130th St & 1st Ave NE,,47.7230949,-122.328438,1,,0,,America/Los_Angeles,1,North 130th Street and 1st Avenue Northeast
+43031,43031,NE 130th St & 5th Ave NE,,47.7230568,-122.323845,1,,0,,America/Los_Angeles,1,North 130th Street and 5th Avenue Northeast
+43032,43032,Roosevelt Way NE & 5th Ave NE,,47.723011,-122.323189,1,,0,,America/Los_Angeles,1,Roosevelt Way Northeast and 5th Avenue Northeast
+43033,43033,Roosevelt Way NE & 8th Ave NE,,47.7211685,-122.320541,1,,0,,America/Los_Angeles,1,Roosevelt Way Northeast and 8th Avenue Northeast
+43034,43034,Roosevelt Way NE & 8th Ave NE,,47.7212677,-122.320404,1,,0,,America/Los_Angeles,1,Roosevelt Way Northeast and 8th Avenue Northeast
+43036,43036,NE 125th St & 11th Ave NE,,47.7196236,-122.31752,1,,0,,America/Los_Angeles,1,Roosevelt Way Northeast and 10th Avenue Northeast
+50011,50011,Kent Des Moines Station - Bay 2,,47.3894539,-122.294586,24,,0,,America/Los_Angeles,1,Kent Des Moines Station - Bay 2
+50013,50013,Kent Des Moines Station - Bay 4,,47.3896065,-122.29528,24,,0,,America/Los_Angeles,1,Kent Des Moines Station Bay Four
+50014,50014,Kent Des Moines Station - Bay 3,,47.389595,-122.294868,24,,0,,America/Los_Angeles,1,Kent Des Moines Station - Bay 3
+50500,50500,S 240th St & 26th Pl S,,47.3865852,-122.299599,24,,0,,America/Los_Angeles,1,South 240th Street and 26th Place South
+53382,53382,Military Rd S & S 170th St,,47.4514885,-122.278877,24,,0,,America/Los_Angeles,1,Military Road South and South 170th Street
+53384,53384,Military Rd S & S 166th St,,47.454422,-122.280472,24,,0,,America/Los_Angeles,1,Military Road South and South 166th Street
+53541,53541,Star Lake Station & S 270th St - Bay 1,,47.3592911,-122.297684,24,,0,,America/Los_Angeles,0,Star Lake Station and South 270th Street - Bay 1
+53542,53542,Star Lake Station & S 270th St - Bay 2,,47.3594398,-122.297592,24,,0,,America/Los_Angeles,0,Star Lake Station and South 270th Street - Bay 2
+55298,55298,S Leo St & Beacon Ave S,,47.5025558,-122.269508,1,,0,,America/Los_Angeles,0,South Leo Street and Beacon Avenue South
+55566,55566,152nd Ave NE & Da Vinci Ave NE - Bay 1,,47.6366844,-122.137779,19,,0,,America/Los_Angeles,1,152nd Avenue Northeast and Da Vinci Avenue Northeast - Bay 1
+56886,56886,Patriot Way SE & SE 134th St,,47.4829674,-122.116455,40,,0,,America/Los_Angeles,1,Patriot Way Southeast and Southeast 134th Street
+59048,59048,124th Ave SE & SE 320th St,,47.3160057,-122.176529,24,,0,,America/Los_Angeles,1,124th Avenue Southeast and Southeast 320th Street
+59241,59241,116th Ave SE & SE 319 Ct,,47.3162384,-122.186966,24,,0,,America/Los_Angeles,1,116th Avenue Southeast and Southeast 319 Court
+59242,59242,SE 316th St & 117th Ave SE,,47.3188934,-122.185135,24,,0,,America/Los_Angeles,1,Southeast 316th Street and 117th Avenue Southeast
+60502,60502,132nd Ave SE & SE Kent-Kangley Rd,,47.3570633,-122.16555,24,,0,,America/Los_Angeles,1,132nd Avenue Southeast and Southeast Kent-Kangley Road
+61391,61391,SW 342nd St & 35th Ave SW,,47.2953949,-122.377434,24,,0,,America/Los_Angeles,1,Southwest 342nd Street and 35th Avenue Southwest
+61392,61392,SW 342nd St & 39th Ave SW,,47.2955627,-122.381821,24,,0,,America/Los_Angeles,1,Southwest 342nd Street and 39th Avenue Southwest
+61393,61393,Hoyt Rd SW & SW 338th St,,47.2991638,-122.384796,24,,0,,America/Los_Angeles,1,Hoyt Road Southwest and Southwest 338th Street
+61394,61394,Hoyt Rd SW & SW 332nd Pl,,47.3042336,-122.387558,24,,0,,America/Los_Angeles,1,Hoyt Road Southwest and Southwest 332nd Place
+61395,61395,Hoyt Rd SW & SW 329th Way,,47.3076134,-122.389145,24,,0,,America/Los_Angeles,1,Hoyt Road Southwest and Southwest 329th Way
+61396,61396,Hoyt Rd SW & SW 326th St,,47.3096619,-122.389526,24,,0,,America/Los_Angeles,1,Hoyt Road Southwest and Southwest 326th Street
+61397,61397,Hoyt Rd SW & SW 323rd St,,47.3123322,-122.392365,24,,0,,America/Los_Angeles,1,Hoyt Road Southwest and Southwest 323rd Street
+61398,61398,SW 320th St & 43rd Pl SW,,47.3151283,-122.387909,24,,0,,America/Los_Angeles,1,Southwest 320th Street and 43rd Place Southwest
+61401,61401,SW 320th St & 47th Ave SW,,47.3151436,-122.392326,24,,0,,America/Los_Angeles,1,Southwest 320th Street and 47th Avenue Southwest
+61402,61402,SW 320th St & 41st Ave SW,,47.3151169,-122.384705,24,,0,,America/Los_Angeles,1,Southwest 320th Street and 41st Avenue Southwest
+61403,61403,SW 320th St & 36th Ave SW,,47.3139572,-122.379578,24,,0,,America/Los_Angeles,1,Southwest 320th Street and 36th Avenue Southwest
+61404,61404,SW 320th St & SW 323rd St,,47.3140373,-122.374184,24,,0,,America/Los_Angeles,1,Southwest 320th Street and Southwest 323rd Street
+61417,61417,SW 320th St & 42nd Pl SW,,47.315258,-122.387451,24,,0,,America/Los_Angeles,1,Southwest 320th Street and 42nd Place Southwest
+61455,61455,39th Ave SW & SW 340th St,,47.2970276,-122.382164,24,,0,,America/Los_Angeles,1,39th Avenue Southwest and Southwest 340th Street
+61481,61481,SW 320th St & 25th Ave SW,,47.3152542,-122.364975,24,,0,,America/Los_Angeles,1,Southwest 320th Street and 25th Avenue Southwest
+61483,61483,26th Ave SW & SW 323rd St,,47.3109474,-122.366371,24,,0,,America/Los_Angeles,1,26th Avenue Southwest and Southwest 323rd Street
+61484,61484,SW 327th St & 26th Ave SW,,47.3088913,-122.366699,24,,0,,America/Los_Angeles,1,Southwest 327th Street and 26th Avenue Southwest
+61485,61485,SW 327th St & 30th Ave SW,,47.309597,-122.371918,24,,0,,America/Los_Angeles,1,Southwest 327th Street and 30th Avenue Southwest
+61486,61486,SW 325th St & 32nd Ave SW,,47.3111725,-122.374008,24,,0,,America/Los_Angeles,1,Southwest 325th Street and 32nd Avenue Southwest
+61487,61487,35th Ave SW & SW 327th St,,47.3094521,-122.377037,24,,0,,America/Los_Angeles,1,35th Avenue Southwest and Southwest 327th Street
+61488,61488,35th Ave SW & SW 328th Pl,,47.3074226,-122.376999,24,,0,,America/Los_Angeles,1,35th Avenue Southwest and Southwest 328th Place
+61489,61489,35th Ave SW & SW 332nd Pl,,47.3038406,-122.376602,24,,0,,America/Los_Angeles,1,35th Avenue Southwest and Southwest 332nd Place
+61491,61491,35th Ave SW & SW 336th St,,47.3004189,-122.376915,24,,0,,America/Los_Angeles,1,35th Avenue Southwest and Southwest 336th Street
+61492,61492,35th Ave SW & SW 340th St,,47.2968369,-122.37693,24,,0,,America/Los_Angeles,1,35th Avenue Southwest and Southwest 340th Street
+61522,61522,SW 320th St & 26th Ave SW,,47.3151245,-122.366409,24,,0,,America/Los_Angeles,1,Southwest 320th Street and 26th Avenue Southwest
+61737,61737,S 312th St & 8th Ave S,,47.3224831,-122.323151,24,,0,,America/Los_Angeles,1,South 312th Street and 8th Avenue South
+61738,61738,35th Ave SW & SW 340th St,,47.2974434,-122.37674,24,,0,,America/Los_Angeles,1,35th Avenue Southwest and Southwest 340th Street
+61739,61739,35th Ave SW & SW 325th St,,47.3109818,-122.376999,24,,0,,America/Los_Angeles,1,35th Avenue Southwest and Southwest 325th Street
+61747,61747,S 312th St & 1st Ave S,,47.322464,-122.334251,24,,0,,America/Los_Angeles,1,South 312th Street and 1st Avenue South
+61748,61748,1st Ave S & SW 308th St,,47.3259277,-122.334557,24,,0,,America/Los_Angeles,1,1st Avenue South and Southwest 308th Street
+61749,61749,S 312th St & 8th Ave S,,47.3223457,-122.323792,24,,0,,America/Los_Angeles,1,South 312th Street and 8th Avenue South
+61751,61751,1st Ave S & SW 301st St,,47.3320351,-122.334457,24,,0,,America/Los_Angeles,1,1st Avenue South and Southwest 301st Street
+61752,61752,1st Ave S & SW 304th St,,47.329525,-122.334541,24,,0,,America/Los_Angeles,1,1st Avenue South and Southwest 304th Street
+61755,61755,1st Ave S & SW 308th St,,47.3257217,-122.334763,24,,0,,America/Los_Angeles,1,1st Avenue South and Southwest 308th Street
+61756,61756,S 312th St & 1st Ave S,,47.3223228,-122.334091,24,,0,,America/Los_Angeles,1,South 312th Street and 1st Avenue South
+61763,61763,35th Ave SW & SW 340th St,,47.2974434,-122.376945,24,,0,,America/Los_Angeles,1,35th Avenue Southwest and Southwest 340th Street
+61764,61764,S 312th St & 6th Ave S,,47.3223305,-122.326904,24,,0,,America/Los_Angeles,1,South 312th Street and 6th Avenue South
+61765,61765,S 312th St & 10th Ave S,,47.3223534,-122.320099,24,,0,,America/Los_Angeles,1,South 312th Street and 10th Avenue South
+61766,61766,S 312th St & 13th Ave S,,47.3223381,-122.316292,24,,0,,America/Los_Angeles,1,South 312th Street and 13th Avenue South
+61767,61767,SW 320th St & 30th Ave SW,,47.3151169,-122.370575,24,,0,,America/Los_Angeles,1,Southwest 320th Street and 30th Avenue Southwest
+61831,61831,SW Dash Point Rd & 12th Ave SW,,47.3286591,-122.349648,24,,0,,America/Los_Angeles,1,Southwest Dash Point Road and 12th Avenue Southwest
+61832,61832,SW Dash Point Rd & 8th Ave SW,,47.3310165,-122.345665,24,,0,,America/Los_Angeles,2,Southwest Dash Point Road and 8th Avenue Southwest
+61833,61833,SW Dash Point Rd & 4th Ave SW,,47.3323135,-122.340248,24,,0,,America/Los_Angeles,1,Southwest Dash Point Road and 4th Avenue Southwest
+61835,61835,SW Dash Point Rd & SW 312th St,,47.3228989,-122.355766,24,,0,,America/Los_Angeles,1,Southwest Dash Point Road and Southwest 312th Street
+61836,61836,21st Ave SW & SW Dash Point Rd,,47.3203888,-122.360916,24,,0,,America/Los_Angeles,1,21st Avenue Southwest and SW Dash Point Road
+61866,61866,21st Ave SW & SW 320th St,,47.3154907,-122.360855,24,,0,,America/Los_Angeles,1,21st Avenue Southwest and Southwest 320th Street
+61867,61867,SW Dash Point Rd & 21st Ave SW,,47.3209877,-122.359894,24,,0,,America/Los_Angeles,1,Southwest Dash Point Road and 21st Avenue Southwest
+61868,61868,SW Dash Point Rd & SW 312th St,,47.3226814,-122.355743,24,,0,,America/Los_Angeles,1,Southwest Dash Point Road and Southwest 312th Street
+64445,64445,Lake Dr & 12th Ave NW,,47.5499535,-122.056664,19,,0,,America/Los_Angeles,1,Lake Drive and 12th Avenue Northwest
+64446,64446,12th Ave NW & Lake Dr,,47.5502052,-122.057167,19,,0,,America/Los_Angeles,1,12th Avenue Northwest and Lake Drive
+64453,64453,Lake Dr & 11th Ave NW,,47.549839,-122.054337,19,,0,,America/Los_Angeles,1,Lake Drive and 11th Avenue Northwest
+64469,64469,Lake Dr & 11th Ave NW,,47.5498466,-122.055008,19,,0,,America/Los_Angeles,1,Lake Drive and 11th Avenue Northwest
+64576,64576,10th Ave NW & Lake Dr,,47.5508575,-122.049957,19,,0,,America/Los_Angeles,1,10th Avenue Northwest and Lake Drive
+64587,64587,10th Ave NW & NW Sammamish Rd,,47.5516586,-122.049843,19,,0,,America/Los_Angeles,1,10th Avenue Northwest and Northwest Sammamish Road
+65026,65026,SE Newport Way & Lakemont Blvd SE,,47.5609665,-122.092728,19,,0,,America/Los_Angeles,1,Southeast Newport Way and Lakemont Boulevard Southeast
+65027,65027,SE Newport Way & Lakemont Blvd SE,,47.5605125,-122.092125,19,,0,,America/Los_Angeles,1,Southeast Newport Way and Lakemont Boulevard Southeast
+65934,65934,NE 24th St & 92nd Ave NE,,47.6320229,-122.218002,19,,0,,America/Los_Angeles,0,Northeast 24th Street and 92nd Avenue Northeast
+65935,65935,NE 24th St & 92nd Ave NE,,47.6318855,-122.217934,19,,0,,America/Los_Angeles,0,Northeast 24th Street and 92nd Avenue Northeast
+65938,65938,92nd Ave NE & NE 32nd St,,47.6391487,-122.217606,19,,0,,America/Los_Angeles,0,92nd Avenue Northeast and Northeast 32nd Street
+68083,68083,NE 8th St & 118th Ave NE - Bay 1,,47.617363,-122.183884,19,,0,,America/Los_Angeles,1,Northeast 8th Street and 118th Avenue Northeast Bay One
+71514,71514,180th Ave NE & NE 30th St,,47.6370392,-122.100388,19,,0,,America/Los_Angeles,0,180th Avenue Northeast and Northeast 30th Street
+71515,71515,180th Ave NE & NE 28th St,,47.6349525,-122.100212,19,,0,,America/Los_Angeles,0,180th Avenue Northeast and Northeast 28th Street
+72498,72498,Redmond Ridge Dr NE & NE Marketplace Dr,,47.6951485,-122.036705,40,,0,,America/Los_Angeles,1,Redmond Ridge Drive Northeast and Northeast Marketplace Drive
+72499,72499,Redmond Ridge Dr NE & NE Marketplace Dr,,47.6950645,-122.03688,40,,0,,America/Los_Angeles,1,Redmond Ridge Drive Northeast and Northeast Marketplace Drive
+72974,72974,NE 24th St & 84th Ave NE,,47.6318741,-122.22747,19,,0,,America/Los_Angeles,1,Northeast 24th Street and 84th Avenue Northeast
+72998,72998,University Way NE & NE Pacific St,,47.6535606,-122.313438,1,,0,,America/Los_Angeles,1,University Way Northeast and Northeast Pacific Street
+74222,74222,NE 132nd St & 118th Ave NE,,47.7184486,-122.182899,19,,0,,America/Los_Angeles,1,Northeast 132nd Street and 118th Avenue Northeast
+75171,75171,N 143rd St & Linden Ave N,,47.7322464,-122.348587,1,,0,,America/Los_Angeles,1,North 143rd Street and Linden Avenue North
+77461,77461,15th Ave NE & NE 179th St,,47.7583122,-122.31337,18,,0,,America/Los_Angeles,1,15th Avenue Northesast and Northeast 179th Street
+77591,77591,NE 155th St & 6th Ave NE,,47.7412415,-122.322647,18,,0,,America/Los_Angeles,1,Northeast 155th Street and 6th Avenue Northeast
+77592,77592,NE 155th St & 8th Ave NE,,47.7412186,-122.320564,18,,0,,America/Los_Angeles,1,Northeast 155th Street and 8th Avenue Northeast
+77593,77593,NE 155th St & 12th Ave NE,,47.7411613,-122.315323,18,,0,,America/Los_Angeles,1,Northeast 155th Street and 12th Avenue Northeast
+77594,77594,NE 150th St & 15th Ave NE,,47.7374992,-122.312317,18,,0,,America/Los_Angeles,1,Northeast 150th Street and 15th Avenue Northeast
+77597,77597,NE 155th St & 15th Ave NE,,47.7412758,-122.31356,18,,0,,America/Los_Angeles,1,Northeast 155th Street and 15th Avenue Northeast
+77599,77599,NE 155th St & 8th Ave NE,,47.7413635,-122.321411,18,,0,,America/Los_Angeles,1,Northeast 155th Street and 8th Avenue Northeast
+77602,77602,25th Ave NE & NE 150th St,,47.7373085,-122.301895,18,,0,,America/Los_Angeles,1,25th Avenue Northeast and Northeast 150th Street
+77603,77603,25th Ave NE & NE 147th St,,47.735424,-122.301865,18,,0,,America/Los_Angeles,0,25th Avenue Northeast and Northeast 147th Street
+79984,79984,S 164th St & 44th Ct S,,47.4561958,-122.27594,24,,0,,America/Los_Angeles,1,South 164th Street and 44th Court South
+80201,80201,S 164th St & Military Rd S,,47.4562111,-122.280487,24,,0,,America/Los_Angeles,1,South 164th Street and Military Road South
+81295,81295,1st Ave NE & N 145th St,,47.7332687,-122.328773,1,,0,,America/Los_Angeles,1,1st Avenue Northeast and North 145th Street
+81303,81303,Shoreline South/148th Station - Bay 3,,47.7357445,-122.324867,18,,0,,America/Los_Angeles,0,Shoreline South slash 148th Station Bay Three
+82111,82111,NE 145th St & Bothell Way NE,,47.7338295,-122.293449,20,,0,,America/Los_Angeles,1,Northeast 145th Street and Bothell Way Northeast
+82735,82735,Main St & 110th Pl SE,,47.6100121,-122.192749,19,,0,,America/Los_Angeles,1,Main Street and 110th Place Southeast
+96060,96060,25th Ave NE & NE 147th St,,47.7352829,-122.302071,18,,0,,America/Los_Angeles,1,25th Avenue Northeast and Northeast 147th Street
+98330,98330,University Way NE & NE Pacific St,,47.6539497,-122.313217,1,,0,,America/Los_Angeles,1,University Way Northeast and Northeast Pacific Street
+99500,99500,W Mcgraw St & 31st Ave W,,47.6396255,-122.397446,1,,0,,America/Los_Angeles,1,West Mcgraw Street and 31st Avenue West
